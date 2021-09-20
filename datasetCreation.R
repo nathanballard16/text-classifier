@@ -12,20 +12,25 @@
 #################################################################################################
 
 # Installs
-# install.packages("readtext", dependencies=T)
+install.packages("readtext", dependencies=T)
+install.packages("magrittr") # package installations are only needed the first time you use it
+install.packages("dplyr")    # alternative installation of the %>%
+
 
 # Imports
 library(readtext)
+library(magrittr) # needs to be run every time you start R and want to use %>%
+library(dplyr)    # alternatively, this also loads %>%
 
 
 # Cleaning environment data
 rm(list = ls())
 
 # Working directory
-setwd('PATH FOR WORKING DIRECTORY')
+setwd('D:/Graduate School/text-classifier')
 
 # Path definition of the news archives
-path <- 'LOCATION OF DOCUMENT TEXTFILE'
+path <- 'D:/Graduate School/text-classifier/data/bbc'
 
 # List with the 5 categories
 list_categories <- list.files(path=path)
@@ -64,12 +69,12 @@ df_final <-
 
 # Save dataset: .rda
 # TODO: Rename DATASET/change DATASET location
-save(df_final, file='Dataset.rda')
+save(df_final, file='data/Dataset.rda')
 
 # Load dataset
 # TODO: if dataset changes above change it here
-load(file='Dataset.rda')
+load(file='data/Dataset.rda')
 
 # Write csv to import to python
 # TODO: change name of final saved dataset 
-write.csv2(df_final,fileEncoding = 'utf8', "FINAL NAME OF DATA SET [CSV]", row.names = FALSE)
+write.csv2(df_final,fileEncoding = 'utf8', "data/News_dataset.csv", row.names = FALSE)

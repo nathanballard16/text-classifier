@@ -9,6 +9,7 @@ __pycache__/
 # Other extensions
 *.xml
 *.iml
+*.zip
 
 # Distribution / packaging
 .Python
