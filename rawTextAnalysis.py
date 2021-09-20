@@ -1,5 +1,6 @@
 # TODO: Any graph you do not want to visualize you can comment out that set of code
 
+# TODO: Find a way to save the figures to a folder
 import pandas as pd
 import matplotlib.pyplot as plt
 import pickle
@@ -8,7 +9,7 @@ import seaborn as sns
 sns.set_style("whitegrid")
 import altair as alt
 
-alt.renderers.enable("notebook")
+# alt.renderers.enable("notebook")
 
 # Code for hiding seaborn warnings
 import warnings
@@ -17,8 +18,8 @@ warnings.filterwarnings("ignore")
 
 # Load Dataset
 # TODO: PLACE DATASET LOCATION/DATASET FILE HERE **Must be a CSV FILE**
-df_path = "PATH TO DATASET"
-df_path2 = df_path + 'DATASET FILE'
+df_path = "D:/Graduate School/text-classifier/data/"
+df_path2 = df_path + 'News_dataset.csv'
 df = pd.read_csv(df_path2, sep=';')
 
 # Create a graph to see how many articles exist per category
@@ -94,14 +95,14 @@ print(len(df_more10k))
 # df_more10k['Content'].iloc[0]
 
 # Graph full set based off of article length
-plt.figure(figsize=(12.8,6))
+plt.figure(figsize=(12.8, 6))
 sns.boxplot(data=df, x='Category', y='News_length', width=.5)
 
 # Graph set off reduced article length [REMEMBER ALL OF THIS CAN BE CHANGED]
-plt.figure(figsize=(12.8,6))
+plt.figure(figsize=(12.8, 6))
 sns.boxplot(data=df_95, x='Category', y='News_length')
 
 # Save the dataset as a pickle to begin the raw text analysis to prepare for training
 # TODO: REPLACE FILE NAME AND LOCATION
-with open('FILE NAME', 'wb') as output:
+with open('data/News_dataset.pickle', 'wb') as output:
     pickle.dump(df, output)
