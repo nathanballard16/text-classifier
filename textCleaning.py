@@ -9,6 +9,9 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.model_selection import train_test_split
 from sklearn.feature_selection import chi2
 import numpy as np
+import warnings
+warnings.simplefilter(action='ignore', category=FutureWarning)
+
 np.set_printoptions(threshold=sys.maxsize)
 
 # load the dataset
