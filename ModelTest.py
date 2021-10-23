@@ -77,7 +77,7 @@ def create_features_from_text(text):
         regex_stopword = r"\b" + stop_word + r"\b"
         df['Content_Parsed_6'] = df['Content_Parsed_6'].str.replace(regex_stopword, '')
     df = df['Content_Parsed_6']
-    #df.to_csv('np.txt', sep='\t', index=False)
+    # df.to_csv('np.txt', sep='\t', index=False)
     # df = df.rename(columns={'Content_Parsed_6': 'Content_Parsed'})
     # df.rename(index=str, columns={'Content_Parsed_6': 'Content_Parsed'})
 
@@ -169,3 +169,4 @@ predict_from_text_knnc(text)
 predict_from_text_lrc(text)
 predict_from_text_mnbc(text)
 predict_from_text_rfc(text)
+
