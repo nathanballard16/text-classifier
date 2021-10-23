@@ -7,15 +7,31 @@ from nltk.corpus.reader import wordnet
 from nltk.stem import WordNetLemmatizer
 from sklearn.feature_extraction.text import TfidfVectorizer
 import warnings
-warnings.simplefilter(action='ignore', category=FutureWarning)
 
+warnings.simplefilter(action='ignore', category=FutureWarning)
 
 path_models = "models/"
 
 # SVM
 path_svm = path_models + 'best_svc.pickle'
+path_gbc = path_models + 'best_gbc.pickle'
+path_knnc = path_models + 'best_knnc.pickle'
+path_lrc = path_models + 'best_lrc.pickle'
+path_mnbc = path_models + 'best_mnbc.pickle'
+path_rfc = path_models + 'best_rfc.pickle'
+
 with open(path_svm, 'rb') as data:
     svc_model = pickle.load(data)
+with open(path_gbc, 'rb') as data:
+    gbc_model = pickle.load(data)
+with open(path_knnc, 'rb') as data:
+    knnc_model = pickle.load(data)
+with open(path_lrc, 'rb') as data:
+    lrc_model = pickle.load(data)
+with open(path_mnbc, 'rb') as data:
+    mnbc_model = pickle.load(data)
+with open(path_rfc, 'rb') as data:
+    rfc_model = pickle.load(data)
 
 path_tfidf = "train_test/tfidf.pickle"
 with open(path_tfidf, 'rb') as data:
@@ -61,7 +77,7 @@ def create_features_from_text(text):
         regex_stopword = r"\b" + stop_word + r"\b"
         df['Content_Parsed_6'] = df['Content_Parsed_6'].str.replace(regex_stopword, '')
     df = df['Content_Parsed_6']
-    df.to_csv('np.txt', sep='\t', index=False)
+    #df.to_csv('np.txt', sep='\t', index=False)
     # df = df.rename(columns={'Content_Parsed_6': 'Content_Parsed'})
     # df.rename(index=str, columns={'Content_Parsed_6': 'Content_Parsed'})
 
@@ -77,25 +93,79 @@ def get_category_name(category_id):
             return category
 
 
-def predict_from_text(text):
+def predict_from_text_svc(text):
     # Predict using the input model
     prediction_svc = svc_model.predict(create_features_from_text(text))[0]
     prediction_svc_proba = svc_model.predict_proba(create_features_from_text(text))[0]
-
-
-# Return result
+    # Return result
     category_svc = get_category_name(prediction_svc)
-
     print("The predicted category using the SVM model is %s." % (category_svc))
     print("The conditional probability is: %a" % (prediction_svc_proba.max() * 100))
+    print()
+
+
+def predict_from_text_gbc(text):
+    # Predict using the input model
+    prediction_gbc = gbc_model.predict(create_features_from_text(text))[0]
+    prediction_gbc_proba = gbc_model.predict_proba(create_features_from_text(text))[0]
+    # Return result
+    category_gbc = get_category_name(prediction_gbc)
+    print("The predicted category using the GBC model is %s." % (category_gbc))
+    print("The conditional probability is: %a" % (prediction_gbc_proba.max() * 100))
+    print()
+
+
+def predict_from_text_knnc(text):
+    # Predict using the input model
+    prediction_knnc = knnc_model.predict(create_features_from_text(text))[0]
+    prediction_knnc_proba = knnc_model.predict_proba(create_features_from_text(text))[0]
+    # Return result
+    category_knnc = get_category_name(prediction_knnc)
+    print("The predicted category using the KNNC model is %s." % (category_knnc))
+    print("The conditional probability is: %a" % (prediction_knnc_proba.max() * 100))
+    print()
+
+
+def predict_from_text_lrc(text):
+    # Predict using the input model
+    prediction_lrc = lrc_model.predict(create_features_from_text(text))[0]
+    prediction_lrc_proba = lrc_model.predict_proba(create_features_from_text(text))[0]
+    # Return result
+    category_lrc = get_category_name(prediction_lrc)
+    print("The predicted category using the LRC model is %s." % (category_lrc))
+    print("The conditional probability is: %a" % (prediction_lrc_proba.max() * 100))
+    print()
+
+
+def predict_from_text_mnbc(text):
+    # Predict using the input model
+    prediction_mnbc = mnbc_model.predict(create_features_from_text(text))[0]
+    prediction_mnbc_proba = mnbc_model.predict_proba(create_features_from_text(text))[0]
+    # Return result
+    category_mnbc = get_category_name(prediction_mnbc)
+    print("The predicted category using the MNBC model is %s." % (category_mnbc))
+    print("The conditional probability is: %a" % (prediction_mnbc_proba.max() * 100))
+    print()
+
+
+def predict_from_text_rfc(text):
+    # Predict using the input model
+    prediction_rfc = rfc_model.predict(create_features_from_text(text))[0]
+    prediction_rfc_proba = rfc_model.predict_proba(create_features_from_text(text))[0]
+    # Return result
+    category_rfc = get_category_name(prediction_rfc)
+    print("The predicted category using the RFC model is %s." % (category_rfc))
+    print("The conditional probability is: %a" % (prediction_rfc_proba.max() * 100))
+    print()
 
 
 with open('data/testArticle.txt', encoding="utf8") as f:
     lines = f.readlines()
 text = ' '.join([str(elem) for elem in lines])
-# print(text)
 
-predict_from_text(text)
-
-# The predicted category using the SVM model is politics.
-# The conditional probability is: 93.0140704529824
+predict_from_text_svc(text)
+predict_from_text_gbc(text)
+predict_from_text_knnc(text)
+predict_from_text_lrc(text)
+predict_from_text_mnbc(text)
+predict_from_text_rfc(text)
