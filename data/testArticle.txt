@@ -1,55 +1,11 @@
-WASHINGTON (AP) — The White House and congressional Democrats have agreed to a framework of options to pay for their huge, emerging social and environment bill, top Democrats said Thursday. Now they face the daunting task of narrowing the menu to tax possibilities they can pass to fund President Joe Biden’s $3.5 trillion plan.
+LONDON (AP) — The European Union announced plans Thursday to require the smartphone industry to adopt a uniform charging cord for mobile devices, a push that could eliminate the all-too-familiar experience of rummaging through a drawer full of tangled cables to find the right one.
 
-Senate Majority Leader Chuck Schumer of New York and House Speaker Nancy Pelosi of California announced the progress as Biden administration officials and Democratic congressional leaders negotiated behind the scenes. The package aims to rewrite tax and spending priorities to expand programs for Americans of all ages, while upping efforts to tackle income inequality and fight climate change.
+The European Commission, the bloc’s executive arm, proposed legislation that would mandate USB-C cables for charging, technology that many device makers have already adopted. The main holdout is Apple, which said it was concerned the new rules would limit innovation, and that would end up hurting consumers. iPhones come with the company’s own Lightning charging port, though the newest models come with cables that can be plugged into a USB-C socket.
 
-Staring down a self-imposed Monday deadline, lawmakers said they would work nonstop to find agreement on specifics. Democrats’ views on those vary widely, though they largely agree with Biden’s idea of raising taxes on corporations and the wealthy to fund the package.
+The push by the EU will certainly be cheered by the millions of people who have searched through a jumble of snarled cables for the one that fits their phone. But the EU also wants to cut down on the 11,000 metric tons of electronic waste thrown out every year by Europeans.
 
-“We certainly think it’s progress,” Biden press secretary Jen Pskai said at the White House.
+The commission said the typical EU resident owns at least three chargers, and use two regularly, but 38% of people report not being able to charge their phones at least once because they couldn’t find a compatible charger. Some 420 million mobile phones or portable electronic devices were sold in the EU last year.
 
-Biden has been putting his shoulder into the negotiations, inviting more than 20 of his party’s moderate and progressive lawmakers to the White House for lengthy meetings this week. He’s working to close the deal with Congress on his “Build Back Better” agenda at a time when his presidential campaign promises are running into the difficulty of actually governing.
+The draft rules also call for standardizing fast charging technology and giving consumers the right to choose whether to buy new devices with or without a charger, which the EU estimates will save consumers 250 million euros ($293 million) a year.
 
-But the party has been divided over many of the details.
-
-Moderate Democrats, most prominently Sens. Joe Manchin of West Virginia and Kyrsten Sinema of Arizona, are demanding that the massive dollar total be reduced. The revenue options to pay for it — that mostly means taxes — being considered can be dialed up or down, the leaders say. The ultimate price tag may certainly slip from the much-publicized $3.5 trillion.
-
-Republicans are solidly opposed to the package, calling it a “reckless tax and spending spree.” So Democrats will have to push it it through Congress on their own, which is only possible if they limit their defections to a slim few in the House and none in the Senate.
-
-“We’re proceeding,” Pelosi said. “We intend to stay the course and pass the bill as soon as possible.”
-
-The congressional leaders huddled early Thursday with the chairmen of the tax writing committees to agree to the framework, pulling from work already being done on those panels. They are intent on sticking to Biden’s pledge not to raise taxes on people making less than $400,000 a year.
-
-Rep. Richard Neal, D-Mass., the chairman of the House Ways & Means Committee, has already drafted his version, which would raise about $2.3 trillion by hiking corporate tax rates to 26.5% for businesses earning more than $5 million a year and increasing the top individual tax from 37% to 39.6% for those earning more than $400,000, or $450,000 for married households.
-
-The House panel’s bill also includes a 3% surtax on the adjusted incomes of very wealthy people making more than $5 million a year.
-
-The Senate Finance Committee under Sen. Ron Wyden has not yet passed its bill, but has been eyeing proposals that further target the superrich including efforts to curtail practices used to avoid paying taxes.
-
-“I’m not going to get into any specific stuff today, but I’ve made it very clear as chairman of the Finance Committee a billionaire’s tax will be on the menu,” Wyden said.
-
-Those tax goals align with the Biden administration, which is marshaling arguments that the increases are fundamentally about fairness at a time of gaping income inequality.
-
-According to a new analysis released Thursday by the White House, the wealthiest 400 families worth more than a billion dollars paid an average tax rate of just 8.2% between 2010 and 2018. Treasury Department tables show that is lower than the average tax rate of families with an income of roughly $142,000.
-
-The analysis suggests two clear reasons why billionaires pay a lower rate than the upper middle class: They derive income from stocks, dividends and other assets that are taxed at lower rates and they can permanently avoid paying tax on certain investment gains that by law are excluded from taxable income.
-
-Without divulging a framework, Wyden indicated he is in agreement with the House’s plans for certain retirement savings accounts used by the wealthy to shield liabilities.
-
-Targeting “Mega IRAs,” Democrats hope to correct what they see as a flaw in the retirement savings system enabling billionaires to amass millions in independent retirement accounts without ever paying taxes. Under some proposals, individuals earning beyond $400,000 would be barred from contributing to their IRAs once their account balances top $10 million.
-
-The Biden administration has also shown interest in one climate change tax — a so-called pollution importer fee, which would essentially impose a tariff on goods coming from countries without certain emissions controls — and seen as a way to pressure China.
-
-Gaining less traction seems to be a carbon tax that could fall on households and stray from Biden’s pledge not to tax those earning less than $400,000.
-
-Another big unknown: Whether Democrats can coalesce around a plan to rein in prescription drug costs, which could save the government hundreds of billions that could be used for Biden’s goals
-
-Thursday’s sudden announcement of framework options caught key lawmakers off guard, including Sen. Bernie Sanders, I-Vt., the chairman of the Budget Committee, and others playing leading roles in assembling one of the biggest bills Congress has ever attempted.
-
-Schumer later acknowledged about the emerging framework — “it’s hardly conclusory, but it was a good step of progress.”
-
-Yet the framework could help the congressional leaders show momentum as they head toward crucial deadlines and start to address concerns raised by Manchin and other moderates who want a more clear-cut view of what taxes are being considered before they move forward, aides said.
-
-On Monday, the House plans to begin considering a separate $1 trillion package of road and other infrastructure projects as a first test of Biden’s agenda. That public works bill has already passed the Senate, and Pelosi has agreed to schedule it for a House vote to assuage party moderates who badly want that legislation passed but are leery of supporting the larger $3.5 trillion measure.
-
-But progressives are threatening to defeat the public works bill as inadequate unless it is partnered with the broader package. To make sure both bills can pass, Democratic leaders are trying to reach agreement on the bigger bill.
-
-Meanwhile, the House and Senate remain at a standstill over a separate package to keep the government funded past the Sept. 30 fiscal year-end and to suspend the federal debt limit to avert a shutdown and a devastating U.S. default on payments. Senate Republicans are refusing to back that House-passed bill, despite the risk of triggering a fiscal crisis.
+After attempting for more than a decade to cajole the industry into adopting a common standard - efforts that whittled dozens of different charging plugs down to a handful - the EU’s executive Commission is pushing the issue.

@@ -1,5 +1,7 @@
 <h1>Below Are The Current Model Results And The Articles Tested Against</h1>
 
+<h3>** Currently optimizing and testing BERT model; All other models are up to date [10/25] **</h3>
+
 https://apnews.com/article/sports-steve-stricker-padraig-harrington-ryder-cup-curtis-strange-12f5c9c3307be2396ab9f0a5f4b36379
 
 The predicted category using the SVM model is sport.
@@ -22,6 +24,9 @@ The conditional probability is: 83.58333333333331
 
 The predicted category using the RNN model is sport.
 The conditional probability is: 83.69851
+
+The predicted category using the CNN model is sport.
+The conditional probability is: 97.85895347595215
 
 
 
@@ -48,6 +53,9 @@ The conditional probability is: 45.19791666666666
 The predicted category using the RNN model is entertainment.
 The conditional probability is: 75.38072
 
+The predicted category using the CNN model is entertainment.
+The conditional probability is: 83.60455632209778
+
 
 
 https://apnews.com/article/joe-biden-business-nancy-pelosi-10f0a84bc96fdaf86a92fa4d3ab69a5c
@@ -73,6 +81,8 @@ The conditional probability is: 56.19791666666665
 The predicted category using the RNN model is business.
 The conditional probability is: 59.615636
 
+The predicted category using the CNN model is politics.
+The conditional probability is: 53.89677882194519
 
 
 
@@ -99,6 +109,8 @@ The conditional probability is: 31.583333333333336
 The predicted category using the RNN model is business.
 The conditional probability is: 67.948747
 
+The predicted category using the CNN model is tech.
+The conditional probability is: 78.04757356643677
 
 
 https://apnews.com/article/lifestyle-technology-europe-business-smartphones-6c5089a53e67e5f4236294e872005e00
@@ -124,6 +136,8 @@ The conditional probability is: 56.32291666666664
 The predicted category using the RNN model is tech.
 The conditional probability is: 63.51678
 
+The predicted category using the CNN model is tech.
+The conditional probability is: 53.54708433151245
 
 
 
