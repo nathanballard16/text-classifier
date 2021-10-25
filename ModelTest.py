@@ -1,11 +1,18 @@
 import pickle
+
+import numpy as np
 import pandas as pd
 import nltk
+from keras_preprocessing.sequence import pad_sequences
 from nltk.corpus import stopwords
 from nltk.tokenize import punkt
 from nltk.corpus.reader import wordnet
 from nltk.stem import WordNetLemmatizer
 from sklearn.feature_extraction.text import TfidfVectorizer
+from keras.models import load_model
+from keras.preprocessing.text import Tokenizer
+import json
+from keras_preprocessing.text import tokenizer_from_json
 import warnings
 
 warnings.simplefilter(action='ignore', category=FutureWarning)
@@ -148,6 +155,38 @@ def predict_from_text_mnbc(text):
     print()
 
 
+def predict_from_text_cnn(text):
+    model = load_model('models/cnn_model/CNN.h5')
+    maxlen = 400
+    id_to_category = {0: 'business', 1: 'entertainment', 2: 'politics', 3: 'sport',
+                      4: 'tech'}
+
+    with open('models/cnn_model/tokenizer.json') as f:
+        data = json.load(f)
+        tokenizer = tokenizer_from_json(data)
+
+    my_input = [text]
+
+    input_sequences = tokenizer.texts_to_sequences(my_input)
+    input_pad = pad_sequences(input_sequences, padding='post', maxlen=maxlen)
+
+    preds = model.predict(input_pad)[0]
+
+    pred_classes = np.argsort(preds)[-10:][::-1]
+
+    classes = [id_to_category[i] for i in pred_classes]
+    props = preds[pred_classes]
+
+    # result = {}
+    # for c, p in zip(classes, props):
+    #     # result.append("{} {:.2f} %".format(c,p*100))
+    #     result[c] = round(p * 100, 2)
+    # print(result)
+    print("The predicted category using the CNN model is %s." % (classes[0]))
+    print("The conditional probability is: %a" % (props[0] * 100))
+    print()
+
+
 def predict_from_text_rfc(text):
     # Predict using the input model
     prediction_rfc = rfc_model.predict(create_features_from_text(text))[0]
@@ -169,4 +208,4 @@ predict_from_text_knnc(text)
 predict_from_text_lrc(text)
 predict_from_text_mnbc(text)
 predict_from_text_rfc(text)
-
+predict_from_text_cnn(text)
