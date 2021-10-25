@@ -244,7 +244,7 @@ classifier_model = build_classifier_model()
 # bert_raw_result = classifier_model(tf.constant(text_test))
 # print(tf.sigmoid(bert_raw_result))
 
-tf.keras.utils.plot_model(classifier_model)
+tf.keras.utils.plot_model(classifier_model, to_file='images/bert_model/BERT-model_plot.png')
 loss = tf.keras.losses.BinaryCrossentropy(from_logits=True)
 metrics = tf.metrics.BinaryAccuracy()
 
