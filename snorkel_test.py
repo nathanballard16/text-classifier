@@ -1,3 +1,6 @@
+'''
+https://medium.com/data-science-in-your-pocket/programmatically-labeling-data-using-snorkel-with-example-a6a322ef0f2c
+'''
 from gibberish import Gibberish
 import enchant
 import random
