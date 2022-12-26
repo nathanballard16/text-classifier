@@ -1,0 +1,8 @@
+Rules:
+  - Types:
+      location: Off
+      length: Off
+      common-words: Off
+  - Data:
+      folder: Off
+
