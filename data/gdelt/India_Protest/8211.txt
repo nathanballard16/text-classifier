@@ -1,0 +1,27 @@
+SmartDV Unveils First Verification IP to Support Ethernet TSN
+
+[May 23, 2019] SmartDV Unveils First Verification IP to Support Ethernet TSN
+
+SAN JOSE, Calif., May 23, 2019 (GLOBE NEWSWIRE) -- SmartDV™ Technologies , the Proven and Trusted choice for Verification intellectual property (IP), today unveiled Verification IP for Ethernet Time-Sensitive Networking (TSN), an update to the IEEE standard for time-sensitive transmission of data over Ethernet networks.
+
+The first Verification IP to support Ethernet TSN, it is fully compliant with IEEE 802.1 specifications that define various components of time-sensitive networking. “We have the background and experience for what it takes to design and verify the Ethernet protocol,” affirms Deepak Kumar Tala, managing director of SmartDV. “Members of our Ethernet Verification IP development group are experts in this area, having designed Ethernet products at leading network architecture companies. With their expertise and our proprietary compiler technology, developing Verification IP for the new Ethernet TSN standards was straightforward.” SmartDV’s Ethernet TSN Verification IP features a complete set of protocols, and verification and productivity tools to achieve accelerated verification closure of Ethernet-based designs used in real-time communications where timing and latency must meet critical time boundaries. It verifies a design's MAC-to-PHY and PHY-to-MAC layer interfaces and works within a SystemVerilog, Verilog hardware description language (HDL), Vera or SystemC environment.
+
+
+
+SmartDV at Design Automation Conference SmartDV will feature its Ethernet TSN Verification IP and its other smart Verification IP solutions at the Design Automation Conference (DAC) in booth #514 Monday, June 3, through Wednesday, June 5. DAC will be held at the Las Vegas Convention Center in Las Vegas, Nev.
+
+DAC attendees can schedule demonstrations through SmartDV’s online scheduler . Pricing and Availability The SmartDV Ethernet TSN Verification IP is fully functional and shipping now. Pricing is available upon request. About SmartDV SmartDV™ Technologies is the Proven and Trusted choice for Verification and Design IP with the best customer service from more than 250 experienced ASIC and SoC design and verification engineers. Its high-quality standard or custom protocol Verification and Design IP is compatible with all verification languages, platforms and methodologies supporting all simulation, emulation and formal verification tools used in a coverage-driven chip design verification flow. The result is Proven and Trusted Verification and Design IP used in hundreds of networking, storage, automotive, bus, MIPI and display chip projects throughout the global electronics industry. SmartDV is headquartered in Bangalore, India, with U.S. headquarters in San Jose, Calif. Visit www.Smart-DV.com to learn more. Connect with SmartDV at:
+
+Linkedin: https://www.linkedin.com/company/smartdv-technologies/about/
+
+Twitter: @SmartDV For more information, contact:
+
+Nanette Collins
+
+Public Relations for SmartDV
+
+(617) 437-1822
+
+[email protected]
+
+[ Back To TMCnet.com's Homepage ]

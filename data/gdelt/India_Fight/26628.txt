@@ -1,0 +1,31 @@
+India launches “cloud-proof” spy satellite
+
+India this morning successfully launched a new "spy satellite" capable of keeping a lookout from space even in cloudy conditions, leaving no room for doubt the next time its armed forces conduct an operation such as the Balakot air strike carried out earlier this year, reports NDTV.
+
+The Indian Space Research Organisation (ISRO) used its Polar Satellite Launch Vehicle to launch the 615-kg RISAT-2B satellite, capable of clear viewing during the day, night and even under adverse weather conditions, at 5:30 am on Wednesday.
+
+ISRO chief Dr K Sivan called the launch of RISAT-2B a "fantastic mission". The home-grown space agency has sent 354 satellites into orbit and crossed a landmark of lifting a total of over 50 tonne of material into the space.
+
+Dr Sivan announced that RISAT-2B has "special imaging capabilities to take strips of images and mosaics of images". The launch also saw the use of made-in-India Vikram Processor for the first time, realised by the semiconductor complex at Chandigarh.
+
+The special radar-enabled satellite has been placed at a low earth 557-kilometre orbit, a suitable level for detecting hostile installations as well as monitoring agriculture, forestry and possible disaster zones. The space agency did not release details or photographs of the satellite, considering that it is meant for strategic needs.
+
+The Indian Air Force (IAF) had sent Mirage 2000 fighter jets to strike a terror camp in Balakot, deep inside Pakistan territory, on the morning of February 26.
+
+Some experts have speculated that heavy cloud cover at the time could have blinded Indian satellites, resulting in no images or videos of the operation being released so far. The lack of "proof" even spurred some opposition leaders to question the actual impact of the air strike.
+
+Now, with a new set of radar-enabled satellites at its disposal, the space agency hopes to provide India's armed forces with the ability to keep track of activities across its eastern and western borders.
+
+Although the country also has high-resolution optical imaging CartoSAT satellites, they get blinded by dense cloud cover. Moreover, their imaging resolution was possibly not good enough to make an accurate damage assessment after the IAF strike in Balakot.
+
+The RISAT-2B, a satellite created at the Space Applications Centre in Ahmedabad, is equipped with a special X-band radar capable of providing much better images. This is the first time India has launched indigenous technology of this kind into the space.
+
+Two previous radar-enabled satellites launched by India into space were RISAT-1 and RISAT-2, the latter being an acquisition from Israel. The RISAT-1, a C-band radar imaging satellite, was not available for recording the impact of the Balakot strikes because it was declared dead in 2017.
+
+However, there is no clarity on why images from the RISAT-2, a tiny 300 kg satellite with an X-band radar launched in the wake of the 2008 Mumbai attacks - have not been released.
+
+Incidentally, Pakistan had launched the PAKTES 1A satellite - also supposed to be an X-band radar-enabled satellite - using a Chinese Long March rocket on July 9 last year.
+
+The launch of RISAT-2B was realised in 15 months and it has a life of five years, and if all goes well, two clones - RISAT-BR1 and RISAT-2BR2 - will be launched in the coming months. Some of these launches have been advanced by as many as 18 months, reliable sources in the ISRO confirmed.
+
+The next launch for ISRO is the prestigious Chandrayaan-2 mission slated for lift off between July 9-16. It would be the first mission where India attempts to soft land a robot on the lunar surface. With this mission, India "would be going where no one has ever gone before which is to the south pole of the moon on the near side," says Dr Sivan.

@@ -1,0 +1,23 @@
+Naval Commanders Conference to focus on niche technologies like AI and big data analytics
+
+Says Milind Kulshreshtha, C4I expert, usage of artificial intelligence in the Indian Navy will not only help in identifying impending threats and it also helps in taking informed decisions faster once the threats are detected and evaluated.
+
+As one of the largest Naval forces in the region, covering approximately 7,516 km-long Indian coastline involving 13 coastal states/UTs, Indian Navy operates about 200 warships, submarines, aircrafts and number of other strategic assets to maintain its dominance. Such a humongous arrangement generates volumes of data, requiring meaningful processing using advanced technologies of Big Data and Artificial Intelligence.
+
+According to the official spokesperson of the Indian Navy Capt DK Sharma, “At the first edition of the three day Naval Commanders’ Conference of 2019 starting April 23 in New Delhi, discussions will also focus on acquisition of new capabilities, harnessing niche technologies like ‘Artificial Intelligence’ (AI) and ‘Big Data Analytics’ for solutions in the domains of naval combat, convergence of networks/ information, administration, logistics and equipment health monitoring for sustained operations.”
+
+Says Milind Kulshreshtha, C4I expert, usage of artificial intelligence in the Indian Navy will not only help in identifying impending threats and it also helps in taking informed decisions faster once the threats are detected and evaluated.
+
+The design of the AI is such that it integrates itself into the existing warship equipment to optimize their exploitation.
+
+Kulshreshtha points out that “To achieve this Navy requires secure and robust high end Naval Data Server network infrastructure spread over the country. This intelligent Data collected is further crucial as unique building block for Big data and Artificial Intelligence engines (like Deep Learning Neural Networks), to be exploited via Cloud Computing concepts. Due lack of in-house knowledge, the precious information generated during Naval exercises like TROPEX (Theatre Level Readiness and Operational Exercise) etc. is not being recorded as per Big Data concept for AI engine precision.
+
+“The data is already available in digital format within systems like Combat Management Systems, but in present design exists as a ‘volatile’ data, created when a Warfare function like Practice Missile Firing is executed. Due lack of an action plan, Indian Navy is losing this critical data with each passing day. With now a nuclear command in place, Directorate of IT and IW (Information Warfare) require to merge and evolve an urgent action plan under aegis of VCNS to keep India secure in near future itself,” he recommends.
+
+The three day commander conference has assumed greater importance in the backdrop of events associated with the Pulwama attack that have brought country’s defence under sharper focus. The discussions are expected to provide the top naval leadership a forum to discuss the emerging challenges in the maritime domain and fine tune the strategies for responding to the evolving geo-strategic environment.
+
+At the Commanders Conference all major operational, materiel, logistics, HR, training and administrative activities undertaken during the previous six months and the future course of action will be deliberated by the outgoing Chief of the Naval Staff Admiral Sunil Lanba, and top Naval Commanders.
+
+The core of discussions towards finalising long term road map for the Indian Navy will focus on the themes of ‘Functional Reorganisation of Indian Navy towards improving Operational Efficiency’ and ‘Optimal Manning’.
+
+Also, according the official spokesperson, the interaction with Chiefs of both the Indian Army and the Air Force will analyse the operational environment and Tri-Service synergy and readiness.

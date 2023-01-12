@@ -1,0 +1,13 @@
+Chipset Developed by India’s Space Agency to Improve Geo-Location Capabilities in Phones, Autos
+
+The first-ever NavIC demonstration using Qualcomm’s “Snapdragon” mobile platform is expected to be showcased by the chipmaker during the three-day India Mobile Congress (IMC) event that commenced in New Delhi on 14 October.
+
+For original equipment manufacturers (OEMs), the new support for NavIC will be available starting in November 2019 on Qualcomm platforms.
+
+India kick-started the process of developing its own domestic navigation satellite system after the US refused to provide Global Positioning System (GPS) data to the Indian Armed Forces during the Kargil conflict with Pakistan in 1999.
+
+In 2013, India launched its first navigation satellite -- the IRNSS-1A into space.
+
+Later, in 2018, ISRO successfully replaced the IRNSS-1A, , whose 3 Rubidium atomic clocks had stopped functioning two years ago, with the IRNSS-1I
+
+Currently, a constellation of seven satellites form the NavIC which provides critical foolproof satellite-based navigation signals for both civilian and military purposes.

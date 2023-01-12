@@ -1,0 +1,63 @@
+Dharani Sugars v. Union Of India: RBI's Regulatory Powers Re-Affirmed By The Supreme Court
+
+ARTICLE
+
+To print this article, all you need is to be registered or login on Mondaq.com.
+
+The Supreme Court's judgment in Dharani Sugars and Chemicals Limited vs. Union of India is examined herein.
+
+The Supreme Court in Dharani Sugars and Chemicals Limited vs. Union of India & Others (Dharani Sugars) has struck down the circular dated February 12, 2018, containing the revised framework for resolution of stressed assets (RBI Circular) issued by the Reserve Bank of India (RBI) on the ground of it being ultra vires Section 35AA of the Banking Regulation Act, 1949 (Banking Regulation Act).
+
+Section 35AA was introduced by Parliament in 2017 to confer power on Central Government to authorise the RBI to give directions to any bank or banks to initiate an insolvency resolution process under the provisions of the Insolvency and Bankruptcy Code, 2016 (IBC) in respect of 'a default'. The RBI Circular was challenged, inter alia, on the basis that Section 35AA does not empower the RBI to issue directions for reference to the IBC of all cases without considering specific defaults.
+
+The Supreme Court has upheld the regulatory powers of the RBI under various provisions including the power of Central Government and the RBI under Section 35AA. But it has struck down the RBI Circular as a whole on account of it being ultra vires Section 35AA since it had been issued without the authorisation of Central Government and in respect of debtors generally as opposed to 'specific' defaults by 'specific' debtors as required under Section 35AA.
+
+The Supreme Court has further declared that:
+
+All actions taken under the RBI Circular, including initiation of IBC proceedings, will fall away along with the RBI Circular.
+
+All cases in which banks have initiated proceedings under the IBC against debtors 'only' because of the operation of the RBI Circular, will not survive.
+
+Key Take-Aways from the Judgment
+
+Some of the key questions that arise because of the Supreme Court judgement are considered below:
+
+Does the judgement affect the individual cases referred to the IBC by the banks in view of specific RBI directions (through the RBI's first and second list)?
+
+The RBI had identified specific cases of defaults in the first and second lists based on certain criteria. Further, the RBI had already been authorised by Central Government to issue directions to any bank to initiate an insolvency resolution process under the IBC in respect of the default by way of the Notification bearing S.O. 1435(E) dated May 5, 2017. Therefore, the decision in Dharani Sugars will not affect referral of cases to IBC pursuant to the first and second lists.
+
+2. Does the Dharani Sugars judgement invalidate the entire RBI Circular or only the mandatory reference to the IBC?
+
+Whilst it was possible for the Supreme Court to only invalidate the mandatory reference to the IBC that was stipulated by the RBI, the Supreme Court has struck down the entire RBI Circular. Consequently, all the other provisions of the RBI Circular including preparing a resolution plan within 180 days from March 1, 2018 or the first date of default, as applicable, the minimum credit rating for an acceptable resolution plan, etc., have been struck down.
+
+3. Does the Supreme Court judgement come in the way of the RBI's expansive regulatory powers under the Banking Regulation Act?
+
+The Supreme Court judgment has upheld the RBI's:
+
+a. Broad and expansive powers under the Banking Regulation Act for regulation of banks including powers to issue directions for resolution of stressed assets outside the IBC.
+
+b. Powers to issue directions to banks to initiate an insolvency resolution process under the IBC against 'specific' debtors.
+
+The Dharani Sugars judgement does not hinder the RBI's powers to come up with a resolution framework for stressed assets except that the RBI cannot give a general direction for mandatory reference to the IBC in respect of debtors generally. Large parts of the RBI Circular can be reintroduced as they have sound regulatory basis for such measures.
+
+4. Will resolution plans implemented under the RBI Circular be affected?
+
+Since the resolution plans that have already been implemented under the RBI Circular have been largely done on a consensual basis, we believe there is sufficient basis for the consensual resolution plan implemented to be unaffected by the Dharani Sugars judgement. It was not the intent of the Supreme Court to undo consensual actions. The crux of the Dharani Sugars judgement was against RBI's mandatory referral to the IBC in respect of debtors generally instead of 'specific' cases of defaults.
+
+Since the resolution plans implemented were consensual, those can continue. Individual cases that have relied on specific measures of the RBI Circular will have to rely on the other provisions of the RBI's regulatory framework (including the provisions of the Mater Circular-Prudential Norms on Income Recognition, Asset Classification and Provisioning Pertaining to Advances issued by RBI bearing number DBR. No. BP.BC.2/21.04.048/2015-16 dated July 1, 2015) or equivalent provisions in the new framework that will be issued by the RBI.
+
+5. Will the judgment impact cases that have been initiated by banks under the IBC between March 1, 2018 and April 2, 2019?
+
+The Supreme Court has held that cases which were initiated only on account of the RBI Circular will not survive. However, in cases where the banks have filed the insolvency applications not solely because of the mandatory referral to the IBC requirement (as set out under the RBI Circular), but in exercise of their respective independent legal right to proceed under the IBC, the same shall not be affected by the Dharani Sugars judgment.
+
+6. Will the old framework which was repealed by the RBI Circular , the Framework for Revitalising Distressed Assets, the Corporate Debt Restructuring Scheme, Flexible Structuring of Existing Long Term Project Loans, the Strategic Debt Restructuring Scheme (SDR), Change in Ownership outside SDR, and the Scheme for Sustainable Structuring of Stressed Assets (S4A) (collectively the "Prior Regulatory Framework") revive?
+
+The RBI was within its powers to repeal the Prior Regulatory Framework and the same will not revive automatically even though the RBI Circular has been declared ultra vires and as having no effect in law. Therefore, it is not possible to prepare resolution plans on the basis of the Prior Regulatory Framework.
+
+Way Forward
+
+The RBI has, by way of its press release dated April 4, 2019, mentioned that in light of the Dharani Sugars judgment, it will take necessary steps, including issuance of a revised circular, as may be necessary, for expeditious and effective resolution of stressed assets.
+
+The RBI will be expected to quickly put in place a revised framework for resolution of stressed assets which will be in compliance with the existing legal provisions and the Supreme Court judgment, bearing in mind that large parts of the RBI Circular are founded on the RBI's regulatory powers that are not dependent on Section 35AA and a large number of cases that are presently under resolution will need to be implemented within the existing regulatory framework.
+
+The content of this article is intended to provide a general guide to the subject matter. Specialist advice should be sought about your specific circumstances.

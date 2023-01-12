@@ -1,0 +1,21 @@
+What Samsung’s Pain Means for Smartphones
+
+DJ Koh, president of mobile communications at Samsung Electronics, speaks during the Samsung Unpacked product launch event in New York on Thursday, Aug. 9, 2018. Photo: Jeenah Moon/Bloomberg via Getty Images
+
+When news hit Tuesday that Samsung was warning its own investors to brace for a dour earnings report at the end of this month, many were quick to tie it to Apple’s previous announcement that it would miss its own revenue target by a significant margin. The start of smartphone decline means Apple is having trouble moving phones, so it follows that Samsung’s troubles must have the same root cause, right?
+
+Not really. Samsung is a very, very different company from Apple. While Samsung is the largest phone manufacturer in the world, it actually makes most of its profits from memory chips — notably with DRAM and NAND flash memory, which are used in a whole host of electronics, from server farms to graphics cards — and supply has now outstripped demand; the prices of both DRAM and NAND chips dropped steadily in 2018. That trend is expected to continue in 2019, and the pain has finally hit Samsung.
+
+But if the lion’s share of Samsung’s troubles are due to the flagging price of memory chips on the market (which will, ironically, help other smartphone manufacturers that buy their memory technology from Samsung), its phone sales haven’t helped. Samsung also warned that sales of its Galaxy S9 and S9+ were weaker than expected, which perhaps should not come as a huge surprise. The S9 and the S9+ are very nice phones that are, in most ways, not that different from the S8 and the S8+, which were released one year earlier.
+
+Somewhat overlooked amidst Samsung’s bad news was LG’s warnings about its own flagging revenue. While the company declined to give a specific reason, it’s safe to assume it did not set the world on fire with its smartphone sales in the past year. LG, to put it kindly, hasn’t been a major player in the smartphone space for a while, despite putting out some compelling flagship phones in its V series (if you’re an audiophile who needs a good phone with a headphone jack, grab an LG V30 with a QuadDAC adapter for under $400 today).
+
+And if things are bad for Apple, Samsung, and LG, save some sympathy for poor HTC, which reported its lowest revenue numbers since 2003. While HTC has pledged it won’t exit the smartphone market, it’s rapidly retreating from markets like India and China, where Chinese brands like Vivo and Oppo have established dominance.
+
+As Apple, Samsung, and other phone manufacturers release their full annual earning reports at the end of the month, there’ll be plenty more actual info to dig into, which should give everyone a clearer picture of how bad 2018 was for smartphone sales overall.
+
+My guess? The entire marketplace is just waking up to fact that the smartphone market — particularly the premium smartphone market — nosedived in 2018, without anyone sounding the alarm. And 2019, the outlook on which already seems shaky for a whole host of reasons on the macroeconomic level, will be the first year that a large swath of the market will have to come to terms with a world in which smartphone sales aren’t shooting up by double digits.
+
+Apple and Samsung and others manufactures have been aware that this smartphone decline has been coming for a while, but are the companies in the supply chain that support smartphones similarly prepared? What about app makers that rely on ever-growing install bases? Or the glut of “factory-authorized carrier reseller” stores that popped up across America during a time of cheap money and cheap commercial real estate?
+
+It feels a bit hyperbolic to say that there was a smartphone bubble, and that 2019 is the year that bubble is gonna pop. Instead, think of it more like one of those sad helium balloons after a party, slowly contracting and floating ever closer to the floor.

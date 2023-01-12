@@ -1,0 +1,205 @@
+WhatsApp spyware: 22 confirmed cases of activists, lawyers, scholars targeted in India
+
+Twenty-two individuals, including human rights activists, scholars and journalists, have so far confirmed to Scroll.in that they were targeted by a spyware on the messaging platform WhatsApp. Some of them suggested that Indian government agencies may have been involved in the surveillance, as they were told by a Canada-based cyber security group that is assisting WhatsApp in investigating the spyware attack.
+
+Four lawyers who were targeted linked the security breach to the Bhima Koregaon case, in which 10 human rights activists were arrested last year on charges of links with a banned Maoist outfit.
+
+WhatsApp on Tuesday filed a lawsuit against NSO Group, an Israeli cyber intelligence firm whose spyware Pegasus was used to target around 1,400 users globally during a two-week period in May. NSO Group has disputed the allegations but said it has sold its spyware only to government agencies.
+
+At least two dozen Indian journalists, academics, Dalit activists and lawyers may have been targeted, The Indian Express reported on Thursday. The Ministry of Communications and Information Technology has asked WhatsApp for a response on the security breach by November 4, News18 reported. Ravi Shankar Prasad, who is in charge of the ministry, said the government is concerned at the breach, and that state agencies have a well-established protocol for interception for clearly stated reasons in the national interest.
+
+Also read:
+
+1) Israeli spyware used to spy on Indian journalists and activists, confirms WhatsApp
+
+2) IT ministry asks WhatsApp for response after Indians targeted in spyware attack
+
+The Internet Freedom Foundation called for an urgent official disclosure on whether and how the spyware was used in India. “The Government of India must issue an official public statement providing complete information,” the organisation said, calling for surveillance reform. “The Government must also clarify which law empowers it to install such spyware.”
+
+The targets Scroll.in spoke to were alerted by Citizen Lab, the University of Toronto’s cyber security group, some time around late September and early October. Citizen Lab said that after the incident in May, it had volunteered to help WhatsApp trace the breaches that targeted human rights activists and journalists. Over 100 such cases were identified in at least 20 countries, the group said.
+
+Here’s what the 22 people Scroll.in spoke to said about the calls they received from Citizen Lab informing them that they were targeted using the spyware:
+
+Shalini Gera, Chhattisgarh-based activist
+
+Shalini Gera of the Jagdalpur Legal Aid Group said that when John Scott-Railton of Citizen Lab contacted her in the first week of October, she first googled and convinced herself of his credibility before taking him seriously.
+
+“I was really surprised when he told me the targeting was done between February and May this year,” she said. “As you know, I was persecuted by the Chhattisgarh police two years ago but now I assumed I was of no interest to the government. Then, it struck me that this could be because of the Bhima Koregaon case, I am involved in the case as Sudha’s lawyer.”
+
+Sudha Bharadwaj, also a lawyer, is one of the accused in the Bhima Koregaon case.
+
+When she asked him who was responsible for the hacking, Scott-Railton told Gera that “the software costs millions of dollars, and it cannot be your neighbourhood crank using it against you. It has to be someone with a lot of resources, like the state.”
+
+“So I guess it is the Indian state,” Gera said. “I don’t think I am of interest to any other state.”
+
+Nihalsing Rathod, Nagpur-based lawyer
+
+Advocate Nihalsing Rathod, who heads the Human Rights Law Network in Nagpur, alleged that the incriminatory letters cited as evidence in the Bhima Koregaon case may have been planted by government agencies through the spyware. Rathod said Citizen Lab got in touch with him on October 7, he spoke to the group on October 14, and he also received the official communication from WhatsApp about the security breach on October 29.
+
+Rathod is a lawyer for accused Surendra Gadling in the Bhima Koregaon case. Police claim to have recovered several letters from the computers, pen drives and memory cards of the 10 activists arrested in the case since June 2018. The letters allegedly hinted at an intricate Maoist conspiracy to destabilise the country, dislodge the Bharatiya Janata Party government and assassinate Prime Minister Narendra Modi.
+
+Asked about the probable cause for him being a target, Rathod told Scroll.in he suspects this is related to the case. “I have reason to believe that the Bhima Koregaon case is based on the letters which were planted through this route or some other route by government agencies itself,” Rathod said. “The ridiculous contents of those letters make it more apparent.”
+
+“My senior, [advocate] Surendra Gadling, used to receive similar calls and messages and that is perhaps how they managed to plant those stupid letters on him,” Rathod said. “It all seems connected to the Bhima Koregaon case.”
+
+Also read: 13 letters leaked by Pune police show why it’s hard to believe claims about a Maoist conspiracy
+
+Rathod added that it was now extremely necessary that others who were targeted come forward and litigate, “that being the only platform available in the given state of undeclared emergency”. He said he was trying to get in touch with others who were targeted. “Bugging is not new, nor is strange, but it being done by government is alarming, and cannot be ignored, given what has been done to some of the prominent activists in last two years,” he said.
+
+Bela Bhatia, Adivasi rights activist
+
+Chhattisgarh-based human rights activist Bela Bhatia also claimed to have been targets of the surveillance. She said Citizen Lab advised her to change her phone and told her that she had been a target because of her work, as had other human rights activists and lawyers.
+
+“He [Citizen Lab member] clearly told me, ‘It is your own government which is doing this [surveillance]’,” Bhatia told Scroll.in. She said she saw this as “an extension of the on-the-ground surveillance that people working in Bastar are subjected to”.
+
+A screenshot of the communication received by Bela Bhatia from WhatsApp on October 29.
+
+Degree Prasad Chauhan, activist
+
+Degree Prasad Chauhan, a human rights activist based in Chhattisgarh, said he first received an email on September 26, and then an official message from WhatsApp informing him that he had been a target of the spyware. He said he may have been a target because he had been working on Dalit rights for more than 15 years and had raised his voice against atrocities against Dalits.
+
+Anand Teltumbde, academic and writer on Dalit issues
+
+Anand Teltumbde, who is also an accused in the Bhima Koregaon case, received a call from Citizen Lab around eight or nine days ago to inform him that he had been targeted. “I was cautious at first but after checking with friends, I realised they were legitimate,” he told Scroll.in. “They told me this [the spyware] was a sophisticated programme that could take control of your phone: turn on the microphone and the camera, steal your passwords.”
+
+Shubhranshu Choudhary, former BBC journalist
+
+Shubhranshu Choudhary, who works in Chhattisgarh as a peace activist, said he was also first informed by Citizen Lab that he had been a target of surveillance over WhatsApp. When Citizen Lab contacted him, he asked, “How do I trust you?” After verifying Citizen Lab’s credentials, he took the group’s advice on beefing up his digital security, he said.
+
+Choudhary said Citizen Lab told him the Israeli spyware had been sold only to governments, which suggested that the Indian government had used it against him. “During my days as a BBC journalist, there used to be phone surveillance,” he said. “Now I have been working on the new peace process in Bastar. This might be connected to that.”
+
+Ankit Grewal, Chandigarh-based lawyer
+
+Lawyer Ankit Grewal, who represented Bhima Koregaon case accused Sudha Bharadwaj, said that he had been suspicious for some time now as he used to get missed calls on WhatsApp from foreign numbers. This made him change handsets frequently.
+
+“I noticed a sharp increase in these mysterious missed calls once I got involved with Sudha Bharadwaj’s case,” Grewal told Scroll.in. He said his suspicions were confirmed when in September, Citizen Lab contacted him to tell him that his phone had been hacked with the Israeli snooping software Pegasus.
+
+Ashish Gupta, Delhi-based activist
+
+Ashish Gupta, an activist with the People’s Union for Democratic Rights who lives in Delhi, said he received a call from a “Canada-based NGO” – a possible reference to the Citizen Lab – about a month ago. “They said, ‘Do you know your mobile phone has been hacked?’ I replied, ‘Yes, it is possible’.”
+
+Gupta recalled that in July, he was forcibly thrown out of several WhatsApp groups, even those for which he was the administrator. “I dismissed it then as a technical issue but now I’m wondering if this was connected to the surveillance,” he said.
+
+Seema Azad, activist
+
+Seema Azad, an activist with the People’s Union for Civil Liberties based in Allahabad, said she received a message from WhatsApp alerting her about the possibility that her phone may have been compromised. “I had been receiving international calls but I did not take it seriously until I read in the newspaper today that many people have been targeted,” she said. “I read that human rights activists, lawyers and journalists have been targeted. I am all three.”
+
+Azad was charged with sedition in a Maoist case that resulted in a conviction in a lower court in 2012. The High Court is hearing Azad’s appeal and has granted her bail in the case.
+
+Vivek Sundara, social and environmental activist
+
+Activist Vivek Sundara said he got a message from John Scott-Railton of Citizens Lab about a week ago, saying he was a possible victim of the hack. “I deleted it [the message] because it seemed suspicious,” he said. “He sent it again. I deleted it again. Then I got a message from WhatsApp telling me about cybersecurity and what measures I could take to secure myself. I still thought it was spam. It’s not until I met Shalini Gera yesterday and she told me that she had received a similar call that I began to take this seriously.”
+
+Gera was also one of the activists who was targeted.
+
+Saroj Giri, assistant professor at Delhi University
+
+Saroj Giri, an assistant professor in the department of Political Science, said he got a message from Citizen Lab earlier this month. “Was slightly spooked but also tickled me somewhat because this was such advanced malware,” he said. “They said that Pegasus virus had been installed on my phone. I ignored it. But the next day they called me on WhatsApp. Since then, they have been in regular touch with me.”
+
+Sidhant Sibal, journalist
+
+WION, a news channel, said its diplomatic and defence correspondent Sidhant Sibal had also been targeted by the spyware. Sibal confirmed this to Scroll.in.
+
+Whatsapp used to hack smartphones. Around 1400 users from around the world affected. WION's @sidhant was also targeted.
+
+Whatsapp sues an #Israel firm, accusing it of hacking phones of scribes, diplomats & activists.
+
+Catch the full story on #Gravitas with @palkisu | 9 PM IST pic.twitter.com/WdZJmNVqnz — WION (@WIONews) October 30, 2019
+
+Rajeev Sharma, strategic analyst and columnist
+
+Strategic analyst Rajeev Sharma said he had got a detailed message from WhatsApp about the security breach. “Besides, a fortnight before that, I got a call from Citizen Lab – a fairly long conversation – wherein I was told that my phone was under surveillance from March to May this year.”
+
+He said: “No idea [why the government might be tapping me]. They [Citizen Lab] suggested that if I could change my handset I will be more secure. But I didn’t and told them in another conversation later on that I am not doing so because I am not indulging in any illegal or anti-national activity.”
+
+Rupali Jadhav, activist
+
+Rupali Jadhav, an activist with the Kabir Kala Manch in Mumbai, was informed by the Citizen Lab of the hack on her phone a few days ago, and later by WhatsApp. Some members of the group have been arrested in the Bhima Koregaon case.
+
+“I believe I was targeted for my work as a woman activist working on caste, class and gender,” she said. “We are told India is a democracy. But if our right to privacy is violated, doesn’t that raise questions over that? If activists are snooped upon, what could happen to ordinary citizens?”
+
+Jadhav said the Citizen Lab had advised her to change her phone. “I live in a slum, I cannot afford to change my phone,” she said. “For six months, I have been looking for a job but with Modi government at the helm, the jobs have dried up.”
+
+Santosh Bhartiya, veteran journalist and former MP
+
+Santosh Bhartiya, a former Lok Sabha MP and veteran journalist, told Scroll.in that he received an alert from WhatsApp about a possible hack on his phone using the service about two days ago.
+
+Bhartiya said a member of the Citizen Lab had sent him a message earlier, which he had ignored. “I thought he was a hacker.”
+
+Bhartiya had been elected from the Farukkabad Lok Sabha constituency in 1989 on a Janata Dal ticket. His foray into electoral politics ended in 1991.
+
+“I don’t know why I was targetted, I’m a small journalist, not a big one,” he said. “But maybe they are targetting pro-people journalists who do fair journalism.”
+
+When asked who was he referring to, he said “the Indian government or whoever else may have done this.”
+
+Bhartiya, 69, started his career with the Anand Bazar Patrika group, worked on Newsline in the government broadcaster Doordarshan and is the editor of Chauthi Duniya, a Hindi weekly publication.
+
+Jagdish Meshram, lawyer based in Nagpur
+
+Jagdish Meshram, an advocate from Nagpur, Maharashtra, who is part of the Indian Association for Peoples’ Lawyers and has worked with human rights lawyers Surendra Gadling and Nihalsing Rathod, said that he had received at least 30 to 40 WhatsApp video calls from unknown international numbers between March 28 and May 10.
+
+“When I tried to answer them, they would automatically get disconnected,” said Meshram. “I don’t understand much about mobile technology, so I thought it was some virus.”
+
+Meshram said he had spoken to his colleague Rathod and discovered that he had also been receiving such video calls. “Nihal advised me to file a complaint, but I did not know how or to whom,” he said. He claimed that Surendra Gadling had also received Whatsapp calls from unknown international numbers two or three months before he was arrested in connection with the Bhima Koregaon case in June 2018.
+
+On October 28, around 9.30 pm, Meshram received a message from WhatsApp telling him that his phone may have been affected by an advanced cyber attack through the app. Since Meshram does not check his Whatsapp messages regularly, he read this message only on Thursday, after news broke about Whatsapp’s case against the Israeli company. “It would never have struck me that someone would do something like this to my phone,” he said. “Clearly the government is involved.”
+
+Alok Shukla, activist
+
+Alok Shukla, the convenor of Chhattisgarh Bachao Andolan, an umbrella group of activist organisations in the state, said he received an alert from WhatsApp on October 30. Unlike others, however, he was previously warned by the Citizen Lab.
+
+“I did not pay attention to the alert till I read the story in the newspaper today,” he said. “Now I recall that I had received several video calls from strange numbers on WhatsApp in February and March this year.”
+
+He suspects the surveillance could have been directed at him because of his activism. “The Chhattisgarh Bachao Andolan takes up a variety of causes across the state,” he said. “And I have been personally involved in campaigns against coal mining, including an Adani project.”
+
+Ajmal Khan, academic and activist
+
+Ajmal Khan, activist and doctoral candidate at the Tata Institute of Social Sciences, initially ignored the news he got from Citizen Lab about a WhatsApp security breach. “I didn’t think it was too important and I was too busy,” he told Scroll.in.
+
+However, once news broke of the WhatsApp hack, Khan felt it was his activism in his time as a doctoral scholar at TISS that could have put him on the government’s radar. “I have been quite active in Bombay in the anti-caste movement and civil liberties movements including Bhima Koregaon,” he said. “I used to work with Prakash Ambedkar. This could be the reason.”
+
+Balla Ravindranath, Hyderabad-based advocate
+
+Hyderabad-based advocate Balla Ravindranath said he did not remember ever receiving WhatsApp calls from unknown international numbers. However, on October 7, he received a message on the platform from a senior researcher at the Citizen Lab informing him that he possibly faced a digital risk. The researcher asked Ravindranath if they could set up a time for a chat.
+
+“I called the man’s number but the connection was bad and he said he would call me back,” said Ravindranath, who is the general secretary of the Andhra and Telangana chapter of the Committee for the Release of Political Prisoners. The lawyer then received a WhatsApp voice call from the Citizen Lab researcher on October 11, which he did not answer.
+
+On the night of October 29, he received the same message from WhatsApp that other activists, whose phones were targeted, had received. On the same night, the Citizen Lab researcher messaged Ravindranath again, asking if they could talk about the issue the next day. Ravindranath, however, is suspicious of the researcher and has not yet spoken to him.
+
+Mandeep Singh, lawyer based in Chandigarh
+
+Mandeep Singh, a Chandigarh-based lawyer, received a WhatsApp video call from an unknown international number at the end of September. “I could not answer the phone at the time but I assumed it was from a friend in Canada or Australia,” said Singh. “When I checked my phone later, I noticed that there was no missed call showing in my call log.”
+
+Singh is mainly a consumer rights lawyer and also a member of the People’s Union for Civil Rights. He has participated in many fact-finding investigations for human rights causes.
+
+John Scott-Railton of Citizen Lab contacted him on October 7, but Singh said he did not respond to his messages on WhatsApp and searched about the organisation online. “I was in a dilemma about what to do, and then on October 29 I also got a message from WhatsApp telling me that my phone might have been hacked,” Singh added. “I cannot figure out why anyone would surveil people like us.”
+
+P Pavana, daughter of Bhima Koregaon accused Varavara Rao
+
+P Pavana, who lives in Hyderabad, said she received the warning alert from WhatsApp on the night of October 29. “At the time I just thought it was a routine alert sent by WhatsApp,” she told Scroll.in. Only after she read the news reports on Thursday did she realise that this was specifically sent to her. However, she did not receive any message from Citizen Lab.
+
+Varavara Rao is an academic who is an accused in the Bhima Koregaon case.
+
+Pavana said she had received two or three calls from unknown international numbers a few months ago, but does not remember whether they were WhatsApp calls or regular phone calls. “One of the calls came in the middle of the night, and i just assumed these were all sales calls,” said Pavana.
+
+Arunank, law graduate
+
+Arunank, a Hyderabad resident pursuing his PhD, said that around three months ago, he received a number of WhatsApp video group calls from unknown numbers beginning with the code +44, which is the code for the United Kingdom. “When I tried to answer the calls, they would get disconnected immediately,” Arunank told Scroll.in. “I assumed it was somebody’s mistake.”
+
+On October 29 night, he received WhatsApp’s alert message. He did not receive any direct communication from Citizen Lab. When the news about Pegasus became public, Arunank emailed WhatsApp to ask for a confirmation on whether his phone was really hacked. “I wrote to them that my activist friends had all received that WhatsApp alert, but my other friends and relatives had not,” said Arunank. “I have not yet received a response.”
+
+WhatsApp’s claims
+
+The security flaw in WhatsApp was first reported in May. The spyware was injected into users’ phones through missed calls in the app’s voice calling function.
+
+According to The Indian Express, more than 20 Indians, including academics, lawyers, and Dalit activists were alerted that their phones had been under surveillance for two weeks in May. In the lawsuit against the Israeli firm and its parent company, WhatsApp alleged that they had engaged in “unlawful access and use” of the platform’s computers. The NSO Group allegedly developed the malware to gain access to messages and other communications after they were decrypted on the devices of those targeted. This also allowed hackers to bypass WhatsApp’s encryption, according to The New Yorker.
+
+The petition said that laws in the United States and California were violated, along with the platform’s terms of service, and added that smartphones were accessed through just missed calls. “We believe this attack targeted at least 100 members of civil society which is an unmistakable pattern of abuse,” it said. “This number may grow higher as more victims come forward.”
+
+The plea said that the software, which was developed by NSO, was designed in a way that it can be remotely installed to hack into devices using the Android, BlackBerry, and iOS operating systems, according to AFP. The attackers reportedly “reverse-engineered the WhatsApp app and developed a program to enable them to emulate legitimate WhatsApp network traffic in order to transmit malicious code” to get into the devices.
+
+The Israeli NSO Group refuted the allegations levelled against it. Citizen Lab had flagged the possible security breaches through Pegasus in September 2018.
+
+According to a 2016 price list, NSO Group charges its customers $650,000 (Rs 4.61 crore at current exchange rate) to hack 10 devices, in addition to an installation fee of $500,000 (Rs 3.55 crore), Fast Company reported last year.
+
+Now, follow and debate the day’s most significant stories on Scroll Exchange.

@@ -1,0 +1,39 @@
+Zeotap Hopes To Become The LiveRamp Of Europe – AdExchanger
+
+Zeotap is launching a global identity graph to try and beat LiveRamp to the punch across the pond.
+
+On Tuesday, the Berlin-based mobile data platform announced the global rollout of Connect, an identity solution that deterministically links offline data to anonymized online identifiers based on exclusive relationships with telco operators in markets across Europe, India and Latin America.
+
+Although Zeotap does have an identity graph in North America that uses deterministic matches from publishers and ecommerce partners, for brands looking to onboard their offline data in the US, the answer is usually to just get in touch with LiveRamp or perhaps an indie upstart like Throtle.
+
+But for advertisers looking for reach in Europe, there aren’t really any other scaled onboarding options, said Miles Pritchard, head of data and technology in Europe at Omnicom-owned Annalect.
+
+“There’s a vast amount of value to be extracted from a CRM database, though, so we’re always looking for ways to onboard it, make it available and make it interoperable,” Pritchard said, noting that LiveRamp doesn’t have much market penetration beyond the UK and France.
+
+Omnicom Europe signed a European-wide contract in January to use Zeotap’s global identity graph for its clients.
+
+“We’ve had a major challenge finding partners that can scale across regions, particularly in smaller markets,” Pritchard said. “We’ve been talking to LiveRamp for over 18 months and they’ve said they’re ready to move into Germany, Spain and Italy, but we haven’t seen that manifest yet.”
+
+There are two big challenges to cracking smaller markets: getting to scale and staying on the right side of local privacy laws.
+
+The General Data Protection Regulation “hasn’t made it easy for US companies doing business in Europe,” said Zeotap CEO and founder Daniel Heer, “but it has harmonized the regulations in Europe, and that’s actually helped us as a German company.”
+
+Zeotap only processes consented user data, Heer said, whether that be the brand’s first-party data or the data coming from its telco partners to help with the matching.
+
+In terms of reaching scale across regional markets, Zeotap capitalizes on its carrier relationships rather than partnering with publishers one by one, Heer said.
+
+“Building a graph by approaching publishers and convincing them to share their identity linkages in Europe is super difficult, because it’s a process that has to be repeated over and over again across a multitude of countries,” he said.
+
+In the North America, though, Zeotap does partner with publishers and ecommerce marketplaces rather than telcos, because the prevalence of family plans in the US muddies the identity waters.
+
+All the matches in Zeotap's graph are deterministic, Heer said, and the company has no plans to add probabilistic matching to up the scale. Telco data provides a more high-fidelity truth set, he said.
+
+But what do the telcos get out of this arrangement?
+
+The ability to monetize their subscriber data in the addressable ecosystem without having to build their own ad tech or partner with other telcos for scale, always a hairy proposition in the ultra-competitive world of telecom operators.
+
+Mobile network Three in the UK, one of Zeotap’s 10 telco partners, gets permission from its users through its consumer-facing rewards app called Wunto, whose users share info in return for prizes, and the opt-in rate is high, claims Charlie McGee, director of advertising at the carrier – about 94%. That’s the type of data Zeotap uses for its deterministic truth set.
+
+“It makes much better targeting sense for advertisers than making assumptions,” McGee said. “This data takes the guesswork away.”
+
+In addition to the Omnicom Europe contract, Zeotap says it has global or regional deals with two other agencies. Three large brands, including Unilever in India, ran pilots using the global identity graph last year.

@@ -1,0 +1,15 @@
+Tech Mahindra partners California’s TBCASoft to promote blockchain platform for telcos
+
+Information technology (IT) firm Tech Mahindra Ltd has announced its collaboration with California-based blockchain startup TBCASoft, Inc. to promote a distributed-ledger platform for telecom firms.
+
+TBCASoft leads the Carrier Blockchain Study Group (CBSG), a global consortium of telecom firms responsible for the distributed-ledger or blockchain platform, said Tech Mahindra in a statement. CBSG members and partners are building blockchain-based services on this platform.
+
+According to the statement, the collaboration aims to use the platform in areas like supply chain, contract management, roaming billing and taxes, identity management and mobile transactions.
+
+“Telcos continue to push the frontiers of digital transformation to provide a completely new customer experience. We, at Tech Mahindra, have designed various blockchain solution sets to help telcos globally accomplish higher net promoter scores, lower operational costs and enhance profitability. This consortium will play a critical role in taking these solutions to the telcos and helping them unlock multiple benefits,” said Rajesh Dhuddu, global practice leader, blockchain, Tech Mahindra.
+
+TBCASoft is developing blockchain technology specifically for telecom firms. Its consortium-based blockchain platform enables telecom firms to create services for their subscribers.
+
+Tech Mahindra has entered into a blockchain tie-up in India as well.
+
+In the country, the IT firm has partnered with tech giant Microsoft to create a blockchain-based solution to combat spam calls.

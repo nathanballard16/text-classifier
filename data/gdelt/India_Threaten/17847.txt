@@ -1,0 +1,43 @@
+Google issues warning to Indian users of data breach via Chrome
+
+Google issues warning to Indian users of data breach via Chrome
+
+Alert pop-ups began emerging on laptops, desktops and mobile screens, forcing users in India to read the warning that their passwords may have been stolen as part of a data leak.
+
+Atom Data Breach
+
+Several Indian users were left nervous on Thursday after witnessing pop-ups on their mobile and desktop screens as they opened certain affected websites in the Google Chrome browser, alerting them about a data breach on the site or app they had visited which also exposed their passwords.
+
+Tech giant Google issued warning of data breach for users in India and globally after fixing the Chrome 79 bug last week and re-issuing it this week.
+
+Alert pop-ups began emerging on laptops, desktops and mobile screens, forcing users, including a media organization, in India to read the warning that their passwords may have been stolen as part of a data leak.
+
+"Change your password. A data breach on a site or app exposed your password. Chrome recommends changing your password for the site," read the warning pop-up.
+
+A user, when trying to log into Freshtohome, an e-commerce platform for fresh and chemical-free seafood, received the warning pop-up.
+
+An Indian media group also received the same warning pop-up while logging into one of its portals.
+
+Earlier, after halting the roll-out of latest version of Chrome after a bug wiped out data in select Android applications, Google resumed Chrome 79's rollout this week.
+
+The company began sending notifications to users on affected websites, advising them to change their password.
+
+To date, Google's Chrome updates have been a seamless exercise, but not this time.
+
+According to Forbes, Google revealed that the impact only hit 15% of Chrome users not 50% as it initially feared.
+
+Google told Android Police in a statement that it would also be able to recover user data that is feared lost.
+
+The tech giant introduced Chrome 79 in a bid to offer users better password protection. Chrome 79 (version 79.0.3945.93) for Android includes a fix for the WebView bug.
+
+The fix is described as, "Resolves an issue in WebView where some users' app data was not visible within those apps. The app data was not lost and will be made visible in apps with this update".
+
+WebView is responsible for rendering web pages inside applications.
+
+This feature is used by several third-party applications to open a page. However, Google Chrome loads the content in this case.
+
+Some apps that use WebView functionality are Twitter Lite and PhoneGap.
+
+A Chromium engineer took to Google threads to issue a public statement: "We are currently discussing the correct strategy for resolving this issue which will be one of: a) continue the migration, moving the missed files into their new locations. b) revert the change by moving migrated files to their old locations. We will let you know which of these two options have been chosen soon."
+
+Additionally, in a bug report filed last week, Google developers confirmed that they forget to move the contents of localStorage or WebSQL into the new Chrome 79 directory.

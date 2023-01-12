@@ -1,0 +1,87 @@
+Career in cybersecurity: How to study, skills needed, career options and more
+
+Do you have what it takes to have a successful career in cybersecurity? Check out the job roles and salary, and how you can study cybersecurity here.
+
+With every industry stepping into digitization, cybersecurity is a crucial form of security we need now. Almost every record of most companies, educational institutions, banks, businesses and government departments and organizations are kept in digital form which makes it vulnerable to hacking or data leak. The need for skilled cybersecurity personnel is on the rise and never has there been a better time to go for a career in cybersecurity.
+
+India Today got talking to Rahul Tyagi, Co-Founder of cybersecurity-providing platform Lucideus, when he came to deliver a talk on the career opportunities in cybersecurity at Ansal University.
+
+Scope of cybersecurity as a career
+
+"Cybercrime is the greatest threat to every company in the world, and one of the biggest problems with mankind. The impact on society is reflected in the numbers," says Rahul Tyagi.
+
+"In the last few years a number of huge companies like JP Morgan, Facebook, LinkedIn, Sony, Target, had witnessed data breaches. Hundreds of millions of dollars were spent on all of them and yet they were hacked," he adds.
+
+Tyagi says that with businesses turning digital, any disruption caused by anyone internal or external, can lead to multimillion-dollar losses or loss of reputation for any organization.
+
+He mentions a few interesting statistics for students who are interested in making a career in cybersecurity.
+
+"According to Cyber Security Ventures, cybercrime will more than triple the number of job openings to 3.5 million unfilled cybersecurity positions by 2021, and the cybersecurity unemployment rate will remain at zero percent," he says.
+
+"Besides, in India, the National Association of Software and Services Companies (NASSCOM) estimated that India alone will need 1 million cybersecurity professionals by 2020 to meet the demands of its rapidly growing economy," Tyagi adds.
+
+Thus, skill development is crucial for cybersecurity professionals or trainees so that they can stay at the top of their game.
+
+Where should you study cybersecurity from?
+
+"There is always a confusion among students do they go for an online cybersecurity course or physical training. I think cyber security situation is like performing a surgery in an operation theatre, you cannot learn how to do a heart surgery from YouTube," says Rahul Tyagi.
+
+However, he adds that one's understanding of cybersecurity is bound to get better once on-the-field training starts with experienced professionals. In cyber security every company has a different IT stack to deal with, he says.
+
+"This is a sensitive field so you have to take training from industry people instead of the online course as a beginner. I am not saying it's bad but it's advisable to have the first operation with professionals," he adds.
+
+Tyagi's company, Lucideus, runs a one-year diploma in cybersecurity with Delhi University and an undergraduate BTech programme on Specialization in Cyber Security with Ansal University.
+
+Skills needed to study cybersecurity
+
+To work in cybersecurity, one must have good knowledge about the basics in technology.
+
+"We often start our training with IIT Kharagpur NTPL Internet Technology videos, these videos are free and easily accessible from YouTube. Before starting cyber security, you should be very strong in understanding technology and as per my experience, these videos are the best way to start," says Tyagi.
+
+"Once you are done with them, focus on at least one programming language, I prefer Python after basics of C as Python is the most loved language in our community because of a lot of advantages," he says.
+
+"At last, you should possess very good command on Linux (Kali Linux) and know all in and out the Linux platform. The points above are just basic and would help build a strong foundation for a career in cybersecurity," Tyagi explains.
+
+Career options and job roles in cybersecurity
+
+As per Tyagi, here are the career options in cybersecurity:
+
+Chief Information Security Officer
+
+Chief Technology Officer
+
+Chief Information Officer
+
+Cyber Intelligence Analyst
+
+Information Security Analyst
+
+Cyber Security Consultant
+
+Computer And Information System Manager
+
+Network Security Analyst
+
+Web Application Security Analyst
+
+Cyber Security Malware Analyst
+
+Cyber Security Architect
+
+Cyber Security Administrator
+
+Risk Analyst
+
+Cyber Operations Analyst
+
+Salary structure in cybersecurity
+
+"The salary and growth prospects are huge, but it depends on the individual's capacity and how passionate they are at what they are doing. Every company has its own salary structure," Tyagi explains.
+
+So, if you want to go for a career in cybersecurity, make sure you do your research beforehand on the college you want to study in or the company you want to work for so that you can ensure the best fit.
+
+Read: Want a career in Cybersecurity? Ask yourself these questions to know for sure
+
+Read: Should cyber security lessons be taught in schools?
+
+Read: Career options that you can explore in 2019

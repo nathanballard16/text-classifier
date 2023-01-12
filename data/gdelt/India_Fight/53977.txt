@@ -1,0 +1,271 @@
+India’s IGMP Missile Programs: Export contenders?
+
+PJ-10 BrahMos
+
+(click to view full) Back in November 2005, The Hindu newspaper reported that India’s government had given the go-ahead for exporting missiles, and that India’s Defence Research and Development Organisation (DRDO) was looking to market several of its products internationally. The missile systems in question included several products from the decades-long Integrated Guided Missile Program (IGMP) set of development programs, and one new success that used a very different approach. DRDO has led the long, turbulent development histories of the Trishul (“trident”) short-range surface-air missile (SAM), the Akash (“sky”) medium-range SAM, and the Nag (“cobra”) vehicle-mounted anti-armor missile. In contrast, the Indo-Russian PJ-10 BrahMos medium-range supersonic cruise missile was developed very quickly, and performed as advertised. As of August 2010, India has not made an export sale, or even formally decided which countries would be eligible to receive these missiles. The programs themselves have also seen changes and developments, with Trishul canceled, Akash finally ordered, BrahMos expanded, and ongoing IGMP work in other areas.
+
+
+
+Advertisement
+
+The Missiles: IGMP + BrahMos
+
+Agni II
+
+by Antonio Milena/ABr
+
+(click to view full)
+
+The IGMP program included a pair of ballistic missiles that will almost certainly not be exported, in addition to the missiles under discussion. Both ballistic missile programs have fielded operational weapons, ad have reportedly provided platforms for development and testing of ballistic missile interceptors as well.
+
+The Prithvi (“Earth”)/ Dhanush (“Bow”) short-range ballistic missile family is used to attack surface targets. It has a range of 150-300 km/ 90-180 miles, carrying a 500-1,000 kg/ 1,100-2,200 pound warhead between in weight (the shortest range Army version carries the large warhead), and accuracy estimated to be 10-50m CEP (50% of firings will be this close to the target). Dhanush refers to the naval versions. The Prithvi-I was inducted in 1994, and the extended range Prithvi-II was inducted in 2006. Prithvi was also the missile used in India’s recent anti-ballistic missile tests. A Prithvi-III is under development to deliver a nuclear warhead 350 km, or deliver lighter conventional warheads 500-750 km.
+
+The Agni (“fire”) Intermediate Range Ballistic Missile as a range of 700-800 km/ 420-560 miles, while the Agni-II as a range of 2,000-2,500 km/ 1,200-1,500 miles. Agni split from IGMP and became its own program. These missiles carry either a 1,000 kg conventional warhead, or a nuclear warhead. An Agni-III with a 3,500 km/ 2,100 mile range is in the final stages of development, but tests have exhibited problems; there are also rumors of an ICBM program.
+
+These missiles will not be discussed further in this article.
+
+Akash: Rajendra Radar
+
+Transparency in procurement, and clear program analysis and accountability, are in shorter supply in India than in the USA. Nevertheless, basic research reveals a few salient facts about the other weapons mentioned as export possibilities. None of them been been exported, so far:
+
+Trishul (“trident”) SHORAD: Failed. This short-range surface-air missile (SAM) that has been described as similar to the Russian SA-8 Gecko with more modern electronics. The Indian MoD finally confirmed its cancellation in 2008, for failure to meet performance specifications.
+
+Akash (“sky”): Semi-success and development catalyst. This medium-range SAM will replace some of India’s SA-3 batteries.
+
+Akash has been described as using a missile airframe similar to the Soviet SA-6, with upgraded seeker heads and a fully modern Rajendra fire-control radar similar to that of the Russian S-300. The ramjet-powered missile reportedly flies at Mach 2.5 (a normal speed for a surface-to-air missile) all the way to the end of its range, instead of accelerating and then coasting like rocket-powered SAMs. It uses a conventional warhead with semi-active radar homing guidance, and reported operating range is 25-30km/ 18 miles, to a maximum altitude of 18km/ 59,000 feet. The missile is supported by multi-target and multi-function phased array fire control radar called ‘Rajendra’ that has a reported range of about 60 km/ 36 miles. Each Akash flight consists of a Rajendra fire control radar, 4 launchers, and a Battery Command Post, all linked to a group command post with a 170 km Rohini (3D CAR variant) S-band search radar, and maintenance/ replenishment vehicles.
+
+Akash
+
+(click for video)
+
+The Akash’s long development period generated skepticism from India’s armed services, but the missile is now headed into full production and deployment. Reports center on India’s North-East, where terrain considerations block line of sight and limit useful SAM engagement range. There, a less expensive semi-active homing missile like Akash can be a worthwhile complement to short-range air defense (SHORAD) systems around key approaches, and in valleys. Reports indicate that it will protect locations like Tezpur, Chabua, Jorhat, and Mohanbari airfields, with some deployment near power plants and some regional cities.
+
+Within India, its MR-SAM and LR-SAM projects with IAI and RAFAEL will provide a complement of 60-120 km range SAMs, but Akash appears to have secured its niche. Beyond India, Akash could face rough going. A wide array of international competitors will be credible sales opponents, from China’s HQ-9 variant of the SA-10/ S-300, to systems like Russia’s SA-17/ 9K37M2 “Ural”, MBDA’s VL-MICA, ground-launched AMRAAM systems, and India’s own MR-SAM/ Barak 8 collaboration with Israel.
+
+Akash industrial partners include prime contractor Bharat Electronics Limited (BEL), plus Larsen & Toubro, Tata Power, Walchand Industries and ECIL. India’s state-run DRDL will oversee weapon system integration, and provide support throughout the expected 20-year lifecycle of the missile. The industrial side is where Akash has had the most success, though that may not translate much into exports. Rajendra in particular has had a special significance as it is an electronically scanned array, and its development helped the DRDO. Components of Rajendra has since found their way into artillery locating radars, and an argument can be made that the Rajendra’s lessons have helped India with Active Electronically Scanned Array projects in general, including its missile defense program.
+
+Nag & Namica
+
+by Aja Shukla
+
+(click to view full)
+
+The Nag (“cobra”) anti-armor fire and forget missile: semi-successful. The Nag reportedly uses an imaging infrared (IIR) seeker like America’s Javelin or Israel’s Spike family, rather than the laser guidance and/or millimeter-wave guidance of the American Hellfire and Russian AT-6 Spiral, the millimeter-wave guidance of the Hellfire Longbow or MBDA’s Brimstone, or the wire guided features of Raytheon’s TOW, MBDA’s HOT, Israel’s Spike, etc. Nag reportedly has a 4-7 km range, which is not very far. It’s designed to carry a dual warhead that will supposedly penetrate reactive armor add-ons or Chobham-like composite tank armors on tanks like the M1, Challenger, Leopard 2, etc., and has a top attack option. To date, however, its biggest technical challenge has been the seeker.
+
+Unlike competitors like Javelin, TOW, or Spike-ER/LR, Nag requires a carrying vehicle or helicopter (HELINA variant, still in development). Nag buys currently stand at 443 missiles, to be mounted on 13 of Larsen and Toubro’s 14.5t tracked “Namica” missile carriers (a modified BMP-2), and possibly on India’s Dhruv helicopters.
+
+Brahmos scenario
+
+(click to view full)
+
+PJ-10 BrahMos: success. This supersonic anti-ship/strike cruise missile began in 1998 as a joint project based on Russian SS-N-26 Oniks designs, and is already ready to enter service. It is a 2-stage vehicle whose solid propellant booster and a ramjet engine push it to sustained speeds of Mach 2.8 to 3.0. The kinetic energy of its Mach 3 speed, plus its 200 kg (ship & air launched) to 300 kg (land launched) warhead, give the missile a very strong terminal punch. The 6.9m cruise missile weighs about 6,000 pounds and has a range of 280 km/ 170 miles, which keeps it within the 300 km limit specified in the international Missile Technology Control Regime (MTCR). Since Russia is a signatory, the project fell within MTCR’s limitations.
+
+Brahmos was primarily designed to be ship launched, but a land-launched variant with a heavier warhead has been indicted into the Army for anti-ship and precision strike missions. Over time, it is likely to replace the Prithvi. An air-launched Brahmos-A is in testing for those planes large enough to carry the 5,000 pound payload. The IAF’s SU-30MKI heavy fighters are undergoing modifications to carry the missile, and its existing (TU-95/ IL-38SD) and future (Boeing P-8i) maritime patrol aircraft are also candidates. The air-launched version will have a range of 290 km/ 180 miles, and will use a smaller booster section, in order to reduce mass and ensure stability in flight after launch.
+
+Program Updates
+
+Milan ATGM, India
+
+(click to view full)
+
+January 24/22: Britain Boeing and the UK Ministry of Defense inked a $348 million contract for the provision of long-term training, support and sustainment for the British Army’s new fleet of 50 Apache AH-64E helicopters. The announcement was made by Minster for Defense Procurement, Jeremy Quin MP, as he visited Wattisham Flying Station to see the Apache AH-64E. December 31/21: Philippines On December 27, Philippine’s Department of Budget Management (DBM) issued two special allotment release orders (SARO) worth around $54 million to buy shore-based anti-ship missile system for the Philippine Navy. Media reports in India also said that the Philippines is close to finalizing the BrahMos anti-ship missile deal.
+
+March 12/21: Philippines The Philippine Navy chief told Philippine News Agency (PNA) that The Philippine Navy chief told Philippine News Agency (PNA) that his service will be acquiring only one battery of the Indian-made BrahMos supersonic anti-ship missile. One battery consists of three systems, Vice Adm. Giovanni Carlo Bacordo was quoted as saying. Each system has its own launcher with 2 to three missiles each. He added that the purchase is still awaiting approval from by the Commander-in-Chief.
+
+March 5/21: Agreement With India Philippine Defense Undersecretary Raymund Elefante and Indian Ambassador Shambu Kumaran Philippine Defense Undersecretary Raymund Elefante and Indian Ambassador Shambu Kumaran have signed an agreement that will support Manila’s potential purchase of the BrahMos supersonic missile. Defense Secretary Delfin Lorenzana, who witnessed the signing ceremony, told reporters that the country is buying the BrahMos. The agreement involved the procurement of defense materiel and equipment by the Philippines from India.
+
+December 4/20: Philippines Postpone Purchase CNN Philippines CNN Philippines reports that Manila has decided to postpone the purchase of BrahMos missiles from India due to lack of funds. The government is putting on hold plans to purchase the country’s first cruise missile system from an Indian-Russian joint venture. This was supposed to be part of the military’s long-term modernization program to boost the country’s defense capabilities. BrahMos is a supersonic cruise missile, which can fly at three times the speed of sound (2.8 Mach). It can be used for both coastal defense and ground attack.
+
+October 8/20: India The Indian government’s Press Information Bureau that the country has The Indian government’s Press Information Bureau that the country has successfully flight-tested a land-attack version of the Brahmos supersonic cruise missile featuring an indigenously made airframe section and booster. The achievement is a major milestone in the country’s efforts to increase the content of locally made components in defence equipment used by the Indian military. The PIB noted that the missile was launched from the Integrated Test Range in Balasore in the eastern state of Odisha, reaching a cruising speed of Mach 2.8. The test missile also featured “many other ‘Made in India’ sub-systems”, which are expected to eventually enter production to meet the government’s long-standing goal of enhancing defense equipment self-reliance as opposed to foreign imports.
+
+January 21/20: BrahMos According to media reports, India’s Strategic Forces Command has begun According to media reports, India’s Strategic Forces Command has begun receiving 42 Su-30MKI air dominance fighters modified to carry air-launched BrahMos supersonic cruise missile. This will significantly enhance the striking power of the air leg of India’s nuclear triad. The Sukhoi Su-30 MKI is a twin-seater, highly maneuverable, fourth-generation multirole combat fighter aircraft built by Russia’s Sukhoi Design Bureau and licensed to India’s Hindustan Aeronautics Limited. The plane will serve as the backbone of India’s Air Force through 2020 and beyond. Delhi has already acquired around 200 jets, and eventually plans to acquire 282 of them. The Brahmos is jointly developed by India’s Defense Research and Development Organization (DRDO) and Russia’s NPO Mashinostroeyenia. Capable of traveling at speeds of Mach 3.0, the Brahmos is the fastest cruise missile in the world. As Russia and India Report explained, “The BrahMos’ 3000 km per second speed – literally faster than a bullet – means it hits the target with a huge amount of kinetic energy. In tests, the BrahMos has often cut warships in half and reduced ground targets to smithereens.”
+
+December 19/19: Philippines The Philippines will ink the contract for India’s BrahMos supersonic anti-ship missiles in the first or second quarter of 2020. Defense Secretary Delfin Lorenzana added that two batteries will be purchased and they are being bought under “government-to-government mode”. The missile, which can be fired from land, submarines, ships and fighter jets, will be acquired for the Philippine Army for coastal defense missions and for Air Force. BrahMos will become the nation’s first weaponry with deterrent capability. The BrahMos is a medium range ramjet supersonic cruise missile that can be launched from submarine, ships, aircraft, or land. It is the fastest supersonic cruise missile in the world. India on December 17 successfully conducted separate trials of two variants of supersonic cruise missile BrahMos to check its capability to hit targets with precision and accuracy.
+
+December 5/19: Prithvi-II Test Launch India’s Strategic Forces Command (SFC) test launched a short-range nuclear capable ballistic missiles at night as part of its annual training cycle to validate the combat readiness of the Indian Army’s missile forces. The Prithvi-II tactical surface-to-surface short-range ballistic missiles was test fired from the Integrated Test Range (ITR) on Dr. Abdul Kalam Island in the Bay of Bengal off the coast of Odisha at nighttime on December 3. It was the second test firing of a Prithvi-II ballistic missile at night in less than two weeks.
+
+March 18/11: India’s Cabinet Committee on Security has cleared the induction of the indigenous Akash surface to air missiles for the Army, which will join the Air Force in deploying the missile. Indian Express.
+
+March 6/11: The Deccan Chronicle reports that the air-launched BrahMos project is being held up by contract issues between Russian and India. The launcher has been made, and ground tested. The problem is the need for structural changes to strengthen the plane, so it can still perform high-g maneuvers safely while carrying the heavy missile.
+
+Like the missile, the SU-30MKI is a partnership between Russia and India, with India license-producing the airframe and adding a lot of their own specified technologies. The basic design is Russian, however, as are key systems like the radar and engines. NPO Mashinostroeyenia says that if India wants to modify the fighters, India needs to pay for it – reports are vague, but say “many, many hundreds of crores”. A crore is 10 million rupees, and Rs 100 crore at current exchange rates is $.
+
+India’s DRDO responded by comissioning a study from HAL to modify the fighters themselves. HAL says they can do it for much less, but the SU-30MKI agreement has transfer of technology and licensing clauses. Those clauses apparently prevent India from undertaking those kinds of unilateral modifications. Until this is resolved, the air-launched BrahMos program will be delayed.
+
+Dec 21/10: BrahMos Aerospace and Russia’s NPO Mashinostroyenia sign a protocol to ensure there are no price escalation issues during the duration of India’s contract, and pledged to continue working on the hypersonic (Mach 5+) variant. As BrahMos officials so drily put it:
+
+“This makes it a first of its kind in the relationship between India and Russia that there would be no price escalation issue during the duration of the contract.”
+
+The Russian side also committed full support of its specialists to Indian industries for manufacturing elements of missiles which are presently not produced in India. Brahmand, via BrahMos Aerospace.
+
+Dec 2/10: A Brahmos Block III + missile is test fired from a Mobile Autonomous Launcher, at the Integrated Test Range at Chandipur in Balasore, India. The BrahMos Block III adds improved guidance and software, allowing high manoeuvres at multiple points, steep dive from high altitude, and terrain following capabilities that even work in mountainous areas. BrahMos Aerospace.
+
+Sept 5/10: A Brahmos Block-II is successfully tested in a complex trajectory that includes large maneuvers, and steep supersonic dive. The BrahMos JV claims that this is the first time a supersonic dive has been realized by a cruise missile, anywhere in the world.
+
+The Brahmos Block II variant will also be able to hit a smaller target in “a cluster of larger targets.” A fleeing car within a set of buildings would fit that description, making BrahMos an interesting quick strike option within the irregular warfare India must fight on several fronts. Another possible use for such capabilities would be to target vertical-launch missile cells on an enemy ship, if the system can process and differentiate that. BrahMos Aerospace.
+
+Aug 27/10: RIA Novosti quotes BrahMos Aerospace Ltd. CEO Sivathanu Pillai, who says the joint venture will begin producing missile engines at the Kerala Brahmos plant in southeastern India. Pillai reportedly said that the decision stemmed from rising demand in India, implying that the Orenburg plant in Russia is finding it hard to keep up. He believes that within 2 years, production volumes at Kerala will exceed Orenburg’s.
+
+Brahmos uses a a solid-propellant booster rocket, followed by a liquid-fueled ramjet for sustained supersonic cruise.
+
+Aug 25/10: RIA Novosti quotes BrahMos Aerospace Ltd. CEO Sivathanu Pillai, who says the PJ-10 is successfully using Russian-built Glonass GPS receivers for aiming and target acquisition, and intends to continue. Glonass was always intended as a oint military/civilian system, but RIA Novosti points out that Glonass has just 16 functional satellites out of 22, let alone the 24 working satellites needed for global navgation services.
+
+Russia has stated its intent to launch replacement satellites, in order to bring the GLONASS constellation to full performance. During a December 2005 summit, India agreed to share some of the development costs of the more advanced GLONASS-K series and launch 2 of the new satellites from India, in return for access to the more precise military GLONASS HP signal. Export customers would have to make their own arrangements.
+
+Aug 9/10: Defence Minister Shri AK Antony updates the status of various missile programs, in a Parliamentary reply to Shri SB Wankhede and Shri AP Shivaji. Trishul and Akash aren’t mentioned at all; the former presumably owing to its cancelation, the latter because it may no longer be a development program.
+
+The Nag anti-tank missile has completed its validation trials, and is ready to enter production. The reply does not mention orders. The HELINA helicopter-fired variant has been cleared for captive carriage trials and handed over to HAL.
+
+On the ballistic missile front, the Agni-I with a range of 700 km and Agni-II with a range of “more than 2,000 km” have been developed and inducted. Agni-III with a stated range of 3,000 km is described as “ready for induction.”
+
+The PJ-10 BrahMos supersonic cruise missile has been bought and inducted in Indian Navy and Indian Army. The Air Version of the missile is under development. Antony adds that: “Except BrahMos, no offer has been received from any country for joint venture in missile development programmes. There is no plan to accept the conditions of Missile Technology Control Regime.” This means India is willing to export BrahMos without complying with the MTCR’s limitations, which includes a 300km/ 500kg range/payload limit. That could place Russia in an interesting position, as it signed the MTCR in 1995. A second response from Antony says that:
+
+“The Inter-Governmental Agreement… stipulates that the missile… also will be exported to friendly countries. Therefore, the Government of India in consultation with Government of Russia will export Brahmos cruise missile to friendly countries taking into account the security needs of the both countries. The Brahmos joint venture has participated in many International Exhibitions and some countries have shown interest to buy. But, no decision has been taken by the Government regarding the countries to whom the missile can be sold… Export will start only after meeting minimum requirements of India. There is an Inter-Governmental Agreement signed between India and Russia on export of Brahmos missile. This also has approval of the Indo-Russian Inter-Governmental Commission for Military Technical Cooperation for export.”
+
+April 20/10: Brahmand reports that the BrahMos missile is ready for launch from underwater platforms. Indian Defence Minister A K Antony adds that the air-launched version would be ready in 2012, fr use from SU-30MKI fighters, and DRDO has provided INR 500 million for expansion of the manufacturing complex:
+
+“Some parts of the missile components and the airborne launcher are currently being produced in Thiruvananthapuram complex of BrahMos Aerospace. It is planned to set up the integration complex in the adjacent land belonging to IAF, so that the manufacturing of the missile can be from the Thiruvananthapuram complex.”
+
+Feb 2/10: India increases its Akash buy to 1,000. The Indian Air Force issues an INR 42.79 billion (about $925 million) contract to buy 750 more Akash medium-range surface-to-air missiles (SAMs) from state-run Bharat Electronics Ltd (BEL). This follows an INR 12.21 billion order for 2 initial squadrons with 250 missiles total, back in January 2009 (q.v. Jan 12/09 entry). Defence minister AK Antony reportedly said that:
+
+“A decision to place this fresh order with BEL was taken after the IAF expressed satisfaction with the performance of the Akash missiles that are deployed in two squadrons… on a pilot basis. The IAF has decided to deploy the weapon in more squadrons for optimal use.”
+
+Specifically, the IAF has now ordered 8 total squadrons of 125 Akash missiles each. Delivery under this order is expected between 2012-2015. The Hindu | Indian Express | Times of India | Times Now | Bloomberg | India’s Business Times.
+
+March 30/09: An Indian media story carried by DNA alleges that a senior Indian Air Force officer was instrumental in reducing India’s buy of the DRDO’s long Akash missile project from 8 squadrons to 2, and is now doing work related to MR-SAM for Israeli firms following his retirement from service:
+
+“Without naming the officer, Defence Research & Development Organisation chief M Natarajan told a press conference in Bangalore during the Aero India show last month that the officer had slashed his predecessor’s commitment to induct eight squadrons of Akash missiles. The officer had brought the figure down to just two squadrons. Akash has a range of 27km, while MRSAM has a range of about 70km. A source in the defence ministry confirmed that even for the induction of these two Akash squadrons, the IAF put a condition that the DRDO must first agree to the MRSAM project… “[He] killed Akash, blackmailed us to agree to MRSAM, and is now working for them openly.”
+
+That range difference would appear to be rather significant, all by itself. This situation could reflect a classic bureaucratic strong-arm tactic, executed by a service that accepted the inevitability of some Akash buys, but was unenthusiastic about the system and sought to minimize them. It is also possible that these arrangements could reflect corruption, as they did in the USAF’s Darleen Druyun/ Boeing scandal.
+
+The “revolving door” problem is hardly unique to India, and a political investigation is likely to ensue. Much will depend on the timing of his private-sector employment discussions, and India’s conflict of interest rules for retired senior officers. The MR-SAM contract was reportedly signed on March 27/09.
+
+March 30/09: Tata Power Company Ltd. announces that its Strategic Electronics Division (SED) has bagged a Rs 182.46 Crore (INR 1.82 billion, $32.25 million equivalent) to manufacture 16 tracked Akash launchers, to be delivered over the next 33 months.
+
+Feb 10/09: Top Left Front leaders, Prakash Karat (General Secretary, Communist Party of India – Marxist) and A B Bardhan (General Secretary, Communist Party of India) send a letter to Prime Minister Manmohan Singh Opposing the MR-SAM contract to Israel Aircraft Industries (IAI), asking the government not to “subvert” india’s indigenous missile effort, which it characterizes as “superior.” The letter also cites the bribery allegations against IAI (see Oct 13/08 entry). See: Press Trust of India | DID’s full MR-SAM coverage.
+
+Jan 26/09: India’s Army places an urgent Rs 592-crore ($120 million equivalent) order for 4,100 of MBDA’s Milan-2T tandem warhead anti-tank guided missiles (ATGMs), to be assembled under license by Bharat Dynamics, Ltd.
+
+The man-portable Milan-2T missiles will join existing Milan family missiles in India’s arsenal, and will be used alongside the 4,000 Russian AT-14 Konkurs and 443 Nag systems ordered in 2008. Unlike the Nag, the AT-14 and Milan-2T do not require a vehicle carrier like the tracked “Namica.” Milan is primarily a squad-portable missile, though it can be mounted on land vehicles if desired. The Indian Army is reportedly seeking about 7,000 more anti-armor missiles, “a gap that will be filled by producing Milan ER and buying foreign-made missiles,” according to an Indian Army official quoted by Defense News. India Defence | Defense News.
+
+Jan 20/09: Maitri – Revenge of DRDO? India Defence reports that neither MBDA nor India’s state-run DRDO have given up on their “SR-SAM” short range air defense proposal. Rumors peg it as a combination of DRDO’s Trishul and MBDA’s VL-MICA system, though Trishul’s failure and VL-MICA’s techologies mean that claims regarding Trishul technology are likely to be about saving face as much as anything else.
+
+The “Maitri” LLQRM proposal’s positioning would be directly competitive with RAFAEL’s SPYDER, and VL-MICA is deployable as a mobile system. That could affect SPYDER’s future expansion within the Indian military, and might even affect its prospects if program problems crop up. VL-MICA’s capabilities mean that an SR-SAM/Maitri using these missiles would also be directly competitive with India’s indigenous Akash, and might even impinge on the proposed medium range MR-SAM deal involving a longer-range Barak missile.
+
+Jan 12/09: The Indian Air Force has finally placed an INR 12.21 billion (about $250 million) order with Bharat Electronics Limited (BEL) for 2 squadrons of Akash surface to air missiles. The order was placed a full 14 months after the completion of field trials at Pokhran in Rajasthan, though the decision itself was made in May 2008 (see May 11/08 entry). The Hindu reports that:
+
+“Earlier, the IAF had reservations about placing the order as the missile, in its present version, does not meet a few of its operating requirements. The IAF wanted a smaller, lighter missile that had a longer range and was more manoeuvrable. The missile also does not have a seeker. However, batch-by-batch improvements in Akash are expected.”
+
+Jan 10/09: BrahMos Aerospace confirms that 2 Indian Air Force Sukhoi-30MKI fighter jets have been sent to Russia for a retrofit programme that would enable them to launch the Brahmos aerial version. the official added that in addition to work integrating the weapon into the plane’s electronics, the 9 m/ 29.5 foot long aerial missile will require modifications to the SU-30MKI’s fuselage.
+
+That length may be less of a problem for India’s forthcoming Boeing P-8i maritime patrol aircraft, but there has been no confirmation of plans to fit BrahMos to that platform yet. India’s domain-b business news.
+
+SPYDER MR vs. SR
+
+(click to view full)
+
+Dec 11/08: The Indian Ministry of Defence confirms that it has signed the Spyder contract – and canceled Trishul. Defence Minister Shri AK Antony, in a written reply to Shri Tarini Kanta Roy in Rajya Sabha:
+
+“Ministry of Defence has signed a contract with M/s Rafael, Israel to procure Spyder Low Level Quick Reaction Missile System (LLQRM) for the Indian Air Force. The proposal for Trishul system was foreclosed due to its inability to meet certain critical operational requirements. However, it served as a technology demonstrator and the expertise acquired with the technologies developed during design and development phase of Trishul Missile System are being utilized for developing state-of-the-art Short Range Surface to Air Missile System.”
+
+Dec 8/08: The Hindu reports that final user trials of the land version of Nag will be held in Chandan Air Force range, near Jaisalmer, from Dec 22 – 30/08. Nag project director S.S. Mishra says that up to 7 missiles will be fired during the Army trials, to be followed by summer Army trials in June 2009.
+
+Nag went on to complete the first phase of final user trials, while being fired against moving and stationary targets at different times during day and night.
+
+July 12/08: The Times of India reports that India’s Defence Research and Development Organisation planning the “final developmental flight trials” of Nag at Pokhran on July 27-28/08, to be followed by the “user-trials” in mid-September.
+
+“Over 60 developmental trials of Nag have been conducted over the years but recurring problems in the guidance systems, especially in the “imaging infra-red (IIR) sensor-based seeker”, has meant the missile is still to become fully operational. DRDO, however, is quite confident now…”
+
+June 22/08: Reports by the Press Trust of India indicate that France’s MBDA is looking to partner with the DRDO and Bharat Dynamics to offer a range of short-medium range anti-aircraft missiles. The proposed venture would offer these missiles to the Navy, Air force, and Army. It would compete directly with the Indo-Israeli MR-SAM proposal and the proposed purchase of Spyder short-range air defense, and could effectively sideline both Trishul and Akash. PTI. See also Jan 20/09 update.
+
+June 21/08: BrahMos Aerospace joint venture managing director, Dr Sivathanu Pillai says that they have finished development of the BrahMos-Airborne. Its booster size has been reduced compared to other variants, in order to lower its mass and maintain the requisite aerodynamic stability after launch.
+
+The BrahMos-A missiles will be mounted on the Su-30MKI, and may also see employment from future maritime patrol aircraft. Pillai added, however, that progress on the scheduled flight trials has been slow on account of Russia’s Sukhoi Design Bureau according priority to the fifth generation aircraft project. Deccan Herald.
+
+May 11/08: Sify.com reports that the Indian Air Force (IAF) has decided to induct 2 squadrons of Akash Surface-to-Air Missiles, each of which will have 18 batteries. The project is now being handed over to public and private sector industries for manufacturing, which may include Bharat Electronics Ltd (BEL), Bharat Dynamics Ltd (BDL) and Electronics Corporation of India (ECIL), along with the private sector Larsen and Toubro and Tata Power.
+
+Feb 27/08: Defence Minister Shri AK Antony offers a written Parliamentary reply to Shri S S Ahluwalia that itemized expenditures to date on each missile system, as of Jan 18/08. Note that these US dollar currency conversions given here will be inaccurate, because they use this day’s exchange rate – not the weighted rates over the 20+ year life of each program:
+
+Missile Reported Cost USD, Feb 28/08 Prithvi SRBM 2.99 billion rupees $75.2 million Agni IRBM (demonstrator) 743.4 million rupees $18.7 million Trishul SR-SAM 2.827 billion rupees $71.1 million Akash MR-SAM 5.169 billion rupees $130 million Nag anti-armor 2.123 billion rupees $53.4 million TOTAL INR 13.851 billion $348.4 million
+
+Feb 27/08: The Indian MoD once again denies that IGMP has been abandoned, while offering budgetary figures. The release does say that “Development of Trishul missile system has been completed as technology demonstration,” however, which tends to imply a low likelihood of fielding. MoD release.
+
+Jan 14/08: IANS, via India Defence:
+
+“After the Indian Air Force (IAF), the Indian Army too is hedging its bets on the indigenously developed Akash surface-to-air missile, saying it would test the weapon before deciding on its deployment… ‘Some of our requirements are still to be met. Only after that will we try out the system,’ [Indian Army chief Gen. Deepak Kapoor] said of the army version… taken 20 years to develop against a target of 12 years. At the same time, he did not deny media reports that the army had rejected the missile system. While the IAF has initiated steps to induct a squadron-strength… IAF chief Air Chief Marshal Fali Homi Major refused to commit himself to the eventual numbers of the missile the force would deploy… A senior IAF officer pointed out that this did not necessarily mean the IAF had accepted the missile. ‘What we witnessed were trials conducted in a DRDO environment. We will now conduct trials in our own environment. Let’s see what emerges from that,’ the officer told IANS, speaking on condition of anonymity. Now, with the army too seemingly unhappy with Akash, it is clear that there is a disconnect between the armed forces and the DRDO, which claims the missile is ready to go into serial production and that it expects orders worth Rs.5 billion ($120 million) from the IAF this year.”
+
+Jan 8/08: The IGMP program is reportedly terminated. Chennai Online:
+
+“India today announced scrapping of the country’s strategic integrated guided missile programme, and said the development and production of most of futuristic weapons systems would henceforth be undertaken with foreign collobration. However, longer range missiles, under-sea launched missiles and furturistic weapons systems like electronic counter-warfare measures would be “undertaken in-house”, said one of the country’s top defence scientists Dr S Prahlada. …New missile and weapons systems will be developed within a five-year time frame at low costs, with foreign partners and private industries” Prahalda, Chief Controller at DRDO headquarters, said.”
+
+Akash Exhibit
+
+(click to view full)
+
+Nov 26/07: Defence Minister Shri AK Antony sends a written reply to Shri Raghuveer Singh Koshal in Lok Sabha:
+
+“Brahmos Supersonic cruse missile has been successfully developed for Indian Navy and Indian Army as joint effort with Russia. Development of air version has also been sanctioned and is progressing for integration with SU-30 MKI for the Indian Air Force. The re-design and development of the air launched version of missile has been completed and missile is ready for testing. Suitable universal launcher for different types of aircraft has also been designed. The tests would be carried out in 2009.”
+
+Nov 26/07: Defence Minister Shri AK Antony refuses to answer questions re: negotiations with Israel under the MR-SAM program. See July 12/07 entry.
+
+Nov 21/07: India announces successful tests of the Akash missile in Rajasthan’s Thar desert near Pokhran, about 200km/ 120 miles from Pakistan’s borders and a previous site for nuclear testing, rather than at India’s National Missile Testing Range in the eastern state of Orissa. Samir Sinha, spokesman of India’s Defence Research and Development Organisation: “The test was a success and we hope Akash will be inducted very soon into the army.”
+
+The Akash system began test flights in 2000, and was expected to be inducted by the Indian Army and the Air Force by 2003; as of July 31/07, Rs 492.41 crore (about $121.4 million) has already been spent on Akash’s devedlopment. AFP report | India Defence report.
+
+July 12/07: The MR-SAM project may be about to take the Barak deal to a new level. If reports are correct, this Rs 10,000 crore (almost $2.5 billion) deal would see a long range version of the Barak enter service as India’s medium-range land-based surface-air-missile system – a move that would probably spell the de facto end of the Akash program, just as the Barak and Barak-NG have effectively killed Trishul.
+
+June 21/07: The land launched version of Brahmos is inducted into the Indian Army. India Defence reports that:
+
+“The Government had approved induction of three regiments of BrahMos Missile system in the Indian Army out of which the Army had initially placed the requirement for one regiment. The delivery of this system was to start from July 2008. However, for early operationalisation of the missile system, the delivery of one Mobile Command Post and two Mobile Autonomous Launchers has been advanced by one year.”
+
+See also RIA Novosti story.
+
+Dec 4/06: Brazil is inquiring about the PJ-10 BrahMos, in both the naval and land-launched versions.
+
+Nov 29/06: India Defence relays an official statement that “Akash, Nag and Trishul Missiles To Be Completed By December 2007.” Such promises have been made before. See the “Related Reports & News” section below for more skeptical assessments.
+
+Brahmos land test
+
+(click to view full)
+
+Oct 27/06: India and Russia intend to manufacture 1,000 BrahMos supersonic cruise missiles over the next 10 years through their joint venture company BrahMos Aerospace, selling nearly half of that production to third countries. The two countries have invested $300 million in the joint venture thus far. BrahMos has entered service with the Indian Navy, and the missile’s land-based version is expected to be inducted into the Army in 2007. Initial tests are also underway to modify the Indian Air Force’s SU-30MKI fighters for BrahMos carriage. Read the full article here.
+
+Oct 23/06: An MBDA release confirms that they have “agreed with India’s Defence Research and Development Organisation (DRDO) to support a number of anti-tank and air defence programmes.” This could mean either a rescue for Akash and Nag, or the effective end of those programs.
+
+Oct 14/06: India Defence reports that research and development work on the Trishul short-range ship defense missile will be stopped in December 2006, according to official sources in New Delhi. Instead, the Defence Research & Development Organisation (DRDO) will focus on developing an advanced version of the Israeli Barak missile.
+
+Aug 17/06: Defence Minister Shri Pranab Mukherjee offers a written Parliamentary reply to Shri Asaduddin Owaisi in Lok Sabha re: the Integrated Guided Missile Development Programme, He noted that the Akash medium range surface-to-air missile and Nag “3rd Generation Anti-Tank Missile,” were entering the user trials phase and “are expected to be inducted after that.” Of the short range Trishul surface-to-air missile, he simply said that it “has also been developed as a technology demonstrator.” See release, which also covers the Agni and Prithvi ballistic missiles.
+
+July 28/06: According to India Daily, “Indian Defence Minister Pranab Mukherjee told the Parliament on Thursday that New Delhi was selling BrahMos missile systems to other countries, but declined to give details “due to the sensitivities involved with export of the missiles”.” See link at india-defence.com.
+
+July 23-24/06: Not so fast. India conducts test-firings of the Trishul missile on July 23rd and July 24th; it is also reportedly being developed for use by India’s Army.
+
+February 7/06: Trishul’s future may be history. India is deepening cooperation with Israel re: the Barak.
+
+Appendix A: DID Op/Ed Analysis – India’s Export Prospects (Dec 1/05)
+
+Trishul Test
+
+It is worthy of note that development of the Trishul, Akash, and Nag missile systems were all inaugurated under the Integrated Guided Missile Development Program (IGMDP) begun by the Defence Rasearch Development Organisation (DRDO) 22 years ago in 1983. Unlike the Agni and Prithvi ballistic missiles, these other three missiles have yet to become operational in substantial numbers, and can be fairly described as still in the testing stage based on the Indian Minitry of Defence’s 2004-2005 Annual Report. It wasn’t until November 2004, for instance, that Akash trials conducted with a live warhead and active terminal radar navigation achieved repeatable performance against test targets.
+
+Indeed, both the Trishul and Akash missile projects have been reported as cancelled several times. India’s Defense Research and Development Organization (DRDO) or politicians usually clarified these reports by noting that the projects had “been converted to research & development projects.” The general follow-up was that testing would continue, while foreign missiles (the Israeli Barak procured by India’s Navy to fill the Trishul’s role, and recent discussions with the USA re: the Patriot) were investigated and/or procured for immediate needs.
+
+India’s Nag project also dates back to 1983, and has followed a similar pattern. Like Trishul and Akash, it has recently made strides toward full operational status, but its IIR guidance has been a consistent problem and advanced versions with millimeter-wave guidance have remained entirely elusive. The Nag will be confined to vehicle-mounted use.
+
+Along the way, India has looked to foreign missiles to fill its niche (Russia’s AT-14 Kornet, the AT-5 Spandarel produced locally by Bharat Dynamics as the Konkurs-M, and the Euromissile MILAN/MILAN2). In 2008, the Indian Army ordered 4,000 Konkurs-M missiles plus 443 homegrown Nag anti-tank missiles and 13 Namica tracked missile carriers, for induction from 2009-2011. In January 2009, the Army ordered another 4,000 Milan 2T missiles, to be built under license by India’s state-owned Bharat Dynamics Ltd.
+
+In many ways, these missile programs are excellent case examples of the systemic modernization and procurement problems that face India’s defense ministry and industry. In contrast, the PJ-10 BrahMos supersonic anti-ship/strike cruise missile began in 1998 as a joint project based on Russian SS-N-26 Oniks designs, and is already ready to enter service. Many consider this program to be a model of Indian defense procurement success, as the missile and can claim equivalent or superior range and performance to the SS-N-22 Moskit/Sunburn that was developed by Raduga in Russia and sold to India’s rival China.
+
+The decision to export these missiles does offer India a broader base of potential sales, which might allow it to recoup some of its development costs over the last 22 years. The DRDO’s Chairman of the IGMDP program and Chief Controller (R&D) said, for instance, that: “even if we market about a thousand missiles, it will be a big thing and fetch something between Rs. 3,000 to 4,000 crores. (USD $66-88 million)”
+
+On the other hand, the missiles have to actually sell abroad in order to generate that benefit.
+
+India will assuredly have a number of clients for BrahMos; but it remains to be seen whether any of its other missile programs will gain traction on the global market. It is possible that Akash will find a niche as an “under the radar” SAM choice that sits between Russia’s SA-6 (generally considered to be unreliable against advanced threats), and advanced S-300 (whose export tends to provoke strong reactions from the USA).
+
+Trishul and Nag, on the other hand, will have to contend with a plethora of capable, modern competitors from Russia, France, Israel, Sweden, Europe, and the USA that exhibit superior performance and/or a more confidence-inspiring record. Neither France nor Russia make political or human rights considerations much of a factor in their arms sales, which would give these competitors an additional edge even if India’s standards end up being less restrictive than those of European or US firms.
+
+Unless India can drive sales based on cost and political support, therefore, export prospects for the latter two missile systems at least do not appear particularly strong.
+
+Appendix B: Additional Readings & Sources – Related Reports & News
+
+Appendix C: Additional Readings & Sources – The Missiles

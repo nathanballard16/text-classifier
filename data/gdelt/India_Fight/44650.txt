@@ -1,0 +1,51 @@
+Exclusive: Blueprint for anti-drone technology at top Indian airports soon
+
+On September 14, Saudi Arabia suffered the deadliest attack on its oil facilities. The shocking attack, which saw a small army of drones attack two major oil plants, destroyed nearly 50 per cent of the country's global supply of crude. Questions arose with many experts asking whether India would be able to avert or pre-empt such an attack?
+
+India Today TV has learnt that a blueprint to secure India's civil airports and prevent such drone attacks is in advanced stages. Sources said an IIT Bombay alumni company, IdeaForge, has been tasked by the Central Industrial Security Force (CISF) to come up with a solution by the year-end.
+
+Taking seriously intelligence inputs that terror groups such as Jaish-e-Mohammed and Lashkar-e-Taiba could use drones as platforms for IEDs to target Indian installations including airports, multiple field trials have been carried out in the past three months in Rohini area of Delhi.
+
+Sources said that IdeaForge, which designed the Netra drong alongwith the DRDO, was authorised after CISF was dissatisfied with field results carried out by western and domestic anti-drone makers. Top sources told India Today that "Several companies came in for the field test including Israel, German and Indian companies each promising state of the art technology."
+
+The companies needed to pass two criteria: One is to have a system with white listing, which essentially "attacks the enemy drone, without harming your own drone or even your own plane in vicinity." The other was to perform tasks without hampering the communication system. However, the companies did not live up to the claim.
+
+So CISF roped in the makers of indigenous drone Netra -- IdeaForge. Speaking over the phone from Singapore, Ankit Mehta, CEO of IdeaForge agreed that "Currently there are no homegrown anti-drone solutions. Anti-drone [technology] is mostly indiscriminate jamming tech for GPS and communications. So we are customising work to deeply integrate and reduce system redundancies. Something that does detections agnostic to the drone provider."
+
+Sources say that the company is in an advanced stage with a western partner to sign an MoU. The blueprint of this will be out by year-end, or sooner.
+
+The company has already provided over 700 drones to Central Armed Police Force (CAPF), but this is the first time it is venturing into anti-drone technology systems.
+
+CHALLENGES
+
+Detection of drones is a complicated task, today companies around the world have defined the three most common means of detection: RF-monitoring, Radar and/or Optical Sensors (Cameras).
+
+Each method of detection has its limitations. The main limitation of RF-monitoring (monitoring the communication link of the drone) is the inability to detect pre-programmed or satellite operated drones. With radars there are limitations of range, efficiency of coverage, volume of false alarms and cost.
+
+Further, once a drone is detected by a radar there must be verification and classification of the drone before countermeasures are deployed. This requires optical sensors. Optical sensors are limited by short range, and thermal cameras that are available with long range are very expensive.
+
+According to Ankit, "A hierarchy for sensors needs to be taken into considering drone detection, where RF-monitoring is the base of the solution and other sensors are integrated by software."
+
+SOFT KILL, HARD KILL
+
+Sources in security grid said that they are closely looking at anti-drone technology that must include different levels of "soft kill" and "hard kill".
+
+At the basic level, soft kill involves detection and monitoring, particularly a technology that generates UAV data like speed, distance and time. However at an advance stage, "soft kill" requires the system to take control of the drone. An interruption of the signal between the drone and the controller, and co-opting the aircraft, effectively intercepting and stealing the UAV is imperative in this methodology.
+
+Hard kill, on the other hand, is precision based and aimed at neutralising or terminating projectiles and kinetics. This could include nets, bullets (or shotgun pellets), mortar rounds or missiles, anything to knock the object out of the sky and to the ground. At an advanced level hard kill involves countering lasers, magnetics, and other means.
+
+FAST-CHANGING TECH
+
+Anti-drone technology is changing at a faster pace than the makers. A former DG of CAPF said, "It's a fast changing technology as features change and prices of such technology fall because of constant innovation." The technology for now exists in countries like United States and Israel. But India is focusing on getting an India-based tech company to head the project which will shape the future of anti-drone technology.
+
+Another former top officer said, "Tracking, jamming and kinetic are methods used in anti-drone technologies but only few have hybrid, hijacking, and cyber approaches, which is the need of hour.
+
+Sources said that the aim of anti-drone technology is to instantaneously detect and identify drone threats and terminate them, preventing a Saudi Arabia-style drone attack. Sources that, in keeping with threats, the Directorate General of Civil Aviation (DGCA) has already done a lot of ground work including streamlining process of identification of drones, both belonging to civilians and law enforcement agencies.
+
+Simultaneously, the Bureau of Civial Aviation (BCAS) which authorises the use of gadgets and technology to protect 135 airports in the country, will soon be writing to the airports, putting out a circular on the use of anti-drone technology, wherever possible.
+
+The use of anti-drone technology will however be initially limited to sensitive airports including those in the metropolitan cities. However sources say three civil airports in Jammu, Ladakh and Srinagar, which is manned by the CRPF have protection from defence forces. A top officer said "Since we are closes to border, the defence establishment see whether such an aerial attack is being carried out."
+
+For generations, Indian security forces have battled insurgents for control of land. The next threat, many experts believe will come from the air. Since 2003, it has been known that the Lashkar-e-Taiba has had an interest in Unmanned Aerial Vehicles, drones or even small gliders.
+
+Sources said there have been multiple attempts by both JeM and LeT to adapt commercially available drones as platforms for IEDs.

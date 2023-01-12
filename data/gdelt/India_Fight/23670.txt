@@ -1,0 +1,99 @@
+Supreme Court Of India Struck Down Pre-Deposit Clause As A Pre-Condition Requirement In An Arbitration
+
+ARTICLE
+
+To print this article, all you need is to be registered or login on Mondaq.com.
+
+FACTS
+
+In 2008, the Punjab State Water Supply and Sewerage Board (hereinafter referred to as the "First Respondent") issued a notice for tender for the extension and augmentation of water supply, sewerage scheme, pumping station and sewerage treatment plant for various towns.
+
+ICOMM Tele Ltd. (hereinafter referred to as "the Appellant") successfully contested for the same and on 16.01.2009, a formal contract was entered into between the Appellant and the Executive Engineer, Punjab State Water Supply and Sewerage (hereinafter referred to as "the Second Respondent").
+
+It is pertinent here to note that the notice inviting tender formed part and parcel of the formal agreement and the notice inviting tender therein contained a detailed arbitration clause which is reproduced herein below:
+
+"viii. It shall be an essential term of this contract that in order to avoid frivolous claims the party invoking arbitration shall specify the dispute based on facts and calculations stating the amount claimed under each claim and shall furnish a "deposit-at-call" for ten percent of the amount claimed, on a schedule bank in the name of the Arbitrator by his official designation who shall keep the amount in deposit till the announcement of the award. In the event of an award in favour of the claimant, the deposit shall be refunded to him in proportion to the amount awarded w.r.t the amount claimed and the balance, if any, shall be forfeited and paid to the other party."
+
+"The notice for tender contained a detailed arbitration clause, which, in Clause 25(viii) provided that any party invoking arbitration shall, inter alia, "furnish a 'deposit-at-call' for 10% of the amount claimed. In the event of the award being passed in the claimant's favor, the deposit would be refunded to the claimant "in proportion to the amount awarded with respect to the amount claimed." Furthermore, the balance, if any, would be "forfeited and paid to the other party".
+
+When dispute arose between the parties and subsequently the arbitration was invoked, the Appellant sought waiver of the pre-deposit of 10% of the claim amount. The said request of the Appellant was not entertained and thereby the Appellant had approached High Court of Punjab & Haryana challenging the validity of such a pre-deposit requirement.
+
+However, the High court did not find the condition to be arbitrary or unreasonable and thereby refused to strike it down.
+
+Thereafter, the matter reached to Supreme Court wherein it was listed before a bench comprising of J. R.F. Nariman and J. Vineet Saran.
+
+ISSUE BEFORE THE SC
+
+The issue before the Supreme Court was:
+
+Whether Clause 25(viii) ought to be struck down on ground(s) that it:
+
+
+
+Amounted to a contract of adhesion and therefore, violated Article 14 of the Constitution of India; Was arbitrary and/or discriminatory; Deters arbitration.
+
+OBSERVATION
+
+The Court, at the onset rejected the contention of the Appellant wherein, it was argued that the arbitration clause was void as it is a 'contract of adhesion' owing to the unfair bargaining power between the parties.
+
+The Court observed that the transaction was commercial in nature and a presumption exists that such contracts are entered into after several rounds of negotiations, with the involvement of experts. In doing so, the Court then considered the effect of Clause 25(viii) on the ability of the parties to settle their disputes through arbitration.
+
+The Court, while considering that the aim of Clause 25(viii) was to deter frivolous claims, observed that the clause is arbitrary in the sense of being unfair and unjust and that no reasonable person would agree to the same. The Court further observed that not every claim is essentially frivolous. A claim may be dismissed or allowed on merits and not because it is frivolous.
+
+The Court then observed and indicated that in case a claim is found to be frivolous, it is always open for an arbitrator to dismiss the claim with exemplary costs.
+
+The Appellant also argued that the Clause 25(viii) was arbitrary and therefore violated Article 14 of the Constitution of India.
+
+The Court noted that "even within the contractual sphere, the requirement of Article 14to act fairly, justly and reasonably by persons who are "state" authorities or instrumentalities continues". The court agreed with the submissions made by the Appellant that the Clause in the contract between the parties was arbitrary and violative of Article 14.
+
+CONCLUDING VIEW
+
+The Court concluded that Clause 25(viii) was arbitrary, excessive and unjust because it could potentially result in a situation where despite an award against it, the party who has lost in the arbitration proceedings will be entitled to forfeit 9/10th of the deposit made despite the fact that the aforesaid party has an award against it.
+
+The Court highlighted the importance of Alternative Dispute Resolution Mechanism pertaining to the high pendency of cases in courts and the cost of litigation.
+
+The Court held that:
+
+"any requirement as to deposit would certainly amount to a clog on this process. Also it is easy to visualize that often a deposit of 10% of a huge claim would be even greater than court fees that may be charged for filing a suit in a civil court."
+
+For the aforementioned reasons, the Court struck down Clause 25(viii) of the contract and held in para 27 of the judgment that:
+
+"Deterring a party to an arbitration from invoking this alternative dispute resolution process by a pre-deposit of 10% would discourage arbitration, contrary to the object of de-clogging the Court system, and would render the arbitral process ineffective and expensive. For all these reasons, we strike down clause 25(viii) of the notice inviting tender. This clause being severable from the rest of clause 25 will not affect the remaining parts of clause 25.
+
+REASON OF JURISPRUDENCE
+
+The Court reiterated the principle propounded in Central Inland Water Transport Corporation v Brojo Nath Ganguly (1986) 3 SCC 156, a case concerning the disciplinary rules in an employment contract between a state-owned entity and its employees.
+
+"The court noted that its reasoning would not apply to a commercial transaction. Hence this case does not fall within the scope of the present case."
+
+The Court also followed the principle propounded in Directorate of Education v. Educomp Datamatics Ltd., (2004) 4 SCC 19:
+
+"It is well settled now that the courts can scrutinize the award of the contracts by the Government or its agencies in exercise of their powers of judicial review to prevent arbitrariness or favoritism. However, there are inherent limitations in the exercise of the power of judicial review in such matters."
+
+Hence, the terms of an invitation to tender are not open to judicial scrutiny, as they are in the realm of contract, unless they are arbitrary, discriminatory, or actuated by malice.
+
+The Apex Court in State of J & K v. Dev Dutt Pandit, (1999) 7 SCC 339, held:
+
+"Arbitration is considered to be an important alternative disputes redressal process which is to be encouraged because of high pendency of cases in the courts and cost of litigation. Arbitration has to be looked up to with all earnestness so that the litigant public has faith in the speedy process of resolving their disputes by this process. The present case is a paradoxical situation which should be avoided. Several judgments of this Court have also reiterated that the primary object of arbitration is to reach a final disposal of disputes in a speedy, effective, inexpensive and expeditious manner."
+
+Further, the Court also reasoned by reiterating the principle propounded in Union of India v. Varindera Constructions Ltd., (2018) 7 SCC 794, held that:
+
+''The primary object of the arbitration is to reach a final disposition in a speedy, effective, inexpensive and expeditious manner.''
+
+AMLEGALS REMARKS
+
+In the present case, the Court directed that while pre-arbitral deposit requirements are not invalid per se, unless pre-conditions, for initiation of an arbitration, which are disproportionate and/or burdensome so as to make arbitration a less desired dispute resolution mechanism vis-à-vis litigation in Courts.
+
+Further, the Court emphasized that measures for deterring such claims cannot override the basic feature of arbitration, namely – "fair, speedy and inexpensive trial by an Arbitral Tribunal".
+
+It is pertinent to note that the present decision was passed taking into consideration the fact that there existed a contract between a state instrumentality and a private party. The Court, in substance,held that Clause 25(viii) was arbitrary and, as such, in violation of Article 14 of the Constitution of India.
+
+The decision given by the Court in the present case is in the nature of a systematic and pragmatic shift in favor of arbitration as a means to resolve disputes in a fair, just and speedy manner.
+
+The content of this article is intended to provide a general guide to the subject matter. Specialist advice should be sought about your specific circumstances.
+
+This content is purely an academic analysis under "Legal intelligence series".
+
+© Copyright AMLEGALS.
+
+Disclaimer: The information contained in this document is intended for informational purposes only and does not constitute legal opinion, advice or any advertisement. This document is not intended to address the circumstances of any particular individual or corporate body. Readers should not act on the information provided herein without appropriate professional advice after a thorough examination of the facts and circumstances of a particular situation. There can be no assurance that the judicial/quasi-judicial authorities may not take a position contrary to the views mentioned herein.

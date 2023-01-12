@@ -1,0 +1,79 @@
+After Mission Shakti, declare a ‘No First Use’ policy in space as well
+
+The recent anti-satellite missile test or Mission Shakti has announced India’s arrival as a space power, with the country joining the league of the US, Russia and China.
+
+Now, as a responsible space power, India must declare a ‘No First Use’ policy for its demonstrated capability of kinetic destruction, which involves physically striking the target satellite.
+
+What must be clearly understood is that war in space will inevitably be linked to war on Earth. And India’s role as a space power must be aimed at reducing the possibility of a space war.
+
+Why the test
+
+The rationalisation for the anti-satellite (A-SAT) test is rooted in India’s growing dependence on satellites for economic development and security.
+
+It has been described as a defensive measure not aimed at any country. “The capability achieved through the anti-satellite missile test provides credible deterrence against threats to our growing space-based assets from long-range missiles, and proliferation in the types and numbers of missiles,” the government said.
+
+Also read: A-SAT missile: Is India focusing on ‘Star Wars’ instead of modernising its creaking military?
+
+In essence, India is seeking to deter any space power that may attempt to neutralise its space system.
+
+Neutralisation of satellites
+
+A space system has three parts that can be attacked – the constellation of satellites, links from satellites to the Earth; and the ground stations.
+
+Neutralising space assets in any imagined war scenario would first involve disabling those functions that have military utility.
+
+From a tactical perspective, it would be primarily aimed at disabling satellite-based capabilities that provide reconnaissance and surveillance, electronic intelligence (ELINT), communications, navigation, missile early warning, and nuclear explosion detection. However, these functions are distributed over several satellites. And, some of these functions, like GPS for navigation, could be controlled by other countries as well.
+
+In broader terms, neutralisation would involve targeting satellites, particularly those meant for reconnaissance, that are distributed across the Low Earth Orbit (LEO) at an altitude of 160-2,000 km above the Earth’s surface.
+
+Satellites controlling navigation in the Medium Earth Orbit (MEO) of 2,000-35,785 km and those offering communications and early warning of missile firing in the Geosynchronous Earth Orbit (GEO) of 35,786 km can be neutralised too. India, however, does not yet have the capability for neutralising satellites in MEO/GEO, nor does it have sufficient space situation awareness capability.
+
+Destruction or disabling satellites could be carried out by kinetic or non-kinetic means. Kinetic A-SATs physically strike the target satellite by making a missile or any platform collide with it. This can also include purposeful collision by manoeuvring another satellite. The A-SAT test performed by India was kinetic in nature.
+
+A non-kinetic A-SAT utilises a variety of non-physical means to destroy or disable the target. Frequency jamming, blinding lasers or cyber-attacks could be the means employed to do so. In this case, there is a lesser probability of the target breaking up, thus preventing addition to the space debris.
+
+Also read: India’s A-SAT missile strike added to space debris like Kanpur adds sewage to Ganga
+
+Strategic value of kinetic destruction
+
+Securing India’s space assets through deterrence based on kinetic destruction is questionable. This is because several factors make this proposition almost unviable.
+
+First, there is the problem of debris, which is likely to impact the assets of other countries that are not India’s adversaries. LEO is presently the most congested orbit and is increasingly prone to debris collision, a phenomenon described as the Kessler Syndrome. In this scenario, non-kinetic means provide a better alternative although these depend on technological capability.
+
+Second, military effectiveness would require targeting a fairly large number of satellites widely distributed in different orbits at differing altitudes. Deploying additional missiles for different altitudes entails building substantial capacity with little payoff.
+
+Third, destruction of ground stations would be more effective as their locations are fixed and known.
+
+Therefore, the strategic case is weak for building a separate kinetic destruction potential.
+
+Non-kinetic path is better
+
+Currently, kinetic threats to India could originate from China whereas non-kinetic threats can be posed by several other sources and is actually the bigger concern.
+
+Therefore, kinetic capability should not be the basis for credible deterrence because it ignores the strategic weaknesses of kinetic destruction. A non-kinetic path is better suited for India.
+
+Also read: Mission Shakti cements India’s position at the ‘Space NPT’ high table
+
+Moreover, India’s kinetic destruction capability is inherent in its Ballistic Missile Defence programme, and if needed it can play a supplementary role to the non-kinetic approach. This will also allow India a much-needed political space to adopt a ‘No First Use’ doctrine for kinetic action.
+
+Carefully crafted deterrence strategy
+
+India is already a space power with more than 40 satellites in space with an indigenous satellite launch capacity. With the A-SAT test, India has established a capacity for force application in space, which is undoubtedly a scientific feat although the capability is rudimentary.
+
+India has also stayed within the boundaries of the international rules while strategically following the capability path treaded by the US, Russia and China.
+
+However, it must be cautious in not blindly following them without carefully evolved national objectives and priorities that are financially resourced and belie allegations that view the A-SAT test as one meant primarily for electoral purposes.
+
+Deterrence capability for security of space assets must cover all the three parts of the space system that can be attacked.
+
+Preferably, non-kinetic means should be used for targeting satellite constellations and links from satellites to the Earth stations.
+
+Kinetic capability must be employed for targeting the adversary’s ground stations. India, therefore, must develop a substantial conventional missile capability for this.
+
+Being a nuclear power, the difficulty of identifying between a nuclear and conventional missile will impact crisis stability, which it already has, since our adversaries have for long deployed conventional missile capability.
+
+Also read: Why space debris from India’s Mission Shakti may not be that dangerous after all
+
+Becoming a responsible space power should be India’s natural inclination. It should focus on building only relevant deterrence capability and follow a ‘No First Use’ doctrine as well work towards its global adoption.
+
+The author is PVSM, AVSM, VSM and Director, Strategic Studies Programme at Takshashila Institution, Bengaluru. He was the former Military Adviser in the National Security Council Secretariat, New Delhi.

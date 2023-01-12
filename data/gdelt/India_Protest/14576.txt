@@ -1,0 +1,17 @@
+IIT Kharagpur Invents Method To Generate Electricity From Washed Clothes Drying In The Sun
+
+In India, we like to live as frugally as possible. So most of us would rather use clotheslines to dry out our clothes than invest in a washing machine with a built-in dryer.
+
+Now, researchers from IIT Kharagpur say they can actually use this to generate a little bit of power.
+
+Images courtesy: Reuters
+
+Led by Suman Chakraborty, a professor in the institute's mechanical engineering department, the team designed a method to use the nanochannels in the fabric of the drying clothes to generate electricity. Similar to how water is moved through nanochannels in the cellulose of plants, the technique generates electrical power through the guided movement of saline water through these channels as it's evaporating.
+
+"The regular cellulose-based wearable textile, in this case, acts as a medium for the motion of salt ions through the interlace fibrous nano-scale network by capillary action, inducing an electric potential in the process," said Chakraborty.
+
+As part of their study, the researchers attempted to demonstrate the process in action in a remote village. They had local washermen put around 50 sheets to dry in tandem over a 3,000 square metre area. The clothes were then connected to a commercial super-capacitor. This helps the large surfaces of the sheets achieve a sustainable movement of salt ions through natural evaporation.
+
+Using this setup, the researchers were able to generate up to 10V in almost 24 hours, enough to have an LED bulb glow for over an hour.
+
+It doesn't seem like a lot, but such a breakthrough could do wonders in poor and remote communities. For one, this doesn't require any other fuel or means to activate it. And people are always washing and drying their clothes anyway, so there's no wasted effort. Additionally, evaporation is enhanced in hot and dry environments. So we might actually be able to generate electricity faster in locations that need it more.

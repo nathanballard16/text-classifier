@@ -1,0 +1,25 @@
+Microsoft in talks to use state-run ITI Ltd’s data centre for govt contracts
+
+Microsoft is in talks with state-run telecom equipment firm ITI Ltd to use its upcoming data centre for the tech giant’s Azure cloud services, said The Economic Times.
+
+The talks are in line with Microsoft’s aim to tap into the growing opportunities surrounding government contracts within the country.
+
+ITI is building the data centre in Bengaluru, which will have more than a 1,000 racks.
+
+India is fast proving to be a fertile ground for companies working on cloud, with opportunities abounding in BFSI (banking, financial services and insurance), retail and internet sectors.
+
+Giants such as Microsoft, Amazon, Alibaba and Google have already set up data centres in the country, which now has close to 150 data centres, said the report.
+
+Local data centres assume increased significance due to recent developments.
+
+To store and process Indian data locally, the central bank had set a 15 October 2018 deadline for global payment firms such as Visa, MasterCard and Google Pay.
+
+The draft data protection Bill also recommended critical personal data to be stored locally.
+
+Microsoft already possesses a few cloud regions in India.
+
+“Microsoft has a two-pronged approach to cloud. First, it delivers its own cloud services via Azure data centres in India. The other is via Azure stack, which enterprises and services providers/hosters can use to deliver their own cloud services,” Santosh Rao, an analyst who tracks cloud business for technology researcher Gartner, told The Economic Times.
+
+Gartner had earlier estimated that public cloud service spending will reach $2.5 billion by 2019.
+
+Microsoft will have a local cloud service partner engage with ITI Ltd for Azure cloud services.

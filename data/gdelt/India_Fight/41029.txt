@@ -1,0 +1,55 @@
+Andrew Yang’s climate plan, explained
+
+Most plans to deal with climate change don’t feature the plank “Move our people to higher ground,” but most plans to deal with climate change don’t come from Andrew Yang, the entrepreneur and writer turned dark horse presidential candidate.
+
+Yang’s signature 2020 policy is his “Freedom Dividend,” a plan that would give every American adult $1,000 a month, no strings attached. But he has laid out 169 other proposals as well, and this week unveiled a lengthy climate change plan.
+
+Yang commits to an aggressive timeline for abandoning fossil fuels: a zero-emissions requirement for all new cars by 2030, a 100 percent renewable electric grid by 2035 (it’s not clear if he considers nuclear a “renewable”), net-zero emissions from transportation by 2040, and net-zero emissions overall by 2049 (there could still be some emissions then, but they’d have to be offset by carbon-negative actions). He would set a carbon tax of $40 per ton, rising gradually to $100 per ton, including a fee on imports from countries without similar carbon taxes.
+
+He pledges $4.87 trillion in climate-related spending over 20 years, though “climate-related” is a bit of a loose term; $400 billion of that total comes in the form of publicly financed campaign donation vouchers that citizens can use to “wash out the influence of lobbyists” for oil, gas, and coal companies, presumably by donating to the campaigns of supporters of aggressive climate action. He would end all leases for fossil fuel extraction on federal lands.
+
+The timeline here is aggressive, which makes sense given recent warnings from the United Nations Intergovernmental Panel on Climate Change that we are running out of time to limit warming to 1.5 degrees Celsius. The price tag is, if anything, smaller than that of his rivals for the nomination.
+
+Bernie Sanders has proposed a yet more aggressive timeline of halving emissions by 2030 with his Green New Deal and proposes spending a whopping $16.3 trillion over 15 years. Elizabeth Warren has called for a moratorium on fossil fuel extraction on federally owned lands (though not an end to all existing leases), $1.5 trillion in federal purchases of “US-made low-carbon technology,” $400 billion over a decade in research and development for clean energy, and $100 billion to subsidize other countries’ purchases of our green tech.
+
+But there are also some distinctively Yang-y touches to the plan. This is a climate plan that has a section on “Moving to Higher Ground,” arguing we have to accept and adapt to climate change’s effect as well as mitigate them — ideas you’re more likely to hear batted around on speculative tech news sites (and maybe prepper sites) than in mainstream political debates.
+
+Andrew Yang wants to bet big on nontraditional nuclear power
+
+By now, most (but not all) environmentalists have accepted that nuclear power, at least in existing plants, has to be part of the solution to climate change. It’s less deadly than coal or natural gas, and produces no greenhouse gas emissions. Unlike solar or wind, it’s low-variability, meaning it could provide ongoing power even when the sun isn’t shining and the wind isn’t blowing. But nuclear has major drawbacks, not least of which are that it produces long-lived radioactive waste that has to be safely stored for thousands of years.
+
+So Yang proposes massive subsidies for two somewhat speculative alternatives to traditional nuclear reactors. The first, nuclear fusion, involves crashing hydrogen isotopes together at high speeds so that they fuse together, releasing energy; this is the same process through which the sun produces heat. The radioactive materials involved in fusion stay dangerous for a matter of decades, not thousands of years, but after decades of effort, no one has figured out how to make a fusion reactor that “breaks even”: that produces more energy than is needed to heat the reactor up to 100 million degrees Kelvin to cause the fusion reaction in the first place.
+
+That said, there are a number of physicists and private companies around the world trying to make fusion power economically viable, and Yang’s plan is designed in hopes that additional subsidies would get them closer.
+
+Yang’s plan is even higher on the prospects of thorium power. Thorium is a more common element than uranium (and, according to its proponents, easier to mine) but decays into uranium-233, meaning thorium can be used as initial fuel for a nuclear reactor. Advocates of thorium (and there are many in futurist circles) argue that thorium-fueled reactors will produce far less waste than traditional uranium reactors, and waste that is radioactive for hundreds rather than thousands of years.
+
+Thorium power is less speculative than fusion, but still in its infancy as a technology. The US briefly ran an experimental reactor using uranium-233 in the 1960s, and both China and India have thorium reactors in development. Yang’s plan to invest $50 billion to have thorium-fueled and/or fusion reactors coming online by 2027 may be optimistic but would arguably help the US keep pace with those countries.
+
+Andrew Yang wants to prepare for doom
+
+About halfway through, Yang’s plan starts talking about how we’re all going to adapt to the horrors that climate change will wreak.
+
+This section of his plan is called “Moving to Higher Ground” and is framed around proposals to do just that: relocate and otherwise adapt humanity to accommodate climate-related disasters that make previously habitable places unlivable.
+
+For instance, he calls for:
+
+$40 billion in relocation or home elevation subsidies, grants, and loans for people in coastal communities who want to either move inland or elevate their homes
+
+$30 billion for seawalls, water pumps, more absorbent roads and sewers, and other adaptations for coastal cities at risk of flooding
+
+$25 billion in “pre-disaster mitigation grants” to hurricane- and flood-prone regions
+
+Quintupling the US Forest Service budget to $24.5 billion per year for five years to combat wildfires
+
+Nationalized fire insurance for high-risk fire zones that requires homes be built in a fire-resistant way and that insurance be reevaluated in cases where the area is deemed no longer livable
+
+This is an unusual posture for a campaign, simply due to how bleak it is. Part of the political logic of a Green New Deal involves thinking of climate action as a hopeful possibility that brings with it jobs, investment, and a better quality of life. Yang is arguing, instead, that we have to accept that climate change is already having an impact and has to be accommodated as well as mitigated.
+
+Yang also goes a step further than most campaigns in talking about geoengineering: using experimental technologies to absorb carbon or reduce the amount of sun that makes it to Earth, so as to minimize the worst effects of climate change.
+
+Directly capturing carbon dioxide and planting trees are not very controversial in climate policy circles; the issue, with the former especially, is cost, not wisdom. “Space mirrors,” suffice it to say, are much more controversial, not least because they’re basically impossible to test. So too with aerosol scattering and ocean seeding (Kelsey Piper wrote a piece about one such attempt at the latter).
+
+Yang proposes spending $800 million on geoengineering research and holding a global summit to coordinate work on the issue. But he’s clear that solar mirrors, for instance, should only “be investigated as a last resort,” and that more research is needed before deciding to actually engage in one of these courses of action.
+
+Sign up for the Future Perfect newsletter. Twice a week, you’ll get a roundup of ideas and solutions for tackling our biggest challenges: improving public health, decreasing human and animal suffering, easing catastrophic risks, humanely handling the scourge of feral hogs, and — to put it simply — getting better at doing good.

@@ -1,0 +1,41 @@
+Is India Trying to Suppress Military Analysts on Twitter?
+
+Following complaints from Indian users and the nationalist government of Indian prime minister Narendra Modi, Twitter in mid-June 2019 suspended several users who had tracked Indian and Pakistani military activities using public information.
+
+The suspensions targeting the so-called “open-source intelligence,” or OSINT, community raises serious questions about Twitter’s commitment to fairness, facts and intellectual freedom. Equally troubling is the Indian government’s apparent influence on a social-media platform with millions of users all over the world.
+
+The accounts Twitter targeted all had one thing in common. They questioned the Indian government’s claims in the aftermath of the brief but intensive aerial clash between Indian and Pakistani warplanes over Kashmir in February 2019.
+
+The battle began when Indian planes on Feb. 26, 2019 attempted to bomb an alleged Pakistani training camp outside Balakot, near the border with Kashmir. Both India and Pakistan claim the mountainous region. Military skirmishes and militant violence are frequent in Kashmir.
+
+At least one Indian warplane, a MiG-21, was destroyed. Pakistani troops briefly held the pilot before repatriating him. New Delhi claimed its own forces shot down a Pakistani F-16 fighter, but provided no evidence.
+
+OSINT accounts closely followed the fighting and challenged claims from Indian and Pakistani sources. Open-source intelligence practitioners usually rely on a mix of news reports, social media, commercial satellite imagery and public ship- and flight-tracking software to keep tabs on military operations.
+
+The OSINT analyst with the Twitter handle @ELINTNews the day of the initial Indian air raid questioned India’s claim that its jets shot down an F-16. “No evidence so far to corroborate India’s claim of it downing a Pakistani plane,” ELINTNews noted . By contrast, images quickly appeared on-line confirming Pakistan’s destruction of an Indian MiG.
+
+A count of Pakistani F-16s later confirmed that none were missing.
+
+Months later, India retaliated against the Twitter OSINT community. Reporter Snehesh Alex Philip summarized the situation in a June 18, 2019 story in The Print. “The social media giant has told handles like the popular @ELINTNews, that they’ve been suspended for ‘violating Indian laws.’”
+
+“Seems they're knocking off the big OSINT accounts due to Indian complaints that they're terrorists, or something,” Steffan Watkins , a prominent Canadian OSINT analyst, told The National Interest.
+
+“The move has led to speculation that the Indian Air Force is behind it,” Philip explained. “However, sources in the IAF remained tight-lipped about this development, with some also expressing ignorance.”
+
+A notice Twitter sent to @ELINTNews confirmed that the social-media company had received “official correspondence” that prompted the ban.
+
+Great Game India, a journal based in Hyderabad, celebrated Twitter’s attack on OSINT. “Very welcome step,” the journal tweeted . The journal in May 2019 conducted what one reporter described as an “independent social media tracking operation” and accused OSINT analysts of being fronts for the Pakistani government.
+
+When ELINTNews and other OSINT accounts went dark, Twitter users rallied to their cause with tweets and complaints. Perhaps most notably, Eliot Higgins, the founder of Bellingcat and one of the leading OSINT practitioners, contacted Twitter to lodge a formal complaint regarding the company’s treatment of OSINT accounts.
+
+Twitter did not respond to a request for comment.
+
+The protests apparently worked. After three days, some of the shuttered accounts came back on-line. “Well, that was an interesting 72 hours,” ELINTNews tweeted . It appears the brief shut-downs resulted in some OSINT accounts losing followers.
+
+This isn’t the first time the nationalist government in New Delhi had tried to shut down critics on social media. In 2017 the government asked Twitter to block around 100 accounts and tweets that it claimed were “propagating objectionable content.”
+
+“Most of the content and accounts appear to involve Kashmir and Kashmiri issues,” The Wire reported. “A few of the handles appear to be linked to terrorist organisations like the Jamaat ud Dawa – a front of the Pakistan-based Jaish-e-Mohammed – but many are of journalists, human rights activists and seemingly unaffiliated individuals.”
+
+David Axe serves as Defense Editor of the National Interest. He is the author of the graphic novels War Fix,War Is Boring and Machete Squad.
+
+Image: Reuters.

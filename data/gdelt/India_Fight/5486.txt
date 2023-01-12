@@ -1,0 +1,65 @@
+Cybage’s Jagat Pal Singh on why digital transformation is more than just automation
+
+Pune-headquartered Cybage Software is a technology consulting firm specialisig in outsourced product engineering services. It works with independent software vendors (ISVs) across the globe to provide its integrated digital transformation solutions to clients
+
+Founded in 1995, it has 5,800 employees spread across 8 locations globally.
+
+Jagat Pal Singh has been Cybage’s chief technology officer for close to two decades and leads a team of technology and delivery experts who build and deploy integrated business solutions to the firm’s global client base. In an interaction with TechCircle, Singh talks about the firm’s digital transformation thesis, the emerging tech the company is bullish on and why artificial intelligence is not as complex as it’s made out to be. Edited excerpts:
+
+How do you at Cybage define digital transformation?
+
+There is no single formula for digital transformation to take place. Every company has to figure it out by themselves. That being said, for a company to transform, there are two main areas—one is the touchpoint with customers and the second is making the internal workforce better through automation. According to us, they will have to look at customer connect and their internal operations for efficiency.
+
+Companies have to view digital transformation from the perspective of how they can attract, convert and retain customers to ultimately become referral points.
+
+The other factor of digital transformation is efficiency. Just automating processes does not mean that new technology has been adopted. In one statement, I would define digital transformation as using all the potential of technology to optimise processes and return on investment.
+
+In the past five years, what difference have you noticed in the expectations of CIOs?
+
+The pace and adoption of digital transformation (DT) have been fast because it has started from a top-down approach, where everybody is talking about DT, even if they’re not working on it.
+
+Today, customers are not sure of what they need and look for a solution fast because their competition has already deployed and implementing the solution.
+
+Five years ago, the IT heads had a clear idea of what process they wanted to improve and what solutions they needed. Today, due to the rapid uptake of tech, they aren’t sure of what they require, hence, a consultative approach is needed to help them figure it out.
+
+Which three technologies are you betting heavily on?
+
+AI is one area, which obviously cannot exist without machine learning and data analytics.
+
+Second is the Internet of Things, which is already being adapted a lot but not at a pace where it impacts day-to-day life, at least in India. However, computing power has increased, devices are becoming smarter and bandwidth has improved. Hence, IoT is poised to pick up drastically.
+
+Third, blockchain technology will grow drastically. Initially, it was thought to impact only the banking, financial services and insurance domain, but it has proven capabilities in many segments such as healthcare and security.
+
+Do large vendors find it tough to provide 360 degree solutions as compared to DT companies?
+
+Many large vendors are focused on their own areas of speciality, like SAP offers enterprise resource planning and SalesForce provides customer relationship management services. But their bread and butter will still be on one particular solution, hence, it might be difficult for a large vendor to provide all the solutions in one integrated entity.
+
+Consolidation and acquisitions are done by large vendors, but their main focus will always be on their singular solution, at least for now.
+
+You launched your predictive analytics suite DecisionMines as an internal data mining tool. When did it become your main product for clients?
+
+When we became a decently sized company about a decade ago, we had 20-25 project managers and realised each manager had a different working style. The client experience ultimately depended on the project manager assigned to them.
+
+We needed a tool that would give us control over the service provided to customers, irrespective of who they were in touch with from the organisation.
+
+The thought was to understand the clients in terms of who they are, what they need and how they behave. To answer this, we started building DecisionMines in 2005 and deployed the first solution by 2006.
+
+We realised what we built as a platform is applicable to a lot of areas, and it could improve efficiency as we were capturing a lot of data. When a few clients tried out the solution, they loved it. It then dawned on us that DecisionMines gave us results not only internally, but had scope for external results as well.
+
+For many years it was our internal differentiator, and as the DT wave started in the last three years, the company decided to monetise the offering. This is an important piece of digital transformation.
+
+DecisionMines, at its core, consists of a lot of machine learning and artificial intelligence algorithms, making it naturally a predictive analytics solution.
+
+What is the future scope of AI?
+
+I worked on a project in AI in the early 90s, and it has been there since then. People keep talking about AI as it is some high-end technology that can mimic the human mind, but it can be a simple and effective solution, such as the one used in testing software.
+
+For example, in software development, there are multiple test cases created and the testing has to be done swiftly because companies want to deploy the product in a short frame of time.
+
+Some companies even release close to 20 updates a day, which might require prioritisation and many man-hours, if a human inputs values into the system. A large organisation could need hundreds of test cases.
+
+ML and AI are game-changing tools that can be inbuilt to perform these test cases. They even provide inputs such as how quickly a solution can be released, identifying bugs and detecting false positives and negatives.
+
+So, AI and ML do not have to be complex solutions that can perform like the human mind but one that can perform small yet critical tasks on their own. Nonetheless, they save time and make the software more intelligent.
+
+Many companies are winning these small battles by using AI. When small battles are won and it reflects in the ROI, the world is naturally encouraged to pursue it further.

@@ -1,0 +1,23 @@
+Will launch tools to make political ads transparent: Facebook tells HC
+
+PIL seeks ban on paid political content on social media 48 hours before election day
+
+Facebook told the Bombay High Court on Monday that “it is voluntarily launching a number of tools to expand the transparency of current political advertising policies ahead of Indian General Elections, which will be in place from February 21, 2019.” A Division Bench of Chief Justice Naresh Patil and Justice N.M. Jamdar was hearing a public interest litigation (PIL) filed by advocate Sagar Suryawanshi from Pune through advocate Sagar Kursija.
+
+Protecting poll integrity
+
+The PIL has sought directions to the Election Commission of India (ECI) to prohibit posting of paid political or election-related content on Facebook, Twitter, YouTube and Google 48 hours before election day. The PIL has sought making Section 126 (prohibition of public meeting during period of forty-eight hours ending with hour fixed for conclusion of poll) of the Representation of Peoples Act applicable to the platforms. The plea also urges that before publishing or sponsoring any political advertisement, the platforms should take approval from the ECI.
+
+Facebook filed a reply in court that reads, “It has voluntarily implemented policies and due diligence to help protect integrity of elections. It is committed to continue new standards of transparency and authenticity for political advertising on its platform. It is working closely with law enforcement, regulators, election commissions, other technology companies, researchers, academics and civil society groups. Facebook believes it has made significant investments over the past two years towards helping protect and uphold the integrity of elections. Facebook undertakes a voluntary, global and multifaceted approach to help protect the integrity of elections in general. In addition to increasing transparency in political advertising, Facebook is taking various initiatives to act against fake accounts, remove bad actors, limit the spread of fake news and misinformation and combat co-ordinated inauthentic behaviour.”
+
+“It is implementing these measures through a combination of technological advancements, such as improving machine learning capabilities, as well as increasing the number of people working on safety and security across the company threefold since 2017. Some of the essential features of Facebook’s policy specially with reference to India. By March 2019, Facebook will create a publicly searchable library of political ad.”
+
+Making ad policy public
+
+“In an effort to increase transparency, Facebook has published its ad policy and voluntarily adopted transparency tools with regard to political ads. Its ad policy with respect to issues of political or national importance is available at a link on Fb. The relevant portion of the policies read, ‘Advertisers can run political, election related and issue ads, provided the advertiser complies all applicable laws and the authorization process required by Fb.’”
+
+Google’s response
+
+Google also filed a reply that reads, “Before any election/political advertisements can be placed on Google’s network, it will require the advertiser to submit the pre-certificates issued to them by the ECI. In order to have electoral transparency and maintain authenticity, it will allow only India-based advertisers to run political advertisements on their platforms, i.e prospective advertisers are inter alia required to attest that they are registered in India and are legally permitted to run election advertisements in India. Google will release a transparency report for election advertisements sharing data about who purchased election advertisements on Google’s network and how much money is being spent by the advertiser. This database will be available for public research.”
+
+The counsel for Google submitted a copy of the publicly available election advertising policies released on January 22, 2019. It has officially launched India Account Verification and ECI submission forms are live on Google’s Help Centre Page.

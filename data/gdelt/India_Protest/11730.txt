@@ -1,0 +1,83 @@
+India’s Tata gives UCSD $70M in hot area of genetics
+
+One of India’s top philanthropists is giving UC San Diego $70 million to explore ways to use a radically new way of editing genes to fight insect-borne diseases, make crops more resistant to drought and create better antibiotics.
+
+The Tata Trusts of Mumbai announced Sunday that it’s investing in the field of active genet
+
+UC San Diego chancellor Pradeep Khosla and genetics professor Ethan Bier. (Howard Lipin / Union-Tribune )
+
+ics, also called gene drive, which enables scientists to rapidly and accurately introduce genetic changes in organisms instead of relying on the slow, less precise process of traditional Mendelian genetics.
+
+Advertisement
+
+UC San Diego researchers said they can use this technique to breed mosquitoes that don’t spread malaria. The disease sickens millions of people and kills more than 500,000 around the globe each year, including about 30,000 in India, the world’s second-most populous country.
+
+The university and UC Irvine have demonstrated in lab experiments that they can tweak mosquitoes this way, making them pioneers in the fast-growing branch of active genetics.
+
+It’s also possible that the technology could be used to improve agriculture and medicine, helping many nations deal with poverty and disease.
+
+The $70 million gift will create the Tata Institute for Genetics and Society, which will be headquartered at UC San Diego. About half the money will be used locally for research and to train Indian scientists in active genetics.
+
+Those scholars will return to India, where they’ll aim to exploit the technology and explore the potential implications of releasing genetically altered animals, plants and microbes into the wild. They will receive the other $35 million of the new donation.
+
+In a statement, Tata Trusts Chairman Ratan Tata said: “UC San Diego’s mission to advance society and drive economic impact aligns with our goals, as a country, to build a skilled scientific workforce and to grow the impact and scope of our research enterprise.
+
+“Together, we will promote bioscience research, discoveries and education that will benefit populations around the globe.”
+
+The $70 million is the largest foreign investment ever made in UC San Diego. The deal was brokered by Chancellor Pradeep Khosla, a prominent engineer who was born and raised in India.
+
+“(Tata) realizes that India does not have the capacity to absorb this (technology at the moment),” Khosla said. “And this is going to be transformational. He wants us to help train the scientists, postdocs, Ph.D. students who will then push the frontiers in India.
+
+“India has a lot of smart people — engineers, scientists, physicists. But it does not have people who are at the cutting edge of science in the same numbers that we have here. India doesn’t have three Ethan Biers. It might have one.”
+
+Experimental success
+
+Khosla was referring to UC San Diego biologist Ethan Bier, who has been pioneering active genetics with colleague Valentino Gantz.
+
+They’re developing techniques to edit genes in faster, easier and more directed and reliable ways.The editing is meant to accomplish specific goals, such as making a mosquito immune to malaria parasites. The process contrasts with more conventional genetics, in which changes are passively spread to offspring, often by chance.
+
+For example, many animals inherit two sets of genes — one from each parent. If a parent has two varieties of a gene, the odds are about 50 percent whether one or the other variety will be passed to any offspring. But with the active genetics technology formulated by Bier and Gantz, an engineered gene variant will be inherited by nearly all offspring. That enables the variant to spread at an exponential rate.
+
+Bier and Gantz first demonstrated the technology in fruit flies, in a paper published in spring 2015. They described how fruit flies that had inherited one recessive gene for the color yellow from one parent, but not from the other parent, grew up with two of the recessive genes, making them yellow. The experiment was done under very strict laboratory controls to stop any of the modified fruit flies from escaping.
+
+The recessive gene had been constructed so the recessive trait would jump on its own to the same gene inherited from the other parent in a kind of automatic copy-and-paste process. This happened in the embryo, before the fruit fly pupated.
+
+Moreover, this process of spreading the gene repeated itself when the modified fruit flies mated with unmodified ones. Its efficiency was greater than 95 percent, and no further intervention by the scientists was needed.
+
+The technology was a novel feat, but didn’t show anything of practical use.
+
+Bier and Gantz then illustrated the potential of active genetics when they teamed up with insect-disease researcher Anthony James of UC Irvine. James had worked for decades on how to genetically modify mosquitoes to resist malaria, dengue fever and other diseases. If the mosquitoes could be made resistant, they wouldn’t transmit those often crippling illnesses.
+
+The three researchers collaborated to alter the genes of Anopheles stephensi, a mosquito species that’s a main carrier of malaria in India.
+
+They gave these mosquitoes DNA designed to attack the malaria parasite, propelled by active genetics. The lab experiment worked: The mosquitoes’ offspring did not pass the parasite on when they mated with mosquitoes that had not been genetically modified.
+
+Scientists want to use the trailblazing technique broadly for things such as boosting the ability of crops to withstand drought and making antibiotic-resistant bacteria vulnerable again.
+
+“This is like Lewis and Clark crossing America; we’ve opened up to so many possibilities,” Bier said during an interview in his lab. “It will have applications across biology.”
+
+Seed of philanthropy
+
+The $70 million contribution arose from a chain reaction that began last November when Khosla invited Ratan Tata to tour UC San Diego.
+
+In philanthropic terms, Khosla was going after a whale. Tata is chairman of Tata Trusts, a charity that has donated billions of dollars, especially in the areas of science, health and education. The charity is part of Tata Group, a multinational conglomerate that’s involved in everything from steel and energy to wireless communications, chemicals and real estate.
+
+“They’ve had the sort of impact on India that the Rockefellers and Carnegies have had on the U.S.,” Khosla said.
+
+Tata accepted Khosla’s invitation. About a week before he arrived, the chancellor read a story that highlighted the progress Bier was making in active genetics. Khosla quickly added Bier to the list of people he wanted Tata to meet.
+
+There wasn’t any guarantee that much would result from Tata’s trip.
+
+In 2010, he gave $50 million to Harvard University, where he had studied management. The donation triggered a lot of criticism from people who felt he should stay focused on India.
+
+But Tata turned out to be fascinated with Bier’s work, and discussions about a major gift were soon underway. The talks culminated in the past week with Tata’s figure of $70 million.
+
+“We showed him the things we were doing in areas like climate change,” Khosla said. “But you could tell right away that it was the opportunity to do something about things like malaria that really interested him.”
+
+Bier was beaming last week when Khosla visited his lab — a smile that vanished when the chancellor mentioned that Tata might come again to UC San Diego in mid-November.
+
+“I’m going to be out of town on that date,” Bier said, looking stressed. “And I’d really like to thank him.”
+
+gary.robbins@sduniontribune.com
+
+bradley.fikes@sduniontribune.com

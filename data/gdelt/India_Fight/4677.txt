@@ -1,0 +1,43 @@
+Premium publishers to rise if YouTube and Facebook deny access to Ekam for content measurement, feels Brightcove’s Greg Armshaw
+
+Greg Armshaw
+
+Premium publishers will gain in terms of advertising revenue at the cost of YouTube and Facebook if the latter remain reluctant to deny access to Ekam for measuring their content, Greg Armshaw, Head of Media for Brightcove in Asia and India, told BestMediaInfo.com in an interview.
+
+Brightcove is a cloud-based online video streaming platform company, powering live and video-on-demand experiences for some of the world’s leading broadcasters, publishers and brands.
+
+Advertisement
+
+“Advertisers will go to premium publishers who have that kind of transparency in terms of reporting,” said Armshaw.
+
+“YouTube and Facebook are focused on their own content and viewers. People will be uploading content onto YouTube forever. These platforms don’t completely rely on premium publishers, then why would they offer third-party access?” he added.
+
+Advertisement
+
+Ekam is India’s upcoming independent digital viewership measurement currency. Google-owned YouTube along with other group platforms have been reluctant in adhering to the conditions of Ekam, which includes providing content data for measurement. However, Facebook is learned to have agreed to share the content-level data for measurement.
+
+Not providing content data will keep the advertisers in dark about where their ad was played. Advertisers are spending around Rs 11,000 crore on digital ads in India and a significant part of it goes to Google.
+
+Advertisement
+
+“Google resists quite massively to anything that isn’t uniform to the globe. That’s one of the reasons why premium publishers are going to rise because their goal is to provide great content and also to keep advertisers happy and to create a great environment for them,” Armshaw added.
+
+BestMediaInfo.com is still waiting for Google to respond to the queries sent on their stand on Ekam.
+
+Advertisement
+
+Some of Brightcove’s top clients in India include SonyLiv, The Viral Fever, Republic World, Manorama, The Quint, Asianet, Conde Nast among others. Armshaw also said that publishers have a massive opportunity to monetise their premium content today.
+
+A leading print and digital publisher BestMediaInfo.com spoke to said that advertisers were already moving to premium publishers who created their own content as their platforms were providing brand safety along with transparent numbers.
+
+“The digital advertising revenue has started moving from Google and Facebook to publishers such as media houses. Brands are worried about the type of content they’re shown online. Google doesn’t allow them to know on what content the brand appeared. Whereas, by associating with us, brands know on what content are they visible,” he added.
+
+Internationally also, various brands have cut down on their YouTube advertising.
+
+BARC should not use SDK, it will impact traffic by making apps heavier
+
+When asked why OTT platforms are wary of using an SDK given by BARC for content measurement, Armshaw said that SDK would make it difficult for apps to retain traffic as the measurement software tends to make them heavier and hence surfing would be a clumsy process.
+
+“I don’t know why they are open to it. So all the money that you spent to get people to download your app goes out of the window if they uninstall it because the app is slow. Most of the companies are moving into PWAs. That’s the reason why people don’t want to put heavy SDKs on their device. Some of our partners have integrated with Airtel and Hotstar, the integration is totally API-based now. Earlier it used to be SDK-based but they don’t want to use SDK anymore to reduce the weight of the app,” said Armshaw.
+
+Info@BestMediaInfo.com

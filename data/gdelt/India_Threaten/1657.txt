@@ -1,0 +1,55 @@
+Global health faces uphill battle against online trolls
+
+False information, particularly that which is spread online, puts years of medical research — and lives — at risk, writes Junaid Nabi.
+
+The most frustrating part of my job as a public health scientist is the spread of false information — usually online — that overrides years of empirical research.
+
+It is difficult enough for doctors to counter medical falsehoods in face-to-face conversations with patients. It becomes even harder to do so when such fakery is transmitted via the internet.
+
+I recently witnessed this pattern first hand in Kashmir, where I was raised. There, parents of young children trusted videos and messages on Facebook, YouTube, or WhatsApp that spread false rumours that modern medications and vaccines were harmful, or even that they were funded by foreigners with ulterior motives.
+
+Discussions with local colleagues in paediatrics revealed how a single video or instant message with false information was enough to dissuade parents from trusting in medical therapies.
+
+Physicians in other parts of India and Pakistan have reported numerous cases in which parents, many of them well educated, refuse polio vaccinations for their children.
+
+Reports that the CIA once organised a fake vaccination drive to spy on militants in Pakistan have added to mistrust in the region. Given the high stakes involved, states sometimes resort to extreme measures, such as arresting unco-operative parents, to ensure that vulnerable communities are vaccinated.
+
+This is just one regional example of the global threat that online misinformation poses to public health.
+
+In the US, a recent study in the American Journal of Public Health reported how Twitter bots and Russian trolls have skewed the public debate on vaccine effectiveness.
+
+Having examined 1.8m tweets over a three-year period from 2014 to 2017, the study concluded that the purpose of these automated accounts was to create enough anti-vaccine content online to develop a false equivalence in the vaccination debate.
+
+Such misinformation programmes succeed for a reason. In March 2018, researchers from the Massachusetts Institute of Technology reported that false stories on Twitter spread significantly faster than true ones. Their analysis revealed how the human need for novelty, and the information’s ability to evoke an emotional response, are vital in spreading false stories.
+
+The internet amplifies the damage caused by these ‘alternative facts’, because it can disseminate them at massive scale and speed — a few fake or troll accounts are enough to spread misinformation to millions.
+
+And once it spreads, it is virtually impossible to retract.
+
+The role of Twitter bots and trolls in the 2016 US elections and the Brexit vote is clear. Now they have affected global health as well.
+
+If we don’t take robust and co-ordinated steps to address this alarming trend, we may lose out on a century’s worth of successes in health communication and vaccination, both of which depend on public trust.
+
+We can take several steps to start reversing the damage. For starters, health officials and experts in both developed and developing countries need to understand how this online misinformation is eroding public trust in health programmes.
+
+They also need to engage actively with global social media giants such as Facebook, Twitter, and Google, as well as major regional players, including WeChat and Viber. This means disparate partners working in tandem to create guidelines and protocols for how information of public interest can be disseminated safely.
+
+In addition, social media companies can work with scientists to identify patterns and behaviours of spam accounts that try to disseminate false information on important public-health issues.
+
+Twitter, for example, has already started using machine-learning technology to limit activity from spam accounts, bots, and trolls.
+
+More rigorous verification of accounts, from the moment of signing up, will also be a powerful deterrent to the further expansion of automated accounts. Two-factor authentication, using an email address or phone number when signing up, is a prudent start.
+
+Captcha technology requiring users to identify images of cars or street signs — something humans can do better than machines (for now, at least) — can also limit automated sign-ups and the activities of bots.
+
+These precautions are unlikely to infringe upon any individual’s right to voice an opinion. Public health officials must err on the side of caution when weighing free-speech rights against outright falsehoods that endanger public welfare.
+
+Abusing the anonymity provided by the internet, spam accounts, bots, and trolls serve to disrupt and pollute available information and confuse people. Taking prudent action to avert situations where lives are at stake is a moral imperative.
+
+Global public health took huge strides forward during the 20th century. Further progress in the 21st will come not only through ground-breaking research and community work, but also through online engagement.
+
+The next battle for global health may be fought on the internet. And by acting quickly enough to defeat the trolls, we can prevent avoidable illnesses and deaths around the world.
+
+- Junaid Nabi is a public health researcher at Brigham and Women’s Hospital and Harvard Medical School, Boston. The opinions expressed in this article are his own and do not necessarily reflect those of Brigham and Women’s Hospital.
+
+- Copyright: Project Syndicate, 2019.

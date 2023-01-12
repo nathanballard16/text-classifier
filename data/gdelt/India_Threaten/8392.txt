@@ -1,0 +1,47 @@
+Earthquake, flood, hurricane: Google Maps adds tools to help you navigate a crisis
+
+Google is adding tools to Google Maps and search to help you survive a natural disaster.
+
+When a hurricane, flood or earthquake affects your area, you may want to get of town as quickly as possible.
+
+Google is launching a new navigation warning system as part of Google Maps to keep you informed and safe during such a crisis.
+
+Google is not in the weather business, per se; it is tapping into such sources as the National Oceanic and Atmospheric Administration and Japan Meteorological Agency (for hurricanes) and the U.S. Geological Survey (for earthquakes).
+
+Tech to the rescue: Tornado outbreaks reminder to make smartphones disaster-ready
+
+Here’s how the company breaks down the coming features:
+
+Hurricanes
+
+Leading up the storm, Google will display a crisis notification card if you are in or near an affected area. You’ll see a hurricane forecast cone that shows the predicted trajectory of the storm, accompanied by information of when it is likely to hit.
+
+Earthquakes
+
+If an earthquake strikes, you can tap on an information card to summon a color-coded “shakemap,” which helps you visualize the epicenter and magnitude of the quake in surrounding areas.
+
+Google says the hurricane forecast cones and earthquake shake maps will begin rolling out on iOS, Android, desktop computers and the mobile web during the coming weeks.
+
+Flooding
+
+Flood forecast visualizations are also coming soon, but initially only in India, where Google says more than 20% of global flood-related fatalities occur. Such forecasts start in Patna, then expand to the Ganges and Brahmaputra regions on Android, desktop, and on the mobile web.
+
+Google Maps product manager Hannah Stulberg says the river-level data used in the flooding forecasts comes from the Central Water Commission, where it is then fed into Google’s own machine learning models.
+
+Google Doodle: Google launches a Pride doodle, and it's getting lots of love on the internet
+
+During such chaos, you can share your location with family and friends and within Google Maps turn on a traffic layer to visualize suspected road closures. You can also report such closures to others and through a crisis information card, tap on a share button to keep loved ones informed and to direct them in turn to Google Maps where they, too, can view a summary, get emergency contact information, and so on.
+
+Story continues
+
+During an actual or impending storm, people seek information from a variety of sources, including national and local news, and any number of weather apps. "What we heard from users, Stulberg says, "is they want to be able to see the best and most reliable information in that map context."
+
+A person in the midst of a weather crisis will obviously need connectivity to keep abreast of the situation via Google Maps.
+
+Over time, Google plans to expand coverage to address tornadoes, monsoons and other crises.
+
+Earlier this week, rival Apple announced catch-up features for its own Apple Maps products, including a Look Around feature that resembles Google Maps' Street View.
+
+Email: ebaig@usatoday.com; Follow @edbaig on Twitter
+
+This article originally appeared on USA TODAY: Earthquake, flood, hurricane: Google Maps adds tools to help you navigate a crisis

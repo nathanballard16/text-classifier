@@ -1,0 +1,59 @@
+India's Anti-Satellite Missile Test Is a Big Deal. Here's Why.
+
+India's unexpected launch of an anti-satellite missile test this week sparked surprise (and some alarm) among international and aerospace-industry experts. The test's success makes India the fourth country capable of destroying an enemy satellite, after the U.S., Russia and China. But how does that technology work?
+
+An anti-satellite weapon, or ASAT, is anything that destroys or physically damages a satellite. That's the broad definition.
+
+"The problem with defining an ASAT is that since most space technology is dual-use, ASATs come in many non-overt forms," Joan Johnson-Freese, professor of national security affairs at Naval War College in Newport, Rhode Island, said in an email to Space.com.
+
+Related: Boycott Indian Launchers? Industry Reacts to India's Anti-Satellite Weapon Test
+
+.@DRDO_India successfully launched the Ballistic Missile Defence #BMD Interceptor missile, in an Anti-Satellite #ASAT missile test #MissionShakti engaging an Indian orbiting target satellite in Low Earth Orbit (LEO) in a ‘Hit to Kill’ mode from the Dr. A.P.J. Abdul Kalam Island pic.twitter.com/n5DEWLQpSpMarch 27, 2019 See more
+
+Indian Prime Minister Narendra Modi declared on Wednesday (March 27) that the country had pulled off an ASAT missile launch that same day. The launch, " Mission Shakti ," likely struck an Indian satellite in low Earth orbit, turning the object into debris.
+
+ASATs take many shapes, but the clearest examples follow kinetic-kill models, in which an object in space or on the ground is sent to collide with an orbiting satellite, destroying both object and target with the energy of the crash.
+
+But an ASAT doesn't need to be airborne. "If the intent is to stop the transmission of information from the satellite to the ground, taking out the ground station achieves the same goal, without the space debris," Johnson-Freese said.
+
+A maneuverable satellite could be directed to smash into another satellite, too. A laser , if used to "temporarily dazzle or permanently 'blind' a satellite by destroying its sensors," would also be considered an ASAT weapon, she added.
+
+The Press Information Bureau India tweeted this image of Wednesday's (March 27) "Mission Shakti," the country's first test-fire launch of an anti-satellite weapon. (Image credit: Press Information Bureau India/ Twitter
+
+India used a kinetic-kill ASAT, said Jonathan McDowell, an astrophysicist at the Harvard–Smithsonian Center for Astrophysics in Cambridge, Massachusetts. That method produces a cloud of debris that may last days, weeks or even a year in space before disintegrating in Earth's atmosphere, McDowell told Space.com.
+
+"As you hit that satellite and shrapnelize it, the pieces will get different amounts of velocity added to it in different directions," McDowell said. "So, if you take the satellite orbit and add or subtract velocity, some of it will re-enter right away. A lot of it won't change that much and will stay in this low-altitude orbit, but the small pieces will have relatively high drag," meaning they will burn up faster.
+
+"The drag depends on your surface area to your mass ratio," he added. "And typically, when you shrapnelize a satellite, the resulting pieces have fairly large area relative to their mass. They're like little flat plates, and so they re-enter relatively quickly. Some pieces will have gotten added velocity, and so they will end up in elliptical orbits … and those pieces will stay in orbit longer."
+
+The capacity to destroy a satellite and the creation of an unexpected debris field are major concerns for all countries, especially the U.S., which has the most assets in orbit, Johnson-Freese said.
+
+"India's recent testing of its ASAT capability likely represents a feeling by other countries, specifically India in this case, that the weaponization of space is forthcoming, and India doesn't want to be left out of the 'have' category if arms-control agreements are eventually reached," Johnson-Freese said.
+
+India's recent testing of its ASAT capabilities was developed through missile defense technology, she added. With slight modification to missile defense capabilities, weapons can also target satellites. And most countries with ASAT capabilities have followed this route, especially because this is "politically acceptable," while other ASATs haven't been acceptable, Johnson-Freese said.
+
+The type of anti-satellite weapon used in Mission Shakti has similar — although not entirely the same — technology as anti-ballistic missile weapons that the U.S. military fired in a March 25 intercontinental missile defense test from Vandenberg Air Force Base , McDowell said.
+
+Reactions
+
+Some applauded Modi's announcement, and others viewed it as a political move to bolster poll numbers ahead of India's upcoming election. Voting is due to begin on April 11, with the final ballot cast more than five weeks later, on 19 May, according to the BBC . India is the world's largest democracy.
+
+Mamata Banerjee, chief minister of the Indian state of West Bengal, tweeted on Wednesday that Modi was trying to "reap political benefits" with this news.
+
+Besides its potential electoral benefits, this move also draws the world's attention to the changing landscape of spaceflight. Jonathan Marcus, defense correspondent at the BBC, called this announcement "yet one more aspect of the trend towards the militarisation of space."
+
+The Union of Concerned Scientists, a nonprofit science-advocacy organization based in the United States, also expressed concern over the launch in a Wednesday statement . "India's test comes against a backdrop of a languishing international effort to ensure space remains a peaceful and secure environment," said Laura Grego, a senior scientist in the Global Security Program at the Union of Concerned Scientists. "Right now, we are not up to the challenge presented by the increasing spread and sophistication of anti-satellite and space weapons."
+
+An editorial section of the Indian digital publication ThePrint offered many contrasting perspectives on Mission Shakti.
+
+Upasana Dasgupta, a researcher at the Institute of Air and Space Law at McGill University, expressed concern that India could be liable on an international level if any shrapnel damages another country's spacecraft.
+
+Some spaceflight and defense officials praised the ASAT launch, however. "It signifies two things: India is capable of identifying a satellite threat and is also capable of intercepting it," DRDO Director General Avinash Chander said in the same editorial section.
+
+"India has to be fully equipped for war — whether it is subsurface, surface, air or space warfare," Satish Dua, former chief of integrated defence staff of the Indian army, said in another editorial. "Space pervades all warfare as it enables intelligence and surveillance, information warfare, [and] cyber domain[s]."
+
+NASA Administrator Jim Bridenstine touched on testing that creates space debris in a U.S. House of Representatives hearing on NASA's proposed budget on March 27.
+
+"Debris ends up being there for a long time. If we wreck space, we're not getting it back," Bridenstine said. "And it's also important to note that creating debris fields intentionally is wrong ... because some people like to test anti-satellite capabilities intentionally and create orbital debris fields that we today are still dealing with. And those same countries come to us for space situational awareness because of the debris field that they themselves created.
+
+"And that's being provided by the American taxpayer, not just to them, but to the entire world for free," he added. "The entire world [has to] step up and say, 'If you're going to do this, you're going to pay a consequence.' And right now, the consequence is not being paid."

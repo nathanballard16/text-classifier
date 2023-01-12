@@ -1,0 +1,15 @@
+thebigword teams up with Microsoft on tech security
+
+The collaboration with Microsoft will see the Leeds-based firm offer a multi-layered approach to security in Azure with a team of 3,500 cybersecurity experts across the world.
+
+thebigword Group is currently ranked as the ninth biggest language service provider in Europe and as world’s number one fastest-growing interpreting centric language service provider, with 28.33 per cent growth in the last year.
+
+Sign up to our Business newsletter Sign up to our Business newsletter Sign up now Thanks for signing up! Sorry, there seem to be some issues. Please try again later. Submitting...
+
+Mark Rice, chief information officer at thebigword, said: “One of Microsoft’s key differentiators is security, this creates peace of mind for our clients, customers and interpreters.
+
+“When we are dealing with huge multinational corporations, Government or even the military, it’s paramount that data is kept secure at all times. Our old-fashioned on-prem system was extremely secure but did not provide us with the agility to scale securely, but now we are in a secure cloud with Azure with infinite scalability.”
+
+Michael Wignall, chief technology officer with Microsoft UK, said: “In cementing its place as one of the top language companies in the world, moving away from on-premise servers and embracing Microsoft’s cloud was key for thebigword.
+
+“The Azure powered digital transformation is centred on a multi layered approach to security, due to the heavily regulated markets end users are a part of. We look forward to a continued relationship as the business continues to innovate.”

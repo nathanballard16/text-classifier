@@ -1,0 +1,39 @@
+Signalchip unveils India's first indigenous semiconductor chip
+
+Signalchip unveils India's first indigenous semiconductor chip
+
+Bengaluru-based semiconductor company Signalchip today unveiled India’s first indigenous semiconductor chips for 4G/LTE and 5G NR Modems, placing India among a select of nations capable of designing and building semiconductor chips.
+
+Launching the chip at a function in New Delhi, telecom secretary Aruna Sundarajan said it is tremendously significant for India to break into the elite club and this will have huge implications for India’s data security and data sovereignty, besides the positive economic implications.
+
+She said the launch of a world class product by Signalchip is the start of the third technology wave, after Software and Digital India.
+
+At present, only 8 companies and a few countries can design and build semiconductor chips and launch of indigenous chip is in a real sense `Make in India for the World’, he said, adding that the pioneering work will lead to a whole new architecture of tower building, mainly in the light of emission complaints and growing environmental concerns.
+
+When the US and China are battling it out for the core ICT technology, India cannot lag behind, Sundararajan said.
+
+The development comes at a time when the high powered committee headed by Stanford University professor AJ Paulraj to outline a road map for 5G telecom services has suggested breaking into the IPRs of 5G.
+
+She also congratulated the founder and CEO of Signalchip Himanshu Khasnis and CEO of global company Zoho, Sridhar Vembu for joining hands to write India’s most amazing success story.
+
+Sundararajan unveiled four chips at the event designed by Signalchip.
+
+SCBM3412: a single chip 4G/LTE modem including the baseband and transceiver sections in a single device
+
+a single chip 4G/LTE modem including the baseband and transceiver sections in a single device SCBM3404: a single chip 4X4 LTE baseband modem
+
+a single chip 4X4 LTE baseband modem SCRF3402: a 2X2 transceiver for LTE
+
+a 2X2 transceiver for LTE SCRF4502: a 2X2 transceiver for 5G NR standards
+
+The RF sections cover all LTE/5G-NR bands up to 6GHz. These chips also support positioning using India’s own satellite navigation system, NAVIC. The Agumbe series builds up on SCRF1401: India’s first RF transceiver chip for high performance wireless standards like 3G/4G and WiFi, created by Signalchip in 2015.
+
+The combined multi-standard system-on-chip (SoC) can serve as a base station chipset for a wide range of form factors from low-cost indoor small cells to high performance base stations. These are optimally designed to support evolving network architectures like Open RAN/CRAN with flexible interface configurations.
+
+Through the IPs created for this device, the company now has the potential to design products for multiple related fields and is currently forging ahead with additional chipsets for advanced 5G NR features. With India having more than 1.1 billion mobile phones in use, one of the highest in the world, Signalchip has created high performance and cost-efficient systems to enable densification of the network.
+
+Global mixed signal System-on-Chip (MxSoC) market is expected to reach $765.1 billion by 2022
+
+Mixed signal System-on-Chip market caters to consumer electronics, ICT, automotive, industrial, military and aerospace, computers, medical, RF applications and other applications.
+
+The global MxSoC market supports various industries, product manufacturers, organisations, vendors, and suppliers by opening doors for them with many opportunities to expand their business at the global level. Some of the major market holders at the global level are competing with one another and developing organizations in terms of sales, supply, manufacturing quality products, revenue generation, and providing satisfactory after-sales services to the clients.

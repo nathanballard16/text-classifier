@@ -1,0 +1,29 @@
+NASA warns Indian anti-satellite test increased debris risk to ISS
+
+WASHINGTON — In the sharpest rebuke to date by a U.S. government official, NASA Administrator Jim Bridenstine criticized India’s recent anti-satellite test April 1, saying it created debris that posed a threat to the International Space Station.
+
+During a town hall meeting with NASA employees, Bridenstine was asked about the March 27 test, dubbed “Mission Shakti,” where a ground-launched missile struck the Microsat-R satellite in an orbit less than 300 kilometers high. The Indian government said the low altitude of the test minimized the amount of long-lived debris.
+
+Bridenstine, though, said that the test did produce some debris placed into higher orbits, including those above that of the ISS, which orbits at an altitude of about 410 kilometers. He said 400 pieces of debris had been identified from the test, 60 of which are large enough to be tracked by U.S. military assets, such as radars.
+
+“Of those 60, we know that 24 of them are going above the apogee of the International Space Station,” he said. “That is a terrible, terrible thing, to create an event that sends debris into an apogee that goes above the International Space Station. And that kind of activity is not compatible with the future of human spaceflight.”
+
+“It’s unacceptable, and NASA needs to be very clear about what its impact to us is,” he continued. Experts from NASA and the military’s Combined Space Operations Center concluded last week that the risk of debris impacting the station increased by 44 percent over a 10-day period, he said, but didn’t specify the baseline risk level that was increased by that amount.
+
+Bridenstine emphasized that, despite the increased risk, the six people currently on the station are not in danger. “While the risk went up 44 percent, our astronauts are still safe. The International Space Station is still safe,” he said. “If we need to maneuver it, we will. The probability of that, I think, is low.”
+
+He suggested, though, that last week’s test was irresponsible and set a bad precedent. “When one country does it, then other countries have to feel like they have to do it as well,” he said.
+
+Bridenstine’s statements represent the strongest criticism to date of the test by a U.S. government official. While Air Force officials confirmed they monitored the test and tracked debris from it, neither they nor the State Department spoke out as forcefully against the Indian ASAT test.
+
+A State Department spokesperson, in a statement to SpaceNews April 1, offered only mild criticism of the test. “The United States recognizes, and encourages other nations to recognize, that orbital debris represents a growing threat to the space operations of all nations. We took note of Indian government statements that the test was conducted at a low altitude to limit the orbital lifetime of resulting debris,” the spokesperson said.
+
+The lack of response from the U.S. government, until Bridenstine’s remarks, stood in contrast to criticism from a number of companies that operate in low Earth orbit. Those companies worry about how such tests could increase orbital debris and adversely affect their operations.
+
+“While Planet enjoys a great working partnership with agencies of India’s government — like [the Indian space agency] ISRO — we categorically condemn the anti-satellite missile intercept recently conducted by India’s defense department,” said Planet, the company that operates a large constellation of low Earth orbit imaging satellites, in a March 27 statement.
+
+Experts highlighted the differences between commercial and government responses to the test. “I think that speaks to the emerging power of the commercial sector as a player in influencing behavior in space,” said Brian Weeden, director of program planning at the Secure World Foundation, during a panel discussion by that organization March 29 on U.S.-China space relations.
+
+He added, though, he was concerned about the precedent that the Indian test set. “Right now, it appears that the norm is that it’s okay to test that, as long as you try to minimize space debris,” he said. “I don’t think that’s a norm that we want to have, but that appears to be what the norm is.”
+
+And companies have yet to back up their criticism of the Indian ASAT test with more concrete actions. While Planet condemned the test, it still launched 20 of its Dove satellites on an Indian Polar Satellite Launch Vehicle March 31.

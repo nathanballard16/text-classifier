@@ -1,0 +1,51 @@
+Minister urges UK firms to prepare for no-deal Brexit
+
+Digital minister Margot James has urged businesses to ensure that they have robust contingency plans in place to ensure data flows in the case of a no-deal Brexit.
+
+Failure to have the appropriate plans in place could mean that businesses could lose access to vital data flows if the UK leaves the EU without a deal, the minister warned in a statement marking International Data Protection Day, also known as International Data Privacy Day.
+
+The call follows similar calls by the Information Commissioner’s Office (ICO), which has published guidance and a six step strategy for companies to follow that will help companies review their exchanges of personal data with other countries and take the necessary action.
+
+“I understand that for businesses both big and small the current uncertainty around Brexit is damaging and of great concern. However, it is vital that they prepare for every eventuality and that includes the risk of a no-deal scenario,” said James.
+
+“If no deal was to happen, there is a risk that personal data exchanges between the UK and Europe would be disrupted if businesses do not have plans in place. I urge companies to check the ICO guidance and make sure they are prepared.
+
+“The UK government takes data protection extremely seriously and we have already introduced robust new laws through the Data Protection Act last year. We’ve given people more power and control over their data and also strengthened the powers of the ICO.”
+
+Through the Withdrawal Agreement, James said the government has made plans to secure what is known as a “data adequacy decision” from the EU, which will ensure UK and EU firms can carry on exchanging personal data like they do now.
+
+Examples of an international transfer include UK companies that receive customer information from the EU, such as names and addresses, to provide goods or services. If a deal is agreed then discussions on adequacy will begin with the aim of an adequacy decision being in place before the end of the transition period in December 2020.
+
+Under EU rules, adequacy decisions can take place with third countries and therefore cannot be finalised until the UK leaves the EU. This means that if the UK leaves with no deal, and therefore no adequacy decision, businesses need to be prepared and follow the ICO guidance.
+
+Launched by the Council of Europe in 2006, Data Protection/Privacy Day has become an important awareness event worldwide, providing individuals and businesses with the correct information to ensure data is consistently in safe hands, according to security industry representatives.
+
+Peter Carlisle, vice-president of global sales of nCipher Security, said the day provides a chance to reflect on the scores of data breaches that hit businesses in 2018.
+
+“Compared to this time last year, there’s an unprecedented awareness of the importance of data security, with business-to-business (B2B) customers and consumers alike demanding trust, integrity and control when it comes to how companies manage their data,” he said.
+
+As sophisticated and well-funded threat actors adapt quickly to new security measures, trying to protect customer data has become an exhausting process, said Carlisle.
+
+“But the best defence in cyber security is a proactive one, and the right mix of hardware such as hardware security modules (HSMs), software and internal education provides a firm foundation of protection. Encryption, digital signing and key generation are also increasingly important, as data that is fully encrypted is useless to hackers even if a data breach does occur,” he said.
+
+With General Data Protection Regulation (GDPR) in full force and customers valuing data protection higher than ever before, in 2019 businesses must value transparency above all, said Carlisle. “Transparency in how their data is being collected and used and transparency when it comes to disclosing the scale and affected parties if a data breach does occur,” he said.
+
+Tristan Liverpool, director of systems engineering at F5 Networks, said corporate cloud literacy is becoming an operational prerequisite as technological progress accelerates, with the explosive proliferation of applications, and their associated data, creating a vast new playing field for cyber criminals in the cloud.
+
+“We urge businesses this Data Privacy Day to rethink where their priorities lie in an increasingly complex and shifting IT landscape. An immediate priority should be to secure all business applications. This will allow organisations to gain a tremendous return on investment and manage multi-cloud deployments with greater certainty,” he said.
+
+David Higgins, director of customer development at security firm CyberArk, said data privacy is not just a corporate or individual issue that affects digital lives. “It can be a route to compromising citizen safety. This Data Privacy Day, organisations should encourage their entire workforce – not just IT teams – to re-evaluate how they secure and manage data,” he said.
+
+Dan Turner, CEO at Deep Secure, said businesses should always assume cyber criminals are better at attacking than organisations are at detecting them.
+
+“Indeed, most ‘detect and protect’ technologies, like data loss prevent systems, are not sophisticated enough to identify new exfiltration methods. Steganography, for example, whereby a cyber criminal can encode both the initial infection and then the information it wants to steal into the pixel data of images, is largely undetectable.
+
+“In 2019, we must concede that detect and protect technologies are no longer enough to assure the privacy of data. Instead, developing new prevention solutions, like content threat removal that can completely remove any ‘hidden information’ from coming into or out of an organisation, is the critical next step for the cyber security industry.”
+
+Chris Huggett, senior vice-president of Europe and India at Sungard Availability Services, said that in the past year a number of firms around the world have demonstrated a lack of care when protecting people’s data.
+
+“In fact, some have gone as far to do the opposite, by selling data to third parties and breaching the EU’s data protection rules due to a lack of transparency, inadequate information and lack of valid consent regarding ads personalisation.
+
+“GDPR was the main discussion point on last year’s Data Privacy Day and the failure of huge organisations to comply by the rules means that this year should focus on the lessons learned,” he said.
+
+Data Privacy Day is a great opportunity to expose unknown risks that organisations face, said Huggett, but moving forward it is vital that business leaders embed privacy into every operation.“This is the only sustainable way to ensure compliance on an ongoing basis. GDPR has simply set the bar higher for all of us and it is going to stay there for the foreseeable future.”

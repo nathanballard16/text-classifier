@@ -1,0 +1,31 @@
+Virtual Logic Systems
+
+Virtual Logic Systems, based in Bangalore, India, is a company that focuses on developing products using virtual reality, simulation and 3D stereoscopic technologies. The company offer products and solutions to capital equipment, automotive, railways, aerospace, realty, mining, defence and homeland security verticals.
+
+Maintenance training simulator for military environments
+
+The operations and maintenance training simulator (OMTS) is a real-time 3D simulation platform that can be used to train operators and service technicians for:
+
+Understanding the various components and functions in any equipment
+
+Various operational parameters
+
+Diagnose and troubleshooting different types of failures
+
+Practicing on different maintenance sequences
+
+The training is provided on simulated work environments and tasks are undertaken such that each person feels as though they are working on the actual equipment. This near real-world experiential learning engages the user fully on the task at hand. This alternate form of on-the-job training provides enormous flexibility in scenario planning.
+
+The OMTS allows a trainee to repeatedly recreate scenarios that they would otherwise not be exposed due to the constraints of time, cost and safety. The virtual training system enables the trainee to learn in a safe environment and it allows them to be better prepared for any scenario. This platform product is easily customisable and can be offered in different variants.
+
+Military combat virtual trainers
+
+The combat virtual trainer (COVIRT) has been designed with the basic aim to train military personal on combat readiness by applying the widely accepted OODA loop concept. It consists of a fully human immersive 3D display system in which the personnel and their weapon are continuously tracked.
+
+COVIRT can be deployed as a virtual world replacement to prepare for tactical engagement and complex combat situations. No physical object needs to be built to do a combat engagement scenario planning, as COVIRT is capable of creating every conceivable scenario. This leads to huge savings in time and resources while safe guarding the environment.
+
+Small arms training simulator for the military industry
+
+The advanced small arms training simulator (ASATS) is an ideal solution to fulfil the small arms training needs in a cost-effective and efficient manner. ASATS focuses on continued learning and performance evaluation.
+
+The ASATS has been designed to train personnel on accurate range courses and life-like tactical engagement scenarios. All small arms used currently by both the police and armed forces can be integrated with the system, including any future weapons with a realistic recoil effect.

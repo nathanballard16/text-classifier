@@ -1,0 +1,17 @@
+Samsung Galaxy S10 has a virtual bezel option to hide camera cutout; here’s how to enable it
+
+Samsung launched its Galaxy S10 Series at an Unpacked event on February 20 in San Francisco. The company showed off its foldable smartphone alongside the Galaxy S10e, Galaxy S10, and the Galaxy S10+. The Indian pricing of the devices are out and the units are already up for pre-booking via the company s online website as well Flipkart, Amazon, and other select retail outlets. The smartphones will go on sale from March 8 in India. Also Read - Global chip shortage to continue through 2022: Report
+
+If you are planning on buying the device, but don’t like the design of the punch-hole camera cutout, there’s a solution. Samsung has included an option on the Galaxy S10 series smartphone to hide the camera cutout with the help of virtual bezels. The option will black out the display area around the front camera for a more traditional screen appearance. By enabling the hide notch option, black bars are added on sides of the camera cutout, thus hiding it from being clearly visible. Also Read - New leak shows MediaTek Dimensity 9000 is more powerful than Snapdragon 8 Gen 1, Exynos 2200
+
+To hide the camera cutout on the Samsung Galaxy S10, head over to the Settings app on the smartphone, and go to Display -> Full-screen apps option. Lastly, under ‘Hide front camera’ sub-menu, toggle the button which will add a black background color to the status bar and hide the hole camera cutout on the device.
+
+Samsung Galaxy S10 specifications and features
+
+The Galaxy S10 comes with a 6.1-inch AMOLED display running at QHD+ resolution (3040×1440 pixels), an aspect ratio of 19:9, and pixel density of 550ppi. Internally, Samsung s Galaxy S10-Series smartphones for India packs an octa-core Exynos 9820 SoC. While the Gglobal variant features an octa-core Qualcomm Snapdragon 855 SoC.
+
+Watch: Samsung Galaxy M10 & M20 First Look
+
+The smartphone comes with a triple rear camera setup featuring a 12-megapixel f/2.4 aperture telephoto lens, with OIS support, a secondary 12-megapixel f/1.5 dual aperture lens with OIS support, and a third 16-megapixel f/2.2 aperture sensor with an ultra-wide-angle lens having a field of view of 123 degrees. On the front, Galaxy S10 and Galaxy S10e share the same setup a single 10-megapixel sensor with f1.9 auto-focus lens whereas the Galaxy S10+ adds a second 8-megapixel RGB depth sensor with an f2.2 fixed-focus lens.
+
+Other common features on the Galaxy S10-series smartphones include super slow motion video recording up to 8 seconds, IP68 certification for water and dust resistance, display with 800nits of brightness, and Dolby ATMOS audio support. On the software front, all three smartphones run Android Pie OS with One UI skin on top.

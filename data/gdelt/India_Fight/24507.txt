@@ -1,0 +1,85 @@
+Nokia 4.2 Review: A decent everyday performer for Stock Android lovers- Tech Reviews, Firstpost
+
+The Nokia 4.2 is an average budget performer meant specifically for those looking for a clean stock Android experience.
+
+Since the company's re-entry into India in 2017, HMD Global's Nokia hasn't been very successful in creating a splash in the cut-throat budget smartphone market. The new Nokia 4.2 aims to change that by playing to the company's strength - it's stock Android One experience.
+
+Unveiled back at MWC this year, HMD Global went as far as describing the Nokia 4.2 a "mini flagship." While that may be too far fetched a statement, it's still a well-made device with hardware capable enough to handle daily tasks with aplomb.
+
+However, with a price tag starting at Rs 10,990, does the phone really merit a purchase solely for the clean, stock software experience it offers? Or is the Nokia 4.2 yet another shot in the dark by HMD Global, in a market dominated by the likes of Xiaomi, Realme, and Samsung? Let's find out.
+
+Sturdy plastic build that feels well-suited for single hand use
+
+The moment I set my eyes on the Nokia 4.2, it immediately reminded me of the Nokia 6.1 Plus I reviewed back in August 2018. That's because the design's essentially remained unchanged from Nokia's previous generation of smartphones. But that's not really a bad thing.
+
+The Nokia 4.2 has a pleasingly premium look and feel, with a glass front and back sandwiching a polycarbonate frame. Give the rear panel a tap and it doesn't sound as premium as more expensive devices, but it still feels dense and well-built for the price.
+
+Weighing 161 grams, the rounded corners and curved edges on the Nokia 4.2 makes it easy to hold, and it can be used one-handed without too much of an issue. You do have fairly chubby borders and a sizable chin to talk about but that's somewhat expected given the phone's price.
+
+You'll find the volume and power keys on the right of the phone and they're well positioned, keeping in mind where your fingers naturally rest. HMD Global has built a notification light into the power button, giving you a not-so-subtle indication (it does get incredibly bright in the dark) that it might be worth checking your phone.
+
+There is another physical button here though, on the left-hand side. This key is a shortcut to the Google Assistant. It is a nice addition but I didn't find myself using it very often. Though that does boil down to how often you'd want to use the voice assistant anyway.
+
+You'll be able to pick up the Nokia 4.2 in two colours, a basic black and a striking new hue that Nokia calls Pink Sand.
+
+An HD+ display that could have been punchier, brighter
+
+Turning our attention to the front of the Nokia 4.2 and you'll be greeted with a 5.71-inch LCD display with a tall, 19:9 aspect ratio and relatively inoffensive teardrop notch cutting into the top of the display.
+
+The resolution is HD+ (720 x 1520 pixels) which is acceptable at the price point but it's certainly not the best we've seen in this price range. Colours are accurate and not too saturated but if you do want to change that in the settings, you're out of luck.
+
+When compared to the likes of the Redmi Y3 (review) and the Realme 3 (review), the display here does lose out points in terms of overall quality. But unless you're someone who watches a lot of video content on your phone, this won't really bother you that much.
+
+The peak brightness levels could also be improved, though it is worth mentioning that viewing text on display under direct sunlight isn't much of a struggle.
+
+Pleasing overall performance but gamers look away
+
+HMD Global's opted to use Qualcomm's new 12 nm octa-core Snapdragon 439 chipset on the Nokia 4.2, which may not look great on paper when compared to phones with Snapdragon 600 series chips, but actually holds up quite well for regular use.
+
+We had the 3 GB RAM unit with us and the phone handled tasks like browsing through social media content, web-browsing, and casual video-streaming without a hiccup.
+
+Switching between common apps like Facebook, Twitter, Slack, and WhatsApp were a non-issue, the phone being able to hold each of these apps in memory every time they were left open in the background.
+
+PUBG Mobile or Asphalt 9 lovers won't be very happy with the Nokia 4.2 though. You will get playable frame rates at the lowest graphics settings here, but if playing 3D games is something you see yourself doing on a regular basis, there are better options out there.
+
+Superlative stock Android experience on a budget device
+
+Running stock Android, the user experience was a breath of fresh air without bloatware (and ads, *cough*) like most smartphones in this segment usually offer.
+
+The interface feels fluid and you get all the same features you would on any Android One device. HMD Global appears to have further tinkered with the duration of certain animations which also goes a certain way in making the experience feel more fluid.
+
+You do lack the customisations that an interface like Xiaomi's MIUI or Realme's ColorOS has to offer, but if a vanilla Android experience is what you're looking for on a budget, you don't have to look elsewhere.
+
+Average overall camera package without any AI gimmicks
+
+The Nokia 4.2 with its 13 MP AF + 2 MP FF cameras produces some vibrant photographs and they are more-or-less at par with the likes of the Redmi Y3 and the Realme 3.
+
+Shooting landscapes and people in the standard auto mode delivered photos that were sharp. Indoors, the resolved details were a bit low, but the photos remained sharp and colours true to life for the most part. The phone does struggle with highlights though, especially when there's a lot of light.
+
+But that holds true only for images where the subject is well lit. In slightly trickier situations, the phone struggles just as much as any other phone in this segment. Images shot in low light did turn out noisy and quite unusable in most cases. But again, at Rs 10,990, there aren’t a lot of phones which would do better.
+
+The same applies to images shot with the Bokeh mode on the phone, which is essentially the portrait mode here.
+
+As far as edge detection is concerned though, the Nokia 4.2 does a reasonable job of separating the subject from the background. I would have liked the addition of the ‘Live Focus’ mode we’ve seen on earlier Nokia phones as that does let you have more freedom with the level of blur being applied.
+
+Video is another area where the Nokia 4.2 does a pretty good job. You are limited to 30 fps 1080p at best here (both front and rear cameras) but the clips do turn out clean, with little to no tearing of frames when you’re panning. If I had to nit-pick, Nokia could have added EIS here which is a miss for casual vloggers and TikTok lovers.
+
+3,000 mAh battery that’ll last you a day
+
+Sporting a 3,000 mAh battery the Nokia 4.2 manages to consistently deliver a day's worth battery life with moderate usage.
+
+Going through WhatsApp, Slack, a couple of email accounts on sync, an hour of YouTube, clicking photos and placing a dozen calls, the phone got me through a workday with about 16-18 percent juice to spare. Since you wouldn't be gaming a lot on this device anyway, this should be adequate for a day's use provided you remember to charge the phone every night.
+
+What didn't make sense to me though is that HMD Global bundles a paltry 5 Watt charger in the box which takes close to two hours and 40 minutes to juice up the 3,000 mAh battery. I'd suggest investing in a faster charger here as the Snapdragon 439 SoC inside does support up to QuickCharge 3 standards.
+
+Verdict and Price in India
+
+Considering the phone's Rs 10,990 price tag, the Nokia 4.2 doesn't offer great value for money as a Xiaomi Redmi Y3 or a Realme 3. However, the Nokia 4.2 aims to be targetting a different type of buyer — one who'd want to buy a basic budget Android phone sans all the gimmicks. Perhaps even as a secondary device?
+
+What you do get here is a stylish premium-feeling no-frills design, decent performance for everyday tasks and a clean Android interface.
+
+The Nokia 4.2 is not going to blow you away with impressive speeds or stellar photographs, but as a budget phone, it's seemingly well equipped.
+
+For a more hardcore user, I'd suggest you look at Redmi Y3, Realme 3 if you're unwilling to flinch with your budget. But if you are willing to spend 2-3 k more, you do get much more capable budget devices to choose from like the Redmi Note 7 Pro (review) and the Realme 3 Pro (review). The Xiaomi Mi A2 (review) is also a phone you could consider if you're adamant that you want a phone which offers a stock Android One experience. The Mi A2 also offers a far more capable camera performance in comparison.
+
+Find latest and upcoming tech gadgets online on Tech2 Gadgets. Get technology news, gadgets reviews & ratings. Popular gadgets including laptop, tablet and mobile specifications, features, prices, comparison.

@@ -1,0 +1,45 @@
+Number of mobile malware attacks doubles in 2018
+
+New Delhi [India], Mar 7 (ANI): The number of users attacked by malware out to steal premium access login data to popular adult websites more than doubled in a year, rising from around 50,000 users in 2017 to 110,000 users in 2018.
+
+In all, more than 8,50,000 attacks were detected. This growth was accompanied by more offers of stolen credential for sale on dark web markets and an increase in the number of malware families launching attacks. These and other findings are unveiled in Kaspersky Lab's report on threats to users of adult websites in 2018.
+
+While porn is usually considered a good decoy to attract victims to a malicious website or involve them in a fraud scheme, the adult content itself wasn’t previously considered worth hunting for. However, the new report shows that porn, namely premium accounts to porn websites, which include access to exclusive content, are gaining more and more attention from fraudsters.
+
+To steal the credentials to a premium account on an adult-content website, cybercriminals distribute malware through botnets: chains of ‘bots’ or devices infected with malware capable of downloading additional malware depending on the goals of the botnet master. In the case of credential stealing threats, these botnets are usually formed by versions of known Banking Trojans that were repurposed to attack users of adult websites.
+
+They intercept their victims’ data traffic and redirect them to fake web pages that mirror the authentic adult site the user is attempting to visit, capturing the credentials when the user tries to log in to their premium account. Such an approach is increasingly popular among cybercriminals and usually leads to victims’ personal information being exposed and used by criminals. In addition, a victim can sometimes find themselves locked out of accounts for which they could be paying a subscription of USD 150 per year.
+
+According to Kaspersky Lab’s researchers, the rising number of users facing such malware is matched by its intensified productivity. The number of porn-related attacks by these programs increased almost three-fold: from 3,07,868 attacks in 2017 to 8,50,000 in 2018.Such an increase could be linked to a rise in the number of malware families distributed by botnets to hunt for porn login credentials.
+
+In 2018, Kaspersky Lab experts uncovered 22 variations of bots distributing five families of Banking Trojans for such attacks: Betabot, Gozi, and Panda – also known to target users of popular e-commerce brands - along with Jimy, and Ramnit. The last two, like Gozi are new to porn login attacks. In 2017, 27 variations of bots distributed just three malware families, Betabot, Neverquest and Panda.
+
+The increase in attacks was accompanied by arise in the number of offers related to stolen credentials on darkweb markets: the research shows that in 2018 the number of unique offers for porn website premium access credentials doubled to reach more than 10,000,compared to around 5,000 in 2017. The price, however, remained the same – around USD 5-10 for each account.
+
+“Premium access credentials to porn websites might not seem the most obvious thing to steal. However, the fact that the number of sales offers relating to such credentials on the darkweb is rising, and the increased efforts to distribute such malware, show that this is a profitable and popular line of illegal business. Users of adult-content websites should keep in mind that such malware can remain unnoticed on a victim’s device for a long time, spying on their private actions and allowing others to do the same, without logging the user out so as not to arouse their suspicion. Even those who simply visit the site but don’t have a premium account could be in danger, as they might risk exposing their private data,” said Oleg Kupreev, security researcher at Kaspersky Lab.
+
+Other findings of the report include:
+
+• Searching for pornography online has become safer: in 2018,650,000 users faced attacks launched from online resources – 36 per cent less than in 2017 when more than a million of these attacks were detected.
+
+• Cybercriminals are actively using popular porn-tags (such as Pornstar or HD-porn) to promote malware in search results. Overall, 87,227 unique users faced such malware in 2018.
+
+• Porn-themed malware samples are found in great variety, with 642 families and 57 types of PCthreats.
+
+• 89 per cent of infected files disguised as pornography on Android devices turned out to be AdWare.
+
+• The number of attacks coming from phishing pages that pretend to be one of the major porn websites with free content grew more than 10 times in Q4 2018.
+
+To reduce the risk of infection, users are advised to:
+
+• Pay extra attention to the website's authenticity. Do not visit websites until you are sure that they are legitimate and start with ‘https’, especially when any credentials are asked for.
+
+• Have a separate bank card and account with a limited amount of money specifically for premium account activation and extension of the subscription. This will help to avoid financial losses if your bank details are stolen.
+
+• Use reliable security solutions for comprehensive protection from a wide range of threats, including Banking Trojans.
+
+• Never use the same password for several websites or services. To create strong, hack-proof passwords and remove the struggle of remembering them, use a specific password manager application.
+
+• Businesses can also restrict access to web sites that do not comply with corporate policy, such as porn sites, by a using dedicated endpoint solution for Business. In addition to anti-spam and anti-phishing, it must include application and web controls, and web threat protection that can detect and block access to malicious or phishing web addresses. (ANI)
+
+

@@ -1,0 +1,15 @@
+Cashless payments are growing faster in India than just about anywhere else
+
+Cashless payments are taking off in India, growing faster than in other countries around the world. The shift has attracted a host of tech companies, backed by deep-pocketed foreign investors, battling for market share.
+
+Digital transactions in India increased by 55% last year, compared with 48% in China and 23% in Indonesia, according to data from the Bank for International Settlements (BIS). By comparison, cashless payments grew about 10% in the UK, a developed market where card transactions are already entrenched.
+
+India has many of the attributes that tend to propel growth in digital payments. It has a large population with deep mobile phone penetration. A large part of that population isn’t well served by existing banking services. Digital payments are forecast to grow about 29% annually in developing markets through 2024, according to consulting firm KPMG.
+
+India’s shift to digital hasn’t always been smooth. The government suddenly banned certain banknotes in 2016, a strategy that sent shockwaves through the economy. The policy sparked a cash shortage and drove up unemployment. Consumers quickly reverted back to cash.
+
+Since then, however, cashless payments have gathered momentum. The country has more than 10 million locations that can accept digital payments, according to KPMG, up from around 1.5 million when the government sought to snuff out banknotes. Digital transactions also got a boost from the Unified Payments Interface (UPI), which facilitates real-time payments between bank accounts.
+
+Around the world, as digital transactions replace cash, payment companies have become some of the fastest growing and most valuable enterprises. India has more than 45 mobile wallet providers, and some 50 UPI-based wallet providers, according to KPMG. There is still a lot of scope for growth: In India, there were only 18 cashless payments per inhabitant on average in 2018, compared with 142 in China and 529 in Sweden, according to the BIS.
+
+As cashless transactions grow, competition is also increasing. Paytm, the country’s largest payments group, is looking to raise $2 billion from the likes of Ant Financial (Quartz member exclusive) and SoftBank, to fend off US giants Amazon and Walmart, according to the Financial Times (paywall). While Paytm and PhonePe, owned by Walmart, are the biggest players, Google Pay is dominant in UPI transactions. Facebook is also waiting in the wings, as WhatsApp has been gearing up to launch its own payments service.

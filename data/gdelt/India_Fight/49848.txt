@@ -1,0 +1,39 @@
+IBM introduces series of free developer conferences
+
+The company says it will hold four free cloud and AI-focused events for developers in North America, India, Europe, and Asia.
+
+Gartner IT Symposium/Xpo 2019: The innovative thinking behind the IBM Garage Watch Now
+
+IBM announced a new slate of four free conferences throughout November designed to help developers interested in AI and cloud services.
+
+In a statement, the company said the conferences are designed to address "the unique needs of coders." The Digital Developer Conferences will be held in North America, Nov. 2, in India, Nov. 9, in Europe, Nov. 14, and in Asia, Nov. 23.
+
+"At this free online conference, get hands-on experience and engage with expert developers who will share insights on topics ranging from AI/ML innovation from IBM AI Research, open-source deep learning, model bias identification, multicloud best practices, cloud security with DevSecOps and getting the most out of cloud native development," the company wrote on the conference landing page.
+
+"See client stories and how technology is being deployed to address some of the biggest issues facing developers today."
+
+SEE: How to build a successful developer career (free PDF) (TechRepublic Premium)
+
+The conference gives developers the chance to hear about how IBM clients are using the company's latest technology across industries. Attendees can earn industry-recognized badges and prizes.
+
+"At this digital conference, we'll show you real-world examples of clients use cloud and AI to solve business problems while you acquire hands-on experience," IBM announced in a YouTube video.
+
+"There are cloud-native and machine learning tracks composed of two keynotes for each track, three technical deep dives per track, one interactive lab per track and live one-on-one support for live labs. The digital developer conference provides developers with valuable training on the most important technologies in the industry today," IBM said, adding: "Take this no-cost opportunity to engage with expert developers. Build expertise for a brighter future."
+
+Head over to the conference website to sign up.
+
+Open Source Weekly Newsletter You don't want to miss our tips, tutorials, and commentary on the Linux OS and open source applications. Delivered Tuesdays Sign up today
+
+Also see
+
+How to become a developer: A cheat sheet (TechRepublic)
+
+Implementing DevOps: A guide for IT pros (free PDF) (TechRepublic)
+
+Telephone interview cheat sheet: Software developer (TechRepublic Premium)
+
+Programming languages: Developers reveal most loved, most loathed, what pays best (ZDNet)
+
+It takes work to keep your data private online. These apps can help (CNET)
+
+Programming languages and developer career resources (TechRepublic on Flipboard)

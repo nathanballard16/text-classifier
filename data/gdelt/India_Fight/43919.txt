@@ -1,0 +1,39 @@
+Saudi Aramco oil refinery drone strikes a wake up call for India: Just matter of time before jihadis go high-tech-India News , Firstpost
+
+For India, the Saudi attacks should be a wake up call: the next strike on Indian military complexes in Kashmir, or the next 26/11, could involve DIY-drones using components available off the shelf.
+
+Late in the summer of 1849, the clear skies over Venice filled with a little flotilla of balloons, gracefully floating over the city. The show, however, had not been put up for the tourists. For over a year, revolutionary Venice had defied the Habsburg imperial armies gathered outside its gates; the Austrian artillery officer Franz von Uchatius had a novel idea to put an end to the siege. Each balloon carried a 15 kilo, pear-shaped explosive charged, fused to explode exactly 23 minutes after release.
+
+Foiled by changing winds, which ruined von Uchatius' careful calculations, the experiment ended without much bang, barring an explosion over the Piazza San Marco, now home to some of Europe's greatest cultural heritage and overpriced cafés, the raid didn't score a single hit.
+
+Last week's audacious assaults on the Abqaiq and Khurais oil facilities in eastern Saudi Arabia, which have halved the country's production, or about 5 percent of global output, illustrate just how far the technology has evolved in the 170 years since the siege of Venice. Ten drones, costing under $5,000 each, succeeded in penetrating one of the most sophisticated air-defence systems in the world, and inflicted billions of dollars of damage.
+
+For India, the Saudi attacks should be a wake up call: the next strike on Indian military complexes in Kashmir, or the next 26/11, could involve DIY-drones using components available off the shelf.
+
+Since 2003, it has been known that the Lashkar-e-Taiba has had an interest in Unmanned Aerial Vehicles, or drones. That year, the United States Federal Bureau of Investigations (FBI) arrested Lahore-born Maryland resident Ali Asad Chandia, helped purchase drones, night-vision equipment and wireless video-cameras for the Lashkar. The Lashkar's experiment went nowhere, but it wasn't quite the end of the story.
+
+In recent years, intelligence sources have said that there have been multiple attempts by both the Jaish-e-Mohammed and Lashkar-e-Taiba to adapt commercially available drones as platforms for IEDs, but they have not been able to overcome problems with guidance systems and payloads.
+
+Autpilot software is easily available, however, there are many non-trival problems to overcome before accurate attacks can be launched. ArduPilot and its cousin PX4 contain hundreds of parameters that affect everything from pitch and roll sensitivity to how the autopilot responds to losing a GPS signal. Even small errors can have catastrophic consequences — something less than ideal for use by unskilled insurgents operating in harsh environments.
+
+That, however, is already changing. In a 2016 article, former United States air force officer Marc Jacobsen described how his humanitarian organisation, Uplift, which used drones to deliver humanitarian aid through contested airspace in Syria. Each drone used by Uplift, costing just about $700 to manufacture, could airdrop an 18 kilogram payload over 60 kilometres, its autopilot successfully defeating electronic countermeasures.
+
+The utility of the same technology to terrorists was apparent. "As a side project", Jacobsen wrote, "I also experimented with building the cheapest 'insurgent' drone I possibly could. The result required $4 of foam board, packing tape and hot glue, and about $250 in cheap Chinese components. It was ugly, but it could deliver two pounds at a range of six to 12 miles".
+
+Last year, the United Nations reported Yemen's Houthi insurgents had developed a new kind of drone, powered by the Chinese-made DLE 170 or the German-made 3W110i B2 model-aircraft engines, capable of ranges of up to 1,500 kilometres and speeds of up to 250kmph. That gave them the abilility to hit targets deep inside Saudi Arabia, with a 18 kilogram explosive warhead, packed with ball bearings to enhance lethality.
+
+In addition, the Houthis adapted commercially-available civilian drones, like the Chinese Skywalker 8X, for a variety of reconnaissance and explosives-delivery roles.
+
+From the Islamic State in Iraq, to militias in Ukraine, a variety of insurgent and terrorist groups have successfully used drones for a vast range of roles, from serving in crude suicide missions to sophisticated intelligence-gathering missions.
+
+Islamabad's military drone programme has expanded significantly in recent years. Learning lessons form a variety of imported systems-Germany's Luna, Italy's Falco, South Africa's Seeker, and the United Kingdom's Snipe and Streak-the country has, for example, successfully used the Buraq system against terrorists in Khyber-Pakhtunkhwa's Shawal and Burraq valleys since 2015.
+
+That means the technology will, more likely than not, slowly disperse to jihadist groups, too.
+
+For Indian forces in Kashmir, as well as police across the country, the suicide drone will mean dealing with a dramatically new order of threat: building stronger defences, or deploying more guards, just won't be enough to protect bases or installations. The technologies needed to reliably defeat the threat donot exist. In 2017, Mike Egan, the head of Joint Improvised-Threat Defeat Organisation, the United States military agency which studies new challenges, candidly admitted "there is no counter-UAS (unmanned aerial system) that works in Iraq".
+
+This year, the Pentagon will spend over $1.5 billion on over 90 projects, ranging from modifications to existing missiles and anti-air systems to electronic warfare technologies and directed-energy weapons. India hasn't even begun to seriously consider the threat: there's been no effort to consider simple questions, like how police stations or military outposts might be hardened against an attacker for whom perimeter defences will be irrelevant.
+
+Insurgents know that creativity and tactical innovation offer the opportunity to defeat adversaries who enjoy overwhelming advantages of force and resources. Armies, in turn, learned the hard way that their resources, alone, couldn't guarantee victory.
+
+For generations, Indian security forces have battled insurgents for control of land. The next threat, almost certainly, will come from the air.

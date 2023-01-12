@@ -1,0 +1,63 @@
+Emotet Botnet Shows Signs of Revival
+
+Cybercrime , Fraud Management & Cybercrime , Fraud Risk Management
+
+Emotet Botnet Shows Signs of Revival
+
+Security Researchers Spot Active Command-and-Control Servers
+
+After two months of inactivity, the notorious Emotet botnet is poised to start delivering malicious code again; active command-and-control servers have been spotted in the wild, researchers at the security firm Cofense warn.
+
+See Also: Zero Trust Webinar Tomorrow: Research Insights Exploring the Actionable, Holistic & Integrative Approach to Security
+
+The servers were first spotted on Aug. 21, Cofense researchers explained a series of tweets posted late last week. After a burst of activity in May, the botnet stayed dormant over much of June and July, they noted.
+
+The last known case of a large-scale Emotet attack was reported in India in May, when a group of 8,000 botnet intrusions targeted a number of businesses, Livemint reports.
+
+On Thursday, however, Cofense researchers began announcing that they spotted active command-and-control servers connected to Emotet. So far, however, it does not appear that the botnet has been used to deliver malicious codes or other campaigns, researchers say.
+
+The Emotet botnet arose from the grave yesterday and began serving up new binaries. We noticed that the C2 servers began delivering responses to POST requests around 3PM EST on Aug 21. Stay vigilant and keep an eye out for any updates as we monitor for any changes. — Cofense Labs (@CofenseLabs) August 22, 2019
+
+Dangerous Emotet
+
+Originally designed as a banking Trojan, Emotet has evolved over the years into malicious code capable of delivering a large-scale botnet capable of targeting a number of systems and considered to be one of the deadliest malware families operating in the wild, security experts say.
+
+In recent years, the U.S. Department of Homeland Security has categorized Emotet as one of the costliest and destructive botnets ever seen.
+
+Researchers have noted that the regular upgrades by Emotet's developers have given the malware additional capabilities, such as credential stealing, security evading and the ability to respond to the command-and-control servers of an infected device (see: 5 Malware Trends: Emotet Is Hot, Cryptominers Decline).
+
+Tonia Dudley, a security solutions advisor at Cofense, notes that Emotet is particularly good at leveraging the data of older victims in order to create new attacks.
+
+"They actively gather the victims contact lists as well as older emails and will specifically target those contacts," Dudley tells Information Security Media Group. "This leads to what appears to be spear-phishing on one of the largest scales ever seen. It is well known that victims will also receive further malware that may lead to ransomware as well. The botnets victims include home users all the way up to government organizations."
+
+An earlier study by Sophos categorizes the Trojan as worse than WannaCry and states that Emotet's frequent updates make the containment of the various malicious strains difficult. Sophos found as many as 750 varieties of Emotet malware by the end of January.
+
+Some of the more well-known variants of Emotet are TrickBot – another banking Trojan that has found multiple uses - and the Ryuk ransomware, which researchers believe uses Emotet's network propagation capabilities to leverage larger attacks.
+
+For instance, in March, officials in Jackson County, Georgia, paid out $400,000 to attackers after a ransomware attack crippled IT systems for about two weeks. Local news media reported the county government had been hit with Ryuk (see: Georgia County Pays $400,000 to Ransomware Attackers).
+
+State of Dormancy
+
+This isn't the first time this malware strain has re-emerged after a period of inactivity.
+
+In January, security researcher Brad Duncan uncovered a surge in Emotet activities following a brief period of dormancy in December 2018 (see: Emotet Malware Returns to Work After Holiday Break ).
+
+"So far in 2019, I've seen Emotet retrieve Gootkit and the IcedID banking Trojan. As 2019 progresses, I expect to find examples of Emotet distributing other families of malware like Qakbot and Trickbot, something we saw in 2018," Duncan said at the time.
+
+Cofense's Dudley adds that it's not usual for the attackers to go quiet for a time and then come back with stronger Emotet attacks.
+
+"They have gone on breaks in the past, however this does not normally include a complete shutdown of their [command-and-control] infrastructure," Dudley says. "Emotet has always worked as a large scale attack comprised of multiple smaller campaigns during the workweek. While we expect them to maintain their standard operating procedures of distribution via malspam, we are actively monitoring for changes that they may have made over this last hiatus."
+
+Other Warnings
+
+In addition to Cofense, other researchers and security firms have started posting their own new warnings about a possible resurgence of Emotet and are warning security professionals to remain vigilant.
+
+For instance, Black Lotus Labs, which is the research and threat division of CenturyLink, released via GitHub a list of servers and IP addresses that appear connected to the botnet, according to Bleeping Computer.
+
+In a tweet, MalwareTech, a site run by security researcher Marcus Hutchins, confirmed that while there is some new activity related to Emotet, no new malicious code or campaigns have been reported.
+
+"No new bot binaries so far, but the C2s are responding for the first time in months," Hutchins tweets.
+
+No new bot binaries so far, but the C2s are responding for the first time in months. — MalwareTech (@MalwareTechBlog) August 22, 2019
+
+And independent British security researcher Kevin Beaumont writes on Twitter that if Emotet is, indeed, active again, its likely purpose is to deliver ransomware.

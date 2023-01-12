@@ -1,0 +1,73 @@
+[Startup Bharat] From Rs 1 lakh seed capital to Rs 20 Cr revenue, this environment monitoring startup is thriving in Aligarh
+
+When it comes to business, Aligarh in Uttar Pradesh is most famous for its locks industry. When childhood friends Mohammad Hamza and Sabir Ahmad Shamoo decided to start up from here, it was their attempt to put the city on India's startup map.
+
+The 29-nine-year-olds started Engineering & Environmental Solutions (E&E Solutions) in their hometown in 2015. The firm develops environment-monitoring instruments using sensor-driven technologies for connected devices, with an automated approach to data collection and monitoring of solutions.
+
+The duo has roped in their childhood friends and seniors to form the core team, which includes Raheel Ahmad (43) as head of business development, Mohamad Misfer (27) as project head, Syed Abu Rehan (30) as technology head, and Shah Saud Abdali (29) as IT head.
+
+Interestingly, all the core team members belong to Aligarh and demonstrate a zeal to prove that any business can be done from anywhere in India, backed by optimum knowledge and a good amount of passion.
+
+Another reason for the founders to choose Aligarh as their home base is that it’s primarily a low-cost place and in close proximity to a large university which serves as a talent pool. It’s also conveniently located about 130 km southeast of Delhi-NCR and enjoys good connectivity with other major cities via the rail and road network, points out Hamza.
+
+The E&E team
+
+The beginning
+
+Hamza and Sabir recount their friendship that goes back to their childhood. They studied together till senior secondary school in Aligarh, after which Hamza did his MTech in Petrochemical Engineering from Aligarh Muslim University, while Sabir went on to get his degree in Electronics & Instrumentation Engineering from B.S. Abdur Rahman University, Chennai.
+
+That is where he met their now-project head Misfer, a batchmate from Mechanical Engineering. Almost the entire core team, barring Raheel, happen to be batchmates or know each other in other ways – a fact that has served to cement their business association and enabled a cohesive team spirit.
+
+E&E Solutions came into being after Hamza and Sabir had a random conversation at a tea stall four years ago about opting out of their 9-to-5 jobs and starting something on their own. Having always possessed an entrepreneurial drive and sharing a concern for the environment, the duo decided to rent a small one-room apartment in Aligarh and set up their own firm, with an initial seed capital of Rs 1 lakh raised from family and friends.
+
+Stay Updated Get stories of change makers and innovators from the startup ecosystem in your inbox Please fill in this field. {{#error}} {{error}} {{/error}} {{^error}} Something went wrong. Try again later {{/error}} Welcome Onboard ! You have been successfully registered for our daily newsletter.
+
+Currently, the startup has 48 team members, a full-fledged office and an assembly unit in Aligarh, with branches across Delhi, Kolkata, Tiruchirappalli, Bhopal, and Bhubaneshwar in India and in Michigan in the US. “We are striving to leave our footprint everywhere and are continuously expanding,” says Hamza.
+
+Talking about their offerings, Hamza explains that the startup specialises in the design, manufacture, operation, and maintenance of air, hydrological, meteorological, and particulate monitoring systems. “Some of our key wins include remote control of devices and wireless transfer of continuous data through our IoT-enabled solutions and devices for real-time monitoring of environmental parameters,” he says.
+
+E&E’s product portfolio comprises smart machines like indoor air quality monitoring systems, automatic weather stations, ambient air quality monitoring stations, digital ground water level recorders, continuous effluent/emission monitoring systems, and gas monitors, among others.
+
+“The telemetry feature in these products enables the data to be transmitted in real-time to anywhere in the world using tools and platforms such as GSM, GPS, Wi-Fi, hologram, LoRa and LoRaWan. The transmitted real-time data can then be accessed and analysed from cloud servers using the internet on any desktop or even a smartphone,” explains Sabir.
+
+In differentiating its solutions from the others available in the market, E&E focuses on robust, cost-effective and low-power systems for easy monitoring and control. “We have an R&D team of passionate and innovative engineers who are constantly driven to get us and the world future-ready. Moreover, all our instruments are made in-house, focusing on precision, quality, innovation and reliability of data,” adds Sabir.
+
+Giving an example of how the company has found its market fit, Hamza talks about their solution to address the fast-depleting ground water level.
+
+“To monitor this crucial resource and to keep a check on its misuse, our digital ground water level recorders are geared to continuously assess the levels of ground water in borewells and send data wirelessly to our servers. The ground water levels can then be monitored and analysed by using graphs and other tools. Installing these recorders has become a mandate for several industries to be in compliance with the Central Ground Water Board’s policies,” he explains.
+
+E&E also works on customised solutions for clients across verticals. Talking about their on-going project with a real-estate developer in Delhi-NCR to address air pollution, Hamza shares that the startup has developed a customised solution to monitor indoor air quality on a real-time basis.
+
+“Our team of environmental experts and engineers have come up with a simple yet effective mechanism to provide a solution using our sensor-based IoT devices. We are installing our air-quality monitors at different locations on each floor of the client’s 17-storey, high-rise building. The device measures various environmental parameters such as PM2.5, PM10, CO2, VOC, temperature and humidity and shows real-time data on a touch-screen display unit installed on each floor. A central wireless monitoring station also collectively displays the data for each floor in real-time,” he explains.
+
+The competition and challenges
+
+Sabir points out that this market has more challenges than competition, adding that the ability to sense various parameters, understand their co-relations, and explain and display the data in a user accessible format requires a lot of engineering chutzpah.
+
+“If you can remain updated with the latest trends in technology and can constantly evolve and implement the best in your systems, all the time enhancing data reliability, then you can always remain ahead of the pack. In the end it’s all about ensuring great connections. That’s what we do and integrate in our sensors too,” he says.
+
+He adds that E&E stands out for developing customized, turnkey solutions and for the dynamics of a young and passionate team powered by great problem-solving skills. “Moreover, we give our clients a strong and well-connected service support team, which is the main USP of E&E,” says Sabir.
+
+The co-founders of E&E point out that India's environmental technologies market, including goods and services, is valued at around $23 billion and that environmental technology is a rapidly growing segment in India with a very strong potential.
+
+Hamza adds that E&E’s growth potential is closely linked with the country policy-makers’ increasing focus on rules related to the environment, such as the new solid waste management rules, which have given rise to a need for newer and better monitoring and control technologies.
+
+Business growth
+
+In a matter of just four years, E&E has bagged more than 30 clients, including companies like Whirlpool, Hero MotoCorp, The Leela, Taj Group, Mother Dairy, Dabur, Hindustan Steel, ITC Labs, the Centre for Ground Water Board in Lucknow, and the Centre for Science and Environment.
+
+In its first year of inception, the company recorded revenues of just around Rs 36 lakhs; in the following year, the earnings saw a five-fold growth and crossed the crore-mark.
+
+“The annual revenues crossed Rs 2 crores in FY18 and Rs 4 crores in FY19. In the current fiscal year, we are expecting to clock a Rs 20-crore turnover,” says Raheel.
+
+He adds that the company has been seeing YoY growth of almost 300 percent and is looking to maintain the same rate over the next few years.
+
+Raheel started his career in 1999 with LG Electronics and then worked with several other multinational companies before quitting his corporate career and coming on board with E&E. He goes on to share that the company has already recorded profitable performance, though the net profit margins are not as large as they could be, as a large chunk of the revenue goes towards R&D and technology upgradation.
+
+Going forward, the company plans to continue to explore newer vistas in the field of environmental monitoring and capture new markets. “We are expanding into the lucrative Middle-East market and the African countries. Though we are not yet catering to the already-developed US market, we have set up a sales office in North America,” says Hamza.
+
+Funding plans
+
+The bootstrapped startup is now seeking external funding for scaling up, to the tune of $8-10 million from investors and VC firms. “We would like to raise this money over the next one to two years. The main objectives are to scale up quickly, hire more people, enhance our technology, set up a larger factory, and invest heavily in R&D to be among the best in the sector,” says Sabir.
+
+(Edited by Athirupa Geetha Manichandar)

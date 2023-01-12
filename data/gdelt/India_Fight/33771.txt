@@ -1,0 +1,45 @@
+Automated facial recognition: what NCRB proposes, what are the concerns
+
+On June 28, the National Crime Records Bureau (NCRB) released a Request for Proposal for an Automated Facial Recognition System (AFRS) to be used by police officers across the country.
+
+What is automated facial recognition?
+
+AFRS works by maintaining a large database with photos and videos of peoples’ faces. Then, a new image of an unidentified person — often taken from CCTV footage — is compared to the existing database to find a match and identify the person. The artificial intelligence technology used for pattern-finding and matching is called “neural networks”.
+
+A senior former Home Ministry official said current facial recognition in India is done manually. While fingerprints and iris scans provide far more accurate matching results, automatic facial recognition is an easier solution especially for identification amongst crowds, he said.
+
+Are there any automated facial recognition systems in use in India?
+
+It is a new idea the country has started to experiment with. On July 1, the Ministry of Civil Aviation’s “DigiYatra” using facial recognition for airport entry was trialled in the Hyderabad airport. State governments have also taken their own steps towards facial recognition. Telangana police launched their own system in August 2018.
+
+What does the NCRB request call for?
+
+The NCRB, which manages crime data for police, would like to use automated facial recognition to identify criminals, missing people, and unidentified dead bodies, as well as for “crime prevention”. Its Request for Proposal calls for gathering CCTV footage, as well as photos from newspapers, raids, and sketches. The project is aimed at being compatible with other biometrics such as iris and fingerprints. It will be a mobile and web application hosted in NCRB’s Data Centre in Delhi, but used by all police stations in the country. “Automated Facial Recognition System can play a very vital role in improving outcomes in the area of Criminal identification and verification by facilitating easy recording, analysis, retrieval and sharing of Information between different organisations.”
+
+ALSO READ | MHA plans to link fingerprint, face recognition data from all police stations to central system
+
+How will the new database fit in what already exists?
+
+NCRB has proposed integrating this facial recognition system with multiple existing databases. The most prominent is the NCRB-managed Crime and Criminal Tracking Network & Systems (CCTNS). Facial recognition has been proposed in the CCTNS program since its origin.
+
+“The idea is that integration of fingerprint database, face recognition software and iris scans will massively boost the police department’s crime investigation capabilities. It will also help civilian verification when needed. No one will be able to get away with a fake ID,” a Home Ministry official had told The Indian Express a year ago.
+
+In 2009, following the Mumbai terror attacks, CCTNS was envisaged as a countrywide integrated database on crime incidents and suspects, connecting FIR registrations, investigations, and chargesheets of all 15,500 police stations and 6,000 higher offices. It also plans to offer citizen services, such as passport verification, crime reporting, online tracking of case progress, grievance reporting against police officers, and more.
+
+The new facial recognition system will also be integrated with Integrated Criminal Justice System (ICJS), as well as state-specific systems, the Immigration, Visa and Foreigners Registration & Tracking (IVFRT), and the Koya Paya portal on missing children.
+
+How far has CCTNS progressed?
+
+The Rs 2,000-crore project is accessible to the CBI, Intelligence Bureau, National Investigation Agency, Enforcement Directorate and the Narcotics Control Bureau. The project did not meet its initial 2015 deadline and was extended to March 2017.
+
+In August 2018, the first phase of connecting the police stations was nearly complete. In the second phase, the Home Ministry proposed integrating the database with the fingerprint database of the Central Finger Print Bureau (CFPB). NCRB is currently rolling out the National Automated Fingerprint Identification System (NAFIS) and its integration with CCTNS.
+
+What are the concerns around using facial recognition?
+
+Cyber experts across the world have cautioned against government abuse of facial recognition technology, as it can be used as tool of control and risks inaccurate results.
+
+“Amid National Crime Records Bureau’s controversial step to install an automated facial recognition system, India should take note of the ongoing privacy debate in the US. Indian citizens are more vulnerable in the absence of a Data Protection Law,” former IT Minister Milind Deora said on Twitter with a photo of recent news that US’s immigration agency was using the technology with drivers’ licences.
+
+In the US, the FBI and Department of State operate one of the largest facial recognition systems.
+
+International organisations have also condemned the Chinese government on its use of surveillance cameras and facial recognition to constrict the rights of Uighurs, a mostly Muslim minority.

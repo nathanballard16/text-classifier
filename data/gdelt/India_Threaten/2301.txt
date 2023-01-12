@@ -1,0 +1,17 @@
+RBI Alert: ‘AnyDesk’ app can steal all money from your bank account, never download it
+
+RBI has a warning. If you are suggested to download an app called “AnyDesk” through social media or any other channel then do not do this. After downloading this app, your bank account may become empty within minutes.
+
+Reserve Bank of India (RBI) has issued a warning in this regard. “AnyDesk” is a software that can do transactions from your bank account through your mobile or laptop.
+
+On February 14, the RBI alerted banks about potential fraudulent transactions on the unified payments interface (UPI) platform. RBI said that the cautionary notice was issued in the wake of rising number of fraud using the UPI pltform.
+
+In the notice, the central bank informed the commercial lenders that a mobile app named “AnyDesk” was being allegedly used to target the mobile phones of customers.
+
+The alert was issued by the RBI’s cybersecurity and IT examination cell. It said that once the app is downloaded on a mobile phone, it seeks permission to access control of the phone like other applications.
+
+However, when the permission is granted by a user, AnyDesk app allegedly steals confidential data on the phone to carry out fraudulent transactions through other payments app available on the phone.
+
+Reports say the RBI alert also applies to all other forms of mobile payments, not just the UPI.
+
+RBI notice said it had sent a similar advisory last month.

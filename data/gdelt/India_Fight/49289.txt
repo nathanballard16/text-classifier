@@ -1,0 +1,25 @@
+Research team wants to eliminate dangerous plant diseases in rice
+
+Rice plants infected by the Xoo bacterium and that succumbed to bacterial blight as a result. Credit: HHU / Sarah M. Schmidt
+
+Rice is the No. 1 staple food for the world's poorest and most undernourished people. More than half of the world's population eats rice every day. In sub-Saharan Africa, rice is the fastest-growing food source, providing more food calories than any other crop. One dangerous threat to food security is the rice disease bacterial blight, caused by the bacterium Xanthomonas oryzae pv. oryzae (Xoo). The annual losses caused by bacterial blight are estimated at U.S. $3.6 billion in India alone. Xoo can destroy a smallholder's entire annual harvest, putting their food supply, income and land ownership at risk.
+
+Healthy Crops aims to provide these farmers with effective tools to combat bacterial blight and thus eliminate the epidemic in the long term. The consortium is composed of six research institutions on three continents.
+
+So how did the team manage to rein in the bacteria? "We limit the ability of the noxious Xoo bacterium to divide by preventing it from hijacking the plant's resources as food supply," explains Dr. Bing Yang from the University of Missouri. To understand this, they used their knowledge of how the Xoo bacteria accesses the host's nutrients. Once Xoo infects a rice plant, it secretes proteins, the so-called TAL effectors, into the rice cell. TAL effectors turn on the host's SWEET genes, which then export sugar from the rice cells and make it available to the bacteria, which live in the cell wall space. The bacteria then have enough resources to multiply.
+
+Rice terraces in Sapa, Vietnam: Rice is the world's most important food plant, playing a vital role for nutrition in Asia and Africa in particular. In those countries, rice is generally grown by small farmers. If their fields are infected by bacterial blight, their very existence is threatened. Credit: HHU / Sarah M. Schmidt
+
+Some rice varieties are resistant against some specific types of Xoo bacteria. The team had previously determined that these varieties contain variants of the SWEET promoter, which do not allow binding of the bacterial TAL effectors. In essence, the plants changed the lock, so the bacteria cannot activate the SWEET transporters and manipulate sugar transport for their own benefit.
+
+In turn, the bacterium can adapt: Different strains of Xoo attack with different keys. There is a race between Xoo strains developing new keys on the one hand, and resistant rice varieties with altered locks on the other. The consortium identified six points of attack in the SWEET promoters. Wolf B. Frommer, the project leader, said, "With the knowledge gained and the tools developed here, we might be at least as fast in developing new resistances as the bacteria can develop new keys."
+
+In two back-to-back publications in the journal Nature Biotechnology, Healthy Crops present a series of variants collected from all over the world for two popular rice varieties that are resistant to a large collection of Xoo strains that cause bacterial blight disease. It also describes the Sweetr-Resistance Kit that enables rapid characterization of new bacterial strains to devise a rapid and well-targeted deployment strategy of new resistances to defeat the disease also in the long term.. This kit should soon be available to rice growers and researchers in Asia and sub-Saharan Africa.
+
+Dr. Boris Szurek, the team leader from IRD, says, "We used the most advanced tools to get one step ahead of the pathogen in its arm's race with the rice plant."
+
+Dr. Ricardo Oliva, who heads the IRRI team, says, "It is an exciting time to work on rice breeding for disease resistance. Our findings pave the way for the eradication of diseases that have severely affected the lives of smallholder farmers who depend on rice for their livelihood. It is now even more possible to outsmart the enemy by being a step ahead of it."
+
+Explore further Discovery could pave the way for disease-resistant rice crops
+
+Provided by Heinrich-Heine University Duesseldorf

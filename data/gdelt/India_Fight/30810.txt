@@ -1,0 +1,203 @@
+How did NASA put men on the moon? One harrowing step at a time.
+
+“Fate has ordained that the men who went to the moon to explore in peace will stay on the moon to rest in peace. These brave men, Neil Armstrong and Edwin Aldrin, know that there is no hope for their recovery. But they also know that there is hope for mankind in their sacrifice.”
+
+— Remarks prepared for President Richard M. Nixon, in a memo from White House speechwriter William Safire, July 18, 1969, under the heading “IN EVENT OF MOON DISASTER.”
+
+Spoiler alert: They lived!
+
+They walked on the moon, gathered rocks, planted a flag, rocketed home to Earth and splashed down safely in the Pacific Ocean. After three weeks in quarantine (to prevent a purely hypothetical moon-germ contagion), the three Apollo 11 astronauts got their ticker-tape parade and eternal glory.
+
+Why it worked — and why the United States beat the Soviet Union to the moon after having been humiliated, repeatedly, during the early years of the Space Race — remains a compelling story of managerial vision, technological genius and astronautical dash. But it was never as breezy as NASA made it look. The first landing on the moon could easily have been the first crashing.
+
+NASA’s strategy during the 1960s was built around incremental achievements, with each mission wringing out some of the risk. Still, potential disaster lurked everywhere. Just two years before Apollo 11, three astronauts died in a freakish fire during a capsule test at Cape Canaveral, Fla.
+
+Apollo 11 astronauts, from top, Edwin "Buzz" Aldrin, Michael Collins and Neil Armstrong seen during the Apollo 11 mission. (NASA)
+
+To put astronauts on the surface of the moon and bring them home safely, NASA had to do many things right, in succession, with margins of error ranging from small to nonexistent.
+
+“I consider a trip to the moon and back to be a long and very fragile daisy chain of events,” Michael Collins, the third member of the Apollo 11 crew, told The Washington Post recently.
+
+“There were 23 critical things that had to occur perfectly,” recalls engineer JoAnn Morgan, the instrumentation controller in Launch Control at the Kennedy Space Center.
+
+[Related coverage: 50th Anniversary of Apollo 11]
+
+One of those things was the landing on the moon, which obviously couldn’t be practiced under realistic conditions. No one knew the nature of the moon’s surface. Hard? Soft? Powdery? Gooey? The mission planners feared that the lunar module could become instantly mired, or just sink out of sight.
+
+Equally nerve-racking was the planned departure from the moon. The top half of the lunar lander, the ascent module, relied on a single engine to blast the astronauts back to lunar orbit. It had to work. If it didn’t, Nixon would have to pull out that memo.
+
+Collins, who orbited the moon in the mother ship while his crewmates were on the surface, was keenly aware that failure was an option. In his memoir “Carrying the Fire,” he wrote: “My secret terror for the last six months has been leaving them on the moon and returning to Earth alone. . . . If they fail to rise from the surface, or crash back into it, I am not going to commit suicide; I am coming home, forthwith, but I will be a marked man for life and I know it.”
+
+NASA has an institutional instinct to project supernatural competence; it downplays, or hides beneath jargon, the uh-oh moments in human spaceflight. If on July 20, 1969, a giant man-eating moon lizard had emerged from a lava tube and chased Neil Armstrong and Buzz Aldrin back into the lunar lander, NASA would have described this as an off-nominal event requiring a contingency procedure.
+
+Photos from the Apollo 11 mission show the Earth, at top; the lunar module and Saturn launch vehicle, middle; and Earth-rise as seen from lunar orbit. (NASA)
+
+The ultimate challenge
+
+There’s a full-scale lunar lander on display at the National Air and Space Museum on the Mall. It is officially known as LM-2 — Lunar Module 2. Originally called a Lunar Excursion Module, the spidery spacecraft was generally called “the Lem” and nicknamed “the bug.”
+
+The display vehicle at the museum never went to space, but it was used in ground tests, including drop tests to see how it could handle a hard landing. The exterior has been modified to make it look like the Apollo 11 lander — the Eagle.
+
+It doesn’t look like a flying machine. Or maybe it looks like one that has been taken apart and then, after a few cocktails, put back together incorrectly. It has no curves and minimal symmetry. It features oddly protruding elements that seem to be tacked on randomly, including a fuel tank that the writer Oliver Morton has described as protruding like a goiter.
+
+Directly overhead, suspended by wires from the ceiling, is the Spirit of St. Louis, Charles Lindbergh’s primitive plane, not much more than a metal box with propellers. But at least it’s immediately recognizable as a plane. The lunar module is bewildering. Where, exactly, do the astronauts sit? (Nowhere: There are no seats. They stand.)
+
+“This is the first true spaceship,” says Paul Fjeld, an artist who is an expert on space exploration and worked on the restoration of LM-2. Fjeld explains that it didn’t have to fly in an atmosphere and thus didn’t have to be aerodynamic. Or even look good.
+
+The designers at Grumman Aircraft had to figure out the most basic concepts, like how to get astronauts out of the crew cabin and down to the moon’s surface, roughly 10 feet below, notes Charles Fishman in his book “One Giant Leap.” The designers initially decided that the astronauts, who would be in bulky moon suits, should go to the surface by climbing down hand over hand on a knotted rope. They’d return the same way, lugging moon rocks and getting an amazing workout.
+
+Wisely, the designers decided to go with a ladder.
+
+Though everything about the moonshot was fraught with uncertainty, it benefited from a clearly defined goal. In May 1961, President John F. Kennedy asked NASA to put a man on the moon and bring him safely back to Earth before the decade was out. The next year, in September 1962, Kennedy gave his famous “We choose to go to the moon” speech at Rice University in Houston. He said the United States chooses to do these things in space “not because they are easy, but because they are hard . . . ”
+
+He noted that the moon is 240,000 miles away and that the mission would require “a giant rocket more than 300 feet tall,” and that this rocket would be “made of new metal alloys, some of which have not yet been invented.”
+
+He would not live to see this happen. But his assassination made the moon program untouchable, something that simply had to be achieved, not only for geopolitical reasons but also to honor the martyred president. The United States poured $20 billion and 400,000 workers into the moonshot.
+
+Contrary to popular belief, NASA did not invent Teflon, Velcro or Tang. But it did invent flying to the moon. Navigating to and around the moon was a computing challenge — one that required the most advanced computers at MIT as well as human computers such as Katherine Johnson, the NASA mathematician celebrated in the book and movie “Hidden Figures.” NASA chose a mission architecture for Apollo that saved payload weight and reduced the size of the main rocket but required astronauts to take a separate craft, the lunar lander, to the moon’s surface and then rendezvous with the mother ship in lunar orbit. That was a splendid idea on paper but added risk and complexity.
+
+Meanwhile, the Soviet Union had its own moon program but struggled to build a giant rocket that could launch without blowing up. The Russians had internal disputes among their engineers. A huge setback came when the chief rocket designer, Sergei Korolev, died during surgery in 1966.
+
+The United States, meanwhile, had Wernher von Braun, the ex-Nazi who led the program that devised the V-2 rockets that terrorized Britain during the war. Von Braun and other German scientists and engineers had been brought to the United States after the war. Von Braun envisioned human spaceflight that included space stations, space shuttles and interplanetary arks carrying humans to Mars. The moon landing, for von Braun, was just one milestone in a much more ambitious invasion of space.
+
+“In a simplistic way, we had von Braun, and he built a rocket capable of a lunar landing mission. The Soviet Union could not build an equally capable rocket,” said John Logsdon, author of multiple books on the Space Race.
+
+The Soviets did build a moon rocket, the N1. It had 30 engines. Four times the Soviets tried to launch it, and every time something went wrong.
+
+The second failure was particularly spectacular. It happened on July 3, 1969 — just 13 days before the scheduled launch of Apollo 11. The N1 rose above the launch tower, fell back to the pad and blew up in one of the biggest nonmilitary explosions in history.
+
+Monitoring the Apollo 8 blastoff Dec. 21, 1968. (AP) (AP)
+
+1202 alarm!
+
+In December 1968 came the first giant leap, when the three Apollo 8 astronauts flew all the way to the moon, orbited it and flew home, a journey that most human beings appropriately found amazing.
+
+Apollo 9 was a shakedown cruise in Earth orbit, with the command module and the lunar lander practicing the orbital rendezvous that would be necessary for the moon mission.
+
+Apollo 10 was like a combination of the two previous missions: a flight to the moon and separation of the lunar module and the command module. The Lem descended to within 50,000 feet of the moon’s surface before igniting the ascent engine to blast back to lunar orbit.
+
+So that left one more giant leap.
+
+Not long before his death in 2012, Neil Armstrong said in one of his rare interviews that he had wished, back in July 1969, that they’d had another month to get ready for the moon-landing mission. He calculated only a 50 percent chance of a successful landing. He figured that there was a 90 percent chance the crew would make it back to Earth alive.
+
+On July 16, 1969, the Saturn V rocket with three Apollo 11 astronauts riding on top blasted off from Pad 39A at the Kennedy Space Center.
+
+“I could feel the shock wave vibrate through my bones,” says engineer Morgan, who was at a console in Launch Control.
+
+The trip to the moon took three days. Most of that time, the astronauts couldn’t see the Earth or the moon. The spacecraft rolled like a chicken on a spit so that the sun would not heat only one side of the vehicle. Finally the spacecraft pivoted, and the moon came into view. It filled the window. It was not a flat, silver disk, Collins recalled, but a three-dimensional object, bulging, and a rough-looking place.
+
+“It was just a totally different moon than I had grown up with,” Collins said. “It was awesome. It was certainly not inviting.”
+
+On July 20, Armstrong and Aldrin slipped into the Eagle and began their descent to the lunar surface.
+
+They hadn’t gone far before the lander’s computer flashed an alarm.
+
+“Program alarm. It’s a twelve-oh-two,” Armstrong told Mission Control.
+
+In Houston, astronaut Charlie Duke served as the CapCom, the person in direct communication with the Apollo crew. Duke had no idea what a 1202 alarm meant.
+
+After 16 seconds of silence, Armstrong spoke again, this time with the kind of urgency you’d expect from someone who doesn’t know if he’s going to land on the moon or be forced to abort the mission: “Give us a reading on the 1202 program alarm.”
+
+In Mission Control, engineer Steve Bales had a direct line to a 24-year-old colleague named Jack Garman who sat in a backroom. Garman kept the computer codes (such as “1202”) on a cheat sheet on his console.
+
+“It’s executive overflow. If it does not occur again, we’re fine,” Garman told Bales.
+
+The Apollo Guidance Computer was a triumph of engineering — compact, hard-wired to do lots of things at once — but it was overloaded with radar data. As a result, it was doing exactly what it was supposed to do, which was dump lower-priority programs. But it was continuing to guide the Eagle toward the surface.
+
+Bales relayed that message: We’re still go for landing.
+
+The Eagle, however, had overshot the intended landing area by several miles. The computer was guiding it toward a crater with steep sides and flanked by car-size boulders.
+
+Armstrong took manual control, slowed the descent, and began flying the Eagle like a helicopter, almost parallel to the surface.
+
+He had trained tirelessly on the Lunar Landing Training Vehicle, an ungainly contraption designed to simulate how the Eagle would fly in the moon’s gentle gravity. Armstrong was an extraordinary pilot. He’d gotten a student pilot’s license on his 16th birthday before he knew how to drive a car, according to James Donovan’s book “Shoot For the Moon.”
+
+Not only could he fly anything, he could crash anything and emerge unscathed. Armstrong had flown combat missions in Korea, and once had to eject from his plane just before it crashed into the sea. He’d piloted the experimental, rocket-powered X-15 aircraft, at one point bouncing off the atmosphere accidentally (as dramatized in the opening scene of the movie “First Man”). During the Gemini 8 mission in 1966, a malfunctioning thruster put the spacecraft into a terrifying spin, but Armstrong, on the verge of passing out, managed to get it under control before making an emergency splashdown in the Pacific. And in 1968, he’d lost control of the Lunar Landing Training Vehicle and had to eject just seconds before it crashed.
+
+As Armstrong searched for a level spot to land, fuel became an issue. The Eagle was supposed to be on the surface already and the fuel supply had been carefully calculated. If they ran out of fuel, they’d have to abort the landing by firing the ascent engine. The only other option was falling the rest of the way to the surface in what they could only hope would be a kind of soft crashing.
+
+“Sixty seconds,” Charlie Duke said.
+
+Aldrin called out the rate of descent and the lateral motion.
+
+Armstrong searched for a flat spot.
+
+“Kicking up some dust,” Aldrin said.
+
+“Thirty seconds,” Duke said.
+
+For nine seconds, no one said anything.
+
+Armstrong’s heart rate hit 156.
+
+“Contact light,” Aldrin said. A rod extending from the bottom of one of the Eagle’s legs had just touched the surface. Armstrong killed the engine.
+
+“Houston, uh . . . ”
+
+He paused.
+
+“Tranquility Base here. The Eagle has landed.”
+
+“Roger, Tranquility. We copy you on the ground. You got a bunch of guys about to turn blue. We’re breathing again.”
+
+A panoramic photo assembled by Dave Byrne uses images taken by Buzz Aldrin on the moon during the Apollo 11 mission. (NASA)
+
+‘One small step’
+
+That’s the famous moon landing. It’s in all the books. It’s in the “First Man” movie. You can hear the radio transmissions with an easy search online. But even with all this documentation, and even after half a century, it’s a strangely thrilling, terrifying moment in human history.
+
+One quirky fact of the landing is that no one knew where the Eagle was, exactly, according to author Fishman. Collins, orbiting the moon on its far side, missed the landing drama. When he came back around to the near side of the moon he used a telescope to search for his comrades on the surface but couldn’t spot them. Nor could anyone else at NASA figure out precisely where this “Tranquility Base” was.
+
+Collins told Armstrong that, from orbit, the landing area “looked rough as a cob.”
+
+Armstrong: “It really was rough, Mike. Over the targeted landing area, it was extremely rough, cratered, and large numbers of rocks that were probably some, many larger than five or 10 feet in size.”
+
+Collins: “When in doubt, land long.”
+
+Armstrong: “So we did.”
+
+Test pilot talk. When in doubt, land long (as if you’re in a jet aircraft in the Mojave Desert and not flying an experimental spaceship and trying to avoid craters and boulders on the moon).
+
+Armstrong and Aldrin were supposed to get some sleep but instead decided to get on with the moonwalk, which turned out to be in prime time for the U.S. television audience. Armstrong stepped onto the “porch” and pulled a handle that deployed a television camera. His backward journey on the ladder was as incremental as the entire Apollo program. When he hit the footpad he jumped back up to the bottom rung of the ladder, just to make sure he could do it. Then he stepped onto the moon proper.
+
+“That’s one small step for man . . . ”
+
+He paused. Armstrong would later claim that he said “a man,” and not just “man.” He said the missing article must have gotten dropped from the radio transmission.
+
+“ . . . one giant leap for mankind.”
+
+No one perceived it as a flubbed line. Everyone got the point.
+
+Aldrin followed just 20 minutes later, and as he looked around, he offered a perfect description:
+
+“Magnificent desolation.”
+
+Photos from the Apollo 11 mission show humanity's first foray onto the moon. (NASA)
+
+The race won
+
+Why did it all work so splendidly? The stars aligned.
+
+In his new book “American Moonshot: John F. Kennedy and the Great Space Race,” historian Douglas Brinkley writes, “[It] takes a rare combination of leadership, luck, timing, and public will to pull off something as sensational as Kennedy’s Apollo moonshot.”
+
+Leadership. Luck. Timing. Public will. Those are not line items in a federal budget. They can’t be commanded to materialize.
+
+The backers of Apollo may have made a fundamental strategic error: They framed the enterprise as a race. They won it — and then didn’t know what to do next.
+
+They never had a plan for an extended moon presence, such as a moon base. Most of the Apollo technology proved of limited use in future space projects. Everything was moon-specific, goal-specific. As a result, much of the Apollo infrastructure was disassembled.
+
+It was like breaking down the set at the end of a film shoot.
+
+“It was a Faustian bargain. The space cadets got the moon, but the price they paid for it was there wouldn’t be anything after the moon,” says space historian Howard McCurdy of American University. “It’s not advantageous to tie your future to a moonshot program.”
+
+Spaceflight is now in a profound transition, no longer the exclusive enterprise of huge government bureaucracies. The commercial space industry is booming. The economies of advanced nations depend on satellites. Military officials fear that their satellites are vulnerable, and they say we must prepare for a new era of space warfighting. President Trump wants to create a Space Force as a sixth branch of the military.
+
+Meanwhile, the moon is prominent again. China recently landed a probe on its far side. India has a lander and rover planned for the near future. In March, the Trump administration ordered NASA to land astronauts at the moon’s south pole no later than 2024.
+
+Reality check: Going to the moon isn’t as easy as plugging an address into Google Maps. But with enough pluck and gumption, plus money and genius, it can be done.
+
+That was the point of Apollo 11.
+
+Photos from the Apollo 11 mission show the moon getting smaller during the astronauts' journey back to Earth. (NASA)
+
+Photo editing by Nick Kirkpatrick. Editing by Mary Hadar. Copy editing by Joe Hillhouse.

@@ -1,0 +1,73 @@
+Budget riddle on cash withdrawals: 'Income’ tax on ‘non-income’
+
+The obvious question: if the cash withdrawal isn’t designated as “income”, how can you tax it under the “income” tax act?
+
+The change, incorporated in the budget presented by Nirmala Sitharaman and amended afresh on Thursday, mandates banks to deduct a 2 per cent tax deduction at source (TDS) on cash withdrawals above Rs 1 crore a year from multiple bank accounts. But, mystifyingly, the cash withdrawn will not be deemed as “income”.
+
+The Narendra Modi government has left tax consultants and legal eagles deeply puzzled as they try to wrap their heads around the legalese of a change to the income-tax act.
+
+The obvious question: if the cash withdrawal isn’t designated as “income”, how can you tax it under the “income” tax act?
+
+Tax advocates and legal wordsmiths have been poring over the last-minute amendments to the Finance Bill 2019 before it was passed by the Lok Sabha on Thursday to try and make sense out of an apparent absurdity. The new provision comes into effect from September 1.
+
+When the Modi government decided to tax cash withdrawals from bank accounts, it brought back memories of the banking cash transaction tax (BCTT) that was introduced in the Finance Act of 2005 by the then finance minister, P. Chidambaram, to track unaccounted money and trace its source and destination.
+
+Chidambaram had introduced the BCTT on cash withdrawals above Rs 50,000 as a separate chapter in the Finance Act and avoided any legal quibble over the levy.
+
+The BCTT stayed on the statute books till April 1, 2009, when the UPA government decided that it had served its purpose and there were other ways to ferret out tax dodgers and money-launderers.
+
+The problem really began with the decision to amend Section 198 of the IT Act, which specifically provides that all sums deducted in accordance with the provisions of Section 194 and other sections shall, “for the purpose of computing the income of an assessee, be deemed to be income received”.
+
+The 2 per cent TDS on cash withdrawals has been introduced through a new section, 194N.
+
+On Thursday, the Modi government tacked on an exception that reads: “Provided further that the sum deducted in accordance with the provisions of Section 194N for the purpose of computing the income of an assessee, shall not be deemed to be income received (emphasis added).”
+
+On Friday, N.G. Khaitan, senior partner at Khaitan & Co, said: “With this change to the Finance Bill 2019, passed on Thursday, the government has shot itself in the foot. It admits that withdrawal of cash from bank account is not income. Then how can TDS be imposed on it? To my mind, it is bad in law.”
+
+Dinesh Agarwal, partner (tax & regulatory services) at Ernst and Young, agreed that the imposition of TDS on cash withdrawal was a “penal provision” and could legally be an “open area”.
+
+“The government wants to discourage people from using cash and promote a ‘less cash’ economy. But there is no other way to penalise people for using excess cash and, hence, this is the most effective mechanism. But legally, it may be an open area and may be subject to legal scrutiny by courts in the future,” Agarwal added.
+
+Tax expert Narayan Jain said the government could have been more careful while drafting the provision.
+
+“It would have been better if this provision was put under a separate chapter and termed a tax collection at source (TCS). However, the objective of the government cannot be disputed,” said Jain, co-chairman of the direct tax committee, the All India Federation of Tax Practitioners.
+
+From one to many
+
+In its original form, the Finance Bill had said the TDS would be levied if the total cash withdrawals in a year topped Rs 1 crore. But in a subsequent amendment, the phraseology was changed “from an account” to “from one or more accounts”.
+
+This is where the wordsmiths are having a field day in parsing the wording of the provision. Some believe that it would apply to cash withdrawals from multiple accounts across the banking industry. Others believe it will be restricted to multiple accounts within a single bank.
+
+It boils down to a single pronoun: the use of “it”.
+
+Asim Choudhury, principal associate of Khaitan & Co, felt that all accounts held by a person or entity (seeded with a single PAN) would be covered while deciding whether the Rs 1 crore threshold had been crossed.
+
+EY seems to believe that the computation of the amount of cash withdrawals will be restricted to multiple accounts within a single bank -– and bases its inference on the use of the word “it” in 194N.
+
+The clause reads: Every person, being –
+
+(i) A banking company to which the Banking Regulation Act, 1949 applies (including any bank or banking institution referred to in Section 51 of that Act);
+
+(ii) a cooperative society engaged in carrying on the business of banking; or
+
+(iii) a post office,
+
+Who is responsible for paying any sum, or, as the case may be, aggregate of sums, in cash, in excess of one crore rupees during the previous year, to any person (herein referred to as the recipient) from an account maintained by the recipient with it (emphasis added) shall, at the time of payment of such sum, deduct an amount equal to two per cent of sum exceeding one crore rupees, as income tax….”
+
+“Since 194N now says ‘from one or more account maintained by the recipient with it’, we can assume it will apply to withdrawals from one or more accounts within the same bank/post office,” an EY official said.
+
+The government would have phrased the clause differently if it intended to suggest an overarching plurality of banks and other institutions.
+
+But Chowdhury of Khaitan & Co said: “According to me, this will be applicable to all accounts of single PAN holder. Just imagine the back-end infrastructure needed to catch the evasion.” He said the government’s effort may be laudable but he concurred with Jain that it should have come under some other act/provision.
+
+Set off against TDS
+
+Others have divined a benefit in the tax deduction.
+
+Credit for TDS on income is available in the assessment year. A PAN holder deducts the TDS credit from his total tax liability. This is done under Section 199 of the IT Act.
+
+Sushmita Basu, partner, tax and regulatory service of PwC, said: “By bringing the said provision under TDS provision of the IT Act, at least the credit for the TDS amount would be available for setoff with the final tax liability and there would not be any permanent loss. There may be an issue with cash flow and the government can consider reducing the tax from 2 per cent.”
+
+Chowdhury said more clarity might be needed. “No corresponding amendment has been made to Section 199 to state how the credit for the tax deducted under Section 194N will be given to the assessee since the amendment now says the withdrawal will not be treated as income,” he said.
+
+The tax on cash withdrawals has spooked several sections of industry, especially tea estates, which have traditionally relied on cash payments. They have sought an exemption from the purview of Section 194N, fearing that it will put in place a hefty tax burden on them at a time when they are going through a slowdown.

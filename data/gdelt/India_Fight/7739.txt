@@ -1,0 +1,19 @@
+SnackDown 2019: Ukraine, Belarus programmers win $10,000 in India's biggest coding competition
+
+Bengaluru, the IT hub of India hosted the country's biggest coding competition. The title winners of the competition are from Ukraine and Belarus. Close to 27,000 teams comprising more than 40,000 programmers from different parts of the world participated in this three-day event
+
+Bengaluru: Programmers across the globe descended on Bengaluru last weekend for India's biggest programming event, SnackDown 2019. The global programming team was organised by CodeChef and lasted five hours. Participants had to try their hands at 10 complex algorithmic problems.
+
+Borys Minaiev from Ukraine and Gennady Korotkevich from Belarus took home the coveted title of SnackDown champions along with a cash prize of $10,000. This victory wasn't easy for Borys and Gennady as they were embroiled in a tense battle right up to the finish line. The final 20 seconds changed the fate of the contest. The two-time champions Borys and Gennady won the SnackDown cup earlier in 2016. In this year’s edition, they beat out SnackDown defending champions Aleksei and Oleg to earn the top spot. Oleg Merkurev and Aleksai Daniliuk from Russia went on to win the first runner-up title and the second runner-up title went to Ji Ruyi and Yuhai Du from China.
+
+SnackDown also rewarded the best School team: Shih-Yu Wang from National Experimental High School, Taiwan and Yeoh Zi Song from Chung Ling High School, Malaysia.
+
+Xiaoou Zhou and Jiayi Mao from China won the best women’s team.
+
+This year, SnackDown received registrations from over 27,000 teams comprising more than 40,000 programmers from different parts of the world participating in different rounds of the contest.
+
+The finale saw 26 international teams comprising 51 individuals from 13 countries who competed against each other under one roof.
+
+Additionally, the top 10 Indian teams and 3 school teams from India were invited to the on-site finals to meet and interact with the best programmers, making it the only event of this scale to give exposure to the young programming talent from India. The best Indian team this year stood at 25th position comprising Ginuga Saketh and Yash Chandnani, both from IIT Kanpur.
+
+SnackDown is the only programming competition of its size and scale that is conducted in India and attracts the very best programming talent from India and overseas. As there is practically no eligibility criteria to enter, SnackDown attracts a varied mix of entrants, from school and university students to working professionals, who attend this three-day event. This year 839 school teams registered to participate in SnackDown alongside 3,438 female teams who registered. The event saw registrations from 115 countries.

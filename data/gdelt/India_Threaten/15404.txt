@@ -1,0 +1,31 @@
+Israeli spyware used to target Indian journalists, human rights activists: WhatsApp - Jammu Kashmir Latest News
+
+NEW DELHI: Facebook-owned WhatsApp on Thursday said Indian journalists and human rights activists were among those globally spied upon by unnamed entities using an Israeli sypware Peagasus.
+
+WhatsApp said it was suing NSO Group, an Israeli surveillance firm, that is reportedly behind the technology that helped unnamed entities’ spies to hack into phones of roughly 1,400 users.
+
+These users span across four continents and included diplomats, political dissidents, journalists and senior government officials.
+
+However, it did not say on whose behest the phones of journalists and activists across the world were targeted.
+
+Refusing to divulge identities or the exact number of those targeted in India, WhatsApp said it had in May stopped a highly sophisticated cyber attack that exploited its video calling system to send malware to its users.
+
+The mobile messaging giant said it had sent a special WhatsApp message to approximately 1,400 users that it has “reason to believe were impacted by this attack to directly inform them about what happened”.
+
+While the messaging giant didn’t disclose the details or the number of people affected in India, a WhatsApp spokesperson said: “Indian users were among those contacted by us this week”.
+
+WhatsApp has over 1.5 billion users globally, of which India alone accounts for about 400 million.
+
+WhatsApp had on Tuesday filed a lawsuit in a California federal court against Israeli cyber intelligence company NSO Group, which allegedly developed the spyware, saying an attempt was made to infect approximately 1,400 “target devices” globally, including some in India, with malicious software to steal valuable information from those using the messaging app.
+
+NSO has denied the allegations made by WhatsApp. Stating that it will contend the allegations, it said: “the sole purpose of NSO is to provide technology to licenced government intelligence and law enforcement agencies to help them fight terrorism and serious crime”.
+
+WhatsApp said it “believes the attack targeted atleast 100 members of civil society… this number may grow higher as more victims come forward”.
+
+WhatsApp Head Will Cathcart said these victims include human rights defenders, journalists and other members of the civil society across the world.
+
+“Tools that enable surveillance into our private lives are being abused, and the proliferation of this technology into the hands of irresponsible companies and governments puts us all at risk,” Cathcart said in an op-ed in The Washington Post.
+
+Cathcart asserted that WhatsApp was committed to the fundamental right to privacy and that it is working to stay ahead of those who seek to violate that right.
+
+A cybersecurity research lab at the University of Toronto, Citizen Lab, had helped WhatsApp investigate the hacking incident. (agencies)

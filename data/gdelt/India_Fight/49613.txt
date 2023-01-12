@@ -1,0 +1,25 @@
+India's nuclear plant attacked by North Korean malware, confirms NPCIL
+
+NEW DELHI: Nuclear Power Corporation of India Limited (NPCIL) has admitted that the India's largest nuclear power plant has suffered a cyber attack. The move by North Korea-linked group on Kudankulam facility has exposed country’s nuclear vulnerabilities.
+
+The network of one of India’s nuclear power plants was infected with malware created by North Korea-based hacker group, the plant's parent company confirmed on Wednesday.
+
+As per Indian media reports, the nuclear body said that one of its computers has been attacked by malware. Although the body has not named the Kudankulam Nuclear Power Plant (KKNP) in its statement, it has mentioned that the victim computer was only used for administrative purposes and was not connected to the main control system.
+
+
+
+The admission of malware comes a day after the power plant denied the social media reports of a malware infection at the Kudankulam nuclear plant - which is India's newest nuclear facility - issuing a statement, "false information… being propagated (sic) on the social media platform, electronic and print media".
+
+Cyber-security researchers flagged the malware as DTrack - a virus used by a North Korea-based hacker group Lazarus.
+
+
+
+Pukhraj Singh, a cyber threat intelligence analyst who has worked with the government and global security teams, claimed on social media that Kudankulam plant was under an attack. He claimed that the threat was identified by a third party, which had contacted him after that he informed the concerned government body.
+
+
+
+Researchers have identified that the malware which infected the system at Kudankulam nuclear power plant was DTrack. However, cyber attack expert Pukhraj Singh says that the identity of the malware was not certain.
+
+
+
+DTrack, as flagged by cyber-security firm Kaspersky, is reportedly used by hackers to attack financial and research centres in India. It's earlier version ATMDtrack was designed to hack ATMs in India.

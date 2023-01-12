@@ -1,0 +1,37 @@
+Urgent need to connect bank databases
+
+Karnal Singh | Arvind Jain
+
+THE ENFORCEMENT DIRECTORATE unearthed a maze of shell companies when Karnal Singh was the agency’s chief. He was part of the special taskforce on shell companies set up by the Narendra Modi government after demonetisation. In an exclusive interview, Singh, who retired on October 27, 2018, explains how politicians and business tycoons use shell companies to hide ill-gotten wealth. Edited excerpts:
+
+Why has there been a sudden crackdown on shell companies?
+
+Shell companies have been used extensively in India and abroad for laundering the proceeds of crime. The ED has seen it in the Chhagan Bhujbal case, Bank of Baroda case and in almost all bank fraud cases, including the Vijay Mallya case. In the Sterling Biotech bank fraud case, involving the Sandesara brothers, the ED found they had used 279 shell companies. During demonetisation, the shell companies were extensively used by people to get their cash into the system. This resulted in the formation of the special taskforce on shell companies.
+
+What is the modus operandi of setting up shell companies?
+
+Shell companies as such are not illegal. Whenever a new business is started, some companies are opened, where there is no underlying business activity because no business has started yet. We will only find money coming into those accounts and going out for the purpose of creation of new business. But when these shell companies are used for laundering ill-gotten money, then they cross the boundary of legitimacy. Generally, people form shell companies using servants, employees and, in some cases, even jhuggi (slum) dwellers.
+
+In the Bank of Baroda case, 59 accounts were opened in the name of 59 companies, and most of the directors and shareholders of these companies were found to be residing in jhuggis. The perpetrators of the crime were using these people as directors and opened a company in some rented premises. They paid these directors and so-called owners around Rs10,000 per month. After the work was over, the premises were vacated, leaving no trace of the people who were using them. Thus, the investigation becomes very difficult.
+
+Another modus operandi that is used in shell companies is when cash has to be introduced into the banking system. There is a limit on cash deposit; otherwise it gets reported to the financial intelligence units. So the huge amount of cash is given to certain entry operators or people who handle shell companies. They split the amount and deposit the cash into a large number of shell companies. This amount travels through various accounts through the banking channel ultimately to the person who actually gave the cash. Shell companies are also used to manage companies that only issue cash memos or invoices for sale of products, without any underlying product existing.
+
+What is the reason for proliferation of shell companies?
+
+Shell companies have been there for a long period because people who violate laws have ill-gotten money from criminal activity or tax evasion. The origin of this money has to be concealed, so that law enforcement agencies will not be able to catch them. For concealing the origin, layering is done. The money is passed through various companies so that it becomes difficult to find out the ultimate source. You can compare layering to an onion; you remove a layer and you find another. For example, somebody deposits money in the bank and then takes a loan against it. Thereafter, he repays the loan from the same amount. If someone probes the source of the money, they will say it is a loan from the bank. Then we need to go to the next layer to find out how the bank gave the loan. And many such layers can be created one after the other.
+
+The old instruments to hide black money were buying gold, property and so on. Today, shell companies are in vogue.
+
+Investigation has indicated that in India mostly two instruments are used for money laundering. One is purchase of properties and the second is the use of shell companies, that is banking instruments. As far as land purchase is concerned, in recent past there has been a reduction in their use for money laundering because prices are not increasing. But both these methods are very important for the money launderer. But, ultimately, even if someone purchases and infuses cash through the land, it has to be put into the system. And, to put into the system you need financial instruments, and, therefore, banking channels become more important.
+
+There was a time Swiss bank accounts and offshore accounts in Cayman Islands were widely used to stash money. How big is this threat today?
+
+The money can be laundered within the country and also through various jurisdictions. It becomes easier to investigate if the money laundering is done within the country. Investigation becomes more difficult if foreign jurisdictions are involved. The foreign jurisdictions could be one, two or three depending on the number of countries used. For example, in the AgustaWestland case, the bribe money moved from Italy to Tunisia to Mauritius; a part went to Switzerland, Singapore and Dubai. Now, following the trail in all these countries becomes time consuming. The only instrument available is letters rogatory. You don’t know when it will be executed. Will it be executed in one month, five months or two years? And once you have to move from one country to another, it may take years together. It is seen that shell companies are opened even in foreign jurisdictions.
+
+How do you detect a shell company?
+
+Shell companies are companies that have financial transactions without any underlying business. They per se are not illegal entities. They are like any other company. It is their operation which makes the difference. If shell companies are used for illegal purposes then they are wrong. There is no mechanism to identify shell companies unless you see them in operation. Whatever comes in our investigation, we inform the agencies concerned. Many a time, they are started by some chartered accountants with the help of bank employees. Sometimes they are opened by entry operators who are not very well educated. They are not chartered accountants, but they have been doing the operation of shell companies for generations.
+
+How difficult has it been investigating high-profile cases?
+
+The problem arises at the banking end when the databases are unconnected. In the Nirav Modi case, there was a Swift database, Punjab National Bank’s core banking system and the foreign exchange transactions database. All the three databases were not automatically connected. The information has to go from one system to another manually. What happened in the Nirav Modi-Mehul Choksi case was that the Swift messages were sent, but they were not entered into the core banking system and the fraud could not be detected. There is an urgent need to connect all the databases.

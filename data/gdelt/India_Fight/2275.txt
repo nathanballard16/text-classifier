@@ -1,0 +1,21 @@
+Microsoft not in favour of restricting cross-border data flows
+
+Bengaluru: Tech giant Microsoft Thursday batted for cross-border data flows but asserted that the same needs to be protected through suitable international measures and standards both legal and technical.
+
+Microsoft India Group Head and Assistant General Counsel Corporate, External and Legal Affairs Keshav Dhakad said India's IT sector companies, tech startups and developers may need access to data not just within the country but also beyond geopolitical borders to build robust solutions and algorithms - predicating the need for a regime that supports cross-border data flows.
+
+"At the same time, it is important to protect these flows through appropriate international measures and standards ? both legal and technical," he pointed out.
+
+Dhakad added that local laws will also need to be interoperable with global standards or contracts that protect personal data regardless of its location.
+
+Data processing companies, he said, would have to ensure that the personal data they process is managed according to a high level of data protection, regardless of the location to which the data is transferred and provide citizens recourse to the law in case of a breach of trust.
+
+"Responding proactively or reactively to cybersecurity issues calls for protocols based on globalised and not localised data. And restricting cross-border data flows can only impede effective and timely response," Dhakad noted.
+
+He further said: "A mature, balanced and progressive legal framework for data protection that will be agreed upon and adopted by all is the need of the hour".
+
+Dhakad pointed out that the definition of what may constitute 'sensitive personal data' (like financial and information, religious or political beliefs etc) should be aligned to international norms.
+
+He suggested that instead of blanket restrictions, restrictions on the processing of personal data should correspond to the context in which the data is processed.
+
+Citing an example, he said that an employee's name in an organisation's internal directory would typically not be considered sensitive and would require less privacy protection than when it appears on a list related to credit ratings.

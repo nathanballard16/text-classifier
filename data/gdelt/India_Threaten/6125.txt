@@ -1,0 +1,21 @@
+‘Top IT firms under threat of cyberattack’
+
+Criminals may be targeting Infosys and Cognizant, after Wipro, says security website KrebsOnSecurity
+
+India’s leading tech players may be under serious threat from cyber criminals, according to cybersecurity investigation website KrebsOnSecurity.com. The website is run by former Washington Post staffer and cybersecurity writer, Brian Krebs.
+
+A fresh post on the website on Friday said the criminals responsible for launching phishing campaigns that netted dozens of employees and more than 100 computer systems last month at Wipro, India's third-largest IT outsourcing firm, also appear to have targeted a number of other competing providers, including Infosys and Cognizant, as per new evidence available with the website.
+
+“The clues so far suggest the work of a fairly experienced crime group that is focussed on perpetrating gift card fraud,” the post by Mr. Krebs said, adding, “It appears the attackers in this case are targeting companies that in one form or another have access to either a tonne of third-party company resources, and/or companies that can be abused to conduct gift card fraud.’’
+
+Responding to a query, Cognizant’s spokesperson from the U.S. told The Hindu: “We are aware of reports that our company was among many other service providers and businesses whose email systems were targeted in an apparent criminal hacking scheme related to gift card fraud. Since the criminal activity first surfaced earlier this week and following reports that another service provider’s email system was allegedly compromised, Cognizant’s security experts took immediate and appropriate actions including initiating a review.”
+
+“While our review remains ongoing, we have seen no indication to date that any client data was compromised. It is not unusual for a large company like Cognizant to be the target of spear phishing attempts such as this. The integrity of our systems and our clients’ systems is of paramount importance to Cognizant. We continuously monitor, update and strengthen our systems against unauthorised access and have put additional protocols in place related to this specific industry-wide incident,” he further said.
+
+Infosys, in a statement to The Hindu, said: “Infosys would like to assure all our stakeholders that we have not observed any breach of our network based on our monitoring and threat intelligence. This has been ascertained through a thorough analysis of the indicators of compromise that we received from our threat intelligence partners.”
+
+“We continue to strive to improve our security posture and have deployed an advanced threat protection solution to protect the company’s email gateways, end points and network. In addition, we are working with our threat intelligence partners to get more information on attack vectors and threat actors to further strengthen our IT and Cyber security controls,’’ the company added.
+
+It may be recalled that KrebsOnSecurity on April 15th said multiple sources were reporting a cyber security breach at Wipro, including possible cyber attacks against the company’s global customers.
+
+Wipro later confirmed certain such intrusions, however said the company had taken all measures, to stop any further attacks, including hiring a forensic firm to investigate cyber attacks on its employee emails and systems.

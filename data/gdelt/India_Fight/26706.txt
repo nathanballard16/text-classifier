@@ -1,0 +1,29 @@
+Results expected in India’s ‘WhatsApp election’
+
+India’s mammoth national elections are nearly over. Over the past six weeks, hundreds of millions of people have participated in rounds of voting, the last of which was on Sunday. Exit polls show the ruling Bharatiya Janata Party with a surprisingly clear lead, meaning Narendra Modi, a divisive Hindu nationalist, is expected to stay on as prime minister. Definitive results are scheduled to follow tomorrow.
+
+Myriad issues have been at stake in these elections—among the most prominent are the state of the economy, geopolitical tensions, and rising sectarianism. Media and tech watchers—as well as many Western news outlets—however, have focused on a different, worrying trend: the rampant proliferation of disinformation and hate speech online. Traditional media, still dominant in the country, bears its share of responsibility, but the problem has been badly exacerbated by Facebook and WhatsApp, which Facebook owns: according to The Atlantic, the services have more than 500 million users between them in India; the country is WhatsApp’s biggest market. Facebook has had a hard time policing those services everywhere; in India, the difficulty is multiplied by a preponderance of languages and aggressive campaigns led by political parties and their supporters. Twitter, YouTube, and Wikipedia have also acted as vectors of junk information.
+
+ICYMI: Secretly recorded video underscores months-long threat to Austrian media
+
+Last year, WhatsApp came under intense pressure after conspiracy theories spread on the platform were linked to a series of lynchings across India. Earlier this year, rising tensions between India and neighboring Pakistan provoked a cross-platform information war, including in the news media; images purporting to show Indian airstrikes on alleged terrorist targets in Pakistan were found to be old, doctored, or, in at least one case, lifted from a video game.
+
+Ahead of the elections, however, viral misinformation and propaganda appears to have reached a new order of magnitude. The Computational Propaganda Project at the University of Oxford found that between mid-February and the eve of the first round of voting, in mid-April, “the proportion of polarizing political news and information in circulation over social media in India [was] worse than all of the other country case studies we have analyzed, except the US presidential election in 2016.” Again, mainstream political actors have been key drivers of this trend: the researchers found that more than a quarter of content shared by Modi’s BJP was junk, as was one-fifth of information shared by the opposition Indian National Congress. The BJP has run a particularly sophisticated social-sharing campaign: one party official expected the signal to be boosted by over 1 million volunteers nationwide. NaMo—Modi’s own app, which came preinstalled on phones distributed in some states—has also shared false information.
+
+The platforms have attempted to respond to the deluge. Facebook—which already partners with fact-checking sites in India—took down hundreds of pages and accounts it accused of pushing “coordinated inauthentic behavior,” including some linked to political parties. WhatsApp, for its part, says it bans 400,000 accounts in India each month; the company also spent $10 million on a public education campaign about the dangers of misinformation, according to the Financial Times. (The paper called this year’s vote India’s “WhatsApp election,” a phrase first applied to Brazil, last year.) Following last year’s violence, WhatsApp capped the size of groups and limited its forwarding function. In preparation for the elections, it added a “tip line” allowing users to report, and verify, potential junk news.
+
+Sign up for CJR 's daily email
+
+These efforts, unsurprisingly, have not held back the tide. Earlier this month, Pratik Sinha, cofounder of Alt News, an independent fact-checking site, told Quartz that fake news circulation has actually spiked during the election; Sinha estimates an increase of about 40 percent. Worldwide, companies like Facebook do not do nearly enough to combat the mass weaponization of lies and hate within their products. Such misuse, however, is legitimately hard to stop, even in the best of circumstances. A six-week election in a bitterly divided country of more than 1 billion people is not the best of circumstances.
+
+Below, more on India’s elections and disinformation:
+
+Some news from CJR: Last month, CJR and The Nation announced a new project, working with partners including The Guardian, to improve media coverage of climate change. This morning, we published more details of what the project will entail, outlining how journalists, scientists, advocates, public officials, and private citizens can get involved. You can find out more here.
+
+Other notable stories:
+
+ICYMI: The story of Ernest Hemingway’s $187,000 magazine expenses claim
+
+Has America ever needed a media watchdog more than now? Help us by joining CJR today
+
+Jon Allsop is a freelance journalist whose work has appeared in the New York Review of Books, Foreign Policy, and The Nation, among other outlets. He writes CJR’s newsletter The Media Today. Find him on Twitter @Jon_Allsop.

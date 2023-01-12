@@ -1,0 +1,115 @@
+Indian Activists, Lawyers Were 'Targeted' Using Israeli Spyware Pegasus
+
+Mumbai: Over the last two years, Nagpur-based human rights lawyer Nihalsing Rathod has received calls on WhatsApp from unknown numbers. These calls would be made from international numbers, and would invariably turn out to be a group call.
+
+The moment Rathod answered them, the call would disconnect. He assumed these were innocuous calls made to his number but as a safety measure, reported each of the “suspicious calls” to WhatsApp.
+
+On October 7, 2019, Rathod, however, was contacted by a senior researcher, John Scot-Railton, from the Toronto University’s ‘Citizen Lab’ informing him that he faced a “specific digital risk”.
+
+“The senior researcher told me that his lab had followed my work and during their research had found out that my profile was under a surveillance attack. All those calls made to me for two years suddenly began to make sense,” Rathod told The Wire.
+
+Also Read: Israeli Spyware Was Used to Spy on Indian Activists, Journalists, Says WhatsApp
+
+The Citizen Lab was one of the first research organisations to examine how a piece of malicious software called ‘Pegasus’, operated. This spyware is produced by an Israeli surveillance firm called the NSO Group. In September 2018, The Citizen Lab published a comprehensive study identifying 45 countries, including India, in which operators of the spyware may be conducting operations.
+
+The NSO Group has been in the spotlight this week after WhatsApp filed a lawsuit against them, alleging that they exploited a vulnerability in its video-calling feature to specifically target and snoop on over 1,400 users including activists and journalists.
+
+In its response to the legal suit, the NSO Group however has claimed that its Pegasus spyware is mainly sold only to government agencies.
+
+After speaking to Citizen Lab, Rathod wrote to WhatsApp once again with newer information and this time he says he received a response on the same platform.
+
+“In May we stopped an attack where an advanced cyber actor exploited our video calling to install malware on user devices. There’s a possibility this phone number was impacted, and we want to make sure you know how to keep your phone secure,” the message from WhatsApp read, along with further steps to be taken to ensure security protections on his phone.
+
+While WhatsApp’s message, which was sent on a verified business channel, didn’t specifically mention Pegasus or the NSO group, Rathod says the possibility of it is very high.
+
+The Wire however has separately confirmed that this is indeed the message that was sent by WhatsApp to people it detected were targeted by Pegasus.
+
+On Thursday, the Indian Express reported that the Facebook-owned platform said journalists and human rights activists in India have been targets of surveillance by operators using Pegasus.
+
+WhatsApp recently made details of this clear in a broader disclosure before a US federal court in San Francisco.
+
+Bhima Koregaon pattern?
+
+Rathod is one of the lawyers handling the Bhima Koregaon case in which nine activists and lawyers have been arrested since June 2018. His senior legal mentor Surendra Gadling is among those arrested and was booked under several sections of the Unlawful Activities (Prevention) Act (UAPA) and the Indian Penal Code.
+
+Rathod says that he is not the only one in his human rights activists circle who has complained of such calls. At least two other lawyers, both connected with the ongoing Bhima Koregaon trial and Gadling’s wife Minal Gadling have received similar calls.
+
+One of them has confirmed having received a call and series of messages from CitizenLab informing her about a possible threat. She has, however, not received any email or message from WhatsApp.
+
+Going by the testimonies of several activists and lawyers, a clear pattern of an attack on the anti-caste activists across India has emerged.
+
+Rupali Jadhav, a 33-year-old cultural and anti-caste activist from Pune shared screenshots of messages that she had received from both WhatsApp and Citizen Lab two days ago. Jadhav however says she had not received any WhatsApp call from an “unknown number” or had seen any suspicious activity on the application.
+
+Jadhav, who has been associated with an anti-caste cultural group Kabir Kala Manch (KKM) for over a decade has been handling the social media handles of several social movements in the state. She says that may have been one of the primary reasons why her profile has got compromised.
+
+“I am the official administrator of the WhatsApp and Facebook pages of Kabir Kala Manch, Bhima Koregaon Shaurya Din Prerana Abhiyan, Elgaar Parishad, and the political party Vanchit Bahujan Aghadi. These spaces have been actively involved in confronting the state and have been asking uneasy questions. This is more to do with the organizations than me particularly,” Jadhav says.
+
+Most persons associated with the KKM has had cases of UAPA registered against them and have been released on bail bond after having been incarcerated for several years.
+
+Degree Prasad Chouhan, a Dalit rights activist and lawyer from Chhattisgarh’s Raigarh district confirmed to The Wire that he too has received a call and chain of messages from both the Citizen Lab and WhatsApp informing him about the spyware attack.
+
+Chouhan, a 37- year old, first-generation learner, and a school teacher- turned-activist belonging to a Dalit community has been at the forefront fighting caste atrocity and land-grab cases in Raigarh district. In his over 15 years of public life, Chouhan has focused his work on forceful displacement and indigenous communities’ land rights.
+
+Chouhan, talking to The Wire said, although he was concerned that his phone was compromised, he was not surprised at all. “Since Una uprising, the Dalit rights movement in the country has been growing. Most of us have been involved in several anti-caste and land rights movement and we have been running both social and political movements on a large scale. The state is clearly feeling threatened,” Chouhan claimed. He also pointed at Prime Minister Narendra Modi’s recent visit to Israel and the nature of this attack. “As far as I know, no PM has made such a visit to Israel. These attacks have a much deeper link. It needs to be probed,” he alleged.
+
+Bela Bhatia, Anand Teltumbde and Saroj Giri
+
+Human rights lawyer Bela Bhatia also confirmed to The Wire that she had received the same message that Rathod got from Citizen Lab, with their researchers claiming that the Indian government was behind the surveillance.
+
+“We fixed a time and I had a long chat with the researcher about Pegasus. He explained the spyware to me and said that WhatsApp had reached out to Citizen Lab a few months back and gave them a list of people who were affected. He said that most of those targeted were human rights activists and human rights lawyers. While explaining everything to me, he said it very clearly that their studies and analysis made it very clear that it was our own government that has done it,” she said.
+
+“He mentioned this very clearly. As far as the nature of the spying is concerned, he said that it’s like carrying a spy in your pocket. Even in the room where you are sitting, they can know exactly what’s happening in the room through this. He said that it can access my camera and microphone without me knowing. He offered me some safeguards like changing my phone. He has been calling me from time to time and offering similar advice. He told me WhatsApp would contact me two weeks later. WhatsApp did contact me three weeks after that call with the same message everyone else got.”
+
+Anand Teltumbde, academic and activist, told The Wire that he got a call from Citizen Lab around 8-10 days ago.
+
+“[The researcher] explained to me what the spyware is all about. He sent me a text message first. Then I enquired about Citizen Lab’s credibility and spoke to its representative. The NSO group has said that it has given Pegasus licenses only to governments across the world. So, it is clear that the India’s government used the spyware against us, citizens.”
+
+“[The researcher] said that from his research he found that my phone was hacked. Anybody in this country are now unsure. The government can do anything to you. Hacking phones of citizens is now a new normal.”
+
+“My phone was being tapped even when I was in IIT. I was told by IIT authorities that my phone was being tapped. If you get to know this, what can you do. You just accept it. Now Citizen Lab told me that I am being targeted. What do I do to now. There is no method you can stop it.”
+
+“This is not my problem alone. It is now everyone’s problem. Every Indian is under threat,” he said.
+
+Other people reportedly affected include human rights lawyer Shalini Gera.
+
+Ajmal Khan, a 29- year old Delhi- based research scholar is also one of the many persons who was approached by Citizen Lab and WhatsApp regarding his potentially compromised phone. Khan, who recently completed his PhD from Mumbai’s Tata Institute of Social Sciences said that he had been receiving “strange calls” on WhatsApp sometime last year. “I did not pay attention to them. Also, when a person from Citizen Lab contacted me last week, I took it for a spam message and did not respond. Only when I came across the news today, I realized what had really happened to my WhatsApp application,” Khan told The Wire.
+
+Khan also said that he received a message from the WhatsApp only today. “It was the same standard message sent out to others that an attack was averted on my phone sometime this year,” he added.
+
+Khan is a well- known name among the students’ group in Mumbai and has been active in students’ struggles including the agitation following Ph.D. scholar Rohith Vemula’s death in 2016. Khan, a poet, who is originally from Kerala, has written three different collections of poems and is currently working in Delhi. He has been a part of several anti-caste and civil rights movements in Maharashtra.
+
+Saroj Giri, who teaches political science at Delhi University, told The Wire that Citizen Lab reached out to him almost a month ago. “He told me that my phone is compromised by an advanced actor Pegasus, and that he wanted to give me a tip-off about it.”
+
+Giri said that he didn’t take it too seriously as he was busy with other things. “But upon enquiry, I realised its full implications. I googled and looked up the NSO group. It hardly reveals any information about itself in its website. It does not mention its proper address or its shareholders.”
+
+He said Citizen Lab told him that there is no way one can get rid of this spyware — no re-booting of the phone to factory settings or reinstalling Whatsapp would help. “Citizen Lab advised me to throw away my phone or switch it off and keep it a corner,” Giri said, adding that the cyber-security group told him that Pegasus can self-destruct itself.
+
+“I asked Citizen Lab whether it could write me an official email requesting to have a conversation with me. They immediately did that, and I spoke with them after. John told me that I would soon receive a report from Whatsapp. It is unclear who exactly is responsible for this but it is clear that this is not just surveillance alone but a case of phone hack, the implications of which are dire. Both the Indian government and Whatsapp are answerable.”
+
+Chhattisgarh based lawyer Shalini Gera, who has had experience of surveillance and police attack in the past said she too was informed by Citizen Lab and then, by WhatsApp, about the possible malware attack.
+
+Gera could be one of the first persons to be approached by the Citizen Lab’s John Scot-Railton on October 4. Scot-Railton informed her about the specific time frame when her WhatsApp had been compromised — between February to May this year.
+
+“And over subsequent conversations, John mentioned to me about Jamal Khashoggi’s case and the extent to which NSO Group was used,” Gera says.
+
+Gera, who has been a part of the lawyers collective JagLag, has faced a severe backlash from several right-wing organisations and Chhattisgarh police for the work she and her colleagues had been doing in the state. She, however, was surprised when she first found out about the attack. “I was not sure why the government would go after someone like me who is barely active in the cases of Adivasi rights in Chhattisgarh. But the pattern slowly became clearer when I heard that several other activists and lawyers related to Bhima Koregaon case have been targeted too.”
+
+Gera is representing Sudha Bharadwaj in the Bhima Koregaon case and says there are several colleagues and friends in rights activism who have been informed by WhatsApp about the possible malicious malware but have not been contacted by Citizen Lab yet.
+
+According to the Indian Express report, at least two dozen academics, lawyers, Dalit activists and journalists in India were contacted and alerted by WhatsApp that their phones had been under state-of-the-art surveillance for a two-week period until May 2019.
+
+Rathod, however, says that he had been receiving these calls much before – and after – this two-week window period as mentioned by WhatsApp.
+
+The Nagpur-based lawyer also adds that he looks at the attack on his profile as a serious attempt to victimise and possibly target more human rights lawyers. “My WhatsApp profile was not chosen randomly but by design. We are a handful of human rights lawyers who are confronting the current dispensation and are in the process of exposing the different strategies used to arrest human rights activists in the country.”
+
+“I have reason to believe that the Bhima Koregaon case is based on the letters which were planted through this route or some other route by government agencies itself. The ridiculous contents of those letters make it more apparent,” he told The Wire.
+
+Expressing concern over the development, Amnesty International India, in a statement, said, “This is a grave violation of the activists’ fundamental right to privacy enshrined in both national and international law.”
+
+The human rights organisation has sought the NSO group’s license to be revoked. “On November 7, the Tel Aviv’s District Court is due to hear a legal case arguing that Israel’s Ministry of Defence (MoD) should revoke NSO Groups export license. The company’s Pegasus software has been used to target journalists and activists across the globe – including in Morocco, Saudi Arabia, Mexico and the United Arab Emirates. An Amnesty International staff member was also targeted using NSO malware,” the statement read.
+
+Responding to the threat faced by activists and journalist globally, Danna Ingleton, deputy director of Amnesty Tech said, “NSO says its spyware is solely intended to ‘prevent crime and terrorism’, but instead the firm’s invasive surveillance tools are being used to commit human rights abuses. The safest way to stop NSO’s spyware products reaching governments who plan to misuse them is to revoke the company’s export license.”
+
+Amnesty International has announced its legal support in the case in Tel Aviv District Court to force the Israeli Ministry of Defence to stop NSO’s spyware products.
+
+(With inputs from Akhil Kumar)

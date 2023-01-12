@@ -1,0 +1,101 @@
+Groundwater in Rajasthan fouled by simultaneously present natural and human-made toxins
+
+By Sahana Ghosh
+
+Groundwater quality in India’s desert state Rajasthan is hit by the simultaneous presence of both human-made pollutants and naturally occurring toxic minerals, a study has shown. The spoiled groundwater is unsafe for drinking without treatment, warn researchers.
+
+As part of the Duke University India Initiative, researchers tested 243 groundwater wells, across the northwest Indian state of Rajasthan, the country’s largest state by area, to probe the presence of multiple contaminants in groundwater.
+
+They discovered that over three-quarters of the wells (tubewells or handpumps), that provide drinking water without any treatment, contains contaminants such as fluoride, nitrate, and uranium at levels that exceed both Indian and World Health Organisation (WHO) drinking water norms.
+
+A combination of geogenic (natural or geologic) and anthropogenic (or man-made) processes affect groundwater chemistry and quality in Rajasthan, said lead author Avner Vengosh of the Duke University.
+
+“Man-made contaminants such as those that leach out from agriculture and domestic sewage (for example pathogens, nitrates) keep authorities on their toes. The geogenic contaminants such as those coming from aquifer rocks (fluoride and uranium) can go unnoticed because they are considered natural and their health effects are not immediately detected,” Vengosh said.
+
+Avner Vengosh, professor of geochemistry and water quality at Duke’s Nicholas School of the Environment, and Rachel Coyte, a doctoral student in Vengosh’s lab, earlier led a study that found widespread uranium contamination in India’s groundwater, including in Rajasthan.
+
+Consumption of drinking water contaminated with uranium can cause chronic kidney disease and deformity of bones. Additionally, fluorosis related to fluoride intake has been described in Rajasthan.
+
+Study co-author Anjali Singh said the arid to semi-arid climate and geology of the area and the fact that most of the state’s freshwater recharge is rainfall driven is also an impelling factor in geogenic pollution.
+
+“The fact that so much of the state is reliant on groundwater makes the situation more concerning. Anthropogenic pollution factors include over-pumping and pollution from wastewater,” Singh of the Department of Geology, Mohanlal Sukhadia University, Udaipur, Rajasthan, said.
+
+Human activities, such as water use for agriculture, and landscape changes can also enhance these natural processes. Complicating the issue is the fact that human-made pollutants may feed into geological processes, worsening the release of natural contaminants trapped in aquifer rocks.
+
+The Union Ministry of Environment, Forests and Climate Change (MoEFCC) has dubbed the problem of groundwater contamination as “alarming” in Madhya Pradesh, Rajasthan, Uttar Pradesh and Odisha, with the Central Ground Water Board (CGWB) cautioning against the unacceptable levels of fluoride, arsenic, nitrate and iron ore in groundwater in various states.
+
+In looking at multiple contaminants and laying out the routes for contamination of groundwater, the researchers also flag the possibility of finding a special category of emergent pollutants called disinfection byproducts (DBPs) in treated (chlorinated) water in Rajasthan.
+
+DBPs form when the chemicals used to treat water (such as chlorine) react with naturally-occurring materials in the water to form compounds that may pose health risks.
+
+The basis for the experts’ concern is the presence of high concentrations of dissolved organic carbon (DOC), nitrates and halides in the sampled groundwater that can increase the likelihood of formation of DBPs in waters that are treated with chemical disinfectants such as chlorine.
+
+The study calls for evaluation and monitoring of these emerging pollutants.
+
+Vengosh said concentrations of DBPs such as combined trihalomethane compounds (chloroform, bromodichloromethane, dibromochloromethane, and bromoform) are regulated in some municipalities in India but information on them and other DBPs’ is not publicly available.
+
+“Given the concentrations of halogens and DOC we found in many of the investigated groundwater in Rajasthan, and the evidence for wastewater contamination reported in this study, DBPs should be an important point of consideration for future water studies and water management in Rajasthan,” the authors write in the study.
+
+Northwest India suffers from severe water scarcity issues due to a combination of over-exploitation and climate effects. Along with concerns over water availability, endemic water quality issues are critical and affect the usability of available water and potential human health risks, the study states.
+
+Singh underscored undoing the disconnect between the bigger picture on water quality and water availability.
+
+“Quality and quantity both are very much important. Like you have the ocean but you cannot drink it without purifying it. It is like the line in (Samuel Taylor’s) the poem (“Rime of the Ancient Mariner”) ‘Water, water, everywhere, /Nor any drop to drink’,” she said.
+
+“Quality can be just as important a limiting factor as quantity in water availability. We want to do everything in our power to ensure that people have access to adequate and safe drinking water,” Singh added.
+
+Making connections between data and policy
+
+The researchers used isotope geochemistry to tease apart the geogenic contaminants (that are naturally occurring in the aquifer rocks) and those generated by human-made pollution. The application also aided them in assessing the mechanism that leads to geogenic contamination (such as salinity, uranium and fluoride) in addition to human actions like pollution from wastewater.
+
+This process of vetting groundwater and delineating the sources of contamination can be applied to other areas of the world informed Vengosh.
+
+And once you know what you are dealing with you can start looking at possible solutions, said Anjali Singh, reposing faith in the science to policy transition because of two reasons.
+
+“First, without knowing what water quality issues you have, it is impossible to address water quality. Second, different contamination pathways require different policy and remediation strategies. Issues related to nitrate from wastewater, for example, can be dealt with in part by improved sanitation and wastewater treatment,” Singh explained.
+
+But because geogenic issues are derived from the aquifers themselves it is usually not possible to ‘fix’ the problem at the source, she said. “Therefore you must deal with at the point of use, though filtration and treatment technologies,” Singh iterated.
+
+Over three-quarters of the wells that provide drinking water contain contaminants such as fluoride, nitrate, and uranium at levels that exceed both Indian and World Health Organisation (WHO) drinking water norms. Photo courtesy Vengosh et al.
+
+But are India’s existing monitoring processes enough?
+
+Unfortunately no, said Vengosh, underscoring that there are many gaps in the water quality monitoring program in India and many important and health effects contaminants are not been continuously monitored by the water authorities.
+
+“A major organisation restructure and modification is required to change this situation,” he said.
+
+Echoing Vengosh, Singh said that there are two fronts on which water quality monitoring needs to be improved: updating water quality infrastructure to clap eyes on pollutants that were historically not part of monitoring, and ensuring consistent water quality data.
+
+“More resources need to be devoted to updating quality monitoring infrastructure. This means improved facilities and infrastructure for measuring quality. For example, uranium has not historically been a part of water quality monitoring in Rajasthan, but we know it is a major quality issue. We also want to make sure that there is enough equipment to make sure samples are collected and stored in compliance with international standards,” Singh elaborated.
+
+The second front is data related.
+
+While we have quite consistent and comprehensive water level data for Rajasthan stretching back decades, we don’t have similar data for water quality in Rajasthan, she said. Quality is only officially measured once a year and there are huge gaps in the time records for individual wells, which make it difficult to detect long term water quality trends.
+
+The scientist also stressed on public access to data. “Improved infrastructure should help the first problem, but I think there needs to be a concerted effort to making sure all records are digitised and publically available.”
+
+Lessons are universal
+
+While this study is focused on specific areas in Rajasthan, the lessons are universal, Singh and Vengosh maintained. Numerous groundwater resources in the developing world share similar water quality issues to those they have observed in Rajasthan said Vengosh.
+
+“Other parts of northern India may experience increasing water-scarcity and become more like Rajasthan in the future, particularly due to continued groundwater overexploitation and a potential decrease in precipitation related to climate change,” he observed.
+
+The combination of an arid climate, existing geogenic risks where aquifer lithology generates contaminants, and human activities all may lead to multiple water quality issues and exacerbate human health risks to the population that utilise groundwater as the major drinking water source in northwest India, Vengosh and Singh explained.
+
+Singh further stressed that a comprehensive study of artificial water recharge schemes and of traditional water conservation methods would be a great idea to strengthen traditional water conservation methods to restore water quality.
+
+According to Abhijit Mukherjee of the Department of Geology and Geophysics, Indian Institute of Technology (IIT), Kharagpur, the study provides a very robust data set from a very less-studied area and highlights certain groundwater pollution conditions, which were not that well known, although previously reported.
+
+While the presence of uranium is not surprising (being linked to ancient tectonic activity in the area), Mukherjee said the nitrate would certainly be related to agricultural activities and sewage.
+
+“This is also a regular observation in the Ganges basin. Further, the very thick unsaturated zone in Rajasthan, varying from 50 metres to 150 metres, would enhance the possibility of nitrate migration from agricultural fields to drinking water wells. The presence of fluoride in the groundwater is due to silicate weathering that is expected in bedrock aquifers with extensive weathered regolith horizon,” explained Mukherjee.
+
+Regolith refers to the layer of loose soil and rock debris that overlies and blankets bedrock. “So, overall the findings match the expected pattern,” he added.
+
+Citation
+
+Coyte, R. M., Singh, A., Furst, K. E., Mitch, W. A., & Vengosh, A. (2019). Co-occurrence of geogenic and anthropogenic contaminants in groundwater from Rajasthan, India. Science of The Total Environment, 688, 1216-1227
+
+—
+
+This article was first published in Mongabay

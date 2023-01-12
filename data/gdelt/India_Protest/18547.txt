@@ -1,0 +1,45 @@
+According to a recent study on financial roles, one-third of high scho
+
+yossarian84 wrote:
+
+According to a recent study on financial roles, one-third of high school seniors say that they have “significant financial responsibilities.” These responsibilities include, but are not limited to, contributing to food, shelter, or clothing for themselves or their families. At the same time, a second study demonstrates that a crisis in money management exists for high school students. According to this study, 80% of high school seniors have never taken a personal finance class even though the same percentage of seniors has opened bank accounts and one-third of these account holders has bounced a check.
+
+
+
+Which of the following conclusions can be properly drawn from the statements above?
+
+(A) High schools would be wise to incorporate personal finance classes into their core curricula.
+
+(B) At least one-third of high school seniors work part-time jobs after school.
+
+(C) The number of high school seniors with significant financial responsibilities is greater than the number of seniors who have bounced a check.
+
+(D) Any high school seniors who contribute to food, shelter, or clothing for themselves or their families have significant financial responsibilities.
+
+(E) The majority of high school students have no financial responsibilities to their families.
+
+
+
+OA after some discussion.
+
+Quote:
+
+(B) At least one-third of high school seniors work part-time jobs after school.
+
+Quote:
+
+(C) The number of high school seniors with significant financial responsibilities is greater than the number of seniors who have bounced a check.
+
+Quote:
+
+(A) High schools would be wise to incorporate personal finance classes into their core curricula.
+
+Quote:
+
+(D) Any high school seniors who contribute to food, shelter, or clothing for themselves or their families have significant financial responsibilities.
+
+Quote:
+
+(E) The majority of high school students have no financial responsibilities to their families.
+
+Here we have an inference question with lots of facts and figures. Since the answer to an inference question is something that MUST BE TRUE based on one or more of the pieces of information, we think to ourselves "I'll be able to draw concrete conclusions from the numbers, so there's an excellent chance that the correct answer will be a mathematical deduction."Accordingly, let's start with the choices related to math, (B) and (C).We know that 1/3 have significant financial responsibilities, but we have no info on how those students fulfil those duties. Accordingly, (B) is not a MUST BE TRUE and can be eliminated.We know that 1/3 have significant responsibilities; we also know that 80% have opened a bank account and 1/3 of the 80% have bounced a cheque.Is 1/3 of 100% > than 1/3 of 80%? YES! Accordingly, (C) MUST BE TRUE and is the correct answer to the question.* * *When you're practicing, you should review every answer choice to every question. So, although in a test situation we'd choose (C) and move on, let's go into "review mode" and take a quick look at the other 3 choices:Nothing in the stimulus suggest that this is a MUST BE TRUE - we'd have to know a lot more about the educational system to evaluate the impact of (A) - eliminate.Just because those who have significant financial responsibilities contribute to food, shelter or clothing, that doesn't mean that the reverse is true. This is more of a classic LSAT trap (reversal of sufficiency and necessity, related to formal logic) than a GMAT one.Classic scope shift/too extreme trap - we know that 2/3 don't have "significant" financial responsibilities, but that's not the same as "no" financial responsibilities.

@@ -1,0 +1,19 @@
+Google May Face Another Android Antitrust Fine in India
+
+This site may earn affiliate commissions from the links on this page. Terms of use
+
+Google has been doing battle with European regulators for years, a struggle which last year resulted in a record antitrust fine of €4.34 billion in the EU. Now, Google might be looking at another major regulatory headache. Reports indicate that India’s antitrust regulators are beginning an investigation of Google, and Android is once again the target of the probe.
+
+Sources claim that India’s Competition Commission of India (CCI) started investigating Google’s Android licensing practices about six months ago. That means the process is still in the very early stages. The EU investigation didn’t become public until much later. Google executives have reportedly met with Indian regulators to discuss the issue, which stems from complaints made by individuals.
+
+In the EU, Google caught heat for the restrictions placed on device makers that licensed its Android apps. While Android itself is open source, Google’s services are locked down. If a company wanted to license the Play Store, it needed to pre-load Google search, Chrome, and other apps. OEMs were also prohibited from launching phones with incompatible versions of Android.
+
+Following the EU fine (which Google is still fighting), the company announced it would change licensing in the EU to allow companies to sell phones Google-infused phones with other search engines and fewer pre-loaded Google apps. However, that would also come with up-front device licensing fees to offset the lost revenue.
+
+The above changes only affected the EU, of course. The stakes are even higher in India, which is one of Android’s largest markets. While 85 percent of smartphones around the globe run Android, that figure is 98 percent in India. Devices from Chinese OEMs like Huawei and Xiaomi are huge sellers in India while having almost no presence in the US.
+
+It’s impossible to know which way the supposed Indian investigation will go. The CCI could continue digging and bring a case against Google. That might mean steep fines and changes to Google’s Indian business model. Alternatively, the agency could decide the complaint lacks merit and dismiss it.
+
+In the past, India has fined Google for so-called “search bias” for its online activities. Sources behind the report believe the CCI is likely to open a formal investigation unless it can show the antitrust issues have already been addressed in the market.
+
+Now read:

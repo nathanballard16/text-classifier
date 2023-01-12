@@ -1,0 +1,61 @@
+Why West Bengal Won’t Compensate BJP for Hindi Heartland Losses
+
+The Bharatiya Janata Party’s spectacular victory in the 2014 Lok Sabha election was based on it sweeping most of north, central and west India. In the Hindi heartland states, its tally was 190 out of 225.
+
+From this high point, there were only two ways for the BJP to sustain its hold over power. First, it needed to continue the domination in areas already captured in 2014. Crucially, this meant maintaining the count of seats in the Hindi belt. Second, it had to spread to new areas, which meant winning more seats in south and east India.
+
+In an earlier article we have argued that the party’s first strategy could be in serious trouble. In the six Hindi-speaking states of Uttar Pradesh, Madhya Pradesh, Rajasthan, Chhattisgarh, Himachal Pradesh and Uttarakhand, the BJP could lose 75 seats compared to its 2014 tally. In this article, we show that its second strategy to win more seats in the largest state in the east – West Bengal – may only succeed partially, if at all.
+
+West Bengal is an electorally important state in the east; it sends 42 MPs to the Lok Sabha. In 2014, the BJP won only two of these 42 seats, indicating sizeable room for improvement. It is not surprising, therefore, that the party has been paying considerable attention to the state in the recent past.
+
+West Bengal has a large refugee population. The introduction of the Citizenship (Amendment) Bill 2016 by the BJP, and its enthusiastic support for the National Register of Citizens exercise can be understood as parts of its plan to extend influence in this state (and in Assam). While the NRC placated son-of-the-soil sentiments against immigrants, the Citizenship Bill tried to assure Hindu immigrants.
+
+West Bengal has four major parties/alliances in the fray: AITC (All India Trinamool Congress), LF (Left Front), INC (Indian National Congress), and BJP+ (BJP, Gorkha National Liberation Front (GNLF), Bimal Gurung faction of Gorkha Janamukti Morcha (GJM)).
+
+Our analysis of past voting trends suggests that, in comparison to the 2014 Lok Sabha elections, the vote share of BJP+ will certainly rise. We are less certain of the seat tally, and so we look at two different possibilities. Our prediction is that the BJP’s seat tally could vary between a deficit of one seat and a surplus of four seats, with respect to its performance in the 2014 Lok Sabha polls.
+
+Methodology
+
+For the analysis that underlies our predictions, we have relied on voting pattern data for the most recent assembly elections in West Bengal, in 2016.
+
+To identify the probable winner in a parliamentary seat, we have used the same method that we had adopted earlier – but with an important modification. Our method entails adding up the total number of votes a prominent party (or coalition) won in 2016 in the assembly constituencies that make up the parliamentary constituency. Dividing this by the total number of votes cast gives us the vote share of each prominent party, which we take as an estimate of the vote share of that party/alliance in the 2019 Lok Sabha elections.
+
+Watch | Is the 2019 Election Proof That the Bengal Renaissance Has Failed?
+
+We ranked parties/alliances in terms of vote share and declared the party/alliance with the largest vote share as the winner. For our analysis of West Bengal, we modified this last step to take account of possible vote swings in favour of the BJP.
+
+It is undeniable that over the past few years, there has been a continuous erosion of the LF voter base. Thus, in continuation of past trends, a large chunk of LF votes may go to the BJP. Moreover, it is plausible to argue that in the Lok Sabha elections, a national party like the BJP would garner more votes than in an assembly election – especially because in West Bengal, its main contender is the Trinamool Congress, a regional party. Moreover, the “strong leader” image of Narendra Modi may also draw some extra votes.
+
+Taking account of possible vote swing
+
+To take account of the possible vote swing in favour of the BJP vis-à-vis its performance in the 2016 Vidhan Sabha election, we considered two alternative scenarios.
+
+Under scenario 1, we allow the BJP’s vote share to increase by 12.7 percentage points compared to the 2016 Vidhan Sabha election results – which is the increase in BJP’s vote share between the 2011 Vidhan Sabha and 2014 Lok Sabha elections. In the second scenario, we allow BJP’s vote share to increase by 7.56 percentage points compared to the 2016 Vidhan Sabha election results – which reflects the BJP’s improved performance between the 2016 Vidhan Sabha and the 2018 gram panchayat elections.
+
+It is difficult to predict the parties or alliances that will lose the vote share that we wish to assign to the BJP in 2019. Since the focus of our analysis is the BJP’s prospects, we will work with the assumption that is electorally most favourable to the party – that the entire swing in favour of the BJP will come out of the vote share of the party which would have been predicted the winner without the vote transfer.
+
+Under scenario 1, the implication is that in any constituency where the BJP trailed the winner by less than 25.4 percentage points, it would now win. Under scenario 2, on the other hand, the implication is that in any constituency where the BJP trailed the winner by less than 15.12 percentage points, it would now win. We have used this reasoning to predict the BJP’s possible victories in parliamentary constituencies in West Bengal under scenario 1 and 2.
+
+Results
+
+The summary results of our prediction exercise are given in Figures 1. In Table 1, we provide details of our analysis – where constituencies have been arranged in descending order of the difference in the vote share of the winner and BJP+.
+
+Under scenario 1, the BJP’s vote share will increase significantly – from 16.8% in 2014 to 23.32% (=10.62% + 12.7%) in 2019 – and its seat tally will also improve drastically – from two in 2014 to six in 2019. Under scenario 2, the BJP’s vote share will increase much less dramatically – from 16.8% in 2014 to 18.18% in 2019 – and its seat tally will actually fall by one, in comparison to 2014.
+
+To our mind, scenario 1 overestimates the BJP’s chances in 2019. This is because we add a vote share swing of 12.7 percentage points. This increase in vote share was registered by BJP in 2014 – compared to the previous Vidhan Sabha elections – when there was a visible wave in its favour. There is no such wave in 2019. Hence, this figure seems like an overestimate. On the other hand, scenario 2 probably underestimates the BJP’s chances because it uses performance in panchayat elections – where the national-local difference seems to go against the BJP. Hence, the actual outcome in 2019 is likely to lie somewhere in between scenario 1 and 2.
+
+To understand why the BJP might not be able to make much headway in West Bengal, we need to look at the details in Table 1. We see that the share of votes of the AITC dwarfs that of the BJP by an average of 35 percentage points per seat! The minimum gap, with the exception of Darjeeling, is more than 15 percentage points.
+
+Also read | In West Bengal, the BJP’s Ambition Outweighs Its Capacity
+
+Moreover, the overall vote share of the LF is around 25%, and it remains significantly higher than the BJP’s in many constituencies (even after we take account of the possible vote swing). In other words, not only does the BJP have to cut into the votes of the Left, it has to attract voters from other parties as well. This is a tough call. No wonder our exercise shows that the party will not manage to increase its seat tally significantly.
+
+However, in north Bengal, BJP+ will not only maintain its position but could also wrest away new seats. Our analysis predicts that it will win Darjeeling under both scenarios – a seat it won in 2014. In Maldaha Uttar, Alipurduar, Raiganj, Maldaha Dakshin and Asansol, the gap between the BJP and the AITC is lower than 21% of the popular vote. Hence, under scenario 1 (i.e. a favourable vote share swing), the BJP will be able to win these seats – giving it a total tally of six.
+
+It is worth pointing out that most of these constituencies lie near the border with Bangladesh and have a substantial Hindu refugee population. They have seen the issue of Bangladeshi immigration being relentlessly hammered by the BJP propaganda machinery. In fact, one reason why the BJP pushed for the Citizenship (Amendment) Bill 2016 is to make inroads into West Bengal through these areas. If scenario 1 unfolds, it will mean that the BJP has partially succeeded. But even in this case, the BJP’s gain could be concentrated in these vulnerable seats, rather than spread out evenly across the state.
+
+The overall conclusion of our analysis is that the shortfall of seats for the BJP in the Hindi heartland states is unlikely to be even remotely compensated for by gains in West Bengal – even under the scenario when the BJP increases its seat tally to six.
+
+Table 1: BJP’s Predicted 2019 Lok Sabha Performance in West Bengal Vote Share without Swing (%) Winner Parliamentary Constituency AITC BJP+ INC LF Winner – BJP+ Scenario 1 Scenario 2 Darjeeling 30.96 30.56 13.32 11.32 0.4 BJP BJP Maldaha Uttar 28.54 15.78 30.99 18.62 15.21 BJP INC Alipurduars 38.47 23.03 16.49 14.56 15.44 BJP AITC Raiganj 32.13 15.35 27.08 16.4 16.78 BJP AITC Maldaha Dakshin 30.22 15.09 33.22 3.93 18.13 BJP INC Asansol 41.55 21.27 6.3 26.61 20.28 BJP AITC Jangipur 33.78 7.07 35.1 16.95 28.03 INC INC Murshidabad 36.65 6.34 23.38 28.78 30.31 AITC AITC Balurghat 42.77 10.78 7.06 35.11 31.99 AITC AITC Jalpaiguri 44.88 12.68 6.67 30.27 32.2 AITC AITC Cooch behar 44.99 12.32 5.3 31.8 32.67 AITC AITC Burdwan – Durgapur 43.43 8.82 7.79 35.31 34.61 AITC AITC Kolkata Uttar 49.27 14.61 4.49 25.86 34.66 AITC AITC Barrackpore 48.51 13.73 7.43 23.15 34.78 AITC AITC Kolkata Dakshin 47.06 11.71 15.82 14.53 35.35 AITC AITC Howrah 49.09 13.5 2.98 27 35.59 AITC AITC Bishnupur 44.61 8.81 11.4 29.97 35.8 AITC AITC Medinipur 47.69 11.66 4.11 26.58 36.03 AITC AITC Bankura 45.25 9.07 6.39 32.06 36.18 AITC AITC Baharampur 24.92 9.6 45.94 9.61 36.34 INC INC Dum Dum 45.62 9.09 6.05 35.65 36.53 AITC AITC Birbhum 47.07 10.35 18.72 19.23 36.72 AITC AITC Bolpur 47.3 10.38 0 38.58 36.92 AITC AITC Basirhat 48.53 11.43 11.27 25.52 37.1 AITC AITC Krishnanagar 46.19 9.05 11.84 29.22 37.14 AITC AITC Bardhaman Purba 46.54 8.54 11.3 30.29 38 AITC AITC Bangaon 48.59 9.47 7.56 30.9 39.12 AITC AITC Ranaghat 46.53 7.24 15.29 27.44 39.29 AITC AITC Barasat 49.48 9.75 9.96 26.71 39.73 AITC AITC Srerampur 49.72 9.78 10.75 22.39 39.94 AITC AITC Joynagar 46.46 6.49 9.53 27.52 39.97 AITC AITC Hooghly 48.73 8.7 4.91 33.53 40.03 AITC AITC Diamond harbour 48.68 8.34 5.71 33.76 40.34 AITC AITC Purulia 46.26 5.7 19 23.45 40.56 AITC AITC Jadavpur 48.26 6.92 0 40.33 41.34 AITC AITC Jhargram 54.43 12.81 1.58 22.26 41.62 AITC AITC Uluberia 49.91 7.39 24.23 14.51 42.52 AITC AITC Tamluk 48.79 5.68 6.34 23.92 43.11 AITC AITC Arambagh 52.41 8.54 5.33 25.55 43.87 AITC AITC Ghatal 50.36 6.13 8.72 26.55 44.23 AITC AITC Kanthi 52.57 6.19 5.8 28.05 46.38 AITC AITC Mathurapur 50.79 3.85 17.99 24.7 46.94 AITC AITC Total 44.91 10.62 12.25 25.68 Notes. In scenario 1, we take the vote share swing in favour of BJP to be 12.7 percentage points. This is the difference in the vote share of BJP in the 2014 Lok Sabha elections and the 2011 Vidhan Sabha elections. In scenario 2, we take the vote share swing in favour of BJP to be 7.56 percentage points. This is the difference between BJP’s share of gram panchayats in the 2018 Panchayat elections and share of votes in the 2016 Vidhan Sabha elections.
+
+Deepankar Basu is associate professor in the Department of Economics, University of Massachusetts Amherst. Debarshi Das is associate professor in the Department of Humanities and Social Sciences, Indian Institute of Technology Guwahati.

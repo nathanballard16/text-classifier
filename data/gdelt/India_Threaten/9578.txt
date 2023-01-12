@@ -1,0 +1,21 @@
+Drug regulator warns of hacking risk in Medtronic insulin pumps
+
+India's apex drug regulator, the Central Drugs Standard Control Organisation (CDSCO), has issued an alert about a possible risk of hacking of some insulin pumps manufactured by device maker Medtronic PLC on Wednesday, after the US FDA flagged the issue last week.
+
+While the drug regulator clarified that it has not received any complaints from the market on the issue yet, the CDSCO's safety alert to medical professionals and patients echoed the US FDA observations on specific insulin pumps that raised an alarm about a possible risk of hacking of some insulin pumps manufactured by device maker Medtronic.
+
+Subsequently, certain insulin pumps from Medtronic Minimed have been recalled due to potential cybersecurity risks.
+
+The US drug regulator had recommended that people who use these insulin pumps to switch to different models. The potential risks are related to the wireless communication between Medtronic's Minimed insulin pumps and other devices such as blood glucose meters, continuous glucose monitoring systems, the remote controller and CareLink USB device used with these pumps.
+
+In its warning, the FDA noted that these devices pose the risk of someone other than a patient, caregiver or health care provider potentially connecting wirelessly to a nearby Minimed insulin pump and changing its settings. This could allow a person to over deliver insulin to a patient, leading to low blood sugar (hypoglycemia), or to stop insulin delivery, leading to high blood sugar and diabetic ketoacidosis (a buildup of acids in the blood).
+
+As listed on the US FDA's website, Medtronic is recalling the following insulin pumps: MiniMed 508 (with all software versions), MiniMed Paradigm 511 (with all software versions), MiniMed Paradigm 512/712 (with all software versions), MiniMed Paradigm 522/722 (with all software versions), MiniMed Paradigm 522K/722K (with all software versions), MiniMed Paradigm 523/723 (with software version 2.4A or lower), MiniMed Paradigm 523K/723K (with software version 2.4A or lower), MiniMed Paradigm 712E (with all software versions), MiniMed Paradigm Veo 554CM/754CM (with software version 2.7A or lower), MiniMed Paradigm Veo 554/754 (with software version 2.6A or lower).
+
+In India, the CDSCO has urged healthcare providers and patients to remain vigilant and not share their pump serial number. "The insulin pumps which are vulnerable to potential issue are MiniMed Paradigm 715, 712, 722 and 754 with software versions 2.6 A or lower," the CDSCO alert said.
+
+Insulin pumps are small computerized devices that can deliver insulin to diabetes patients in continuous doses to help them control their blood glucose levels.
+
+According to Medtronic spokesperson, the company is proactively informing Indian regulators and other relevant stakeholders and is in the process of working with researchers, doctors and patients to address any questions or concerns that they may have. No patient issues have been reported in India so far.
+
+"MiniMed 508 had been discontinued in India since 2011. Over the years, we've launched many advanced models of insulin pumps and they are safe for patients. At Medtronic, we take quality concerns with the utmost seriousness, and the safety of patients is our primary concern. As technologies evolve, we will continue to collaborate with industry researchers and regulators to improve device security approaches and develop high-quality therapies that positively impact lives," the company added.

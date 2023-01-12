@@ -1,0 +1,103 @@
+Amazon’s Twitch broadcasted a shooting
+
+Amazon’s Twitch broadcasted a shooting Presented by Charter Communications
+
+With help from John Hendel
+
+PROGRAMMING NOTE: Morning Tech will not be published on Monday, Oct. 14. We'll be back on our normal schedule on Tuesday, Oct. 15. Please continue to follow POLITICO Technology.
+
+Editor’s Note: This edition of Morning Tech is published weekdays at 10 a.m. POLITICO Pro Technology subscribers hold exclusive early access to the newsletter each morning at 6 a.m. Learn more about POLITICO Pro’s comprehensive policy intelligence coverage, policy tools and services, at politicopro.com.
+
+Quick Fix
+
+— Trouble at Twitch: The deadly shooting Wednesday outside a synagogue in Germany was streamed live on Amazon-owned Twitch, a possible first for the tech giant.
+
+— Libra hearing: After his swing through Washington in September, Facebook CEO Mark Zuckerberg will return to Capitol Hill this month for a hearing grappling with Libra, including how the proposed cryptocurrency will be affected by Facebook’s market power and handling of private data.
+
+— MT scoop on Section 230: U.S. Trade Representative Robert Lighthizer declined an invitation from a House panel to testify at a hearing next week on the tech industry’s prized legal liability shield.
+
+A message from Charter Communications: We’re proud that Spectrum Internet ranks No. 1 in the U.S. News & World Report 2021-22 “Best Rural Internet Service Providers” rankings. This recognition underscores our ongoing commitment to connecting more communities from coast to coast, including rural areas. And we’re just getting started.
+
+GREETINGS, TECHLINGS: IT’S THURSDAY. WELCOME TO MORNING TECH! I’m your host, Alexandra Levine. Ding dong, the iTunes is dead.
+
+Got a news tip? Write Alex at [email protected] or @Ali_Lev. An event for our calendar? Send details to [email protected]. Anything else? Full team info below. And don’t forget: add @MorningTech and @PoliticoPro on Twitter.
+
+Tech of the Town
+
+ANOTHER SHOOTING BROADCAST ONLINE — The apparent gunman in a deadly shooting Wednesday outside a Yom Kippur service in Germany live-streamed the attempted attack on Amazon-owned Twitch. It’s an apparent first for the company — a Twitch stream caught a shooting at a Florida gaming tournament last year, but that wasn’t a deliberate broadcast from the shooter — and displayed chilling echoes of a notorious Facebook livestream of the Christchurch massacre in New Zealand. Facebook and other platforms like Google’s YouTube on which users reposted that video drew scrutiny for failing to stop the footage from spreading. Similar scrutiny may be in the offing for Amazon; the 35-minute stream reportedly ran uninterrupted and remained viewable online for another half-hour before Twitch caught it and took it down.
+
+— Twitch said Wednesday that the company “worked with urgency to remove this content and will permanently suspend any accounts found to be posting or reposting content of this abhorrent act.” Amazon did not immediately respond to MT’s request for comment on what mechanisms or processes Amazon and Twitch have in place to proactively address violent content, which is against platform rules.
+
+— Bigger picture: Internet heavyweights have increasingly come under fire for their role in inciting or amplifying real-life violence, and the anti-Semitic shooting Wednesday that left at least two people dead is the latest indicator that companies — and the artificial intelligence systems meant to one day be their greatest line of defense — are still woefully ineffective against these issues. (Efforts to address such problems include Facebook changing its livestream rules post-Christchurch; leading tech companies, including Amazon, joining the Christchurch call to curb terrorist and extremist content online; and the coming expansion of the Global Internet Forum to Counter Terrorism into its own entity.)
+
+FROM CRYPTO TO COMPETITION: ALL EYES ON ZUCK’S LIBRA HEARING — Broader concerns about Facebook will likely cast a long shadow over the much-anticipated House Financial Services Committee hearing Oct. 23, where CEO Mark Zuckerberg is slated to testify, as POLITICO was first to report. Amid probes by lawmakers, federal regulators and state attorneys general into competition concerns raised by the social network, Facebook’s industry dominance is likely to come up at Zuck’s grilling. “We must hear assurances that [Libra] will not be another tool to allow Facebook to abuse their market power,” Rep. Sylvia Garcia (D-Texas) said Wednesday evening, “and that it will not serve as another avenue for criminals and terrorist organizations to move and launder money.” (She added that she is “particularly concerned about the impact it could have [on] low income communities.”)
+
+FIRST IN MT: LIGHTHIZER SAYS “NO” TO SECTION 230 HEARING — U.S. Trade Representative Robert Lighthizer declined to testify at next week’s House hearing on Section 230 of the Communications Decency Act, an Energy and Commerce Committee spokesperson told MT. Panel leaders had asked Lighthizer to attend the Oct. 16 session, MT scooped this week, to address their concerns about the Trump administration’s plans to lift language from the tech industry’s legal liability shield — which is at the center of fierce political debate and could soon be changing — into the digital trade portion of the new North American trade agreement.
+
+— “As we explore whether consumers are adequately protected by platforms’ content moderation practices and Section 230 of the Communications Decency Act, it’s extremely disappointing that Ambassador Lighthizer would refuse to testify before our Committee on the inclusion of similar language in trade agreements,” the committee spokesperson told MT. “This hearing would have been an opportunity for him to explain to the Committee members how including this type of language in trade agreements benefits Americans in light of consumers’ growing concerns about the health of the internet.” He added that E&C Chairman Frank Pallone (D-N.J.) would continue to push Lighthizer on the issue.
+
+A message from Charter Communications:
+
+MORE PRESSURE ON 230 — Progressive nonprofit American Family Voices is today leading a letter to Capitol Hill in support of the PLAN Act, H.R. 4232 (116), which would tweak Section 230 in a bid to crack down on unlawful short-term vacation rental postings on websites like Airbnb. The group in recent weeks has been pushing attacks suggesting that tech giants are “shamefully exploiting CDA 230 to shield illegal rentals on their websites and stealing affordable housing options away from hard-working families,” as it writes, seemingly in tandem with the hotel industry, another prominent backer of the bill from Hawaii Democratic Rep. Ed Case (himself a former hotel executive). Although American Family Voices doesn’t disclose its funding, its AirbnbWATCH project lists the American Hotel & Lodging Association as a supporter.
+
+— This letter comes ahead of the E&C hearing next week on Silicon Valley’s liability shield. The bipartisan PLAN Act, which has picked up five co-sponsors in the month since its introduction, falls under E&C’s jurisdiction. Today’s letter, which is also signed by groups like the National Community Development Association, argues the legislation would “put an end to” online platforms’ “abusive exploitation of CDA 230’s original intent and help protect vital affordable housing across the country.” (Tech companies have countered this carve-out would amount to an unnecessary overreach that undermines existing efforts by rental platforms to strike deals with localities that have laws limiting short-term rentals.)
+
+TECH QUOTE DU JOUR, VIA TWITTER — “It’s time for @Apple to stand up to Communist China. American companies should never be censored or told what to do by foreign adversaries.” — Sen. Rick Scott (R-Fla.), in response to reports that China has been pressuring the tech giant to censor an app being used by protesters in Hong Kong.
+
+MISSISSIPPI DROPS OUT OF T-MO-SPRINT LAWSUIT — Mississippi Attorney General Jim Hood withdrew Wednesday from the bipartisan coalition of state attorneys general (led by New York and California) suing to block the T-Mobile-Sprint merger. “Mississippians will have better access to 5G networks thanks to an agreement we reached recently with @TMobile, as an alternative to litigation against the phone company’s merger,” Hood’s office said Wednesday on Twitter. A series of follow-up tweets detailed that agreement, which includes commitments to building out 5G service in the state. Federal regulators have already cleared the deal, but the dozen-plus AGs participating in the lawsuit remain concerned that reducing the number of nationwide U.S. wireless companies from four to three will lead to higher costs for customers (though the merger includes a side deal meant to form the basis for a replacement fourth network run by DISH Network).
+
+Transitions
+
+Ashkan Soltani, former chief technologist of the Federal Trade Commission, has been appointed a distinguished fellow of Georgetown's Institute for Technology Law & Policy and its Center on Privacy & Technology, where he will collaborate on research, engage with students and faculty, and help guide the university’s work on technology, law and policy. … The newly launched U.S. Blockchain Advocacy Partners coalition will collaborate with local and state governments, tech leaders and others on policies in the blockchain space.
+
+Silicon Valley Must-Reads
+
+Ad wars: Joe Biden's campaign asked Twitter to reject a misleading ad from President Donald Trump's reelection campaign that falsely accuses Biden of corruption, POLITICO reports, after Facebook denied a similar request from the former vice president.
+
+TikTok probe: Sen. Marco Rubio (R-Fla.) asked the U.S. government to open an investigation into the Chinese-owned social media app TikTok, “out of concern that the company is ‘censoring content’ around the world to satisfy Beijing’s leaders,” WaPo reports.
+
+Tech workforce activism: Employees of Microsoft-owned GitHub are pressuring the company to cancel a major contract with ICE, the LA Times reports.
+
+Hong Kong protests: Apple removed an app that tracks police activity, Axios reports.
+
+Quick Downloads
+
+Child exploitation online: “Law enforcement authorities across Europe are being overwhelmed by online child exploitation material,” POLITICO Europe reports, “a problem amplified by the fact that minors take and share sensitive images and videos of themselves.”
+
+The exodus continues: FitBit is moving its production out of China in an attempt to shield itself from tariffs, Reuters reports.
+
+Who is next?: India is developing a national facial recognition technology system, BuzzFeed News reports.
+
+Vanishing vapes: As the vaping backlash grows, Alibaba said it’s stopping sales of e-cigarettes and Juul accessories to customers in the U.S., WSJ reports.
+
+Tips, comments, suggestions? Send them along via email to our team: Eric Engleman ([email protected], @ericengleman), Kyle Daly ([email protected], @dalykyle), Nancy Scola ([email protected], @nancyscola), Steven Overly ([email protected], @stevenoverly), John Hendel ([email protected], @JohnHendel), Cristiano Lima ([email protected], @viaCristiano) and Alexandra S. Levine ([email protected], @Ali_Lev).
+
+TTYL.
+
+A message from Charter Communications: Access for all means opportunity for everyone. That’s why we’re investing billions to extend our network to reach those who need it most. Over the next several years, Charter will build more than 100,000 miles of new U.S. broadband infrastructure that will deliver reliable, high-speed internet access to even more communities from coast to coast. That’s an extension long enough to circle the equator four times. This $5 billion initiative will connect an FCC-estimated one million currently unserved, mostly rural families and small businesses to reliable internet service with speeds of up to 1 gigabit per second.
+
+Follow us on Twitter Heidi Vogt @HeidiVogt
+
+
+
+Emily Birnbaum @birnbaum_e
+
+
+
+John Hendel @johnhendel
+
+
+
+Rebecca Kern @rebeccamkern
+
+
+
+Alexandra S. Levine @ali_lev
+
+
+
+Leah Nylen @leah_nylen
+
+
+
+Konstantin Kakaes @kkakaes

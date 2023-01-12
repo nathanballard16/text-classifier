@@ -1,0 +1,21 @@
+11 Made in India computers: India to build 11 new supercomputer
+
+India will build 11 fully indigenous supercomputers in the next phase of the National Supercomputing Mission (NSM). The central government recently approved the execution for 11 such machines. These computers will be built and installed in various research institutes across India. The government will also look forward to installing 73 indigenous supercomputers by the year 2022. Also Read - Google supercomputer creates its own ‘AI child’
+
+Supercomputers are extremely powerful machines with very high processing capabilities. These computers can calculate complex numbers very fast. Hence, climate modelling, weather forecasts, national security and government information systems are some of the use-cases for them. Also Read - International Space Station to get first supercomputer next week
+
+Watch: Top smartphones under Rs 10,000
+
+NSM Phase I
+
+The first phase of the mission comprised importing the parts required to build the supercomputer. The first built supercomputer was installed in IIT (BHU) this year. It was named ‘Param Shivay’. Later on, similar systems called Param Shakti and Param Brahma were installed at IIT Kharagpur and IISER Pune. Going forward, three more supercomputers will join in within a year. IIT Kharagpur will receive one of these. Bengaluru’s JN centre for Advanced Scientific Research will have one. IIT Hyderabad will get the third supercomputer. Also Read - China's new supercomputer is 10 times faster than the current fastest machine in the world : Report
+
+Future Indian supercomputer plans
+
+The supercomputers installed so far are only 60 percent indigenous, said Milind Kulkarni, head of NSM told The Print. This is because Intel develops the motherboards in these machines. However, the next 11 supercomputers will have C-DAC designed processors. These computers will be able to calculate operations at 10 petaflops. ‘Flops’, or floating point operations per second are units for measuring the calculative abilities of these machines.
+
+According to Kulkarni, the C-DAC processors will be ready by March 2020. The processors are currently undergoing testing. Further, Kulkarni also mentioned that C-DAC will market the indigenous processor, which could bring down the cost of computer motherboards by 10 percent.
+
+“One system will be installed at C-DAC exclusively for small and medium enterprises, so that they can train employees as well as work on supercomputers at very low cost,” Kulkarni said.
+
+The budget for the NSM is Rs 4,500 crore. A third phase of the NSM also aims at making 100 percent indigenous supercomputers. Further, the government also approved a project to develop a cryogenic cooling system. These systems will be able to dissipate the generated heat in these supercomputers quickly. IIT Bombay and C-DAC will jointly build the cooling systems.

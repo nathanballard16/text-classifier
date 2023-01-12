@@ -1,0 +1,21 @@
+Watch out for Agent Smith, the latest malware to creep into android phones
+
+This malware takes over apps on an Android phone, including popular and widely used ones like WhatsApp without changing its hash value
+
+If you are seeing an unusual number of ads on your Android phone, chances are your phone has been taken over by Agent Smith.
+
+The malware, which derives its name from the antagonist of the Wachowski Brothers’ cult trilogy The Matrix, is currently being tracked by cyber crime agencies across the world. Earlier this week, the Maharashtra Cyber department issued an advisory cautioning users against the malware, which can silently embed itself into any cell phone.
+
+Officials said that the malware is named after Hugo Weaving’s character in the trilogy because it exhibits similar behaviour. In the movie, Agent Smith can convert anyone in the Matrix – a virtual reality – into a clone of himself. Similarly, the malware can impersonate any android-based app and enter the cell phone.
+
+Calling it ‘scary’, officials from the Maharashtra Cyber department said that Agent Smith takes over apps on an Android phone, including popular and widely used ones like WhatsApp, without changing its hash value – a unique code which is regarded to be the integrity of any computer file or programme, which makes it all the more challenging to detect.
+
+Sources said Agent Smith seems to have been designed by Chinese hackers, although this is still being verified.
+
+“The only signs of a phone being infected are if the number of ads you see suddenly rise significantly, and if the ads you are seeing have nothing to do with your regular browsing habits. Currently, it seems that Agent Smith is only infiltrating apps with the intention of throwing up advertisements for other apps,” an official said.
+
+However, the officer added, once the malware has control over a cell phone, it can do anything, including stealing banking details or other sensitive data, which can be misused in a variety of ways.
+
+“Users are advised against downloading third party apps to avoid falling prey to Agent Smith and to keep updating their operating system. Also, if one sees the signs of their device being infected, they should immediately do a factory reset,” said Special Inspector General of Police Brijesh Singh, Maharashtra Cyber.
+
+According to a recent report released by Checkpoint, a private cyber security firm, Agent Smith has taken over 25 million devices around the world, including India, Indonesia and the U.S.

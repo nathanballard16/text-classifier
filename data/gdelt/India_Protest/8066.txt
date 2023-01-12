@@ -1,0 +1,55 @@
+Jerome — The Man, The Myth, The Tesla Super-Engineer — #CleanTechnica Interview
+
+If you were following Tesla in the early days of the Model S, and more so if you were an early Model S owner, you probably know a bit about Jerome Guillen. He led development of the Tesla Model S (was program director) and then was also VP of Worldwide Sales and Service for 2½ years. He was absolutely loved by owners — if you frequented Tesla forums in the pre–Model X days, you might have even seen more love for Jerome than for Elon (Musk). People loved him for how responsive, helpful, and friendly he was. More recently, Jerome has been leading the Semi program (it was his idea) and has been a key figure improving the Model 3 production process.
+
+Being a superstar of Tesla Universe, we were of course keen to interview Jerome. After months of nagging Tesla, we got the opportunity in early March.
+
+Kyle Field, Chanan Bos, and I spent ~45 minutes chatting with Jerome in a corner of Tesla’s large, open, highly populated office space at Fremont factory. He and the program leads of the Model 3, Model Y, and Model S & X work in this corner of the office, putting the building blocks together for world domination. While this corner was open, light, and an indistinguishable part of the broader office space, it also felt a bit insulated from the commotion. This was a special, highly influential, strongly beating heart of Tesla’s growing leadership in the auto industry.
+
+To start off our chat with Jerome, I talking a little bit about how much early Tesla owners were in love with him and appreciated his responsiveness, attention to detail, customer service, and talent finding solutions for them. I then asked Jerome to summarize his history at Tesla and how his work has changed over time.
+
+Jerome noted that he’d been at Tesla for approximately 8 years and was, thus, sort of like a “dinosaur” there. (A friendly dinosaur.) He indicated that he was lucky Elon had asked him to take on a variety of roles during that time. (I have a feeling it wasn’t about luck.) As noted at the top, Jerome was initially program director for the Model S, and he still thinks the S is the best car on the planet. (Don’t tell the Model 3 or Model X program leads.) He also added there are still improvements implemented in the Model S every week. I think this is something that mostly just hits owners who drive a Tesla a couple of years younger than theirs, since not many people go around exploring Teslas built years or even months apart. This happened to us with the Model S and it was pretty shocking. Seeing how much gets improved in just a couple of years makes you realize that Tesla is constantly improving its products a great deal.
+
+Jerome also noted that there were a lot of improvements planned for this year. We now know that includes faster Supercharging thanks to on-route battery warmup, faster Supercharging from V3 Superchargers, and new motors, new wheel bearings, new tires, and longer range — not to mention cool Autopilot improvements.
+
+Talking more about the origins of the Model S, which clearly gets Jerome reminiscing fondly, I thought it was interesting he put a lot of focus on the S getting the best safety rating in history from the NHTSA (before the Model 3 came along). It was obvious that wasn’t a marketing pitch. It’s something he’s super proud of, something his team worked hard to achieve. Jerome noted that just 80 engineers worked on development of the Model S to achieve that historic achievement (just on the vehicle side, not including powertrain engineers). It’s still a wonder that a little Silicon Valley company came out of the shadows of palm trees and showed up the giants of Detroit, Germany, Japan, Korea, etc.
+
+Jerome briefly noted, as well, that when they got to production it became clear the Model S was a very complicated car to produce. He didn’t then talk about the Model X, which was even more complicated to produce, but it’s well known the hard lessons from those two vehicles were critical to Tesla’s much improved and cheaper production processes for the mass-market Tesla Model 3 (which is now the top selling premium-class car in the US, was the #1 best selling car in California in the second half of 2018, was the 5th best selling car overall in the USA in the second half of 2018, was the 11th best selling car in the USA in all of 2018, and was the 13th best selling car in the USA in the first quarter of 2019). The Model S, of course, could never get to such tremendous production and sales levels as the Model 3, but it has dominated the large luxury car segment for years.
+
+After leading Model S development, Jerome took over sales and service globally. He indicated that he loved working on the service side of the business during that time and enjoyed his communications with owners, but the sales work didn’t match his personality as well and it sounds like that’s what eventually burnt him out. After numerous accomplishments at Tesla and what must have been hyperspeed work for years, Jerome was ready for a vacation.
+
+In the second half of 2015, from the perspective of Tesla fanboys and fangirls, Jerome mysteriously disappeared. No one knew what happened to him, but people asked and mused (and not too infrequently complained that he was no longer there and communications had gone downhill as a result). I remember a Tesla Motors Club forum member then one day posting a picture of himself with Jerome at a Supercharger, and relaying to the other members that Jerome said he was on leave. Some members were distraught to hear he had gone on leave, since it wasn’t clear what that meant. Of course, being members of a Tesla forum, they got to work speculating on all manner of possibilities — why he was on leave, whether he had actually quit or been fired and simply had some vacation days left on the books, when he might come back if he was on leave, whether the whole story was actually just a cover and he was secretly working on something super cool. (Forums are fun. :D)
+
+As we now know, Jerome did just take a long vacation, and then came back to do more amazing things at Tesla. Talking to him in the Tesla Fremont factory in early March, he confirmed that he took a 6 month leave of absence starting in August of 2015. He was ready for a breather after years of fast-paced and surely challenging work at young Tesla. When he was rested up and came back, Elon asked him what he wanted to do, and that’s when Jerome introduced the idea of an electric semi truck program. The way Jerome put it, when he got back to work, Elon asked, “What do you wanna do?” Jerome said, “Let’s do a truck.” He explained to Elon why he thought it was a good idea and Elon was immediately on board. So, Jerome became VP of Trucks and Programs in January 2016. Jerome is still leading that program — and is super excited about it — but he’s also been President of Automotive since September 2018. He oversees various important aspects of Tesla’s business.
+
+The Semi project started in 2016 in a small building with a “super small team,” so the seed was watered and sprouted through the soil away from spying eyes. News of the program slipped out (on Twitter of course) on July 1, 2016.
+
+I briefly brought up Ian Wright, one of the five cofounders of Tesla. Ian went on to launch an extended-range electric semi truck business, Wrightspeed. We interviewed Ian in 2015 and again in 2017. It seemed logical that the two would have talked at some point about electric semi trucks. However, with different approaches to the problem and years after Ian left Tesla, I cautiously stepped into that one. Jerome said he hadn’t talked with Ian at all about the Tesla Semi program, and it didn’t seem like they had been in touch for a while, so we quickly moved on.
+
+Jerome also mentioned that he worked on the Model X, Model 3, and Gigafactory 1, where he has spent so much time that he ended up buying a house nearby.
+
+In the Fremont factory, Jerome added that he led construction of the “new general assembly thing” (aka, “the tent”). He clearly wasn’t a big fan of the term “tent.” He emphasized with much enthusiasm that there are housing structures in downtown San Francisco — housing people — from the same vendor.
+
+I asked a question on many people’s minds — will Tesla use the same system/structure in Shanghai for Gigafactory 3? Jerome said they wouldn’t, that they’d use “good old steel.”
+
+Kyle asked about the challenge of now developing or bringing to market several new vehicles — the Model Y, Pickup, Semi, new Roadster. However, Jerome noted that they always had things developing somewhat in parallel, so it’s not a big departure from what they’re used to.
+
+Jerome commented, as well, that the products are each quite different (except the 3 and Y, of course) and that he wanted to start slowly with the Semi. He said he wanted to start off using the Semis for Tesla (as we’ve seen from customer spy shots in recent weeks). He noted that they would use the Semi on routes between Fremont and “Giga” (which is apparently the internal nickname for Gigafactory 1). He highlighted that this would prove the reliability of the truck, which is huge for this market.
+
+A rather big bombshell was that he wasn’t aware of many large companies that hadn’t pre-ordered trucks, demonstrating strong interest in the product. Additionally, whereas he hasn’t been in touch much with car customers in recent years, he’s in very close contact with the potential Semi customers, and they continuously work together to develop what I assume will be the best semi truck product on the market. He called it a “journey together.”
+
+Regarding the various model production lines, Jerome noted what we basically gathered ourselves on the factory tour — the company is constantly updating, changing, improving the production process. He said he had something like 15 projects in his head — per line.
+
+Furthermore, he noted that he’s still working on better integrating the company’s automation-focused subsidiaries — Tesla Grohmann in Germany and Tesla Brooklyn Park (aka PERBIX).
+
+Surprisingly, we also talked about how the little things are often the big things that make an experience so much better — the self-presenting door handles on our Model S, the self-opening doors on the Model X, the buttons inside the Model 3 to open the doors, and, of course, the acceleration, silence, and infotainment systems of any Tesla.
+
+This is the first half of the summary of our interview with Jerome Guillen. Keep an eye on CleanTechnica for the second part soon-ish.
+
+Interested in buying a Tesla Model 3, Model S, or Model X? Need a referral code to get 5,000 miles of free Supercharging? Use ours by May 27: http://ts.la/tomasz7234 (or use someone else’s if they helped you more).
+
+Advertisement
+
+Have a tip for CleanTechnica, want to advertise, or want to suggest a guest for our CleanTech Talk podcast? Contact us here
+
+Appreciate CleanTechnica’s originality? Consider becoming a CleanTechnica Member, Supporter, Technician, or Ambassador — or a patron on Patreon

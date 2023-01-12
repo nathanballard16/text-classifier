@@ -1,0 +1,29 @@
+Google ramps up processor design efforts with new India hub
+
+Audio player loading…
+
+Google is working toward completely designing its very own processors, for both servers that power its services and the mobile devices that it sells to consumers, with the opening of a hardware design hub in Bengaluru, India, Reuters reports.
+
+Alphabet Inc, Google’s still-fresh parent company, has reportedly hired more than a dozen silicon engineers in Bengaluru in recent months with plans to quickly hire more. Reuters collected its report via LinkedIn profiles, job postings and speaking with two anonymous industry executives.
+
+According to Reuters, Google’s new processor design team is known internally as ‘gChips’ and contains expatriates from Broadcom, Intel, Nvidia and Qualcomm.
+
+This team is likely tuning and testing silicon chip designs made by Google’s existing hardware team in its Silicon Valley offices, and is likely to grow to up to 80 staff by the end of 2019, Reuters reports.
+
+Google declined to comment on Reuters’s report.
+
+Why design your own processors?
+
+It should be noted that Google has been working on its own server processor parts and smartphone image processing parts since 2014. The company’s Tensor Processing Unit has been popular in machine learning applications for years.
+
+Also, Apple and Facebook (and even Adobe) have been reported to be following similar paths toward designing 100% of the processors that power their products and services.
+
+The obvious reason for companies designing their own processors is cost. Why license processors and other components from Intel, Nvidia, Qualcomm and other component producers when you can spend a bit more than that upfront and reinvest in your business?
+
+Another reason is optimization, an advantage we’ve seen Apple play to incredible effect with its iPhone, iPad and Apple Watch lines of products. A Google-made smartphone with a 100% Google processor inside could be much better prepared to combat the next iPhone than one with yet another Qualcomm Snapdragon processor inside designed for every phone.
+
+It will be a long time before we see the fruits of Google’s labor, but don’t be surprised to eventually see Google touting its own processors much like Apple does every year it launches a new phone.
+
+These are the best processors for desktops we’ve tested
+
+Via Hexus

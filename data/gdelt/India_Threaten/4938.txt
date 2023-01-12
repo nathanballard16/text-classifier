@@ -1,0 +1,57 @@
+FDA Vows Tougher Testing as More Manufacturers Outsource
+
+U.S. regulators plan to revamp rules governing how medicines are manufactured, in an effort to ensure the safety of the nation’s drug supply as recalls of contaminated imports from developing countries widen.
+
+“We’ve seen a lot of instances of adulterated products — contamination, impurities — recently,” said Food and Drug Administration Commissioner Scott Gottlieb, who plans to leave his post next month, in an interview. “The underlying causes have been traced back to manufacturing, inadequate quality controls and generally poor management oversight.”
+
+A Bloomberg investigation this year found that manufacturers of generic drugs and their key ingredients in China, India and elsewhere, had in some cases destroyed or hidden testing data revealing quality failures from official records — and showed passing results instead. The FDA wants to force drugmakers to do more rigorous testing to make sure that pills used by millions of Americans meets basic safety and effectiveness standards.
+
+Currently, the FDA mostly relies on the industry to police itself, only sporadically inspecting manufacturing sites. That approach has been strained by the increasing proportion of generic drugs and drug ingredients made for the U.S. market in countries like China and India, where the regulator has few boots on the ground.
+
+The proposed rule changes will focus on the raw materials used to produce drugs. Active pharmaceutical ingredients, or API, are basic building blocks that make drugs effective against diseases and disorders. If they don’t meet certain specifications for strength and purity, then the medicines made from them may not work — or may even cause harm. Gottlieb said the overhaul is in its early stages and may take several years to complete.
+
+More than a dozen companies have recalled drugs known as angiotensin II receptor blockers in the past eight months for containing three different potential carcinogens. One of the most widely used is valsartan, which can be taken on its own or with others to treat hypertension or heart failure. The contaminated active ingredients were bought by drugmakers who used them in pills sold in the U.S.
+
+More Drugs Pulled
+
+Since the adulterated heart pills first turned up last July, more medicines have been pulled. Most recently, Torrent Pharmaceuticals Ltd., Hetero Drugs Ltd. and Aurobindo Pharma Ltd. — all based in India — recalled additional cardiovascular drugs for containing probable carcinogens earlier this month. Representatives for the companies couldn’t immediately be reached for comment.
+
+Western pharmaceutical companies have been increasingly outsourcing the making of active ingredients to India and China, where labor and other expenses are lower and U.S. regulators have less visibility. Drugmakers don’t have to say where they buy active ingredients, though the FDA has said that 80 percent come from outside of the U.S.
+
+At the same time, production issues with active ingredients have increased. Since 2015, the FDA has issued more than 282 warning letters to pharmaceutical companies related to manufacturing problems, according to data on the agency’s website. Of those, 70 involved active pharmaceutical ingredients. The numbers don’t include instances when companies were reproached for quality issues but were allowed to fix problems themselves without an official warning.
+
+One of the problems with active ingredients is highlighted in a warning letter the FDA sent Pfizer Inc. concerning the drug giant’s Hospira facility in the state of Tamil Nadu, near the southernmost tip of India.
+
+Among other complaints, the FDA said that the facility failed to report accurate results for quality checks on batches of certain active ingredients. The FDA redacted the number of batches involved, but said drugs that had received passing scores from the company then failed quality checks when retested in front of FDA inspectors.
+
+“Your quality system does not adequately ensure the accuracy and integrity of data to support the safety, effectiveness, and quality of the drugs you manufacture,” the agency said in the warning.
+
+The FDA banned Hospira’s plant from sending drugs to the U.S. in August, four months after it inspected it.
+
+Pfizer paused manufacturing at the Hospira facility after the inspection and then decided in January to cease production at the site, the company said in an emailed statement. The decision wasn’t due to the warning letter but was based on “significant long-term loss of product demand that makes manufacturing at this site unviable,” Pfizer said.
+
+The FDA’s monitoring of drug-manufacturing problems has drawn scrutiny from Congress, as well. The House Energy and Commerce Committee began looking into the agency’s manufacturing oversight after Bloomberg’s investigation revealed that surveillance inspections declined 11 percent in fiscal 2018 from a year earlier. The checks are used to make sure plants measure up to U.S. standards.
+
+Gottlieb has previously defended the agency’s approach to inspections, saying it reflects a smarter, more surgical line of attack that targets facilities based on a risk score calculated by the FDA.
+
+In addition to an enhanced self-testing regime, the FDA wants tougher water-purification requirements, Gottlieb said in the interview. Water is used in sterile-injectable drugs and to mix ingredients used in pills, and if it falls short of cleanliness standards it can introduce contaminants.
+
+The FDA last updated its manufacturing standards in 2008, meaning the agency has had to play catch-up with a fast-changing industry. Indian companies accounted for 38 percent of FDA drug approvals in 2018 through October 30, up from 33 percent in 2015, according to Morris Borenstein, a senior analyst at Moody’s. Over the same span, Chinese drugmakers accounted for 8 percent of approvals, up from 1 percent, Borenstein said.
+
+“We’ve seen a lot of instances of adulterated products — contamination, impurities — recently.”
+
+Dinesh Thakur, a whistleblower who helped the U.S. show systemic data-integrity problems at Ranbaxy Laboratories Ltd. facilities in India that led to a $500 million settlement in 2013, said updating the standards is a good move but questioned how the FDA can trust companies.
+
+In a March 2017 visit to a Dr. Reddy’s Laboratories Ltd. plant in Andhra Pradesh, near India’s southeastern coast, two FDA inspectors caught employees deleting computer files and lists of recent documents to avoid detection of what inspectors said appeared to be manufacturing records. Company officials initially denied that workers had destroyed data but capitulated when pressed by inspectors.
+
+Dr. Reddy’s didn’t receive a warning letter after the inspection, but did receive one for a 2015 inspection of the plant. The company didn’t respond to a request for comment.
+
+“What puts the fear of god in them if you misrepresent to the FDA, if you say things that are not true?” Thakur asked. “Where is the accountability? I honestly don’t know how effective it’s going to be.”
+
+Gottlieb, who will be succeeded on an acting basis by Ned Sharpless, director of the National Cancer Institute, said the overhaul was a big deal and that the agency has “gotten a lot more sophisticated on data integrity.”
+
+“It’s a significant modernization for the requirements that haven’t been changed in years,” Gottlieb said.
+
+Copyright 2022 Bloomberg.
+
+Topics USA China Manufacturing India Drugs

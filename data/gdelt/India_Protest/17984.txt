@@ -1,0 +1,49 @@
+Blaize™ emerges from stealth to transform AI computing; strengthens its presence in India
+
+Hyderabad (Telangana) [India] Nov 16 (ANI/BusinessWire India): Blaize™ has emerged from stealth unveiling a ground-breaking next-generation computing architecture that precisely meets the demands and complexity of new computational workloads found in artificial intelligence (AI) applications.
+
+In cadence with the development and as part of their growth strategy, the company has expanded its existing capacity in Hyderabad which can now accommodate 450 employees; thus giving more scope for hiring skilled engineers from India.
+
+Driven by advances in energy efficiency, flexibility, and usability, Blaize products enable a range of existing and new AI use cases in the automotive, smart vision, and enterprise computing segments, where the company is engaged with early access customers.
+
+These AI systems markets are projected to grow rapidly* as the disrupting influence of AI transforms entire industries and AI functionality becomes a "must-have" requirement for new products.
+
+"Blaize was founded on a vision of a better way to compute the workloads of the future by rethinking the fundamental software and processor architecture. It is a special day for the entire team in Hyderabad which has played a crucial role in helping us in realising this vision," said Dinakar Munagala, Co-founder and CEO of Blaize.
+
+"We see demand from customers across markets for new computing solutions that address the immediate unmet needs for technology built for the emerging age of AI, and solutions that overcome the limitations of power, complexity and cost of legacy computing," he added.
+
+Graph-Native Techniques Drive Huge Efficiency Gains
+
+The scope and capabilities of the comprehensive Blaize technology stack are unprecedented. The Blaize GSP architecture and Blaize Picassoa software development platform deliver breakthroughs in computational efficiency.
+
+The solution blends dynamic data flow methods and graph computing models with fully programmable proprietary SOCs.
+
+This allows Blaize computing platforms to exploit the native graph structure inherent in neural network workloads all the way through runtime.
+
+The massive efficiency multiplier is delivered via a data streaming mechanism, where non-computational data movement is minimized or eliminated.
+
+This gives Blaize systems the lowest possible latency, reduces memory requirements and reduces energy demand at the chip, board and system levels.
+
+Blaize GSP is the first fully programmable processor architecture and software platform that is built from the ground up to be 100% graph-native.
+
+While there are many types of neural networks, all neural networks are graphs. With the inherent graph-native structure, developers can now build multiple neural networks and entire workflows on a single architecture that is applicable to many markets and use cases.
+
+End-to-end applications can be built integrating non-neural network functions such as Image Signal Processing with neural network functions, all represented as graphs that are processed 10-100 times more efficiently than existing solutions.
+
+AI Application developers can now build entire applications faster, optimize these for edge deployment constraints, and run them efficiently using automated data streaming methods.
+
+"Blaize is very innovative, our important business partner," said Yukihide Niimi, CEO of NSITEXE and DENSO Advisory Board member.
+
+"DENSO is demonstrating leadership in many areas as the automotive industry undergoes extraordinary technology changes. NSITEXE was established to catch up such technology change and to accelerate the development of flexible compute IP solutions like DFP. NSITEXE is willing to work together with Blaize to boost the flexible Graph (Data Flow) compute technology ecosystem," he added.
+
+"I have been watching Blaize for several years and saw early on that their graph-native architecture would be particularly well suited to a wide range of AI and robotics workloads," said Schuyler Cullen, VP AI and Robotics, Samsung Strategy and Innovation Center.
+
+"I have been impressed by their rapid scaling in team, organization, and technology," he added.
+
+"The proliferation of AI across multiple industries and application areas is dependent upon robust, programmable, efficient, scalable, high-performance hardware, that extends AI processing from cloud datacenters through to the end device, server or appliance," said Aditya Kaul, Research Director of Tractica.
+
+"It's becoming clear that traditional processing architectures will not be enough to meet the demands of this new emerging market, with new techniques like graph-based computing showing promise. Success will be defined by combining new computing approaches with modular hardware and a deployment-oriented software stack, all of which is part of the Blaize value proposition from day one," he added.
+
+This content is provided by BusinessWire India. ANI will not be responsible in any way for the content of this article. (ANI/ BusinessWire India)
+
+

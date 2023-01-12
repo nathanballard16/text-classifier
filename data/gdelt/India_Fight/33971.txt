@@ -1,0 +1,59 @@
+Blockchain-powered startup Agri10x puts farmers first with a decentralised approach
+
+In 2016, when Blockchain was just a buzzword, Pankajj Ghode, Co-founder and CEO of Agri10x, and his team solely focussed on amplifying the income of farmers in the country. Quoting Prime Minister’s Narendra Modi’s vision to “better empower farmers”, Pankajj says he saw a way to complement it using Blockchain.
+
+“The current post-harvest management lacks humanness in its approach and is very fragmented,” he says. After harvest, a crop goes through cooling, cleaning, sorting, and packaging before moving to production. In this process, with its many middle-men, farmers almost never receive a fair price or get paid on time.
+
+To help farmers directly trade with the buyers without losing any of their actual earnings to intermediaries, Pankajj Ghode, Abhijith Naraparaju, and Sundeep Bose started Agri10x in 2016. It is a decentralised platform that creates a transparent ecosystem, which gives farmers more autonomy.
+
+“The major pain point of the current marketplace is that companies are able to easily manipulate supply and demand verticals to their benefit, irrespective of the effect it has on other market players”, says Pankajj.
+
+The journey and challenges
+
+A digital solutions expert, Pankajj comes with 20 years of experience in IT strategy, product development and digital transformation. He also consults for the Government of India. Abhijith is a Blockchain solution-architect and has implemented Blockchain architecture at a few fintech startups. Sundeep is also a Blockchain solution architect and a data scientist with two decades of experience in the IT sector.
+
+Team Agri10x
+
+For the founders of Agri10x, one of the first challenges was getting farmers on-board as they had to battle the obvious resistance of mindset. So the startup reached out to advisory companies that assist farmers with pricing commodities. It formed mutually beneficial agreements with these companies where the former would help sell farming commodities and the latter would on-board farmers.
+
+“The farmers were finally convinced because they saw the value addition that came along with our platform. It didn’t take long for them to spread the word within their fraternity, which helped the community grow,” Pankajj says.
+
+Since it’s a decentralised blockchain network, the data is secure and there is no scope for price manipulation. With the help of NLP (Natural Language Programming) tools, there would be no communication gaps between the farmers and the traders.
+
+The founder trio has on-boarded most of its farmers from Western Maharashtra from places like Pandharpur, Tasgaon, Indapur, Saswad, and Pune. Besides, the startup built its own influencer campaign and calls these influencers ‘Village Entrepreneurs’. These local ambassadors are responsible for maintaining the Agri10x community in a particular village.
+
+Stay Updated Get stories of change makers and innovators from the startup ecosystem in your inbox Please fill in this field. {{#error}} {{error}} {{/error}} {{^error}} Something went wrong. Try again later {{/error}} Welcome Onboard ! You have been successfully registered for our daily newsletter.
+
+Talking about the corporate sector, Pankajj says they are soon going to procure Haldirams and Pepsi as buyers as these corporations have to utilise a lot of processing material from rural areas.
+
+Decentralised business model
+
+The startup charges a trading fee of six to 10 percent, which is equally divided between farmers and traders. With a decentralised approach, both parties save a large amount of money, which would otherwise be spent on intermediaries. Pankajj says, the size of the trade itself is large as volumes start from 200 tonnes and go on up to 1,000 tonnes.
+
+The bootstrapped startup has a 20-member team, and Pankajj claims that the founders have already spent over a million dollars into building it.
+
+He says, “We first wanted to test the pilot to check it with farmers and traders. Now that it is producing a good yield, we have started to reach out to investors.”
+
+At present, the Gross Merchandise Value (GMV) of the startup is at Rs 3.8 crore and Agri10x is looking to hit Rs 60 crore GMV by the end of the year. Pankajj says, “We have added another revenue stream with a subscription model from quality centres and warehouses. That is where we are expecting to make more revenue.”
+
+Farmers - the forgotten heroes
+
+Despite the fact that 70 percent of Indian households are still dependent on farming, farmers across the country have become the forgotten heroes of the nation over the last few decades.
+
+But several startups have come to their rescue with technology in hand. Agritech startups like Oxen Farm Solutions, Agribolo, Gold Farm, Trringo, farMart are also working tirelessly to change this scenario.
+
+Adopting the farming-as-a-service (FaaS) model, numerous agritech startups are now endeavouring to bring forth farming-related advanced technological mechanisms to help farming become a sustainable and profit-yielding enterprise.
+
+According to YourStory Research, at least 13 agritech startups raised a total of (disclosed amounts) around $65.6 million last year, up over 21 percent from $54 million across 18 deals in 2017.
+
+What lies ahead for Agri10x?
+
+Pankajj explains that farmers do not have online personas or identification in India. “Agri10x gives this identification and consumers know which farm and farmer a product comes from,” he says.
+
+The team is now working on listing selective commodities and is planning to add logistics services as well. Selecting a commodity and providing the right buyer is a challenge as the availability of commodities is subject to change with season.
+
+To tackle this, Agri10x is now looking to raise funds so that the startup can cumulatively list all commodities across all kinds of traders using a data-driven approach and adhering to crop calendars.
+
+It is now expanding its operations to Telangana, Bihar, Madhya Pradesh, and Andhra Pradesh, and is eyeing global expansion as well.
+
+(Edited by Saheli Sen Gupta)

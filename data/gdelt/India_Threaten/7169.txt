@@ -1,0 +1,59 @@
+MannKind Q1 Call - The Good, Bad, And Ugly (NASDAQ:MNKD)
+
+MannKind (MNKD) hosted its Q1 quarterly call on May 7th. The company highlighted the results from the business, and as expected, presented the highlights in a manner that accentuated the positives.
+
+First things first, I overestimated gross revenue and net revenue. I underestimated the spending on advertising. I was spot on in the cash assessment. I will adjust models and some assumptions accordingly so that my projections will be as accurate as possible for readers.
+
+Highlights From The Company
+
+1Q 2019 Total Revenue was $17.4 million
+
+1Q 2019 Afrezza Net Revenue was $5.1 million; +49% vs. 1Q 2018
+
+1Q 2019 Collaborations and Services Revenue was $12.4 million
+
+1Q 2019 net loss per share $(0.08) vs. $(0.25) in 1Q 2018; +68% improvement
+
+Received first $12.5 million milestone payment under United Therapeutics License and Collaboration Agreement
+
+Paid $2.5 million to Deerfield on May 6, 2019, for debt maturity
+
+New scientific data released at ATTD and ACCE and late-breaking abstract accepted for release at ADA in June
+
+The Assessment
+
+The glaring items in the call relate to the $9.3 million spent on television ads, the apparent lack of top and bottom line contribution from a direct selling program, and the widening gap between Afrezza revenues and costs. There is no glossing over the fact that a $9.3 million television ad campaign saw scripts and revenue drop from the previous quarter where there was minimal advertising. Over the course of the quarter, passionate investors were banking on the direct selling having a material impact, despite my cautions to be very conservative with assumptions.
+
+The bottom line is that the ad campaign was an apparent flop, and that shows through when one looks at the revenues versus costs for the past few years.
+
+(Charts Source - Spencer Osborne)
+
+As you can see in the chart above, Afrezza costs went above the $25 million mark for the quarter. You can also see that on a quarter-over-quarter basis, the gross revenue and net revenue dropped. Some data points:
+
+On a quarter-over-quarter basis, the gross revenue per reported script dropped from $1,222 to $1,060
+
+On a quarter-over-quarter basis, the net revenue per reported script dropped from $692 to $656
+
+On a quarter-over-quarter basis, the cost per reported script rose from $2,515 to $3,333
+
+It does not take much imagination to arrive at a conclusion that the $9.3 million spent on television ads was not nearly as effective as the company or investors hoped for.
+
+An interesting dynamic is that the retail sales number to gross revenue number was a 31% reduction versus what has traditionally been a number at about 17%.
+
+The cash situation was exactly what was expected. Giving consideration to the $12.5 million milestone in Q1, the number I had for the end of the quarter was $59.9 million. The company reported $59.8 million. The good news here is that despite being on the money in Q1, I will need to trim the cost line in my model as we move forward to account for a lack of advertising. Essentially, the weekly cash burn rate will move from $2.1 million to somewhere in the neighborhood of $1.8 million for Q2.
+
+MannKind did pay Deerfield $2.5 million in debt on May 6th. I had anticipated that the company might use shares to pay the deal, and while cash was used, it is indeed possible that shares through the ATM were used. Either way, the cash situation remains about the same. The company has cash through the end of a little past the end of Q3 at this juncture. With an anticipated $12.5 million milestone coming in the second half of the year, the cash runway could be until the end of November. Based on the fact that MannKind has stated that obtaining the milestone is within its own control, and with the need for cash happening, I will assume an infusion at the end of Q3.
+
+This is where things get interesting. If the milestone comes through, and if the company controls costs, it can have just a 4-week gap between running out of cash and seeing warrants come into play which could infuse $40 million. With its renewal of the ATM facility, the company could float that needed $6 million almost invisibly if it starts use in the near term. Another way to bridge the gap is to handle the remaining Deerfield debt with shares either directly with Deerfield or through the ATM. All of that being said, relying on warrant money can be a fool's game. One analyst popular with passionate MannKind investors said several times that the $2.38 warrants would get exercised. As we all know, they expired worthless.
+
+The bottom line is that while there is a potential pathway to reach the end of the year with minimal dilution, it would be cutting things way too close for comfort. A MannKind with less than $25 million in cash is a MannKind that lacks any leverage in a severe way. Look no further than the deal United Therapeutics (UTHR) got on Dryvaso, for example. To remain in a zone of cash comfort, MannKind may look to make some move on the dilution, debt, or deal front to bolster cash in mid-Q3.
+
+What should be clear to investors is that Afrezza faces severe challenges in being marketed effectively. Delivering a gross profit because voucher costs were removed from the cost of goods sold line and replaced with rebates that hit the gross to net deduction line is a hollow victory that sound good in isolation to the naive but boils down to losses.
+
+In my opinion, MannKind will be assessing the Afrezza strategy closely. With advertising gone, it seems clear that another ramp-up in the number of sales reps is needed to deliver at least an appearance of script and revenue growth. I feel investors need to curb their enthusiasm about the Direct Selling program. First of all, these scripts have worse margins. Secondly, if the program gets too robust, we could see insurers starting to demand lower prices. In my opinion, if direct selling gets above 15% or so of overall sales, it could make waves that are unfavorable to the higher-margin insurance sales.
+
+United Therapeutics has a targeted launch of Dryvaso between 2022 and 2025. If you are counting on revenue from other product sales anytime soon, you are fooling yourself. After the anticipated $12.5 million milestone in the second half of the year, there will be only $25 million more in Dryvaso milestones over the next 3 years. The undisclosed molecule has two $15 million milestones attached, but United controls that progress more so than MannKind.
+
+That brings us back to how this company finances itself over the next three years. Long ago, I suggested that the company sell off Afrezza for a royalty and manufacturing contract and concentrate on being a pro-drug developer via the pipeline and existing products. I would like to see at least two candidates brought forward this year, even if raising the cash to accomplish this is dilutive. An all pre-clinical pipeline is simply not sexy. This company needs to get clinical, and fast.
+
+It is getting very clear that a dramatic shift in strategy needs to happen sooner rather than later. Afrezza in Brazil, India, and even in pediatrics is not going to cut it. All of the progress in cost-cutting was more than offset by the advertising spending, and something about Afrezza sales in Q1 just makes one shake their head. Stay tuned!

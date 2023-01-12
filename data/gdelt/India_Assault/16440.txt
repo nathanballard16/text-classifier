@@ -1,0 +1,39 @@
+Researchers employ low-cost sensors to detect and track the origins of air pollutants in India
+
+A sunset from the rooftop of a building near Connaught Place, where low-cost sensors were co-located with reference instruments for two years. Credit: David Hagan
+
+At any moment in Delhi, India, a resident might start their car, releasing exhaust that floats into the atmosphere. In northwest India, a farmer might set fire to his field after the wheat harvest to clear it quickly, releasing smoke that'll be carried by the wind. A small family might burn wood to light their stove, releasing soot into the sky. Delhi, a city which boasts a population of over 28 million residents, bustles with activity at all hours of the day and night. And as it grows—so does its pollution.
+
+The pollution, which sometimes manifests as thick smog, respiratory illness, and disease, is the focus of many who hope to identify and eliminate its sources. But to do that accurately, the pollution must be tracked by research-grade air quality monitors that measure pollutants including particulate matter, sulfur dioxide, nitrogen dioxide, ozone, and more, which can cost upwards of hundreds of thousands of dollars.
+
+Low-cost sensors, which have recently begun to be commercialized, offer scientists, policymakers, and the public the opportunity to detect pollution without high overhead costs—but not without some tradeoffs. Jesse Kroll, a professor in the MIT departments of Civil and Environmental Engineering and Chemical Engineering, researches the instruments and methods used to conduct atmospheric chemistry research. "In terms of nearly every measurement metric—precision, accuracy, sensitivity, interferences, drift, and so on—the low-cost sensors fall far short of what research-grade equipment can deliver," he says. "This is a major limitation, but it usually isn't made clear by the sensor manufacturers."
+
+As a result, Kroll says, the use of low-cost sensors to detect pollution remains poorly characterized. But the sensors' lower cost, lower energy consumption, and smaller sizes incentivize their adoption, so their use has expanded significantly over the past few years in countries such as China and India. "The use of these instruments is really outpacing our efforts to understand what their data actually mean," Kroll says.
+
+The challenge to clarify and expand the capabilities of low-cost sensors in pollution detection inspired a recently published study led by Kroll and graduate student David Hagan that compared the performance of low-cost sensors with research-grade equipment in Delhi—and found a new capability of the devices.
+
+On the India Institute of Technology's Delhi campus, research-grade instrumentation already sampled the air from the fourth floor of a building in Hauz Khaz, set up and maintained by Kroll and Hagan's collaborators, Josh Apte and Lea Hildebrandt of the University of Texas at Austin. "We jumped at the opportunity to be able to co-locate our instruments with theirs to prove how well ours could work," Hagan says. But it wasn't easy: In Delhi, he says, the particulate matter levels were so high that their sensors would initially foul easily, and the sensors risked overheating on hot days. "Designing around that is a fun engineering challenge," Hagan says.
+
+After overcoming those challenges, the low-cost sensors and research-grade monitors ran simultaneously over a six-week period in winter 2018, sampling the air from the fourth-floor balcony of a laboratory. After analyzing the data captured, the researchers found that the low-cost sensors, which measured both gases and particles, not only captured big-picture air quality and pollutant levels, but also could be used to infer the sources of pollutants, even those that the sensors cannot detect directly.
+
+Graduate student Sidhant Pai repairs low-cost air quality sensors near Connaught Place in Central Delhi. Credit: David Hagan
+
+By applying a type of multivariate analysis called non-negative matrix factorization, the researchers were able to identify, disentangle, and infer the sources that contributed to the total signal detected by the low-cost sensors, and compare those results to the more detailed measurements collected by the research-grade monitors.
+
+That analysis revealed that the total signal comprised of a combustion factor as well as two other factors, and was characterized by the particles measured from the air. The combustion particles, which constitute a large fraction of the total particulate matter, are too small to be detected by the sensors themselves, but sensor measurements of other co-emitted pollutants, such as carbon monoxide, allowed them to be inferred nonetheless.
+
+"These low-cost sensors can be used for more than just making routine measurements, and can actually be used to identify sources of pollution that can lead of a better understanding of what we breathe," Hagan says.
+
+Even further, the data collected by the low-cost sensors captured enough information about ambient Delhi pollution that the researchers could distinguish between primary sources of pollution, or directly-emitted particles, and secondary sources, those particles formed via chemical reactions after emission in the atmosphere.
+
+Those types of information could make it easier to understand how air quality varies around the world. "One of the strengths of low-cost sensors is that they can provide information about air quality and pollution sources in places that are under-studied—and many of these places, such as cities in the developing world, tend to have some of the worst pollution in the world," Kroll says.
+
+"Using these low-cost sensors, we can really understand the spatial and temporal heterogeneity of air pollution and human exposure," Hagan says. "That is much more relevant to how people actually live their lives."
+
+The results have already inspired future studies. "This is a crucial first step in improving urban air quality," Kroll says. "We'd like to see if we can extend it to other environments and other types of pollution as well. This includes not only other polluted cities, but also relatively clean ones, such as Boston."
+
+Explore further Air quality sensors track pollution
+
+More information: David H. Hagan et al. Inferring Aerosol Sources from Low-Cost Air Quality Sensor Measurements: A Case Study in Delhi, India, Environmental Science & Technology Letters (2019). Journal information: Environmental Science & Technology Letters David H. Hagan et al. Inferring Aerosol Sources from Low-Cost Air Quality Sensor Measurements: A Case Study in Delhi, India,(2019). DOI: 10.1021/acs.estlett.9b00393
+
+This story is republished courtesy of MIT News (web.mit.edu/newsoffice/), a popular site that covers news about MIT research, innovation and teaching.

@@ -1,0 +1,45 @@
+Parliamentary Panel Summons Facebook
+
+Fraud Management & Cybercrime , Social Engineering , Social Media
+
+Parliamentary Panel Summons Facebook
+
+Action Aimed at Curbing Fake News Before Elections
+
+Facebook's headquarters in Menlo Park, California (Photo: Facebook)
+
+A parliamentary panel in India has summoned representatives of Facebook, its messaging services WhatsApp and photo-sharing app Instagram to appear early next month to discuss how to safeguard citizens' rights on social media.
+
+See Also: Splunk Security Predictions 2021
+
+In a circular late on Thursday, the parliamentary committee on information technology, chaired by Anurag Thakur, a lawmaker from the ruling government, said it would hear the views of officials from Facebook and its units on March 6.
+
+The move is seen as an attempt by the government to curb fake news and social media influence before the Lok Sabha elections, which are scheduled to take place within a few months.
+
+Earlier, the panel had summoned Twitter CEO Jack Dorsey to appear before it.
+
+"The decision to summon global companies is great. I hope rationality prevails," says Rahul Sharma, founder of The Perspective, a consultancy that focuses on cyber policy. "Having said that, the committee needs to show a proactive approach on other issues like privacy."
+
+In the wake of the Facebook-Cambridge Analytica scandal, governments across the globe are demanding social media and internet companies come clean about how they use customer data.
+
+Facebook, WhatsApp and Twitter have overhauled policies to boost transparency ahead of India's general election and rein in misinformation. For example, Facebook has partnered with more news agencies and fact checkers to have a check on fake news. Similarly, WhatsApp has also introduced features to check the spread of fake news. For example, a message cannot be sent to more than five people.
+
+Meanwhile, Google this week launched a program to train journalists about fact checking before election.
+
+Facebook in Spotlight
+
+The U.K. Parliament's Digital, Culture, Media and Sport Committee recently warned that "the ubiquity of social media" had a polarizing effect that amplified "propaganda and politically aligned bias," which "reduced the common ground on which reasoned debate, based on objective facts, can take place." The report accuses Facebook in particular of actively attempting to block efforts to understand how its targeted advertising ecosystem functions, acting as if it has a monopoly on personal information and generally behaving "like 'digital gangsters' in the online world, considering themselves to be ahead of and beyond the law."
+
+Last October, India's Ministry of Electronics and IT asked Facebook for an update on the number of Indian users impacted by a 2018 data breach that that affected 50 million users worldwide.
+
+The breach was the result of the single sign-on feature on Facebook that enabled users to link access other services, including mobile applications, other social media accounts and music streaming platforms. For example, in India, users can log into third-party apps such as Swiggy, Zomato, Hotstar and FreshMenu, among others, through Facebook without creating a unique profile.
+
+Although Facebook has said it fixed the vulnerability that led to the cyberattack, it has not yet identified the attackers, and their motive remains unclear.
+
+Amending the IT Act
+
+In an effort to make social media companies as well as other intermediaries more responsible for content they host, the Indian government has proposed to amend the IT Act.
+
+Under the proposed amendment, intermediaries would be required to track all the content that gets posted on their websites and if anything is found that is "objectionable" it would have to be removed. The government has not clearly defined what content meets the "objectionable" definition, but it appears the target is fake news and hate speech.
+
+"While it is true that government is keeping a close tab on these companies who until now enjoyed a free run, the problem runs much deeper," says Jiten Jain, CEO at the India InfoSec Consortium. "The problem is with the way these companies function, and it is not something that I expect to change immediately."

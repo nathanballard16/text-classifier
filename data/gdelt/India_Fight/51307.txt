@@ -1,0 +1,53 @@
+Facebook nixes billions of fake accounts
+
+SAN FRANCISCO: Facebook on Wednesday said it has taken down some 5.4 billion fake accounts this year in a sign of the persistent battle on social media against manipulation and misinformation.
+
+Amid growing efforts to create fraudulent accounts, Facebook said it has stepped up its defenses and often removes the accounts within minutes of their being created.
+
+“We have improved our ability to detect and block attempts to create fake, abusive accounts,“ the internet firm said in its latest transparency report.
+
+“We can estimate that every day, we prevent millions of attempts to create fake accounts using these detection systems.”
+
+Facebook believes that fake accounts — where someone pretends to be a person or entity which does not exist — represented about 5% of its worldwide active users during the second and third quarters of this year.
+
+The social network has invested heavily in finding and taking down accounts crafted to deceive people about where information is originating, particular when spread as part of coordinated campaigns with political or social agendas.
+
+The detailed report also showed that government demands for user information hit a new high, led by the US.
+
+Overall requests by governments for Facebook user data rose 16% to 128,617 in the first half of this year.
+
+“Of the total volume, the US continues to submit the largest number of requests, followed by India, the UK, Germany and France,“ the report stated.
+
+Facebook received 50,741 requests from the US for information regarding 82,461 accounts, with roughly two-thirds of those done in a way prohibiting the social network from letting users know about inquiries, the report showed.
+
+“We always scrutinize every government request we receive for account data to make sure it is legally valid,“ Facebook deputy general counsel Chris Sonderby said in an online post about the latest figures.
+
+“This is true no matter which government makes the request.”
+
+Curbing the disturbing
+
+In a detailed transparency report that, for the first time, included photo and video-oriented social network Instagram, Facebook also highlighted progress tackling terror, hate, suicide, child porn, and drug related posts.
+
+“While we are pleased with this progress, these technologies are not perfect and we know that mistakes can still happen,“ Facebook said.
+
+“That’s why we continue to invest in systems that enable us to improve our accuracy in removing content that violates our policies while safeguarding content that discusses or condemns hate speech.”
+
+Facebook reported that it removed about 11.6 million pieces of content that broke is rules banning child nudity or sexual exploitation of children from the main social network, compared with half that amount in the first three months of this year.
+
+Some 754,000 pieces of such banned content were removed from Instagram in the recently ended quarter, up from 512,000 in the prior three-month period, according to Facebook.
+
+Millions of pieces of content related to drug sales were also removed from Facebook and Instagram in the recently ended quarter, the report indicted.
+
+In a conference call discussing the report, Facebook chief Mark Zuckerberg and other executives stressed how combining company resources allowed it to better tackle unwanted content and activity at both Instagram and the leading social network.
+
+Zuckerberg has responded to political rhetoric calling for the breakup of Facebook, in part, by arguing that such a move would actually make it harder to fight problems such as malicious content or activities.
+
+“This is something we invest billions of dollars into every year,“ Zuckerberg said of the battle to keep Facebook safe and secure for users.
+
+“That certainly weighs on profits, but there is no question it is the right thing to do.”
+
+Zuckerberg renewed his call for regulation that called for all internet firms to openly disclose details about the efficiency of efforts to stop the spread of harmful content on their platforms.
+
+“If we can’t understand the true prevalence of harmful content across systems, we can’t stop it,“ Zuckerberg said.
+
+While fielding questions, Zuckerberg confirmed Facebook is looking at ways it might modify its controversial policy of allowing political ads that include proven lies. — AFP

@@ -19,7 +19,7 @@ warnings.filterwarnings("ignore")
 # Load Dataset
 # TODO: PLACE DATASET LOCATION/DATASET FILE HERE **Must be a CSV FILE**
 df_path = "D:/Graduate School/text-classifier/data/"
-df_path2 = df_path + 'News_dataset.csv'
+df_path2 = df_path + 'News_India_dataset.csv'
 df = pd.read_csv(df_path2, sep=';')
 
 # Create a graph to see how many articles exist per category
@@ -76,8 +76,9 @@ text = bars.mark_text(
 # Graph news length distribution
 df['News_length'] = df['Content'].str.len()
 plt.figure(figsize=(12.8, 6))
-sns.distplot(df['News_length']).set_title('News length distribution')
 
+sns.distplot(df['News_length']).set_title('News length distribution')
+plt.savefig("images/india_dataset/dataset_bar.png")
 # Some analysis on the news data [removes outliers] **MAY NEED TO CHANGE THE QUARTILE**
 df['News_length'].describe()
 quantile_95 = df['News_length'].quantile(0.95)
@@ -86,7 +87,7 @@ df_95 = df[df['News_length'] < quantile_95]
 # Graph the new data set based off the removed outliers
 plt.figure(figsize=(12.8, 6))
 sns.distplot(df_95['News_length']).set_title('News length distribution')
-
+plt.savefig("images/india_dataset/dataset_bar_updated.png")
 # See how many articles contain over 10000 characters
 df_more10k = df[df['News_length'] > 10000]
 print(len(df_more10k))
@@ -97,12 +98,12 @@ print(len(df_more10k))
 # Graph full set based off of article length
 plt.figure(figsize=(12.8, 6))
 sns.boxplot(data=df, x='Category', y='News_length', width=.5)
-
+plt.savefig("images/india_dataset/full_set.png")
 # Graph set off reduced article length [REMEMBER ALL OF THIS CAN BE CHANGED]
 plt.figure(figsize=(12.8, 6))
 sns.boxplot(data=df_95, x='Category', y='News_length')
-
+plt.savefig("images/india_dataset/95_set.png")
 # Save the dataset as a pickle to begin the raw text analysis to prepare for training
 # TODO: REPLACE FILE NAME AND LOCATION
-with open('data/News_dataset.pickle', 'wb') as output:
+with open('data/News_india_dataset.pickle', 'wb') as output:
     pickle.dump(df, output)

@@ -1,0 +1,15 @@
+Cloudflare stops giving services to 8Chan after mass shootings
+
+Internet infrastructure and security company Cloudflare has made a significant announcement after several mass shootings in the US. Cloudflare CEO Matthew Prince shared this decision in a dedicated post on the Cloudflare blog. Prince shared the details about the decision on the post while sharing what one can expect after this move. According to the post, the suspected terrorist gunman behind the El Paso shooting was inspired by 8chan. Evidence indicates that the terrorist posted a long post on 8chan right before going on the attack in the El Paso Walmart. The violent attack left 20 death with more injured. Also Read - Warp by 1.1.1.1 is a new VPN service by Cloudflare that promises faster speed and security
+
+The reason behind Cloudflare decision
+
+Talking about the decision, Prince added that El Paso attack was not an isolated incident for 8chan. The announcement post went ahead to provide the example of the terror attack in Christchurch. Prince revealed that nearly the same thing happened on the website before the attack in Christchurch. In fact, the terrorist responsible for El Paso attack even referred to the Christchurch attack. Cloudflare revealed that the attacker seemed to be inspired by the unmoderated discussions on 8chan. These discussions seemed to glorify the Christchurch incident. Prince also shared a second example where the suspected attacker of California synagogue shared an open letter on the website. Also Read - How to set up Cloudflare 1.1.1.1 privacy-focused DNS service on your Android and iOS devices
+
+The post revealed that 8chan has repeatedly proven itself to be a cesspool of hate . The problems are likely to be because of the lack of moderation on the website. Cloudflare added, We just sent notice that we are terminating 8chan as a customer effective at midnight tonight Pacific Time. The company clarified that 8chan has not broken any laws. However, 8chan it has created an environment that revels in violating its spirit . The company went on to add that it did not take the decision lightly.
+
+What to expect?
+
+Cloudflare explained that has continued to be open with its policies to ensure that companies using the service for their platforms can set their own policies. This openness has pushed Cloudflare to tolerate reprehensible content on its infrastructure. The company clarified that 8chan crossed a line due to its direct involvement in tragic events and lawlessness.
+
+Cloudflare also noted that this move likely may not change the situation. It recalled a similar incident involving The Daily Stormer website. The company stated that this will likely interrupt 8chan for some time but it is likely to be back using other service providers. Prince added that this move does nothing to fix the problem of hateful websites online, cause of mass shootings and more. The post added that Cloudflare has tried its best to cooperate with the law and monitor potential hateful websites. However, the company is uncomfortable to play this role of content arbiter and does not plan to exercise these powers often.

@@ -1,0 +1,47 @@
+Preventing The Next 26/11: Intelligence And India’s Security Apparatus – Analysis
+
+By IPCS
+
+By Alok Joshi*
+
+There is a long-standing debate on the role, means, and end goals of intelligence. Is dissemination the purpose? Do ownership issues come into play between intelligence and law enforcement only in the event of success or failure? Such issues that bedevil the current debate are self-defeating and certainly not in consonance with the challenges that India faces. Across the world, intelligence agencies have restructured themselves to be embedded in operational work – it is no longer about ‘them’ and ‘us’. Instead, they focus on building synergies, enhancing their technological wherewithal, and working out the best processes that can deliver the greatest advantages. For this to take place in India, there must be better dialogue between various arms of the security apparatus and serious thinking on how best to use available resources and anchoring new technologies.
+
+The events of 26/11 provide an instructive backdrop to discuss the range of technologies that allow a state to prepare for similar security eventualities. Institutional changes are important, particularly in the interplay between intelligence and executive policing, to absorb and benefit from these technologies. This is not to critique the way events were handled in 2008, nor an attempt to cover every aspect related to it. Instead, it is a look at expanding the current discourse on the possibility of such a situation recurring, and India’s preparedness to meet threats with all the resources at its command. This article will limit itself to the technologies that are available to India today, and will presuppose the development of advances in big data analytics and Artificial Intelligence (AI).
+
+The first consideration is of the initial inputs regarding the likely threat to Mumbai from a seaborne vector, with the identification of some specific targets. It is now generally accepted that any operation of such magnitude would require advance planning of at least 3-6 months to mature and be ready for execution. What are the options if a similar threat assessment is received today? In the author’s view, the initial discussion between intelligence and law enforcement should focus on a set of questions that could be instrumental in identifying gaps in existing knowledge about the nature of the threat, and help better appreciate the potentially catastrophic consequences of a likely future event:
+
+Why is the threat emanating at this stage?
+
+Are there any geopolitical factors that could incite or encourage adversaries? Are there any internal political dynamics involved?
+
+Which groups are likely to give effect to such a threat?
+
+What is the current interplay of such groups? Are they competitive or collaborative?
+
+What is their current standing with Pakistan’s Inter-Services Intelligence (ISI)?
+
+What are their linkages within India?
+
+What is the information available about the principal players and their movements over the preceding months?
+
+Today, India is in a much better position to elicit answers to these questions largely due to ingresses made into the databases of militant organisations and other key institutions in Pakistan. Photographs of affiliated activists and over ground workers culled from social media and cyber operations are now in possession – this could be the starting point of enquiries. When this stage is reached, an assessment of whether cooperation through India’s liaison relationships with other countries is required for both human intelligence (HUMINT) and technical coverage must be made. For a meaningful assessment, it is essential for each agency to ensure that their databases are effectively populated and their integrity maintained.
+
+A close look at the likely targets of any terror strike must follow. LIDAR’s surveying capabilities can provide precise details of such targets; this includes not only structural details but cues to work out the best angles from which to protect or approach a target. LIDAR imagery can also create a virtual 3D environment to facilitate mock drills to familiarise security forces with the geophysical opportunities and constraints that can deter or give a fillip to operations in progress.
+
+In addition, CCTVs are deployed on a large scale as a part of megacity policing. While they are currently utilised for post-incident investigations, the preventive aspects of CCTV coverage must also be exploited. This is possible only if there is a strong and comprehensive database of suspects that can provide comparative results. The concerned agencies can also work out algorithms to collate images of suspects, which involves specificity drawn from the generic profile construction of a militant suspect from a particular region, including voice matches. To be sure, a number of false positives may also be produced, but the exercise would still act as a sieving mechanism, and more importantly, as a deterrent.
+
+Moving forward to the stage of operational deployment, there are now technologies available to enable close monitoring of any crisis situation and backhaul data from a variety of sources. An operations room that can monitor a developing situation in real-time and give ground feed to decision-makers is accessible to most city-based forces. In this regard, the deployment of drones along with the ops teams is critical. Drone imagery must be made available to the consumers as quickly as possible, and simultaneously fed into a centralised data base for future reference.
+
+One of the principal requirements of policing in such situations is secure communications, both for maintaining close coordination among various teams as well as to jam those of the adversary. Today, capabilities exist to geo-fence areas in a closed environment and allow only white-listed devices to function. There is also a need to keep track of what is being projected on social media, given that exaggerated accounts or deliberate disinformation often give rise to rumour mongering and result in communal and law and order disturbances.
+
+With the assistance of the India Navy and Coast Guard, India possesses the ability to track any non-registered shipping and also receive alerts if an Indian flag vessel is in distress in the face of a seaborne threat. Satellite communications among the suspect vessels can be closely monitored, and underwater sensors in proximity to select vulnerable targets can also be deployed.
+
+The management of databases is going to be the key to success in policing, especially in mega-cities, in the near term. Big data offers possibilities of target discovery and locking, and the activation of various sensors available in the cyber, telecom and/or geospatial fields to take the entire exercise to its logical conclusion. One other advantage of working on databases is the availability of historic data for deeper insight. There are certain projects at various stages of fruition in the areas of smart munitions and autonomous weapons that can have a multiplier effect for India’s offensive capabilities.
+
+Community outreach is another important aspect of inter-agency coordination. This involves tapping into all stakeholders that have the expertise to offer solutions, whether government or non-government. There is considerable talent that is yet to be harnessed to develop holistic solutions for national security. Governmental process and systems, too, much be adapted to current contexts, particularly in the areas of recruitment or induction, and in procurement. It is certainly within India’s capacity to configure solutions that both use existing resources and take advantage of new developments, such as the opportunities presented by technology, to meet evolving security challenges.
+
+No two situations develop on exactly similar trajectories, and it is possible that the next terror event is a combination of physical and cyber attacks or even low-level biological weapons. A combination of human resources and technological capability offers a template of solutions that India’s senior leadership must consider in all sincerity. Institutional mechanisms, too, will need to be reassessed to give the personnel working in the technical domains due importance in the country’s security architecture. Command and control structures will likely need modification to ensure that information flowing from the technical domain is absorbed, worked on and feedback given to re-calibrate sensors.
+
+Customising available technologies as per the needs of security agencies and ensuring that they work in synergy with other wings of the police while refurbishing India’s security architecture is admittedly ambitious, but it must be addressed head-on. To ensure effective outcomes from the various technologies now available, doctrines and organisational structures must be reviewed, and if need be, revised.
+
+*Alok Joshi is former Secretary, Research and Analysis Wing (R&AW), and former Chairman, National Technical Research Organisation (NTRO), Government of India.

@@ -1,0 +1,65 @@
+Zika: Researchers Are Learning More About The Long-Term Consequences For Children
+
+In 2015, Zika virus swept through Brazil and the Americas. It was the first time a mosquito-borne virus was known to cause severe birth defects, and the World Health Organization declared it a "public health emergency that warranted a global response."
+
+"This was a truly unprecedented phenomenon," says Dr. Albert Ko, an epidemiologist at the Yale School of Public Health who has worked in Brazil for over two decades. "There was a new, emerging pathogen in the world." The pandemic's emergency status was lifted in November 2016. But it left more than 3,700 children born with birth defects — the most severe of which is microcephaly, where babies are born with small heads and brain damage — in its aftermath.
+
+In the three years since it ended, the pandemic has become an object of obsession for scientists, who have published more than 6,000 research papers about it. What did they conclude? To find out, Ko and two colleagues reviewed a selection of those publications. They found that researchers have been able to follow long-term health consequences in children infected with the virus before birth. But progress on beating the pandemic turned out to be an impediment to further research into vaccines and diagnostics that could help prevent other epidemics in the future.
+
+Their new paper, out Wednesday in the New England Journal of Medicine, finds that Zika's origins and effects are complicated, that outbreaks are still happening and worrisome in Asia, and that we are ill-prepared for the next time Zika hits.
+
+Here's what they found:
+
+Good news: The percentage of children being born with microcephaly to mothers who contracted Zika is lower than epidemiologists initially thought.
+
+Bad news: Researchers are finding that children who are born asymptomatic can develop Zika-related problems later on.
+
+Of the pregnant people infected with Zika virus, studies show that just 5%-14% give birth to children with signs of congenital Zika syndrome (which can cause developmental issues with their brains and vision), and a 4%-6% subset have children with microcephaly.
+
+That's a lot lower than researchers initially thought, and it means that some 70%-80% of pregnant women who get Zika don't transmit the infection to the child. And even when they do, some 10%-20% of babies with Zika are born with no initial signs of birth defects.
+
+Unfortunately, researchers are also discovering that babies with Zika who seem fine at birth can exhibit issues with seizures, vision and brain development in their first year and perhaps beyond. "As we're following these babies," says Ko, "maybe what we're seeing is just the tip of the iceberg. There may be other, more subtle defects that affect language and cognition [later on]."
+
+It's not totally clear what causes some babies to be born with birth defects and not others, but researchers have narrowed the causes. They know for sure that it doesn't come from exposure to pesticides or vaccines. Timing seems important: Mothers who are infected in the first trimester are two to three times more likely to have babies with complications. It may also have to do with a parent's genetic makeup, and previous exposure to other viruses like dengue.
+
+Good news: We learned a lot of new things about Zika during and after the pandemic.
+
+Bad news: We don't have a history of good data on Zika, so it's hard to isolate the signal from the noise.
+
+At first, public health researchers thought that a particular strain of the Zika virus — the one circulating in the Americas, with roots in Asia — was the only strain that caused birth defects like microcephaly.
+
+Now, evidence shows that other strains can cause birth defects too. In African and Asian countries where Zika has circulated for decades, birth defects may have flown under the radar simply because the medical community wasn't watching closely for them.
+
+"It takes a lot of surveillance to detect these cases," says Scott Weaver, director of the Institute for Human Infections and Immunity at the University of Texas Medical Branch. "It took literally millions of infections before this was even noticed [in the Americas]." Given that the rate of mothers with Zika giving birth to babies with microcephaly is 4%-6%, it might have taken a concentrated setting — as in northeast Brazil, where millions of childbearing women were first exposed to Zika in a short period of time — for the connection between the virus and birth defects to be visible.
+
+The upshot, the researchers found, is that there's not enough evidence to say that any strain of Zika is low-risk — in contrast to what the Indian government stated during a 2018 outbreak in northwest India.
+
+And while Zika's most severe impact is on developing babies, it may also have disturbing impacts on the general population. We're also learning about Zika's association with a rare and nasty variation of Guillain-Barré syndrome, an autoimmune disorder that leads to weakness and sometimes paralysis.
+
+"The Guillain-Barré disease that occurs is more severe ... and can have more long-lasting, permanent effects," says Dr. Sankar Swaminathan, chief of the Division of Infectious Diseases at the University of Utah. He says the version of Guillain-Barré connected with Zika comes at a relatively high incidence and affects younger people.
+
+Good news: We're in a quiet phase with Zika.
+
+Bad news: Researchers think Zika will strike again; they just don't know where or when. And when it comes, we're not fully prepared.
+
+"I think the most important lesson to learn is that Mother Nature is always in charge," says Dr. Michael Osterholm, director of the Center for Infectious Disease Research and Policy at the University of Minnesota.
+
+Human action didn't end the epidemic. The public health community worked to contain it, through diagnostics, education and travel advisories. But ultimately, the virus ran its course, infected a large portion of the population, and herd immunity developed, thus halting the spread.
+
+"This is what happens with a lot of different epidemics," says epidemiologist Ko. "Once a large proportion of the population is infected, they're immune and they actually protect other people from getting infected."
+
+"Right now, Zika transmission in the Western Hemisphere is very, very low," says Dr. Lyle Petersen, director of the CDC's Division of Vector-Borne Diseases. "That doesn't mean it's gone away completely, or that we won't have to worry about it in the future." Over time, as people who are not immune to Zika are born into, or move into, a community, the population becomes susceptible to another outbreak. "Could it be in five, 10, 20 years? We don't really know," Petersen says.
+
+In the time that the virus was active, the research community made quick strides in developing diagnostic tests and vaccine candidates: Within six months of the pandemic declaration, vaccines were in the first stage of clinical trials. But the pandemic trailed off a few months later, leaving vaccines stuck in the approval pipeline, without enough people at risk of Zika to get through phase 2 and 3 clinical trials.
+
+"We have huge populations that are considered completely naive because there is no vaccine currently and people haven't been exposed to this virus," says Christine Kreuder Johnson, director of the EpiCenter for Disease Dynamics at the University of California, Davis.
+
+Researchers are now considering different pathways to approval, like "human challenge studies," in which people volunteer to get the vaccine and then be purposely exposed to the virus.
+
+The other big problem that has not been cracked is mosquito control. The main culprit in Zika's spread is a mosquito species called Aedes aegypti, which thrives in small water containers. "One little bottlecap in a ditch can serve as a wonderful breeding site for mosquitoes like this," says Osterholm. Besides Zika, the mosquito also carries dengue, chikungunya and yellow fever, and its home range overlaps with the settlements of over 2 billion people in the Americas, Africa and Asia (Zika can also be transmitted sexually and through blood infusions).
+
+Petersen says the U.S. capacity for mosquito control and surveillance is lacking. "Here at the CDC, we have 12,000 employees, and 12 of them are medical entomologists," he says, way down from the 1950s, when half the CDC's workforce was involved in malaria and mosquito control. During the national Zika virus response, Petersen pulled a retired CDC worker "off a sailboat in the Caribbean" to come back and work on the effort. "We really need to build our mosquito surveillance and control in the U.S. ... It can't be done with one year of Zika supplemental funding. It's a long-term effort that's needed."
+
+Researchers are watching areas of South and Southeast Asia, where outbreaks have been reported in populations that haven't been exposed before. They also think it could return in force to the Americas, particularly in areas that were spared in the last wave. "São Paulo had very little Zika activity — that's a city that is ripe for a major epidemic," says Osterholm, because it's a concentration of people who are currently not immune. "It's just a matter of the wrong mosquito infecting the wrong population," he says, "and then you've got an epidemic."
+
+

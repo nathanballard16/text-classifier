@@ -1,0 +1,51 @@
+TikTok violates Federal Trade Commission rules, pays $5.7 million fine
+
+As the latest network to house viral memes, comedy sketches, lip-syncing music videos, and silly challenges, TikTok has quickly become one of the most popular social media apps.
+
+TikTok, which allows users to upload 15-second video clips underneath sound bites, songs, and effects, has already surpassed the number of users Snapchat and Twitter have. With its recent milestone of 1 billion downloads, it’s now receiving more interest in the Apple App Store than competitors like Facebook and Instagram. As Vox internet culture reporter (and TikTok fan) Rebecca Jennings put it in December, “thanks to its algorithm that makes binge-watching irresistible, as well as a sophisticated array of sound and visual effects, TikTok offers far more possibilities for creators.”
+
+But like many social media apps, TikTok comes with a litany of concerns related to online privacy — particularly when it comes to child safety. It’s been called a “hunting ground” for child predators, who are able to communicate with children via TikTok’s internal messaging system.
+
+TikTok’s issues don’t end with its users; there are privacy concerns with the app itself. On Wednesday, February 27, TikTok’s parent company ByteDance agreed to pay the Federal Trade Commission a $5.7 million settlement, responding to allegations that TikTok has been illegally collecting the private information of children using the app. (TikTok would not comment to Vox on the record for this story.)
+
+Even though TikTok says it doesn’t allow children under 13 on the app, there are doubtless many who still use it. This violates the Children’s Online Privacy Protection Act (COPPA) of 1998, which aims to protects children under 13 from harm on the internet by prohibiting companies from collecting their information without parental permission.
+
+TikTok’s payment is the largest civil penalty the FTC has ever collected in the name of children’s privacy, and this settlement will likely have important implications for other companies accused of being lax about child privacy and safety.
+
+TikTok’s rise — and its dangers for children
+
+In its earlier iteration, TikTok was called Musical.ly, a Chinese app that was launched in 2014. The Beijing-based tech company ByteDance bought Musical.ly in November 2017 for $1 billion, and last August it combined the two video apps into one, migrating all Musical.ly accounts to TikTok. For several months in 2018, it surpassed Facebook, Instagram, Snapchat, and YouTube in monthly downloads. Today, it has 500 million users across the globe.
+
+and that's what friends are for pic.twitter.com/oCMoGpi8R9 — TikTok (@tiktok_us) February 26, 2019
+
+Many of these users are children, particularly those who had accounts with Musical.ly. Social networks generally ask children under 13 not to use their services, but the FTC has accused TikTok of knowingly hosting young children on its app. By allowing kids on the app, TikTok had access to their first and last names, phone numbers, email addresses, biographies, and profile pictures, which is a whole lot of information for users who might not understand the nuances of privacy.
+
+“The operators of Musical.ly — now known as TikTok — knew many children were using the app, but they still failed to seek parental consent before collecting names, email addresses, and other personal information from users under the age of 13,” FTC Chair Joe Simons wrote in a statement. “This record penalty should be a reminder to all online services and websites that target children: We take enforcement of COPPA very seriously, and we will not tolerate companies that flagrantly ignore the law.”
+
+“This record penalty should be a reminder to all online services and websites that target children”
+
+But collecting children’s data is really the tip of the iceberg when it comes to the potential dangers of TikTok. Over this past weekend, the National Society for the Prevention of Cruelty to Children, the UK’s largest charity group, released comprehensive research about TikTok, surveying 40,000 students on the app. It found that 25 percent of children had connected with a stranger on TikTok, and one in 20 children were asked by these strangers on TikTok to strip during live streams.
+
+TikTok has also been a topic of major concern for schools internationally. In England, schools are warning parents not to let their kids use the app out of concern that they are being contacted by strangers with unknown agendas. Lawmakers in India are also trying to get TikTok banned from the country for allegedly promoting racist content and hate speech.
+
+It’s worth noting that as long as it’s been around, the internet has always come with dangers for children, dating to the days of the AOL chat room. But TikTok presents new levels of concern, particularly because it’s on a smartphone, which is easily accessible and can be used in private.
+
+As the FTC points out, rather than erring on the side of privacy, TikTok accounts are automatically set to public. This default mode means strangers have access to children’s profiles and can easily message them. Up until October 2016, TikTok also allowed users to find fellow TikTok-ers within a 50-mile radius.
+
+In a news statement about its FTC settlement, TikTok wrote that “while we’ve always seen TikTok as a place for everyone, we understand the concerns that arise around younger users.” On February 27, it released a new app specifically for young children. On this version, young users won’t be able to share videos, comment on content, or message with other users. TikTok says its new child safety precautions represent “an ongoing commitment.”
+
+TikTok joins several social media giants accused of improper behavior related to children. Last month, TechCrunch exposed a “Facebook Research” project in which teens were getting paid $20 a month in exchange for access to everything on their phone. Facebook is also being accused of promoting “friendly fraud,” allowing kids to make purchases without parental consent. Just last week, more than a dozen consumer advocacy groups asked the FTC to investigate Facebook for deceptive practices.
+
+One in 20 children were asked by strangers on TikTok to strip during live streams
+
+YouTube, too, is currently under fire, for not acting quickly enough to stop pedophiles on the network. For years, users have been leaving sexually suggestive comments on videos of young kids playing games or doing exercise. After many big corporations began pulling their ads from YouTube over the matter, the video sharing giant is now trying to ban these users and close certain comments section.
+
+These tech companies have massive amounts of data, users, and power. But many advocates note that they haven’t stepped up to the responsibility of keeping their platforms safe, often opting to prioritize profits and expansion instead. TikTok might be settling with the FTC for now, but it’s safe to say there’s likely more on the platform — or on apps like it — that’s yet to surface.
+
+Want more stories from The Goods by Vox? Sign up for our newsletter here.
+
+Listen to Today, Explained
+
+TikTok’s hottest meme is pitting the Youths against the Olds, but the truth about this generational standoff can be found in its shades of gray.
+
+Subscribe to Today, Explained, Vox’s daily explainer podcast, wherever you get your podcasts, including: Apple Podcasts, Google Podcasts, Spotify, Stitcher, and ART19.

@@ -1,0 +1,61 @@
+India's Nuclear Power Corp. Admits Malware Infected a PC
+
+Cybercrime , Endpoint Security , Fraud Management & Cybercrime
+
+India's Nuclear Power Corp. Admits Malware Infected a PC
+
+Earlier, Power Plant Denied It Was Hit By Broader Cyberattack
+
+Kudankulam nuclear power plant (Source: The Hindu)
+
+The Nuclear Power Corp. of India on Wednesday confirmed that a PC at the Kudankulam Nuclear Power Plant, the country's most powerful nuclear station, was infected with malware. This announcement, which did not identify the malware, came a day after the plant denied that a cyberattack had resulted in an intruder gaining domain control-level access, as asserted by a cybersecurity specialist.
+
+See Also: Manufacturing System Protection from Cyber Attacks
+
+In its latest press release, NPCIL says that CERT-In investigated after a security researcher informed the National Cyber Security Center of an apparent cyberattack on the nuclear power plant in September. “Investigations have revealed that the infected PC belonged to a user who was connected to the internet-connected network used for administrative purposes. This, however, is isolated from the critical internal network,” the statement notes.
+
+On Tuesday, KKNPP had issued a statement denying any attack on its systems after unverified reports pointed to malware known as DTrack infecting a system at the plant.
+
+“Some false information is being propagated on the social media platform, electronic and print media with reference to the cyberattack on Kudankulam Nuclear Power Plant,” R. Ramdoss, training superintendent and information officer at the power plant, said in a Tuesday statement. “This is to clarify Kudankulam Nuclear Power Project and other Indian nuclear power plants control systems are stand-alone and not connected to outside cyber network and Internet. Any cyberattack on the nuclear power plant control system is not possible. Presently, KKNPP Unit-1 and 2 are operating at 1000 MWe and 600 MWe respectively without any operational or safety concerns.”
+
+Last week, one of the reactors in the plant had stopped functioning. That fueled rumors of a cyberattack on the plant. But KKNPP said the reactor had stopped working due to malfunctioning of a mechanical device in the turbine section.
+
+Nevertheless, cybersecurity experts called on KKNPP to carry out proper analysis of the reactor malfunction.
+
+“KNPP need not be in a hurry for a press release denying all charges. It could have carried out due analysis and come out with a proper explanation,” says Kishore Vekaria, principal consultant at KeyShield Consulting Private Ltd., an IT network and infrastructure solution provider. “Analyzed incidents will enrich national knowledge and skill. But by pushing things under the carpet, the cybersecurity community will not benefit.”
+
+Venkata Satish, director of security at Rediff, an Indian news website, says he’s surprised that the power plant came out with an explanation within hours of the news of an alleged attack. “How can the officials issue a denial so quickly? Thorough investigation takes time,” Satish says.
+
+Cybersecurity Chief Assures Protection
+
+Rajesh Pant, chief cybersecurity officer at the prime minister’s office, tells Information Security Media Group that any reports of potential security incidents that affect critical systems are taken seriously by the government. “Until the time any investigation is completed, there is no need to create any alarm. Let us have faith in the official press note issued on the subject,” Pant says.
+
+All critical systems in the country are protected and air gapped to ensure a defense-in-depth approach, Pant says. “Let me also share with you that in today’s interconnected world, the concept of cybersecurity is that while we establish a cybersecurity architecture for the entire network, the critical systems are additionally protected. I assure you that our agencies such as NCIIPC [National Critical Information Infrastructure Protection Center] and CERT-In are ensuring the same without any compromise.”
+
+Pant adds: “We are working on our National Cyber Security Strategy 2020 that will further strengthen our information infrastructures in view of the emerging threats of the future. The incident in KKNPP is thus being handled as per a laid down process, and there is no cause for sensationalizing the issue."
+
+Claims of a Cyberattack
+
+Pukhraj Singh, an independent cybersecurity specialist, claims that in early September, an external network at KKNPP was compromised.
+
+Calling it a “casus belli” (an act of war), Singh said that a security company told him that the attack, which was carried out via the malware known as Dtrack, provided domain controller-level access at the KKNPP in Tamil Nadu.
+
+So, it's public now. Domain controller-level access at Kudankulam Nuclear Power Plant. The government was notified way back. Extremely mission-critical targets were hit. https://t.co/rFaTeOsZrw pic.twitter.com/OMVvMwizSi — Pukhraj Singh (@RungRage) October 28, 2019
+
+Singh, who formerly worked at the Unique Identification Authority of India and the prime minister’s office’s National Technical Research Organization, says that after a third party informed him about the intrusion, he informed the National Cyber Security Coordinator on Sept. 3. He says that in follow-up emails, Pant assured him that he would look into the matter.
+
+I didn't discover the intrusion, a 3rd party did. It contacted me & I notified National Cyber Security Coordinator on Sep 4 (date is crucial). The 3rd party then shared the IoCs with the NCSC's office over the proceeding days. Kaspersky reported it later, called it DTrack. https://t.co/9xi4CZrvd1 — Pukhraj Singh (@RungRage) October 29, 2019
+
+DTrack malware is tied to North Korea’s Lazarus threat group, according to researchers at Kaspersky. “The group continues to develop malware at a fast pace and expand their operations,” says Konstantin Zykov, researcher at Kaspersky. “We first saw early samples of this malware family in 2013, when it hit Seoul. Now, six years later, we see them in India, attacking financial institutions and research centers. And once again, we see that this group uses similar tools to perform both financially motivated and pure espionage attacks.”
+
+Creating Havoc
+
+The updated DTrack tool functions as a remote access Trojan, or RAT, that can used for a variety of purposes, according to Kaspersky.
+
+As spyware, DTrack is capable of listing all the available files and running processes within an infected device, Kaspersky says. In addition, the malware has the ability to perform keylogging, copy browser history, gather all host IP addresses and retrieve information about all available networks and active connections within a device, according to Kaspersky. (see: Kaspersky: Dual-Use Dtrack Malware Linked to ATM Thefts).
+
+The Kaspersky researchers say they haven't yet determined exactly how DTrack initially infects a device.
+
+“Entities targeted by threat actors using DTrack RAT often have weak network security policies and password standards, while also failing to track traffic across the organization,” a Kaspersky report notes.
+
+Once a device is infected, some of the data the malware steals is packaged up, password-protected and saved to the hard drive disk, while other information is sent to a command-and-control server that the attackers control, according to the Kaspersky report.

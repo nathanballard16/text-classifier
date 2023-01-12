@@ -1,0 +1,81 @@
+No bank guarantees meant a more expensive new Rafale deal
+
+INT’s final report reveals how the Indian negotiating position was weakened and the French position bolstered by a parallel negotiating track
+
+In its final report submitted to the Defence Ministry on July 21, 2016, the seven-member Indian Negotiating Team (INT) estimated the cost of loading bank guarantees, which the French commercial suppliers with backing from the French government refused to do, as €574 million. This made the €7.87 billion inter-governmental agreement signed on September 23, 2016 by the National Democratic Alliance government for the aircraft and weapons packages for the 36 fly-away Rafale fighter jets more expensive by €246.11 million than the estimated aligned cost of the Rafale aircraft deal initiated by the United Progressive Alliance government.
+
+Also Read Investigative reports by N. Ram on the Rafale deal
+
+Detailed document
+
+The “Report of the Indian Negotiating Team on Procurement of 36 Rafale Aircraft for Indian Air Force” is a detailed and revealing document to which The Hindu has access. The report states in paragraph 69: “The final offer of 7878.98 M€ (excluding additional mandatory weapons supplies of 10.55 M€) is 327.89 M€ lower than the aligned cost of 8205.87 M€ with respect of MMRCA [Medium Multi Role Combat Aircraft] offer without taking into account the impact of BG [Bank Guarantees], which has been brought out at Para-23 above [emphasis added].”
+
+How cost was arrived at
+
+In fact, the INT report elaborates in paragraphs 21, 22, and 23 on how it arrived at €574 million as the cost of loading the bank guarantee. The computations were done on “an annual bank commission rate of 2% including confirmation charges by an Indian bank, as communicated by SBI on 02 March 2016,” and the total commercial impact of bank guarantees was worked out to a substantial 7.28% of the contract value.
+
+Table 1, sourced from the dissent note of the domain experts, shows that the aligned cost is lower than the final negotiated price with the financial impact of bank guarantees.
+
+Table-1
+
+Item Aligned cost in € million (without Bank Guarantee costs) Final price offered by French side in € million (without Bank Guarantee costs) Aircraft package 7341.58* 7169 Weapons package 718.29 710.45# Total 8059.87 7879.45 Financial impact of Bank guarantees 574 Total 7485.87 7879.45 *The aligned costs for aircraft package has been further rationalised due to optimisation of Spares Package offered by the French side # Excluding the cost of optional Weapons Package, supplies recommended by MBDA for training and operational requirements of IAF Source: Page 4 of the dissent note signed by the three domain experts of the Indian Negotiating Team
+
+The INT report reveals that the Indian negotiators repeatedly pressed the French side to provide bank guarantees. The Ministry of Law & Justice had advised in writing, in December 2015, that as a legal safeguard government or sovereign guarantees should be obtained from France “in view of the Contract involving huge pay-outs value of procurement price before actual delivery of supplies and services, which de facto meant advance payment.” With the French side flatly refusing to accept this demand made during the negotiations, the Indian negotiators did their best to secure bank guarantees, which had been included in the original MMRCA proposal made by Dassault Aviation.
+
+Again of no avail
+
+The INT contended at one point that “the best way to resolve the concerns of the Ministry of Law & Justice and difference in the opinion of both sides with respect to the impact of BG loading is to provide BG and the confirmation charges would be borne by the Indian side.” This again proved to be of no avail.
+
+The final INT report is silent on why the commercial impact of loading the bank guarantees was not factored into its exercise of comparing the costs of the new deal and the original MMRCA proposal (see Table 2). The same failure to explain the substantial missing factor in the aligned cost comparison is encountered in the Comptroller and Auditor General of India’s report on the Rafale deal presented in Parliament on February 13, 2019. More on this below.
+
+Group Designation of Supplies/Services Aligned Cost
+
+(€ million) Final Offer
+
+(€ million) I 36 Flyaway Aircraft 2663.74 3302.13 3302.12 II ISE equipment fitted on aircraft 0 0 0 111 Role equipment 233.98 386.95 386.95 IV Tools, Testers & Ground Equipment (TTGE) 537.73 320.58 318.41 v Spares 542.22 799.06 776.6 VI Simulator Package 99.29 165.94 159.6 VII Operational Support Equipment & HUMS 169.45 164.33 86.15 VIII Documentation 0 79.73 79.72 IX Associated Services 41.12 1886.62 1705.98 x Performance Based Logistics (PBL) 160.48 236.25 206 XI Simulators and Training Aids Annual 87.24 147 147 Maintenance (STAAM) Aircraft Package Grand Total (€ m i lion) 4535.25 7488.58 7168.57 Weapons Package Grand Total(€ mi lion) 526 .86 718.29 710.41 Grand Total(€ million) 5062.11 8206.87 7878.98
+
+It is not difficult to discover the reason for this conspicuous failure to take into account the commercial impact of bank guarantees and the awkward silence over this in the two reports. A parallel track of negotiations had been activated in 2015, unknown to most members of the INT, involving the Prime Minister’s Office and the National Security Adviser. We may recall here that a Defence Ministry note of November 24, 2015 had protested against the “parallel negotiations” being conducted behind the backs of the Defence Ministry and the INT by officials of the Prime Minister’s Office. The note stated that this had “weakened the negotiating position of MoD and the Indian Negotiating Team”. The then Defence Secretary, G. Mohan Kumar, had strongly endorsed this protest with his own hand-written noting, “RM may pl. see. It is desirable that such discussion be avoided by the PMO as it undermines our negotiating position seriously.”
+
+Without pointing fingers at anyone, the INT report reveals the extent to which these parallel negotiations, which continued into 2016 and right up to the time of signing the IGA, weakened the Indian negotiating position and benefited the French side. The latter only had to rely on what had been agreed on along the parallel track with officials of the PMO and the National Security Adviser or cite the draft IGA or the Memorandum of Understanding, signed on January 25, 2016, as the effective closure of the deal. For instance, when on March 31, 2016 the Indian negotiators pressed for the inclusion of bank guarantees, citing legal advice from the Ministry of Law and Justice, all that the French side had to do was to assert that “the basic principle of Bank Guarantees had been explained several times earlier and that it was not compatible with the structure of the IGA and that Bank Guarantees were not acceptable.”
+
+The more important reason for this silence on why the cost of loading bank guarantees fails to figure in the cost comparison lies in the Indo-French Joint Statement issued on April 10, 2015. On what was to take shape as the new Rafale deal, it reads as follows: “Government of India conveyed to the Government of France that in view of critical operational necessity for Multirole Combat Aircraft for Indian Air Force (IAF), Government of India would like to acquire 36 Rafale jets in fly-away condition as quickly as possible. The two leaders agreed to conclude an Inter-Governmental Agreement for supply of the aircraft on terms that would be better than conveyed by Dassault Aviation as part of a separate process underway; the delivery would be in a time frame that would be compatible with the operational requirement of IAF and that the aircraft and associated systems and weapons would be delivered on the same configuration as had been tested and approved by IAF, and with a longer maintenance responsibility by France.”
+
+Also Read Defence Ministry protested against PMO undermining Rafale negotiations
+
+Stating categorically that loading bank guarantees in the cost comparison would have led to the conclusion that the new deal was not on “better terms” than the original MMRCA proposal would have directly contradicted the promise made in the Indo-French Joint Statement, which the INT report acknowledges as “the guiding principle for determining better terms.”
+
+However, as I reported in The Hindu of February 13, 2019, the three domain experts on the INT, whose eight-page note of dissent is appended to the INT report, had no such inhibitions about arriving at the conclusion that “the final price offered by the French Government cannot be considered as ‘better terms’ compared to the MMRCA offer and therefore not meeting the requirement of the Joint Statement”.
+
+Also Read Government waived anti-corruption clauses in Rafale deal
+
+In its submission made to the Supreme Court of India, the government argued that it had obtained a Rafale deal on “better terms” than what had been envisaged in the preceding MMRCA procurement process. This claim also figures in Volume II of the CAG’s performance audit report relating to the Rafale deal. The CAG calculated the cost of bank guarantees separately but did not include it in the tabulation when it asserted that the deal signed by the Modi government was 2.86% lower than the UPA-era bid for the French fighter jet.
+
+However, the CAG report entered this caveat: “In the offer of 2007 M/s DA had provided the financial and Performance Guarantees, the cost of which was embedded in the offer because the RPF had required the Vendor to factor these costs in the Price Bid. But in the offer of 2015 there was no such guarantee as it was an IGA…Therefore, the total saving of ‘AAB3’ million € accruing to the vendor by not having to pay these Bank Charges should have been passed on to Ministry. Ministry has agreed to the Audit calculations on Bank Guarantees but contended that this was a saving to the Ministry because the Bank guarantee charges were not to be paid. However, Audit noted that this was actually a saving for M/s DA when compared to its previous offer of 2007.”
+
+Final INT Report calculations
+
+According to the final report of the INT, the cost of bank guarantees not provided by the French side for the new deal negotiated by the NDA government was calculated to be €574 million. The report also explicitly noted in paragraph 69 that the NDA government’s deal was €327.89 million lower, “without taking into account the impact of BG (Bank Guarantee).”
+
+A page from the final INT report, in facsimile.
+
+In a section titled “Impact of Bank Guarantee,” the INT calculated the commercial impact of bank guarantees for ‘Advance Payments’, ‘Performance Bond’ and ‘Warranty and MTBF Linked Bond’. The calculations were done at an annual bank commission rate of 2%, including confirmation charges by an Indian bank, as communicated by the State Bank of India on March 2, 2016. The total impact of bank guarantees came to 7.28%, “which translates to approximately 574 M€ for the offered cost of 7890M€.”
+
+During the negotiations, the INT report notes, the French side “provided their version of the calculations for Bank Guarantee loading, reflecting a figure of 143 M€, which was at an annual commission rate of 0.5% without confirmation by an Indian bank”. The INT thereafter proposed that “if the Bank Guarantee charges are so low, the French side may provide the Bank Guarantees and confirmation charges would be borne by the Indian side as actuals. The suggestion was not agreed to by the French side.”
+
+The Ministry of Law and Justice had suggested that the French side should provide the bank guarantees and that the Indian side could bear the cost of confirmation charges of loading of bank guarantee.
+
+The Defence Acquisition Committee (DAC), chaired by the then Defence Minister, Manohar Parrikar, had directed the INT on July 14, 2016 to “determine BG (Bank Guarantee) impact based on rates at the source bank and bring out its recommendations on BG charges”.
+
+The significance of bank guarantees in pricing
+
+With the French side refusing to give a sovereign or government guarantee, the Cabinet Committee on Security made a further concession by waiving the requirement of bank guarantees from the French commercial suppliers and instead settled for a legally non-binding ‘Letter of Comfort’ from the French Prime Minister. By contrast, during the submission of bids for the MMRCA tender to the UPA government, all companies, including Dassault Aviation, had submitted bank guarantees from first class banks of international repute.
+
+As reported in The Hindu of February 13, 2019, Sudhansu Mohanty, Financial Adviser (Defence Services), had recommended that in the absence of a sovereign or bank guarantee, “it would be prudent to involve the French government as far as releases are concerned” and that a practical way of doing this was to have the Indian government make further payments to an escrow account held under the charge of the French government and operated under terms and conditions agreed between the two governments. Mr. Mohanty’s recommendation too was ignored, and as noted in Paragraph 46 of the INT’s final report, the Indian payments were to be made directly to the two private companies, Dassault Aviation and MBDA France, through their dedicated bank accounts opened at the French government-controlled bank, Caisse des Depots Consignations (CDC), France.
+
+The question of bank guarantees assumes additional importance as 60% of the payments were to be made in advance by the Indian government to the French commercial suppliers. These payments were to be made within 18 months of signing the deal, that is, by March 2018, although the first Rafale fighter jet would arrive in India only after 36 months, that is, in September 2019.
+
+Following the publication of my investigative article on the Defence Ministry’s November 24, 2015 note of protest against “parallel negotiations”, the former Defence Secretary, Mr. Mohan Kumar, claimed that the note “had nothing to do with price. It was about sovereign guarantees and general terms and conditions.” He also asserted that “it was not about parallel negotiations, but about parallel viewpoints. We told them that there was no need for such discussions. I have written the note in that particular context. There was nothing very serious about it. It was when the negotiations started and later all issues had been settled. No interference or anything of that sort happened from the PMO in the final negotiations.’’ He explained further that “the parallel viewpoints were related to a collateral guarantee which India wanted in the deal. We had expressed different opinions about that discussion. That’s all it was.’’)
+
+What we learn from the INT report, the dissent note by the three domain experts, the legal advice from the Ministry of Law & Justice, and also the CAG’s report is that Mr. Mohan Kumar was being economical with the truth. First, the issue of bank guarantees, which figured repeatedly in the negotiations, was specifically mentioned in the Defence Ministry’s note of protest against the “parallel negotiations” that undercut the Indian negotiating position. Secondly, the refusal by the French side to provide bank guarantees, which had been an integral part of Dassault Aviation’s 2007 MMRCA offer, had a substantial material bearing on the pricing of the new Rafale deal.
+
+In a recent address at a media conclave, Prime Minister Narendra Modi asserted that “India is feeling the absence of Rafale. The entire country is saying in one voice today, if we had Rafale probably the result would have been different.” It is noteworthy that nobody of consequence, either in the political opposition or in the news media, has questioned the quality of, or the need for, the Rafale fighter jets. What has been in question is the process of decision-making, which has in many material respects been shown by investigative journalism to have deviated from the standard military procurement procedures laid down, as well as the pricing and other terms and accompaniments of the deal.

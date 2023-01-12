@@ -1,0 +1,35 @@
+WhatsApp offers fact-checking service for Indian users to combat fake news before election
+
+WhatsApp launched a new fact-checking service in India to help combat misinformation in the run-up to the general election.
+
+The new hotline, called Checkpoint Tipline, replies to information sent over by message saying whether it is true, false, misleading, disputed or presently unverifiable.
+
+Texts, pictures, links and videos in English, Hindi, Bengali, Telugu and Malayalam can all be sent to Checkpoint on +91-9643-000-888 to check their veracity.
+
+The messaging service said its 200 million customers in India “forward more messages, photos and videos than any other country in the world.”
+
+India’s elections are scheduled to begin on April 11, with final results expected on May 23.
+
+12 useful WhatsApp features you didn’t know existed Show all 12 1 /12 12 useful WhatsApp features you didn’t know existed 12 useful WhatsApp features you didn’t know existed Unsend messages You can unsend a message by tapping and holding it, hitting the Delete symbol and selecting Delete for Everyone. The feature works for all types of messages, but only if they were sent less than seven minutes ago. 12 useful WhatsApp features you didn’t know existed Dodge the blue ticks WhatsApp’s blue ticks show when sent messages have been read, but you can disable them buy going to Settings > Account > Privacy > Read Receipts. However, bear in mind that, by doing so, you’ll lose the ability to see when your own sent messages have been read. Another, more fiddly way of reading your messages without triggering the blue ticks, is enabling Aeroplane Mode before opening your messages - just remember to close the app before switching Aeroplane Mode off again. 12 useful WhatsApp features you didn’t know existed Hide your 'last seen' time Prevent your friends from finding out when you were last online by hiding your last seen time. Go to Settings > Account > Privacy > Last Seen. As is the case with disabling read receipts, hiding your ‘last seen’ time will also stop you from seeing anybody else’s. 12 useful WhatsApp features you didn’t know existed Limit data usage You can control how much data you munch through on WhatsApp by limiting the types of media you automatically download on a mobile connection. Go to Settings > Data Usage and choose the best option for you. 12 useful WhatsApp features you didn’t know existed Customise notifications If you’re expecting an important WhatsApp message from someone, set a custom notification for them by opening the chat, tapping their name at the top and hitting Custom Notifications. 12 useful WhatsApp features you didn’t know existed Format your messages To jazz up any of your messages, simply highlight it by tapping and holding it, hit the More Options key on the pop-up menu and tap the formatting option you want - bold, italic, strikethrough or monospace. 12 useful WhatsApp features you didn’t know existed Type hands-free You can get Siri or Google Assistant to type your WhatsApp messages out for you by saying either “Hey Siri” or “Okay Google”, followed by the name of the person you want to message and the actual contents of the message. 12 useful WhatsApp features you didn’t know existed Mark chats as unread When you’ve read a message but can’t reply to it straight away, you can set a visual reminder by marking it as unread. On Android, long-press the conversation, and on iOS, swipe from left to right on a chat. 12 useful WhatsApp features you didn’t know existed Email entire conversations You almost certainly won’t do this on a regular basis, but it’s a handy option to have. You can export entire conversations - complete with emoji and media attachments - by hitting More inside a chat a selecting Email Chat. 12 useful WhatsApp features you didn’t know existed Mass-message contacts You can send the same message to lots of your contacts without lumping them all into one group, much like the BCC option on email, by hitting the New Broadcast option on the app’s main menu. 12 useful WhatsApp features you didn’t know existed Pin conversations You pin up to three contacts and groups to the top of your WhatsApp conversation list by tapping and holding a chat, then hitting the pin icon. 12 useful WhatsApp features you didn’t know existed Make things easier to find You can easily mark key messages with a star, allowing you to find them easily when you need to. Just tap and hold a message and hit the star icon to save it, and return to it later by selecting Starred Messages in WhatsApp’s main menu.
+
+Social media has come under fire for how fake news can spread over platforms, often in a manufactured attempt to sway public opinion.
+
+Major Indian political parties have also accused each other of propagating fake news on WhatsApp.
+
+Checkpoint is the latest move in a series of steps taken recently by Facebook Inc. to combat fake news in India.
+
+Facebook has removed over 1,100 pages, groups and accounts from India and Pakistan for “coordinated inauthentic behaviour or spam”, the social media giant said on Monday.
+
+An investigation found fake accounts were used to spread criticism of political opponents and inflate engagement.
+
+Recommended WhatsApp update makes messages safer from prying eyes
+
+687 pages and accounts linked to India’s opposition party, Congress, were removed. Congress tweeted that none of these were official or run by verified volunteers.
+
+A fake recording during heightened tensions between India and Pakistan after the Kashmir bombing heard the president of ruling Bharatiya Janata Party (BJP) say: “We agree that for election, we need a war.” Facebook removed the post, but not until it had 2.5 million views and 150,000 shares.
+
+WhatsApp changed its settings in India last summer after rumours over child abductions, sent via the application, led to dozens being lynched. It reduced the number of possible shares a message could have from 250 to five, as well as removing a button that lets users forward information easily.
+
+WhatsApp said it was working with local startup Proto to classify messages sent to the service by users and build a database of content to help understand misinformation.
+
+End-to-end encryption on the Facebook-owned WhatsApp ensures all messages are private, meaning the company cannot oversee the content on its platform.

@@ -1,0 +1,31 @@
+SEBI Circulars Cannot Be Challenged In SAT: Rules Supreme Court Of India
+
+ARTICLE
+
+To print this article, all you need is to be registered or login on Mondaq.com.
+
+Supreme Court:
+
+The Court has ruled that administrative circulars issued by the Securities and Exchange Board of India (SEBI) cannot be challenged before the Securities and Appellate Tribunal (SAT).
+
+The Supreme Court passed this judgment when it was hearing an appeal filed by SEBI against a SAT order in a case relating to National Securities Depository Ltd. (NSDL).
+
+Background
+
+NDSL and SEBI were at odds over an administrative circular captioned 'review of dematerialization charges' issued in 2005, debarring the depository from levying fees/charges on rendering service to the investors who hold Demat accounts with the depository. The grievance of the appellant (NDSL) was that it is a company and the law permits it to make profits and distribute the dividend to its shareholders. SEBI, without any justification, interfered with its functioning, NSDL had argued.
+
+SAT in September 2006 had ruled that the term "order" in SEBI Act is extremely wide, and can be applied in all three types of orders— administrative orders, legislative orders, and quasi-judicial orders. Thus, it ruled in favour of NSDL.
+
+Verdict
+
+SEBI challenged SAT's verdict in the Supreme Court and secured a reversal. The Supreme Court, in the order passed on March 7, said that only "quasi-judicial" orders and decisions are a "subject of SAT".
+
+"Administrative orders such as circulars issued under the SEBI Act are obviously outside the appellate jurisdiction of the tribunal," said the SC order.
+
+Conclusion
+
+The clarification and restriction to the scope of SAT will clearly bring down the number of cases before the Tribunal. One cannot approach SAT cause the same will now have jurisdiction only over orders passed by SEBI in a quasi-judicial capacity. [National Securities Depository Ltd. v. SEBI, 2017 SCC OnLine SC 256, decided on 07.03.2017]
+
+Originally published April 7, 2017
+
+The content of this article is intended to provide a general guide to the subject matter. Specialist advice should be sought about your specific circumstances.

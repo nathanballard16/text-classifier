@@ -1,0 +1,33 @@
+Mobile Marketing Association India’s 3 city ad fraud initiative culminates in Mumbai
+
+Mobile Marketing Association (MMA) India’s Ad Fraud roadshow series culminated in Mumbai today. After Delhi and Bangalore, the roadshow came to Mumbai gathering a congregation of leading marketers and subject matter experts to spread awareness and highlight several key challenges related to brand safety, accountability in mobile advertising and solutions for incremental increase of ad fraud.
+
+With the primary role of educating the marketer community about ad fraud through ‘ACT’ – Assess, Combat and Track, the roadshow addressed the growing concerns in the mobile marketing industry and agreed that building standards, guidelines and best practices is the need of the hour to deter adfraud.
+
+Moneka Khurana, Country Head - MMA India, said, “Ad fraud is pernicious problem for the entire digital advertising ecosystem and specially India where ad fraud is on the rise by 40%asper MMA India survey and is leading to losses to the tune of 22%of digital spends. It is MMA India’s endeavour to bring together industry experts who help and guide the industry to drive solutions to combat Ad Fraud.”
+
+MMA India’s Brand Safety Council is an outcome of their initiatives towards strengthening the mobile marketing community with an aim to enable marketers to overcome issues of weak brand safety and build standards, best practices and guidelines to safety guard brand safety/ensure transparency across the eco-system. MMA also conducted a survey to benchmark the current practices that marketers use in order to assess and combat mobile ad fraud. Results from the survey will be published in an industry best practices reckoner which will benefit MMA members and the industry at large.
+
+Here are some of the highlights from the survey:
+
+Although 22 per cent of mobile ad budget falls victim to ad fraud, exploring new technologies or approaches to counter it is not a high priority for most marketers
+
+exploring new technologies or approaches to counter it is not a high priority for most marketers 9 of 10 marketers are hiring dedicated external vendors or are planning to do so in the near future to detect and prevent fraud
+
+or are planning to do so in the near future to detect and prevent fraud The top 3 areas in which ad fraud is highest are: Brand campaigns, Social, Publisher direct
+
+Most marketers expect real-time analysis and proactive blocking of fraudulent impressions . However, services provide often offer Periodic analysis which is seem to less important to marketers
+
+. However, services provide often offer Periodic analysis which is seem to less important to marketers Marketers are not very familiar with blockchain, but almost all of them believe that it has the potential to help against ad fraud
+
+Rahul Sethi, SVP Marketing & Head of Digital Acquisitions - Edelweiss Financial Services commended the role played by industry bodies, “MMA India is playing a vital role in building a strong and reliable networking opportunity for the advertisers and the publishers to debate and discuss Ad fraud. Such forums enable the marketers to analyse and decipher data models. It is critical to understand and track the ongoing patterns to be able to catch any fraud instantly. There are lot of specialised platforms which use multi-track attribution to ensure that marketers are ahead of these fraudsters.”
+
+“Digital ad fraud is getting huge attention from the C-level executives of well-known organizations all over the world. The impact of ad fraud can jeopardize the entire digital transformation of any organization. In 2018, the total size of digital ad-fraud stood at a staggering $1.63 Billion, which is 8.7% of the global size. India contributed 42% of the total ad fraud and this is expected to rise by the year 2020,” said Rahul Pandey, Director - Digital Marketing, Flipkart, who delivered the Keynote address in the Delhi edition of the roadshow series.
+
+According to Rohit Dadwal, Managing Director – MMA APAC, “Ad fraud is an issue mainly in the SEA region and India and the reason for that is the vast population. The fragmented nature of many mobile app landscapes in APAC makes it tempting to work with anyone who claims reach, but it’s better to limit partners to those who take anti-fraud seriously.”
+
+Speaking about the thumb rule for e-commerce marketers tackling brand safety, Venkatesh Kamath - Associate Director, Flipkart said, “I think I will be too optimistic if I will say that this problem can be eradicated. I don’t think the solution is elimination. I think the solution is deterrent. We make our deterrent policies very clear. We have taken lots of steps, which have ruffled a lot of feathers, but we are persistent at that. As I have said the problem cannot be eliminated. But we want to things to keep evolving, we want the solution keep to keep evolving. We want the data to speak for its self. We view the whole lot of data to make sure we able to detect fraud and use data again to quantify the penalties itself.”
+
+Uday Sodhi, Business Head Digital - Sony Pictures Networks India, said, “I don’t think too many CMOs today pay attention to ad fraud and the amount of leakage that it can cause. I would be very worried about ad fraud when there is lack of awareness at the clients’ end who say they have put in Rs. 100 but actually only Rs. 50 is going into a valuable campaign and Rs. 50 is really getting leaked out and that leakage is what the client is not aware of. I think there is enough technology today in terms of protecting yourself but we are ignoring ad fraud when it happens. Increasing the security of every transaction is a learning process for everybody; whether it’s a client or a publisher or intermediaries or agencies.”
+
+MMA’s roadshows were partnered by Affle, inMobi, Mobvista and mFilterIt. The Mumbai edition featured speakers from brands such as GroupM, HDFC Bank, Jio, Edelweiss, Sony Pictures, Deloitte and many others. Speakers in the Delhi & Bangalore roadshows represented companies such as Cleartrip, BARC India, Flipkart, Google, Myntra, OYO and many others.

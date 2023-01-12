@@ -1,0 +1,41 @@
+Assessing Apple's Streaming Plans' Potential To Hurt Netflix (NASDAQ:NFLX)
+
+One month ago, Apple (AAPL) announced plans to launch its much anticipated TV+ streaming service on November 1.
+
+There were a few items of importance from this announcement:
+
+The service would cost $4.99/month or $8 less than Netflix's basic HD streaming plan. The service will be free for anyone that purchases an iPhone, iPad, Apple TV, iPod Touch or Mac starting September 10, 2019. I nitially the service will not consist of content from other providers but rather will initially consist of 8 original shows and one original documentary.
+
+On the surface, these details don't really amount to much when compared with Netflix (NFLX) and its $15 Billion per year content spend. Rumors are that Apple is spending $2 Billion a year on content. The 9 shows on Apple pales in comparison to the 1,339 originals and 5,780 total shows on Netflix. So is it rational to expect that it will hurt Netflix?
+
+Price is Truth, and Disney+
+
+There is an old adage in the market that "price is truth" which is a simple way of saying that opinions are worth a hill of beans compared to the pricing mechanism that is the market.
+
+Any rational person would look at the content spend and number of titles and say there's no way Apple is a threat to Netflix right now. However, in the 40 days or so since its announcement, it's worth noting that Netflix' closing price of $294 on September 9th, the day before details of the Apple streaming product was announced, has only been eclipsed once and even a large pop on its Q3 earnings report wasn't enough to get it over its September 9th closing price:
+
+(the quotes above in the top left are from 9/9/19 for NFLX, the day before Apple announced details on its streaming service).
+
+What's more telling thus far is the action of NFLX since Disney (DIS) released details on April 11 about Disney Plus. Back then it was a shock to the market that they would price their offering at $6.99/month. According to this list, Disney Plus is expected to have 734 shows or about 13% of the total shows on Netflix.
+
+Since 4/10/19, though, Netflix is down 24%. While Disney skews more toward families and younger audiences and its content pales in comparison to Netflix, once again price is truth.
+
+Pricing Power No More?
+
+As we saw in the Disney and Apple announcements, the notion that Netflix can continue to raise prices over time may have gotten squashed. By pricing both products well below Netflix, DIS and AAPL are telling the market that Netflix is a premium priced product and subject to price elasticity of demand. This may not matter to a wealthier market like the US, but the US is already saturated for Netflix. Growth recently has and will continue to come from international markets. And in those markets, particularly in Brazil and India, disposable income is much lower and it may ultimately be harder to compete against lower priced products.from OECD and calculated the average monthly plan cost as a percentage of monthly disposable income in that country. I then took this percentage and applied it to disposable income in the US to give an equivalent rate for US subscribers. As you can see, the cost per month in Brazil is the equivalent of $60.38/month in the US and in India it is the equivalent of $110.88/month in the US. See the data below:
+
+This is why Netflix is rolling out a $3/month in regions in India. This, however, might compound its own cash flow problems: Netflix cash flow has gone from negative $128 Million in 2014 to negative $2.893 Billion in free cash flow in 2018:
+
+Apple is Playing the Long Game
+
+Apple understands that as the growth of the iPhone dies out, it can bring new people into its ecosystem and keep existing customers in its ecosystem by layering on products like music streaming and video streaming. This is an effect we have written about numerously here at Catalyst Capital, the power of network effects. Apple comes to the table with $58 Billion in annual free cash flow, nearly half of Netflix's market cap, and over 1.4 billion devices worldwide. While the content on its upcoming streaming service pales in comparison to Netflix right now, Apple will be a formidable foe in competing for top talent in its original content and it has a huge established base of users to roll out its service for. And because it has huge free cash flow, it can sacrifice profits for years in order to create a stronger ecosystem for its users.
+
+Don't Write Off Netflix Just Yet
+
+Despite the competitive threats coming from Disney, Apple, and others, Netflix has shown a level of resiliency that few other companies have shown. As Seth Fiegerman said here:
+
+Netflix's ability to stay nimble and reorient itself are a direct reflection of CEO and cofounder Reed Hastings. He bounced from the Marine Corps to the Peace Corps before studying computer science in graduate school. He launched Pure Software in 1991 to help developers debug programs and claims a $40 late fee on a copy of "Apollo 13" inspired him to launch Netflix. Hastings has "strategically re-positioned himself" throughout his career, says Jeffrey Sonnenfeld, who teaches management at Yale. His "genius," Sonnenfeld says, is pushing Netflix to do the same.
+
+"Netflix and chill", "binge watching", "cord cutting", all of these sayings came from the cultural phenomenon that is Netflix. The company's brand is one of the most power brands in the world. While I think the threat from the larger players is real and the stock will likely be bumpy for a while, I would absolutely look to buy it on significant weakness. From a technical standpoint, I would definitely consider a starter position at its gap fill around $227 from early 2018 (see below):
+
+Reed Hastings is a proven winner and someone I wouldn't count out.

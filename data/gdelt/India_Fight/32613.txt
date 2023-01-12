@@ -1,0 +1,57 @@
+“India attracts 18 per cent of global medical tourism market share”
+
+With doctor-patient ratios barely meeting the minimum, India has a severe shortage of skilled doctors.
+
+With the hope of improving healthcare by increasing efficiency of the current force of doctors through digital tools, digital healthcare platform Practo has announced a partnership with Academy of Family Physicians of India (AFPI). The objective is to collaborate towards greater understanding and adoption of digital healthcare technology in India. BioSpectrum interacted with Dr. Alexander Kuruvilla, Chief Healthcare Strategy Officer, Practo to know more about this development.
+
+Edited Excerpts-
+
+What are the key highlights of the MoU signed with AFPI?
+
+Practo and AFPI aim to work collaboratively towards greater understanding and adoption of digital technology by doctors. Digital healthcare has increased the overall accessibility to quality healthcare services. Patients can now reach doctors virtually anywhere and anytime to get timely advice and help. In addition to patients, digital solutions have enabled the doctors to manage their practices more efficiently.
+
+As part of this MoU, Practo will serve as AFPI's digital healthcare partner and together, the two institutions will work on the areas of continuous learning and development in digital healthcare for all physicians associated with AFPI. They will focus on conducting workshops with participation from key members of the AFPI to help spread awareness and update members on the latest trends in technology that can help manage their practices and provide better care to patients.
+
+As part of the collaboration, AFPI members will dive deep into Practo’s industry-leading technological expertise in the healthcare domain, and understand the nuances of managing and securely storing all health data. Practo encrypts all data with 256-bit encryption (many banks use just 128-bit), uses HIPAA compliant data centres, and is one of the few healthcare companies to be ISO 27001 certified.
+
+What are the major challenges facing the healthcare sector in India as compared to other Asian countries?
+
+India has a shortage of approx. 6,00,000 doctors. The Government has proposed massive expansion of seats in MBBS colleges to combat this. Despite this, it will take years, if not decades of concentrated effort to address this shortage with India’s burgeoning population.
+
+Patients face difficulty in searching for the right specialist and booking appointments at suitable time. On the other hand, doctors face problems like patient no-show, lack of detailed medical history and the mammoth task of maintaining medical records for each patient.
+
+Thanks to the immensely talented, if small, pool of doctors in our country, we have seen remarkable progress in hospitalisation facilities since Independence. Our doctors work hard to constantly update themselves and upskill. Doctors practicing in urban centers, and especially corporate hospitals have exposure to the best of medical practices across the world. Patients from all over the world come seeking treatment to India and this is evident in the way medical tourism has picked up here. We now attract nearly 18 percent of the global medical tourism market share and it’s growing. Mid segment nursing homes and clinics are also equipped with industry standard facilities and personnel to address complex medical issues.
+
+However, pre and post hospitalisation care still needs work. Post hospitalisation care, such as rehabilitation facilities and elderly care needs attention and innovation to address special needs.
+
+How can the healthcare delivery system become more efficient in India?
+
+Healthcare in India is one of the fastest growing sectors and is expected to reach US$ 280 billion by 2020. With an industry of this size, the demand for healthcare professionals automatically rises. However, there is an acute shortage of qualified doctors in the country and the ones we have are quite stressed with enormous workload.
+
+We are the second most populous country in the world and heading towards an ageing demographic. Clearly, healthcare needs are only going to rise steeply when we are still unable to meet this with number of healthcare providers. Also, this does not bode well for a country where 65 percent of healthcare expenses is still out-of-pocket. We need to solve healthcare not only for operational efficiency (less wait times and reduce burden on doctors), but also economic efficiency so healthcare remains accessible for all.
+
+How do we do that?- By making healthcare very simple and empowering doctors with the right tools.
+
+While rural Indians face lack of access to well-trained specialists, the rest of us don’t want to go to doctors even when they are available. Why?- Not because we can’t afford visits or medicines, but because it takes too much time.
+
+So to solve this, we focus on the premise of making healthcare simple and we do that in multiple ways to empower patients and healthcare providers with digital tools. Practo connects the entire health ecosystem together on its platform – patients, doctors, pharmacy, diagnostics, clinics, hospitals and other partners. We are integrating different parts of the healthcare journey and putting them together end-to-end on our platform so patients can have one seamless experience, irrespective of their need.
+
+Healthcare system in India can immensely benefit from digitization of healthcare services. Utilizing technology to resolve entrenched systemic issues, such as long wait times, can help in the growth of the Indian healthcare industry. Practo’s solutions are geared towards improving accessibility - reliable instant booking, fast online consultation, medicine delivery, diagnostic tests, procedures and more.
+
+Practo currently helps manage over 2 crore patients per month and connects patients to over 1 Lakh healthcare providers.
+
+Solving for accessibility essentially boils down to a significant reduction in wait times, availability of qualified doctors and quick, effective consultations within your means and budget. Clinics and hospitals have the option to guarantee superior patient visit experiences on Practo Prime with wait times lower than 15 minutes, near-instant availability with 24×7 instant booking and assured consultation with chosen doctor. Please note that patients pay the same fee as walk-in patients and pay no extra charges for this superior experience.
+
+What are the other plans in store at Practo this year?
+
+Our vision remains to simplify healthcare by making quality healthcare more accessible, affordable and convenient.
+
+At Practo, we simplify healthcare by taking care of patients’ needs end-to-end. Our focus is to streamline the entire healthcare journey – from searching for the right medical professional to helping doctors manage their practice in a more efficient manner. By enabling patients and doctors with the power of technology, we hope to create the much-needed impact in the Indian healthcare industry by enhancing accessibility and ease of operation.
+
+So far, we have broken down the entire healthcare journey into easily manageable parts and created an end-to-end healthcare funnel for patients to get speedy relief. We have increased doctor efficacy by taking away paperwork, processes, and confusion associated with manual practice management. With Practo, they can list their services for free and get connected to millions of patients who ask health queries on Practo.
+
+We have solved for transparency with complete Patient Experience where we allow patients to document their experiences with doctors. Patients can also look for doctors who have treated cases similar to theirs. Clarity around various medical specializations has been a huge issue in the past and we’ve tried to solve this with the Practo Bluebook. The Blue Book is a comprehensive guide to check qualifications required for a specialization and has been created in collaboration with the top minds from every medical field in India. We have now made it open source for better knowledge transfer in the doctor and patient communities. Doctors can contribute to it directly either by adding qualification for a specialization or contest one for expert panel review.
+
+Essentially, our attempt has been to sensitise both patients and all healthcare partners to recognise the qualitative nature of healthcare. We work very closely with our patients and doctors and try to look for better solutions to their problems at every stage of health and practice management. Healthcare is a high trust field and patients come back to you for solutions when they believe you are truly on their side and will help find a solution for their problems. We take enormous effort and care to make sure that health data is secure, only available to the patient and doctor, and does not involve any other sharing or access.
+
+In a world where convenience is supreme, we want to bring healthcare up to speed. Our aim is to deliver convenience to doctors to increase efficiency and manage their practice better and patients to have healthcare at their fingertips. We do this by rendering access and availability moot with 24*7*365 access to patients and ensure quality healthcare conveyed through digital tools no matter where they are.

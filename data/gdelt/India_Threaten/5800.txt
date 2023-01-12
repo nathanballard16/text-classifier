@@ -1,0 +1,33 @@
+Financial Intelligence Unit slams Allahabad Bank for not filing transaction reports of NGOs receiving foreign funds-Business News , Firstpost
+
+Allahabad Bank admitted that it had not carried out determination of beneficial ownership regarding top 50 accounts in the name of trusts and societies opened during the previous financial year.
+
+New Delhi: The Financial Intelligence Unit (FIU) has pulled up Allahabad Bank for incorrect reporting of transactions involving non-profit organizations, Cross Border Wire Transfer Reports (CBWTR) and failing to adhere to anti-money laundering norms. The public sector bank claimed to have 461 Foreign Contribution Regulation Act (FCRA) accounts, however, the bank filed transactions related to only 18 such accounts.
+
+FCRA license is provided by the Ministry of Home Affairs for NGOs operating in India to receive foreign funding. FIU also claimed that Allahabad Bank incorrectly reported Suspicious Transaction Reports (STRs), Cash Transaction Reports (CTRs) and red flag indicators in the banking system pertaining to demonetisation, Trade Based Money Laundering (TBML), Afghan Drug Control and terror financing had not been factored by the bank into its alert generation module.
+
+Reporting entities (banks) are required to furnish monthly reports of all cross border wire transfers of more than Rs 5 lakh or its equivalent in foreign currency where either the origin or destination of fund is in India. The banks are also required to file monthly report regarding transactions related to the NGOs.
+
+During the last five financial years, the 45 Red Flag Indicators (RFIs) implemented in the Bank's system had resulted in 50, 64,166 alerts which ultimately materialised into merely 492 STRs.
+
+“This implied a conversion percentage of around 0.01 percent which is abysmally low. The manner in which alerts were being dealt with by the bank implied that it lacked mechanism for review of the closed alerts. As per the reply of Bank, the screening committee only decides on filing STRs in cases of alerts which have not already been closed by anti-money laundering officer. Also, the composition of the said screening committee is not known,” FIU said in an order.
+
+Allahabad Bank admitted that it had not carried out determination of beneficial ownership regarding top 50 accounts in the name of trusts and societies opened during the previous financial year. The Bank has admitted that top 50 accounts opened during the previous financial year in the name of companies were also not examined to determine beneficial ownership.
+
+“The Bank further submitted that determination of beneficial ownership with regard to the account referred in the aforesaid points had not been carried out by the Bank as all these accounts were opened prior to implementation of the beneficial owner capturing procedure in the central banking system,” FIU order said.
+
+The FIU has slapped Rs 3 lakh fine for violations-Rs 1 lakh each for not having effective internal mechanism for detecting all suspicious transactions, failure of the Bank to identify and verify ultimate beneficial owner for NGOs and failure of the bank to fully implement a client due diligence programme approved by the board of the Bank specifically with the regard to screening names of prospective customers in the latest UN security council sanction list.
+
+In 2014-15, Allahabad Bank uploaded 7474 reports to cross border wire transactions, which were not validated and rejected by FIU asking the Bank to refile the reports. Subsequently, 9 files containing 7474 reports were refiled on 30 October 2018. In 2016-17, Allahabad Bank had filed 39,798 and FIU had asked for 28,237 reports to be refiled again by the bank. A show cause notice was served to Allahabad Bank for the alleged failure.
+
+FIU said although in the recent past, the Bank has taken necessary steps for implementation of the red flagged indicators pertaining to trade based money laundering, demonetisation and terror financing within its anti-money laundering application but the same could not be implemented due to software issues. The Bank has claimed red flagged indicators pertaining to Afghan drug control and instructions issued on 21 June 2018 were not received by it. This claim was rejected by the FIU.
+
+“It would be worthwhile to state that Allahabad Bank is one of the oldest public sector banks and as such it must act as a torchbearer of the anti-money laundering compliance in the country...However, considering that the non-compliance, as enumerated above, were continuing till pointed out during the review by FIU despite statutory obligations,” FIU Director Pankaj Kumar Mishra said imposing penalty against the Bank.
+
+FIU historic crackdown In 2017-18
+
+The FIU in 2017-18 received over 13.3 million cash transaction reports, 14.36 lakh suspicious transaction reports, more than 8 lakh transactions related to NGOs and around 94 lakh cross border wire transfer reports from various banks.
+
+The Intelligence unit responsible for safeguarding the country's financial system analysed and collaborated with other domestic agencies launch a crackdown against abuses like money laundering and it resulted in unearthing more than Rs 19,000 crore during 2017-18.
+
+On the basis of suspicious transaction reports, the Enforcement Directorate (ED) too seized assets worth Rs 984 crores. The agency also analyses counterfeit currency incidents at banks and in 2017-18 more than 3.5 lakh reports were received. Around 71,000 reports were forwarded to law enforcement agencies and 800 reports were sent to Intelligence agencies for further action. However, in an interesting observation, FIU revealed that private banks contributed a majority of reports and the compliance level of the state-owned banks continued to be low despite the matter having been taken up with the Reserve Bank of India (RBI).

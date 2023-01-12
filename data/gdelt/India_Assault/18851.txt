@@ -1,0 +1,37 @@
+PSLV-C47/CartoSAT-3 mission: ISRO nails launch of India's CartoSAT-3, 13 American small satellites to orbit- Technology News, Firstpost
+
+tech2 News Staff
+
+The Indian Space Research Organisation (ISRO) has successfully launched an Indian Earth observation satellite CartoSAT-3 alongside thirteen commercial nanosatellites from the US as of 10 am IST this morning.
+
+The PSLV-C47 lifted off at 9.28 am from ISRO's launchpad at the Satish Dhawan Space Centre (SDSC) SHAR, Sriharikota in Andhra Pradesh, and released CartoSAT-3 satellites, followed by 12 "SuperDove" satellites and a "MESHBED" communication satellite, which were recruited by ISRO's newly-appointed commercial arm New Space India Limited (NSIL).
+
+The fourth stage of the PSLV (PS-4) of the rocket was navigating using an indigenous navigation processor called the Vikram-1601, which was manufactured and fabricated in India for the first time. This achievement is "SCL" or "really fantastic" in the words of Mission Director S R Biju.
+
+Around 17 minutes into the launch, the CartoSAT-3 satellite separated successfully from the PSLV, followed by MESHBED and the SuperDoves, in a staggered release with 25-second-gaps, as the PSLV's fourth stage made its way towards the Antarctica Ground Station for Earth Observation Satellites (AGEOS) established by ISRO to receive Indian Remote sensing Satellite (IRS) data.
+
+ISRO's CartoSAT-3
+
+CartoSAT-3 is the eighth in a series of indigenous Earth observation satellites built by ISRO. With its highly-advanced remote sensing capability, CartoSAT-3 is a leap of advancement over its predecessor CartoSAT-2, with a wider spatial range (of view) and finer resolution (of up to 0.25 metres or 25 centimetres).
+
+If all goes to plan, the satellite will be placed at an altitude of 509 km, at an inclination of 97.5 degrees by mid-day on 27 November.
+
+CartoSAT-3 is undoubtedly one of the most advanced imaging satellites ever built by ISRO, with the capability to produce some of the most high-resolution aerial imagery in the world — certainly the highest of any ISRO satellites. It will also image across multiple spectra — panchromatic (captures all visible colours of light), multispectral (captures light within specific ranges in the electromagnetic spectrum) and hyperspectral (captures light from across the electromagnetic spectrum) earth observation mission.
+
+Once online, the satellite will serve in large-scale urban planning, rural resources and infrastructure development, monitoring of coastal land use and land cover, etc. Apart from India's CartoSAT-3, the launch also included a communication satellite demo satellite called "MESHBED", and 12 SuperDove "Flock" satellites.
+
+Planet's SuperDoves
+
+The SuperDoves, developed by Planet Labs, are part of a network of smallsats designed for earth observation. These satellites, an upgraded iteration of the 26 "Doves" already in orbit, offer higher imaging quality, sharper images, more vibrant colors, and increased accuracy for advanced/time-series analysis. If successfully launched, Planet intends to expand its network with more such SuperDoves, and bring them closer to a planned constellation called "PlanetScope".
+
+Planet’s Flock 4p will mark the fifth launch of Planet satellites on an Indian PSLV.
+
+Analytical Space Inc's Meshbed
+
+Analytical Space Inc's (ASI) satellite on the PSLV-C47 is a technical demonstration. With its 'Meshbed' satellite, ASI intends to test a space technology that will allow its users (on Earth) to gain faster access to data from satellites.
+
+The spacecraft features a patented, inexpensive antenna design from MITRE that could help enable faster access to space-based data. It can be used for a variety of applications including integrated communications and navigation as well as in government missions that need tactical communications, intelligence, surveillance or remote reconnaissance.
+
+PSLV operations appear to be going full-steam at ISRO, with customers lining up to queue their satellites in rideshare missions like the PSLV-C47/CartoSAT-3 mission.
+
+With Spaceflight, Antrix Corporation and NewSpace India bringing in customers aplenty, the space community is eagerly awaiting ISRO's first demonstrations of the Small Satellite Launch Vehicle (SSLV), which promises more frequent, and less expensive tickets for small satellites to space. There are two more

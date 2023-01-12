@@ -1,0 +1,79 @@
+Indian military satellite, 20 more Planet imaging CubeSats launched by PSLV – Spaceflight Now
+
+If you would like to see more articles like this please support our coverage of the space program by becoming a Spaceflight Now Member . If everyone who enjoys our website helps fund it, we can expand and improve our coverage further.
+
+An Indian Polar Satellite Launch Vehicle blasted off and successfully deployed a military electronic surveillance satellite and 28 nanosatellites for companies in the United States, Lithuania, Spain and Switzerland at two different altitudes Monday, before the rocket’s upper stage began an extended mission as a solar-powered experiment platform in low Earth orbit.
+
+The 145-foot-tall PSLV lifted off at 0357 GMT Monday (11:57 p.m. EDT Sunday) from the Satish Dhawan Space Center, an Indian spaceport on the country’s southeast coast around 50 miles (80 kilometers) north of Chennai.
+
+The PSLV is the workhorse rocket for India’s space program, launching several times a year, often with an Indian government satellite and a collection of smaller spacecraft built by organizations and companies in other countries.
+
+But the mission that launched Monday morning — liftoff occurred at 9:27 a.m. Indian Standard Time — debuted a new configuration of the PSLV with four solid rocket boosters mounted around the rocket’s core stage. Previous PSLVs launched with zero, two, or six boosters.
+
+In another first, the PSLV’s liquid-fueled fourth stage carries solar panels to generate electricity in space, providing power to three payloads that will use the spent rocket body as a hosting platform in orbit.
+
+The launcher initially headed toward the southeast from the Second Launch Pad at the space center. The four strap-on solid rocket motors burned out and jettisoned around 70 seconds into the mission, followed by burnout and separation of the PSLV’s solid-fueled core stage.
+
+A hydrazine-fueled Vikas engine on the PSLV’s second stage fired next, followed by ignition of the rocket’s third stage, a solid-fueled motor. Finally, the PSLV’s fourth stage — known as the PS4 — fired its twin thrusters, which also burn hydrazine fuel, to place the EMISat spacecraft into an orbit roughly 465 miles (749 kilometers) above Earth, with an inclination of about 98.4 degrees to the equator.
+
+The 961-pound (436-kilogram) EMISat satellite, a joint project between the Indian Space Research Organization and India’s Defense Research and Development Organization, separated from the PSLV fourth stage around 17 minutes after liftoff. A video camera on the fourth stage showed the EMISat satellite, encased in golden insulation, flying away from the rocket over the Indian Ocean.
+
+EMISat carries instrumentation to detect, locate and characterize electromagnetic signals, such as those transmitted by military radars.
+
+Two more firings by the PSLV fourth stage maneuvered the rocket into a lower orbit at an altitude of about 313 miles (504 kilometers), and slightly adjusted the orbit’s inclination to 97.5 degrees. The maneuvers set up for separation of 28 nanosatellites from companies in the United States, Lithuania, Spain and Switzerland.
+
+The CubeSats launched inside spring-loaded modules, and the PSLV commanded the secondary payloads to deploy one-at-a-time over a sequence that concluded just prior to the two-hour mark in the mission.
+
+The first nanosatellite to separate from the PSLV’s fourth stage was AISTECHSAT 3, a roughly 5-pound (2.3-kilogram) CubeSat for the Spanish company Aistech. The AISTECHSAT 3 nanosatellite is Aistech’s second spacecraft to launch into orbit, and will serve as a pathfinder for the company’s planned network of satellites providing aviation tracking and remote asset management services.
+
+A Lithuanian company named NanoAvionics had two satellites fastened atop the PSLV, and they separated from the rocket next.
+
+The first of the NanoAvionics satellites to deploy was M6P, a 15-pound (6.8-kilogram) spacecraft that hosts two commercial payloads for SpaceWorks Orbital and Lacuna Space, two companies designing communications and tracking networks using tiny satellites as relay nodes to collect and retransmit data from devices and sensors around the world.
+
+The other NanoAvionics satellite launched was BlueWalker 1. It will test unspecified “patented technologies” in space for AST & Science, a U.S.-based smallsat startup company which acquired a controlling interest in NanoAvionics last year, according to company statements.
+
+NanoAvionics announced in February that it was building three low Earth orbit nanosatellites for AST & Science, the first of which is BlueWalker 1. The three nanosatellites “will be used to test a range of experimental payloads for defense and commercial customers, and will include a Q/V-band satellite for test and evaluation,” NanoAvionics said.
+
+NanoAvionics said it took only one month to build the 22-pound (10-kilogram) BlueWalker 1 spacecraft and integrate its payload.
+
+“The BlueWalker 1 mission demonstrates how NanoAvionics’ pre-integrated nano-satellite bus enables faster, more responsive approaches for advancing space technology readiness,” said Vytenis Buzas, CEO of NanoAvionics.
+
+The second satellite for Astrocast, a Swiss company aiming to build a network of 64 data relay satellites in low Earth orbit, was also launched aboard the PSLV. The shoebox-sized, 8.4-pound (3.8-kilogram) Astrocast 0.2 spacecraft joins Astrocast 0.1, which launched on a SpaceX Falcon 9 rocket in December, to demonstrate the company’s concept of using nanosatellites to collect and downlink data from weather buoys, wellhead sensors, pollution monitors and other remote stations.
+
+Twenty of the secondary payloads launched on the PSLV-C45 mission are owned by Planet, a San Francisco-based company which operates more than 100 Earth-imaging satellites. Planet’s newest 20 Dove nanosatellites, each about the size of a toaster oven, join the company’s imaging fleet providing daily views of every location on Earth.
+
+Four Lemur-2 CubeSats owned by Spire Global were also aboard the launch, adding to Spire’s fleet of more than 70 active nanosatellites tracking ships and collecting atmospheric data that could one day improve the accuracy of weather prediction models.
+
+The new batch of Dove CubeSats are part of a group named “Flock 4a” by Planet.
+
+“Flock 4a will join our current constellation of 100+ Doves, replenishing our on-orbit fleet and furthering our daily global monitoring mission,” wrote Mike Safyan, Planet’s vice president of launch, in a post on the company’s website. “However, these Dove satellites aren’t solely for replenishment. They’re equipped with the latest technology – upgrades to our imaging chain to improve image sharpness, radiometric consistency, and spectral precision – and push the boundaries of what our on-orbit Doves are capable of.”
+
+Planet sells its imagery to commercial clients and governments, including U.S. intelligence agencies.
+
+The PSLV launch was India’s first since the country’s military successfully tested an anti-satellite missile Wednesday, destroying an Indian satellite in orbit roughly 175 miles (282 kilometers) above Earth.
+
+India’s test of a satellite kill vehicle shattered the mission’s target, named Microsat-R, into countless fragments. Due to the relatively low altitude of the intercept, most of the material is expected naturally re-enter Earth’s atmosphere within days or weeks, but some debris ejected into higher orbits from the force of the impact could remain in orbit longer.
+
+Officials from several commercial satellite operators, including Planet, condemned the anti-satellite test.
+
+“Space should be used for peaceful purposes, and destroying satellites on orbit severely threatens the long-term stability of the space environment for all space operators,” Planet said in a statement. “Planet urges all space-capable nations to respect our orbital commons.”
+
+Sunday night’s launch marked the fifth time Planet has put its satellites on an Indian rocket, making Planet one of the Indian space program’s biggest export customers.
+
+Planet books its rides on PSLV missions with Antrix, the commercial arm of ISRO. For this launch, Planet arranged for its satellites to ride on the PSLV through Spaceflight, a commercial smallsat launch broker based in Seattle.
+
+The U.S. Air Force’s 18th Space Control Squadron, which detects and catalogs objects in Earth orbit, said in a tweet Friday it is “actively tracking more than 250 pieces of debris associated with (the) Indian ASAT launch” and that the Joint Force Space Component Command is “issuing conjunction notifications to satellite operators as needed to support spaceflight safety.”
+
+Analytical Graphics Inc. modeled the Indian anti-satellite test, and the company’s experts suggested the missile struck the Microsat-R satellite at a relative velocity of nearly 22,000 mph, or 9.8 kilometers per second.
+
+AGI’s simulation predicted the collision created approximately 6,500 debris fragments larger than a pea, about 0.2 inches in diameter. Experts said fewer objects were expected to be large enough to be tracked by the U.S. military space surveillance radars, meaning much of the debris would remain undetected until it fell back into Earth’s atmosphere.
+
+After releasing all 29 satellites, the PSLV’s fourth stage was programmed to fire its attitude control thrusters to send the rocket into a third orbit about 301 miles (485 kilometers) in altitude, where three experimental payloads mounted to the vehicle were expected to begin their missions.
+
+Indian officials used the fourth stage from the previous PSLV launch in January for long-duration experiments in Earth orbit for the first time. On this mission, engineers added solar panels to the fourth stage for increased longevity.
+
+The fourth stage carries an Automatic Identification System, or AIS, receiver for ISRO to collect messages from ships, an Automatic Packet Repeater System from AMSAT India to assist amateur radio operators in tracking and monitoring position data, and the Advanced Retarding Potential Analyzer for Ionospheric Studies experiment from the Indian Institute of Space Science and Technology for structural and compositional studies of the ionosphere.
+
+Email the author.
+
+Follow Stephen Clark on Twitter: @StephenClark1.

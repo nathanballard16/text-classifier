@@ -1,0 +1,45 @@
+Kore.ai Earns Acclaim from Frost & Sullivan for its Visionary Conversational AI Platform that Helps Create Intelligent Financial Enterprises
+
+Kore.ai's enterprise-centric approach is built on its open and extensible platform and end-to-end bot lifecycle management capabilities
+
+SANTA CLARA, California, Feb. 12, 2019 /PRNewswire/ -- Based on its recent analysis of the global conversational artificial intelligence (AI) platform market for financial services, Frost & Sullivan recognizes Kore.ai, Inc. with the 2018 Global Growth Excellence Leadership Award. The company's leadership identified the potential of bots when it was still an emerging technology and quickly launched an end-to-end, enterprise-grade conversational AI bots platform for the financial services sector. The platform reflects Kore.ai's vision to transform global enterprises digitally so that they can automate routine processes and tasks across the ecosystem of employees, partners, customers, and stakeholders.
+
+Photo - https://mma.prnewswire.com/media/819664/Frost_Sullivan_Kore_ai_Award.jpg
+
+"Kore.ai is aware that innovation is key to its vision to sustain growth and remain relevant in the rapidly developing market," said Deepali Sathe, Senior Industry Analyst. "The company's focus on innovation and frequent updates displays its focus on striving to remain relevant to customer needs. Additionally Kore.ai is expanding its presence across the globe and its multi-language processing capabilities can be expected to add further impetus to their growth plans. Conversational AI has potential to enhance customer experience and help companies optimize their resources, and Kore.ai is well placed to take advantage of the emerging opportunities."
+
+"Kore.ai has consistently set the tone for greater adoption of conversational AI by foreseeing the demands of the market," observed Kore.ai's Founder and CEO Raj Koneru. "Our clients appreciate the comprehensiveness and market readiness of our platform, while leading industry analysts have researched and validated our rich feature set for specific industry needs. We are honored to receive Frost & Sullivan's recognition for our contribution toward financial services industry," Raj explained.
+
+The company's intelligent virtual enterprise assistant, Kora, is expected to attract considerable interest upon its launch in 2019. In addition, Kore.ai is working on another product called searchbot to help enterprises leverage bundled conversational AI and search to enhance efficiency and productivity. In its most recent 6.3.0 release in December 2018, Kore.ai enhanced the adaptability of its conversational AI platform by making it more open and extensible for efficient integration with global enterprise systems. Furthermore, the company aims to offer a software-as-a-service (SaaS) platform to address the needs of mid-market customers.
+
+In the current financial sector, one of the biggest challenges for banks is customer engagement. Conversational AI bots can help companies continue dialog with digital consumers. Kore.ai's platform offers specific features that aid in provisioning or de-provisioning, onboarding, which is important in view of the emphasis on security in the financial sector. Flexible pricing models such as license fee-based and usage-based options are appreciated by customers.
+
+Kore.ai's proprietary platform is equipped with application programming interfaces (APIs), messaging middleware, modules for bot connectors, and capabilities for speech recognition through integrations. Cross-functional teams can develop and deploy multi-language bots using in-built natural language processing (NLP) engines, conversational dialog management, messaging middleware, and enterprise backend integration.
+
+"As AI adoption gathers speed among Fortune 500 companies, Kore.ai, with its suite of conversational AI products and services, is set to experience a surge in growth. The company, already well established in North America and Europe, is looking to expand in Australia, New Zealand, Singapore, India, and the Middle East. It has also developed a large partner ecosystem to penetrate a variety of global markets," noted Sathe. "Kore.ai's focus technology with a proprietary platform underlines its commitment to staying ahead of the curve and positions it for accelerated growth in the future."
+
+Each year, Frost & Sullivan bestows this award upon the company that demonstrates excellence in growth and customer value. The award recognizes the superiority of the product/service as well as the overall customer, purchase, ownership, and service experience offered, which results in the recipient company seeing above-market growth. In addition, the award lauds the company's growth, diversification, and sustainability strategies.
+
+Frost & Sullivan Best Practices Awards recognize companies in a variety of regional and global markets for demonstrating outstanding achievement and superior performance in areas such as leadership, technological innovation, customer service, and strategic product development. Industry analysts compare market participants and measure performance through in-depth interviews, analyses, and extensive secondary research to identify best practices in the industry.
+
+About Kore.ai, Inc.
+
+Kore.ai is a preferred conversational AI partner for Global 2000 companies. It provides an enterprise-grade, end-to-end conversational AI platform available on-premise/cloud for building secure, smart, conversational and quick-to-market bots. Kore.ai has repeatedly won global analyst acclaim and was most recently featured in Gartner Market Guide 2018 for Conversational Platforms,IDC Innovators: Conversational AI Software Platforms 2018 and Everest Group's Conversing with AI - Intelligent Virtual Agents Market Report 2019.
+
+About Frost & Sullivan
+
+Frost & Sullivan, the Growth Partnership Company, collaborates with clients to leverage visionary innovation that addresses the global challenges and related growth opportunities that will make or break today's market participants. For more than 50 years, Frost & Sullivan has been developing growth strategies for the global 1000, emerging businesses, the public sector, and the investment community. Contact us: Start the discussion .
+
+Contact:
+
+Kristen Moore
+
+P: 210.247.3823
+
+F: 210.348.1003
+
+E: kristen.moore@frost.com
+
+Karthik G
+
+E: karthik.gandrajupalli@kore.com

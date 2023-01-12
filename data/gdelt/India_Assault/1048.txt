@@ -1,0 +1,15 @@
+New Anatova Ransomware Morphs Itself as an App or Game to Dupe Victims: McAfee
+
+A new ransomware named Anatova has been discovered by McAfee, and the security firm claims that the ransomware disguises itself as free games and software to attract users to download it. This ransomware has hit users mostly in the US, but it's been spotted in Belgium, Germany, France, the UK, and other European countries as well. McAfee claims that the new code behind this ransomware, and its modular extension abilities, suggests that seasoned malware developers are behind this, and it seems to have first emerged on January 1.
+
+The new Anatova ransomware family was discovered in a private peer-to-peer (p2p) network, and McAfee feels that it can become a serious threat since the code is prepared for modular extension. The research company notes that the main goal of Anatova is to cipher all the files it can before requesting payment from the victim.
+
+The ransomware morphs itself into the icon of a game or application to try and fool the user into downloading it. Once downloaded, Anatova will encrypt all or many files on the infected system and insist on payment to unlock them. "The malware developers demand a ransom payment in cryptocurrency of 10 Dash - currently valued at around $700 USD, a quite high amount compared to other ransomware families," the company notes.
+
+McAfee says that Anatova creates RSA Pair of Keys using a crypto API that will cipher all strings. This function is the same as in other ransomware families, such as GandCrab or Crysis. It makes sure that the keys that will be used are per user and per execution. It then writes a ransom note that includes the email address and the payment mode.
+
+"Anatova has the potential to become very dangerous with its modular architecture which means that new functionalities can easily be added. The malware is written by experienced authors that have embedded enough functionalities to be sure that typical methods to overcome ransomware will be ineffective," said Christiaan Beek, lead scientist and principle engineer at McAfee, told ZDnet.
+
+The report also states that Anatova will terminate itself if it finds that the victim is a member of the Commonwealth of Independent States - made up of former Soviet nations, including Russia. It will also not infect systems in Syria, Egypt, Morocco, Iraq and India.
+
+While Indian users are safe for now, we recommend all Internet users to download any unofficial games or apps with caution.

@@ -1,0 +1,55 @@
+Redmi Note 7 Pro review: An outstanding budget phone for 2019
+
+The Breakdown If you're out in the market for a terrific value-for-money smartphone with good core qualities, the Redmi Note 7 Pro should definitely receive your attention. Build and Design – 85% Display – 80% Performance – 85% Camera – 80% Battery – 85% Pros Attractive build, great performance, good rear cameras, reliable battery life Cons MIUI ads, slow recharging, no dedicated micro SD slot, selfie camera could be better
+
+Xiaomi’s Redmi Note lineup has become a household name in India and is easily the best-selling range for the company in the country to date. But there were doubts about the company’s long term vision for the series when the company announced the Redmi Note 6 Pro as it wasn’t the usual high-profile upgrade many had expected. But six months after its launch, Xiaomi brought the Redmi Note 7 Pro with some eye-catching specifications on paper and a renovated design. Xiaomi marketed it with a “Thug Life” tag on its promotional posters but does it really live up to the hype?
+
+We’ve got our hands on the Redmi Note 7 Pro and we’ll see if the latest Redmi Note has what it takes to win the Indian budget smartphone buyer’s heart.
+
+Build & Design
+
+Many Redmi Note series fans had been clamouring about the unchanging design and build quality of the Note series. With the Redmi Note 7 Pro, the company has finally heard users and taken the series to the next level. It’s no longer a matte finish metal with those plastic stripes on the top and bottom. It’s metal topped with Corning Gorilla Glass 5 and a gradient finish, one that buyers would find attractive and pleasurable to use. The display is also now a dot-notch design which is minimalistic and gives a higher screen-to-body ratio than before. And, there’s also a USB Type-C, which is another demanded feature. This is the biggest design upgrade for the Note series and I must say it can now compete with the Realmes and Honors in the industry.
+
+Xiaomi throws in a transparent back cover for extra protection which I suggest should be used all the time. The handset is slippery due to the glass coating but it also has P2i splash resistance which is good enough to protect from small drizzles. In short, it’s a big upgrade over its predecessors and a very pleasant one indeed. One pretty weird thing is the placement of the notification LED slightly offset from the centre on the bottom bezel. It’s not a deal breaker or anything but Xiaomi could have moved it to the far extreme to make it much more bearable.
+
+Display
+
+Xiaomi has opted for an LTPS 6.3-inch panel with Full-HD+ resolution on the handset. It’s a pretty crisp and bright display with good colour accuracy. Viewing angles are great and sunlight legibility isn’t a problem either. And Xiaomi’s MIUI offers a good amount of customization for those who want to tinker with colour tones. For casual users, there won’t be much of a difference between this and an AMOLED panel. I’m glad that Xiaomi didn’t make a bad tradeoff here as the display quality doesn’t leave a lot to be desired. Also, if you just despise the notch, there’s a way to hide it in the settings and it’s a good feature to have the option.
+
+Redmi Note 7 Pro Performance
+
+Performance is one area where the Redmi Note 7 Pro really shines and shows its value. After all, Xiaomi brought the newly-announced 11nm Snapdragon 675 SoC to a price point not seen before. And what we have on our hands is just a powerful handset that is reliable not only for mundane tasks but even hardcore gaming. This processor doesn’t hiccup and gets the job done. One particular moment that I repeatedly faced a lag was with the home gesture when I wanted to momentarily exit games. It was a bit annoying but that’s the only place that I faced any stutter. Hence I put up with it. There could be the occasional stutter or frame drop in games but it’s almost non-existent on my phone and overall performance is highly pleasing.
+
+Gaming
+
+I played COD Mobile with the highest graphics settings and gameplay was buttery smooth. I’m not the one to look at many benchmarks but will post the results here. Also, there might be heat build up after long gaming sessions as this is a metal glass build but it’s under acceptable levels. The price point at which this performance has been achieved is remarkable. If you’re into benchmarks, we’ll leave some scores here for you to check out.
+
+Audio, fingerprint, and call reception
+
+The fingerprint reader works as usual (very accurate) while face scanning is a tad bit slower than devices like the OnePlus 6T. As for sound quality, it’s what we’ve come to expect from most Redmi Note devices in the recent past. The single bottom firing speaker is adequately loud and is sufficient for round-the-clock use. I haven’t found any additional quality in this particular aspect. Calls and receptivity have also been reliable for the most part, so no complaints there either.
+
+Redmi Note 7 Pro Camera
+
+That’s another big upgrade area where the competition will have to dig deep to even compete with Xiaomi. The Redmi Note 7 Pro is endowed with a 48MP Sony shooter and it performs admirably in well-lit conditions for a phone under Rs 15,000. Day shots are well detailed with good and accurate colour reproduction and vividness. There’s also a 48MP mode if users want to go all in but I found the 12MP mode enough for my demands.
+
+As for low-light shots, the camera still is a big improvement from its predecessor although you start to see noise creeping in as light decreases. There’s a dedicated Night Sight mode which won’t help in reducing the graininess but it does improve the dynamic range.
+
+As for selfies, it isn’t as interesting as the rear camera but still clicks very decent portraits in well-lit conditions. In low-light, the quality does come down more than the rear sensor. Edge detection is usually never fully accurate on most phones these days and that’s true for the Note 7 Pro as well. That said, I’d still call this shooter an upgrade over last year’s model. The same can be said for the video mode that tops out at 1080p at 30fps. The stabilization is decent though as it works satisfactorily to cancel out usual shakes and jerks.
+
+All in all, it’s remarkable to see how far the Redmi Note series has come in the photography department with the Note 7 Pro. I remember how users of the Redmi Note 3 would lament the lack of a strong camera on an otherwise great handset more than a couple of years back. With the Redmi Note 7 Pro, I’d say the job is accomplished.
+
+Redmi Note 7 Pro Battery
+
+
+
+Xiaomi puts in a 4,000mAh cell inside the Note 7 Pro which I’ve found to be fairly adequate. I’ve touched the 6-hour SOT mark and sometimes even more with moderate usage. With heavy gaming sessions (1+ hours), I drained the battery faster and it was at 30 percent by evening. This is enough to drag you through the rest of the day. This phone can last you a full-day easily with regular use patterns but extensive gaming sessions will probably lead to the battery ending by night. Again, battery life is all very subjective and your mileage may vary. There’s also QC 4.0 support but sadly there’s no compatible charger to provide that fast charging in the box. You’ll have to buy it separately.
+
+Redmi Note 7 Pro Software: Android Pie MIUI 9
+
+MIUI now has a lot of new features and it’s improved a lot over time. There’s dark mode, wallpaper carousel, a dedicated theme store, and a great gesture system that works. There’s a lot more but there’s no app drawer. I genuinely feel that the company should offer an optional app drawer option. Even recent ColorOS 6 update for OPPO has added the feature while EMUI has had it for a while.
+
+As for ads, I honestly didn’t find many obtrusive ones except for notifications from the Mi Browser. This is one negative I admit, but Xiaomi has promised to trim down ads in the near future so let’s hope for the best. Also, these can be switched off. Although this isn’t a big drawback as there are a ton of launcher options in the Play Store. Performance-wise, MIUI 10 is a good servant that will tend to your daily needs without being a battery hog.
+
+Conclusion
+
+The Redmi Note 7 Pro is just an immense value-for-money phone for what it offers at Rs 14,000. There are no two ways about it. Xiaomi has nailed the core essentials such as performance, camera, display, and battery on its Pro handset to offer an irresistible deal to the budget smartphone buyer. I won’t be surprised if the Note 7 Pro clocks some more impressive sales figures to continue the Redmi Note legacy further in 2019. In short, if you’re looking for a smartphone under Rs 14,000, the Redmi Note 7 Pro should definitely be on your shortlist.

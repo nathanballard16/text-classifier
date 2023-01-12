@@ -1,0 +1,3 @@
+How to make thrill-seeking techies love your slow business: notes from Rivigo and BlackBuck’s battle for engineers
+
+"My journey was pretty much a roller-coaster ride. The system was running extremely fast. We were updating apps, releasing new features every two weeks, learning on the fly."But for this former mid-level engineer at BlackBuck, a startup that wants to build an Uber for logistics, “something was missing”. Sure, he got to work at one of the company’s biggest revenue-generating verticals. It was a great training ground. But there was one vital

@@ -1,0 +1,23 @@
+TechM to deploy blockchain solution to curb spam calls
+
+The firm will be deploying the blockchain solution by this month-end, in association with a select telecom provider while curbing unsolicited commercial communication (UCC) or spam calls.
+
+Information technology major Tech Mahindra (TechM) announced the deployment of a solution to prevent spam calls by using blockchain technology that will aim to help over 300 million mobile subscribers.
+
+The firm will be deploying the blockchain solution by this month-end, in association with a select telecom provider while curbing unsolicited commercial communication (UCC) or spam calls.
+
+The company has designed the blockchain solution, constituting more than 25% of the Indian market share, in compliance with the regulations and guidelines of Telecom Regulatory Authority of India (Trai) in order to enable telecom providers prevent unauthorised access of their subscribers’ data. The solution will also affect unregistered telemarketers from sending fake messages and spam calls.
+
+TechM has partnered with Microsoft for creating blockchain-based solutions for combating spam calls and has submitted the proof-of-concept to Trai.
+
+Incidentally, IBM is working with Indian telecom firms and Trai for offering blockchain solutions and addressing problems of coordination between multiple parties in mobile number portability (MNP) and Do Not Call (DNC) registries. Besides India, the firm is also in talks with global telecom providers for offering blockchain services.
+
+“The new-age technology is a focus for corporates and government alike, and is expected to be a trillion-dollar market by 2030,” Rajesh Dhuddu, global practice leader for blockchain, TechM, said.
+
+“Once implemented by the end of this month, the country will have the largest used case of block chain technology to curb unsolicited calls as we have architected over 300 million mobile subscribers.’’
+
+The company is also demonstrating blockchain capabilities in diverse sectors including telecom and manufacturing.
+
+For instance, in the financial sector, TechM has designed a solution for one of the largest public sector banks in India to provide an immutable record of audit transactions and enable single view of transaction data from multiple systems on the blockchain, he added. According to research reports, the global blockchain in telecom market is expected to grow at a CAGR of 77.9% during the forecast period to reach revenue of $1.37 billion by 2024.
+
+For increasing the overall revenue, profitability and addressing the rising customer needs, traditional telecom companies are focusing on adopting blockchain technology to unlock new opportunities. Rising security concerns, demand for fraud management, and 5G implementation are few of the factors which are driving the growth of the blockchain in telecom market.

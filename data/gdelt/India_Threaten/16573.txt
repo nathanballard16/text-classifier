@@ -1,0 +1,33 @@
+Google issued 12K warnings to users globally, 500 in India in Jul-Sep on govt-backed attackers
+
+Google sent out over 12,000 warnings to users globally, including 500 in India, between July and September this year to sound them out against being targeted by "government-backed attackers".
+
+The disclosure comes close on the heels of messaging giant WhatsApp stating that an Israeli spyware called Pegasus had been used to spy on journalists and human rights activists globally, including 121 people in India.
+
+In a blogpost, Google said its Threat Analysis Group (TAG) tracks more than 270 targeted or government-backed groups from over 50 countries, without naming any entity.
+
+These groups, it said, have many goals including intelligence collection, stealing intellectual property, targeting dissidents and activists, destructive cyber attacks, or spreading coordinated disinformation.
+
+"We've had a long-standing policy to send users warnings if we detect that they are the subject of state-sponsored phishing attempts, and have posted periodically about these before," Google said.
+
+It added that from July to September 2019, it "sent more than 12,000 warnings to users in 149 countries that they were targeted by government-backed attackers".
+
+As per the heatmap on 'Distribution of government-backed phishing targets in Q3 (July-September 2019)' users in India had received about 500 such warnings.
+
+Google said it uses the intelligence it gathers from such information to protect its infrastructure as well as users targeted with malware or phishing.
+
+The US-based company pointed out that the numbers this quarter were consistent with the number of warnings sent in the same period of 2018 and 2017.
+
+"Over 90 per cent of these users were targeted via 'credential phishing emails'... These are usually attempts to obtain the target's password or other account credentials to hijack their account. We encourage high-risk users - like journalists, human rights activists, and political campaigns - to enroll in our Advanced Protection Program (APP)," Google said.
+
+APP uses hardware security keys and provides the strongest protections available against phishing and account hijackings and is designed specifically for the highest-risk accounts, it added.
+
+Last month, WhatsApp had disclosed that Pegasus spyware was used by unnamed entities to snoop on about 1,400 users globally, including 121 users from India.
+
+NSO - which is said to be the maker of the Pegasus software - had said it only sold its "technology to licensed government intelligence and law enforcement agencies to help them fight terrorism and serious crime" and is not "designed or licensed for use against human rights activists and journalists".
+
+However, the government has maintained that it has no dealings with NSO.
+
+Last week, WhatsApp had written to the Indian government expressing "regret" over the snooping row, and assured that it is taking all security measures to address concerns.
+
+(This story has not been edited by Business Standard staff and is auto-generated from a syndicated feed.)

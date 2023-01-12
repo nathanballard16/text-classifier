@@ -1,0 +1,27 @@
+AP, Telangana in political slugfest over ‘data theft’
+
+A war of words erupted between the Andhra Pradesh and Telangana governments after the Cyberabad police here booked a case against IT company IT Grids India Pvt Ltd for allegedly obtaining access to private data (Aadhaar and voter ID) of individuals residing in Andhra Pradesh through the ‘Seva Mitra’ app.
+
+The police has served a notice on Amazon’s cloud service company, Amazon Web Services, which hosts the data on the app that is run by IT Grids and belongs to the TDP. The police are also approaching the Unique Identification Authority of India (UIDAI) and the Election Commission (EC) for more details. “We have asked for the production of the database relating to the app and other data (related to the case),” Cyberabad police said.
+
+Initial investigation found that the firm had obtained illegal access to “personal and sensitive data of individuals which can be misused for illegal purposes”, the police added. “Through this app, they have constituency-wise voters’ data and the (political) affiliations of each voter. It also has voter ID details, caste details and addresses of voters,” a senior Cyberabad police official said.
+
+Acting on a complaint by T Lokeshwara Reddy, the police raided the office of the firm here and seized IT storage devices and phones.
+
+While Andhra Pradesh Chief Minister N Chandrababu Naidu and his son and IT Minister Lokesh have alleged that the Telangana government is trying to get access to the State’s data through the move, the Telangana Rashtra Samithi (TRS) has defended the police action.
+
+“KCR (Telagana Chief Minister KC Chandrasekhar Rao) is functioning like a dictator and, in collusion with the main opposition party in Andhra Pradesh, the YSRCP, he is hatching conspiracies to undermine the electoral prospects of the TDP in the coming elections,” said Naidu at a public meeting at Madanapalle in Chittoor district on Monday.
+
+“Under the guise of protecting the data pertaining to the citizens of Andhra Pradesh, the Telangana police raided the IT firm...With great alacrity, the Telangana police acted on a motivated complaint without even prima facie evidence.”
+
+The TDP demanded that the case be transferred to Andhra Pradesh as per the provisions of the Criminal Procedure Code. Party leaders maintained there was nothing confidential about the data stored by IT Grid as “everything is available in the public domain”. The data was a result of ‘24 years of hard work’ and was the TDP’s property, said Naidu.
+
+The YSRC, however, questioned how confidential data went into private hands. “It is very clear they were collecting a lot of information which probably is not collected even during a census,” observed Srinivas Kodali, a data privacy activist.
+
+At a press conference here today, KT Rama Rao, KCR’s son and an MLA, refuted the claims of theft of AP’s data. He said the police booked a case here as the offence was committed in the city.
+
+Habeus corpus plea
+
+Meanwhile, the Telangana High Court has dismissed a habeus corpus petition filed by IT Grids CEO Ashok, praying for the production of four of his employees. The court dismissed the plea after the police presented the employees, who they said had been detained for questioning in the case.
+
+With inputs from Ch RS Sarma in Visakhapatnam, PTI

@@ -1,0 +1,167 @@
+ICSF - Documentation center
+
+Tamil Nadu: Making maps to protect fishing villages around Chennai
+
+by Mahima Jain
+
+February 08,2019 | Source: Mongabay
+
+- Fishing communities across the southern Indian state of Tamil Nadu are fighting to protect their traditional lands as the sea rises on one side and residential and industrial development encroaches on the others.
+
+- To support these communities, a 35-year-old local fisherman is helping them create maps that document how they use their land.
+
+- By creating their own maps, the communities are taking control of a tool that has always belonged to the powerful.
+
+- Their maps allow them to speak the language of the state so they can resolve disputes and mount legal challenges against industries and government projects encroaching on their land and fishing grounds.
+
+
+
+In a small fishing hamlet in Tamil Nadu, a community leader opens his smartphone and searches his contacts for “Map Saravanan” to make sure the number is saved correctly.
+
+
+
+Amused at the nickname he’s been given in recognition of his skills, Saravanan, who is sitting across the room, laughs: “Isn’t my name enough?”
+
+
+
+The 35-year-old fisherman is a local legend who uses “maptivism” to help fishing communities across the state. Saravanan (who uses only his first name) creates maps documenting how fishermen use the land, by means of participatory mapping techniques, government records and historical data.
+
+
+
+As a coordinator with the advocacy group Coastal Resource Centre in Chennai, Saravanan has mapped around 35 villages across four districts of Tamil Nadu. He aims to eventually cover all of the state’s 600-odd villages lining the Bay of Bengal and Indian Ocean. Maps, in general, are created by governments and bureaucrats for administrative, economic and military purposes. By creating their own maps, Saravanan and the fisherfolk he works with, are taking control of a tool that has always belonged to the powerful. Their maps allow them to speak the language of the state so they can resolve disputes and mount legal challenges against industries and government projects encroaching on their land and fishing grounds.
+
+
+
+Saravanan is also acutely aware of the threat posed by sea-level rise. According to one study, nearly 40 million Indians and more than 125,000 fisherfolk along the coast of Chennai, Kancheepuram and Tiruvallur districts would be affected if the sea level rises by 1 metre (3.3 feet) by 2050.
+
+
+
+This includes the 20,000-plus residents of Urur Olcott Kuppam, a village in Chennai where three generations of Saravanan’s family have lived.
+
+
+
+With the Adyar River to its north and the popular Elliot’s Beach to its south, Urur Olcott Kuppam is conspicuous due to the contrast it presents with its surroundings. Its densely packed shanties and small concrete buildings crowd unpaved roads. At its north end is a complex of public toilets and all along its east-facing beach are boats and nets owned by its residents. To the west, though, are apartment complexes and the gated park of the Theosophical Society. And to the south, cafes and restaurants, large bungalows and tree-lined roads border a popular scenic beach and promenade.
+
+
+
+In Saravanan’s grandfather’s time, the village didn’t even make it onto the city’s maps. But the city of Chennai, previously known as Madras, has been expanding every year and fisherfolk like Saravanan have multiple battles to fight as the sea rises on one side of their homes and the city on the others. They have to keep their traditions and common lands safe not just from the wrath of nature (Chennai withstood the Indian Ocean tsunami in 2004, and more recently severe floods in 2015, Cyclone Vardah in 2016 and a water crisis in 2017 and 2018) but also from residential and industrial encroachment. For now, Saravanan aims to create maps that capture not just the contours of fishing villages, but also their details, colour and vitality.
+
+
+
+How did you conceive the idea of mapping your villages? Why did you start this?
+
+
+
+Saravanan: Between 2007 and 2009, there were plans for a project called the Elevated Expressway. It was a six-lane project affecting at least 14 fishing villages. The project feasibility report stated that fishing villages would not be disturbed, and that the project would only utilise beach space that has “no other use.” But this space is more important for our livelihoods and lives than our villages. It is where we rest our boats and nets. Our catamarans lie there, and we dry fish there. It is in this space where we trade fish and sell it at auction. The beach serves many purposes. This space is associated with our livelihoods, and is intertwined with our lives.
+
+
+
+But the government could only say that the space is of no use. So I realised that there has been no documentation of how we use this space. We then came into contact with Siddharth Hande, then with [the advocacy group] Transparent Chennai, who suggested we could record our data through mapping and create documents. This got me interested. He first started recording the data in my village and I started learning from him. He did one project in Chennai. After that, I did the documenting in many fishing villages throughout Tamil Nadu.
+
+
+
+Mapping is not just about documenting our rights. If there is something illegal happening, fishermen send us a GPS point. I will figure out the area’s survey number, the zone, how far it is from the high-tide line, whether the activity is legal or not. When I respond with these details, they go ahead and take action on it.
+
+
+
+So our mapping is not just about tracking the areas where we park our boats and so on. We also use it to stop illegal activities.
+
+
+
+What kind of legal protection do Indian fishermen have when it comes to their rights over the seas?
+
+
+
+It is common understanding that the sea and the land along the sea belong to fishermen based on traditional rights that they have had for generations. But there is no legal sanction for such traditional rights. There is no government order saying that the fishermen have rights over the resources of the sea and they cannot be disturbed. There is no court order or even a gazette notification to this effect.
+
+
+
+However, Annexure 1 of Section 5 of the Coastal Regulation Zone Notification of 2011 describes Coastal Zone Management Plans, which each state is supposed to develop and codify, as recognising the traditional rights of fishermen.
+
+
+
+Each map in a state’s Coastal Zone Management Plan is supposed to show a fishing village and its common areas, which are used for parking boats, storing and repairing nets, drying fish, and its fish-breeding grounds and so on. It should also show the social services and infrastructure of the fishing village: the roads, its community hall, hospitals, temples and schools. Keeping in mind the effects of climate change, it also says that long-term plans for housing the fishermen should be considered. So if the notification and management plans are made into law, there would be legal recognition of the traditional rights of fishermen. For now, we use the notification and its subsequent amendments as our weapon to secure our rights.
+
+
+
+When my father said that the sea and its shore belong to fishermen, he held no rights. But when my son says the same thing, he should have rights.
+
+
+
+What is your method for the participatory mapping project? What are the tools used?
+
+
+
+[My colleague Pooja Kumar and I] basically focus on training young people in all the villages. Every fishing hamlet has its own set of problems, and we use the maps to tell them how to handle their problems. It empowers them to find their own solutions.
+
+
+
+Method is very important in mapping. Our GIS [geographic information system] mapping follows international standards. The maps in Tamil Nadu’s draft Coastal Zone Management Plan from 1996 were hand-drawn and did not follow GIS standards. The 2011 notification specified that it should be done to international standards and in GIS format. I learned that format and the tools — I use open-source software called QGIS. Normally the software costs several lakhs [several thousand dollars], which we can’t afford. But using GRASS, a free and open-source GIS software, we can get the physical data. There are other free tools to map land use. Using those, we create maps for built-up areas, agricultural areas, etc. There are many tools in GIS like geo-referencing and so on. Android smartphones have a free app called GPS Essentials that we use to collect data.
+
+
+
+In mapping it is very important to go to the field and collect data, which we do either through Android phones or GPS devices.
+
+
+
+How does mapping help your efforts to gain legal recognition of your rights?
+
+
+
+The economy of the country is dependent on ports, and there are many new harbour projects and projects around the ports. The government is targeting the sea and the places around the sea. So, the Coastal Zone Management Plans become important.
+
+
+
+We map to identify the spots in the sea that the fishermen frequent most. So if the government plans to bring a project there, we can establish that it is a place our fishermen use. Earlier, there was no evidence to establish this. GIS mapping has helped us achieve this.
+
+
+
+When it comes to documenting fishing practices and traditions, in prawn-fishing areas, if fishermen from one village fish there it is followed by two days of rest before the fishermen of another village go there and fish in that area. We have documented such systems, practices and areas through mapping.
+
+
+
+Here’s a success story: In 2016, as part of the Ennore Thermal Power Station annex [in Chennai], a conveyor belt was built in an area traditionally used for prawn fishing. The fishermen were able to show the previous management plan maps and tell the government that the construction violated the Coastal Regulation Zone norms, as this was their workplace. The government had to relent and shut down the conveyor belt, restoring the land to the fisherfolk.
+
+
+
+After we create village-level maps, the respective panchayats [local self-governments] pass a resolution ratifying the maps and plans, which are then passed on to the relevant district and state departments for inclusion in official plans. However, the departments may or may not include them in full in the Coastal Zone Management Plan. So we follow up, requesting they show us proof of the steps they’ve taken to include the maps we created.
+
+
+
+What do you think threatens your seas and shores the most?
+
+
+
+As fishermen, we are solely dependent on seas and shores for our livelihoods. The threats we face are multifold: natural disasters, man-made mistakes and government and business projects.
+
+
+
+Projects like Sagarmala [an approximately $120 billion – Rs. 8.5 trillion – government transport and logistics project launched in 2015] and beach beautifications pose a huge threat. The governments see the seas and shores only through an economic lens. The central government in India neither recognises nor deems it fit to take into account the livelihood of the fishing community. Instead, the government sees the sea as something to fill its coffers. It only sees it as blue economy and focuses on bringing in multinational companies. The threats we face from government projects are huge.
+
+
+
+It is not just about the projects; they also want to evict us from the shores, as the value of our shores is huge. These days, people are enamoured with living by the sea. People want to build factories and beach-facing properties on the shore.
+
+
+
+Then there are human activities like discharging industrial effluent and untreated waste into the sea and rivers. There is a deep connection between the rivers and the sea. If the river is polluted, it will affect the sea [and therefore fish and fishing activities].
+
+
+
+Another major issue is the construction of seawalls. In Kovalam village, they put up a breakwater that was supposed to save the village. But as a result in nearby villages like Karikattukuppam there is no place to park boats anymore and the buildings have been destroyed because of erosion.
+
+
+
+We were affected during natural disasters like the 2004 Indian Ocean tsunami, but it was a natural disaster and fishermen always had a way to cope with these. But to be affected by manmade or government disasters is to live in perpetual fear.
+
+
+
+How does mapping help you to handle these threats?
+
+
+
+In 2016-2017, the Indian Institute of Technology Madras released a report on shoreline management. It was about coastal erosion, and assessed how much damage would be caused if the sea rises by 1 metre. The Indian Space Research Organisation had released a similar report in 2012. But the government did not use it, nor has it let the public know about the results. There has been no training on how to handle these issues.
+
+
+
+For example, Pulicat is a lake and estuary. If sea level rises by 1 metre in the next 50 years, there will be severe consequences for it. We know this because of the mapping and we have reiterated our demand for long-term housing [to relocate vulnerable fishing communities]. The mapping was very useful in that sense. Only when we analysed the Indian Space Research Organisation maps along with satellite imaging did we realise the gravity of the situation. We worked on it and we spread the message to many villages. Mapping is a tool to help us to protect ourselves into the future.

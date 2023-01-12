@@ -1,0 +1,35 @@
+Research, Interdisciplinarity and Science Communication – PaGaLGuY
+
+“Research is formalized curiosity. It is poking and prying with a purpose.” – Zora Neale Hurston, influential author of African-American literature, anthropologist, and filmmaker
+
+A systematic investigation of materials and sources to establish the facts and reach new conclusions, research is a careful consideration of a study regarding a particular problem using scientific methods. In the present times, there has been a striking transformation of interest while exploring the burning issues of today and providing their practical solutions. Different from the past, where questions were probed through a single field, it utilizes multiple-level engagements among different branches of research to answer the unknown.
+
+Educational institutes and research organizations around the world are developing liberal programmes with a broader understanding of different subjects and fields, promoting maximum interdisciplinary collaborations for the betterment of society.
+
+IIT Gandhinagar considers collaborative research as the necessary foundation of its academic culture. It is visible in the form of an enthusiastic interdisciplinary faculty, students who are a part of multiple branches of study and an open-collaborative-lab system that is the heart of all academic activities in the campus.
+
+A critical aspect of research now-a-days is its effective communication with society. Scientists and research scholars are used to writing scientific articles, which are usually not easily comprehended by the general public. There is a dire need to explain research in more straightforward terms to spread maximum science literacy among laymen. This type of communication acts as a bridge between society and science. It will eventually lead to dialogues and discussions, which are crucial for society-oriented, feasible advancements in all possible fields and topics of grave importance.
+
+This write-up is my attempt at summarizing some collaborative and latest researches happening at this Institute. I love science, but what I love more is communicating it to the masses. I want to make it easy for people to understand the complex mysteries of its universe. This universe of science and research is huge, and I want to contribute my bit towards bringing it within the reach of the society. The end goal of effective science communication is to pique people’s interest in exploring science, technology, and research for the benefit of all.
+
+The first research story is of a nanoparticle engineered by Dr. Sudipta Basu, an IIT Gandhinagar professor in chemistry, and his research team from IISER Pune. This product could potentially destroy cancer cells more efficiently, as compared to existing modes of cancer-therapy. In simple terms, this nanoscale particle is a kind of a courier package comprising of three main components. The first constituent is a tag, serving as an address to ensure delivery at the right location.
+
+The second is a fluorescent probe that visually tracks the package movements utilizing the technique of microscopy – similar to a GPS tracking system. The final element is the hsp90 (housekeeping protein) inhibitor, a small molecule drug released from the package on reaching its destination. This inhibitor stops the housekeeping (chaperone) protein from performing its task of degrading the wrongly synthesized unwanted proteins, causing them to pile-up in large amounts. This, in turn, would result in a buildup of stress, initiating the process of death of cancer cells.
+
+This drug delivery will have less effect on healthy cells as compared to cancer cells. How? It exploits the difference in pore sizes of blood vessels between these two cell types. This size in cancer cells is bigger, and, therefore, nanoparticles can readily move through them towards their end-target. In the case of healthy tissues, the junctions between cells and tissues are very tight, restricting the invasion of these particles up to a large extent.
+
+It will significantly reduce the levels of collateral damage, which is a concerning issue with the therapy of the present times. This treatment method is also much safer since it gets efficiently processed and cleared by the kidneys. In the future, there is a need to carry out further experimentations and trials to validate the industrial production and public utilization of this interesting mode of therapy!
+
+The second story is of a study that demonstrates that the population of Majuli, the world’s largest inhabited river island in the Assam state of India, might confront cancer risks in the near future. The reason is the presence of arsenic in their source of drinking water, the Brahmaputra River. Dr. Manish Kumar Singh, an IIT Gandhinagar professor in earth sciences, along with two Indian and one American researcher, has described a correlation between the levels of this chemical element in the groundwater, with that present in sediments and biological samples from inhabitants of this island, such as hair, nails, blood, and urine.
+
+This research was conducted in Assam since it encompasses a wide range of unique and suitable hydrological and hydro-geological settings (such as rainfall, temperature, climate change, etc.) to analyze the sediment and water interactions.
+
+This study also points towards a lack of awareness about such serious health issues in society, keeping it at a disadvantage and hence, prone to diseases. A significantly large number of people have no knowledge of the health risks and hazards they are exposed to because of consuming river water daily. There is a dire need to impart primary education to develop society’s perception of such issues in the right direction. This will help them prepare accordingly, and they will be able to face the problem more efficiently.
+
+In the future, measurement of arsenic and its distribution (along with other related elements) in groundwater is of utmost importance to demarcate safe aquifers as part of sustainable drinking-water management initiatives. There is also a need for Government policymakers to help spread the word among people by conducting workshops and sessions in areas where filters are not yet installed, and electricity is limited. Long term solution includes installation of water purifier plants. Further research on the analysis of such poisonous elements in crops and food intake is necessary.
+
+The next installment of this article will focus on the communication of more interdisciplinary, collaborative researches in different areas at IIT Gandhinagar with a public-friendly approach. So stay tuned, folks!
+
+“Success takes collaboration, communication, and sometimes failure.” – Jessica Alba, American actress, and businesswoman
+
+Read More

@@ -1,0 +1,55 @@
+India’s power sector hit by regulatory challenge
+
+A recent order from India’s top regulatory authority for the energy sector threatens to impose costs that run into trillions of rupees on several states and undermine the sanctity of Power Purchase Agreements (PPAs) across the country. It could also undermine contractual laws and established procedures for tenders and bids for government contracts.
+
+On April 12, the Central Electricity Regulatory Commission (CERC) endorsed an order that allowed the government of the west Indian state of Gujarat to increase the unit cost of power it was purchasing from Adani Power (Mundra), a private player. The company is part of the Adani Enterprises group, one of India’s largest conglomerates with interests in power generation, mining, infrastructure and defense, among others.
+
+Adani Power has sought for years to revise the agreed unit price of power it was selling to Gujarat. However, a tangle of litigation that went right up to the Supreme Court prevented the electricity tariff from being hiked. Two non-profit organizations, the Energy Watchdog and Prayas (Energy Group), had doggedly pursued the case to prevent any tariff rise. From 2003 till 2014 the CERC and its appellate tribunal had backed an order making way for a hike in power purchase rates by calling it a “compensatory tariff”.
+
+However, after the two non-profits approached the Supreme Court, earlier orders allowing the hike were struck down in an order dated April 11, 2017.
+
+Undermining existing laws
+
+As of March this year, India’s total installed power generation capacity is a little over 350,000 MW. Some 46% of this is supplied by private power corporations, while the balance comes from the state power producers.
+
+In 2006-2007, several states faced a major power crisis. To alleviate the shortage, it was decided to purchase power from private players at competitive costs. The states concerned invited bids under section 63 of the Electricity Act 2003 through a competitive bidding process. Major power companies such as Adani Power, Lanco Infratech Ltd, GMR and Tata Power bid to supply electricity and won contracts.
+
+In a state like Haryana, which had a shortfall of 2,000 MW, three companies bagged the deal. Adani got the bulk with an agreement to supply 1,424 MW, with GMR and Lanco supplying 300 MW and 389 MW respectively. Similarly, in 2007, Gujarat also put out a tender and Adani emerged as one of the biggest suppliers after the bidding process. Adani Enterprises, promoter of Adani Power (Mundra) Ltd won both the bids through a tariff bidding process initiated by state-owned Gujarat Urja Vikas Nigam Ltd (GUVL) to supply two lots of 1,000 MW.
+
+These bids were made under what is termed as ‘Case 1’ competitive bids under the Electricity Act regulations and guidelines. Under ‘Çase 1’ bidding the power supplier comes up with a unit cost and bids for the contract. The unit cost is decided after taking all future risks such as coal price fluctuations and exchange rate variations. Contracts are locked in for 25 years, with a provision that the unit cost can be changed under only two conditions. The first is known as ‘force majeure”, when natural events, such as a calamity, lead to circumstances where the unit costs must be raised. The other scenario is to increase the tariff if there is a change in laws, policies or taxes that increases the costs of generating electricity. This cost is then passed onto the consumer.
+
+For Adani, which buys a lot of its coal from Indonesia for its power plant in Mundra on the Gujarat coast, a change in Indonesian laws in 2010 led to a bid to revise the agreed unit cost. Adani also sources some coal from fields in India. However, with the change in laws in Indonesia in 2010, the Adanis immediately sought to raise the unit cost.
+
+However, the states and non-profits like Energy Watchdog and Prayas (Energy Group) raised objections, saying such a hike was illegal under the existing PPAs and would put enormous pressure on the public exchequer. They challenged the decision in the CERC, which passed two orders in 2013 and 2014 rejecting their concerns. The two non-profits went to the Supreme Court to appeal that decision. On April 11, 2017, the Supreme Court upheld their complaints and ruled that tariffs could not be hiked under the circumstances flagged by Adani.
+
+“At the root of the issue was whether a PPA can be changed midway. There were only two circumstances under which the tariff could be changed. It was either a change in Indian law or a ‘Force Majeure‘, as held by the Supreme Court,” a senior government energy sector official familiar with the case told Asia Times. “On April 11, 2017, the Supreme Court rejected the pleas by Adani and made it clear that there was no merit in a hike in tariff. It also pointed out that the change in Indonesian laws was irrelevant since the PPA only covered a change in Indian laws.” It also noted that there was no ‘force majeure‘ applicable in this case.
+
+Conflict of interest
+
+Strangely, despite facing a major fiscal burden, the state of Gujarat continued to be favorably disposed to Adani’s demand for a tariff hike. It set up a “High Powered Committee” to examine the issue and pass recommendations. A three-person panel studied the issue and recommended that Adani be compensated more than the unit price agreed in the PPA.
+
+However, the non-profits pointed out that the committee had gone beyond its charter. It recommended higher compensation for Adani, while due to foreign-exchange-rate variations. However, this was not within its mandate. A non-profit representative also pointed out that the committee set up by Gujarat state had Pramod Deo as a member. Deo was a former chairperson of the CERC that had dealt with the matter. He allowed the committee to be set up and that gave scope for the tariff to be hiked. While Deo retired from the CERC in June 2013, he had then chaired a decision on this issue. “To us, this was inappropriate because as someone who had adjudicated on this issue earlier. In a way, as a member of this committee, he was a judge in his own case,” one of the petitioners told Asia Times.
+
+The petitioner also noted that decisions of the CERC in 2013 and 2014 had been struck down by the Supreme Court in its judgment in 2017. “It is clear that an unexpected rise in the price of coal will not absolve the generating companies from performing their part of the contract for the very good reason that when they submitted their bids, this was a risk they knowingly took,” the Supreme Court said in its judgment.
+
+“So how the high-powered committee circumvented a judgment of the Supreme Court remains to be seen,” the petitioner said.
+
+However, in an emailed response, Deo claimed his participation was innocent. “There is no conflict of interest inasmuch as being an electricity regulator for more than 11 years, both at state and central level, I do not represent any party before any SERC or CERC,” Deo said. “[The committee)] was constituted by the Government of Gujarat and SBI Caps, which provided secretariat service to this committee [and] did not pay any remuneration to the committee members except sitting fees for the meetings held with all stakeholders. I am also on two central govt. committees and only travel expenses are paid.”
+
+However, Deo did not respond to queries about how the committee took up exchange-rate variations when that topic was not even part of the original public purchase agreements.
+
+Massive fiscal burden
+
+Officials in power in the various states locked in this dispute fear the fiscal implications of the post-facto amendments to the original agreements. “Recorded in the CERC’s order is an estimate that this could add Rs 1.26 trillion as an additional burden over what had already been contracted. This means consumers will have to pay a much higher rate since the state governments do not have the money,” a senior government official told Asia Times.
+
+To date, the Gujarat government has already paid Rs 9.6 billion in additional charges. In a state like Haryana, the approved rate was Rs 2.94 per unit. It could easily cross Rs 4 per unit and lead to additional payments running into billions of rupees.
+
+According to another official, the CERC order also has implications for contract laws and the whole bidding process in India.
+
+“Under the ‘Case 1’ competitive bidding category, power suppliers knew all the risks. By allowing a change in the terms of the contract, the CERC has nullified the sanctity of the contract as well as the bidding process. What prevents any contractor from bidding for a contract at a certain price, and then seeking its revision a few years later? The other bidders who quoted higher rates and lost out can now claim that their bids were much lower than the revised rates allowed by the CERC,” the official said.
+
+What has also flummoxed the petitioners is that the Supreme Court ruled on this issue in April 2017. How the CERC managed to circumvent an established position in law using the high-powered committee’s recommendations remains to be explained.
+
+“The Gujarat state government did go to the Supreme Court in 2018 to seek its permission to set up the committee. The Supreme Court also told them to approach the CERC for directions after the committee’s report was final. But how did the CERC get into issues that had already been decided? The Supreme Court was clear that only change in Indian laws or a ‘force majeure’ could allow a revision of rates. But none of that happened in this case,” a petitioner in the case told Asia Times.
+
+The Adani group and the state government officials did not respond to Asia Times’ detailed queries on the issue.

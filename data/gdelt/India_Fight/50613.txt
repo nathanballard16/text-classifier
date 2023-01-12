@@ -1,0 +1,51 @@
+Is India cyber security ready?
+
+Towards end-October, social media was agog with reports of a cyber attack at Kudankulam Nuclear Power plant. The Nuclear Power Corporation of India Ltd (NPCIL), on October 29, denied such a development and said both the reactors were running without ‘any operational or safety concerns’.
+
+In a disturbing move, within 24 hours, NPCIL ate its own words and admitted that there indeed was an incident. Computer Emergency Response Team (CERT-In), it said, had noticed a malware attack that breached India’s largest nuclear power facility’s administrative network on September 4.
+
+Further investigations had revealed that a user had connected a malware infected personal computer to the administrative network.
+
+NPCIL emphasised that the nuclear plant’s operational systems were separate (in technical parlance this is called an air-gap) and the administrative network was not connected to it. Hence there was nothing to fear.
+
+What is more worrying than NPCIL’s somersault was its lack of openness (the attack happened almost 55 days earlier), reluctance to share any details about the nature of the malware and, most importantly, obfuscate this grave development by saying that ‘any attack on the nuclear power plant control system is not possible’ as they are standalone systems.
+
+The malware, DTRACK, was developed by a North Korean hacker group and specialises in extracting information from a system. The Washington Post has quoted Virus Total, a virus scanning website owned by Alphabet (Google’s parent), saying a large amount of data was stolen during the breach. This, data, the paper added, could be used to plan the next attack more efficiently.
+
+Also, NPCIL’s faith on air-gap or an isolated network is laughable. Iran’s Nantez Uranium Enrichment facility that was attacked in 2010 was air-gapped. The attack, the world’s first use of a digital weapon, destroyed 984 centrifuges thereby setting Iran’s covert nuclear weapon programme back by a few years.
+
+The attackers — many point the finger at US and/or Israel — used the Stuxnet worm and chose not to attack Nantez directly but focussed on infecting four companies that were contracted to work in the facility. When one of the workers from these companies used a USB drive at the Nantez facility, the worm was deployed. It destroyed the centrifuges by spinning them at dangerous speeds. Thus air-gapping is not fool-proof as NPCIL would like us to believe.
+
+With India’s nuclear facilities located not too far from densely populated areas, fear of a potential nuclear meltdown (the worst outcome of a cyber attack) should make our policymakers paranoid over cyber threats. The way the Kudankulam incident was handled inspires very little confidence.
+
+Lackadaisical approach
+
+The larger issue here is whether India is prepared for cyber attacks which are increasingly seen as the fifth dimension in warfare after air, water, land and space. The threat level is high. According to cyber security major Symantec, India is among the top three countries in the world after the US and China when it comes to phishing and malware attacks.
+
+Other reports reveal that its share in mobile malware (they enter through apps) is reportedly a high 23.6 per cent. In 2017, there was one security breach every 10 minutes in India. This data has to be taken with a pinch of salt as many cyber security incidents go unreported.
+
+But our approach to this serious issue is, at best, lackadaisical — be it as an individual, corporate or government. Indians still prefer to use pirated software. Hackers exploit vulnerabilities in the software and without the frequent patches the developers send (pirated software user will not get it), the computer will be a sitting duck.
+
+Also, they are contend with just anti-virus which is just one feature of end-point protection. Most companies do not invest in quality people when it comes to manning the IT team. This despite cyber security been considered as an executive-level challenge.
+
+Most companies also lack a proper cyber security framework and standard operating procedures. Even if they have one, there is a need for constant training and awareness.
+
+Not many employees think twice before opening attachments or inserting a USB drive. Weak passwords are a bane and reminders to periodically change them are often met with a frown.
+
+With companies now adopting bring your own device (BYOD) policy, risks have only risen. Under the circumstances, businesses need to constantly test compliance through periodic audits. Those in critical sectors must also do vulnerability testing and even get ethical hackers to test their defences. Very few do this.
+
+Lessons from Estonia
+
+India cannot be cyber security ready unless the issue is taken up on a mission mode and in this Estonia, the northern-most of the three Baltic states, has some lessons for us. When this tiny nation (population 1.3 million) broke away from Soviet Union in 1991, it barely had any infrastructure, physical or digital. Today, it is one of the most digitalised countries in the world. All government services are delivered online. As much as 99.6 per cent of the banking transactions are done digitally. All the schools have been digitised and exams, homework and attendance are available at the click of a mouse. In fact, 28 per cent of people voted online in the last Parliamentary elections in 2018.
+
+In 2007, Estonia was subjected to a brutal cyber warfare (Russia is blamed for it).
+
+The Distributed Denial of Service (DDOS) attack crippled 58 Estonian websites. ATMs did not work. Online banking services failed and media houses could not broadcast news. Estonia adopted a transparent approach to this incident and cut itself off from rest of the Internet. It managed to defend itself well. It was a wake-up call.
+
+It learned from the experience and built a strong intrusion detection and protection systems, created awareness among people, built a strong public-private partnership to tap resources, put in place a central system for monitoring, reporting and resolving cyber incidents and mandated vital service providers to assess and manage their ICT risks regularly.
+
+It also created a voluntary Cyber Defence Unit where experts who work elsewhere chip in to protect when called.
+
+Estonia has also become proactive on cyber security. It ensured that NATO Co-operative Cyber Defence Centre of Excellence was set up in its capital Tallinn. Its annual scenario-based real time network defence exercise, Locked Shields, conducted since 2010 is considered the world’s largest and most complex. Today, when it comes to cyber security Estonia is among the top five nations in the world (India is not in the top 20).
+
+Recently, it has offered to help India on this front. We should grab this opportunity with both our hands.

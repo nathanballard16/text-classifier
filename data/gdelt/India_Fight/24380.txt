@@ -1,0 +1,59 @@
+Africa Check part of international group that wins 'Google AI Impact Challenge'
+
+We are excited to announce that Africa Check – along with three of our international partners – has been chosen from more than 2,600 non-profits, social enterprises and research institutions around the world as a winner of the Google AI Impact Challenge.
+
+The project – led by our colleagues at the UK fact-checkers
+
+Full Fact
+
+– is an ambitious plan to use artificial intelligence to transform the international fight against misinformation – in a collaboration with
+
+Africa Check
+
+, Latin America’s leading fact-checking organisation
+
+Chequeado
+
+and the
+
+Open Data Institute
+
+, co-founded by the inventor of the web
+
+Sir Tim Berners-Lee
+
+and artificial intelligence expert
+
+Sir Nigel Shadbolt
+
+.
+
+And today the project has been named as one of just 20 projects to receive transformative funding from Google.org and support from Google's AI experts.
+
+What we'll be doing
+
+Full Fact, pioneers in this field, have been working on automated fact-checking since 2013. Since then, with Chequeado and Africa Check, they have built technologies used across three continents and are working to roll them out to 50 organisations worldwide.
+
+Over the next five years, we'll come together to use machine learning to dramatically improve and scale global fact-checking efforts, working with international experts to define how artificial intelligence could transform this work, developing new tools and deploying and evaluating them.
+
+We'll help media outlets, civil society, platforms and public policy-makers worldwide understand how AI can help people decide what information to trust and bring the benefit of automated fact-checking tools to everyone.
+
+In five years, we hope our project will let individual citizens and internet users place trust with confidence, help internet companies make fair and informed judgements at scale, and enable policy-makers to better understand how they can respond to misinformation while robustly protecting free speech.
+
+A global effort
+
+In Europe, across Africa and Latin America we have witnessed the very real harms that can be done to society by misinformation. But it is not limited to the countries we work in directly. Since January 2017,
+
+33 people have been lynched
+
+by mobs in separate incidents fuelled by child kidnapping rumours that ran rampant on WhatsApp in India. Meanwhile, Minnesota battled its
+
+largest measles outbreak
+
+in nearly 30 years, with 79 cases. Researchers say the outbreak was fuelled by anti-vaccine messages.
+
+The harm caused by misinformation and disinformation affects millions of people's lives, health, safety and ability to participate in society, while governments around the world say they threaten to undermine democracy.
+
+Technological responses to these challenges are risky and potentially harmful. They require a deep understanding of public debate, commitment to protecting free speech, close attention to the responsible limits of AI in this field, and recognition of how much these can vary between countries, languages and social and political contexts. Technological solutions to global problems have too often been developed in and for the Global North which is why we are thrilled to be working from the outset on these solutions with Full Fact, Chequeado and the ODI, helping ensure they meet the needs of society in Africa and Latin America too. We believe an effective response requires collaboration across all sectors of society.
+
+But we can't solve this problem completely in a few short years. By establishing a global network of experts in misinformation and disinformation, we'll continue to innovate and apply emerging technologies to keep up with this ever-changing problem in years to come.

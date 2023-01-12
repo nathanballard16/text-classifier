@@ -1,0 +1,35 @@
+Budget 2019: India Takes Big Step to Boost Digital Payments
+
+Technology firms on Friday welcomed the move to levy two percent tax deduction at source (TDS) on cash withdrawal exceeding Rs. 1 crore in a year from a bank account, while small businesses warned it would have an adverse impact on the economy. Delivering her maiden budget speech on Friday, Finance Minister Nirmala Sitharaman said the proposal to levy two percent TDS was aimed at discouraging the practice of making business payments in cash.
+
+"This move will discourage spending which will be a big blow to the economy. There are both pros and cons of a digital payments ecosystem. India is not fully equipped to leverage this system," said New Delhi-based businessman Ajit Khosla who deals in money transfer, travelling and remittance business.
+
+"For example, while customer liability is limited in case of fraudulent electronic transactions, we do not immediately get the refund. This could be a huge problem for those with limited capital, especially when one is forced to do business only through digital payments," he said.
+
+Khosla said that he is currently required to withdraw about Rs. 2 crores a year and uses financial services such as Western Union and MoneyGram.
+
+"We get 0.4 percent commission from Western Union but with this new tax we will incur huge loss as customers often demand money in cash," Khosla said.
+
+Naresh Kumar, owner of Falcon Cargo Movers in Paharganj, New Delhi agreed with Khosla.
+
+"We send around 500 packets every day and in doing so we need to incur a lot of cost in cash -- transportation, labour charge and everyday expenses. As we cannot avoid cash payments, the new tax will hit us hard," Kumar said.
+
+Tech firms, however, believe that the move will boost digital payments in the whole supply chain.
+
+"It is encouraging that the government is continuing with its policy to promote digital payments in India. The two percent TDS on cash withdrawal of more than Rs. 1 crore a year will encourage the widespread adoption of digital payments," a Paytm spokesperson said.
+
+Ever since Prime Minister Narendra Modi launched the Digital India mission on July 1, 2015, the country has seen a huge growth in digital payments.
+
+The total number of digital payment transactions hit 332.34 crores in March 2019, from just 79.67 crores in October 2016.
+
+There are currently several low-cost digital modes of payment such as BHIM UPI, UPI-QR Code, Aadhaar Pay, certain Debit cards, NEFT, RTGS etc. which can be used to promote a less cash economy.
+
+"Under the Pradhan Mantri Gramin Digital Saksharta Abhiyan, over two crore rural Indians have so far been made digitally literate. To bridge rural-urban digital divide, Bharat-Net is targeting Internet connectivity in local bodies in every Panchayat in the country. This will be speeded up with assistance from Universal Service Obligation Fund and under a Public Private Partnership arrangement," Sitharaman said during her speech on Friday.
+
+The Finance Minister also proposed that business establishments with an annual turnover of more than Rs. 50 crores shall offer low cost digital modes of payment to their customers and no charges or Merchant Discount Rate (MDR) shall be imposed on customers as well as merchants.
+
+"RBI and banks will absorb these costs from the savings that will accrue to them on account of handling less cash as people move to these digital modes of payment," Sitharaman said.
+
+"Necessary amendments are being made in the Income Tax Act and the Payments and Settlement Systems Act, 2007 to give effect to these provisions," she added.
+
+"I believe this will discourage businesses from making cash transactions and encourage them to make payments through digital channels," said Harshil Mathur, CEO and Co-Founder, Razorpay.

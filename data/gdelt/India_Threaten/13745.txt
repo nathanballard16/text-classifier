@@ -1,0 +1,5 @@
+Brand cyber security for publishers
+
+Ahmed reminded the audience about a vulnerability in a Wordpress plugin, a few years ago, which allowed attackers to alter the content on a website. Smaller publishers could potentially get affected as many of them still relied on systems similar to Wordpress to build their digital site.
+
+“Bots are scripts — it’s the intent behind usage that matters. We see different kinds of traffic when bots are used with different kinds of intent,” he told us.

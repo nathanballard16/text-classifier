@@ -31,7 +31,10 @@ def generate_data(count):
 
 
 train_df, _ = generate_data(1000)
+
 validate_df, validate_labels = generate_data(1000)
+print(validate_df)
+print(type(validate_labels))
 
 ABSTAIN = -1
 DICT_WORD = 1

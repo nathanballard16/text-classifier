@@ -1,0 +1,89 @@
+Group-IB presents its annual report on global threats to stability in cyberspace
+
+Group-IB, has analyzed key recent changes to the global cyberthreat landscape in the “Hi-Tech Crime Trends 2019/2020” report.
+
+Group-IB, a Singapore-based cybersecurity company that specializes in preventing cyberattacks, has analyzed key recent changes to the global cyberthreat landscape. According to Group-IB’s experts, the most frustrating trend of 2019 was the use of cyberweapons in military operations. The new “Hi-Tech Crime Trends 2019/2020” report describes attacks on various industries and critical infrastructure facilities, as well as campaigns aimed at destabilization of the Internet in certain countries. The report examines attacks conducted for espionage and sabotage purposes by the most notorious cybercriminal groups and state-sponsored attackers. In total, 38 different state-sponsored threat actors were active throughout review period, including seven new ones.
+
+Group-IB’s annual report was presented at CyberCrimeCon 2019 international Threat Hunting and Intelligence conference in Singapore. Compared to its predecessors, the sixth “Hi-Tech Crime Trends” report is the first to contain chapters devoted to the main industries attacked and covers the period from H2 2018 to H1 2019, as compared to the period from H2 2017 to H1 2018. Group-IB analysts highlight the key high-tech crime trends and conclude that 2019 heralds a new era of cyberattacks.
+
+“The past three years have clearly shown just how fast threats in cyberspace are escalating,” says Dmitry Volkov, Group-IB CTO and the Head of Threat Intelligence. “While 2017 was the year of WannaCry, NotPetya, and BadRabbit ransomware epidemics, 2018 revealed a lack of preparedness for side-channel attacks and threats related to microprocessor vulnerabilities. As for 2019, it has become the year of covert military operations in cyberspace. Conflicts between states have taken on new forms, and cyber activities play a leading role in this destructive dialogue. Researchers worldwide are gradually shifting their focus from financially motivated cybercriminals to state-sponsored threat actors. Groups acting in the national interest fly under the radar for many years. Only a few such incidents have become known, but most indicate that the critical infrastructure of many countries has already been compromised. This means that a peaceful existence is no longer possible while being out of touch with cybersecurity. The latter cannot be ignored by any state, corporation, or individual.”
+
+Confrontation between states: espionage and sabotage
+
+In 2019, cybersecurity became a heavily debated topic in politics. The Venezuela blackout, open military operations in cyberspace between conflicting states, and targeted destabilization of the Internet in certain countries have all set extremely dangerous precedents that could lead to social and economic damage and destabilize the situation in the affected states.
+
+Throughout the second half of 2018 and the first half of 2019, cybersecurity experts identified numerous previously unknown state-sponsored groups. Group-IB researchers focused on 38 active hacker groups, of which seven were new cyberespionage groups. One of the groups, called RedCurl, was uncovered by Group-IB in late 2019. The threat actor mainly targets insurance, consulting, and construction companies. The group’s distinctive features are the high quality of their phishing attacks and the use of legitimate services, which makes it very difficult to detect its malicious activity in companies’ infrastructures.
+
+Many APT groups analyzed in the report have been conducting their operations for several years and gone unnoticed for a long time. Some groups attack similar targets, which leads to competition between them and means that their actions are detected quicker. One of the trends related to the active confrontation between attackers has been hacking back, i.e. when attackers become the victims of hacking. Today, private companies cannot legally conduct such operations.
+
+Internet destabilization at state level
+
+In the past, scenarios in which a country could be disconnected from the Internet seemed unrealistic, yet they are becoming increasingly likely. Disrupting the Internet in a certain country requires long-term preparation, but Group-IB’s analysis of attacks described in its report proves that it is technically feasible. Domain name registrars are part of a country’s critical infrastructure. Disrupting their work affects the Internet, which is why registrars are targeted by state-sponsored threat actors. The past months have shown that the most dangerous hacks involved DNS hijacking, which helped attackers manipulate DNS records for MITM attacks. Researchers also mention traffic manipulations and BGP hijacking attacks, during which threat actors intercept routes and redirect the network traffic of certain prefixes of an autonomous system (IP address pools) through the threat actor’s equipment. The most common objective of such attacks is cyberespionage and disruption of major telecommunications companies’ work.
+
+The telecommunications sector: Are providers ready for 5G?
+
+In its report, Group-IB describes nine groups (APT10, APT33, MuddyWater, HEXANE, Thrip, Chafer, Winnti, Regin, and Lazarus) that posed a major threat to the telecommunications sector during the period investigated. The telecom industry has become a key target for state-sponsored attackers. If they manage to compromise a telecommunications company, they can then also compromise its customers for surveillance or sabotage purposes.
+
+The development of 5G networks will create new threats to this industry. The architectural features of 5G (compared to 1/2/3/4G), such as superfast data transfers and other advantages of the new technology, are mainly implemented using software rather than hardware platforms. This means that all threats to server and software solutions are becoming relevant to 5G network operators. Such threats, including traffic manipulation and DDoS attacks, will become much more frequent and effective due to the large number of insecure devices connected and wide bandwidth. The same can be said of BIOS/UEFI-related attacks, side channel attacks, and supply chain attacks.
+
+In the coming years, the cybersecurity level of 5G market players will be a factor that determines their market share. Cybersecurity problems faced by a 5G platform provider will give other providers a competitive advantage. Many telecom operators are Managed Service Providers and provide security services to government and commercial organizations. Threat actors will attack operators to penetrate the networks they protect.
+
+The energy sector: Hidden threats
+
+The “Hi-Tech Crime Trends 2019” report describes seven groups (LeafMiner, BlackEnergy, Dragonfly, HEXANE, Xenotime, APT33, and Lazarus) that usually carry out attacks for espionage purposes. Yet in some cases, their attacks involved shutting down energy infrastructures or certain facilities in various countries. For example, in 2019, Lazarus attacked a nuclear organization in India, which led to the power plant’s second unit being shut down. The atypical choice of victim indicates that military departments of rival countries may have been interested in these attacks. From the times of Stuxnet, the Middle East has been the main testing ground for tools used in attacks on energy organizations. Compromising IT networks using traditional techniques and malware — including living off the land attacks — is the main vector for penetrating isolated segments of OT networks.
+
+With the exception of the above-mentioned example, the tools used by these groups remain under the radar. In recent years, only two frameworks capable of affecting processes were detected: Industroyer and Triton (Trisis). Both were found as a result of an error on the part of their operators. It is highly likely that there is a significant number of similar undetected threats. Among attacks that are typical of the energy industry, Group-IB experts highlight supply-chain attacks conducted through software and hardware vendors. Management companies are attacked first and then used to penetrate networks belonging to energy companies.
+
+The financial sector: the “Big Russian Three” goes global
+
+Hacking banks around the world is the prerogative of Russian-speaking hackers: they still make up the majority of attacking groups. In 2018, a new group called SilentCards from Kenya joined the “Big Russian Three” (Cobalt, MoneyTaker, and Silence, all Russian speakers) and the North Korean group Lazarus. Cobalt, Silence, and MoneyTaker continue to be the only owners of Trojans that can control ATM dispensers. However, over the period investigated, Silence was the only threat actor that carried out attacks through ATMs. Silence and SilentCards used card processing, while Lazarus used SWIFT (two successful thefts in India and Malta amounting to $16 million in total).
+
+From the aforementioned groups, only the North Korean APT Lazarus uses a theft method called FastCash. Silence reduced the use of phishing mail-outs, instead purchasing access to targeted banks from other groups (in particular TA505). As of today, SilentCards has poor technical skills (compared to other groups) and therefore carries out successful targeted attacks only on banks in Africa.
+
+After using Russia as a testing ground, the Russian-speaking groups continued their expansion by multiplying their attacks outside the country. Since July 2018, attacks have been conducted in: India (twice by Silence and once by Lazarus), Vietnam (Lazarus), Pakistan (Lazarus), Thailand (Lazarus), Malta (twice by Lazarus), Chile (Lazarus and Silence), Kenya (SilentCards), Russia (twice by MoneyTaker, twice by Cobalt, and once by Silence), and Bulgaria (Cobalt and Silence). Silence also carried out single attacks in Costa Rica, Ghana, and Bangladesh.
+
+According to Group-IB’s forecasts, in order to withdraw money, these groups will continue to carry out attacks on card processing systems and use Trojans for ATMs. They will shift their focus away from SWIFT. Lazarus will remain the only group to steal money through SWIFT and ATM Switch. Infrastructure disruption to cover tracks will be the final stage of successful attacks. SilentCards may remain local and focus on African banks; the group is likely to expand its list of targets by attacking other industries. Its main vector will be blackmailing as part of ransomware attacks.
+
+Bank card compromise, carding, and data leaks
+
+In recent years, threat actors have been gradually abandoning sophisticated banking Trojans, attacks on banking customers have become increasingly simpler from a technical point of view, and each direct theft has caused less damage. The number of active banking Trojans for PCs is continuously decreasing worldwide except for Brazil, where their use is developing locally. In the past year, cybersecurity specialists detected four new POS Trojans, used mainly in attacks on retailers in the United States and, to a lesser extent, in Spanish-speaking countries.
+
+Over the period investigated, the carding market size grew by 33% to reach $879,680,072. The number of compromised cards released on underground forums increased from 27.1 million to 43.8 million. The average price for raw card data (card number, expiration date, cardholder name, address, CVV) rose from $9 to $14, while the average price for a dump (magnetic stripe data) fell from $33 to $22. The lowest price is usually set for compromised data stolen from US banks; on average, they cost $8-10 for up-to-date raw card data and $16-24 for dumps. The average price of raw card data stolen from European banks is much higher and amounts to $18-21; the cost of dumps is $100-120. Bank card data stolen in APAC countries is also sold at a high price on the carding market: the average price for textual data is $17-20, while the price for a dump is $80-124.
+
+Bank card dumps continue to make up around 80% of the carding market. Over the period investigated, cybersecurity specialists detected 31.2 million dumps put up for sale, i.e. 46% more than last year. The sale of raw card data is also on the rise, with a 19% growth. The largest bank card data leaks are related to compromises of US retailers. The United States is far ahead and comes first, with 93% of all cards compromised. Middle Eastern countries (Kuwait, Pakistan, the UAE, and Qatar) together account for 2.38% in this ranking. It is believed that the increase in the number of compromised cards in the region was caused by Lazarus attacks in late 2018 and early 2019.
+
+In 2019, JS-sniffers became a point of growth as regards the volume of raw card. This year, Group-IB detected 38 different JS-sniffer families. Their number continues to grow. There are now more JS-sniffers than banking Trojans. In terms of JS-sniffer-related attacks, the United States is first again, with UK banks coming second. This is mainly due to the attack on British Airways in late 2018, which resulted in more than 300,000 bank cards being compromised. As a result, a $229 million fine was imposed on British Airways for data leaks. JS-sniffers will mainly affect countries where the 3D Secure system is not widely used.
+
+Phishing remains one of the key methods used by criminals to steal bank card data. Competition is growing in this segment: financial phishers began using panels for managing web injects and the autofill function. Such panels have previously been used in banking Trojans. Phishing kit developers began devoting more attention to self-defense. They blacklist cybersecurity vendors’ subnets and hosting providers, show phishing content only from the IP addresses of the region where their victims are located, redirect users to legitimate websites, and check anomalous user agents.
+
+About the author Group-IB:
+
+Group-IB is a leading provider of solutions aimed at detection and prevention of cyberattacks, online fraud, and IP protection. Group-IB is a partner of INTERPOL, Europol, and has been recommended by the OSCE as a cybersecurity solutions provider. Group-IB is a member of the World Economic Forum.
+
+Pierluigi Paganini
+
+(SecurityAffairs – cybercrime, hacking)
+
+Share this...
+
+Linkedin
+
+Share this: Twitter
+
+Print
+
+LinkedIn
+
+Facebook
+
+More
+
+Tumblr
+
+Pocket
+
+
+
+
+
+Share On

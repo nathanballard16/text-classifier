@@ -1,0 +1,31 @@
+Rampaging monkeys to be tracked using Microsoft facial recognition so offenders can be STERILISED
+
+Rampaging monkeys will be tracked using Microsoft face recognition technology so the worst offenders can be sterilised after causing chaos across India.
+
+The booming primate population has reached crisis levels in recent years with spates of attacks on humans, including babies being killed by the animals.
+
+Researchers at the Indraprastha Institute of IT (IIIT) in Delhi, working with new Microsoft artificial intelligence (AI) hope to track down monkeys which are causing carnage.
+
+They are using Microsoft 'AI for Earth' to pass on data to organisations which can administer contraception or carry out sterilisation.
+
+Rhesus macaque monkeys sitting on a wall in Agra India. Indians suffer around 1,000 monkey-bite injuries every day, the pests steal food and cause damage to property
+
+Ankita Shukla, of IIIT, described how they can use photographs sent in by members of the public to keep tabs on the monkeys.
+
+She told Microsoft: 'Let's say we have been sent an image of a monkey, we'll call him John. First, we need to know if we've seen him before – is John in our database?
+
+'If you have two images, you need to know if you're looking at two photos of John or two different individuals. You also need to know if they are already in the system: Yes, that's John. We encountered him once before, maybe 20 miles away.'
+
+The particular focus of the project is on the rhesus macaque, which are known for their antisocial behaviour.
+
+Indians suffer around 1,000 monkey-bite injuries every day, the pests steal food and cause damage to property.
+
+Growing cities have reduced their natural habitat and made the primates masters of studying human patterns of behaviour and exploiting their weaknesses, such as where they leave food unattended.
+
+A group of rhesus monkeys in a ghat in Varanasi, India. It is hoped that the monkeys can be tracked by photos taken by the public
+
+The IIIT's current database involved around 4,000 images of 93 monkeys which are being used to manually train an algorithm.
+
+There are plans for an app to be rolled out to the public once a working version of the AI can make use of a larger cloud data-set.
+
+It is thought that the method of sterilisation will save time and money by avoiding having to go out an tag monkeys.

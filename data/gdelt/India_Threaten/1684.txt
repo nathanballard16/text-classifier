@@ -1,0 +1,127 @@
+Samsung Galaxy M10 Review: Can It Bring Samsung’s Mojo Back?
+
+A lot has changed since Samsung dominated the mid-range market in India with its Galaxy Grand series in and around 2013. At the time, Micromax was its biggest upstart rival, and now Samsung is the one trying to get back into the market, as it looks to break the dominance of Xiaomi, Honor and newer brands such as Realme, and even Asus’s renewed vigor thanks to the ZenFone Max Pro series.
+
+As a result, the sub-Rs 10,000 segment is probably the most hotly contested segment in the market, even more so than the fluid mid-range segment. Samsung is bringing its best to the sub Rs 10,000 segment with the Galaxy M10, priced at Rs 7,990 onwards.
+
+Along with the Galaxy M20, the phone represents Samsung’s biggest bet for the Indian market. The phones are being debuted in India and have been made completely in India, save for the imported SoC and other components. This means Samsung has been able to price it just right, and for once, a Samsung budget phone is competing on even pricing against its rivals.
+
+In theory, the Galaxy M10 should make Samsung’s rivals worry, but can it become the Korean giant’s savior in the Indian market? That’s what we are about to find out after more than a week of using the Galaxy M10.
+
+Samsung Galaxy M10 Specifications
+
+Before we get started on our reviw of the Samsung Galaxy M10, here’s a look at the specs:
+
+Display 6.22” HD+ PLS TFT, 720 x 1520 pixels Processor Samsung Exynos 7872 hexa-core 14nm SoC RAM 2/3 GB RAM Storage 32 GB, expandable upto 512GB via microSD Battery 3,400mAh
+
+Primary Cameras Main Camera: 13MP AF, F1.9 + Ultra Wide: 5MP, F2.2 Secondary Camera 5MP (F2.0) OS Android 8.1 Oreo
+
+Sensors Accelerometer, Barometer, Face Unlock Gyro Sensor, Geomagnetic Sensor, Hall Sensor, Proximity Sensor, RGB Light Sensor Network and Connectivity LTE, Wi-Fi 802.11 b/g/n/(2.4/5GHz) Dual VoLTE, Bluetooth 4.2, headphone jack
+
+There are some notable omissions such as the lack of a fingerprint sensor, which is seen in cheaper phones too. It does make the M10 seem less appealing for buyers. Does the phone make up for it with a great user experience?
+
+Samsung Galaxy M10: What’s in the Box
+
+The M10’s retail package is rather sparse, given that this is a budget phone. This is what you get inside the box:
+
+Samsung Galaxy M10 smartphone
+
+1 x USB Type-A to Micro USB Cable
+
+1 x 5V 1A Charging Adapter
+
+1 x Ejection pin
+
+User Manuals
+
+Unlike other budget phones, you don’t get a clear Silicone or PVC case along with the Galaxy M10, but the plastic back should help hide some finer scratches.
+
+Samsung Galaxy M10: Design and Build Quality
+
+Like I said in our first impressions piece on the Galaxy M10, the phone seems to have been designed for utility and function, rather than a premium look and feel.
+
+The front has a trendy teardrop notch, which the company calls Infinity-V. We are still not used to seeing a Samsung phone with a notch, but this one is far less intrusive than most notches in this price segment, which tend to be wide and large. I love how the notch remains out of sight for most parts of the UI, a feeling enhanced by a dark wallpaper.
+
+The screen to body ratio of the M10 is a healthy 81.6 % which is higher than the Realme C1 and Honor 9N, both phones with notches in this price range. I have no complaints with the front of the phone and it looks as modern as many mid-range phones such as the recently-launched Oppo K1.
+
+One thing to note about displays with so little bezel is that the all-glass front picks up fingerprints rather easily. Cleaning the M10’s panel is an hourly chore, one not helped by the fact that the plastic back also picks up smudges easily. The notch holds the 5MP front camera, which is also used for face unlock, and since there’s no fingerprint scanner here, you would be happy to know it works quite fast and unlocks the phone quickly.
+
+The so-called chin is rather large, but in my opinion, it makes the phone easier to hold in landscape for watching videos or for games. Overall, the front of the phone is definitely a step above the competition in this range, and perhaps on par with some more expensive mid-rangers.
+
+The notch and the slim bezels give the phone an unmistakable modern look
+
+The modern look for the front is in stark contrast to the glossy blue rear in our review unit. The design of the rear panel seems generations older, not helped by the lack of a fingerprint sensor. The plastic build means handling the phone is easy and there are no real sharp edges to be worried about. The phone feels light despite weighing 160 g, and is slim but it doesn’t feel flimsy.
+
+The only thing that hints at this being a 2019 phone is the dual 13MP+5MP (ultra-wide) camera module, which have become oh-so-common even in the budget segment. The polycarbonate back is not a problem for me – I don’t really expect to see metal in this price range. And despite it being glossy, it’s quite grippy and comfortable to use in one hand.
+
+The sides of the phone are plastic too, since the back wraps around the side for a monolithic look. The sides also start to pick up grime and smudges just as easily – using the phone with food or oil around means it will be dirty as soon as you pick it up.
+
+The left side has the SIM slot, while the right has a clicky power button below the volume rocker. Both the buttons are quite tactile and while they are not the easiest to find blind, you get used to the placement after a day or so. You will find the 3.5mm headphone jack on the bottom, along with a budget-friendly micro USB port and the speaker holes.
+
+I would best describe the Galaxy M10 as a utilitarian phone which doesn’t waste time taking you through the scenic route. It gets straight to the point, and that’s something I can appreciate. Whether the performance matches up to that approach, we will see soon.
+
+Samsung Galaxy M10: Display
+
+Samsung’s Infinity V notch is not intrusive in the slightest, and certainly doesn’t get in the way of the UI. It reminds us of the notch on the OnePlus 6T, which is not a bad thing. We suppose more and more manufacturers will choose to use the single front camera with dewdrop or teardrop or U-shaped notches this year for the affordable segment. In Samsung’s case, the front camera shows a cool rippling or wave effect around the notch when unlocking the phone.
+
+I really like the screen on the M10 – it’s easily one of the highlights of the phone. The 6.22-inch PLS TFT panel has a HD+ resolution of 720 x 1520 pixels with a 19:9 aspect ratio and around 271 ppi of pixel density. It’s obviously not going to make any hearts flutter, but it’s adequately bright, has surprisingly good viewing angles and is quite vibrant as well in color reproduction. That’s surprising given that it is a TFT panel, and not IPS, which are known for the natural colors. The M10’s display is not washed out, if that’s your biggest worry about this phone. The sunlight legibility is quite good too while not great.
+
+The overall color tone of the display is a little cool for my eyes, with a noticeable blue tinge in white backgrounds. It’s certainly a bright spot in the M10’s repertoire.
+
+Samsung Galaxy M10: Performance and Software
+
+The Galaxy M10 is powered by the Samsung Exynos 7872 hexa-core 14nm SoC with 4 x 1.6 GHz Cortex-A53 cores and 2 x 2.0 GHz Cortex-A73 cores. For GPU, the chipset has the Mali-G71 MP1.
+
+The phone didn’t seem bogged down by multiple apps open and didn’t seem to have any lag that got in the way of the user experience in the first two days. The combination of the SoC as well as 3GB of RAM provided a decent, stutter-free experience in our first few days with the phone.
+
+There was some very noticeable lag after a couple of days, with apps taking a little longer to load up, after a few days of usage. In my experience, most budget phone users will not have over 70 apps installed on their phone, as was the case with my standard Android backup. Secondly, the impatience with waiting for some games to load is largely due to me being spoilt by flagship-grade performance in my daily phone. For someone who has never used a smartphone, or for those upgrading from older Android budget phones, or Android Go devices, the Galaxy M10’s performance should give no cause for concern.
+
+For gaming, we tried out Asphalt 9 and PUBG Mobile. Neither game looked its best self on this phone, likely due to the less-than-top-tier hardware. Asphalt 9 showed some screen tearing when the cars went into hyper drive, while PUBG Mobile was smoothest at low settings. It’s not the best phone to have for someone who wants to keep gaming on the go, but it’s certainly more than good enough for casual gaming as well as shorter sessions. If you are looking for a budget gaming performer, the Galaxy M20 should be better suited for the task, since it has a newer Exynos 7904 SoC.
+
+The M10 runs Android 8.1 Oreo, with the Samsung Experience UI bringing its share of bloatware to the out-of-the-box software experience. I really dislike the interface of this phone, and perhaps it’s just that I have become used to stock Android or that MIUI or EMUI seem more matured and polished.
+
+I wouldn’t say it’s bad, just that it seems to lack some finesse and fluidity. Once you get used to the UI/UX quirks and Settings pages of Samsung Experience, the experience is more or less like any other budget phone with the only difference being the OEM skin. As for bloatware, the competition isn’t doing any better. At least, Samsung does not inject ads into your notification banner by default like on MIUI.
+
+One can hope that Samsung also releases One UI for its affordable lineup. For software updates, Samsung has said the Galaxy M10 will only get Android Pie in August. That’s almost when Android Q is expected to be out. This can be a major disappointment for potential buyers, unless Samsung changes its mind soon.
+
+Samsung Galaxy M10: Cameras
+
+Dual cameras are becoming very common in the budget segment, but not like the ones on the Galaxy M10. That’s because Samsung has added an ultra-wide sensor, instead of the typical depth sensor found in the competition. We have seen a similar sensor in action in the Galaxy A7 and Galaxy A9 and the wide-angle definitely makes certain kinds of photos look more immersive and impactful.
+
+As one might expect the rear camera has a host of shooting modes and options. Here’s a look at the UI of the rear camera’s modes and Pro photo settings.
+
+Here are some samples from the rear camera:
+
+As you can see, this is not the best example of a good smartphone camera, as the colors are definitely less vibrant than the actual scene, and the lack of detail is woefully obvious. The only positive is that the competition also has similarly average cameras in this price range. We have not really seen a budget phone with a really good camera yet.
+
+And here are a couple of examples of the wide-angle camera in action. The lower resolution wide-angle shot has even less detail than the regular photo.
+
+While these are not great pictures, I think it’s more than enough for someone who is using their first smartphone or just using the M10 as a backup phone for travels. These photos might not win you real competitions, but they are more than enough for Instagram, Facebook or your WhatsApp groups.
+
+The notch on the front houses the 5MP f/2.0 selfie camera. These selfies are nothing great and look similar to the ones shot by the competition in this price range. The colors look muted, and the skin tone is definitely not natural. Samsung has added a Live Focus mode which helps you take shots with blurred background. You can also add stickers to you selfies to be shared on messaging apps.
+
+Samsung Galaxy M10: Battery Life
+
+Another key focus area for Samsung with the M10 is the battery. Samsung has packed in a 3,400 mAh battery, which falls short of what some of the competition offers – Realme C1, for example, has a 4,230 mAh battery.
+
+The Galaxy M10 should ideally provide all-day usage, and the smaller battery pack is likely to reduce the weight of the phone. At 160 g, it’s already on the heavy side so the weight must surely have been a consideration on Samsung’s part.
+
+When it comes to day-to-day usage, the Galaxy M10 will easily last you the whole day, and you will only need to charge it at night or when you sleep. It’s a fairly long-lasting phone and given that most budget users do not tax their phone’s SoC or GPU all that much, you shouldn’t have a lot of trouble using this phone all day.
+
+With conservative usage, only using the phone to check notifications and with minimal browsing and YouTube, I was able to stretch the phone’s battery life to the next day too, before it died by noon. It’s a really good sign for someone who doesn’t use their phone too much, but still needs to be connected.
+
+The Galaxy M10 doesn’t have fast charging support and comes with a standard 5v 1A charging adapter in the box. Samsung has not mentioned any support for fast charging standards, unlike the Galaxy M20. Charging the phone takes just under 2 hours in ordinary circumstances, with usage while charging. When left alone, the phone gets full in just over 90 minutes.
+
+Samsung Galaxy M10 Review: Samsung’s Comeback?
+
+In my first impression piece, I called the M10 an underwhelming device, and much of that was due to the fact that at first glance, this is not a special phone. But Samsung has finally delivered a decent user experience in the budget segment, and without sacrificing on key specs. The biggest omission in the M10 is the fingerprint scanner, and there Samsung makes up with fast face unlock – albeit not very secure.
+
+Starting at Rs 7,990, the Galaxy M10 competes with the Realme C1 (2019) and the Redmi 6 in India. The 3GB + 32GB variant is priced at Rs 8,999 in India. Both those phones are serious competition with Realme’s momentum and Redmi’s market standing, while Samsung has the pedigree of a premium brand with its after-sales service network. That’s the real benefit with this phone as Samsung has established a great service network over the years, while the other brands are still not on the same level.
+
+In terms of specs and performance, there’s very little separating the M10 from its competition, so Samsung has pulled level in many ways. We also expect Samsung to improve its game when it comes to software updates. I wouldn’t be surprised if the M10 receives security or quality of life updates every month, even if Samsung delays the Android Pie release.
+
+Samsung is hoping to change the budget segment user experience with the Galaxy M10 and over the course of this week, I can see the signs of a company realizing its follies from the past few years, and bringing its A-game to the take on the rivals. At this stage, the M10 puts Samsung on par, but it won’t be long before it faces stiff competition from the new brand of affordable phones of 2019.
+
+Samsung has fired the first shot across the bow of the competition, and it will be interesting to see the response. I am quietly excited for Samsung, as a healthy Samsung tends to bring out the best in the competition in Android. Do let us know what you think about Samsung’s Galaxy M10, and whether it can help Samsung come back as a force to be reckoned with.
+
+Buy the Galaxy M10 on Amazon India (Rs 7,990 onwards)

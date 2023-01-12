@@ -1,0 +1,43 @@
+Comment: Don't let Facebook capture the monetary system
+
+Facebook's Libra currency could give Facebook even more power. Photo/Getty Images
+
+It was only a matter of time before Facebook barged into the payments and money transfer industry. On Tuesday, the tech giant duly published a set of papers on its new venture, a supposedly blockchain-based "cryptocurrency" called Libra.
+
+It is fair to say the launch did not go as well as Facebook may have hoped. Regulators and policymakers pounced on Facebook's initiative, instead of embracing it. French finance minister Bruno Le Maire underlined that Libra would not be allowed to supplant government-backed currencies; Bank of England governor Mark Carney warned that it could become "instantly systemic" and would consequently be subject to heightened regulatory scrutiny.
+
+The FT has covered the genesis and the regulatory response to Libra in detail in a special series. More humorously, but just as diligently, my FT Alphaville colleagues have whipped up what they call the Breaking the Zuck Buck series, "in which we will seek to show how nonsensical, pointless, stupid, risky, badly thought-out and blockchainless the whole thing is".
+
+I defer to Alphaville on the (massive!) technical and regulatory problems with the Libra layout; do read the whole series. Here I want to add some observations from an economic policy perspective.
+
+Strip away the buzzwords, and you notice two facts. What Facebook has actually proposed is much simpler than it claims. It simply offers a new technology to facilitate payments. At the same time, it hints at a future destination that is much more ambitious — mentioning credit, access to capital and smart contracts.
+
+Start with how modest the actual product offering really is. The fundamental thing to note is that Libra as outlined is not a currency, crypto or otherwise. It is an accounting unit, defined as a weighted basket of real (but so far unspecified) currencies. The new technology Facebook and its partners are promising will just allow people to make payments denominated in units of this basket. The payment and transfer functionality itself is no different from what banks, credit card companies or PayPal do today; and the technology will not have the anonymity or decentralisation that attract some to actual cryptocurrencies such as bitcoin.
+
+This does not mean there is no point to Libra. From a business point of view, the company would obviously like to butt into the payments industry; though there is no reason for society at large to care about Facebook's commercial fortunes. On the contrary, Facebook's record so far puts the burden of proof on the company to show it will not abuse the dominant position it could clearly achieve in payments.
+
+Here we get to the crux of the matter from a social point of view. The payments and transfers industry does not function well enough at the moment. In poor countries, payment systems have until recently been horribly inefficient, though as Kenya and India show, it is possible to leapfrog to the frontier of mobile electronic payment technology. Cross-country payments remain exorbitantly costly and slow for retail users, even in the rich world. And there is still no widely used satisfactory digital wallet system that could make online micropayments safe and easy.
+
+These are things current national and global payment systems, dominated by banks and credit card companies, have failed — or not wanted — to solve. One has to doubt Facebook's ability to help, however, given the lampooning it has deservedly received for promises such as this: "In time, we hope to offer additional services for people and businesses, like paying bills with the push of a button, buying a cup of coffee with the scan of a code or riding your local public transit without needing to carry cash or a metro pass".
+
+If Facebook's Libra designers do not realise this is already do-able in most well-governed countries, one has to wonder what it can contribute; it they do, it starts to look more and more like a simple land grab.
+
+Facebook's Libra currency could give Facebook even more power. Photo/Getty Images
+
+Facebook has a gargantuan advantage on other payments providers. With more than 2bn users, there will be many, many potential customers who already access Facebook but do not currently have access to conventional payments or money transfers. Simply because Facebook will make it easier for them to adopt Libra than any rival service, many will. But that is a classic case of market power abuse; using dominance in one market to achieve dominance in another.
+
+In countries with weak currencies, the ubiquity of Facebook could even tempt people to "dollarise" into Libras, ceasing to use the national currency for accounting and invoicing purposes. That would hugely complicate monetary policy and stability.
+
+And size is far from the only problem. Even if what Facebook is proposing is not a currency but merely a payments and transfer network, the company displays a yawning naïveté about its own plans. It wants to bank the unbanked, but does not acknowledge that this involves deposit-taking, a highly regulated activity that is hard to do across national borders even inside the EU.
+
+"Moving money around globally should be as easy and cost-effective as" sending a text message, says Facebook, "no matter where you live" (my emphasis). Does it not know governments have both legitimate reasons and the authority to limit or monitor the flow of money in and out of their economies?
+
+Most worrying of all, something that starts out as a mere accounting unit or deposit token could quickly turn into a real currency. Normal money is created when a licensed bank issues a loan, in which case the money supply is no longer backed by valuable reserves unless regulators force the bank to do so. Facebook says it wants credit to be issued in Libra, but gives no sign of wanting to be regulated as a bank. Even if it were, how do you stop other entities from issuing loans in Libra if it has become the dominant unit of account?
+
+Implicit in Facebook's plans, therefore, is not just a capture of the banking industry, but a privatisation of monetary policy — a democratically abhorrent prospect in principle, and a power that there is absolutely no reason to think Facebook would discharge responsibly in practice.
+
+The road to hell is paved with good intentions, and so it may be here. The best way to block that road off is for regulators and central banks to immediately address the real problems Facebook has identified. Central bank electronic currencies would quite easily do so. Governments have been remiss by dragging their feet on this — in part because of deference to the established banking industry; but they no longer have any excuse to do so. Between public service and Facebook service, the choice should not be hard.
+
+Written by: Martin Sandbu
+
+© Financial Times

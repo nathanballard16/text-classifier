@@ -1,0 +1,67 @@
+Insights into Editorial: Ban or regulate? — On India’s policy on cryptocurrencies
+
+Insights into Editorial: Ban or regulate? — On India’s policy on cryptocurrencies
+
+Context:
+
+The recommendation of an inter-ministerial committee that India should ban all private cryptocurrencies , that is, Bitcoin and others like it.
+
+Indian policymakers and administrators have time and again made clear their distaste for them, their existence owed almost entirely to advanced encryption technologies.
+
+In his Budget speech in 2018, Finance Minister Arun Jaitley said the government doesn’t consider them legal tender . The Reserve Bank of India has repeatedly warned the public of the risks associated with dealing with cryptocurrencies .
+
+Distributed ledger technology (DLT) and Block Chain technology:
+
+Distributed ledger technology (DLT) is a digital system for recording the transaction of assets in which the transactions and their details are recorded in multiple places at the same time.
+
+Unlike traditional databases, distributed ledgers have no central data store or administration functionality.
+
+Whether distributed ledger technologies, such as blockchain, will revolutionize how governments, institutions and industries work is an open question.
+
+Blockchain technology is a specific kind of DLT that came to prominence after Bitcoin, a cryptocurrency that used it, became popular.
+
+Cryptocurrencies such as Bitcoin use codes to encrypt transactions and stack them up in blocks, creating Blockchains. It is the use of codes that differentiates cryptocurrencies from other virtual currencies.
+
+Inter-ministerial committee recommended ban all private cryptocurrencies:
+
+The Inter-ministerial committee is worried that if private cryptocurrencies are allowed to function as legal tender, the RBI would lose control over the monetary policy and financial stability , as it would not be able to keep a tab on the money supply in the economy.
+
+There is no grievance redressal mechanism in such a system, as all transactions are irreversible.
+
+The anonymity of private digital currencies make them vulnerable to money laundering and use in terrorist financing activities while making law enforcement difficult.
+
+The inter-ministerial committee believes it is, going so far as to draft a law that mandates a fine and imprisonment of up to 10 years for the offences of mining, generating, holding, selling, dealing in, transferring, disposing of, or issuing cryptocurrencies.
+
+According to a report by the Bank of International Settlement, Bitcoin processing already uses as much energy as is used by Switzerland ; it called this an environmental disaster.
+
+Scaling up such a currency system over a large population would require crippling levels of energy resources. Currencies such as Bitcoin require humongous processing power.
+
+However, The Inter-ministerial committee recognises the potential of DLT and Blockchain technology:
+
+The IMC accepts that internationally, the application of DLT is being explored in the areas of trade finance, mortgage loan applications, digital identity management or KYC requirements, cross-border fund transfers and clearing and settlement systems.
+
+To that extent, it recommends the Department of Economic Affairs (within the Finance Ministry) to take necessary measures to facilitate the use of DLT in the entire financial field after identifying its uses.
+
+Increased time effectiveness due to the real-time transactions . Direct Transactions eliminate the overheads and intermediary costs.
+
+Reduced risks related to cybercrimes, frauds and tampering . More transparent processes with a proper record creation and tracking . Highly secure due to cryptographic and decentralized Blockchain protocols.
+
+The IMC also recommends that regulators such as RBI, SEBI, IRDA, PFRDA, and IBBI explore evolving appropriate regulations for development of DLT in their respective areas.
+
+Blockchain does not store any of its information in a central location . Instead, the blockchain is copied and spread across a network of computers.
+
+Whenever a new block is added to the blockchain, every computer on the network updates its blockchain to reflect the change.
+
+By spreading that information across a network, rather than storing it in one central database, blockchain becomes more difficult to tamper with .
+
+Idea of Central Bank Digital Currency (CBDC):
+
+The IMC’s view is that it “would be advisable to have an open mind regarding the introduction of an official digital currency in India ”.
+
+It noted that the RBI Act of 1934 has the enabling provisions to permit the central government to approve a “ Central Bank Digital Currency” (CBDC) as legal tender in India.
+
+Conclusion:
+
+The government will see opportunities for revenues as large number of people have made gains through cryptocurrency .
+
+There will have to be a provision for an exit plan to ‘declare’ and ‘dispose’ the cryptocurrencies which are currently being held.

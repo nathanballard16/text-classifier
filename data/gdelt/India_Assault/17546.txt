@@ -1,0 +1,13 @@
+Finally, a women's safety app that makes sense
+
+Soon after the 'Nirbhaya' gang rape incident of 2012, Government mandated an SOS or panic button on all mobile phones sold in India. Many Indian manufacturers, put a physical button on the phones. International brands, have been loath to redesign their handsets just for India, so they take the easy option: a downloadable a soft key on the screen.
+
+In a real situation, none of these are of much use. Is a woman is under attack, going to grope for her phone in her bag, then find and press a key -- or will she try and fend off the assailant?
+
+That is why I am thrilled that a quartet of Delhi students have created a mobile phone solution --- Rakshak -- that looks like a real innovation. It requires no action on the part of the victim. The phone is "listening", when app is on. If it hears key words like 'help' or 'bachao', it uses a machine learning algorithm to judge the emotional state and triggers an automatic alarm. It can tell a real cry for 'help' from a casual conversation where the owner says "... I need some help with homework ". The makers have included common Hindi and English keywords for 'help' in its vocabulary.
+
+The team from Bharti Vidyapeeth College of Engineering --Aniket Sharma, Subham Banga, Piyush Agrawal and Ijjwal Upadhyay -- were supported in this work by the Celestini Project of the US -based Marconi Society, which mentors student innovation, worldwide, tailored to local needs. Last week the team took the first prize in the 2019 India Celestini Awards. Way to go, guys! The app is available on the Google Play store.
+
+--IndiaTechOnline
+
+Click on Deccan Chronicle Technology and Science for the latest news and reviews. Follow us on Facebook, Twitter.

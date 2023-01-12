@@ -1,0 +1,95 @@
+Nokia 7.2 Review
+
+HMD Global unveiled a host of phones at the IFA 2019 month. While the Nokia 2720 Flip was in the limelight for its nostalgia-inducing flip-phone design, the Nokia 7.2 was the one that captured most of our attention. It is among the first Nokia-branded phones in India to pack three rear cameras, and flaunts a premium new design.
+
+The Nokia 7.2 brings numerous meaningful upgrades over its predecessor — the Nokia 7.1 (Review) — in terms of camera hardware, display quality, battery capacity, and processing power. These are all noteworthy, but at a starting price of Rs. 18,599, the new Nokia 7.2 goes up against some very capable new smartphones as well as a few of last year's budget flagships. Is the Nokia 7.2 up to the challenge? Dive right into our review to find out.
+
+Nokia 7.2 design and build quality
+
+The Nokia 7.2 exudes a premium feeling the moment you lay your eyes on it. HMD Global has augmented the metal frame of this phone's predecessor with a new polymer composite that's said to be twice as strong as polycarbonate and twice as light as aluminium. The frame is slightly curved for a comfortable grip.
+
+The satin-effect curved Gorilla Glass 3 on the rear feels great to touch, and is not very slippery either. It is also less prone to getting smudged, but that is not to say it is entirely smudge-proof; it's just that the frosted finish does a good job of masking the signs of use. The matte rear panel is slightly reflective if seen from an angle, and it looks really appealing in an understated fashion.
+
+On the right side are the volume rocker and the power button, which has an LED embedded into it — akin to the Nokia 3.2 (Review) — to serve as a notification light. This is a neat touch and we hope to see it on more phones. On the left is the triple slot (dual Nano-SIM + microSD) tray and a dedicated Google Assistant button, which unfortunately cannot be customised.
+
+The 6.2-inch full-HD+ display is bright and produces punchy colours
+
+The 3.5mm headphone jack is located at the top, while the speaker and USB Type-C port are at the bottom. HMD Global offers the Nokia 7.2 in two colours in India – Charcoal and Cyan Green – though a silvery Ice version was also shown off internationally. The pristine black finish of the Charcoal variant looks great, but Cyan Green is the colour that truly stands out. The phone is light for its size and feels sturdy, something Nokia-branded phones have cultivated a reputation for.
+
+However, there are a few things that we don't like. The Nokia 7.2 is quite a handful at 159.88x75.11x8.25mm, and one-handed usage is difficult. The chin is quite thick, and the circular camera module on the back won't be to everyone's taste, also causing the phone to wobble while lying on a flat surface.
+
+Nokia 7.2 specifications and software
+
+The Nokia 7.2 has a host of major improvements over the Nokia 7.1, especially in the imaging department in the form of a triple rear camera setup with Zeiss Optics. It employs a 48-megapixel primary shooter with an f/1.79 aperture – a big upgrade from the 12-megapixel camera on the Nokia 7.1. The main snapper is assisted by an 8-megapixel wide-angle camera with an f/2.2 aperture and 118-degree field of view, and there's also a 5-megapixel depth sensor. On the front is a 20-megapixel selfie camera with an f/2.0 aperture, which is again a big jump from the 8-megapixel front snapper on the previous model.
+
+The Nokia 7.2 is powered by the Qualcomm Snapdragon 660 SoC, which is underpowered compared to the Snapdragon 7xx processors found in many other phones in this segment, and even some that cost less, such as the Realme XT (Review) and the Vivo Z1 Pro (Review). HMD Global offers the Nokia 7.2 in two variants – a 4GB RAM + 64GB storage model priced at Rs. 18,599, and a higher-end 6GB RAM + 64GB storage variant priced at Rs. 19,599. The internal storage on both is expandable by up to 512GB using a microSD card.
+
+The phone looks appealing and also feels premium in hands
+
+This phone packs a 6.3-inch full-HD+ HDR 10-certified display protected by Corning Gorilla Glass 3. The display has a peak brightness of 500 nits and 1:1500 contrast ratio. The phone is claimed to be capable of upscaling SDR content into HDR in real-time. We found the display to be one of the Nokia 7.2's strongest suits. It is sharp and vivid, with good viewing angles and colour reproduction. The brightness is also adequate and we did not have any issues using it under daylight.
+
+HMD Global has secured Widevine L1 DRM certification for the Nokia 7.2, which means you can enjoy high-resolution (HD or above) content on this phone. However, support for HDR content on the Nokia 7.2 is limited to Amazon Prime Video, and is not available for Netflix or even YouTube, at the time of our review. We checked on Netflix's official list of phones that support HDR content on its platform, and found that the Nokia 7.2 is not on it, at least at the time of publishing this review.
+
+The phone stays running thanks to a 3,500mAh battery, and it supports 10W charging. Connectivity options include 4G LTE, Bluetooth 5, Wi-Fi 802.11b/g/n/ac, and GPS/AGPS. The Nokia 7.2 supports the Qualcomm aptX codec for high-quality audio streaming over Bluetooth.
+
+On the software side, the Nokia 7.2 runs stock Android Pie, just like the rest of HMD Global's smartphone offerings. Our review unit was running the September Android security patch. As expected, there is no bloatware and the UI is squeaky clean with only the basic utilities and Google's suite of apps pre-installed.
+
+Despite the premium aesthetic of the Nokia 7.2, one-handed usage is a little difficult
+
+You get all the familiar Android Pie features such as Digital Wellbeing, Adaptive Brightness, and Adaptive Battery. If you're switching from a phone running a custom skin, the clean software interface and the absence of spammy notifications will come as a relief. On the flip side, stock Android misses out on some neat features that the likes of OxygenOS and OneUI offer, such as UI customisation options and the ability to run two instances of some apps.
+
+Nokia 7.2 performance and battery life
+
+The Nokia 7.2 lags behind its competition at the same price in terms of raw performance. Still, the Snapdragon 660 is quite capable and handles day-to-day tasks with ease. Launching and switching between apps was smooth, and there were no stutters during our review. However, performance limitations do become evident when playing graphics-intensive games.
+
+We were able to run PUBG Mobile, Call of Duty: Mobile, and Injustice at medium graphics settings without a hitch, but frame drops were easily visible. On the other hand, other phones at this price level allow these games to run smoothly at higher graphics presets.
+
+This shortcoming is evident in benchmarks as well. The Nokia 7.2 scored 328 in Geekbench 5's single-core test, and a modest 1,245 in the multi-core test. In AnTuTu, the phone returned 1,34,286. It managed 13fps and 46fps in GFXBench's Manhattan 3.1 and T-Rex tests respectively.
+
+It is powered by the Snapdragon 660 SoC, which is underpowered compared to rivals
+
+The Nokia 7.2's battery makes up for the underwhelming SoC though. The 3,500mAh battery easily and consistently let us get more than a day of usage. With this phone as a daily driver during our review, we used social media and utility apps, played heavy games for around 90 minutes, enjoyed music using wired headphones for around 3 hours, watched online videos, and browsed the Web. The phone still had around 10-15 percent juice left in its battery at the end of the day.
+
+Nokia includes a 10W charger in the retail package, which takes the phone from 0-100 percent in approximately one and a half hours. Charging is a little slow, especially after taking into account the fact that companies such as Realme, Xiaomi, Vivo and even Samsung now bundle 15W or higher capacity chargers with phones priced below the Rs. 20,000 mark. Surprisingly, the Nokia 7.2 only lasted 10 hours and 6 minutes in our HD video battery loop test, which is way below the standard of phones with similar capacity batteries.
+
+Nokia 7.2 cameras
+
+Photos captured by the main 48-megapixel camera were sharp and detailed with good dynamic range, but we noticed that colours were oversaturated, which means if you are looking for natural colours, you'll be slightly disappointed. This was most apparent in pixel-binned 12-megapixel shots taken with the primary camera. Full-resolution 48-megapixel images resolved this issue to some extent and also showed a greater level of detail, but lost out on brightness and contrast which made colours look less vivid.
+
+Shot using the 48-megapixel main camera on the Nokia 7.2 (Tap to see full-sized camera samples)
+
+The results in portrait mode were good as well. Subject detection and separation looked natural most of the time, but there was still some oversaturation. Disappointingly, this phone struggles with adjusting the blur effect intensity after taking shots, and often mistakenly blurs parts of the subject. The fancy portrait effects and the beautification filters in the portrait editor can leave photos downright unusable.
+
+Photos taken in low light were underwhelming, lacking detail and having a lot of noise. The dedicated Night Mode was also a disappointment, as it did little to bring out actual colours. It brightens the frame and resolves a few objects in the final image that were otherwise less discernible, but does little to boost sharpness and vibrancy.
+
+Low-light photo captured with Nokia 7.2 in normal mode (Tap to see full-sized camera sample)
+
+Low-light photo captured with Night Mode on Nokia 7.2 (Tap to see full-sized camera sample)
+
+The Nokia 7.2 captures macros with a healthy amount of surface detail and good contrast. We saw some bleeding around the edges of objects in focus is visible, but the overall image quality was impressive. We noticed that while capturing close-up shots, the phone occasionally struggled with locking the focus.
+
+The Nokia 7.2's wide-angle camera comes in handy for capturing more in one frame. The sensor produced crisp images with decent dynamic range, but on zooming in, we could see some fuzziness. Another issue was the colour tone. The images captured by the wide-angle camera had a distinctly colder tone when compared to shots of the same subject taken by the main camera. Thankfully, distortion was kept to a minimum.
+
+Shot using the 48-megapixel main camera on the Nokia 7.2 (Tap to see full-sized camera samples)
+
+Shot using the 8-megapixel ultra-wide camera on the Nokia 7.2 (Tap to see full-sized images)
+
+As for selfies, the 20-megapixel snapper takes sharp photos under natural light and does a good job at preserving skin complexions and textures. Even minute details such as facial hair are preserved to a good extent. However, portrait selfies have an issue with edge detection, and things like a pair of glasses or sometimes even ears were also blurred, which was frustrating.
+
+Indoor selfies turned out better than those taken by many other phones that we have tested in this price range. The colours look natural and there is minimal skin smoothening. However, low-light selfies looked over-sharpened with grainy texture.
+
+Portrait selfies are well-lit, but edge detection is inaccurate (Tap to see full-sized camera sample)
+
+Low-light selfies lack detail and have grainy texture (Tap to see full-sized camera sample)
+
+The Nokia 7.2 can shoot videos at up to 4K 30fps. Full-HD videos (capped at 30fps as well) exhibited good detail, and but still had oversaturated colours and struggled with locking focus. Thankfully, stabilisation was decent. We noticed a strange flickering effect in 360-degree videos shot under daylight. The quality of 4K videos shot by the Nokia 7.2 is better than what a lot of other phones priced under Rs. 20,000 can manage. 4K clips came out well lit and sharp, with decent colour reproduction, but they are a little shakier compared to the full-HD videos.
+
+The ring-like interface of the Pro mode is quite intuitive, making it easy to adjust parameters such as white balance, shutter speed, and ISO. We do have a few gripes with the camera app. First, you can't switch to the wide-angle camera while recording a video. Also, we noticed that the camera app often took around 2-3 seconds to process a portrait mode photo, rendering the shutter button unusable for that duration.
+
+Verdict
+
+The Nokia 7.2 is a meaningful upgrade over its predecessor, adding a faster processor, more capable cameras, and a new design language that is quite appealing. The phone's display is quite good, and its day-to-day performance is dependable. The cameras of the Nokia 7.2 are decent, but not the best in the segment. As for battery life, this phone can last easily last a day.
+
+Starting at Rs. 18,599, the Nokia 7.2 offers hardware that seems like it should have been in a phone launched late last year. It is still a decent proposition for its price, but the competition has more to offer in terms of power. If you are swayed by stock Android and the Nokia brand name, and also don't care much about gaming, you can go for this phone.
+
+It's worth considering that there are older budget flagships such as the Poco F1 (Review) and Asus 5Z (Review) going for less than the Nokia 7.2's asking price during sales, and newer mid-range phones including the Realme X (Review), Vivo Z1x (Review), Redmi Note 7 Pro (Review), and Realme XT (Review) offer more competitive specifications. For a slight premium, the Redmi K20 (Review) offers a better package on all parameters.

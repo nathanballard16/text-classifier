@@ -1,0 +1,25 @@
+‘Make in India’ Software Defined Radio: ‘Mother’ of all solutions for tactical communications of armed forces
+
+Indian Navy’s Tactical Data Link will be the immediate beneficiary of this indigenous SDR Technology which is very critical as it will help for achieving better transfer rates for a large volume of Real Time data, with a reduced Network latency.
+
+The Defence Acquisition Council’s (DAC) recent approval for the procurement of Software Defined Radio (SDR) technology is the ‘mother’ of all solutions for the desired Tactical Communication needs of the Armed Forces.
+
+The indigenous SDR which needs to be groomed suitably to leverage its potential has been indigenously designed/developed through joint efforts of Weapons Electronics System Engineering Establishment (WESEE)/Defence Research and Development Organisation (DRDO) and BEL (Bengaluru). The BEL, in this case, is the manufacturing partner for DRDO.
+
+Indian Navy’s Tactical Data Link will be the immediate beneficiary of this indigenous SDR Technology which is very critical as it will help for achieving better transfer rates for a large volume of Real Time data, with a reduced Network latency.
+
+This indigenous technology will be readily implementable for the Indian Army and Indian Air Force (IAF) for improved transfer rates for data, voice and video information. This will enable troops on the ground carrying Handheld Man-portable SDR versions to achieve integration with higher echelons to accomplish true C4I capability. Also, with SDR technology, the possibility of swarms of Unmanned Aerial Vehicles (UAVs) operating in the battlefield looks encouraging.
+
+With each warship as a Node generating humongous Real-Time data related to navigation, combat information etc., and the SDR solution was evolved by the Indian Navy through the efforts of it’s premium R&D organisation, WESEE.
+
+What is Software Defined Radio (SDR)?
+
+“Any radio system wirelessly transmits/receives signals in the radio frequency (RF) spectrum to facilitate the transfer of information. It is a very special kind of advance Radio system in which the physical layer functions are defined as software functionality i.e. a software code executes the role of a Circuit Board of the conventional radio and software-based filtering algorithms are used for frequency selection,” explains Milind Kulshreshtha, Artificial Intelligence and C4I expert.
+
+According to Kulshreshtha, “The software generates the communication signal waveform which is equivalent to a modulated signal, making SDR capable of communicating over a large portion of the spectrum whilst supporting multiple protocols. These software algorithms are downloadable and adaptable over the life span of the hardware. The SDR is a multimode, multi-band and multi-functional Radio requiring only a software upgrade for improvements. Traditional hardware-based radio have cross-functionality limitations and can only be modified through physical changes.”
+
+Defence Applications
+
+The Defence Tactical communication operates at several different frequencies like HF, V/UHF etc. and each has its own unique type of protocol to meet the Battlefield demands. Each Unit/Node in a Tactical communication scheme forms a part of a secure interconnected Network for communicating with each other. SDR too operates in the same frequency spectrum ranges using multiple protocols. Moreover, SDR is compatible with the legacy Military radio systems for feature enhancement, the AI &C4 expert.
+
+Presently, SDR’s communication waveform algorithms have been evolved by Indian Defence themselves and this makes the SDR system highly secure. Adding, SDR research shall be a continuous effort so as to keep the already deployed SDR resilient enough against jamming or hacking by an adversary with advanced technology.

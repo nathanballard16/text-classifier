@@ -1,0 +1,17 @@
+Satya Nadella Has Built World's 1st Election Software That Lets You Track Your Vote Till End
+
+It's only natural people worry about the sanctity of elections. They are after all trying to pick their policymakers. But since the Cambridge Analytica scandal, we've gotten warier of interference in general.
+
+So Satya Nadella's Microsoft has just released a software kit it thinks could help us rest easy.
+
+At the Build 2019 developer conference last night, Microsoft CEO Satya Nadella unveiled the 'ElectionGuard' SDK, a kit he says will be going live on Github in a few months. It's part of the company's 'Defending Democracy' program, where the objective is to use technology to safeguard the democratic process around the world.
+
+Nadella says the SDK can be easily integrated into existing, off-the-shelf hardware, even in certain paper ballot systems. The idea is that each person can use a unique code on a web portal, given at the time they cast their ballot, to check that their vote hasn't been manipulated at any stage of the process. It also lets them ensure their vote is properly counted.
+
+Moreover, though the trackers remain encrypted to protect the privacy of each voter's choice, the system still allows government organisations and third parties to audit and verify the votes tabulation process.
+
+"It will enable end-to-end verification of elections, open results to third-party organizations for secure validation, and allow individual voters to confirm their votes were correctly counted," a company spokesperson wrote in a blog post.
+
+But it's not all about just securing the process, ElectionGuard is also meant to make it more informative for voters. To that end Microsoft also demonstrated a prototype machine that changes things. Using the portal, you can search for your local candidates and learn more about them right from your home. Then, when you've made your choice, you can print out a slip with a unique QR code on it. That way, when you get to the voting booth, you don't choose a button to hit but instead just scan the code.
+
+Of course, it's a little too late for our own elections at the moment, since it seems Microsoft was designing it with the US' 2020 presidential elections in mind. Still, maybe we'll actually be miraculously lucky enough to see a system like this in place in India next time around.

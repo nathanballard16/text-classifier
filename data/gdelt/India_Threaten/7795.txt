@@ -1,0 +1,33 @@
+Facebook removes a record 2.2 billion fake accounts in major crackdown on spammers and hate speech
+
+On Thursday night, Facebook released its Community Standards Enforcement Report for the first quarter of 2019. The social networking giant claims it has removed 2.2 billion fake accounts during this period in a serious crackdown on "bad actors".
+
+These are startling figures because Facebook's total monthly active user base is 2.38 billion. So, the 2.2 billion accounts removed also include the ones the platform detects at the time of user sign-ups.
+
+In last quarter of 2018, Facebook had removed 1.2 billion fakes. It implies that fake accounts on the platform doubled in just three months. “The larger quantities of fake accounts are driven by spammers who are constantly trying to evade our systems,” Guy Rosen, Facebook’s VP of Integrity, explained.
+
+Facebook also revealed that it has pulled down over 1.5 million posts promoting drugs or the sale of firearms on its platform.
+
+It intends to further strengthen its reporting mechanisms and extend the detection of illegal activities to other categories. The percentage of cases where Facebook removed hate speech even before users reported it, also went up.
+
+Facebook CEO Mark Zuckerberg
+
+In an official statement, Facebook wrote,
+
+"We want to protect and respect both expression and personal safety on Facebook. Our goal is to create a safe and welcoming community for more than 2 billion people who use Facebook around the world, across cultures and perspectives."
+
+Also Read: Facebook removing a million accounts in India every day to combat fake news ahead of elections
+
+CEO Mark Zuckerberg had earlier said that the platform was steadily increasing its spends on new policing mechanisms to curb hate speech.
+
+He said,
+
+"The amount of capital that we are able to invest in all of the safety systems that go into what we are talking about today -- our budget in 2019 is greater than the whole revenue of our company in the year before we went public in 2012."
+
+Even though Facebook's AI algorithms can detect almost 99 percent of graphic or violent content on the platform, they aren't entirely fool-proof, especially when it comes to lives. This was on display earlier in March, when horrifying terror attacks in Christchurch, New Zealand were broadcast live on Facebook.
+
+Amid severe backlash that followed, Facebook removed 1.5 million videos of the attacks globally, of which over 1.2 million were blocked at the upload stage. Earlier this month, it joined other big tech corporations - Amazon, Google, Microsoft, and Twitter - to sign the Christchurch Call to Action that pledges to fight against extremist content online.
+
+Stay Updated Get stories of change makers and innovators from the startup ecosystem in your inbox Please fill in this field. {{#error}} {{error}} {{/error}} {{^error}} Something went wrong. Try again later {{/error}} Welcome Onboard ! You have been successfully registered for our daily newsletter.
+
+Also Read: Facebook India will now report to Mark Zuckerberg's core team in Menlo Park

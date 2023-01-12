@@ -1,0 +1,49 @@
+Electronic Cigarettes Ordinance- A Peculiar Case of Legislative Mismatch
+
+"Since these devices are injurious to health and proliferation of these products have negative impact on public health, it is expedient to prohibit the production, manufacture, import, export, transport, sale, distribution, storage and advertisement of electronic cigarettes as enjoined by Article 47 of the Constitution of India", thus go one of the recitals of the ordinance prohibiting the above-mentioned acts related to electronic cigarettes.
+
+
+
+Protection of public health has been portrayed as the prime objective of bringing this ordinance. Principled references have been made in the Ordinance to Part IV of the Constitution in which Directive Principles of State Policy are manifested. In succession to the above-mentioned reference to Article 47, reference has also been made to Article 51 which enjoins the State to foster respect for international law. This reference is made to emphasise that the Ordinance is in furtherance of India's committment to the World Health Organization Framework Convention on Tobacco Control. Despite the professed objective of the Ordinance being protection of public health, the Ordinance nowhere, either explicitly or impliedly, prohibits the 'consumption' or 'use' of Electronic Nicotine Delivery Systems (ENDS) - the technical nomenclature for electronic cigarettes.
+
+Understanding the Scheme
+
+Sections 4 and 5 of the Ordinance lay down the offences. Section 4 lays down a series of 'actus' and provides that,
+
+"no person shall produce or manufacture or import or export or transport or sell or distribute electronic cigarettes".
+
+Furthermore, Section 5 adds one more act to the list and prohibits the 'storage' of electronic cigarettes. Essentially, the adverse effect of ENDS on public health is triggered by 'consumption' and the act of consumption itself has nowhere been declared in the Ordinance as an actus reus so as to constitute an offence and make it punishable.
+
+One might wonder, at this stage, that a prohibition on sale or storage would imply an indirect prohibition on consumption as well. However, the definitions of sale and storage provided in the Ordinance do not support this view. 'Sale', in the Ordinance, refers to any transfer of property by one person to another and includes any transfer by exchange as well. A collective reading of this provision with the offending act specified in Section 4 would reveal that culpability gets attracted to the person who 'sells' the electronic cigarette and not to the one who 'buys' it, as the language embodied in Section 4 uses the phrase "no person shall . . sell". Going in absolute contrast with the stated objective of protecting public health, the legislation seems to have adopted an indirect and seemingly bizarre route to punish the vendor and not the consumer.
+
+Let us now understand how the buyer or consumer would not attract any culpability despite 'storage' being made punishable by the Ordinance. Section 5 states that,
+
+"no person being the owner or occupier or having the control or use of any place shall knowingly permit it to be used for storage of any stock of electronic cigarettes".
+
+A bare perusal of the provision reveals that the offence of storing electronic cigarettes can only be committed by an owner or user of a place who 'knowingly' permits his place to be used for storage. Neither the act of consumption nor of keeping electronic cigarettes in a non-commercial capacity attracts any liability under this ordinance. As a corollary of this implication, if any person keeps electronic cigarettes in any premises that does not belong to him in any manner, the liability would fall upon the person who 'permits' them to be kept in his premises and not upon the one who actually keeps them. The stated objective of protection of public health, again, finds no voice in the language of the statute.
+
+What is the mischief?
+
+The acts specified in the Ordinance constitute a class in themselves and are primarily targeted towards curbing the economic activity pertaining to electronic cigarettes. It is also pertinent to note that the set of acts specified in the Ordinance is not followed by the words 'or any other act of a like nature'. These words are generally used in provisions when the legislature intends to expand the scope of language of the statute or to enable the application of the doctrine of ejusdem generis. Therefore, the absence of these words is crucial as it signifies that consumption or use of electronic cigarettes cannot even be impliedly read into the Ordinance. Moreover, the Ordinance, being a criminal statute, is bound by strict interpretation.
+
+The Ordinance in question is a peculiar case of legislative drafting wherein the stated objective is in utter contrast with the provisions deployed in the statute to achieve that very objective. The provisions collectively attack any form of economic activity pertaining to electronic cigarettes. The Ordinance views at such economic activity as the mischief to be curbed. However, such economic activity is not labelled as mischief for reasons of public health but for reasons of economic considerations, strictly speaking.
+
+Challenge under Article 19(1)(g)
+
+The Ordinance curbs the fundamental right to carry on any trade or business as provided in Article 19(1)(g) of the Constitution. Notably, the State can curb the above-mentioned right under Article 19(6) by making a law in the interest of general public. Section 2 of the Ordinance seeks to justify this prohibition by stating that:
+
+"It is hereby declared that it is expedient in the public interest that the Union should take under its control the electronic cigarettes industry"
+
+In the light of abovestated position, two contentions arise for consideration. Firstly, why would the State take an industry under its control only to prohibit all economic activity pertaining to that industry?
+
+Secondly, the only ground available to the State to do so is of general public interest, as per Article 19(6). In the light of the stated objective of the Ordinance, one could deduce that protection of public health is the so-called public interest that the State seeks to use as an armour to curb economic activity. However, the moment it is observed that this ordinance does not even prohibit the consumption or use of electronic cigarettes, the so-called public interest gets nullified as it goes contrary to the objective of protection of public health.
+
+Challenge under Article 14
+
+It is crucial to understand that this Ordinance draws a distinction between the two ends of economic activity. Consumers (who are primarily a non-commercial arm of the business) and producers/sellers/manufacturers/advertisers (who constitute the commercial arm) have been carved into two different classes. Whether this differentia/classification is intelligible or not has to adjudged in the light of the object sought to be achieved. Since the stated object to be achieved is protection of public health, legislative propriety demands prohibition on not just the producers but also on the consumers. However, the Ordinance fails to do this. By putting curbs on the commercial activity pertaining to electronic cigarettes and leaving consumers/users out of its purview, the Ordinance militates against the principle of reasonable classification and is open to challenge under Article 14.
+
+Ut res magis valeat quam pereat- better the Act prevail than perish, is a well known principle of interpretation that seeks to infuse sense into the statute while interpreting it. In Corporation of Calcutta v. Liberty Cinema (AIR 1965 SC 661), honb'le Supreme Court eloquently stated that a sensible meaning should be given to the words of a statute and raise a presumption in favour of constitutionality. The Ordinance in question would have attract the above principle only if the stated objective would have been to curb economic activity of electronic cigarettes. However, a law that seeks shelter under the public interest of protecting public health and contains provisions that counter the very objective of the law, both in letter and effect, could hardly be given the benefit of presumed sensibility or constitutionality.
+
+[The author is a Delhi-based lawyer. The opinions expressed in this article are the personal opinions of the authors. The facts and opinions appearing in the article do not reflect the views of LiveLaw and LiveLaw does not assume any responsibility or liability for the same]
+
+Image source :Vaping360.com

@@ -1,0 +1,13 @@
+SBI customers affected, fear security breach regarding key customer data
+
+New Delhi: Amidst news that customer data of lakhs of State Bank of India (SBI) customers was compromised in a major security breach, the largest bank in the country has been found to fail in keeping the secrecy of customers' details like account number, mobile number and account balance, with adequate safeguards.
+
+According to US-based security watch outfit TechCrunch report, the SBI server, which exposed the users details, hosted two months data of SBI Quick, text messages and call-based system that a customer uses to get information like account balance.
+
+The bank was found not to have protected the server with a password and thereby allowing the access to the confidential data of millions of customers.
+
+The report said that it was not known for how long the server was open. The database had given access to real-time text messages, account balance, recent transactions, partial bank account number and also exposed the customers' phone numbers. The report also claimed that the SBI has now protected the server. A security researcher said that the leaked data could be used to target customers with high bank balance.
+
+Although SBI sources informed that the glitch was fixed even beforoe TechCrunch brought it to public notice, customers are still in apprehension, more so by the fact that SBI switched off its server for a day and halted transactions on Thursday, till it was found safe to run the system again.
+
+Earlier this week, the SBI has accused UIDAI of mishandling citizens' Aadhaar data that allowed the creation of fake Aadhaar cards. However, the UIDAI has rubbished the charges claiming that citizen data is safe.

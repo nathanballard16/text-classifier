@@ -1,0 +1,37 @@
+Data Protection Bill: Govt breaks silence but secrecy remains | India Today Insight
+
+In two tweets yesterday, Shashi Tharoor, the chair of the standing committee on information technology (IT), explained why his committee, which examines matters related to the IT ministry -- which includes the Personal Data Protection bills -- hadn't met yesterday, as had been the plan. The speaker of the house, Om Birla, had asked him to postpone the meeting because the ruling party had issued a three-line whip to its Rajya Sabha members, making it impossible for them to attend the meeting.
+
+Birla had assured Tharoor that all standing committees -- such as those on railways and urban development, also scheduled to meet yesterday -- would meet another day. Unbeknownst to Tharoor, that wasn't the case -- the two other committees had met. "Does the Govt have something to hide?" Tharoor wrote at the end of a tweet.
+
+By afternoon, the Personal Data Protection bill, 2019, which was introduced in the Lok Sabha for debate, was dealt another blow. The bill was referred to a joint select committee of both Houses, led by Meenakshi Lekhi, the BJP national spokesperson.
+
+MORE FROM INSIGHT | Why states are feeling the GST pinch
+
+The revised data privacy bill, known as the Personal Data Protection Bill, 2019, came a year after the first draft was published in 2018. The ministry of electronics and information technology had sought feedback on the first draft and had received many, many, comments but never made them public. One way or another, we finally have a new bill. So how do the two compare?
+
+"The revised draft now circulated is actually much tighter than the 2018 version. With respect to the crisper language and draftsmanship, the 2019 draft scores," says N.S. Nappinai, a Supreme Court lawyer and a cyber-law expert. The bill, of course, is necessary given that India has no framework at all on how personal data is handled by the various entities and agencies, including the government. Previously, only some sectors, like banking or insurance, had confidentiality clauses, explains Anirudh Burman, an associate fellow at Carnegie India. The privacy bills bring all sectors to abide by the tenets of data security. Except, under the new bill, that doesn't quite happen. That's because provisions are very strong when it comes to how private companies and other entities collect and process data but lax when it comes to how the government can access personal data.
+
+MORE FROM INSIGHT | Judge, Jury and Executioner
+
+In fact, the previous bill called for a law under which the government could claim access to personal data in the interests of prevention or investigation of offences. That provision is missing in the new bill. The Central government also holds power to exempt its agencies from application of provisions of the Act. Compare that with the way in which data fiduciaries -- as entities that collect and process data are known -- access personal data. Every entity has to ask for explicit consent and clearly lay out what that information is going to be used for. An individual can also exercise a right to erasure if purpose for which data was collected becomes outdated.
+
+It is in this context of a mismatch, lawyers, public activists, tech researchers and internet companies, have raised alarm bells. Udbhav Tiwari, Mozilla's public policy advisor, says that the new bill really delivers when it comes to companies, but worryingly, points to scope of "blanket surveillance" possible by the government should it so choose. Vrinda Bhandari, a lawyer whose interest areas are policy and tech says the bill runs in contradiction to the "spirit of Puttaswamy committee". And Srinivas Kodali, an independent researcher who focuses on data and governance, says that the bill almost rolls back privacy as a fundamental right of citizens, as upheld by the Supreme Court in 2017.
+
+MORE FROM INSIGHT | Why Assam is protesting against the Citizenship Amendment Bill?
+
+The bill also places restrictions on the transfer of data and requires all companies that process personal data to keep it within the country, but at the same time, allows companies that process sensitive personal data -- which includes financial data, health data, data on sexual orientation and biometrics -- to process it outside the country. A copy of sensitive personal data have to be stored within the country. This -- flexibility on transfer of data -- is good. As Udbhav explained, flexibility allows global banks, say, to detect fraud. In terms of asking for explicit consent before processing data, the bill allows, as Srinivas said, for a complete halt to surprise processing of biometric information.
+
+But what good does keeping so much data in the country achieve? It's not very clear since it might even have the opposite effect. It is unlikely that big tech companies like Facebook and Amazon are going to submit personal data easily. The companies will have enough on their plates because the government asks companies to hand over non-personal and anonymised data. For smaller companies, however, problems might be even steeper. Over-compliance might kill innovation because companies in the next gen cities -- Tier 2 and Tier 3 -- might be looking for data to successfully launch their next big start up. Anirudh wonders if privacy could end up proving too costly for India.
+
+Finally, but not the least, the government introduces "social media intermediaries," without any clear-cut explanation of what that means. Akriti Gaur, a senior fellow at Vidhi Centre for Legal Policy, a think-tank that assists governments in making better laws, says that it is likely to open the floodgates of interpretation and confuse tech platforms. "We are not against regulation, but want clarity before a definite law is passed," says Kumar Deep Banarjee, the country manager of the Information Technology Industry (ITI) Council, a tech advocacy organization.
+
+The good news then is, there are rumors about changes to the bill, which conveys urgency and commitment to the privacy project. The bad news is that motives matter.
+
+ALSO READ | Personal Data Protection Bill seeks access to user data without consent in select cases: Report
+
+ALSO READ | Exclusive: What Personal Data Protection Bill 2019 is likely to propose
+
+ALSO READ | Cabinet may take up personal data protection Bill
+
+ALSO WATCH | Big data war breaks out: Can govt protect citizen's data?

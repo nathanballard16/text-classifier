@@ -1,0 +1,59 @@
+Fact-checking vigilantes in India are a bulwark against the move to a ‘post-truth’ world
+
+Propaganda, disinformation, rumour and information warfare are as old as human conflict. What then is new about the current global concern about the phenomenon of fake news? What is arguably new is the technologisation of the phenomenon that is also the direct and logical consequence of the democratisation of tools and techniques of media production.
+
+As the culture of using ever more sophisticated tools to create fake content spreads, so does the surrounding ecosystem of fake news forensics aimed at detecting and calling it out. Armed with the latest software and media editing tools, fueled by a diverse range of motivations, and spread across media outlets ranging from television shows, websites and digital platforms, these “detectives” make India’s fake news ecosystem distinct from any other digital-political space globally.
+
+The Microsoft Digital Civility Index released in February placed Indian netizens at the highest risk of encountering fake news globally (a significant 7% more likely than the global average), thus supporting a widely perceived phenomenon.
+
+Eco-system of fact-checking
+
+As with other parts of the world, addressing the phenomenon of fake news impinges directly on issues related to freedom of speech and the democratisation of the public sphere. In realising the utopian dream of giving every citizen a microphone, the web’s democratising tendencies also simultaneously led to that dream’s souring.
+
+The fake news phenomenon is part of a wider culture of extreme speech, rampant partisanship, and mainstreaming of fringe opinions. But it is also distinct because in opening the floodgates of forged, distorted and edited media content it has allowed for the creation of parallel realities.
+
+The construction of alternative versions of truths deploys the very production skills of photo, video and sound editing that in an older era of centralised control remained the purview of a few. It also feasts on the free availability of news and cultural texts ready to be remixed, layered over and edited to create a digital flood of fakes and deep fakes indistinguishable from the truth.
+
+The ecosystem of fact checking and myth busting that has emerged in response to this culture of creating “false truths” is increasingly just as widespread as the culture of falsehood it is seeking to target and call out. This ecosystem in India today cuts across digital, television, and print media, but also bleeds into the corporate domain with public service advertisements warning against the dangers of fake news.
+
+A recent television commercial by Axis Bank cautions potential investors against panicked responses to fake news by asking viewers to “Be Responsible”. The advertisement goes through several characters collapsing from the shock of receiving a forwarded image with the words “Market to Crash Pull Out of Mutual Funds Today” written in large multicolored fonts and with an arrow pointing downwards.
+
+Such public service announcements from private corporations signal a new era and are complemented by similar commercials from digital media platforms, for instance Facebook-owned WhatsApp, whose liability in the circulation of fakes leading to widespread violence has awakened it to a renewed sense of responsibility in stemming its spread.
+
+These advertisements underscore that slickly produced media texts (info-graphics in particular), which require particular digital skills to create and circulate, take on a veneer of authenticity from their technological components that infuse the text with a truth effect of its own.
+
+In most instances of fake digital content, the text is overshadowed by its aesthetic and technological finesse, giving it an authority that accrues from the expertise in creating such texts rather than the credibility of the claims being made.
+
+In this scenario, a text with minimal aesthetic embellishments (only words, simple pictures or a linear video) is likely to be perceived as less credible than one where advanced production skills have been used to create high definition images or videos with aesthetic enhancements and a more complex form.
+
+Fact-checkers in India
+
+An ecosystem of fact-checking vigilantes has emerged in India, ranging from self-motivated individuals, to organised divisions within mainstream and online news media, to digital media outlets solely dedicated to fact checking and online myth busting.
+
+This ecosystem comprises of dedicated shows on television (for instance, Viral Sach on ABP News), sections within mainstream media (such as the Times of India’s Times Fact Check initiative that includes a video series Fake Bole Kaua Kaate ) , India Today’s Anti Fake News War Room, sections in digital news outlets (Webqoof on Quint, Hoaxposed on The Print) as well as initiatives solely dedicated to busting fake news online such as SMHoaxSlayer, Altnews, and Boomlive.
+
+While the culture of fact-checking has existed ever since the existence of a free press, what is common across this emerging ecosystem in India is its reliance on advanced technological tools for its forensic investigation.
+
+Old cultures of fact-checking relied on the traditional modes of research and reporting such as digging into databases, looking up archives, making phone calls, and talking to experts.
+
+In contrast, current methods rely on sophisticated technological tools such as reverse image search, video editing software and widely available online software such as Hoaxy, Fotoforensics and Botometer to parse apart the subtle giveaways that betray a digital text’s origin and process of creation.
+
+In many cases their sequential methodology of fact-checking is described by the organisation or individual often underscoring the technological side of the process.
+
+The tools of detection are determined by the type of fake being deciphered. An unedited image or video that is presented out of context is an entirely different challenge to a text that has been altered from within. The problem of placing images and videos out of context is often solved through a reverse image or audio search, while digitally altered photo and videos require far more advanced tools including machine learning and AI systems to detect subtle nuances such as eyelid movements, voice inflections and tonalities.
+
+A much-needed alternative
+
+The ongoing general elections in India – and the inevitability of misinformation campaigns covertly supported and encouraged by political parties that will rely on fake texts to influence voters – presents an imminent challenge for the country’s public sphere and democracy. This challenge is particularly pronounced given recent findings that establish a congruence between nationalism and motivation to share fake news in India.
+
+The inundation of the public sphere with fakes that circulate through encrypted communication networks such as WhatsApp pose a mortal threat to the foundational principles of an equal and representative public sphere.
+
+Akin to extreme speech that has the effect of silencing, ideologically motivated fake news can dangerously skew the discourse with enduring consequences for any nation’s polity.
+
+Since unchecked state regulation opens its own can of worms, the growing phenomenon of busting fake news presents an alternative solution and a much-needed corrective to the circulation of falsehoods within India’s political discourse.
+
+Both in their uncovering of damaging lies, and in the deterrent effect that perpetrators will eventually be caught and exposed, the fact checkers are a bulwark against the move to a “post-truth” world.
+
+Sangeet Kumar is associate professor of Media Studies at Denison University, US.
+
+This is the fifth part of a series on tackling online extreme speech. Read the complete series here.

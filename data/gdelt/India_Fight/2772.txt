@@ -1,0 +1,11 @@
+Microsoft Edge for Android updated, brings NewsGuard feature to fight fake news
+
+Microsoft has announced a new feature for its Edge browser for Android to combat the menace of fake news. The company has launched a feature called NewsGuard that will help users by informing them about the credibility of any news source inside the browser. The interesting thing to note here is that this approach will make users aware of what news sources they are frequenting and if the news that they are reading is credible or not. Direct results about the source without the need to manually check and verify the sources. Also Read - Halo Infinite and Forza Horizon 5 have been played by over 38 million people
+
+In case the source has low credibility, then the low score is likely to make users think twice before they share anything with low credibility. The company had previously rolled out the feature to the beta version of the app to further refine it. The final version of the feature is part of the latest update rolling out to Android users. For some context, the problem of fake news has taken the world of the internet by storm. As reported previously, the problem along with disinformation campaigns caused a major controversy during the last presidential elections in the United States. Also Read - Microsoft's Satya Nadella, Google's Sundar Pichai to be honoured with Padma Bhushan on India's 73rd Republic Day
+
+Watch: Microsoft Surface Go First Look
+
+The phenomenon also led to mob lynchings of a number of people in India and it is expected to impact the upcoming general elections in India. The feature was initially spotted by NokiaPowerUser in a report. The report also noted that Microsoft has also added other small changes in the new update. Some of the features include Close the browser option in the menu along with usual bug fixes and improvements in performance.
+
+One thing to note here is that Microsoft Edge for Android is based on the Chromium open-source browser, the same browser that is the base of Google Chrome. This update comes weeks after Microsoft announced that it is stopping development on its custom web engine that is currently powering Edge for Windows. The company added that it will move the base of Edge for Windows on Chromium.

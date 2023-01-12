@@ -1,0 +1,55 @@
+Why Twitter is unlikely to target Indian users from the political Right
+
+Twitter has been facing fire in India over claims that it is politically biased. Many officials and supporters of the ruling Bharatiya Janata Party have alleged that the microblogging platform unduly censors right-wing voices.
+
+Early this month, India’s parliamentary committee on information technology, led by a BJP politician, summoned senior Twitter officials to testify on this subject. This came soon after BJP supporters held a protest outside the company’s New Delhi office. The meeting was rescheduled to February 25 after CEO Jack Dorsey failed to make it to the earlier date, February 11.
+
+Meanwhile, Twitter’s efforts to clarify that its policies are not affected by political ideologies have not convinced India’s right-wing Twitterati. Earlier this week, when users globally were affected by a bug causing retweets and likes to disappear, many in India alleged a conspiracy of censorship.
+
+Linvill and Warren analysed millions of tweets from before the 2016 Unites States presidential election.
+
+In the US, Twitter has been accused of similar biases for a while now.
+
+Darren Linvill, an assistant professor at Clemson University in the US, and his colleague Patrick Warren, have spent months researching Twitter. The duo wrote a widely cited study after collecting and analysing millions of tweets believed to be disseminated by Russian disinformation operations ahead of the 2016 US presidential election. Over the course of their ongoing research, the academics engage with Twitter to communicate about their findings and suggest certain content be taken down.
+
+Linvill has gone into the details of the political discourse on Twitter so extensively that his academic colleagues call him “the troll whisperer”.
+
+For global as well as technical insight into this issue, Quartz spoke with Linvill over email. Edited excerpts:
+
+How likely do you think it is that Twitter is targeting right-wing users in India?
+
+I will probably regret wading into this debate, but I doubt Twitter is actively targeting conservatives on its platform. People often think of social media platforms as all-powerful monoliths that wield great power and wealth. Even if Twitter wanted to try to target individual conservative voices in India, I wonder if it is actually in a position to do so. Twitter didn’t report a profitable quarter until the end of 2017, that’s 12 years after its founding. Others have argued that Twitter profits greatly from users’ extremist political views. There may or may not be truth to this, but at a minimum, I don’t think Twitter would view it as being in its financial best interest at this point to alienate a large portion of its users.
+
+If Twitter wants to maintain users’ trust it will need to adapt.
+
+In general, investigating whether Twitter is biased is exceedingly difficult. The company, understandably, does not share specifics of its algorithms, so there are many questions which only it can answer. Some researchers have tried to tackle the question with what data is available, but I have not yet seen a study I find to be valid.
+
+Twitter has faced similar accusations by conservatives in the US. What can that controversy teach us in India?
+
+It shows that human nature makes us all very similar in how we engage online and I believe this controversy in India has its roots in what has caused the same debate here in the States. It also shows us that Twitter hasn’t learned fully from its own experience. The company still hasn’t articulated a response to these accusations that critics find plausible. This is an issue that will likely spread to other nations, and if Twitter wants to maintain users’ trust it will need to adapt.
+
+In a letter that a lawyer submitted to the Indian government, he alleged that Twitter exhibits a “visible bias” against right-wing voices in downranking, shadow banning, suspension of accounts, and trending topics. What would it require for Twitter to be politically manipulating these things?
+
+From the outside, it is difficult to say what it would take to accomplish these alleged activities. Manipulation of trending topics and shadow banning certain types of users may be relatively easy (but not necessarily easy to do on a large scale and unobtrusively), but drilling down to account level suspensions for political purposes would be more resource intensive, and that isn’t something you would want to hand off to an intern. It is important to point out, however, that these manipulations are also easy to misidentify, particularly from the outside. A Vice News story from 2018 about shadow banning of Republican accounts on Twitter, for instance, has since been widely challenged.
+
+The accusation that “left-wing” trending topics are sometimes listed ahead of “right-wing” topics despite having fewer tweets should also be questioned. This may be true. What we know is true, however, is that Twitter’s algorithm considers more than just the raw number of tweets when computing a trending topic. Trends are also, to a degree, about the timing of the tweets.
+
+How powerful are echo chambers on Twitter, and are they likely to be influencing this controversy?
+
+Echo chambers (the fact that, given the choice, most people prefer to associate with those they already agree with) make this debate even more complex. First, liberals on Twitter are more likely to share mainstream media and conservatives are more likely to share fake news and other questionable content. It may be that conservatives are being disproportionately targeted by Twitter, but it may have nothing to do with ideology. It may be that Twitter’s algorithms identify something questionable in what a user has shared and then take action. Twitter isn’t always good about communicating clearly why it takes an action against a user, however, so those users may be left to make their own assumptions.
+
+Also, echo chambers could mean that conservatives simply don’t understand the extent to which actions are taken against left-leaning Twitter users. It is easy to make incorrect assumptions with only half the data.
+
+You engaged with Twitter during your research on social media disinformation campaigns. Have any of these interactions shed light on how the company enforces its rules?
+
+Too often, social media companies have dismissed public concerns with “trust us”.
+
+In our research on social media disinformation, my colleague Patrick Warren and I have occasionally come across small networks of organised disinformation operations. We have seen active examples targeting both left-leaning and right-leaning users. On a few occasions, we have reached out to Twitter’s site integrity team and worked to shut accounts down. In the past, this has resulted in accounts quickly being suspended. Just last week, however, we notified Twitter of several right-leaning accounts which we felt were organised, inauthentic activity, and more than they pretended to be. Twitter did not shut down those accounts and gave us a non-specific, technical explanation as to why. I don’t know if Twitter made the right decision or not in leaving those accounts active, but I was pleased that the company had an ideologically neutral policy and clearly stuck to it.
+
+What course of action should Twitter take to address this issue in India?
+
+I think the company clearly needs to take the accusations very seriously. Too often in the past, social media companies have dismissed public concerns with little more response than “trust us”. They have not always shown an appreciation for what it means to be on the public’s side of the curtain, not knowing what magic the platform is performing on the other side. I think Twitter needs to put more resources into helping users understand the platform and communicate more clearly regarding why an action was taken against a user when it does so.
+
+This article first appeared on Quartz.
+
+

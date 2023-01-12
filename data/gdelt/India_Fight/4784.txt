@@ -1,0 +1,33 @@
+WhatsApp cracks down on fake and abusive accounts ahead of general elections
+
+WhatsApp says it has banned over 2 million accounts every month for the last three months for bulk or automated behaviour.
+
+Facebook-owned messaging platform WhatsApp revealed how it was using machine learning to ban fake and abusive accounts in India ahead of the national elections. The messaging service said it had banned over 2 million accounts per month for bulk or automated behaviour over the last three months.
+
+In a white paper shared with the media, the platform said over 75 percent such accounts were blocked without needing a user report while 20 percent were caught and blocked at the time of registration.
+
+Explaining its approach on how it detects abuse, tackles bulk messaging, automated behaviour, click-bait, and coordinated abuse among others, WhatsApp reiterated some significant product changes and partnerships to address the harmful consequences of misinformation. The messaging platform said these efforts were particularly important during elections when certain groups could attempt to send messages at scale.
+
+It said in the paper that WhatsApp was built for private messages and that the service was not a “broadcast platform”.
+
+WhatsApp also facilitated political party training in the five Indian states with elections in 2018 to ensure political parties did not abuse the platform for campaigns. The training emphasised that sending WhatsApp messages to users without permission could lead to accounts being banned. “We will expand this effort and work with the Election Commission of India in the lead-up to the national election in 2019,” it said.
+
+Earlier this month, after realising the rampant spread of false news and misinformation on the internet, particularly through the popular messaging platform, the government asked WhatsApp to come up with effective solutions to battle fake news.
+
+ALSO READ: Six new features from WhatsApp that Indian users can't wait for
+
+How does it detect suspicious behaviour?
+
+The messaging service bans accounts that send a high volume of messages. However, coordinated campaigns often try to spread their activity across many different accounts. “We therefore work to understand behavioural cues indicating bulk registrations. For example, our systems can detect if a similar phone number has been recently abused or if the computer network used for registration has been associated with suspicious behavior,” said WhatsApp in the paper. This allows the platform to detect and ban many accounts before they register — preventing them from sending a single message. “In the same three-month period, roughly 20 percent of account bans happened at registration time,” it informed.
+
+Stay Updated Get stories of change makers and innovators from the startup ecosystem in your inbox Please fill in this field. {{#error}} {{error}} {{/error}} {{^error}} Something went wrong. Try again later {{/error}} Welcome Onboard ! You have been successfully registered for our daily newsletter.
+
+The cross-platform messaging and Voice over IP (VoIP) service also said that it used machine learning to the point where it combines signals to make determinations without human intervention. “We learn from how other users have behaved and surmise the reputation of new accounts.”
+
+“For example, if an active computer network has recently been used by known abusers, we have more reason to believe a new account on that network is likely to be abusive.” These behaviours, and other signals about current and past behaviour, are helpful in finding coordinated campaigns trying to abuse WhatsApp.
+
+The instant messaging platform has also made several changes to its reporting functions within the app. Previously WhatsApp provided a function to “Report Spam”. This function is now called “Report” to encourage users to inform the platform about a range of potential issues they encounter on WhatsApp. “In addition, we now provide the option for people to keep reported messages on their phone if they want to share them with fact checkers or law enforcement officials.”
+
+Last year, WhatsApp hired a dedicated grievance officer for India; this officer can be contacted directly if a user has a concern about the WhatsApp experience and is unable to report it through other channels. WhatsApp has also awarded 20 independent research grants for product development and safety efforts going forward.
+
+Also read: Why Mark Zuckerberg plans to merge WhatsApp, Instagram and Facebook Messenger

@@ -1,0 +1,13 @@
+Free Wi-Fi can be terror, hackers hotspot
+
+Hyderabad: Hyderabad has the highest number of Wi-Fi hotspots among all metros. While such hotspots provide free connectivity to the internet, they are also vulnerable to security breaches leading to data theft.
+
+Cyber security experts warn that free Wi-Fi can be misused by cyber criminals. Terrorist organisation Indian Mujahideen is stated to have used free Wi-Fi for sending e-mails to media houses moments before the 2008 serial bombings in New Delhi and Ahmedabad.
+
+Speaking on the issue, Global Cyber Security Forum chairman Sai Krishna said, “There is a massive flaw in WPA2, the encryption standard that secures all modern Wi-Fi networks. There is a possibility that anyone near you could easily access your information, including encrypted data, if you are using a Wi-Fi network. Wi-Fi standards currently available in India are flawed and should not be trusted.”
+
+Using free Wi-Fi is like requesting hackers to invade your privacy. Founder and CEO of Lisianthus Tech Khushhal Kaushik said, “According to my research, data being conveyed by an individual over internet can be intercepted by the hacker. This includes valuable personal data, like username/password of online bank accounts”. Krishna said hackers use unsecured Wi-Fi connections to distribute malware. Once they infect the software on your computers and devices, your business can be financially crippled. Hackers also use special software kits that enable them to eavesdrop on Wi-Fi signals. This allows cybercriminals to access everything that remote workers may be doing online, potentially enabling them to capture login credentials and hijack accounts.
+
+In fact, a user would find it difficult to distinguish between free Wi-Fi given by an authorised agency and one set up by a hacker. Because of this, many banks have commenced using two-factor-authentication methods to keep their transactions secure. However, there are some advanced Trojans, which can bypass these security measures. One such Trojan, Bankbot, imitates real banking applications to steal users' login details.
+
+Kaushik said, “Bankbot can intercept text messages as well. Every mobile telephone network (MTN) number sent to a customer phone can also be accessed by cyber criminals operating behind the Bankbot,” he added.

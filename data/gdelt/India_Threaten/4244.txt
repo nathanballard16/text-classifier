@@ -1,0 +1,35 @@
+Opinion | Facebook’s ‘privacy-focused’ vision at odds with India’s moves to control social media
+
+Bala Murali Krishna
+
+Social media’s future changed recently, just as a parliamentary panel led by Anurag Thakur was urging Joel Kaplan, Facebook’s chief policy officer, to fight fake new by essentially break encryption on platforms such as WhatsApp, and allowing authorities to spy on content and users.
+
+At about the same time, Facebook founder Mark Zuckerberg was readying a “privacy-focused” vision for the platform — one in which messages will always be encrypted, encryption keys will never be stored, most data will expire in short periods of time, and authorities, much less anybody else, will have no access to others’ content.
+
+“…people increasingly also want to connect privately in the digital equivalent of the living room,” Zuckerberg asserted in a 3,237-word post, outlining a new vision for social media. “As I think about the future of the Internet, I believe a privacy-focused communications platform will become even more important than today's open platforms.”
+
+Zuckerberg’s sharp shift is not a defiance of demands for backdoors from countries such as Australia or India. Even though his platforms have sold users’ data at will, his commitment to encryption has not been in question. Zuckerberg’s response is to existential threats, notably to Facebook, the world’s largest social media platform with more than two billion users.
+
+Over the past year, Facebook has been weighed down by privacy scandals, the biggest of which involved a political consultancy called Cambridge Analytica walking away with the personal data of hundreds of millions of users. Consequently, Zuckerberg expects more regulation to emerge and increasingly limit the personal data he can aggregate or sell for lucrative targeted advertising. He also recognises a likely greater threat posed by younger users simply shunning Facebook and its model of social sharing. Hence, the deep thinking and sharp change that some liken to the turning of a battleship.
+
+What does Zuckerberg’s shift mean for India?
+
+For the past several months, India has engaged with WhatsApp, the Facebook-owned messaging platform, as well as Twitter in its quest to fight fake news and other social media abuse. It has focused on tracking messages that distribute fake news to deal with law and order, but raised fears of government spying.
+
+India has fancied its chances of extracting some concessions because it forms the largest user base on WhatsApp and Facebook — 300 million and 200 million respectively — and is the fastest-growing user base on Twitter. Still, backdoors to trace and access WhatsApp messages were never really on the cards and appear even more remote under Zuckerberg’s new vision.
+
+Zuckerberg has set out the broad contours of a privacy-focused platform —extension of WhatsApp’s end-to-end encryption to Facebook Messenger and Instagram — and made clear an intent to fight “unlawful demands for data” by governments.
+
+“…while we push back and fight these requests in court, there's always a risk we'll lose a case — and if the information isn't encrypted we'd either have to turn over the data or risk our employees being arrested,” he wrote. However, encryption, as well as periodic automatic expunging of data, would be the perfect solution because it will negate any demands for data.
+
+In such a scenario, it’s not clear how India can then enforce two provisions it seeks. In amendments to the IT Act of 2000, India plans to require all Internet companies to proactively detect and delete within 24 hours any content impacting the “sovereignty and integrity of India” or even “decency or morality.” With total encryption, Facebook and others would simply not be able to comply.
+
+Separately, the Telecom Regulatory Authority of India (TRAI) is considering if Internet messaging platforms — so-called Over the Top, or OTT, operators — should be regulated just like SMS. In a clear split, cellular service providers back the move while broader Internet groups oppose it for the damage it could cause to Internet freedom. Should TRAI, and then the Department of Telecom, seek to regulate WhatsApp and other messaging platforms like SMS, Zuckerberg may have no option but to pull out of India.
+
+Zuckerberg has already announced plans to integrate messaging on the three platforms — WhatsApp, Messenger and Instagram. This is primarily to complicate things for regulators should breakup of the company ever be considered, say, in Europe. In fact, he has been ordered to hold off on the move by at least one country, Germany. However if Zuckerberg succeeds in integrating the three messaging platforms, it would be difficult, probably impossible, to break encryption in any to accommodate the needs of an individual countries.
+
+The new vision Zuckerberg has set out for Facebook — from social media to private messaging — suggests he is prepared to take a hit in some markets, even the biggest ones like India, in order to secure its future. The question is: Can India live without WhatsApp or Facebook?
+
+Bala Murali Krishna works for a New York-based startup. Views are personal.
+
+For more Opinion pieces, click here

@@ -1,0 +1,29 @@
+Oh Canada: Why half of phishing attacks target the Great White North
+
+Though phishing volume remained relatively stable, attacks against Canadian users dominate, according to an RSA report.
+
+Phishing and spearphishing: A cheat sheet for business professionals Watch Now
+
+Some 52% of phishing attack targets are in Canada, according to the Q1 2019 RSA Quarterly Fraud Report, published this week. Spain ranked second at 16%, with the Netherlands in third at 10%, the report indicates. Phishing targets in the US comprised just 6% of all attacks, tied with India.
+
+This finding is congruent with the Q1 2019 Phishers' Favorites report published by Vade Secure earlier this month, which found that attacks against Canadian "Big 5" bank CIBC increased 44%, making it the 10th most-phished brand, globally.
+
+SEE: Phishing and spearphishing: An IT pro's guide (free PDF) (TechRepublic)
+
+Overall, phishing represented 29% of what RSA collectively refers to as "fraud attacks," which include rogue mobile apps (50%), trojans (12%) and "brand abuse," content that appropriates an organization's brand with the intent of misleading viewers (9%). RSA notes that fraud attacks from rogue mobile applications increased by 300% in Q1 2019. While proportionally the percentage of phishing attacks decreased in percentage due to this increase, "overall phishing volume remained relatively the same, increasing less than 1 percent."
+
+The geographical origin of phishing attacks is not necessarily the same as the target of those attacks, with the US leading in phishing attack origin. The top 10 phishing attack origins, according to RSA, are as follows:
+
+US India Russia Canada France Germany Poland Malaysia UK Netherlands
+
+Notably, China dropped out of the Top 10 in Q1 2019.
+
+Phishing is an enduring threat to operational security, as phishing attacks are fundamentally a social engineering exploit, making them challenging to programmatically detect. Because of this, user training is the most important strategy for preventing phishing attacks from being carried out successfully against people in your organization.
+
+Training users to spot identifying characteristics of phishing attack emails, and simulating phishing attempts to target the efficacy of that training are more effective means to preventing phishing than purchasing a prepackaged software solution.
+
+For more, check out "Your data, stolen twice: Pirated phishing kit contains hidden backdoor" and "Why you need to use DMARC and SPF on mail servers to prevent phishing and fraud" on TechRepublic.
+
+Cybersecurity Insider Newsletter Strengthen your organization's IT security defenses by keeping abreast of the latest cybersecurity news, solutions, and best practices. Delivered Tuesdays and Thursdays Sign up today
+
+Also see

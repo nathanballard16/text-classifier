@@ -1,0 +1,21 @@
+IIT researchers develop Braille laptop for visually impaired
+
+New Delhi, Feb. 28 (India Science Wire): Researchers at Indian Institute of Technology (IIT), Delhi have developed a Braille laptop called DotBook, which can be useful for the visually impaired.
+
+The laptop has got important conventional applications such as email, calculator, and web browser. Third party apps can also be added in case needed.
+
+It has been launched in two variants called 40Q and 20P. The 40Q variant can have 40 characters per line and features a conventional QWERTY keyboard and a Braille keyboard, while 20P can have 20 characters in a line and has only a Braille keyboard. The laptops are equipped with refreshable Braille display.
+
+The laptop was developed on the basis of multiple user trials to take care of preferences and needs of the user community. Among other things, it has a specially designed hand-rest to help the users to work for long hours without any drop in efficiency. The equipment can be connected through wifi, Bluetooth and USB.
+
+The project leader, Prof M. Balakrishnan, said, “DotBook represents an excellent example of user oriented applied research. it is inter-disciplinary in nature which brings advanced techniques, low power electronics, software and User interface design together. It is a result of sustained efforts over four years of a multi-organizational team comprising academics, two industry partners and a user organization.”
+
+IIT-Delhi researchers have developed the laptop in collaboration with KritiKal Solutions Pvt Ltd., Noida, Pheonix Medical Systems Pvt. Ltd., Chennai, SakshamTrust, New Delhi and Wellcome Trust of UK. KritiKalSolutions will manufacture, maintain and market them. Phoenix Medical Systems will provide the modules for refreshable Braille display.
+
+Currently, comparable 40 cell Refreshable Braille Devices coston an average Rs. 1.78 lakh making them expensive for users even in high-income countries while being completely unaffordable for those in countries like India.
+
+“The DotBook built on IIT Delhi’s patented Shape Memory Alloy Technology will bring this cost down to Rs. 60,000 for 40Q and Rs. 40,000 for 20P variant.This will help make Braille laptop accessible to the millions who were previously un-catered-to”, said PulkitSapra, IIT researcher.
+
+DipendraManocha, Managing Director, Saksham Trust, said,” DotBook opens up digital life to Braille users. It creates an eco-system that allows people who read and write in Braille, to communicate seamlessly with the rest of the world.”
+
+The DotBook is slated to be opened for bookings starting March, 2019. Product deliveries would start later this year.

@@ -1,0 +1,101 @@
+Smartphone innovation is all about cameras, and they are getting better, smarter
+
+Qualcomm already anticipates the megapixel war will only grow, as camera sensor companies are planning to launch 68MP sensors in the middle of 2019, followed by over 100MP next year.
+
+When Huawei launched the P30 Pro in Paris last week, there was one clear hero feature: the quad cameras on the back that can shoot 10x lossless zoom images. Richard Yu, CEO of Huawei Consumer Group, summed it up as a bid to deliver professional-level photography, “a new chapter in mobile photography”. While it might seem like a bold statement to make, DSLR-like picture quality on a smartphone is exactly what the industry is striving to achieve as its next goal.
+
+Innovation has maxed out in the smartphone segment and most devices across brands now have too much in common within a certain price band. They are mostly the same when it comes to looks as well as to their innards. However, the camera is one area where innovation continues, especially since this is one feature that can still help sell a phone on its own. Over the past years, companies have been focusing on this aspect in R&D, manufacturing, launch messaging and marketing.
+
+Samsung, Apple and Huawei as well as Google, Xiaomi and Oppo are all battling for dominance in smartphone cameras. Brands like Samsung are clearly positioning the Galaxy S10+ for the Instagram generation. In fact, at the Galaxy S10 launch in San Francisco this February, Instagram head Adam Mosseri was on stage declaring how “Galaxy S10 will be the best way to express yourself on Instagram”.
+
+Huawei, Samsung’s rival in the smartphone market, has a long-term relationship with German camera-maker Leica. Huawei P30 Pro is the latest smartphone that uses Leica technology. Earlier, the partnership has given us the Huawei P9, Huawei P10, Mate 10 Pro, Mate RS, P20 Pro, Mate 20 Pro, and Huawei Mate 20 RS Porsche Design.
+
+Brands like Samsung are clearly positioning the Galaxy S10+ for the Instagram generation. Brands like Samsung are clearly positioning the Galaxy S10+ for the Instagram generation.
+
+Apple has been running its “Shot on iPhone” marketing campaign for a few years now, focusing on photos taken by actual people using an iPhone. The idea behind the international ad campaign is to establish the iPhone as the most popular camera in the market.
+
+Are multiple cameras the solution?
+
+Even as mobile photography has evolved, these cameras have not been able to be at par with professional one, primarily because of the limitations of sensor size and optics. The sensor size is pivotal when it comes to low light performance and detail.
+
+Simply put, a larger sensor absorbs more light, captures a greater dynamic range of tones, results in reduced noise and great bokeh. A professional DSLR camera also has the capability to use different types of lenses from normal to telephoto. In comparison, smartphone cameras have tiny sensors and lenses — crammed into a tight space — and thus struggle in low light and to capture detail.
+
+However, manufacturers are looking at multi-cameras on smartphones to fill this gap. This approach allows them to add more camera modes and thus improve quality. Different companies are working on different solutions to achieve a DSLR-like picture quality. For example, the Samsung Galaxy S10+ uses three rear cameras with different focal lengths — the standard wide-angle lens can take regular shots, an ultra wide-angle is equipped to take say shots of tall buildings, and a telephoto lens offers an effective 2x zoom. Read our review of Samsung Galaxy S10+.
+
+Smartphone cameras have tiny sensors and lenses — crammed into a tight space — and thus struggle in low light and to capture detail. Smartphone cameras have tiny sensors and lenses — crammed into a tight space — and thus struggle in low light and to capture detail.
+
+In contrast, the Huawei P20 Pro’s triple camera has three sensors — a 40MP RGB sensor, a 20MP monochrome sensor, and an additional 8MP 3x optical zoom sensor — will different roles to play.
+
+Nokia 9 PureView takes the mix to a whole new level with a five-lens array, arranged in a hexagonal shape. All five 12MP cameras work in tandem when the user takes a photo, combining to produce one image with increased detail compared to traditional smartphone cameras. The Finnish company teamed up with computational photography specialists Light, known for the L16 camera, along with chipset giant Qualcomm to achieve this.
+
+Nokia 9 PureView, which has five cameras on the back, is aimed at pro-consumers.
+
+“The goal is to get to and even surpass the capability of a full-size digital SLR camera,” explains Judd Heape, Senior Director Product Management, Qualcomm. “More and more people are using their smartphone cameras as their main camera than lugging around a huge camera and a huge lens around. I actually liked the fact that we are using more image sensors, because now you can have an ultralight camera, a wide camera, a telephoto camera, and a super telephoto camera without having more lenses.” He explains that the multiple cameras are supposed to serve the purpose of a zoom lens on the DSLR.
+
+Heape believes more OEMs will add Time of Flight cameras in smartphones. With a ToF sensor, users can use the depth information to do interesting things like segmentation, colorisation or other techniques and process different subjects differently. The P30 Pro has a ToF sensor and so does the 5G version of the Galaxy S10. It’s being speculated that Apple’s next flagship, likely to be called the iPhone 11, might have a time of flight sensor as well.
+
+10x lossless zoom tech to grow
+
+If last year’s P20 Pro had a revolutionary triple camera setup, this year’s follow-up is a different beast altogether. Huawei is first to launch a smartphone with a periscope zoom lens and 5x optical zoom. The P30 Pro, its latest flagship, packs four sensors, which includes an 8MP periscope lens, a 40MP “SuperSpectrum” lens that uses a brand new sensor that brightens photos in extreme low-light conditions, a 20MP wide-angle lens and a time of flight sensor to measure depth.
+
+Huawei P30 Pro supports up to 10x hybrid zoom and up to 50x digital zoom. Huawei P30 Pro supports up to 10x hybrid zoom and up to 50x digital zoom.
+
+The 8MP telephoto lens is like a periscope that uses a prism that rotates images by 90 degrees. It’s the most interesting lens out of the four. This allows 5x optical zoom, first on any smartphone. What’s more impressive is that the phone supports up to 10x hybrid zoom and up to 50x digital zoom. Our early impressions have been positive, though we don’t know who would like to use 50x digital zoom.
+
+Oppo was the first one to show a prototype smartphone with 10x lossless zoom camera tech at the MWC 2019. Oppo was the first one to show a prototype smartphone with 10x lossless zoom camera tech at the MWC 2019.
+
+Oppo, meanwhile, plans to introduce a smartphone in the coming days with camera technology similar to the P30 Pro. Oppo was the first one to show a prototype smartphone with 10x lossless zoom camera tech at the MWC 2019 in Barcelona this February, but Huawei has beaten the company by deploying this first in a commercial phone.
+
+IDC research director Navkendar Singh believes the 10x lossless zoom tech can catch up by the 2nd half or onset of the crucial festive season. “Lossless zoom has a lot of appeal for a consumer in everyday use, for clicking images from far and cropping relevant parts of the image without any loss. This has all the potential to be the next big trend in cameras,” he said.
+
+Also read: Testing Oppo’s 10x lossless zoom camera technology
+
+Bobby Roy, a professional photographer, called 10x lossless zoom tech “exciting” but cautions the tech is still at its nascent stage. “We all know, optical zoom is any day better than digital zoom since all digital zoom does is crop the image to achieve the zoom. What makes all this even more exciting is the lack of any protruding lens element on the back of the phone,” he said.
+
+The rise of software and computational power in cameras
+
+Google has a very different approach to photography with its flagship Pixel 3. When most manufacturers have graduated to two, three and even five cameras, Google claims its Pixel 3’s can achieve better shots with a single camera. Google’s confidence comes from its software: computational knowledge, auto-HDR features and the Pixel’s Visual Core.
+
+Every aspect of the Pixel 3 camera from HDR+, Night Sight and Super Res Zoom uses software to capture good shots. The Night Sight mode allows users to take photos in low light without a flash by taking several shots at longer exposures. By extracting depth information from the camera’s dual-pixel sensor and combining it with machine learning algorithms, it also offers stunning portraits. Read our review of Google Pixel 3.
+
+Every aspect of the Pixel 3 camera from HDR+, Night Sight and Super Res Zoom uses software to capture good shots. Every aspect of the Pixel 3 camera from HDR+, Night Sight and Super Res Zoom uses software to capture good shots.
+
+Like Google, Apple too is betting on software and computational power to improve images on the iPhone XS and iPhone XR. However, unlike Google’s Pixel 3, the iPhone XS also gets support from its dual cameras.
+
+Like the iPhone X, the XS has a 12MP wide-angle lens and a 12MP telephoto shooter, while the 7MP TrueDepth camera up front handles selfies. However, the size of the sensor has gone from 1.2 to 1.4 microns on the iPhone XS and XS Max. But the real change comes in the form of the Apple’s A12 Bionic chipset that includes a new image signal processor (ISP) which brings real camera improvements to the iPhone like Smart HDR, ability to take photos in low-light and adjust a portrait’s depth of field after you have taken the shot.
+
+Huawei also uses an AI-enabled chipset to power its flagship Mate 20 Pro. While the phone has multiple cameras to deliver best possible shots, the company says the dual-NPU Kirin 980 chipset brings photography advances such as improved object and scene recognition — some 1,500 different scenarios compared to 500 with the previous generation chipset.
+
+Huawei’s Kirin 980 chipset brings a number of AI-enabled camera features to the Mate 20 Pro and P30 Pro. Huawei’s Kirin 980 chipset brings a number of AI-enabled camera features to the Mate 20 Pro and P30 Pro.
+
+Samsung is also focusing on the software to drastically improve images on the Galaxy S10. The Scene Optimizer feature uses artificial intelligence (AI) to automatically detect scenes like sunsets or subjects and then adjusts settings to deliver the perfect shot. A new “shot suggestions” mode will make sure your phone is properly aligned and the subjects are in focus.
+
+Return of the megapixels
+
+The race for more megapixels is also making a comeback in 2019. In recent days, major brands have launched smartphones with a 48MP camera. For example, the Xiaomi Redmi Note 7 Pro offers a 48MP camera, the Oppo F11 Pro has a 48MP camera, Honor View 20 comes with a 48MP camera and the Vivo V15 Pro also features a 48MP camera sensor.
+
+Qualcomm already anticipates the megapixel war will only grow, as camera sensor companies are planning to launch 68MP sensors in the middle of 2019, followed by over 100MP next year. Heape says the year after, we might go to “a number in the mid-hundreds”.
+
+So, the 48MP camera phone is a gimmick? Not really. So, the 48MP camera phone is a gimmick? Not really.
+
+Singh agrees that the megapixel war has been reinvented as a “marketing tactic”. “Consumers like more and bigger features on their phones as evident from the success of phones with multiple cameras,” he says, adding that this could, however, be limited to India. “Every smartphone maker has to be successful in India. And this makes India one of the most hyper-competitive markets, forcing the brands to find marketing hooks and differentiating features which can help break clutter in the market,” he explains.
+
+The thing to remember is that more megapixels do not mean better image quality. it is sensor size, the size of pixels on the sensor and the aperture that really matter. “The number of megapixels does not mean high image quality or detailed images. It is only the sensor size that ultimately decides the image quality. A decent 12-16MP phone camera is more than enough to produce some great images with minimum noise,” explains Roy.
+
+Phones like the Redmi Note 7 Pro and Oppo F11 Pro uses the Sony IMX586 CMOS sensor. Roy explains that while theoretically it is a 48MP sensor but produces 48 “effective” megapixels. “The IMX586 sensor from Sony uses a pixel arrangement system known as Quad Bayer array which basically means a grouping of four pixels of the same colour in the colour table next to each other which creates quad sized pixels. That way, the 48MP sensor is more close to a 12MP sensor.”
+
+So, the 48MP camera phone is a gimmick? Not really.
+
+“Now, every pixel has a standard size. So, today, when a camera’s sensor ranges between 10MP and 16MP, it generally comes at a pixel size of 1.0 micron and some come at a bigger 1.5microns. So, more the pixel’s size, better the image quality would be, overall. But mathematically speaking, 48MP is equal to a good 12MP camera because of the fact that it is using quad-pixels. So, the pixel size is bigger but the actual output might no be more than 12MP (because of the quad pixels),” he added.
+
+Can smartphone cameras replace DSLRs?
+
+“A smartphone and a DSLR have different uses. Whereas a smartphone is used mostly to snap pictures and share with friends and family, or on social media, a DSLR is a dedicated tool that’s used for photography and mostly for professional photography, in studio or out in the field,” he said.
+
+All this means phones are not evolved to come close to a DSLR camera used by professionals like Roy. Sure, smartphone cameras take better shots in low-light, they are faster to focus and some phones have gained the ability to zoom in on the subject from a distance. But they are still not even close to a professional camera.
+
+But things could change. Clement Wong, director of product marketing at Huawei, says in future better technology might negate the need for multi-camera support.
+
+Dr. Florian Weiler, senior optical designer and technical lead of smartphone camera systems at Leica, tells indianexpress.com that there is a distinction between smartphone cameras and professional cameras produced by one company. “We know most of the mobile photography is not photography so we have our cameras for photographers with which they can achieve excellent images and we have smartphones for everyday life which is easy to use where you don’t have to have a photography knowledge and to know how to get the best images.”
+
+Weiler looks at phone cameras as an interesting tool to gauge interest in serious photography. For a company like Leica, it gives an immense opportunity for the brand to convince those set of users to buy a Leica camera.

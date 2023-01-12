@@ -1,0 +1,13 @@
+One out of three internet users faces cyber-attack: Study
+
+One out of three internet users faces cyber-attack: Study (Representational Image) | Photo Credit: Getty Images
+
+Chennai: One in every three internet users faced cyber-attacks during the first quarter of the current fiscal, a study by a city-based company has revealed. The study 'Cyber Threat Monitor' conducted by K7 Computing Ltd has identified Patna, Guwahati, Chennai, Bengaluru and Hyderabad to have witnessed more cyber-attacks than any other places across the country.
+
+Patna experienced the highest 48 per cent of cyber-attacks followed by Guwahati 46 per cent, Lucknow 45 per cent during the April-June quarter. Chennai also recorded 48 per cent followed by Kolkata with 41 per cent. New Delhi registered the lowest at 28 per cent.
+
+"The Cyber Threat Monitor highlights the ever-evolving threat landscape around the country and addresses the growing necessity of being more pro-active in the approach towards cyber security," CEO of K7 Computing K Purushothaman said in a press release on Wednesday.
+
+The report tracks components like enterprise, mobile, Windows, internet of things covering 20 cities, including metros, tier I and II cities. "We see an increasing number of cyber-attacks in tier I and II cities. Therefore, we urge stakeholders to leverage specific intelligence for counter measures and threat hunting," he said.
+
+Some of the other findings of the study include mismanaged servers continuing to pose a major threat, besides Ransomware and Fileless attacks continue to grow faster in the country making them an ever-growing problem.

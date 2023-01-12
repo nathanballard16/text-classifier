@@ -1,0 +1,17 @@
+India's Anti-Satellite Test Could Threaten the International Space Station
+
+Last week, Indian Prime Minister Narendra Modi said the country’s space agency had tested a new anti-satellite weapon by destroying a satellite already in orbit. Now, an announcement by NASA Administrator Jim Bridenstine claims that India's test could endanger other satellites and objects in orbit—including the International Space Station.
+
+India launched a missile at a satellite believed to be the Indian spy satellite Microsat-r, launched a few months ago. The blowup created a field of satellite debris at that altitude. That debris is a problem because it sits at the same altitude as the ISS. In a worst-case scenario, some of that debris could impact the station creating a Gravity-esque scenario. Some of those pieces are too small for NASA to track, meaning we’ll have no way of predicting an impact beforehand.
+
+“What we are tracking right now, objects big enough to track — we're talking about 10 cm (4 inches) or bigger —about 60 pieces have been tracked,” Bridenstine said in an announcement on Monday.
+
+This content is imported from YouTube. You may be able to find the same content in another format, or you may be able to find more information, at their web site.
+
+India deliberately targeted a satellite that orbited at a lower altitude than the ISS to prevent this sort of situation, but some of the debris appears to have reached higher. Of those 60 debris objects tracked by NASA, Bridenstine says 24 of them are at the same altitude as the ISS or higher.
+
+The nature of low Earth orbit means that even debris pieces residing above the ISS could still pose a threat. Satellites and debris are gradually slowed by the very thin atmosphere that resides there. The ISS, for instance, routinely has to fire its boosters to increase its altitude to counteract atmospheric drag.
+
+Those small debris pieces will lose altitude over time and eventually burn up in the atmosphere, but the high-altitude debris will have to come in range of the ISS before that happens. That means an impact could happen even a few months from now as high-altitude debris continues to fall.
+
+This content is created and maintained by a third party, and imported onto this page to help users provide their email addresses. You may be able to find more information about this and similar content at piano.io

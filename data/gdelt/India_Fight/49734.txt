@@ -1,0 +1,63 @@
+'Fake news': Who decides what counts as 'real' anyway?
+
+'Fake news' is terrifying.
+
+The way it has manifested on our social media platforms and arguably won elections, changed polls, and polarised society is undoubtedly one of the main stories of this era. Is the future of social media really dystopian? This month we look at the facts behind the fake news phenomenon.
+
+Who's 'real' is it anyway?
+
+You know you’re a big deal when you’ve made it into the dictionary. 'Fake news' is officially: “False stories that appear to be news, spread on the internet or using other media, usually created to influence political views…”
+
+The Cambridge Dictionary even goes as far to state that “There is concern about the power of fake news to affect election results.”
+
+Whether you’re a ‘Russian hacker’ or on the political (and logical!) fringes like Alex Jones, more and more fake-news-spreaders are now emboldened to post a story based entirely on made up information. Why are they emboldened? Because they have an audience and a way of disguising their inauthenticity in a very effective way.
+
+A Statista study found that in the US, 42% of fake news in 2017 was generated and distributed through social media. A study by the Pew Research Foundation found 67% of Americans get at least a small portion of their daily news through social media.
+
+Believe it or not, people are actually preferring fake news over real news. A Vox report found that the top 20 fake news stories outperformed real news at the end of the 2016 US Presidential Campaign, based on Facebook engagements from August to Election Day. Ignorance is bliss, eh?
+
+You can't handle the truth
+
+Do watch this glorious but horrifying interview with Trump supporters who are casually basing their beliefs and moral compass on fabricated stats. The power of social media means that people are able to spread their misguided belief into the ether, perpetuating the issue further.
+
+News outlets, brands, and platforms are quickly taking measures to combat and inoculate against the fake news virus (or covering their own backs, depending on which way you want to look at it).
+
+Instagram have released an ‘about this account’ tool where users can find more information about accounts that reach a large audience. In addition to this, they are enabling third party authenticators and are now even making the coveted blue verification badge tick of approval accessible to more users too.
+
+Last summer, you might have noticed that WhatsApp tweaked their features – first in India and then the wider world. Anything that has been forwarded is now listed as such. So those trying to take credit for a meme or a news article will now need to go through the ‘laborious’ process of saving said piece of content and posting it as their own or, of course, copying and pasting (which none of us really want to do).
+
+WhatsApp first tested this in India due to an awful series of lynchings that took place allegedly because of false rumours that were spread on the messaging service. The company stated on 46 Hindi stations across the country: “WhatsApp cares deeply about your safety. We encourage you to think before sharing messages that were forwarded.”
+
+Facebook and fake news
+
+So, Instagram and WhatsApp are tackling the fake news authors. That’s two Facebook owned companies – but what about Facebook itself? Well, having been singled out as being the main platform on which to spread fake news, they are going full throttle in the fight against it. In 2018, Facebook debuted its fact-checking third party programme. They set three main aims:
+
+1. To remove accounts and content that violate their Community Standards or ad policies;
+
+2. To reduce the distribution of false news and inauthentic content like clickbait, and
+
+3. To inform people by giving them more context on the posts they see.
+
+This strategy, Facebook stated, “roots out the bad actors that frequently spread fake stories. It dramatically decreases the reach of those stories. And it helps people stay informed without stifling public discourse.” This has now been expanded around the world and they are now clamping down on photos and videos too. “This includes those that are manipulated (e.g. a video that is edited to show something that did not really happen) or taken out of context.”
+
+Google have spent $300million on their Google News Initiative which includes YouTube’s plan to combat 'fake news'. They now add previews and links to news articles and are enlisting the help of their biggest stars to help educate young YouTubers on how to identify false videos on the platform.
+
+In addition to linking articles for breaking news in search results, Google will now also start adding text from third parties including Wikipedia and Encyclopaedia Britannica on subjects that have had widespread misinformation. Sample topics include conspiracy theory hotbeds of the Moon landing and the Oklahoma City bombing.
+
+Will it work?
+
+In the light of the recent Cambridge Analytica controversy (it was recently announced Facebook had to pay out $5bn to the FTC), Facebook are clearly trying to take the lead in responsible internet use – and rightly so. Some of their actions are working: for example, in the first quarter of this year Facebook disabled 2.19 billion accounts that were suspected as being fake. This is up from 1.2 billion from the previous quarter (Q4, 2018). However, some think that there is a problem with their other experimental measures, with many people believing they have in fact backfired and contributed to the conflation of what’s true or false.
+
+For example, one of Facebook’s initial tactics was to promote comments containing the word ‘fake’ to the top of news feeds in an aim to ‘prioritise comments that indicate disbelief’. By doing this, they experienced an online backlash for using this tactic on both real and fake news.
+
+Quoted by the BBC, freelance PR consultant Jen Roberts says: "Quite the reverse of combating misinformation online, it is compounding the issue by blurring the lines between what is real and what isn't. My Facebook feed has become some awful Orwellian doublethink experiment.”
+
+The Guardian also reported that, “Journalists working for Facebook say the social media site’s fact-checking tools have largely failed and that the company has exploited their labour for a PR campaign.”
+
+The article goes on to say that, “Facebook has since revealed that it (unknowingly) facilitated Russia’s efforts to interfere with US politics, allowing divisive political ads and propaganda that reached 126 million Americans.”
+
+WINGopinion
+
+The internet is a weird and wonderful place. Our relationship with it is complex. It’s our best friend, our worst enemy and the most valuable and innovative technological aspect of our lives. It can be used for good, even greatness. But like anything positive it can also be used in a negative way: as well as informing and educating it can misinform and manipulate. Is truth becoming less valuable? Or is it becoming more precious than ever because it’s harder to identify? We’ll leave you with Sir Tim Berners-Lee’s words, who, when marking the world wide web’s 30th anniversary earlier this year, called on us all to address the ‘viral spread of misinformation’ on the internet and to improve the system for everyone. He wrote:
+
+“The fight for the web is one of the most important causes of our time. Today, half of the world is online. It is more urgent than ever to ensure the other half are not left behind offline, and that everyone contributes to a web that drives equality, opportunity and creativity,” he said. “The web is for everyone and collectively we hold the power to change it. It won’t be easy. But if we dream a little and work a lot, we can get the web we want.”

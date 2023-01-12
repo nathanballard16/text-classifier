@@ -1,0 +1,79 @@
+Cyber criminals are on the prowl
+
+Cyber criminals are part of the ever growing new crime industry of the 21st Century, where smart and intelligent criminals have discovered innovative ways to cheat and fudge others. In past few years the world has witnessed a surge in the crimes related to cyber frauds. Every country in the world has witnessed an increase in cyber crimes, these crimes varies from small frauds to cyber attacks which affect the whole country. According to the National Cyber Security Centre of United Kingdom (UK), Britain was targeted with 658 major cyber attacks in past one year. In their annual review, the cyber security centre revealed that over a million cases of cyber frauds related to credit cards were reported from September 1, 2018, to August 31, 2019.
+
+Similarly United States of America, which is spending billions of dollars in fighting cyber crimes, have seen a huge surge in cyber attacks. In 2018, millions of cases were reported across the USA related to cyber crimes. People of California, Florida, Texas, Michigan and New York were the worst hit by these attacks as more than 700 million dollars were lost to these cyber criminals.
+
+In India, in the month of August, 2019, Punjab MP Preneet Kaur, wife of Punjab’s Chief Minister Captain Amarinder Singh became one of the recent victims of the cyber crime. Ataul Ansari from Jharkhand’s Jamtara fraudulently withdraw over 23 lakhs from her account. He called up Preneet Kaur when she was attending the Parliament session and told her that he is manager in State Bank of India (SBI) and he needs her ATM PIN and OTP number immediately as there is some issue in transferring her salary into her account. After getting the vital information, 23 lakh was withdrawn from Preneet Kaur’s account in three transactions. Sensing foul play, she lodged a complaint with the Punjab Police and after a thorough investigation and with the help of Jharkhand Police, Ataul Ansari was nabbed.
+
+Similarly an MP from Kerala was duped of 1.60 lakh, a Union minister had lost 1.80 lakh and a MLA from UP was cheated off 5,000.
+
+These criminals succeed because of lack of awareness among masses and their ability to use technology to full extent to escape from getting caught by the authorities.
+
+According to the report shared by the National Crime Records Bureau of India, 21796 cases of cyber crime was reported across India in the year of 2017, almost doubled from 12,317 in the year 2016, out of which fraudulent transactions was the most reported cyber crimes.
+
+As per India’s official cyber crime records for 2017, Uttar Pradesh has recorded the highest number of cyber crimes in 2017, with 4,971 cases out of the total 21,796 cases. Maharashtra stood second with 3,604 cases of cyber crime, followed by Karnataka with 3,174 cases.
+
+The main focus of cyber criminals was on the online cheating as 1896 cases were recorded across India followed by 1543 cases of ATM frauds, 804 cases of online banking fraud, 334 cases of OTP frauds and so on. Fraud was the major motive behind most of the cyber crimes.
+
+NCRB data provides intriguing insight into number of officially reported cases but there are large number of cases which often go unreported. There can be many reasons due to which people don’t report such cases and they can be — lack of awareness among individuals, lack of awareness among authorities, innovative ways used by cyber criminals and others. As cyber criminals are intelligent bunch of people, it’s becoming difficult for cyber safety authorities to track them down as these criminals keep on evolving and are always one step ahead.
+
+Being one of the fastest growing internet markets of the world, India has become a favourite destination for these cyber criminals. These criminals are using all sorts of technologies available at their disposal to commit fraud and cheat individuals in the country.
+
+According to National Cyber Crime Reporting Portal of India, governed by Ministry of Home Affairs, cybercrime may be defined as “Any unlawful act where computer or communication device or computer network is used to commit or facilitate the commission of crime”. Various methods used by the cyber criminals to commit the crime are:
+
+Online job fraud
+
+Online Job Fraud is an attempt to defraud people who are in need of employment by giving them a false hope/ promise of better employment with higher wages. Many cases have surfaced in past few years where cyber criminals are using this method to
+
+extort money.
+
+Vishing
+
+Vishing is an attempt where fraudsters try to seek personal information like Customer ID, Net Banking password, ATM PIN, OTP, Card expiry date, CVV etc. through a phone call. Many people have got calls from these fake customer care agents representing banks and other agencies to dupe people of their hard earned money by creating fear among the customers of the banks or by promising lucrative offers on behalf of the banks. A lot of cases have been reported where people have shared their details with these fake agents and have lost money from their accounts.
+
+Smishing
+
+Smishing is a type of fraud that uses mobile phone text messages to lure victims into calling back on a fraudulent phone number, visiting fraudulent websites or downloading malicious content via phone or web. Every now and then people receive text messages on their phones, where they are lured with assured money or goodies, if they reply, call on a particular number or click on a particular link mentioned in the sms. It has been found that many people are falling for this trap laid out by these cyber criminals and are losing money and their private data stored on their mobiles.
+
+Phishing
+
+Phishing is a type of fraud that involves stealing personal information such as Customer ID, IPIN, Credit/Debit Card number, Card expiry date, CVV number, etc. through emails that appear to be from a legitimate source. This is another very common type of data stealing practise used by the cyber criminals. People receive emails from fake bank sites, government sites and other cooperate websites which look similar to the original sites. Cyber criminals are able to steal lot of important information via phishing.
+
+Spamming
+
+Spamming occurs when someone receives an unsolicited commercial messages sent via email, SMS, MMS and any other similar electronic messaging
+
+media. They may try to persuade recipient to buy a product or service, or visit a website where he can make purchases; or they may attempt to trick him/ her into divulging bank account or credit card details.
+
+SIM swap scam
+
+SIM Swap Scam occurs when fraudsters manage to get a new SIM card issued against a registered mobile number fraudulently through the mobile service provider. With the help of this new SIM card, they get One Time Password (OTP) and alerts, required for making financial transactions through victim’s bank account. Getting a new SIM card against a registered mobile number fraudulently is known as SIM Swap.
+
+Ransomware
+
+Ransomware is a type of computer malware that encrypts the files, storage
+
+media on communication devices like desktops, Laptops, Mobile phones etc., holding data/information as a hostage. The victim is asked to pay the demanded ransom to get his device decrypts.
+
+Virus, worms and trojans
+
+Computer Virus is a program written to enter to your computer and damage/alter your files/data and replicate themselves. Worms are malicious programs that make copies of themselves again and again on the local drive, network shares, etc. A Trojan horse is not a virus. It is a destructive program that looks as a genuine application. Unlike viruses, Trojan horses do not replicate themselves but they can be just as destructive. Trojans open a backdoor entry to your computer which gives malicious users/programs access to your system, allowing confidential and personal information to be theft.
+
+That said, the attention and awareness on cyber crime and cyber security have significantly improved, as the government, cyber vigilance bodies and other corporate agencies have increased their efforts to protect people.
+
+Taking note of the growing cases of cyber crimes, the Uttar Pradesh government has decided to set up specialised cyber wings which will have a presence at police stations, districts, zones and headquarters for effective investigation of online crimes.
+
+These cyber wings will have a team of cyber crime specialists to investigate cases of frauds involving ATM, credit card, e-wallet, fake profile and password hacking. The cell will also monitor the social media platforms for possible misuse and will also organise interactive programmes in schools and colleges to create awareness on cyber offences.
+
+To monitor the functioning of all zonal, district and police station level cyber wings, a state-level cyber cell is already operational at the UP Police headquarters. Specialised cyber police stations are also functioning at Noida and Lucknow. Looking at the growing instances of
+
+cybercrimes, UP Police is going to open six more specialised cyber police stations at Agra, Kanpur, Bareilly, Varanasi, Gorakhpur and Prayagraj.
+
+Karnataka is another state where the cyber crime is on a high, according to the Cyber Crime Police Station in Bengaluru, more than 12,700 cyber crime cases have been reported in the city between January 2018 and September 2019. As per the cyber police, every third of the case reported, involves economic fraud in Karnataka and are related to job scams, a third of them are related to OTP and UPI fraud, and the remaining are lottery related scams.
+
+According to cyber police, investigating cyber crimes related to economic offenses are very difficult as IP addresses or phone numbers used for crime are from African or eastern European countries. It gets difficult to track such people with the kind of technology available at their disposal.
+
+As the cases related to cyber crimes are increasing, government bodies and other agencies are becoming more active to counter them and create awareness among people of the various methods used by these cyber criminals. Police across many states are now gearing themselves with latest equipments and IT engineers to track these cyber criminals and to keep a tab on the new ways being adopted by them. Now time will tell how soon and effective our police will be to control this rising crime industry of cyber criminals.
+
+letters@tehelka.com

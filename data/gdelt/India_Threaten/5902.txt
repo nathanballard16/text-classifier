@@ -1,0 +1,37 @@
+South African anti-poaching technology to go global
+
+Technology that has dramatically reduced rhino poaching in a South African game reserve could be used to help other threatened species across the world, as conservationists look for new ways to stop poachers before they can reach wildlife.
+
+Dimension Data and Cisco first introduced its Connected Conversation effort in 2015, using a mixture of sensors, CCTV, biometrics and Wi-Fi to proactively detect poachers early, in a remote area in the north-west of South Africa where there is very limited electronic communication available.
+
+The aim of the initiative is to track people instead of animals, collecting data on those who enter the perimeter and sending park rangers alerts when unusual activity is spotted.
+
+The number of shots fired, the number of wire fence cuts entry points, have all been reduced
+
+White rhinos are currently near threatened, while black rhinos are classified as endangered, with little more than 5 000 of the latter remaining, according to the World Wildlife Fund.
+
+South Africa is home to most of the world’s rhinos, which are under constant threat from poachers, who remove their horns and sell them on the black market for prices higher than gold. Rhino horn is sought by some in the east who believe it has medicinal powers to cure cancer and hangovers, although it is largely composed of keratin, a protein also found in hair and nails.
+
+The protection project has already been rolled out to Zambia, with another set to start in Kenya, but conservationists behind it are now looking elsewhere, with a number of interested parties from India, New Zealand and beyond.
+
+Well suited
+
+“It’s particularly well suited to Africa, where what we’re looking at doing is saving the rhino, elephant, lion and pangolin, and all species that are endangered,” said Bruce Watson, conservationist and group executive of the Cisco Alliance at Dimension Data.
+
+“There are 7 000 endangered species all over the globe, but what we’re going to do is take the solution and move it into India. We’ve had two requests out of tiger parks in India, then going to Asia, and we’ve even had a request out of a bay in New Zealand, to look at protecting rays, whales and sharks.
+
+“We’ve been contacted by a park in Montana, it’s going to be a massive prairie park, probably one of the biggest reserves in the world, to look at putting our solution into that. And then we’ll take it into South America as well, looking at protecting jaguars and mountain lions.”
+
+The project has been a huge success for the area so far, having not lost a rhino to poaching since January 2017. In its first two years of operation, it managed to reduce poaching in the reserve by 96%.
+
+Nationally, South Africa has reported a drop in poaching too, with 508 rhinos killed in the first eight months of 2018, a 26% decrease from the same period in 2017.
+
+As well as expansion to protect other species, Connected Conservation is also exploring new solutions to improve its work, using machine learning, artificial intelligence and more sophisticated sensors.
+
+Sometimes they put a plastic bottle on their feet so it looks like a small antelope crossing the road
+
+“The proactive solution is creating a safe haven for the animals to roam freely and protecting the land against illegal people, who are a part of the poaching fraternity,” Watson said. “The number of incursions have come down quite dramatically — the number of shots fired, the number of wire fence cuts entry points, have all been reduced.”
+
+However, the conservationist warned that poachers are continuously trying alternative tricks to get into the reserve. “Often what they do is leopard-crawl across a road, for example, on their elbows and knees, so you can’t pick up the tracks of shoes, or feet for that matter,” he said.
+
+“Sometimes they put their shoes on the wrong way round so (it looks as if) they are exiting the reserve, as opposed to entering it. Sometimes they put a plastic bottle on their feet so it looks like a small antelope crossing the road.”

@@ -1,0 +1,17 @@
+Delhi Police Is Now Using Facial Recognition Software to Screen 'Habitual Protestors'
+
+New Delhi: The Delhi police is now using Automated Facial Recognition System (AFRS), a software it acquired in March 2018, to screen alleged “rabble-rousers and miscreants”. This includes those who have been protesting against the Citizenship (Amendment) Act (CAA) and National Register of Citizens (NRC).
+
+According to a report in the Indian Express, Narendra Modi’s Ramlila Maidan event on December 22 was the first political event where this software was used to screen the crowd. This was also reportedly the first time the Delhi police used a set of facial images collected through filming protests at various spots in the capital through the years to identify “law and order suspects”. Before this event, the software has only been used thrice – twice at Independence Day parades and once at a Republic Day parade.
+
+“This dataset of ‘select protesters’, said sources, was put to use for the first time to keep ‘miscreants who could raise slogans or banners’ out of the Prime Minister’s rally last Sunday,” the newspaper report says.
+
+All the people who attended the Ramlila Maidan event had to pass through a metal detector gate where a camera sent a live feed of their faces to a control room set up at the spot, the live feed was matched with the facial dataset within five seconds.
+
+The Delhi police had acquired AFRS following a Delhi high court order in a case related to missing children. It was supposed to be used to identify lost and found boys and girls by matching photos.
+
+This comes at a time when there have been protests across the country, some of which have turned violent resulting in clashes with the police. At least 25 people have been killed in the police crackdown so far. The police in Delhi, UP, Karnataka and Bihar have been accused of using disproportionate force against protestors. There have also been allegations of brutality and human rights violation against the police and state authorities. Prominent elected representatives, including PM Modi and UP CM Yogi Adityanath, have blamed the violence on protestors.
+
+There is palpable fear among activists and civil society members that this technology can be wrongfully used to profile dissenters and members of a particular community. Responding to such fears, a spokesperson of Delhi police told the Indian Express that, “such datasets are not perpetual and are revised periodically. Racial or religious profiling is never a relevant parameter while building these datasets”.
+
+All the footage collected by Delhi police during protest demonstrations is now being fed to the AFRS, which extracts “identifiable faces” of the protesters to its dataset. An unnamed source told the Indian Express that after extraction, images are manually screened to identify and retain “habitual protesters” and “rowdy elements”.

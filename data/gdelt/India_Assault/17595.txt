@@ -1,0 +1,51 @@
+Even when bad drugs are spotted, we do little about them
+
+Blog Post
+
+AEIdeas
+
+In my last blog I explained why poor quality drugs are not always spotted. In this blog, I explain why even when they are identified, regulators and other public and private actors don’t do much about it.
+
+1. If there is the belief that improvements will be made by manufacturers, regulators may allow bad practices to continue.
+
+This is especially true when the manufacturer is the only source or there is a risk of triggering a shortage. For example, even after the Ranbaxy debacle, 1 of the 31 drugs it sold to the US continued to be sold since it was the only source of the product.
+
+When a Mylan facility in India faced several infractions during a routine investigation, the Food and Drug Administration sent a letter to the manufacturer requesting response. Due to Mylan’s extensive involvement with global generic manufacturing and the United States’ dependence on Mylan’s output, the conclusion of the letter was startlingly non-threatening. Even in the Ranbaxy case, no responsible actors were held liable, and many executives went on to other generic drug manufacturers, as detailed in Katherine Eban’s book Bottle of Lies.
+
+2. If there is the belief by manufacturers that regulators won’t punish bad behavior or the law is inadequate for punishment (both of which are true in India) then they will continue, as evidenced by the FDA’s findings in India.
+
+Recently, Indian generic manufacturer Strides was caught with uncontrolled document shredding and inadequate out-of-specification tests. Despite this, the FDA gave Strides a VAI classification, which means that the inspection was successful and the offense was not punishable. Strides is one of the most prolific Indian manufacturers of generic drugs that are routed to western countries.
+
+3. If regulators are compromised and captured by manufacturers – or wish to take part in the revolving door to gain future employment at the companies they inspect – they will be lenient to manufacturers.
+
+The BMJ studied regulators that were found to have reviewed multiple approvals of hematology-oncology drugs from 2001-2010. Out of 55 regulators, 26 left the FDA to work for the pharmaceutical industry or consulted to it. FDA regulators have also been involved with after-the-fact payments following drug approvals according to a Science study. The study’s findings were as follows: of 107 physician advisers who voted on the committees Science examined, 40 over a nearly 4-year period received more than $10,000 in post hoc earnings or research support from the makers of drugs that the panels voted to approve, or from competing firms; 26 of those gained more than $100,000; and six earned more than $1 million.
+
+4. We have no longitudinal data on long-term impact on clinical outcomes from mandatory generic switching.
+
+Our insurance model banks on the mandatory switch, but we don’t understand what the long term costs are from this phenomenon. In one study, patients who were first-time switchers were at a higher risk of non-persistence when compared to never-switches or multiple switchers. In some cases, generic switching can seem to be harmful, often due to generics not being bioequivalent to each other or even the innovator product, causing events like increased risk of breakthrough seizure. These adverse results are costly to patients and health systems.
+
+5. Many regulators cannot do their jobs because senior politicians prioritize business success and employment over product safety.
+
+As Katherine Eban explains at length in her book, FDA senior officials made decisions at odds with their own inspectors, often to ensure that favored companies continued to survive. President Trump’s new drug plan rests on the idea that generic pricing and the overall cost of prescription drugs will be lowered and more generic options will continue to become available. According to a Bloomberg investigation, even though regulators find problems with the drugs, not approving generic manufacturers’ inspections can conflict with the promises of the new drug blueprint.
+
+6. Insurance companies do not want to address this problem (they are the buyers and therefore have leverage) because it disrupts their revenue model and they can always point to the FDA’s assurances of safety and bioequivalence of generics.
+
+Consumers (especially those with employer-sponsored HDHPs) are often angry when only name-brand drugs, and not cheaper generic versions, are included on formularies as this often leads to an increase in price for the beneficiary. Even though pharmaceutical industry giants, PBMs, and insurers benefit from backdoor deals that prioritize certain brand name drugs (think Adderall XR), for the most part, insurers depend on generics to curb costs for consumers and make their prescription affordable.
+
+7. Competitors (including western companies) do not complain because they follow the same practices (buying from the same producers) or fear that exposure will undermine trust in their products as well— impacting their margins.
+
+Generic drug manufacturers routinely change their standards depending on the country of export. This discourages wealthier nations from complaining as they depend on the same manufacturers for the same drugs. For example, Mylan supplies drugs to both the US and Africa in efforts to combat HIV/AIDS.
+
+8. Health activists and purchasers (especially aid agencies) are preoccupied with access (and hence lowest possible price) and don’t want to know about product quality problems.
+
+They have championed cheap Indian generics for decades and believe in them with a passion despite evidence of quality problems. Humanitarian groups like Doctors Without Borders have called on Indian leaders to resist US pressures to change generic drug regulations in the country. Doctors Without Borders/Médecins Sans Frontières remains active in legal battles between regulatory agencies.
+
+9. National interests inhibit the World Health Organization (WHO) from taking a timely corrective action in the interest of public health.
+
+Commercial interests of nations whose industry is affected by corrective actions have disproportionate say in the functioning of this world body. Furthermore, WHO reports largely rely on self-reporting of nations own regulators, which gives the absurd outcome that emerging markets appear to have better quality medicines.
+
+10. The market does not recognize, incentivize, and reward good quality over substandard drugs.
+
+The FDA messaging is partly to blame here. Moreover, the drive for lower prices seems to decrease the quality of generic drugs, even if there is robust competition. In a Journal of Operations Management study, researchers found that generic drug regulations might encourage loose standards in the manufacturing process, which can lead to more recalls.
+
+FDA’s own Janet Woodcock pointed out that the market does not reward quality.

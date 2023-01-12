@@ -1,0 +1,115 @@
+An Update On Recent Case Laws On The Arbitration And Conciliation Act, 1996
+
+ARTICLE
+
+To print this article, all you need is to be registered or login on Mondaq.com.
+
+I. ICOMM Tele Ltd. v. Punjab State Water Supply & Sewerage Board and Another; 2019 SCC OnLine SC 361, Order dated 11.03.2019
+
+The Punjab State Water Supply & Sewerage Board, Bhatinda had issued notice inviting tender for extension and augmentation of water supply, sewerage scheme, pumping station and sewerage treatment plant for various towns mentioned therein on a turnkey basis. The appellant company, was awarded the said tender. In furtherance thereto, a formal contract was entered into between the appellant and respondent No. 2. The arbitration clause was contained in Clause 25(viiii) of the notice inviting tender and reads as under:—
+
+"viii. It shall be an essential term of this contract that in order to avoid frivolous claims the party invoking arbitration shall specify the dispute based on facts and calculations stating the amount claimed under each claim and shall furnish a "deposit-at-call" for ten percent of the amount claimed, on a schedule bank in the name of the Arbitrator by his official designation who shall keep the amount in deposit till the announcement of the award. In the event of an award in favour of the claimant, the deposit shall be refunded to him in proportion to the amount awarded w.r.t the amount claimed and the balance, if any, shall be forfeited and paid to the other party."
+
+The Appellant addressed letters with regard to appointment of arbitrator and sought for waiving the 10% deposit fee. After having received no response, the Appellant had filed a writ petition, being Civil Writ Petition No. 18917 of 2016, before the High Court of Punjab and Haryana. This writ petition was dismissed stating that such tender condition can in no way be said to be arbitrary or unreasonable. The appellant approached the High Court of Punjab and Haryana challenging the validity of this part of the arbitration clause by filing Civil Writ Petition No. 4882 of 2017. The High Court in the impugned judgment merely followed its earlier judgment and dismissed this writ petition as well. Aggrieved by the same, the Appellant approached the Supreme Court of India.
+
+The Apex Court referred to its earlier decision in General Motors (I) (P) Ltd. v. Ashok Ramnik Lal Tolat, (2015) 1 SCC 429 and observed that:
+
+"The important principle established by this case is that unless it is first found that the litigation that has been embarked upon is frivolous, exemplary costs or punitive damages do not follow. Clearly, therefore, a "deposit-at-call" of 10% of the amount claimed, which can amount to large sums of money, is obviously without any direct nexus to the filing of frivolous claims, as it applies to all claims (frivolous or otherwise) made at the very threshold. A 10% deposit has to be made before any determination that a claim made by the party invoking arbitration is frivolous. This is also one important aspect of the matter to be kept in mind in deciding that such a clause would be arbitrary in the sense of being something which would be unfair and unjust and which no reasonable man would agree to. Indeed, a claim may be dismissed but need not be frivolous, as is obvious from the fact that where three arbitrators are appointed, there have been known to be majority and minority awards, making it clear that there may be two possible or even plausible views which would indicate that the claim is dismissed or allowed on merits and not because it is frivolous. Further, even where a claim is found to be justified and correct, the amount that is deposited need not be refunded to the successful claimant...This would render the entire clause wholly arbitrary, being not only excessive or disproportionate but leading to the wholly unjust result of a party who has lost an arbitration being entitled to forfeit such part of the deposit as falls proportionately short of the amount awarded as compared to what is claimed.
+
+It was further noted that it is also a settled law that arbitration is an important alternative dispute resolution process which is to be encouraged because of high pendency of cases in courts and cost of litigation. Any requirement as to deposit would certainly amount to a clog on this process. Also, it is easy to visualize that often a deposit of 10% of a huge claim would be even greater than court fees that may be charged for filing a suit in a civil court.
+
+In light of the above, it was thus held that:
+
+"Deterring a party to an arbitration from invoking this alternative dispute resolution process by a pre-deposit of 10% would discourage arbitration, contrary to the object of de-clogging the Court system, and would render the arbitral process ineffective and expensive. 28. For all these reasons, we strike down clause 25(viii) of the notice inviting tender..."
+
+II. Convinio Shopping Nine 2 Nine v. Olympia Opaline Owners Association; 2019 SCC OnLine Mad 646, Order dated 04.03.2019
+
+In the aforesaid, the District Munsif, Chengalpet, returned the Plaint filed by the revision petitioner relying upon Clause 19 of the Lease Agreement which provided that:
+
+"In case of any dispute or difference arising out of or in relation to this Agreement then the same shall be resolved in and settled with the provision of the Arbitration and Conciliation Act, 1996, or any statutory modification or re-enactments thereof. The place of Arbitration shall be Chennai."
+
+In view of the aforesaid clause, the District Munsif suo motu held that it did not have the jurisdiction to entertain the suit and returned the Plaint.
+
+A revision Petition was filed against the said order before the High Court of Madras and the question before the High Court of Madras was:
+
+"Whether the Civil Court can act at the threshold in returning/rejecting a Plaint without numbering the suit on the ground that the parties have entered into an Agreement to refer the disputes"
+
+The High Court of Madras referred to Section 8 of the Arbitration and Conciliation Act, 1996 as it was under the Arbitration and Conciliation Act, 1996 and after the Amendment Act of 2015 and inter alia observed:
+
+"Therefore, the very Section contemplates referring parties to arbitration on the fulfilment/existence of the following conditions: "a) that the matter in respect of which an action is instituted is subject to an arbitration agreement. b) a party to the arbitration agreement or any person claiming through or under him applies to refer the disputes to arbitration not later than the date of submitting his first statement. (The 1996 Act only gave this liberty to a party to the Agreement to so apply). c) That the original arbitration agreement or duly certified copy of the same is annexed to the application. (the amending act has relaxed this condition) 9. Therefore, a reading of Section 8 would clearly indicate that the role of the Judicial authority to refer parties to arbitration will arise only upon an application being made by a party to the arbitration agreement or a person claiming under or through him. This window is given only to enable the defendant who is not desirous of having the dispute settled by arbitration to waive his right for having the dispute referred to arbitration. (emphasis added)
+
+In view of the above, the High Court of Madras thus held that a Judicial authority cannot suo moto return/reject a suit on the ground that the parties to the suit have agreed to refer all their disputes to arbitration at the threshold when the case is filed. The Court further noted that Amendment Act 2015 retains the requirement of parties being referred to Arbitration only upon an application being made by the respondent/defendant, who is a party to the agreement or any person claiming through or under him.
+
+III. Damont Developers Pvt. Ltd. v. BRYS Hotels Pvt. Ltd.; 2019 SCC OnLine Del 7478, Order dated 07.03.2019
+
+The petitioner sought for appointment of an arbitrator in terms of Section 11(6) of the Arbitration and Conciliation Act, 1996. The arbitration agreement between the parties was provided under Clause 10(e) of a MOU dated 17th September, 2016. The petitioner invoked the arbitration and suggested the name of a retired Supreme Court Judge to act as a sole arbitrator. The respondent did not agree to the appointment of an arbitrator.
+
+The petitioner contended that there is a valid arbitration agreement between the parties contained in Clause 10(e) of the MOU dated 17th September, 2016. However, according to the Respondent, Clause 10(e) of the MOU dated 17th September, 2016 does not constitute a valid arbitration agreement; MOU provides a remedy of specific performance and therefore, no arbitration can be carried out for resolution of disputes. It was further contended that the MOU dated 17th September, 2016 is a compulsorily registerable document but is neither registered nor requisite stamp duty has been paid thereon and therefore, the document is liable to be impounded by this Court and cannot be acted upon till the requisite stamp duty is paid thereon.
+
+The High Court of Delhi referred to SMS Tea Estates Private Ltd. v. Chandmari Tea Company Private Ltd. (2011) 14 SCC 66 wherein the Supreme Court held that an arbitration agreement does not require registration under the Registration Act and therefore, an arbitration agreement contained in an unregistered but compulsorily registerable document, can be acted upon and enforced.
+
+The High Court of Delhi further referred to various precedents and observed that the Arbitration and Conciliation Act was amended w.e.f. 23rd October, 2015 by which several provisions of 1996 Act were amended including Section 11(6A) which provides that the Court has to confine its examination to the existence of an arbitration agreement only. Furthermore, the objections of insufficiently stamped document cannot impede the appointment of an arbitrator and it is for the arbitrator to consider the objections and exercise the powers under Section 33 and other attendant provisions of the Stamp Act.
+
+The High Court of Delhi thus held:
+
+"In the present case, there is a valid arbitration agreement between the parties contained in Clause 10(e) of the MOU dated 17th September, 2016. The petitioner has validly invoked the arbitration vide notice dated 27th September, 2018. Under Section 11(6A) of the Arbitration and Conciliation Act, this Court has to confine only to the existence of an arbitration agreement and all other objections including the objection as to insufficient stamping have to be considered by the arbitrator.
+
+IV. Trammo AG v. MMTC Limited; 2019 SCC OnLine Del 7337, Order dated 27.02.2019
+
+In the aforesaid case, the award, which was upheld by the Supreme Court was sought to be executed by way of an Execution Petition before the High Court of Delhi. The question before the Court was in respect of the foreign exchange rate to be applied as the award was in US dollars.
+
+The issue before the Court was:
+
+"What is the foreign exchange rate to be applied? Whether the same should be calculated on the basis of conversion rate on the date of the award or on the date of dismissal of the Section 34 petition or on the date of dismissal of the SLP or on the date of dismissal of the review petition or finally on the date when the execution petition is being disposed of."
+
+The High Court of Delhi after taking into account the decisions in Forasol v. Oil and Natural Gas Commission, 1984 (supp) SCC 263 and Renusagar Power Co. Ltd. v. General Electric Co., 1994 Supp (1) SCC 644 inter alia held that:
+
+"...In the present case, the present execution petition was filed immediately upon the objections under Section 34 being dismissed. The Decree Holder obviously understood, rightly so, that the award became an executable decree immediately upon the challenge having failed. At that stage the awarded amount stood crystallised. What is being enforced in this case is the award, as per Section 36. Unless the award has been modified by the appellate forums leading to merger, the award as it is, is being enforced. The award acquired finality only when the Supreme Court finally dismissed the challenge to the award. Until then, this award could not be enforced, though the present execution was pending during the said period. The principle in an execution petition is that the Decree Holder should be placed in the same position as he would have been if he had received the money on the date of the award. The contract was in US Dollars. MMTC also conducts business in foreign exchange. As per the principles culled out from the above decisions, the Decree Holder is entitled to receive the sum only when finality attaches to the award, which in this case, happened on 12th February, 2019 when the review petition was dismissed by the Supreme Court."
+
+V. Government of Haryana v. G.F. Toll Road Pvt. Ltd.; 2019 SCC OnLine SC 2, Order dated 03.01.2019
+
+The Appellant had issued a Letter of Acceptance to M/s. G. F. Toll Road Pvt. Ltd. for execution of a works contract for construction, operation and maintenance of Gurgaon-Faridabad Road and Ballabhgarh-Sohna Road on BOT (Build, Operate and Transfer) basis. A Concession Agreement was entered into between the parties. The said agreement contained a dispute resolution clause which inter alia provided, "...There shall be a Board of three arbitrators of whom each party shall select one and the third arbitrator shall be appointed in accordance with the Rules of Arbitration of the Indian Council of Arbitration."
+
+During the execution of the Agreement, disputes arose between the parties and M/s. G. F. Toll Road Pvt. Ltd. invoked the Arbitration Clause, and requested the ICA to commence arbitration proceedings. On 05.05.2015, Respondent No. 1 - M/s. G. F. Toll Road Pvt. Ltd. appointed a retired Engineer-in-Chief - Mr. Surjeet Singh as their nominee Arbitrator. The State also nominated a retired Engineer-in-Chief, Mr. M.K. Aggarwal as their nominee arbitrator. The ICA raised an objection to the arbitrator nominated by the Appellant - State on the ground that he was a retired employee of the State, and there may be justifiable doubts with respect to his integrity and impartiality to act as an arbitrator. The State refuted the objection raised by ICA on the ground that there was no rule which prohibited a former employee from being an arbitrator, and there could not be any justifiable doubt with respect to his impartiality since the nominee arbitrator had retired over 10 years ago.
+
+The ICA reiterated that it has been firmly established that Mr. M.K. Aggarwal had a direct relationship with the Appellant - State as its former employee, which may raise justifiable doubts as to his independence and impartiality in adjudicating the dispute. Thereafter the ICA informed the Appellant - State that it had appointed a nominee arbitrator on behalf of the Appellant, as well as the Presiding Arbitrator.
+
+Aggrieved by the appointment, the Appellant - State filed an application under Section 15 of the Arbitration and Conciliation Act, 1996 before the District Court, Chandigarh on the ground that the constitution of the arbitral tribunal was illegal, arbitrary and against the principles of natural justice. The District Court vide its Order dated 27.01.2017 held that the Petition was not maintainable, since the Arbitral Tribunal had been constituted, and an objection under Section 16 should be raised before the Tribunal to rule on its own jurisdiction.
+
+Aggrieved by the Order dated 27.01.2017, the Appellant - State filed a Civil Revision Petition before the Punjab and Haryana High Court, Chandigarh being C. R. No. 3279 of 2017. The same was dismissed vide the impugned Order dated 01.03.2018 on the ground that the Appellant - State could raise the issue of jurisdiction under Section 16 before the arbitral tribunal. Subsequent to the impugned Judgment being passed, the Application under Section 16 filed by the Appellant - State was dismissed by a non-speaking Order of the Arbitral Tribunal dated 12.05.2018.
+
+Aggrieved by the Order dated 01.03.2018 and 12.05.2018, the Appellant - State filed the present Petition before the Supreme Court.
+
+Given the facts in hand, the Supreme Court observed that:
+
+"The 1996 Act does not disqualify a former employee from acting as an arbitrator, provided that there are no justifiable doubts as to his independence and impartiality. The fact that the arbitrator was in the employment of the State of Haryana over 10 years ago, would make the allegation of bias clearly untenable."
+
+Although the present case was governed by the pre-amended 1996 Act, the Court referred to the first entry to the Fifth Schedule inserted vide 2015 Amendment Act which reads as under:
+
+"Arbitrator's relationship with the parties or counsel 1. The Arbitrator is an employee, consultant, advisor or has any other past or present business relationship with a party." (Emphasis supplied)
+
+It was held that the aforesaid Entry indicates that a person, who is related to a party as an employee, consultant, or an advisor, is disqualified to act as an arbitrator. The words "is an" indicates that the person so nominated is only disqualified if he/she is a present/current employee, consultant, or advisor of one of the parties.
+
+An arbitrator who has "any other" past or present "business relationship" with the party is also disqualified. The word "other" used in Entry 1, would indicate a relationship other than an employee, consultant or an advisor. The word "other" cannot be used to widen the scope of the entry to include past/former employees.
+
+It was thus held that the objection of reasonable apprehension of bias raised was wholly unjustified and unsubstantiated, particularly since the nominee arbitrator was a former employee of the State over 10 years ago. This would not disqualify him from acting as an arbitrator. Mere allegations of bias are not a ground for removal of an arbitrator.
+
+VI. Zhejiang Bonly Elevator Guide Rail Manufacture Co. Ltd. Vs. Jade Elevator Components, 2018 SCC Online SC 1503, Order dated 14.09.2018
+
+In the present case, the question before the Apex Court was whether an agreement between parties giving an option to the parties to choose dispute resolution by Court or arbitration is a valid arbitration agreement or not.
+
+The Dispute handling Clause contained in Clause 15 of the Agreement read as under:
+
+"15. Dispute handling.—Common processing contract disputes, the parties should be settled through consultation; consultation fails by treatment of to the arbitration body for arbitration or the court."
+
+Whilst considering the validity of the aforesaid clause, the Supreme Court referred to its earlier decision in Indtel Technical Services (P) Ltd. v. W.S. Atkins Rail Ltd.; (2008) 10 SCC 308 wherein Clause 13 dealt with the settlement of disputes and inter alia read as under:
+
+"6. ... '13.2. Subject to Clause 13.3 all disputes or differences arising out of, or in connection with, this agreement which cannot be settled amicably by the parties shall be referred to adjudication;
+
+13.3. If any dispute or difference under this agreement touches or concerns any dispute or difference under either of the sub-contract agreements, then the parties agree that such dispute or difference hereunder will be referred to the adjudicator or the courts as the case may be appointed to decide the dispute or difference under the relevant sub-contract agreement and the parties hereto agree to abide by such decision as if it were a decision under this agreement.'"
+
+Interpreting the aforesaid clauses, it was held in Indtel (supra) that the parties to the memorandum intended to have their disputes resolved by arbitration and the petition was allowed.
+
+The Apex court while relying on the aforesaid decision observed that emphasis has been laid on the intention of the parties to have their disputes resolved by arbitration. It was therefore held that Clause 15 refers to arbitration or court and there is an option and the petitioner has rightly invoked the arbitration clause.
+
+The content of this article is intended to provide a general guide to the subject matter. Specialist advice should be sought about your specific circumstances.

@@ -1,0 +1,509 @@
+India’s Quest for Jobs: A Policy Agenda
+
+Introduction
+
+The Indian economy is riding the wave of a youth bulge, with two-thirds of the country’s population below age thirty-five. The 2011 census estimated that India’s 10–15 and 10–35 age groups comprise 158 million and 583 million people, respectively.1 By 2020, India is expected to be the youngest country in the world, with a median age of twenty-nine, compared to thirty-seven for the most populous country, China.2 In the 2019 general elections, the estimated number of first-time voters was 133 million.3 Predictably, political parties scrambled to attract youth voters.4
+
+It is therefore not surprising that, according to several surveys, the parties’ primary concern was job creation.5 The burgeoning youth population has led to an estimated 10–12 million people entering the workforce each year.6 In addition, the rapidly growing economy is transitioning away from the agricultural sector, with many workers moving into secondary and tertiary sectors. Employing this massive supply of labor is, perhaps, the biggest challenge facing India—at the very least, it requires high economic growth for the next three decades. Further, this growth must be sustainable, broad-based, and focused on creating new jobs.
+
+In the years following independence, India believed that economic growth and job creation were best achieved through the construction of large factories. Believing that large industrial firms create the majority of new jobs over time, successive Indian governments have tailored their policies to meet the requirements of these firms. Consequently, India’s traditional industry policy was built around three pillars—concessional credit, fiscal incentives, and input subsidies.
+
+A growing body of research work, however, has upended this conventional wisdom and shown that the predominant source of job creation is firms that start small and formal and eventually grow into medium-scale enterprises. This is a problematic finding given that the vast majority of enterprises in India begin as small and informal and remain so.7 Further, comparative data from developing and developed countries demonstrate that there is a “missing middle”—a lack of medium-sized enterprises.8 In fact, recent research shows that, even among smaller firms, start-ups and young firms are the primary job creators.9
+
+Despite this knowledge, the policy levers for promoting economic growth and job creation continue to remain the same. Worldwide, governments, especially at the provincial and local levels, have been locked in a destructive race to undercut each other in offering concessions to attract large investments.10 For example, in the United States, local governments offered huge concessions to bring Amazon’s second headquarters to their area.11 In India, states have been offering unsustainable fiscal incentives and input subsidies to attract large companies such as Foxconn.12 This enthusiasm may be misplaced, however, as research indicates that job creation may be best achieved by encouraging the educated to become entrepreneurs and by creating favorable conditions for their enterprises to grow. Additionally, educated entrepreneurs and managers have a large positive impact on firm productivity.13
+
+Formulating the right strategy for industrial development and employment generation is particularly important for India, which is undergoing a demographic transition. The number of youths entering the workforce each year (10–12 million) is equivalent to the entire population of Belgium or half that of Australia. This change in population offers a potential demographic dividend—a great opportunity to boost the country’s growth, provided that the economy can generate productive jobs for these new entrants. For fiscally strapped governments, supporting the growth of large corporations at the expense of job-creating start-ups and young firms is evidence of an unproductive distribution of scant resources.
+
+Research findings related to entrepreneurship, business growth, and job creation—as well as a comparison of India’s private sector with those of other countries—reveal an alternative path forward for generating productive jobs in India. Seven findings are particularly relevant:
+
+Although micro businesses dominate most countries’ economies, India’s economy has an excessive proportion of less productive, informal micro businesses. Employment in India is concentrated in the micro businesses, whereas in developed countries, it is concentrated in formal small and medium-sized firms. Productive jobs are created by firms that start out as formal. New and young firms create more jobs than older, established firms. Growing and efficient firms are founded and run by educated entrepreneurs. Older firms in India exhibit lower productivity than firms of similar ages in developed countries. India has a deficit of productive, job-creating entrepreneurs and an excess of informal entrepreneurs focused on surviving.
+
+Based on the findings, it is clear that policies aimed at creating jobs should support, first and foremost, the establishment and growth of new and young formal firms. These policies should make it easier and less costly for entrepreneurs to start and grow a firm.
+
+Informal Micro Businesses Dominate India’s Economy
+
+Globally, micro businesses are more ubiquitous than large ones. However, in India, the proportion of micro businesses is excessive. According to the Organization for Economic Cooperation and Development (OECD), “the vast majority of [member country] enterprises (between 70 and 95 percent) are micro-businesses, i.e. enterprises with fewer than ten persons employed, and in most countries over half of all enterprises are nonemployer enterprises, i.e. enterprises with no employees such as the self-employed who work on their own account and do not employ other persons” (see Figure 1).14 The OECD’s annual survey, Entrepreneurship at a Glance, 2017, defines micro enterprises as those with 1–9 workers, small enterprises as those with 10–49 workers, and medium ones as those with 50–249 workers. Therefore, the category of micro, small, and medium enterprises (MSMEs) is confined to firms with fewer than 250 workers.15 The World Bank’s breakdown is only slightly different. It defines medium enterprises as those with 50–299 workers.16
+
+It is important to note, however, that some countries define MSMEs quite differently. For example, in the United States, the Small Business Administration defines small businesses as employing fewer than 500 workers, and the U.S. Census Bureau defines start-ups as firms that are younger than one year. In India, MSMEs are categorized based on capital investments up to 2.5 million Indian rupees, 2.5–50 million rupees, and 50–100 million rupees, respectively.17
+
+Further, in India’s case, the pervasive nature of informality dictates another level of classification. Informal firms are classified as those with fewer than twenty workers, or ten workers if the firm uses electricity. In addition, under the 1948 Factories Act, these firms are not required to even register with the government. In developed economies, informal firms are predominantly nonemployer firms.
+
+The Sixth Economic Census of India, 2013, which combines all types of enterprises, shows that India had 58.5 million enterprises,18 which employed 131.9 million workers.19 Nonemployer, or own account firms, constituted 71.7 percent of these enterprises and 44.3 percent of workers. Further, 55.86 million (or 95.5 percent) of all the enterprises employed just 1–5 workers, 1.83 million (3.1 percent) employed 6–9 workers, and just 0.8 million (1.4 percent) employed ten or more workers (see Table 1).20
+
+While Figure 1 shows that micro enterprises constitute the bulk of the enterprises in many countries, Table 1 confirms that the situation is more extreme in India, with the share of micro enterprises being so overwhelmingly dominant. In fact, even among the micro businesses, nonemployers and those with less than even five workers predominate. The Indian economy would be far better off if it had many “small” enterprises employing 200–400 workers—to borrow from the aforementioned U.S. definition of small enterprises (fewer than 500). But unfortunately, India is overwhelmingly dominated by the tiniest businesses (unusually high for a country at its stage of development).
+
+India’s Smallest Businesses Have the Largest Share of Employment
+
+India’s small firms encompass the largest share of employment, followed by its large firms. As noted earlier, in developing countries, employment is sorely deficient in medium-sized firms. This is in contrast to the significance of employment in medium-sized firms in developed economies. Because jobs are automatically created when firms grow (and since the number of big firms is very small), it stands to reason that the major share of employment is created when small firms grow into medium-sized ones.
+
+Among the formal sector factories in India, those with more than fifty workers, which account for 87 percent of total employment within all formal factories, constitute only 28 percent of the total number of factories (see Table 2).21 The overall employment rates of the factories covered by the Annual Survey of Industries, however, is rather miniscule considering the scale of the unemployment problem in India.
+
+When all formal and informal enterprises are combined, establishments with less than ten workers contribute to 78.85 percent of total employment (see Table 3).22 In fact, the share of employment among small firms has been rising, despite India’s high growth rates since the turn of the century. India essentially faces two primary problems: a large proportion of firms employ few workers and a large proportion of workers (almost 80 percent) are employed by small firms. These problems have a significant impact on efficiency, productivity, skills accretion, quality upgrades, and technology use.
+
+In terms of annual revenues, the situation is no different. A recent study estimated that 80–85 percent of Indian MSMEs, formal and informal, have an annual revenue of less than 1 million rupees, and only 3–5 percent have a revenue of more than 10 million rupees.23 Unsurprisingly, 40–45 percent of MSMEs are in the trade sector, 30–35 percent are in manufacturing, and the rest are in services.
+
+The situation is rather different in developed economies: while their firm-size distribution may be similar to that of India and other developing countries, the employment share of their small firms is nowhere near as big as it is in India. Among the OECD economies, on average, “large enterprises [over 250 workers] account for around 40 percent of total manufacturing employment while in services they account for around 25 %.”24 On average, firms with fewer than fifty workers employ nearly half the workforce, and firms with fewer than ten workers employ 20–30 percent of the workforce.25 In the United States, however, as of 2016, firms employing 500 or more workers constitute 0.4 percent of all firms but have an employment share of nearly 52 percent.26
+
+The United States is somewhat of an outlier among the OECD economies in terms of the employment share of its small businesses—although, like all other countries, nearly 76 percent of its enterprises employ fewer than nine workers. However, the small-business sector accounts for the smallest share of total national employment, and firms employing fewer than fifty workers provide only 27 percent of the total employment.27 In fact, it has the highest share (nearly 60 percent) of national employment by large enterprises among all OECD countries (see Figure 2). The employment distribution in India’s formal sector manufacturing, however, resembles that of the OECD economies. In fact, as noted earlier, the share of employment contributed by formal sector manufacturing firms with more than fifty workers is about 87 percent in India (see Table 2), compared to about 70 percent in developed economies.28
+
+But when including the much larger group of nonmanufacturing sector enterprises, there is a stark difference between the employment distributions of India and the West. While the employment share of firms with fewer than ten workers is 20–30 percent in the case of developed economies, it is nearly 80 percent in India (see Table 3). Further, comparing India’s formal and informal manufacturing establishments to Mexico and Indonesia reveals the true scale of India’s challenge within this sector.29 Enterprises with fewer than ten workers make up nearly 70 percent of the employment share in India, compared to over 50 percent in Indonesia and just 25 percent in Mexico.
+
+Irrespective of the “missing middle,” India’s employment share distribution for the economy as a whole starts and largely ends at the lowest end of the distribution, much like its firm-size distribution. The handful of very large businesses that employ a fair share of the formal sector workforce, however, may be producing a hump at the outer end of the formal manufacturing sector employment share distribution (see Table 3). Together, firm-size distribution and employment share distribution paint a dire picture of an economy that is struggling to create large numbers of jobs and productively generate output. Notably, both problems contribute to India’s persistently high trade deficit and vulnerability to periodic stagflation.
+
+It is fair to argue that India needs more firms with 50–100 workers. Even firms that employ 10–49 workers would help increase the employment share of the real job-creating firms. In other words, structurally, the employment share distribution has to shift, reducing the share of employment among small businesses with fewer than ten workers and increasing the modal value of the employment share distribution.
+
+Formal Firms Are More Productive
+
+Research shows that productive jobs are created by firms that start formal. Unfortunately, informal firms rarely become formal, and India has a large informal sector—in fact, the share of its labor force working in the informal sector is the highest among its larger peers.30
+
+Indian policymakers are concerned about the high level of informality, as informal firms are rarely productive and their workers are paid below-subsistence wages and have little job protection. Additionally, these firms do not have statutory benefits. Hence, the government would like to see many informal firms become formal. However, the urge to coax or force informal firms to become formal should be resisted, based on the findings of international research.31 Instead, the primary objective should be to incentivize firms to start formal. The most comprehensive research on informality in developing countries and the trajectory of informal firms comes from Andrei Shleifer and Rafael La Porta. In their article, “The Unofficial Economy and Economic Development,” they asserted that
+
+“informal firms are small and are extremely unproductive compared with even the small formal firms,”
+
+“few formal firms have ever operated informally,”
+
+“growth comes about from the creation of highly productive formal firms,” and
+
+“informal firms keep millions of people alive but disappear as the economy develops.”32
+
+They have also stated that “informal firms stay permanently informal, they hire informal workers for cash, buy their inputs for cash, and sell their products for cash, they are extremely unproductive, and they are unlikely to benefit much from becoming formal.”33 Informal firms stay informal because those who run them are focused on surviving. It is therefore better to create the conditions—to an extent consistent with India’s stage of development—that encourage new firms to start formal.
+
+Further, formality has indirect effects on overall economic productivity, particularly as many informal firms are sources of inputs for the formal sector. Formal firms demand higher quality from all their suppliers, including informal ones, thereby forcing a virtuous cycle of standardization, employee trainings, investment, and greater competitiveness. Accordingly, it has been found that the “unorganized sector [or informal sector] is much more dependent on and responsive to organized [or formal] sector presence than vice versa,” and that “unorganized sector [or informal sector] productivity is dependent on and responsive to organized [or formal] sector productivity and presence but the reverse is not true.”34
+
+Start-Ups Are the Biggest Job Creators
+
+Old firms shed jobs, whereas new and young firms are the biggest job creators. Conventional wisdom erroneously associates job creation with either large, established firms or small businesses. However, a growing body of evidence, particularly from the United States and the Kauffman Foundation, an entrepreneurship research organization, has shown that established firms––both big and small––are actually net job destroyers. They found that between 1977 and 2005, these firms lost 1 million more jobs each year than they created, whereas start-ups (less than one year old) created an average of 3 million jobs in their first year (see Figure 3).35 In fact, if not for these start-ups, there would have been no net job creation in the United States for all but seven years in that time span. In other words, the innovation and dynamism displayed by start-ups is what propels job creation in the United States.
+
+Job creation at existing firms is much more procyclical, with greater job-shedding during recessions. During the Great Recession in the United States, for example, when older and larger firms were net job destroyers, firms less than five years old, and with fewer than twenty workers, were positive net job creators.36 Across OECD economies, enterprises less than two years old account for 20–35 percent of all employing firms and generate 4–15 percent of total employment, which means that their share of annual net job creation is effectively much higher.37
+
+Research by John Haltiwanger, Ron S. Jarmin, and Javier Miranda ad­­ds a crucial subtext to the work by the Kauffman Foundation. They found that, in the United States, “the inverse relationship between net job growth and firm size disappears after controlling for firm age.”38 Put differently, it is not simply that large firms are net job destroyers but that younger firms, which are most likely to start small, are net job creators. This has crucial policy implications for India.
+
+There is evidence that the same trend holds true for India. Ejaz Ghani, William Kerr, and Stephen O’Connell have displayed the strong positive relationship between job growth and the setting up of new establishments in the manufacturing sector across both Indian states and state-industry clusters.39 This suggests that the priority for industrial policy should be to enable young firms to prosper and to allow start-up firms to survive long enough to grow.
+
+An analysis of a database of over 27,000 formal firms provides another empirical basis for job creation in the Indian context.40 On dividing the sample into four quartiles based on net sales, it was found that firms in the bottom quartile consistently added jobs much faster than those in the highest quartile. In fact, for some of the measured years, the firms in the highest quartile were net job destroyers (see Figure 4).
+
+Educated Entrepreneurs and Managers Run More Efficient Firms
+
+Apart from age, another important characteristic of job-creating firms is the education level of the entrepreneur. Firms with uneducated entrepreneurs, in both the formal and informal sectors, generally run small and inefficient firms, whereas educated entrepreneurs run larger and more efficient firms.
+
+It is logical that the quality of human capital should have positive effects on firm productivity. However, the impact of education on productivity is much higher with managers than with workers. One study found enormous productivity gaps between formal firms run by educated and uneducated managers versus those found between educated and uneducated workers—nearly 30 percent returns per extra year of education for managers, compared to just 6–7 percent extra returns for educated workers.41
+
+It has been found that, among the various determinants, a lack of education has the strongest correlation with informality. Uneducated entrepreneurs generally run small and inefficient informal firms.41 While the education levels of workers, and other observable characteristics, are not very different among firms in the informal and formal sectors, the education levels of entrepreneurs and managers make all the difference.42 In fact, Andrei Shleifer and Rafael La Porta go to the extent of claiming that, “the policy message for how to grow the formal economy and shrink the informal one is to increase—whether through immigration or education and training—the supply of educated entrepreneurs.”43
+
+As the World Bank Enterprise Survey data show, these findings are highly relevant for India. Among developing countries, 7 percent of managers of informal firms have a college degree, compared to 76 percent for formal firms. In India, however, there are hardly any educated informal entrepreneurs, but 89 percent of managers of formal firms are college educated (see Figure 5).45
+
+An Asia Development Bank survey in India found that entrepreneurs with a bachelor’s degree possess a greater awareness of financing schemes for micro, small, and medium enterprises.46 Further, it also found that educated entrepreneurs were more likely to avail of such schemes.
+
+These findings assume great significance for entities like the Micro Units Development and Refinance Agency (MUDRA) Bank, which seeks to promote entrepreneurship among youth. It may be useful to prioritize such programs toward the educated unemployed. It is likely that the former will generate greater dynamic entrepreneurship—one which creates productive jobs—whereas the latter will likely generate more subsistence entrepreneurship—where the entrepreneur’s firm is barely able to survive.
+
+India’s Older Firms Stagnate or Decline Over Time
+
+On average, over their life-cycle, firms in developing countries like India either stagnate or grow much more slowly, exhibiting far less productivity than their developed country counterparts. As mentioned, young firms create jobs. This is understandable since it is reasonable to assume that most firms start small and grow in their first few years. However, what if the dynamics of firm growth become inverted?
+
+Chang-Tai Hsieh and Peter Klenow’s latest work, “The Life Cycle of Plants in India and Mexico,” is instructive in its exploration of the life-cycle dynamic of firm growth across countries.47 They find that, in a sample of eight countries including the United States and Mexico, India is the only country where the average number of employees of firms in the manufacturing sector ages 10–14 years is less than that of firms ages 1–5 years.
+
+It is generally expected that, as firms remain in business for longer periods, they would naturally employ more workers. In India, however, the inverse has proven true—employment in older firms is less than in younger firms. Hsieh and Klenow also find that the typical Indian firm stagnates or declines over time, with only the handful that reach around twenty years of age showing very slight signs of growth.
+
+In the same paper, Hsieh and Klenow use to show that a forty-year-old manufacturing unit in the United States is eight times larger in employment size than one younger than five years, compared to just 40 percent larger in India, and two times larger in Mexico.48 Furthermore, in seventeen of the nineteen industries in India that are over a decade old, the average employment of firms older than forty years is less than 20 percent higher than those younger than five years.
+
+Subsistence Entrepreneurs Dominate India’s Business Landscape
+
+India has too many subsistence entrepreneurs in the informal sector and too few job-creating, educated, and dynamic entrepreneurs in the formal sector. In developed economies, the largest share of jobs is created by the growth of young, small, and formal firms.49 In India, too, geographical areas with high numbers of new enterprises have been found to generate higher employment growth—at both the state and local levels.50 The unfortunate reality is that tiny, mostly self-employed, informal enterprises, with poor-quality human capital, dominate India’s business landscape. This subsistence entrepreneurship is highly detrimental to the economy, as these so-called entrepreneurs are driven more by the need to survive than to thrive.51 Policies that support such entrepreneurship should be categorized under poverty alleviation efforts rather than economic growth promotion.
+
+India therefore needs another variant of entrepreneurship—dynamic entrepreneurship—that focuses on creating productive jobs and increasing their economic output. Such entrepreneurs are likely to be well educated and to establish formal firms. However, few policies are set up to encourage such entrepreneurship.
+
+The Way Forward: A Policy Agenda
+
+The importance of policy interventions is often overstated. Economic growth, in most of today’s Western societies, was both endogenous and organic. Public policy came into force to protect and secure private wealth and to ensure its later redistribution. Consequently, perhaps the best government policy would be to not intervene by throwing sand on the wheels of economic activity.
+
+It is unnecessary to dwell on the well-known requirements of investing in infrastructure and easing constraints on land, labor, and capital markets. India’s central and state governments continue to pursue traditional industrial policies to boost economic growth. However, these policies typically focus on larger firms, and more attention needs to be paid to supporting smaller firms.
+
+Promote Productive Entrepreneurship
+
+In India, the two most consistent factors that directly correlate to the formality of enterprises—in both the manufacturing and services sectors—are education levels and the quality of local infrastructure.52 These correlations have been found to be much stronger in India than in the United States.53 Additional important predictors include liberal labor regulations and the quality of banking services available to households in the locality. Further, in manufacturing, agglomeration economies arising from supportive, existing industrial structures for input and output markets (that is, common labor or customer-supplier relationships with the city’s businesses) also contribute to new entrepreneurship.54
+
+Even among developed economies, despite these correlations, the identification of policy levers that drive the incubation of new enterprises has proven elusive. Mainstream discussions of entrepreneurship focus on three types of policies—training, clusters, and deregulation.55 However, there is little evidence to support that entrepreneurship training works or that artificially developed economic clusters materially increase the level of overall entrepreneurship within a city. In fact, there are no validated records of successes with entrepreneurship training anywhere in the world. While deregulation has not been found to increase entrepreneurship either, excessive regulation may prevent the growth of firms.
+
+In its laudable goal to promote entrepreneurship, India is prioritising entrepreneurship development programmes, establishing incubators and accelerators, and promoting industrial clusters. Regardless, based on global evidence, the economic payback of these types of efforts tends to be rather modest.56 Therefore, a primary takeaway would be to eschew policies that seek to create entrepreneurs or directly promote entrepreneurship. It may be further advisable to limit efforts toward shrinking the informal sector. It could be more productive to create two types of conditions favorable for enterprise creation and growth: physical and enabling.
+
+The former involves making improvements to infrastructure, increasing access to credit, providing skilled labor on competitive terms, and so on. Most importantly, India needs to improve its quality of human capital by fixing the country’s dysfunctional education system. Educational outcomes at the primary school level are inadequate, and the numerical and language skills of students are falling short of expectations at each grade.57 In higher education, India’s engineering graduates display a lack of employability, with most of them requiring retraining.58 Only a small fraction of engineering graduates are readily employable.
+
+The latter involves services that improve the productivity of businesses—by structuring them as quasi-public goods and subsidized by the government—and the enabling of regulatory environments. Deregulation, limiting interfaces with government officials or agencies, and increasing the use of information technology (IT) workflow automation are some possible steps in this direction.
+
+Make Starting and Growing Businesses Easier
+
+India is often considered one of the most difficult places to start and run a business. Although its Ease of Doing Business global ranking, produced by the World Bank, rose significantly from 130 in 2016 to 77 in 2018, big hurdles to starting and growing businesses remain.59
+
+One of the biggest hurdles that potential enterprises in India face is the complexity of the registration system—all enterprises must register separately with multiple entities of the state and central governments. Under the state government, the enterprise has to register with the labor department (Shop and Establishment Act), the local government (municipal or rural council acts), and the commercial taxes department for indirect tax assessments. There are also several state-specific legislations—the labor department alone has thirty-five legislations.
+
+Under the central government, enterprises must register with the Ministry of Corporate Affairs for incorporation (Companies Act), the Central Board of Direct Taxes for direct tax assessments, and the labor department’s Employees’ Provident Fund Organization (EPFO) and Employees’ State Insurance Corporation (ESIC). Further, there are registrations specific to sector or occupational categories—for example, manufacturing enterprises with more than ten employees must register with the labor department under the Factories Act.
+
+Based on the application or software employed for each registration, employers also must possess a multitude of numbers: for example, a labor identification number—used to register on the Shram Suvidha Portal, the Ministry of Labor and Employment’s single window for reporting compliances; a company registration number; and a corporate permanent account number. Employees must possess an Aadhaar biometric identity number, an EPFO member number, an ESIC identity number, and a universal account number.
+
+According to current labor laws, service enterprises and factories must maintain twenty-five and forty-five registers, respectively, and file semi-annual and annual returns in duplicate and in hard copy. Furthermore, regular paperwork tends to be convoluted; salary and attendance documents should be simple but instead require tens of entries. In addition to the physical requirements of complying with these regulations—making payments, designing human resource strategies, or meeting physical infrastructure standards—enterprises also have onerous periodic reporting requirements. All these requirements add up to impose prohibitive costs that reduce the success of these businesses.
+
+A single portal that integrates all state and central government departmental registrations into a single workflow application would be the most effective way to ease the conducting of a business. Once an enterprise registers with one entity under this system, its relevant data and verification details could be captured and made available to other entities—this would significantly lower registration costs and effort, as well as waive inspection and other verification formalities. It would also address the problem of an enterprise being found in one database and being absent in another.
+
+Further, compliance—especially related to payments and reporting requirements—could be made much simpler. Instead of maintaining physical registers, firms could log in to this single portal and, on entering all the relevant data, receive a report that meets their various legal requirements. Ideally, the integrated application would be linked to, or be part of, a software that forms part of the business registration process (for example, e-Biz). The workflow could begin with business registration and then allow the procurement of various permits and approvals and the management of all recurring transactions, including compliances, reporting, inspections, and payments. Digitizing and automating this workflow should allow reports and required documents to be generated digitally from the data that are collected.
+
+In this context, the ultimate objective would be to consolidate all registrations—from application/licensing and filing returns to inspections and payment transactions related to central and state legislations—into a single workflow, but in a phased manner. However, realizing this objective would require a mission-mode approach with a clear timeline and the designation of an entrusted senior official.
+
+Creating a similar automated and digitized workflow for the logistics sector to support the movement of goods within and outside the country would also improve the ease of doing business. Amounting to 13 percent of India’s GDP, the country’s logistics costs are some of the highest in the world.60 Currently, like the construction sector, the logistics sector is primarily run by informal firms, and, therefore, the potential to improve, particularly in terms of efficiency, is quite significant. Fortunately, the government has already initiated some important steps in this direction.
+
+For a start, a Logistics Section has been established within the commerce department as the nodal entity, and the logistics sector has been granted the formal status of “infrastructure,” thereby facilitating access to cheaper capital.61 The department has set the agenda by establishing a Logistics Ease Across Different States (LEADS) index that ranks states based on their logistical support for international trade—similar to the World Bank’s Ease of Doing Business index. LEADS covers eight parameters, including transportation facilities, pricing, and documentation procedures.62
+
+The commerce department also recently proposed the establishment of a national logistics e-marketplace. This platform would facilitate the delivery of different logistics services and the transparency of pricing and potentially reduce logistics costs. The platform would reportedly “allow exporters to bid for [the] cheapest transport services for overseas shipments, avail online certification from 81 regulatory bodies, make online payments and track his [exporters] consignment on a real-time basis.”63
+
+This provides an excellent opportunity to catalyze an entire logistics ecosystem, anchored around the e-marketplace. However, rather than try to create this ecosystem directly, once the e-marketplace is created, the government should make the Application Programming Interfaces—required by any third-party IT solution developers, especially start-ups, to connect to the e-marketplace—available. This would allow private service providers to link their applications and mediate the delivery of different kinds of logistics services. This whole process, however, would need a clear plan of action and timeline. Furthermore, it needs to be expanded with a similar workflow automation at certain nodes, like ports, so as to integrate the e-marketplace with activities across the last mile. The report Can India Grow? explored the potential gains from workflow integration.64
+
+Just the documentation compliance for exporters takes sixty-one hours at Mumbai port, versus the Organization for Economic Cooperation and Development members’ average of just five hours, and at the respective costs of $104 and $36. Workflow automation of berthing, customs and immigration services, standards certificates and invoices, manifests and certificates of origin, and logistics management at ports and airports could dramatically reduce the time drain at the country’s entry and exit points. All these processes and the relevant paperwork should be made available online to enable the trading and shipping agencies to upload the requisite documentation for approvals well in advance. Furthermore, the workflow software for all the individual port services, public and private, should be integrated on a common portal to ensure organic data seeding and automatic retrieval across applications.
+
+A push by the relevant ministries toward improving the ease of doing business across sectors and activities could potentially provide the biggest sustainable boost to business growth and job creation in India.
+
+Regulatory Sandboxes: Test Beds for Supporting Innovation
+
+Regulatory constraints are a major deterrent to financial market innovation. New types of instruments or pricing models require more onerous regulations or clearances, which are always difficult to obtain. Further, given the uncertain nature of the market response, innovators often have to reexamine their designs, making onetime regulatory approvals unhelpful.
+
+Within this context, recent discussions emphasize the use of a regulatory sandbox to de-risk and mainstream innovations in many areas. A regulatory sandbox is a safe space in which regulations that would otherwise apply to innovative financial products and services are limited.65 This allows products to be market tested with customers in real-world conditions, even as the products’ risks are monitored and evidence is collected.
+
+Given the proliferation of digital finance innovations and their promise in addressing financial inclusion and promoting formality, the regulatory sandbox may prove a particularly effective facilitator. For example, it could create the conditions for innovators to offer new types of low-cost financial products to MUDRA and MSME borrowers. It could also allow banks to offer products that quantify the cost of timeliness, assurance, and convenience—attributes prized by customers of microfinance lenders—and charge them separately over and above the lending rate.
+
+A report from the Household Finance Committee of the Reserve Bank of India (RBI) also recommends the regulatory sandbox approach to encourage innovation in financial products.66 However, given that the global experience from using regulatory sandboxes shows that they attract a small number of applications, and an even smaller portion of innovators finally obtain a license, it is important to simultaneously focus on simplifying and rationalizing the standard regulatory process and limiting discretionary powers.
+
+Facilitate Access to Credit
+
+Widespread access to formal credit, even in developed countries, has remained a formidable challenge. Entrenched and pervasive informational failures and credit rationing pose inherently insurmountable barriers to the vast majority of small businesses in developing countries.67
+
+Many informal enterprises are outside the tax system simply because they deliberately operate below the threshold for registration. Despite this, however, they require credit and working capital. Though they may never become formalized, doubling their productivity would add substantially to India’s overall economic output, growth, and employment.
+
+MUDRA, which provides loans to microfinance and nonbanking financial institutions for on-lending to small entrepreneurs, was established in early 2015 with this objective in mind. MUDRA is needed to address productivity and working conditions in the informal sector and in informal employment. However, policy interventions without benchmarks, and measurements of achievement against such benchmarks, are incomplete and ineffective. It is vital that beneficiaries of MUDRA loans do not see them as handouts or loans that could be waived, as this would disincentivize borrowers from growing their businesses. Unfortunately, that may be happening. There are reports of high rates of repayment failures in loans extended under the MUDRA scheme.68
+
+One condition for MUDRA loans should be that the entrepreneur maintain books of accounts. That is the first sign of professionalism and would engender confidence in lenders to provide the entrepreneur credit for business growth, as well as subsistence. Other performance metrics should also be made preconditions for larger credit access. For example, all MUDRA borrowers should be required to report their employment generation and productivity data, such as output produced per unit of capital and labor employed. Prior to this, however, the government should set benchmarks for each to appropriately contextualize performance measurements. In fact, all MUDRA beneficiaries should be provided with some form of subsidized business development support to help them adopt basic management practices like monitoring, evaluation, and target setting. Research finds that the adoption of such practices leads to large productivity improvements in different small business settings.69
+
+The government should measure the success (or failure) of loans made under MUDRA by the reduction in informal employment, the rise in formal employment, and the extent that firms become medium and large. These objective criteria will help ensure that decisions are apolitical. Consequently, one condition of the loans must be that entrepreneurs maintain accounts for employment, output, revenues, expenses, and taxes.
+
+Accessing credit is not just a challenge for informal enterprises but also for formal start-ups. While stories of start-ups attracting billions of dollars of venture capital and private equity finance capture newspaper headlines, they are largely confined to a small sliver of fortunate start-ups, primarily within the fields of finance, technology, and real estate. Start-up funding in India comes primarily from personal sources (family and friends), rather than banks and other formal sources. The inadequacy of collateral assets and lack of financial awareness is to blame for the underuse of formal sources.70
+
+A recent survey found that nearly 40 percent of the annual credit demand of MSMEs, amounting to about 20 trillion rupees, is met through informal channels, where the cost of capital is much higher.71 Further, 99 percent of formal financing occurs through banks and nonbanking financial corporations and is primarily nondigital.
+
+However, four recent developments in establishing the credit worthiness of businesses have the potential to transform the market. First, the widespread acceptance and availability of the Aadhaar facilitates deep data analytics involving multiple databases. Second, online filings under the Goods and Services Tax (GST) create a rich digital trail on entrepreneurs and their enterprises. Third, Reliance Jio, a mobile phone company promoted by Mukesh Ambani of Reliance Industries in 2016, has resulted in increased data limits for users and a steep fall in its prices, thereby promoting the greater use of web-enabled services. Finally, India Stack, the digital infrastructure catalyzed by Aadhaar, with its presence-less, paperless, and cashless layers makes it possible to harness the potential of Aadhaar, the single market facilitated by GST, and cheap connectivity.
+
+The survey also estimates that MSMEs face their greatest difficulties in acquiring customers and accessing affordable credit. However, e-commerce and other aggregator platforms are helping formal and informal firms to access and acquire customers. The resultant digital trails, in turn, make it easier to assess creditworthiness and enable access to affordable capital. The shorter processing times associated with digital loans further lower their cost. In fact, new-to-credit borrowers are three times more likely to prefer fintech companies to regular banks.72 These trends are likely to accelerate over the coming years, facilitated by the exponentially increasing digital trails from the growth in breadth and depth of digital transactions. The survey therefore estimates that the annual digital lending to MSMEs will grow 10–15 times and reach 6–7 trillion rupees by 2023.
+
+These developments are particularly relevant for supply chain financing. For small and medium enterprises (SMEs) that are somewhat larger and more formal than the potential beneficiaries of MUDRA loans, a bigger issue is the availability of working capital and the cost of financing it—a large number of start-ups are suppliers to larger companies. Similarly, informal firms are major suppliers to formal firms. GST increases the incentives for informal firms to become formal, but this business model—being dependent on large firms for orders and revenues—generally involves payments for supplies being delayed and working capital getting locked up as receivables, thereby creating cash problems for banks and discouraging them from lending to informal firms.
+
+In fact, SMEs that supply to big corporations are usually at their mercy for the payment of invoices. If there is only one buyer in the market, then the supplier’s bargaining position is even weaker, and they can rarely afford to pursue protracted—and likely ruinous—legal remedies against recalcitrant corporate customers. Consequently, SME suppliers discount their receivables and bills of exchange with the banks that buy them (with or without recourse to the SME, in the event of nonpayment) and then collect the proceeds from the corporate buyer in a process termed as “factoring.” To institutionally amend this problem of factoring, the RBI appointed a working group, which submitted its report in November 2009. The RBI then issued a concept paper in 2014 and final guidelines on a Trade Receivables Discounting System (TReDS) in the same year.73 India’s first TReDS, the Receivables Exchange of India (RXIL), did not start operating until January 2017. The amount of time it took to create the system and pass the guidelines underscores the glacial pace of reformation, though it may be crucial to uplifting the economy.
+
+To its credit, the government is also attempting to address the issues around payments. In October 2017, then finance minister Arun Jaitley announced an economic stimulus package that included bank recapitalization plans. In addition, he announced that all public sector undertakings would be required to register under TReDS within ninety days, which would prevent any delay in their payments to their small and medium suppliers.
+
+Likewise, in November 2018, Prime Minister Narendra Modi announced a twelve-point program to boost MSMEs. One point stated that companies with a sales turnover of more than 5 billion rupees would be required to register under TReDS.74 Far more than directing credit from the banking sector—which could have many unintended consequences, such as unviable investments and, in turn, bad loans for banks—this measure, if enforced strictly, will make a big difference to the financial conditions of MSMEs.
+
+The ultimate goal would then be discouraging informal enterprises from adopting low-productivity tactics and methods. In addition to deregulating the environment, enhancing size-based thresholds for businesses to avail of financial and other concessions, and lowering compliance and labor costs, increasing access to affordable credit would complete a policy package directed toward MSMEs.
+
+Improve Tax Policies and Encourage Start-ups in India
+
+Arbitrary Tax Claims
+
+Over the last decade, the government has created well-meaning initiatives to support entrepreneurship, such as Stand-up India and Start-up India. However, one initiative implemented by the tax department in 2012, called the “angel tax,” has nullified other well-meaning initiatives because it treats the premium over the face value of shares subscribed to by investors as income in the hands of start-up businesses.75
+
+Investments in start-ups tend to be as much about hope as rational optimism. Based on the uniqueness of a firm’s product or service, it may anticipate big revenues and sell shares to investors who are willing to take the risk. However, many start-up promoters do not wish to sell too much equity to outsiders, as it would undermine their own profits later on. The firm’s value is therefore based on anticipated cashflows, and shares are sold at a premium to investors so that the bulk of the firm remains in the hands of promoters.
+
+However, some so-called angel investors—because they invest based on trust, rather than concrete growth projections—have used investments in start-ups as conduits for evading taxes and laundering their unaccounted wealth. Due to the rise of this phenomenon, the angel tax was created to tax all premiums that start-ups collect from the shares of angel investors. But this basically reduces the initial capital that these firms rely upon. While instances of such tax evasion exist, the tax department should look at data on the amount of angel investing really taking place in India, the sums involved, and the potential tax revenues foregone before they decide whether it justifies burning the house down to kill a few flies. The Ministry of Corporate Affairs has gone one step further than the tax department. According to a recent editorial in the Business Standard, the ministry has issued notices to about 2,000 start-ups as to why their valuation has fallen in subsequent rounds of funding.76
+
+Few fledgling enterprises succeed, and valuations rising or falling are par for the course; listed entities do not always find their share prices rising. Government regulations like those on taxation and trade duties sometimes shatter the business case of start-ups in some sectors, resulting in some folding and the rest scrambling to stay alive by accepting further rounds of cash at lower valuations compared to their initial capital raising. Extracting the states’ due share of taxes from wrongdoers must be weighed against the cost of hurting and harassing the majority of honest start-ups struggling to stay afloat and succeed. Failure to weigh the benefits and costs of tracking and hunting down tax evaders will defeat the purpose of the Revenue Department. Though the department might achieve its revenue collection targets in the short run through arbitrary and indiscriminate claims, killing off potentially profitable start-ups means that future tax revenues are lost.
+
+The government of India put financial inclusion at the top of its policy agenda and launched the prime minister’s Jan Dhan Yojana program in August 2014. This massive drive to expand access to banking services across the country was a broad success. According to some reports, the program’s bank accounts are increasingly being put to use.77 Additionally, to induce and encourage people to use banks for their transactions, the banks do not charge customers for some of their services. Though both the banks and income tax department come under the Ministry of Finance, the latter is proposing to tax the imputed or notional income lost on the free services, which is undermining the government’s broader policy objective of financial inclusion.78 If these tax demands were enforced, banks would either withdraw these free services or recover these charges from the public through other means—both of which will drive some people away from using these banking services.
+
+Inadequate Tax Incentives
+
+While arbitrary tax claims are a big concern, they are offset by other incentives. For instance, the government also gives tax holidays to start-ups for three out of seven years, if their sale turnovers do not exceed 250 million rupees.79 However, this sales turnover ceiling is too low according to international standards, particularly given the size of the Indian economy and the current exchange rate between the Indian rupee and the U.S. dollar. While economic size may be a point of pride for India, exemption limits set in earlier years must be revised upward or indexed to the size of the economy in U.S. dollar terms. Further, the tax holiday could be structured so that losses incurred in the first five years of operation may be set off against profits made during any of the following five years, with all tax exemptions and concessions withdrawn after the first decade of operations.
+
+The widespread perception that the government is giving away or giving up its tax revenues should be contested. Though it may not seem possible to build a bridge between policy initiatives that (appear to) let go of revenues and future economic growth, the association between the two will become apparent in the data on economic growth, employment growth, and tax revenue growth that will emerge over time.
+
+According to the World Bank’s Ease of Doing Business 2019 report, the number of hours spent on paying taxes in Mumbai was estimated at 277.5 hours, a poor comparison to the global average (237 hours), the OECD average (159 hours), and countries like Singapore in particular (49 hours).80 And the number in Mumbai has only been increasing. The number of hours spent in paying taxes was estimated at 214 in the 2018 report, but after more data on GST payments were obtained, this number was revised to 275 hours.81 With this number going up to 277.5 hours in 2019, PwC—which provided some of the data to the World Bank—made this note on introducing the GST:
+
+In 2017, multiple central and state indirect taxes were merged into one with the introduction of the GST system. The transition, however, led to some administrative, operational and system issues that increased the time to comply. For example, the rules for filing and paying GST and for determining the GST rates were not always clearly communicated, there were issues with the functioning of the online portal and not all rules were synchronized prior to the introduction of the GST.82
+
+Considering the number of hours spent in filing taxes and appealing assessments, the hassle of dealing with the bureaucracy has a far higher monetary and morale cost than the actual tax paid.
+
+Finally, there are also distortions within the tax system that need to be addressed. For example, a recent study of corporate tax rates across a group of twenty nations, led by the U.S. Congressional Budget Office, showed that India’s tax treatment of debt-funded investments in real estate is far more favorable than its tax treatment of investment in equipment.83 This lowers tax revenues and hinders the generation of productive capital in the economy. As tax policy often poses hurdles to spontaneous and legal economic activity, other measures taken to encourage the setting up of incubators and accelerators often fail to achieve their intended purpose. It is therefore imperative for the government to ensure that its industrial and nontax policies are harmonized with tax policies to ensure that they do not work at cross-purposes.
+
+Incentivize Formal Employment
+
+According to the World Bank’s Ease of Doing Business 2019 report, India’s total taxes and contribution rate (calculated as a percent of profit) was 52.1 percent (versus 55.3 in the 2018 report).84 Though declining, it remains on the high side, particularly in comparison to the OECD average of 39.8 percent and the best rate of 26.1 percent in Canada. The “taxes and contributions measured include the profit or corporate income tax, social contributions and labor taxes paid by the employer, property taxes, property transfer taxes, dividend tax, capital gains tax, financial transactions tax, waste collection taxes, vehicle and road taxes, and any other small taxes or fees.”85
+
+In addition to taxes, labor costs are a formidable barrier that stunts the growth of Indian businesses, particularly in the formal sector. Manish Sabharwal, the chairman of TeamLease Services, a staffing company, wrote that salaries of 15,000 rupees a month end up as only 8,000 rupees after all deductions, from both the employer and employee sides.86 The employer makes deductions for pensions, health insurance, social security, and even a bonus, which are statutorily payable in India and would otherwise increase costs to companies. Consequently, the take-home pay for a worker earning less than 15,000 rupees a month is only 68 percent of their gross wages. Lower-wage workers are far more affected than higher-wage workers, who are protected by the maximum permissible deductions, which lowers the amount of deductions from their gross salary. Further, though international comparisons are often difficult and misleading, a cursory examination suggests that India’s deductions are among the highest in the world and are a deterrent to businesses starting or becoming formal.87
+
+These mandatory deductions and the high taxes and contributions squeeze employees, and only some of the employer’s burden is passed on via a net reduction in the employee’s paycheck. But any reforms that dispense with social protections are not only undesirable, but also unlikely to pass muster politically. Solutions to address this issue could range from making these deductions for both sides voluntary to providing a partial public subsidy for some of these contributions.
+
+Partial public subsidies can be phased out over a period of time; for example, the government’s 2016–2017 budget included a subsidy to pay the pension contribution of 8.33 percent for all employees under certain EPFO categories of employees and firms, but only for the first three years of employment.88 Measures such as these and others should be replicated or expanded. The government has already done so in some areas. In the Union Budget 2018, the Employment Generation Incentive available under section 80JJAA of the Income Tax Act, 1961, was expanded to all assessees, subject to a statutory audit, rather than restricting it to only those who derive their income from manufacturing goods in a factory.
+
+In the 2018–2019 budget, the government further expanded some schemes. For example, it announced that it would contribute 12 percent of the wages of new employees under the EPFO for all sectors—not just those employing a large number of workers—for the next three years.89 The government also extended the option of hiring workers for a fixed term of employment to all sectors, rather than just the apparel and footwear sectors. However, while such announcements are important signals of policy intent, it is crucial to evaluate their efficacy in practice, since employment generation is one of the most important political objectives of any government.
+
+Two concerns arise from labor incentives, but overall, the net outcome should be positive. One, businesses may be tempted to cut wages instead of transferring the full benefits to their employees. Two, the incentives are applicable to firms that could have created jobs without them. Regarding the former, while firms are unlikely to pass on the full benefit to their employees, they will probably pass on at least a portion in the form of higher wages. Irrespective of this, the gains derived from firms starting or becoming formal would be substantial. Regarding the latter, the vast majority of existing firms will not become formal without some incentive that lowers the cost of doing business. Finally, such labor incentives or measures are more outcome-focused and targeted compared to any other fiscal concession available.
+
+In addition to providing significant financial cushioning in an enterprise’s initial years, the incentives—going far beyond labor market reforms—could also encourage enterprises to hire formal workers. It is also possible that a number of informal firms may be compelled to become formal, thereby increasing their growth prospects, expanding the tax base, and enabling a significant share of the cost of such initiatives to be repaid.
+
+Subsidize Small Business Productivity Enhancement Services
+
+To create productive jobs, India’s central and state governments have proposed industrial policies to attract new business investments. However, by their very nature, industrial policies—focused on input subsidies and tax concessions—disproportionately benefit larger and more established businesses. They are also very expensive to implement. Intense lobbying by these beneficiaries only helps to perpetuate more of the same. Given the inevitable infrastructure constraints and limited credit access that newer and smaller businesses experience, the question is what policies will help increase the productivity of these businesses during their initial phases.
+
+Much of the mainstream research on business productivity enhancement support has revolved around the provision of trainings—mainly to groups of entrepreneurs—despite little to no evidence of its efficacy.90 The problem with training programs is that they are more likely to be employed as an instrument to stoke entrepreneurship than as an effort to address the specific business development challenges faced by entrepreneurs. Further, weak state capacity may inhibit the effective delivery of training programs at scale.
+
+A rich and rapidly growing body of research, based on rigorous self-reported surveys of the management practices of SMEs, denotes that enhancing management practices is key to realizing high productivity improvements.91 Nicholas Bloom, Raffaella Sadun, and John Van Reenen, who lead the World Management Survey, state that “an important explanation for the substantial differences in productivity among firms and countries are variations in management practices.”92 They rated companies on their performance of eighteen practices in four areas: operations management (the flow of information across and within functions), performance monitoring, target setting, and talent management. Their research from across different countries shows that productivity can be improved by 25–35 percent by merely introducing simple management practices, including monitoring, setting targets, personnel incentives, and inventory management.93
+
+In fact, they examined management practices from over 11,000 firms in thirty-four countries and found that “differences in management practices account for about 30% of cross-country total factor productivity differences” with the United States (see Figure 6).94 They also found that firms facing greater competition were more likely to have higher management scores.
+
+They also found that:
+
+First, achieving operational excellence is still a massive challenge for many organizations. Even well-informed and well-structured companies often struggle with it. This is true across countries and industries—and in spite of the fact that many of the managerial processes we studied are well known. The dispersion of management scores across firms was wide. Big differences across countries were evident, but a major fraction of the variation (approximately 60%) was actually within countries.
+
+Our second major finding was that the large, persistent gaps in basic managerial practices we documented were associated with large, persistent differences in firm performance. . . . Our data shows that better-managed firms are more profitable, grow faster, and are less likely to die. Indeed, moving a firm from the worst 10% to the best 10% of management practices is associated with a $15 million increase in profits, 25% faster annual growth, and 75% higher productivity. . . . They also attract more talented employees and foster better worker well-being. These patterns were evident in all countries and industries.95
+
+In other words, firms with superior core management practices are “more profitable, grow faster, and are less likely to die,” and these practices account for “a large fraction of performance differences across firms and countries” and are “incredibly hard to copy.” Such management capacity improvement interventions, the research states, lead to improvements in school-based learning and patient treatment outcomes in hospitals.96 On average, Indian schools and hospitals have some of the lowest management scores among their international peers. Other research shows that fostering soft, noncognitive skills—like communications and interpersonal skills—among female garment workers generates high returns for both the employee and the employer.97 Pragmatically, similar small improvements to management practices can result in extensive productivity gains across small businesses of all kinds. Thus, the question is whether affordable and commoditized management or noncognitive skills trainings can be made available to small enterprises across all sectors.
+
+Business productivity enhancement services could be expanded beyond supporting an individual firm’s specific management services to include conducting market assessment surveys, creating business development and market access strategies, preparing detailed project reports, benchmarking and assuring quality, and assisting with recruitments and procurements. Further, productivity support could come from individuals or consultants, offering guidance to geographically concentrated groups of enterprises, as well as easily customizable, smartphone-based inventory, procurement, and human resource management software. Entrepreneurs could offer these software services commercially through a freemium services model, with a subsidized basic version.
+
+Timothy J. Bartik recently conducted a study on private sector–jobs growth in 105 identified manufacturing-intensive local labor markets, with a population of over 200,000 for the 2000–2015 period in the United States.98 His study finds “no evidence that job growth in these areas is significantly spurred by cutting business taxes or increasing business tax incentives.” Instead, it finds that a significant boost to job growth comes from “customized job training programs” and “customized manufacturing extension services.”99 The latter delivered “small and medium-sized manufacturers with consulting advice on improving technology, product design, and marketing.”100 Public agencies offered these manufacturing extension services through a mix of subsidies and client fees, in cooperation with universities and the private sector.
+
+My analysis measures an area’s intensity of manufacturing extension services by the job creation or retention due to manufacturing extension, as reported in client surveys. Reported extension-induced job creation or retention is a significant predictor of an area’s overall job growth, holding constant other growth determinants.101
+
+In terms of cost-effectiveness, too, such customized business development services trump conventional industrial policy interventions, such as fiscal concessions and input subsidies (see Figure 7). If the effectiveness of business development services is demonstrated in a few places and the market for delivering such services can be catalyzed, governments may be encouraged to repurpose a small share of their industrial promotion budget away from tax concessions and subsidies and toward the provision of management support services as essential industrial public goods. Small businesses also would appreciate the contribution to business growth and profitability and purchase such services, thereby spurring their demand. By focusing on smaller enterprises, this innovation has the potential to promote inclusive growth by increasing both productivity and job creation.
+
+Additionally, to aid this objective, governments could enlist consultants and service providers and offer to bear a share of the service fees. The extent of the subsidy could vary, depending on the nature of the service and be restricted to firms younger than five years (with a higher subsidy reserved for the youngest firms), thereby aligning the incentives of the firms and their service providers. This support could also be further restricted to younger firms alone and for two to three years only. It could even be designed to recover the subsidies (once the enterprises have succeeded), either directly or as part of a tax collection scheme.
+
+Given the rich evidence of pervasive deficiencies in basic management practices and their potential impact on firm productivity, enhancement services have great potential to lead to positive multiplier and demonstration effects on neighboring firms and the local ecosystems—all of which benefit the largest job creators. The case for such support is similar to that made for the provision of public resources for school education, which is commonly accepted as a public good.
+
+In India, it may be tempting to view business productivity services and agricultural extension services similarly and thereby offer the services through public officials. However, this is unlikely to be effective, as public officials do not possess the required level of expertise and government agencies do not have the same profit motive as private providers—a motive that leads the latter to constantly upgrade their services and expertise.
+
+Business productivity enhancement services have another crucial advantage over concessions and subsidies. The latter generate fully private and often temporary benefits. In contrast, the former generate significant, spillover benefits for the entire neighborhood ecosystem. Further, the benefits are more likely to be permanent and spread among entrepreneurs, management, and employees.
+
+Let Go of the Anti-big Bias
+
+The implementation of any reform is likely to remain suboptimal without a paradigm shift in the way the Indian state views and engages with the private sector. Instead of taking an adversarial and regulatory-oriented approach, it needs to highlight partnership and facilitation. The anti-big bias reflected in the government and public policy is a problem that has yet to be tackled effectively.
+
+The Economic Survey of India 2012–2013 contains a rigorous discussion on India’s demographic dividend and how it could be harnessed to benefit the country.102 However, this will only be feasible if youth have the right education and skills and are either entrepreneurial or earn their living through formal employment. Though jobs are typically created as firms grow in size, the productivity of thirty-five-year-old firms in India have merely doubled, while their headcounts have fallen by a fourth103 Since this is neither normal nor healthy, economists and policymakers have attempted to examine the causes of these issues. They have found that labor laws, rules and regulations, and the cost of hiring and maintaining permanent workers in every sector matter and often encourage or condemn firms to remain small in size (see Figure 8).
+
+The survey notes,
+
+Schemes and interventions based on tightly defined classifications create an incentive structure that might prevent firms from growing. Service tax exemptions for firms with less than Rs 10 lakh [1 million rupees] revenue and exemption from central excise duty for firms with an annual turnover of less than Rs 1.5 crore [15 million rupees] are examples of these schemes.104
+
+In 2017, the newly constituted National Institution for Transforming India Aayog, a government-established policy think tank, developed this theme in its latest enterprise survey on the ease of doing business in India.105 The survey found that firms with 100 or more employees took significantly longer to get necessary approvals, confronted more regulatory obstacles, and faced higher compliance costs than smaller firms. For firms employing more than ten people, tax regulations and environmental clearances were bigger obstacles, which made it harder for them to grow in size.
+
+India’s smaller factory sizes are also a big deterrent, particularly in fulfilling export orders. A typical textile factory in India employs 150 people, whereas a factory in Bangladesh has 600 people. In 2017, the Textile Commissioner of India stated that India’s textile industry would grow from its current size of $150 billion to $250 billion (about 10.5 trillion to 17.5 trillion rupees) in two years.106 It is pertinent to note here that only two textile firms, Alok Industries and Arvind, are large in size, as the former had a turnover of a little under $2 billion (140 billion rupees) and the latter had a turnover of around $800 million (56 billion rupees) in the 2015–2016 financial year.107 This is in stark contrast to the IT industry, where billion dollar firms are numerous.
+
+Further, the “big is bad” claim is often not based on evidence. For example, an entrepreneur who runs an apparel sourcing company tellingly noted that, in China, “the volumes are so high they [the policymakers and politicians] do not start out thinking you are a crook. Here, it is exactly the opposite. You can price yourself out or you can time yourself out.”108 The anti-big mindset, which is not only prevalent among politicians and senior policymakers but also among the lower-level officials of the bureaucracy, is one of the biggest causal factors behind a vast proportion of enterprises remaining pygmies in India. This turns the operating environment for businesses in India into a minefield.
+
+A 2013 Export-Import Bank of India report, which analyzed labor laws and rules in select countries in Asia, observed that “at a macro level, the degree of intent of labour protection is similar in most countries and not very different from that of India. However, the distinguishing feature is that the administrative processes framed under Indian labour statutes are complicated, hindering flexibility in [the] labour market.”109 Unfortunately, this problem is not confined to administrative processes related to labor statutes alone. Gursharan Bhue, Nagpurnanand Prabhala, and Prasanna Tantri point out that firms are willing to forgo growth in order to retain their access to finances.110 That is, when certain easier financing access is provided to firms below a certain threshold (say, SME firms), they prefer to forgo growth opportunities that would allow them to cross this threshold: “firms that near the threshold for qualification slow down their investments in plant and machinery, other capital expenditure” and experience slower growth in manufacturing activity and output.111 The authors also point out that when banks are put under pressure to lend to micro, small, and medium enterprises, they fear the fallout of not meeting those lending targets and consequently encourage their borrowers to stay small.
+
+As a potential solution to these issues, Bhue, Prabhala, and Tantri also suggest removing the conditions that make directed lending to small enterprises necessary. That is, if informational, administrative, and monitoring costs are lowered, banks might be willing to lend to small enterprises and not feel pressured to prevent their growth. However, another potential solution may be to slowly phase these firms out of this financing system so that they do not conspire to remain small and forgo opportunities to grow.
+
+Conclusion
+
+International evidence and the current state of affairs in India with regard to the size of commercial businesses (average number of employees) suggest that government policies on MSMEs must become more nuanced. These policies must take into account the central role that new and smaller enterprises, established by educated entrepreneurs, play in productive job creation.
+
+Accordingly, this paper proposes a new narrative on entrepreneurship. Informal micro enterprises, and single-person enterprises run by those lacking in formal education, should be termed as subsistence enterprises. The government would then be obligated to support them with basic public goods, including education, and a robust social safety net. Educating the next generation is critical to breaking the iron grip of poverty and pulling single-person enterprises out of survival mode. However, support for these subsistence enterprises should be provided under anti-poverty measures and not under economic development (much less under productive job-creating measures).
+
+However, this should not be taken to imply that governments should be directly engaged with creating entrepreneurs. As we have seen earlier, there is little evidence globally that this is a worthwhile endeavor. Instead of directly attempting to create entrepreneurs (for example, through entrepreneurship development programs), the government should focus its policies on creating the enabling conditions for business entry and growth.
+
+To create these conditions and generate employment and economic development, policy interventions have to change. In general, the government’s perception of entrepreneurship as a viable and sustainable solution to the lack of employment is well founded. International evidence is supportive of this—start-ups and young firms create more jobs, regardless of their size, and educated entrepreneurs have a far higher probability of success in starting and growing formal businesses. Therefore, public policy to support entrepreneurship and MSMEs should target these entrepreneurs. However, any government support should be made contingent on the enterprise’s progress in creating jobs and productive growth, thereby encouraging more dynamic entrepreneurship.
+
+India’s job creation strategy should focus on three efforts. First, it should promote the creation of formal businesses by easing the barriers to business incorporation. Second, it should support new businesses during their initial, vulnerable years with policies that help them find their feet and expand. Third, it should include reviewing and modifying policy measures that may impede small and medium businesses from scaling up.
+
+Numerous surveys have shown that Indian businesses struggle with restrictive regulations, limited access to formal credit, and high tax rates—problems that are amplified for start-ups. Policy measures that would simplify business incorporation processes, create an automated workflow for permissions and licenses, and reduce onerous compliance and reporting requirements to improve the ease of doing business would go a long way toward addressing these problems and promoting dynamic entrepreneurship.
+
+To increase access to credit, programs like MUDRA should be channeled toward supporting job-creating and productive entrepreneurship. Ongoing initiatives—such as Aadhaar, India Stack, cheap mobile connectivity, the GST, and the rise of e-commerce aggregators—could help to reliably assess credit worthiness and therefore remove one of the biggest constraints to SME lending. These developments also open up opportunities, such as supply-chain and receivables financing, for fintech lenders and new businesses.
+
+To enhance the productivity of businesses and promote growth, the government should subsidize the provision of management support services, labeled as industrial public goods, to start-ups and young businesses. Moreover, as education plays a big role in the growth of start-up enterprises and their contribution to employment generation, institutions of higher learning should prepare students to be entrepreneurs in the same way that they equip them with functional, marketable skills.
+
+The government should also periodically update the definitions of MSMEs to bring them closer to international standards. This will help ensure that businesses are not prematurely labeled as large and can continue to take advantage of policy and financial support from the government.
+
+Finally, India’s tax administration remains one of the most persistent obstacles to forming and growing enterprises. Often corrupt and usurious, the tax administration’s approach to these enterprises undermines many of the government’s policy initiatives for their growth. In fact, internalizing the most important principle of public policy—if you cannot help, at least do not hurt—is the first thing the government can do to support entrepreneurs. It is a lot easier for governments to impede economic activity than to foster it. Just avoiding doing the wrong thing will obviate the need for the government to support the economy actively. In other words, getting out of the way may be the most important policy intervention that any government could make in India. However, seventy years after India’s independence, this remains as difficult for governments as it is important for India’s economic growth and employment generation.
+
+About the Author
+
+Venkatraman Anantha Nageswaran (“VAN”) is currently the dean of the IFMR Graduate School of Business (Krea University). He previously worked as the head of research for Asia and chief investment officer at the Bank Julius Baer & Co. Ltd. in Singapore, and prior to these positions, he worked for the Union Bank of Switzerland (now UBS) and Credit Suisse in Switzerland. He writes a weekly column for Livemint, an Indian financial daily, and maintains a blog, The Gold Standard. He holds a master’s degree in management from the Indian Institute of Management, Ahmedabad, and a doctoral degree in finance from the University of Massachusetts. VAN is the co-author of Economics of Derivatives (Cambridge University Press, 2015) and Derivatives (Cambridge University Press, 2017).
+
+Gulzar Natarajan joined the Indian Administrative Service in 1999 and is currently senior managing director at the Global Innovation Fund. He has previously held the positions of director in the Office of the Prime Minister of India, city municipal commissioner, chairman and managing director of an electricity distribution company, head of the district government of Hyderabad District, and vice chairman and managing director of the Infrastructure Corporation of Andhra Pradesh. He maintains a blog, Urbanomics, and is a frequent contributor to leading Indian newspapers. He holds a bachelor’s degree in engineering from the Indian Institute of Technology, Madras, Chennai, and a master’s degree in international development from Harvard Kennedy School. Nageswaran and Natarajan are co-authors of “Can India Grow?” (Carnegie Endowment for International Peace India, 2016) and The Rise of Finance: Causes, Consequences and Cures (Cambridge University Press, 2019).
+
+Notes
+
+1 Office of the Registrar General & Census Commissioner, “2011 Census Data,” Government of India, http://censusindia.gov.in/2011-Common/CensusData2011.html.
+
+2 Editorial Board, “India’s Youth Challenge,” New York Times, April 17, 2014, https://www.nytimes.com/2014/04/18/opinion/indias-youth-challenge.html.
+
+3 Sai Manish, “Catch Them Young: Modi Eyeing 133 Million First-time Voters for 2019 Polls,” Business Standard, September 26, 2018, https://www.business-standard.com/article/politics/catch-them-young-modi-eyeing-133-mn-first-time-voters-for-2019-polls-117081700589_1.html.
+
+4 Rakesh Ranjan, “BJP Eyes 1.8 Crore First-time Voters for 2019,” India Today, April 22, 2018, https://www.indiatoday.in/mail-today/story/bjp-eyes-1-8-crore-first-time-voters-for-2019-elections-1217412-2018-04-22; and Nidhi Sharma, “Congress Eyes First-time Voters for 2019 Polls,” Economic Times, August 10, 2018, https://economictimes.indiatimes.com/news/politics-and-nation/congress-eyes-first-time-voters-for-2019-polls/articleshow/65346822.cms.
+
+5 Vrishti Beniwal and Bibhudatta Pradhan, “India’s GenZ Voters Have a Simple Message for Politicians,” Livemint, September 19, 2018, https://www.livemint.com/Politics/Z93FfTMlRhgdW9RFz8qyLN/2019-Lok-Sabha-elections-What-Indias-Gen-Z-wantsjobs.html.
+
+6 Ministry of Skill Development and Entrepreneurship, National Policy for Skill Development and Entrepreneurship 2015 (New Delhi: Ministry of Skill Development and Entrepreneurship, 2015), https://www.msde.gov.in/assets/images/Skill%20India/policy%20booklet-%20Final.pdf.
+
+7 Chang-Tai Hsieh and Peter J. Klenow, “The Life Cycle of Plants in India and Mexico,” Quarterly Journal of Economics 129, 3 (2014): 1,035–1,084, http://klenow.com/HsiehKlenow_LifeCycle.pdf.
+
+8 Anne O. Krueger, “The Missing Middle,” Stanford King Center on Global Development, Working Paper no. 343, May 2007, http://scid.stanford.edu/publications/missing-middle; and “Finance and the Missing Middle,” Entrepreneurial Finance Lab, Center for International Development, Harvard University, 2008, https://sites.hks.harvard.edu/cid/efl/finance.html.
+
+9 John Haltiwanger, Ron S. Jarmin, and Javier Miranda, “Who Creates Jobs? Small Versus Large Versus Young,” Review of Economics and Statistics XCV, 2 (2013): 347–361, http://www.mitpressjournals.org/doi/pdf/10.1162/REST_a_00288.
+
+10 Richard Florida, “The Problem With Promoting Startups,” City Lab, June 6, 2017, https://www.citylab.com/life/2017/06/another-economic-development-incentive-that-doesnt-work/527010/.
+
+11 Jonathan O’Connell, “Amazon Receives 238 Proposals for Second Headquarters,” Washington Post, October 23, 2017, https://www.washingtonpost.com/news/business/wp/2017/10/23/amazon-receives-238-proposals-for-second-headquarters/.
+
+12 Sanjay Jog, “Maharashtra Showers Tax Goodies on Foxconn,” Business Standard, October 31, 2015, https://www.business-standard.com/article/economy-policy/maharashtra-showers-tax-goodies-on-foxconn-115103100035_1.html.
+
+13 Rafael La Porta and Andrei Shleifer, “The Unofficial Economy and Economic Development,” Brookings Papers on Economic Activity, Fall 2008, https://www.brookings.edu/wp-content/uploads/2008/09/2008b_bpea_laporta.pdf.
+
+14 OECD, Entrepreneurship at a Glance, 2017 (Paris: OECD Publishing, 2017), 38, https://www.oecd-ilibrary.org/sites/entrepreneur_aag-2017-5-en/index.html?itemId=/content/component/entrepreneur_aag-2017-5-en.
+
+15 Ibid.
+
+16 “The SME Banking Knowledge Guide,” International Finance Corporation, 2010, https://www.ifc.org/wps/wcm/connect/c6298e7b-9a16-4925-b6c0-81ea8d2ada28/SMEE.pdf?MOD=AJPERES&CVID=jkCVrZU.
+
+17 The classification of MSMEs based on capital investment in India is dictated by administrative considerations. Given pervasive informality in labor hiring, capital investment is a more practical eligibility criterion, based on which industrial policy incentives can be provided. See more in “What Is the Definition of MSME?,” FAQs (workers), Ministry of MSME, Government of India, November 25, 2017, https://msme.gov.in/faqs/q1-what-definition-msme.
+
+18 To provide an accurate representation of entrepreneurial activities, this list excludes people employed in crop production, plantation farming, public administration, defense, and compulsory social security services.
+
+19 Ministry of Statistics and Program Implementation, “Chapter II: Results at a Glance,” in Sixth Economic Census of India, March 31, 2016, http://www.mospi.gov.in/sites/default/files/economic-census/sixth_economic_census/all_india/7_ChapterII_6ecRep.pdf.
+
+20 Ibid.
+
+21 Ministry of Statistics and Program Implementation, Annual Survey of Industries 2015–2016, http://mospi.nic.in/annual-survey-industries.
+
+22 Ministry of Statistics and Program Implementation, “Chapter VII: Comparison of Results of Economic Censuses, 2005 and 2013,” Sixth Economic Census of India, http://www.mospi.gov.in/sites/default/files/economic-census/sixth_economic_census/all_india/12_ChapterVII_6ecRep.pdf.
+
+23 “Credit Disrupted—Digital MSME lending in India,” Boston Consulting Group and Omidyar Network, November 20, 2018, https://www.omidyar.com/insights/credit-disrupted.
+
+24 OECD, Entrepreneurship at a Glance, 2017 (Paris: OECD Publishing, 2017), 42, https://www.oecd-ilibrary.org/docserver/entrepreneur_aag-2017-6-en.pdf?expires=1536691444&id=id&accname=guest&checksum=D9ECEF4D0E86714A8C23DC44F8740AA8.
+
+25 John Schmitt, “Small Business Bust,” No Apparent Motive (blog), September 9, 2011, http://noapparentmotive.org/blog/2011/09/09/small-business-bust/.
+
+26 “Business Dynamics Statistics, Data for 2016,” October 2018 release, http://www2.census.gov/ces/bds/2016/firm/bds_f_sz_release.xlsx.
+
+27 Ibid.
+
+28 OECD, Entrepreneurship at a Glance, 2017 (Paris: OECD Publishing, 2017), 44, https://www.oecd-ilibrary.org/docserver/entrepreneur_aag-2017-6-en.pdf?expires=1536691444&id=id&accname=guest&checksum=D9ECEF4D0E86714A8C23DC44F8740AA8.
+
+29 Chang-Tai Hsieh and Benjamin A. Olken, “The Missing ‘Missing Middle,’” Journal of Economic Perspectives 28, 3 (2014): 89–108, Figure 7, https://faculty.chicagobooth.edu/chang-tai.hsieh/research/missingmiddle.pdf.
+
+30 “IFC Jobs Study: Assessing Private Sector Contributions to Job Creation and Poverty Reduction,” World Bank Working Paper no. 83508, January 2013, http://documents.worldbank.org/curated/en/157191468326714061/IFC-jobs-study-assessing-private-sector-contributions-to-job-creation-and-poverty-reduction.
+
+31 V. Anantha Nageswaran and Gulzar Natarajan, “India’s Post-Demonetization Policy Agenda,” Carnegie Endowment for International Peace, September 25, 2017, http://carnegieindia.org/2017/09/25/india-s-post-demonetization-policy-agenda-pub-73213.
+
+32 Rafael La Porta and Andrei Shleifer, “Unofficial Economy and Economic Development,” 275.
+
+33 Rafael La Porta and Andrei Shleifer, “Informality,” February 2014, http://faculty.tuck.dartmouth.edu/images/uploads/faculty/rafael-laporta/Informality_for_Paul.pdf, 15.
+
+34 Ejaz Ghani, Stephen D. O’Connell, and Gunjan Sharma, “Friend or Foe or Family? A Tale of Formal and Informal Plants in India,” World Bank Working Paper no. 6588, September 2013, http://documents.worldbank.org/curated/en/505411468050987095/pdf/WPS6588.pdf, abstract.
+
+35 Tim Kane, “The Importance of Startups in Job Creation and Job Destruction,” Kauffman Foundation Research Series: Firm Formation and Economic Growth, July 2010, http://www.kauffman.org/what-we-do/research/firm-formation-and-growth-series/the-importance-of-startups-in-job-creation-and-job-destruction.
+
+36 Jason Wiens and Chris Jackson, “The Importance of Young Firms for Economic Growth,” Kauffman Foundation Entrepreneurship Policy Digest, September 14, 2015, http://www.kauffman.org/what-we-do/resources/entrepreneurship-policy-digest/the-importance-of-young-firms-for-economic-growth.
+
+37 OECD, Entrepreneurship at a Glance, 2016 (Paris: OECD Publishing, 2016), https://www.oecd-ilibrary.org/docserver/entrepreneur_aag-2016-en.pdf?expires=1567273756&id=id&accname=guest&checksum=9E990F33F4E39EBE827B40456FB10B01.
+
+38 John Haltiwanger, Ron Jarmin, and Javier Miranda, “Who Creates Jobs? Small vs. Large vs. Young,” August 2011, http://econweb.umd.edu/~haltiwan/size_age_paper_R&R_Aug_16_2011.pdf, 28.
+
+39 Ejaz Ghani, William R. Kerr, and Stephen D. O’Connell, “Who Creates Jobs?,” World Bank, Economic Premise 70, November 2011, http://siteresources.worldbank.org/INTPREMNET/Resources/EP70.pdf.
+
+40 Nikita Kwatra and Pramit Bhattacharya, "What Company Reports Tell Us About Job Creation," Livemint, November 20, 2018, https://www.livemint.com/Companies/X3OzjXH9d9gLoMC6vyIyoL/Whatcompanyreports-tell-us-about-job-creation.html.
+
+41 Nicola Gennaioli, Rafael La Porta, Florencio Lopez-de-Silanes, and Andrei Shleifer, “Human Capital and Regional Development,” Quarterly Journal of Economics 128, 1 (2013): 105–164, https://scholar.harvard.edu/files/shleifer/files/human_capital_qje_final.pdf.
+
+42 Ibid.
+
+43 Rafael La Porta and Andrei Shleifer, “Unofficial Economy and Economic Development.”
+
+44 Rafael La Porta and Andrei Shleifer, “Informality and Development,” Journal of Economic Perspectives 28, 3 (2014): 126, http://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.28.3.109.
+
+45 Ibid.
+
+46 Charan Singh and Kishinchand Poornima Wasdani, “Finance for Micro, Small, and Medium-Sized Enterprises in India: Sources and Challenges,” ADBI Working Paper no. 581, July 2016, https://www.adb.org/sites/default/files/publication/188868/adbi-wp581.pdf.
+
+47 Chang-Tai Hsieh and Peter Klenow, “The Life Cycle of Plants in India and Mexico.”
+
+48 Ibid.
+
+49 Edward L. Glaeser and William R. Kerr, “The Secret to Job Growth, Think Small,” Harvard Business Review, July–August 2010, https://hbr.org/2010/07/the-secret-to-job-growth-think-small.
+
+50 Ejaz Ghani, William Kerr, and Stephen D O’Connell, “Who Creates Jobs?.”
+
+51 Antoinette Schoar, “The Divide Between Subsistence and Transformational Entrepreneurship,” Innovation Policy and the Economy 10, 1 (2010): 57–81, https://www.jstor.org/stable/10.1086/605853?seq=1#page_scan_tab_contents.
+
+52 Ejaz Ghani, William Kerr, and Stephen D O’Connell, “Who Creates Jobs?.”
+
+53 Ejaz Ghani, “Entrepreneurship and Jobs: Think Small,” Livemint, June 12, 2017, http://www.livemint.com/Opinion/lDXrNvqsm7ZQfhgpxTRN2H/Entrepreneurship-and-jobs-think-small.html.
+
+54 Edward L. Glaeser, “Entrepreneurship and the City,” Kauffman Foundation, October 17, 2007, https://scholar.harvard.edu/files/glaeser/files/entrepreneurship_and_the_city.pdf.
+
+55 Edward L. Glaeser and Wentao Xiong, “Urban Productivity in the Developing World,” National Bureau of Economic Research Working Paper no. 23279, March 2017, http://www.nber.org/papers/w23279.
+
+56 Edward L. Glaeser, “Entrepreneurship and the City.”
+
+57 See, for example, ASER Center, “Annual State of Education Report (Rural) 2018 Provisional,” January 15, 2019, http://img.asercentre.org/docs/ASER%202018/Release%20Material/aserreport2018.pdf.
+
+58 See, for example, Aspiring Minds, “National Employability Report for Engineers,” 2019, https://www.aspiringminds.com/national-employability-report-2019.
+
+59 World Bank, Doing Business 2016, 13th Edition, https://www.doingbusiness.org/content/dam/doingBusiness/media/Annual-Reports/English/DB16-Full-Report.pdf; and World Bank, Doing Business 2019, 16th Edition, https://www.doingbusiness.org/content/dam/doingBusiness/media/Annual-Reports/English/DB2019-report_web-version.pdf.
+
+60 Department of Commerce, Ministry of Commerce & Industry, Government of India, “LEADS: Logistics Ease Across Different States,” January 2018, http://commerce.gov.in/writereaddata/uploadedfile/MOC_636586311864158092_Deloitte%20-LEADS%20-Logistics-Ease_Across_Different_States_Report_Jan_2018.pdf.
+
+61 Infrastructure sector loans have lower regulatory risk weights in banks’ portfolios, thereby allowing them to provide these loans at lower rates.
+
+62 Department of Commerce, Ministry of Commerce & Industry, Government of India, “LEADS: Logistics Ease Across Different States.”
+
+63 Asit Ranjan Mishra, “India Seeks to Develop ‘Amazon of Logistics Services,’” Livemint, August 24, 2018, https://www.livemint.com/Politics/kcge0f1TMNjIJb76YdfEjK/India-seeks-to-develop-Amazon-of-logistics-services-test.html.
+
+64 V. Anantha Nageswaran and Gulzar Natarajan, “Can India Grow?,” Carnegie Endowment for International Peace India, 2016, https://carnegieendowment.org/files/CEIP_CanIndiaGrow_Final_.pdf.
+
+65 Ryoji Kashiwagi, “Regulatory Sandboxes Are Going Live,” Nomura Research Institute, February 2017, http://52.194.164.41/en/publication/kinyu_itf/backnumber/2017/02/201702_1en.html.
+
+66 “Report of the Household Finance Committee,” Reserve Bank of India, August 24, 2017, https://www.rbi.org.in/Scripts/PublicationReportDetails.aspx?UrlPage=&ID=877#CH45.
+
+67 Stewart C. Myers and Nicholas S. Majluf, “Corporate Financing and Investment Decisions When Firms Have Information That Investors Do Not Have,” Journal of Financial Economics 13, 2 (1984): 187–221, https://www.sciencedirect.com/science/article/pii/0304405X84900230?via%3Dihub; and Joseph Stiglitz and Andrew Weiss, “Credit Rationing in Markets With Imperfect Information,” American Economic Review 71, 3 (1981): 393–410, https://www.jstor.org/stable/1802787?seq=1#page_scan_tab_contents.
+
+68 Tamal Bandyopadhyay, “Bravo FM, but It’s Only Half the Job Done,” Business Standard, September 8, 2019, https://www.business-standard.com/article/opinion/bravo-fm-but-it-s-only-half-the-job-done-119090800832_1.html.
+
+69 Nicholas Bloom, Raffaella Sadun, and John Van Reenen, “Management as a Technology,” Harvard Business School Working Paper no. 16-133, October 8, 2017, https://www.hbs.edu/faculty/Publication%20Files/16-133_64fd57c1-5f76-415a-9567-f1c0d310aff3.pdf.
+
+70 Charan Singh and Kishinchand Poornima Wasdani, “Finance for Micro, Small, and Medium-Sized Enterprises in India: Sources and Challenges.”
+
+71 “Credit Disrupted—Digital MSME lending in India,” Boston Consulting Group and Omidyar Network.
+
+72Ibid.
+
+73 Department of Payment and Settlement Systems, “Trade Receivables and Credit Exchange for Financing of Micro, Small and Medium Enterprises,” Concept Paper, Reserve Bank of India, https://www.rbi.org.in/scripts/bs_viewcontent.aspx?Id=2804; and “Guidelines for the Trade Receivables Discounting System (TReDS),” July 2, 2018, Reserve Bank of India, https://m.rbi.org.in/Scripts/bs_viewcontent.aspx?Id=3504.
+
+74 See “Modi’s Diwali Gift to MSME Sector: Here’s Full List of 12 Decisions Announced for Small Businesses,” Financial Express, November 3, 2018, https://www.financialexpress.com/economy/modis-diwali-gift-to-msme-sector-heres-full-list-of-12-decisions-announced-for-small-businesses/1370700/.
+
+75 In announcing a package of economic stimulus measures on August 23, 2019, the Indian finance minister has almost fully withdrawn the angel tax. But, unfortunately, it remains unclear if tax authorities will stop pursuing the collection of the tax.
+
+76 “Misplaced Enthusiasm,” Business Standard, November 25, 2018, https://www.business-standard.com/article/opinion/misplaced-enthusiasm-118112500729_1.html.
+
+77 G. Naga Sridhar, “PM Jan Dhan Yojana Accounts See Record 24% Rise in Average Balance,” Hindu BusinessLine, February 19, 2019, https://www.thehindubusinessline.com/money-and-banking/pm-jan-dhan-yojana-accounts-see-record-24-rise-in-average-balance/article26313715.ece.
+
+78 Sachin Dave, “GST on Banks’ ‘Free Services’ May Be Passed On to Customers,” Economic Times, November 30, 2018, https://economictimes.indiatimes.com/news/economy/policy/gst-on-banks-free-services-may-be-passed-on-to-customers/articleshow/66874492.cms; and “Annual Fee: Banks Face Rs 18,000 Crore Levy,” Times of India, July 22, 2019, https://timesofindia.indiatimes.com/business/india-business/annual-fee-banks-face-rs-18000-cr-levy/articleshow/70322463.cms.
+
+79 ClearTax, “Startup India: Eligibility, Tax Exemptions and Incentives,” https://cleartax.in/s/startup-india-tax-exemptions-eligibility, accessed November 29, 2018.
+
+80 World Bank, “Ease of Doing Business in India,” 2019, http://www.doingbusiness.org/en/data/exploreeconomies/india#DB_tax.
+
+81 World Bank, Doing Business 2018, 15th Edition, http://www.doingbusiness.org/en/reports/global-reports/doing-business-2018.
+
+82 PwC, “Paying Taxes 2019,” World Bank, November 2018, https://www.pwc.com/gx/en/paying-taxes/pdf/pwc-paying-taxes-2019.pdf.
+
+83 Congressional Budget Office, “International Comparisons of Corporate Income Tax Rates,” Congress of the United States, March 2017, https://www.cbo.gov/sites/default/files/115th-congress-2017-2018/reports/52419-internationaltaxratecomp.pdf.
+
+84 World Bank, Doing Business 2019; and World Bank, Doing Business 2018.
+
+85 World Bank, “Ease of Doing Business: Paying Taxes,” http://www.doingbusiness.org/data/exploretopics/paying-taxes/what-measured, accessed July 10, 2017.
+
+86 Manish Sabharwal, “Jobs vs. Wages,” Indian Express, November 21, 2016,
+
+http://indianexpress.com/article/opinion/columns/demonetisation-policy-black-money-job-creation-unemployment-4386319/.
+
+87 Richard Anker and Martha Anker, Living Wages Around the World: Manual for Measurement (Gloucestershire, England, and Northhampton, MA: Edward Elgar Publishing, 2017), https://www.elgaronline.com/view/9781786431455/chapter14.xhtml?result=6&rskey=5hIe6l.
+
+88 Arun Jaitley, “Budget 2016–2017,” speech by the minister of finance, February 29, 2016, paragraphs 67 and 68, https://www.indiabudget.gov.in/budget2016-2017/ub2016-17/bs/bs.pdf.
+
+89 Arun Jaitley, “Budget 2018–2019,” speech by the minister

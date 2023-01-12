@@ -1,0 +1,37 @@
+Android WARNING: These Google Play Store apps steal YOUR pictures, are you affected?
+
+Easy way to uninstall malware from Android device
+
+FREE for the biggest new releases, reviews and tech hacks SUBSCRIBE Invalid email Sign up forfor the biggest new releases, reviews and tech hacks We use your sign-up to provide content in ways you've consented to and to improve our understanding of you. This may include adverts from us and 3rd parties based on our understanding. You can unsubscribe at any time. More info
+
+Android users are being warned about a sinister secret a number of Google Play Store apps have been hiding. Android is one of the most popular pieces of software in the world, with billions of active users each and every month. And the huge Android userbase are no strangers to getting security alerts, with arguably the most high-profile recent threat the Judy malware campaign. Experts feared this threat left more than 36million Android devices infected by 41 apps found on the Google Play Store.
+
+And now Android fans are being warned about another threat spread via apps that were housed on the Google Play Store. Security experts Trend Micro have put out a warning about dozens of Android apps that were found on the Google Play Store. These nefarious Android apps posed as ‘beauty camera’ programmes, but held a much more sinister motive. The malicious apps pushed adverts onto infected devices with fraudulent and pornographic content as well as redirecting users to phishing websites.
+
+Android users are being put on alert about Google Play Store apps that have a sinister secret
+
+Android is one of the most used pieces of software in the world
+
+These apps were downloaded millions of times, and some of them even collected selfies taken on infected devices which sent to servers elsewhere. In a post online, Lorin Wu - Trend Micro’s mobile threats analyst - said: “We discovered several beauty camera apps (detected as AndroidOS_BadCamera.HRX) on Google Play that are capable of accessing remote ad configuration servers that can be used for malicious purposes. “Some of these have already been downloaded millions of times, which is unsurprising given the popularity of these kinds of apps.”
+
+Wu added: “Further investigation led to another batch of photo filter-related apps that share similar behaviour on Google Play. “These apps seemingly allows users to ‘beautify’ their pictures by uploading them to the designated server. “However, instead of getting a final result with the edited photo, the user gets a picture with a fake update prompt in nine different languages. “The authors can collect the photos uploaded in the app, and possibly use them for malicious purposes — for example as fake profile pics in social media.”
+
+Android is used by billions of people each month
+
+Android users are being warned about dozens of apps found on the Google Play Store
+
+These apps found on the Google Play Store also evaded users trying to uninstall them by hiding from the application list after getting installed. Trend Micro said a large number of the installs for these malicious apps originated in Asia - particularly in India. The apps have now been removed from the Google Play Store. If you’re wondering whether you have any of these malicious apps on your phone, head to this post from Trend Micro to find a full list of the nefarious apps.
+
+Malware from Google Play apps found in Android phones
+
+Advising Android users on how they can avoid falling for such traps, Wu said: “Given that many of these malicious apps take great pains to look as legitimate as possible, users should always investigate the legitimacy of an app. “One good method of doing this is by checking reviews from other users. “If the reviews mention any kind of suspicious behaviour, then it might be a good idea to refrain from downloading the app.”
+
+Android users are being warned about malicious beauty apps that were on the Google Play Store
+
+Android users have been warned the apps had a number of secret sinister functions
+
+The news comes after Express.co.uk recently reported on a sneaky strain of malware found on other Google Play Store apps. Security experts once again at Trend Micro discovered the malware strain which has a devious way of avoiding detection. The Anubis malware was loaded onto two Google Play Store apps that were downloaded thousands of times. These apps were labelled as helpful tools on the Google Play Store, with the programmes named Currency Converter and BatterySaverMobi.
+
+Android fans need to be aware of the latest malware threat
+
+Android fans have received a number of high profile security alerts

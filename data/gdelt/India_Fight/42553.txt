@@ -1,0 +1,35 @@
+More banks will soon enter the platform business: Rajashekara Maiya
+
+Banks in more than 100 countries rely on Infosys’ flagship product Finacle, an industry-leading digital banking solution suite, to service more than a billion consumers and 1.3 billion accounts. BusinessLine spoke to Rajashekara V Maiya, Vice-President and Global Head, Business Consulting, Infosys Finacle, to get a sense of the technological shifts in the banking industry and how Finacle is riding the change. Excerpts :
+
+How has the Finacle journey been so far?
+
+Today, we have 200 global clients across 100 countries in six continents that serve more than a billion customers. Around 16.5 per cent of the global banks transact on Finacle platforms, which is a big number. Apart from this, it is the most-awarded and recognised solution from industry-leading analysts. The solution set consists of digital business engines such as back-end processing services, including payments and ledgers. On top of this, we have the Finacle digital engagement hub that provides APIs to banks to adhere to open-banking initiatives across the globe.
+
+Could you give me a sense of the technological shifts in the banking industry? How is Finacle driving digital transformation in financial institutions around the world?
+
+Competition does not come from banks, but non-banking entrants from the telecommunications, retail, and insurance background. Growth avenues are opening up for banks, which are not the traditional routes – there are quite a few new and innovative products coming into the picture.
+
+One such product is the digital payments, which is changing the landscape of banking globally.
+
+What are the global changes in digital payments?
+
+Many more countries are announcing regulations to standardise and re-regulate the whole system, which is applicable in the India context. This will lead to a more advanced payments system globally. A fixated value for, high value and low-volume transactions are paving the way for low value, high-volume transactions; more than 2.2 billion transactions are driven through UPI. The PSD2 in the EU, UK, Australia, Hong Kong, and Africa all are coming up with new directives.
+
+We launched the digital payments solutions from Finacle in 2013. Singapore and Hong Kong have issued directives for virtual banks.
+
+Many payments services have been launched in India, such as Google Pay, Amazon Pay, which means that while purchasing goods on Amazon users can make payments directly using the app. In the India context, a majority of the transactions are being carried out by PhonePe, GooglePay, and PayTM, which is an opportunity for everyone.
+
+The third aspect is that a lot of data is generated via these transactions through payments or digital banks. There is potential to unlock that data using analytics
+
+How is the banking industry moving globally?
+
+In the next 2 to 3 years, banking will move into a platform-based business. Globally, some of the top companies are platform-based ones. Sixty per cent of the global unicorn companies, unlisted companies valued at more than a billion dollars, are platform companies. In Asia, 31 out of 36 unicorn companies are platform companies. In the Indian context, of the 9 unicorn companies, 8 are platform companies.
+
+So, there is a huge need for the industry to get into the platform business; thereby, you create a market place where you work in an ecosystem, you provide capability for people to come on to your platform and leverage it and to do business. So, we see that going forward, entities are moving into the platform business.
+
+For example, PayTM in India has a platform that provide a comprehensive space. Similarly, the app that was launched by DBS Bank in India has turned somewhat into a marketplace, which offers retailing, deals and offers for customers.
+
+Similarly, we expect more and more banks to enter the platform business. ICICI Bank launched ‘ICICI Corporate Connect’, where they onboarded almost 250 corporates onto the blockchain network, so supply chain management operations became easier.
+
+We see more and more innovative brands leveraging the platform business to improve their relevance and valuations, and the business model is going to change drastically and that is what we are seeing.

@@ -1,0 +1,73 @@
+How to address India’s unemployability problem?
+
+Neer is the Founder & CEO of United Edupreneur and an entrepreneurship evangelist who has a distinct interest in youth empowerment. He side hustles as a Success Coach, loves to interact with students and believes anyone who is equipped with right strategies and growth mindset can be successful. With a verve for writing, he also gets buzzing with Italian food, growth hacking and anthropology. Reach him at neersamtanee@gmail.com, or linkedin as "Neer Samtanee" LESS ... MORE
+
+“Education is the most powerful weapon which you can use to change the world.”– Nelson Mandela
+
+But how is one supposed to change the world if provided with outdated education?
+
+How is one supposed to even progress if not provided with the platform to change the world after taking the education?
+
+This is the state youth find themselves rather consistently. No, I’m not talking about Senegal or Syria. I’m talking about India which is not just largely unemployed but unemployable.
+
+The unemployability problem
+
+Let’s understand the difference first. Unemployability essentially means that even if there were available jobs, companies wouldn’t hire the student because he is largely substandard and lack skills worth paying for. Unemployability emerges from a wide gap between the level of student’s skills and knowledge resulting from his college education and in the level of what market demands.
+
+The distressing growing number of educated youth (age 15-29) who are “Not in Employment, Education or Training (NEET)” had increased to 115 million in 2017-18 from 70 million in 2004-5 points to growing “unemployability” depicting a significant problem with education in India.
+
+From my experience in educating students over the past 8 years I have gathered, after graduating most students from Tier 2 & Tier 3 colleges wander in metro cities learning about the market realizing the massive gap in their knowledge and market demand, taking a few short-term courses (computer & communication skills), going for some walk-in interviews and finally settle for anything they can find. This period ranges approximately from 1.5 to 2 years after college.
+
+The “National Employability Report – Engineers 2016” (NERE), by Aspiring Minds, an employment assessment organization found out that nearly 80% of the graduating engineers are unemployable. The above figures reinforce the fact that only 20 per cent of the five million students who graduate every year get employed in India according to the Associated Chambers of Commerce and Industry of India (ASSOCHAM).
+
+CP Gurnani, CEO & MD of Tech Mahindra resonates with the above findings in an interview given to TOI, “The top 10 IT companies take only 6% of the engineering graduates. What happens to the remaining 94%? If you come to Tech Mahindra, I have created a five-acre tech & learning center. For learnability, skill development and being ready for the market, the onus is now shifting onto the industry.”
+
+Reasons behind unemployability
+
+During all the razzmatazz in the post-liberalisation era while the “mass recruiters” propelled the service economy at the rate of 9% annually, AICTE approved engineering institutes grew to 10,396 in 2018 from a mere 337 in 1991.
+
+But as with every fairy tale, bubbles burst, realities change and supply becomes more than the demand.
+
+Careers started going for a toss and unemployability becomes a two-fold problem in India:
+
+1. Student Mindset: Many are living a myth: getting into a college is the door to a great career.
+
+They fail to seek meaningful advice from the right stakeholders and not just with peers who still believe in the myth of “engineering royalty”.
+
+Only 3.84 per cent of engineers in the country have the technical, cognitive and linguistic skills required for software-related jobs in startups. A recent study by the University of Exeter in the UK listed skills like communication, problem-solving, being self-motivated, organizational, team spirit, adaptability, negotiation as inevitable to the hiring process. Students from Tier 2 & Tier 3 fall short in these parameters in a considerable way and rarely strive to learn these.
+
+Apart from a lack of internships, engineers also have low employability because only 36 per cent do projects beyond their curriculum.
+
+2. Outdated Curriculum and Reluctant Colleges: Student attendance writing assignments are given a priority rather than acquiring expert faculty.
+
+Colleges are not able to upgrade and keep up with the pace of advancement in the market in terms of curriculum and expert faculty. The jobs of the glorified past are becoming redundant. Though the demand for skills like artificial intelligence, machine learning, data science, digital marketing and mobile development has been shooting up, only 3 per cent of engineers have these new-age technological skills.
+
+Only 40 per cent of engineering graduates do an internship, while a mere 7 per cent of students do multiple internships and colleges play little or no part in the procurement.
+
+The subjects are taught in a very theoretical manner. Whereas 60 per cent of faculty doesn’t talk about the application of concepts in the industry, only 47 per cent of the engineers attend any industry talk.
+
+Employability vs Employment (NERE)
+
+Employable Got an Interview Opportunity Reached Final Round Employed Average Salary 19.11 % 72.64 % 51.66 % 19.91 % 3,13,000
+
+Possible solutions
+
+After the IT services and engineering institutes revolution, India saw a third revolution- Start-ups.
+
+According to a report by KPMG and Google, the Indian edtech market is pegged to touch $1.96 billion by 2021.
+
+The best possible solutions to the unemployability problem can be obtained through strategic partnerships and collaborations between Startups, Institutes and Industry.
+
+Startups have a better chance of solving these challenges simply because they have the ability to aggregate and accelerate. When all these stakeholders work as a team with a focus on employability to offer industry-oriented quality education, which can advance as quickly as the technology it can bring about a paradigm shift in mainstream education:
+
+Student Awareness: Students need to learn that one-time education (degrees) will neither guarantee them jobs nor will last through entire working career. Companies are shifting from hiring based on credentials to hiring based on a candidate’s portfolio/projects and experience.
+
+Institute collaborations EdTech startups can collaborate with institutes which provide infrastructure and accreditations keeping the business models “asset light”. Startups can either take the on-campus “Bootcamps” way (E.g. PESTO) providing 2-6 months- coding, soft skills, mock interviews, workshops, industry talks and new age technology courses along with placements in internships or the full take-over way (E.g. Sunstone Eduversity) where the responsibilities for admissions, academics (program design, curriculum, and pedagogy), and placements are presided completely by the startup.
+
+Industry collaborations Startups can diligently make industry collaborations with industry experts and stalwarts for helping prepare a better curriculum in resonance with current market scenario and bringing industry leaders as expert faculty on-board(can be a mix of online-offline lectures) which would help students understand market demands. Collaborations should focus on providing hands-on experience in terms of internships. Placing these students is easier because of trust due to industry collaborations.
+
+Certification Collaborations Institutes or startups can collaborate with other strategic partners like foreign universities and renowned private education companies using their industry-oriented curriculums and opening up new avenues like digital marketing, AI & ML, big data, cloud computing, etc.
+
+We need change. We need it now. We need it at a pace which can only be achieved through strategic collaborations. We need dozens of such startups to keep with the pace of technology advancements.
+
+Facebook Twitter Linkedin Email Disclaimer Views expressed above are the author's own.

@@ -1,0 +1,13 @@
+The Daily Fix: If Aadhaar is for welfare programmes, why are private players being allowed access?
+
+On Friday, the Lok Sabha passed a slew of amendments in the Aadhaar Act, the Telegraph Act and the Prevention of Money Laundering Act which, among other things, reintroduced the use of Aadhaar data for phone and banking services. It also allowed other private entities to perform authentications using the biometric data present in the Aadhaar system.
+
+Since the Aadhaar programme was initiated by the Union government in 2009, it was marketed as a means of fixing India’s vast system of subsidies and welfare programmes. By using biometric data from citizens – fingerprints and iris scans – the Union government said it would fix leakages, corruption and duplicate identities. The name of the bill itself – the Aadhaar (Targeted Delivery of Financial and Other Subsidies and Services) – makes this narrative apparent.
+
+Yet, it was only when this bill was introduced in Parliament in 2016 that the Indian public came to know of a system where just about any private entity could access the biometric data collected by the Union government. Allowing private players to access this information raised concerns about data privacy. To make matters murkier, the Union government misled consumers about a Supreme Court order that made Aadhaar mandatory for mobile phone users. In April 2018, the Modi government admitted there was no such order. However, private players such as PayTM as well as banks continued to insist on their customers giving them Aadhaar data.
+
+Temporary relief was provided in October 2018, when a Supreme Court judgment struck down Section 57 of the Aadhaar Act, which had made the use of Aadhaar mandatory for availing of various services.
+
+Technically, the amendments passed on Friday do not violate the October judgment. They make Aadhaar linking voluntary for private services. But given the less-than-transparent way in which goalposts for Aadhaar have been shifted – from welfare mechanism to private sector tool – there are good reasons to suspect this move. A scenario where consumers are squeezed to hand over Aadhar data is still quite possible. To make matters worse, private players are being allowed access to Aadhaar data in the absence of a data protection law, increasing chances of data misuse.
+
+To use biometric data for welfare and subsidy services is in itself a suspect decision. given its significant failure rate. But to allow this government-collected data to be used by players for private benefit defies logic.

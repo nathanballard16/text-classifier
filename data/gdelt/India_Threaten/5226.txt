@@ -1,0 +1,35 @@
+Explained: Why SC order on RBI’s controversial ‘February 12 circular’ matters
+
+Through a notification issued on February 12, 2018, when Urjit Patel was Governor, the RBI laid down a revised framework for the resolution of stressed assets, which replaced all its earlier instructions on the subject. The circular introduced a new one-day default norm — “As soon as there is a default in the borrower entity’s account with any lender, all lenders — singly or jointly — shall initiate steps to cure the default,” it said.
+
+Banks were required to immediately start working on a resolution plan for accounts over Rs 2,000 crore, which was to be finalised within 180 days. In case of non-implementation, lenders were required to file an insolvency application.
+
+The RBI said that “in view of the enactment of the Insolvency and Bankruptcy Code, 2016 (IBC)” — under which a resolution plan is supposed to be finalised within 180 days, with a grace period of 90 days — it was necessary “to substitute the existing guidelines with a harmonised and simplified generic framework for resolution of stressed assets”.
+
+What did the “Resolution of Stressed Assets — Revised Framework” replace?
+
+The circular went into effect on the same day that it was issued, and all existing schemes for stressed asset resolution were withdrawn with immediate effect. These included the Framework for Revitalising Distressed Assets, Corporate Debt Restructuring Scheme, Flexible Structuring of Existing Long Term Project Loans, Strategic Debt Restructuring Scheme (SDR), Change in Ownership outside SDR, and Scheme for Sustainable Structuring of Stressed Assets (S4A).
+
+All these schemes allowed more lenient terms of resolution than the February 12 circular, which specifically said that the resolution process must begin from day one of the default. The circular was ostensibly intended to stop the “evergreening” of bad loans — the practice of banks providing fresh loans to enable timely repayment by borrowers on existing loans. The RBI warned banks that not adhering to the timelines laid down in the circular, or attempting to evergreen stressed accounts, would attract stringent supervisory and enforcement actions. The government had earlier asked the RBI to make sector-specific relaxations in the timeline for the implementation of the circular.
+
+Click image to enlarge Click image to enlarge
+
+How did the matter reach the Supreme Court, and what did the court rule?
+
+The Supreme Court Tuesday held the February 12 circular “ultra vires as a whole” — essentially meaning the RBI had gone beyond its powers — and thus “of no effect in law”. Several companies from the power and shipping sectors had challenged the circular, arguing that the time given by the RBI was not enough to tackle bad debt. Power producers, for instance, had argued that the RBI’s ‘one-size-fits-all’ approach was impractical since the sector was having to confront external factors that were beyond its control, and which made an early revival difficult for them. These factors included the unavailability of coal and gas, and problems arising out of the failure of state governments to honour power purchase agreements.
+
+Power companies had moved Allahabad High Court against the RBI circular, which had refused to grant them interim relief last August. Shipping and sugar sector companies had approached other High Courts against the circular. The Supreme Court clubbed together all these petitions. The RBI argued that the circular had been issued in the public interest, with a view to ensure the timely resolution of stressed assets.
+
+So, what impact will Tuesday’s Supreme Court order have?
+
+The order provides immediate relief to companies that have defaulted in repayments, especially those in the power, shipping and sugar sectors. However, many financial sector experts argued that the verdict could delay the process of stressed assets resolution, which had of late picked up pace. Since banks will have the choice of devising resolution plans or going to the National Company Law Tribunal under the IBC, the urgency that the RBI’s rules had introduced in the system could be impacted.
+
+“Voiding of the February 12 circular is credit negative for Indian banks. The circular had significantly tightened stressed loan recognition and resolution for large borrowers. But with the voiding, this may now have to be watered down. The resolution of stressed loans impacted by the circular will be further delayed as the process may have to be started afresh,” Srikanth Vadlamani, vice-president, Financial Institutions Group, Moody’s Investors Service, said.
+
+The Indian Banks Association had sought a relaxation in the RBI’s norms for infrastructure and power companies. Bankers argued on Tuesday that the quashing of the RBI circular was unlikely to impact ongoing cases at NCLT. Since banks have already provisioned for likely loan losses, that process was unlikely to be reversed, a top banker with a public sector bank said.
+
+“The court order should not prima facie impact the cases in NCLT. I would imagine there could be an impact on the cases that are outside it. The provisioning requirement for banks do not change as it’s already over a year since the February 12 circular. A lot of water has flowed under the bridge. Provisioning will keep increasing for banks for the time being, with or without the February 12 circular,” the banker, who declined to be named, said.
+
+Banks will continue to have the option of referring a defaulting borrower under the IBC, in case the resolution plan fails, Anil Gupta, vice-president & sector head, Financial Sector Ratings, ICRA, said. However, the resolution process, which was expected to be expedited, may get delayed, Gupta said.
+
+ICRA estimates the total debt impacted by the circular at Rs 3.8 lakh crore across 70 large borrowers, including Rs 2 lakh crore across 34 borrowers was in the power sector. As of March 31, 2018, 92% of this debt had been classified as non-performing, and banks have made provisions of over 25-40% on these accounts, ICRA said.

@@ -1,0 +1,81 @@
+Lawyers assist in India’s ambitious new drone regulations, despite tech & first-mover problems
+
+Law firms help government formulate plan for drones to make a splash in India
+
+The Government of India has taken the second step on Tuesday in its revolutionary policies that could make the commercial usage of drones in India a reality, though teething problems have delayed implementation of the first policy so far and larger question marks remain about the best way of regulating a technology that countries the world over are still grappling with.
+
+Drones - also called unmanned aircraft systems (UAS) or unmanned aerial vehicles (UAVs) - have made dramatic headlines in December 2018 and earlier this month after at least one large drone flown by an unknown operator, forced the temporary shutdowns of London’s Heathrow and Gatwick airports, ensuing in days of air travel chaos.
+
+Furthermore, privacy concerns about the sophisticated toy helicopters peeking into neighbour’s bedrooms, and governments’ general distrust of unidentified flying objects that are not their own, have put regulators on guard globally.
+
+However, drone technology also has potential commercial applications in areas such as delivery, logistics, healthcare and surveying, and the government in its latest report projects the drone market to grow to $886m in India by 2021, while globally it would grow to $21.47bn. Zomato, for instance, has acquired a drone start-up to potentially deliver food, echoing similar experiments by Amazon and other tech companies abroad.
+
+The Indian government is perhaps getting into the drone game at just the right time, though there is no tried-and-tested approach to follow yet: no one really knows where the technology will go and what problems it could cause in future.
+
+Early version
+
+Version 1.0 of the Civil Aviation Rules - a cautious policy that became law on 1 December 2018 - required all drones flown in India weighing more than 250g (which excludes the smallest of toy drones) to be registered in the government’s so-called DigitalSky portal: if an unregistered drone is flown, its operator would risk criminal penalties under the director general of aviation wide powers.
+
+Version 1.0 was more obviously aimed at hobbyists and recreational flyers, as drones would not be allowed to fly beyond visual line of sight (dubbed B-VLOS), which was defined as a distance of 400 feet.
+
+“Most of your meaningful applications can only be conducted beyond line of sight - a drone becomes useful when you can fly it beyond the immediate vicinity,” said Ikigai Law managing partner Anirudh Rastogi, who had advised the Drones Association of India on version 1.0, which he said did not go far enough. “The technology has kind of moved to that point where B-VLOS [beyond-visual-line-of-sight] operations are very much possible in a safe manner.”
+
+In particular, he said, line-of-sight restrictions would remove the advantages of drones in most commercial applications such as delivery drones, tracking construction of infrastructure projects, or tracking wildlife conservation efforts, which would also require flying drones at night (something that is also not currently permitted).
+
+Enter 2.0
+
+Nishith Desai Associates (NDA) Bangalore-based leader Huzefa Tavawalla, who said that that he and colleagues Prashant Prakhar and Harshil Agarwal had been “spearheading the drafting” of the roadmap for the Civil Aviation Rules (CAR) 2.0 (read below), which the Indian government release this week, agreed.
+
+“One of the biggest drawbacks [to 1.0 was that] those drones had to be flown in visual line of sight. And commercial payload was not certain,” he said.
+
+The 2.0 draft, if made law, would relax some of the 1.0 restrictions, such as allowing drones to fly outside of an operator’s field of view or even without human oversight, which would be a prerequisite to the commercialisation of drones to deliver pizzas, for instance.
+
+“These are path-breaking policy bents, which are unprecedented,” noted Tavawalla.
+
+However, they are also complicated. "Once you permit something to fly outside the normal line of sight there are many challenges that come. Safety and security and all now need to be addressed,” he said.
+
+DigitalSky: Ambitious, but not yet working so well
+
+One of these would be an extension of the 1.0 rules’ “no permission, no take-off” (NPNT) regime, which means you can’t fly a drone without registration. This is implemented by the futuristic-sounding DigitalSky online portal - “a one-stop-clearance” that obviates having to “chase various ministries”, Tavawalla said.
+
+“You are not supposed to fly if you do not have a licence in the first place. That is ensuring that there is a 100% enforcement,” said Rastogi. “To that extent it’s an incredible piece of innovation.”
+
+However, since its launch on 1 December 2018, DigitalSky has not yet been able to fulfil that aim, according to industry sources, with bugs and errors having riddled application programming interfaces (APIs), for instance.
+
+“It’s a very ambitious project, it’s unprecedented,” explained Rastogi. “You’re obviously going to have a lot of teething trouble to develop a functional system at scale. You need to have machines that comply, interoperability - it will take some time. But I don’t think any of us were not expecting these kind of delays or teething troubles, no matter what the government may have said.”
+
+“While the initial plan was - at least the promise was - that by 1st December they would have activated DigitalSky in its entirety, in fact it is still kind of half-baked at this point of time obviously. It will take time to be fully operationalised at the kind of scale it has to operate at.”
+
+Digital to rule the skies
+
+Nevertheless, the 2.0 rules envisage an expansion of the DigitalSky framework.
+
+Any future non-line-of-sight drone operations are proposed to be restricted to so-called drone corridors. The government was in the process of creating a “dynamic corridor”, having concluded digitising areas in most states, according to Tavawalla, taking into account population density and other factors.
+
+Corridors would be colour-coded green, yellow and red, which would allow or restrict certain operations.
+
+“Then, all of this needs to be manned by a traffic management system,” added Tavawalla, which would be outsourced to private sector DigitalSky service providers, to take the considerable technical burden off the government.
+
+Killing drones with a switch
+
+Furthermore, 2.0 envisages the government to be able to literally take control over potentially troublemaking drones.
+
+Under the new rules, all drones operating beyond line of sight would have to comply with certain standard hardware requirements that would allow a regulator to down or take control of a drone in emergencies - so-called bimodal control, explained Tavawalla.
+
+This also requires a drone to always have “connectivity”, which means it can always be tracked.
+
+The rationale is clear. “If you see the history how the guidelines have evolved for several years, the biggest roadblock was that different wings of the government could not agree on a model that could be approved as safe and secure by everyone,” explained Rastogi. “The Ministry of Home Affairs, for example, was not convinced that the drone guidelines that were being proposed at that time are going to address their concerns on safety and security.
+
+“The DigitalSky and NPNT platform allayed those fears to a large extent.”
+
+However, there is a risk to effectively creating government backdoor access to all drones flown in India: there is no guarantee that the government’s secret key to control drones will always stay secret and that it will not be hacked or circumvented by criminals or pranksters to cause mayhem with someone else’s drones.
+
+And it’s not like criminal drone operators such as the one(s) harrassing Gatwick or Heathrow airports would voluntarily include kill switches, since many drones can be easily built at home by skilled enthusiasts.
+
+“Yes, some sections of the industry have expressed concern that government has a kill switch effectively [and] can give instructions to a machine not to fly at a certain time,” agreed Rastogi. “But we need to make sure we have safe and highly secure IT systems, rather than that being the reason not to do it this way.”
+
+Nevertheless, he says that these are an “absolutely unprecedented piece of regulation”, which “we will probably see other countries follow in due course”.
+
+In any case, it is not a surprise that the regulator is erring on the side of caution, which could also be a boon to those looking to use drones commercially.
+
+“The biggest nightmare for the entire [drone] industry today would be an accident with a manned aircraft,” said Rastogi.

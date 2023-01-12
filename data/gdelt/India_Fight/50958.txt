@@ -1,0 +1,63 @@
+Truecaller taps into India’s fintech market to power its next phase of growth
+
+In 2017, Sweden-based Truecaller dived into India’s crowded digital payments industry where local biggies such as Paytm and global giants such as Google had been battling it out for several years.
+
+Since then, Truecaller Pay, the company’s instant payment service based on Unified Payments Interface (UPI), has witnessed strong growth.
+
+Two years on, Truecaller, best known for its caller-identification and spam-blocking app, is planning to further expand into fintech by starting full-fledged credit services to individuals as well as small and medium enterprises (SMEs) early next year.
+
+Leading the charge is Sandeep Patil, Truecaller’s India managing director, who joined the company in May this year from e-commerce giant Flipkart. Despite intense competition, he is optimistic that Truecaller can gain a strong foothold in the market. “Penetration of financial services is low in India. The good news is that more and more people are looking for such services online. And this is a big opportunity for us,” Patil told Quartz.
+
+Already, India is Truecaller’s biggest market for revenue and userbase. Truecaller currently boasts of over 100 million daily active users in India, and claims every tenth user has linked her bank account to Truecaller Pay, which it could leverage for lending.
+
+In an interview with Quartz, Patil spoke about how his company plans to diversify, even as it remains true to its core offering of spam blocking. Edited excerpts:
+
+Truecaller Sandeep Patil.
+
+What has helped Truecaller build a strong presence in India?
+
+Our caller- and spam-identification services do not have any significant competition in terms of the scale and accuracy we offer. India is our biggest market, and home to 70% of our userbase. We have one of our largest offices in Bengaluru.
+
+What’s your biggest use case as you expand?
+
+Our core service proposition remains the same—protecting users from spam. Increasingly, mobile networks and smartphones across countries are being impacted by spam. Therefore, attacking spam is Truecaller’s biggest use case. The share of voice continues to be high in communication in most countries. So, the right metric for determining the growth of our business continues to be our ability to identify the right caller and banning those who are bad actors.
+
+How does Truecaller Pay compete with the likes of Paytm and Google Pay?
+
+Our payments service is built on trust. Users must have an inherent trust when they are using a payment service. It’s still early days to talk about numbers, but having said that, the payment uptake on our platform has been fantastic. Our numbers are comparable to the industry. More importantly, we don’t burn money on payments.
+
+Yes, it is a highly competitive market, but the growth opportunity is big. High-value money transfers and utility payments, among other use cases, complete the payments story for us.
+
+Lending is another area of focus for you. Could you tell us more about that?
+
+We don’t burn money on payments.
+
+The good news is that more and more consumers are looking for services such as credit, insurance, and wealth management. Customers are increasingly willing to look at these services online. And this is why the number of fintech companies is going up. Users are looking for specific product recommendations. All this ties well with Truecaller’s growth story in the payment-fintech space over the next year.
+
+What are the challenges you face in payments and fintech in India?
+
+UPI’s monthly payment volume crossed 800 million quite a few times this year. However, fluctuating numbers show that transaction volumes are not sticky. In the long-run, some change in user behaviour is inevitable. Short-term incentives (like cashback) will give way to user stickiness.
+
+How do you monetise your businesses?
+
+We don’t monetise caller identification or spam blocking. About 70% of our revenues come from advertising-branding solutions that we provide to companies on our app. The rest comes from subscription. (Truecaller’s subscription plans start from Rs10 per month and go up to Rs5,000 per year for premium plans. Premium customers get features such as more powerful spam blocking and an ad-free experience). The mix will change for us in the coming years.
+
+Advertising-branding solutions is a competitive space. What’s the big differentiator Truecaller offers advertisers?
+
+We are working with a large number of players across industries such as banking, automobiles, and smartphones, delivering brand and business solutions for them. The key advantage we offer our partners is the scale of our platform and Truecaller’s ability of targeted delivery. Brands can leverage our 100 million user base and pick the city and users they want to reach out to.
+
+The client can also decide when to play the advertisement and how many times to play it, which minimises the wastage of money spent on ads.
+
+In addition, we also provide business solutions to various industries such as banking. We help them integrate their backend and frontend operations.
+
+How do you innovate for the market?
+
+There are two ways to go about it. One is to put out offers and services for users and see the response. This approach helps in testing different use cases with users and determining their satisfaction levels with the service on offer.
+
+The second approach is to rely on insights which users share. Users often reach out to the team for solutions to various problems. User feedback is very important for innovation.
+
+Truecaller has access to huge consumer data. Recently, there were reports of user data being exposed. How do you secure it and handle data breaches?
+
+Data security is our prime focus. Within the organisation, we pick user data cautiously. We have clear guidelines for employees—what data is to be accessed, when, and for what purpose. Even senior management, including me and my colleagues, don’t have access to user data.
+
+Also, our platform and applications are designed in such a manner that any external threat or bug is not allowed to become big beyond a point. This helps us contain attacks on our system and applications within hours.

@@ -1,0 +1,29 @@
+Research to focus on small molecule that can help fight breast cancer
+
+A biochemist at the University of California, Riverside, has received a grant from the Congressionally Directed Medical Research Programs, or CDMRP, of the U.S. Department of Defense to develop a novel lead compound to treat breast cancer, the second most commonly diagnosed cancer among American women.
+
+John Jefferson Perry, an assistant professor of biochemistry, is the principal investigator of the three-year grant of $659,000. City of Hope, a comprehensive cancer center, has also received a grant from CDMRP as the research project will partner Perry’s lab at UC Riverside with a City of Hope lab.
+
+Breast cancer totals 30% of newly diagnosed cancer cases; mortality rates are higher than all other forms of cancer except lung cancer.
+
+John Jefferson Perry is an assistant professor of biochemistry at UC Riverside.
+
+Credit: UC Riverside/Perry lab
+
+“Developing new breast cancer therapies is critical, as invasive breast cancer will strike about one in eight U.S. women during their lifetimes,” Perry said.
+
+This year, an estimated 268,600 new cases of invasive breast cancer and 62,930 new cases of noninvasive forms of the cancer are expected in women in the United States.
+
+A big challenge for breast cancer researchers is developing more effective and less toxic treatment regimens for patients that also improve their chances of survival.
+
+“Our goal is to bring to the clinic a novel lead compound that selectively targets breast cancer cells,” Perry said.
+
+His lab is focusing on AOH1160, a small molecule discovered at the City of Hope Medical Center that selectively kills many types of cancer cells through targeting proliferating cell nuclear antigen, or PCNA.
+
+PCNA is an evolutionarily conserved protein that plays an important role in DNA replication and repair. The cancer-associated PCNA, called caPCNA, is present in various cancer cells and promotes the growth and survival of breast cancer cells. AOH1160 is a potent caPCNA inhibitor that suppresses tumor growth and, in models of disease, has been shown to be toxic to breast cancer cells and nontoxic to nonmalignant cells.
+
+“AOH1160 may have limitations as it doesn’t have ideal drug-like properties, in particular due to it being fairly hydrophobic in nature,” Perry said. “Our immediate objective is to create a novel series of new AOH1160-like molecules that selectively kill breast cancer cells, spare noncancer cells, and improve the clinical management of breast cancer patients.”
+
+Perry joined the UC Riverside faculty in October 2014. He studies the molecular mechanisms of cancer, neurodegenerative disease, and aging. He is an adjunct professor at Madrid’s Universidad Francisco de Vitoria, and an international adjunct professor at the School of Biotechnology, Amrita University, in Kerala, India. He is a cofounder of Propellex Bio in San Diego and a stakeholder in San Diego biotech company WinSanTor.
+
+The research project, “Breast Cancer Selective Therapeutic Development: Lead Optimization of a Small Molecule Inhibitor of the Breast Cancer Selective Hub Protein caPCNA,” will support Jennifer Jossart, a graduate student; and Nikola Kenjic, a postdoctoral fellow in Perry’s lab.

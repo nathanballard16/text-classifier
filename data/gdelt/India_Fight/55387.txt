@@ -1,0 +1,49 @@
+Tech Companies That Took Legal Route To Settle Disputes In 2019: How Many Succeeded?
+
+Plus, the number of hacks, data breaches, ransomware attacks, and privacy invasion has skyrocketed in 2019. Governments, lawmakers, and unions have all come together to help protect user data. In this essence, companies like Google, Apple, Facebook, Huawei, have faced some of the biggest tech battles in 2019, some of which are continuing today. We've compiled a list of the noteworthy battles in the tech world this year.
+
+Apple Qualcomm Battle Over Patent Pricing
+
+Apple and Qualcomm litigation has been one of the biggest lawsuits in the tech world, with both companies suing each other. Both companies have been fighting over Qualcomm's patent licensing practices. 2019 saw the final settlement between the companies after the first lawsuit was filed in January 2017.
+
+It began when Apple said that Qualcomm was using its position as a dominant supplier of smartphone chips and modems to its advantage. Apple alleged that the chipmaker has priced its essential utility patents unreasonably high. That's not all, regulators worldwide have sued Qualcomm for its monopolistic traits.
+
+In turn, Qualcomm accused Apple of stealing its patent technology. It pressurized some European countries in getting to ban the sale of the iPhone. However, neither of the companies were willing to spill out the details publicly in the court. Finally, in April this year, the Apple Qualcomm settlement put an end to the lawsuits against the companies. Qualcomm got at least $4.5 billion from Apple as part of the patent settlement. Now, Qualcomm will be supplying 5G modems for future Apple iPhones.
+
+US Federal Government Restricts Huawei Operations
+
+Huawei, a Chinese communication equipment maker, has established its name in the tech world with its smartphones, 5G technology, and more. However, the recent turn of events saw the US government accusing Huawei of compromising users' data and sharing it with the Chinese government.
+
+The US federal government said that Huawei hardware puts the US at risk of espionage and banned the purchase of equipment from the Chinese firm. Plus, Canada officials arrested Huawei CFO Meng Wanzhou citing suspicion of violating US sanctions against Iran. In turn, CFO Wanzhou sued Canada to fight against her extradition to the US.
+
+The US and Huawei standoff resulted in a major trade war between China and the US, which is an ongoing battle even now. Many of the US tech giants including Apple, Qualcomm have their products assembled in China. There are stringent measures to curb hardware from China entering the country and many companies have turned to other regions like India for a separate assembling and manufacturing unit.
+
+Moreover, Huawei is also banned from selling its 5G technology in the US, which led to Huawei suing the US government. The company is still in the US Commerce Department's Entity List, which prevents it from doing business with US companies without explicit permission.
+
+Facebook Privacy Lawsuit Continues This Year
+
+It looks like Facebook has never-ending lawsuits since the Cambridge Analytica scandal. The social media giant is battling against facial recognition data. Facebook has been alleged of misusing facial recognition data. The suit alleges that Illinois citizens didn't give consent to have their photos scanned for the facial recognition tech.
+
+The Facebook facial recognition project began in 2011, but Illinois citizens weren't informed on how long the data would be saved. Nearly seven million people filed a petition in 2015. In 2019, a three-judge panel rejected Facebook's motion to dismiss the case. Facebook could face $1,000 to $5,000 in penalties per user for 7 million people, which could sum to a maximum of $35 billion.
+
+Facebook is now loaded with tons of data privacy, security, and transparency requirements. The company also owns other platforms like Instagram and WhatsApp, which also faced data breaches and security lapses in 2019. The Pegasus spyware on WhatsApp, for instance, was a major breach of privacy and security.
+
+Google Street View Privacy Case
+
+Google faced a class-action lawsuit over the collection of people's private information for its Street View project. The plaintiffs alleged that Google's data collection broke the federal wiretapping laws. The final settlement came in 2019 and Google has agreed to pay $13 million.
+
+The Google Street View feature allows users to access the panoramic images of locations around the world. But, several people filed a class-action lawsuit in 2010 after they found Google cars photographing neighborhoods. Worse, the Street View project had allegedly collected emails, passwords, and other such private information from Wi-Fi networks in more than 30 countries.
+
+The final settlement this year will have Google delete any remaining data from the Street View. Google would also agree not to use Street View to collect data from Wi-Fi networks, except with consent. But the court's final agreement doesn't include financial relief for class members.
+
+Other Noteworthy Battles
+
+The above-listed lawsuits and on-going battles are just the tip of the iceberg. Take the Amazon lawsuit for instance. Amazon's voice assistant Alexa invaded the privacy of owners by listening to conversations, even when it has not been activated. A lawsuit was duly filed a class-action lawsuit that accuses Amazon of using Alexa to create ‘voiceprints for millions of children'.
+
+Coming in India, the battle between telecom operators Reliance Jio, Airtel, Vodafone-Idea peaked in 2019. While Jio claimed there were no grounds to delay zero-IUC (interconnect usage charges), other network carriers voiced that IUC charges shouldn't come down to zero from the current six-paise. TRAI has stepped in to regulate IUC now.
+
+Tech Battles: After Effects
+
+Legal actions and lawsuits are something that's been transpiring for years together now. Lawsuits against tech companies with data loss and lack of user consent have resulted in anti-trust issues. Yet, tech companies are bringing out gadgets that benefit users.
+
+Today, we have the GDPR and other norms to protect individual data. Even the Indian government is following suit and is bringing out the data privacy protection bill to force. But the question remains: Will the law help in protecting data and privacy henceforth? Or will 2020 be another year filled with tech battles for the world to witness?

@@ -1,0 +1,37 @@
+Tech Tent: Shutting down the software scammers
+
+It's a common experience. The phone rings at home, and somebody claiming to be from Microsoft tells you there is something wrong with your computer and they can fix it.
+
+But usually this is a scam called computer software service fraud - and on this week's Tech Tent we go behind the scenes of an international operation to shut down the call centres behind it.
+
+Listen live every Friday at 14:00 GMT on the BBC World Service
+
+We are on the ground in Kolkata as the cyber-squad of the city's police force raid what they claim are two criminal call centres, arresting 20 people and seizing computers.
+
+We also hear from Doug Varey who lost £4,000 after taking a call from one of the companies raided by the Kolkata Police.
+
+He describes how it all began with pop-up ads for anti-virus software. Mr Varey, a retired businessman who says he knows little about computers, thought it sounded a good deal and signed up. He was given a security number and told to demand it if anyone called up - to make sure they weren't scammers.
+
+A few months later, he got a phone call from his "security advisor" who quoted the number and told him there was a serious problem with his PC.
+
+He was then shown what he was told was a Russian hacker, who had taken over his computer and was buying guns in Mr Varey's name. "This chap said, 'Oh my god, oh my god, this is worse than I thought.' And he was increasing my level of anxiety, to the point where I was panicking."
+
+The scammers claim to find viruses on victims' computers
+
+So frightened was he, that he agreed to allow the caller to access his online bank account and transfer £4,000 to pay for a package of increased security. Only weeks later did he realise that he had been the victim of a fraud.
+
+We also speak to a man who has turned the table on the scammers. Jim Browning is an IT professional who, in his spare time, investigates this type of fraud and documents his findings on his very popular YouTube channel.
+
+He describes how he has set up a computer which acts as bait for the scammers, convincing them that they have gained access to another victim. In one case, he was then able to spend weeks "inside" a Kolkata call centre.
+
+"What I was able to do was to deliberately allow them connection to my computer, and I reversed that connection and I could see exactly what the scammers were seeing," he said.
+
+Then he was able to take a tour via a laptop in the call centre: "They actually lifted this laptop off their desk and it had a webcam on it. And I was able to see right around the call centre and both see and hear through their microphone exactly what was going on."
+
+Mr Browning has observed the range of techniques used by the scammers to gain remote access to their victims' computers and then drain their bank accounts. Some claim to be from a failed computer firm offering a refund, others say they are from a credit card provider and have noticed some suspicious activity.
+
+He has been passing on the information he gathers to the police in Kolkata. But while there have been some successes in the battle against the scammers, this remains a huge and lucrative industry.
+
+Mr Varey admits that he was foolish to fall for the scam - but he hopes his story will help others to understand the dangers of allowing cold callers to gain access to their computers.
+
+Also on the podcast this week:

@@ -1,0 +1,27 @@
+Is it mandatory to link Aadhaar with income tax returns?
+
+Archit Gupta
+
+Privacy issues related to Aadhaar have been a matter of intense debate and vehement opposition. But in September 2018, the Supreme Court confirmed that Aadhaar is compulsory for filing of income tax returns. It has maintained the validity of section 139AA of the Income Tax Act.
+
+The government placed crucial arguments in favour of linking PAN and Aadhaar – citing duplicity of PAN numbers as a reason for tax evasion and the importance of fixing identity of taxpayer via Aadhaar to prevent misreporting of financial transactions undertaken.
+
+This section was added via the Finance Act and made effective from July 1, 2017. Even though this was not part of the Budget documents of 2017, it found a place in the amendments to the Finance Act 2017, placed before the Parliament for approval. The deadline was extended on several instances to allow taxpayers more time.
+
+Let us understand the law behind this newly introduced section 139AA. Section 139AA of the income tax act, lays down two basic rules, firstly, Aadhaar must be quoted in all PAN applications, secondly, Aadhaar must be quoted in income tax returns. It says that every person who is eligible to obtain Aadhaar as per the Aadhaar Act, 2016, must mention Aadhaar while filing tax returns.
+
+The Aadhaar Act further says that only a resident individual can obtain Aadhaar. The term ‘Resident’ has different meanings as per the Income Tax Act, FEMA and the Aadhaar Act. Since Resident for this purpose here shall be as per the Aadhaar Act; it means an individual who has resided in India for a period of 182 days or more in the 12 months immediately before the date of application for enrolment of Aadhaar.
+
+If this seems all too confusing, remember this basic rule if you have Aadhaar you must quote it while filing your income tax returns, if you are resident based on the Aadhaar Act, you must get yourself an Aadhaar and then link it with your PAN number.
+
+This section also allows the central government to ‘notify’ persons to whom this requirement will not apply. It means that the central government has powers to make rules to allow some individuals to apply for PAN and file tax returns without Aadhaar.
+
+The central government has so far notified 4 categories of persons – residents of Assam, Jammu & Kashmir and Meghalaya; a non-resident Indian as per the income tax act; those who are more than 80 years old; and those who are not citizens of India. These individuals, who do not have an Aadhaar, are not required to obtain one for the purpose of filing tax returns. However, in case they do have an Aadhaar card it must be reported while filing tax returns. They may have got an Aadhaar for purposes other than reporting in tax returns. Do note that once an Aadhaar has been linked with your tax return, it cannot be delinked, even when a change in residential status takes place.
+
+This section further says that PAN numbers without Aadhaar will be invalid. However, it does not define the consequences of such invalidation. It is apparent that in such a case, one may not be able to file tax returns. The Supreme Court as part of the same ruling struck down the linking of Aadhaar with bank accounts and telephone numbers. In-validation of PAN due to non-linkage with Aadhaar could impact online transactions involving PAN such as payment of tax, deduction of TDS while buying a property etc.
+
+Certain reports state that more than 40 crore PANs are present, however, less than half of them have been linked with Aadhaar. PAN may be still un-linked for those individuals, who have sought a PAN for bank accounts but have never filed a tax return. It is important that such individuals get their PAN and Aadhaar linked at the earliest. Aadhaar can be linked on the www.incometaxindiaefiling.gov.in website. In case a discrepancy exists between your Aadhaar and PAN, due to difference in name or date of birth, make sure you get this corrected before attempting to link.
+
+Aadhaar linkage has become important for several transactions done online, such as on the EPFO website, at the time of opening or closing bank accounts or making financial investments online. Non-linking of PAN could jeopardize some of these transactions. The Income Tax Department has set a final deadline of March 31, 2019 for linking of PAN with Aadhaar.
+
+Therefore, every PAN holder who has an Aadhaar must link it on the income tax department website. Do note that this does mean that every Aadhaar card must have a PAN linked to it, rather the other way round.

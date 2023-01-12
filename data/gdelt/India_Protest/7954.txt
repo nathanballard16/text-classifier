@@ -1,0 +1,97 @@
+Mobile Risks Boom in a Post-Perimeter World
+
+The bloom is on mobile, whether it be the enterprise, employees or the cybercriminals plotting new ways to slip past a corporate defenses in a post-parameter world.
+
+Cybercriminals are now taking a mobile-first approach to hacking the enterprise. Case in point, last month a half-billion Apple iOS users were stung by an attack exploiting an unpatched bug in Chrome for iOS. Crooks managed to hijack user session and redirect traffic to malicious websites booby-trapped with malware.
+
+Attacks like these demonstrate just how widespread and effective a mobile cybercrime campaign can be. It’s also an example of how cybercriminals are increasingly and successfully targeting mobile users. For enterprises that are embracing an ever-more-mobile workforce, escalating mobile attack vectors significantly widen the threat landscape, and are forcing companies to rethink what their security requirements need to be.
+
+Rapid Mobility Growth Continues
+
+Supporting the mobile worker is increasingly on businesses’ to-do lists. According to a 2018 Oxford Economics survey, 80 percent of respondents said that company workers cannot do their jobs effectively without a mobile device. The same survey shows that 82 percent believe that mobile devices are critical to employee productivity.
+
+When combined with the move to cloud applications and computing, which removes data from a company’s physical perimeter, the mass adoption of mobility has opened up fresh fronts in the cybersecurity battle, according to David Richardson, senior director of product management at Lookout.
+
+“Your users have gone mobile…and so these mobile devices can connect to any network and they can access that data that’s in the cloud from anywhere,” he said. “Essentially, your corporate network is now the Starbucks Wi-Fi, any hotel Wi-Fi or home Wi-Fi, anywhere in the world.”
+
+In a Lookout survey of RSA attendees this year, 76 percent of them said they have accessed their corporate network, corporate email or corporate cloud services from a public Wi-Fi network, such as a coffee shop, airport or hotel.
+
+This has many businesses worried. Executives are particularly concerned about the risk that remote workers pose. Nearly three-quarters (73 percent) of vice presidents and C-suite IT leaders, in a recent survey from OpenVPN, state remote workers pose a greater risk than onsite employees.
+
+Multiple Mobile-Specific Threats
+
+That C-suite concern is not unfounded. The potential mobile-attack scenarios are vast and growing more commonplace.
+
+For instance, man-in-the-middle (MiTM) attacks can be mounted on devices that attach to public Wi-Fi networks, to intercept data flowing to and from various cloud services. A recent example of this came to light in April when researchers uncovered multiple MiTM vulnerabilities in a built-in security app in smartphones made by Xiaomi, the biggest mobile phone manufacturer in China and India.
+
+“Due to the unsecured nature of the network traffic to and from Guard Provider, and the use of multiple SDKs within the same app, a threat actor could connect to the same Wi-Fi network as the victim and carry out a MiTM attack,” Check Point said at the time, adding over 150 million users were impacted.
+
+Users can also unwittingly infect their devices by downloading malicious apps (as demonstrated by a raft of adware-infested apps in Google Play that recently infected 30 million Android users). And then there are software vulnerabilities that are introduced by old applications, out-of-date operating systems and vulnerable SDKs that don’t get monthly updates pushed to them.
+
+Without updating, users are at risk from attackers creating exploits for the bugs.
+
+Those exploits are usually geared towards dropping malware on targeted devices. Bitdefender for instance last summer uncovered an Android malware known as Triout, built for corporate espionage with advanced surveillance capabilities, which suggests that a sophisticated actor is pulling the strings.
+
+Bugs in poorly written applications can also expose users, making patching apps critical as well. For instance, a white-hat hacker recently reverse-engineered 30 mobile financial applications and found sensitive data buried in the underlying code of nearly all apps examined. Armed with that information, a hacker could, for example, recover application programming interface (API) keys and use them to attack the vendor’s backend servers and comprise user data, researchers said.
+
+The Malware-Infected Mobile Workforce
+
+As more and more mobile devices take hold within the enterprise workforce, they represent fertile new arena for adversaries to target. Unfortunately, many users aren’t aware of just how vulnerable these devices can be, or what could be at stake if they’re compromised.
+
+For instance, mobile users have a tendency to mix business and pleasure on their devices, which magnifies the attack surface. The Lookout survey of RSA attendees found that 76 percent of them have accessed their corporate network, corporate email or corporate cloud services from a personally-owned mobile device or tablet.
+
+This can have unintended consequences. Compromised devices can then carry an infection back to a corporate network, when they attach to corporate cloud apps or the company LAN, according to Patrick Hevesi, senior director analyst at Gartner.
+
+“Let’s say the device becomes infected [with malware] and then you come into your organization,” said Hevesi. “You join the VPN, you get onto the corporate Wi-Fi. You plug that device in through a USB into your PC or your Mac. The hackers are trying to listen for those different aspects [and connections], to possibly come into your organization as well.”
+
+Hevesi noted that awareness of this risk remains low – and that even the C-suite can play fast and loose with the security of mobile devices and not separating work from personal use.
+
+“I talked to a CSO recently, and his CIO took his corporate-owned iPad device home and registered his entire family’s fingerprints on that device,” he said. “That iPad, in this particular case, became a family-use thing, but it had corporate data on it.”
+
+There’s also the issue of poor password hygiene, which has persisted and migrated from the desktop to the mobile world. According to a 2018 LastPass analysis, almost half of professionals use the same passwords for both work and personal accounts – and on average, workers share about six passwords with co-workers over the course of his or her employment, the analysis found.
+
+The Social-Based Mobile Attack
+
+Making matters worse, attackers are becoming savvier about targeting mobile users from a social-engineering perspective, as seen in the rise of mobile-specific phishing attempts, according to Richardson. For instance, a phishing kit that specifically targets Verizon Wireless customers in the U.S. was spotted in April by Lookout’s telemetry. An analysis showed that the kit pushes phishing links to users via email, masquerading as messages from Verizon Customer Support. These are tailored to mobile viewing. When the malicious URL is opened on a desktop, it looks sloppy and obviously not legitimate, according to Lookout – however, when opened on a mobile device, the page looks like a perfectly legitimate Verizon customer support application.
+
+Variations on this mobile-targeting approach sometimes involve sending users to two different places, depending on the device used. In one campaign, Lookout analysts found that “if you click on that [phishing] link on a mobile device, you would get a phishing page. If you would click on that link on a non-mobile device, you would actually get the real website that it was trying to point you to,” Richardson explained.
+
+Bottom line, user education should be a key piece of security for enterprises – and employees should be trained to fully understand what their mobile device represents from a risk perspective, according to Hevesi. For instance, that should include opening their eyes to the fact that a mobile device is always connected to the internet, and that it has a microphone, cameras, corporate data, location, stored passwords and so on — a bonanza for a cyberattacker.
+
+“The mobile device is your primary device,” said Hevesi. “We really need to start looking at it as a full-fledged endpoint…Start thinking about if something is compromised, if your phone gets compromised, what’s next? What is the hacker going to then possibly do, thinking about what cloud applications you might be accessing as well?”
+
+Poof, Goes the Perimeter
+
+When it comes to addressing these dangers, the bad news is that many of the security controls that have been built into enterprise networks were created for a landscape traditionally dominated by desktops. They don’t apply as well to a mobile-centric workforce.
+
+Legacy security approaches like firewalls for instance rely on trusting an endpoint or a set of credentials because of its location – but this doesn’t protect corporate resources in a mobile world were the physical perimeter goes away, Richardson pointed out.
+
+“Just because a device has the right user name and password doesn’t mean that that’s a device that complies with your corporate policies and should be allowed to access that data,” he said. “You need to basically assume that all devices should be untrusted by default, until you confirm that that device is trustworthy.”
+
+Trust Issues
+
+Zero-trust approaches aim to do just that, by assuming that all devices are untrustworthy and not allowed access to corporate data until it’s confirmed that that device complies with corporate policies. For instance, an enterprise can ensure that remote users are using corporate managed devices and multi-factor authentication before they can log on.
+
+“This can be done through a system called continuous conditional access,” said Richardson. “[This is based on information] about the current health status of this endpoint, this identity associated with accessing this data, and the data itself from the cloud service provider’s perspective. They need to be able to determine whether or not this endpoint with this identity should be able to access that cloud resource.”
+
+This can also dovetail with a risk-management approach that’s based on what the device is attempting to access, Hevesi said. He explained that for instance, if an employee is looking at the cafeteria menu, the device they use to do that may not come under the same kind of scrutiny as it would if the user is, say, an enterprise resource planning administrator logging into an application.
+
+Another best practice is to separate personal and corporate “identities” when it comes to devices being allowed to access corporate resources.
+
+“Device authentication should be different than [getting] into the corporate container,” Hevesi noted. “You should have separate authentication methods, so you can make sure that at least that device is not just getting unlocked [and automatically offering] seamless access into your corporate information.”
+
+OEMs Tackle Separation of Mobile Work and Play
+
+Both Google’s Android Enterprise program and Apple Business Manager offer several features to secure and manage corporate data on personal devices. Admins can create a separate workspace on Android devices for business-managed apps and data, and with a compatible mobile device management (MDM) server, IT can control how data is managed within that container by enforcing strong security policies. Organizations can also publish private applications to authorized devices and can carry out centralized approval and configuration of managed Google apps.
+
+For Apple, it’s possible to enroll a device and specific applications as being “corporate” – and then enforce certain policies, such as not storing data from enrolled applications on someone’s personal iCloud.
+
+On the product front, Gartner research shows that endpoint-protection platforms have been integrating with mobile threat defense (MTD) vendors and MDM providers to offer administrators a device-agnostic, holistic look across all devices, be it a laptop, a Chromebook, an iPad, a Surface, an iOS device an Android device or so on. Hevesi said that this offers a consistent way to apply patches and anti-malware software, lock down lost or stolen devices, manage user profiles and access privileges, apply dynamic analysis to user and application behavior, and more.
+
+One of the benefits to this approach is that for users, it’s seamless and requires little behavioral change, Hevesi pointed out.
+
+“[This allows you to] actually create a policy that says, ‘oh, I see a malicious application,’ or, ‘someone’s trying to do a man-in-the-middle attack on our device at a public hotspot,’ and the system will go ahead and force a VPN connection or require an uninstall of that application, because you have [automated management control],” he explained.
+
+When it comes to enterprise mobility, clearly there’s much to consider in terms of new threats and risk management. But it all starts with recognizing that mobility represents a different set of considerations than what businesses may be used to dealing with in the desktop world, according to Richardson.
+
+“It’s a new set of things to think about, bottom line,” he said. “That’s where you have to start – by recognizing that.”

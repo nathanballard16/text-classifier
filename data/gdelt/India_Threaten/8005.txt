@@ -1,0 +1,23 @@
+Speed needed to tame the malware menagerie
+
+Yassin Watlal, regional system engineering manager at CrowdStrike
+
+Nation state and other threat actors are getting much faster at breaching the barriers of the most protected environments and living “off-the-land” with malware-free attacks.
+
+So said Yassin Watlal, regional system engineering manager at CrowdStrike who told delegates at the ITWeb Security Summit 2019 that many of the world’s most advanced hackers and cybercriminals are no longer “lone wolf” attackers, but are sponsored by both states and corporates. Nevertheless, one person could launch literally thousands of attacks.
+
+Placing the magnitude of the problem in perspective, Watlal said it had been estimated there were more cyber attacks launched daily than tweets. And some are so good at what they do, that they could infect an entire network within minutes of penetration.
+
+What was particularly worrying was that around 60% of attacks were aimed at small and medium enterprises – probably the most vulnerable in terms of their defences.
+
+Bears, pandas, buffalos
+
+CrowdStrike classifies threat actors by their origin and whether they are tied to nation state.
+
+So, for example, “Bear” is the umbrella term for all nation state activity linked to Russia; “Panda” is linked to the People’s Republic of China; Buffalo to Vietnam; Chollima (a winged horse) to North Korea; Crane to South Korea; Kitten to Iran; Leopard to Pakistan; and Tiger to India. Then there is Jackal which denotes activist groups; and Spider for threat emanating from criminal groups.
+
+CrowdStrike’s research had shown that the fastest breakout threat came from the Russia (the Bear), with an average time of 18 minutes. This was followed by Chollima (North Korea) in 2 hours 20 minutes; Panda (China) in four hours, Kitten (Iran) in five hours; and Spider (criminal groups) in nine hours.
+
+“If you base your protection strategy purely on blocking malware, it will not help you. Today’s basic protection techniques were considered extremely sophisticated even five years ago. Today, it’s all about survival of the fastest,” he said.
+
+“However, it is still essential to try and detect an attack before it takes hold because once it is loose within your organisation, it can be a major issue to deal with it. Remediation takes a long time and consumes a lot of resources. If an attack gets past your periphery defences, it is essential to act within minutes to prevent it from doing real damage to your organisation.”

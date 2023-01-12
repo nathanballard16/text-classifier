@@ -1,0 +1,39 @@
+SC verdict a body blow for stressed Vodafone-Idea, Bharti Airtel
+
+Since the same principle would apply to spectrum usage charges, the amount would go up by another Rs 41,000 crore according to DoT’s calculations.
+
+The fortunes of financially stressed telecom incumbents worsened on Thursday as they face a massive `92,000-crore liability with the Supreme Court upholding the government’s definition of adjusted gross revenue. While the amount owed by Bharti Airtel is `21,682 crore, Vodafone Idea needs to pay Rs 28,308 crore.
+
+The verdict comes as a body blow to Bharti Airtel and Vodafone Idea. Reliance Communications and Aircel have shut operations and are undergoing the insolvency process, which means the DoT would need to make a claim to the National Company Law Tribunal as an operational creditor; even if it receives any payments, it would be smaller than the amount owed by the companies.
+
+Initially, the SC had ruled in favour of the operators. However, in an appeal against an order of the TDSAT later, it struck down the tribunal’s order questioning the validity of the licence agreement drawn up by the DoT. The DoT maintained that it had taken inputs from the Telecom Regulatory Authority of India and drawn up the licence conditions and these could not be questioned by the TDSAT.
+
+The amount due is the outstanding licence fee computed by the department of telecommunications (DoT) as on July 2019. This includes licence fee dues as raised by DoT, interest on the unpaid part, penalty, and interest on penalty.
+
+“It cannot be said that DoT has taken inconsistent stands at different stages of the same litigation. Their stand is apparent that the gross revenue has been clearly defined in the agreement. Parties have agreed to various inclusions in the agreement and have willingly switched over to revenues sharing regime under the 1999 policy and same is apparent from the stand and the reliefs prayed in the petitions filed in 2003 and 2005… The licensees were aware of items specifically included in the agreement. TSPs agreed to interpretation and accepted it as held by this Court in 2011 judgment… Licensees cannot be permitted to approbate and reprobate and to take inconsistent stands… The stand taken rather than buttressing the submissions raised by them, counters and militates against their own interest and paves
+
+the way in favour of DoT,”
+
+Justice Arun Mishra, writing for the Bench, said in its 153-page judgment. Since the same principle would apply to spectrum usage charges, the amount would go up by another Rs 41,000 crore according to DoT’s calculations.
+
+The bench, which also comprised SA Nazeer and MR Shah, also said it will fix a time limit within which the telcos will have to make the payment and a separate order will be passed on the issue soon.
+
+Telecom operators pay a revenue share licence fee to the government which is 8% of their adjusted gross revenue. In addition, they also pay a spectrum usage charge which ranges around 3-5% of their AGR.
+
+However, what constitutes AGR has been a bone of contention between the telcos and the government and the matter is being contested since 2006 in the Telecom Disputes Settlement and Appellate Tribunal, high courts and Supreme Court.
+
+The basic issue was that according to DoT the definition of AGR includes all revenues accruing to operators except a few like termination and roaming charges which are collected on behalf of the other operator. Operators, on the other hand, maintain that only those revenues should be part of AGR which accrues directly to them as part of the licence. Other income such as interest income, dividend income, value of rebate, discounts, free calls, etc should not be included in computation of AGR for the purpose of payment of licence fee.
+
+It is on this issue that the SC on Thursday ruled in favour of the definition put forward by the DoT and rejected that espoused by the telecom industry. The matter has been contested for long. The TDSAT’s decision was based on the fact that the DoT cannot demand a share of revenue as licence fees which are derived from activities that do not require a licence. The TDSAT’s judgment was challenged by the DoT in the Supreme Court.
+
+Taking cognisance of this, the SC ruled that questioning the validity of the licence condition was beyond the jurisdiction of the TDSAT and all it could do is to look into disputes between DoT and operators over interpretation of the licence conditions. Based on this ruling various operators filed fresh petitions in TDSAT and various high courts.
+
+In its subsequent order, the TDSAT excluded a number of items which could not be included in the ambit of AGR, and the same was challenged by DoT in the SC.
+
+It is on this matter that the SC once again ruled in favour of the DoT.
+
+Telecom operators expressed their disappointment at the order. Bharti said operators have invested billions of dollars in developing the sector and this decision has come at a time when the sector is facing severe financial stress and may further weaken the viability of the sector as a whole. “Of the 15 old operators impacted by the order, only two private sector operators remain in service today. The government must review the impact of this decision and find suitable ways to mitigate the financial burden on the already stressed industry,” the company said in a statement.
+
+Vodafone Idea said: “We will study the ruling as soon as it is available, along with our legal advisers, to determine next steps. If there are technical or procedural grounds for doing so, this could include a review application.”
+
+The industry body, the Cellular Operators Association of India (COAI), said the taxes and levies in the telecom sector, ranging from 29% to 32%, are one of the highest globally. “The SC judgment is the last straw in contributing to financial distress and it remains to be seen whether the industry will be able to recover from this setback,” COAI said.

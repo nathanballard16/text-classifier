@@ -1,0 +1,9 @@
+Spyware Maker NSO Promises Reform but Keeps Snooping
+
+MUMBAI, India — Bela Bhatia, a human rights lawyer in the Indian state of Chhattisgarh, is accustomed to surveillance. She works in a region prone to both guerrilla violence and government reprisals, and the authorities do not like many of her clients.
+
+Still, Ms. Bhatia said she was shocked to learn her phone had been infected with invasive spyware delivered through missed video calls on WhatsApp, a messaging service that is used by about 400 million people in India, WhatsApp’s biggest market.
+
+“You are carrying the spy in the pocket with you everywhere you go,” she said. “It is much more than one had imagined that the Indian state could do.”
+
+Ms. Bhatia is one of more than a hundred Indians who learned in recent months that every keystroke, call and GPS location on their phones had probably been recorded by the surveillance software, which is sold by the NSO Group, an Israeli firm.

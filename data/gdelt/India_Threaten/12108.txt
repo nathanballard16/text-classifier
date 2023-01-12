@@ -1,0 +1,37 @@
+ITR filing 2019-20: Here’s how to file income tax returns online
+
+ITR (Income Tax Returns) Filing 2019-20: Anyone with his/her annual income exceeding Rs 2, 50,000 is supposed to file the tax returns. The last date for filing your annual Income Tax Returns (ITR) for the 2019-20 financial year is August 31. The Tax department has also launched its ‘lite’ e-filing facility, which is a lighter version of e-Filing portal to help taxpayers file returns quickly.
+
+Here’s a step-by-step guide to file ITR using the ‘lite’ e-filing facility
+
+• Open the income tax India e-filing home page at http://www.incometaxindiaefiling.gov.in.
+
+• Click on the new ‘Quick ITR Filing’ link, which should show up on the left under the ‘Quick Links’ menu.
+
+• A pop-up describing the services that can be accessed in the ‘Lite’ version will show up. Click on ‘Continue to e-Filing Lite’ to continue.
+
+• Users who are already registered will need to enter their PAN card number, password and captcha code. Those who are not can click on the register option on the top right to continue.
+
+• Click on “Income Tax Return” option in the ‘e-File’ menu
+
+• The page will require users to fill in details like the assessment year for which they want to file ITR, ITR form name. PAN number, date of birth, etc will be pre-filled.
+
+• To continue, verify with either digital signature certificate or Aadhaar OTP (if it is linked with PAN), or select from more methods best suited.
+
+• Read the instructions and click on the arrow to go to the next section.
+
+• The “Part A General Information” tab will need users to fill in details such as type of return, employer category, return filed, etc. When finished, click on ‘Save Draft’ and then ‘Next’.
+
+• Next, fill in details in the “Computation of Income and Tax” tab and click on ‘Save draft’ and then ‘Next’ when done.
+
+• The next tab should be “Tax Details” where a user is required to fill in information related to TDS. Once again, click on “Save Draft” and then Next.
+
+• In the “Taxes Paid and Verification” tab, fill in details like total tax paid, bank accounts held in India. Verify pre-filled personal details, click on “Save Draft” and then ‘Next’.
+
+• The next is the “80G” tab. After finished with filling in details, click on “Save Draft” followed by “Preview & Submit”.
+
+• A pop-up asking whether to preview the filled form or go back and make changes will appear. Choose the appropriate option.
+
+• The filled form can also be downloaded as Preview PDF. If the details are fine, finally click on “Submit” following which a pop-up will again appear to confirm. Or else, tap on “Edit” to make changes to the form and then submit.
+
+Anyone who misses filing the ITR before their respective deadline will have to pay a penalty. While earlier there was no fine on delayed ITRs, the government in 2017 announced a fine for the same. Filing your tax after the due date is called belated ITR and it can be submitted till March 31, 2020. However, if you fail to adhere to this deadline as well, you will have to wait for a notice from the tax department for filing your ITR.

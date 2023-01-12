@@ -1,0 +1,95 @@
+Three Factors That Led to the BJP's Impressive Gains in West Bengal
+
+The Bharatiya Janata Party’s landslide victory in the 2019 Lok Sabha elections is based on many stunning results. None is probably so compelling and puzzling as its phenomenal win in West Bengal. Almost all commentators, including the authors of this article, had underestimated the BJP’s performance by a wide margin.
+
+From a seat count of two in the 2014 Lok Sabha elections, the BJP has increased its tally to 18 in 2019. Equally, if not more, impressive is the increase in its vote share from 16.8% in 2014 to 40.25% in 2019.
+
+In this article, we provide some preliminary attempts to this make sense of BJP’s unprecedented victory in West Bengal. We do so by looking at the pattern of BJP’s vote share gain across regions and by studying the relationship between BJP’s gains and losses of the AITC (All India Trinamool Congress) and the LF (Left Front, comprising the Communist Party of India, Communist Party of India (Marxist), Revolutionary Socialist Party and All India Forward Bloc).
+
+Our analysis highlights three factors that, in combination, led to these results. First, there was an unmistakable electoral wave in favour of the BJP. Second, the BJP could partially consolidate its gains in north Bengal. Third, and most importantly, the BJP gained (and the AITC lost) is a major way in the western part of the state – the Jangal Mahal area. Most commentators have so far focused on the first and second factors; we want to argue for the importance of the third.
+
+Our argument is based on an analysis of vote shares of the key parties in West Bengal. We rely for our analysis on data provided by the Election Commission of India (ECI) on it website. Hence it is important to note a caveat at the very outset: any possible problem in the ECI data would automatically make our analysis incorrect.
+
+Table 1 summarises the information we use for our analysis – it gives data on the winning party, BJP’s vote share and AITC’s vote share across all parliamentary constituencies of West Bengal in the Lok Sabha elections in 2014 and 2019.
+
+The spatial pattern of the data is summarised in four maps. Figure 1 shows the spatial pattern of the seats won by different parties in 2014 and 2019; Figure 2 and 3 show the patterns of BJP’s and AITC’s vote share, respectively, in the 2014 and 2019 Lok Sabha polls; and Figure 4 shows the spatial pattern of the change in BJP’s and AITC’s vote share between the Lok Sabha elections in 2014 and 2019. Finally, Figures 5 and 6, depict the relationship between BJP’s gain and losses of the Left Front and AITC. Together, the data presented in Table 1 and visually summarised in the figures can help us in making some sense of the results.
+
+Changes in vote share across parties
+
+The first thing worth noting is the massive scale and scope of the BJP’s victory. One way to see this is to look at the penultimate column in Table 1 or turn to the first panel in Figure 4. In no parliamentary constituency did the BJP witness a decline in its vote share between 2014 and 2019.
+
+The lowest increase of 3.93 percentage points came in Baharampur, and the highest increase of 42.15 percentage points was witnessed in Purulia. Of course, both these constituencies are outliers in terms of the increase in BJP’s vote share. All other constituencies saw an increase of between 9 and 35 percentage points – with 19 constituencies witnessing an increase in BJP’s vote share by more than 25 percentage points.
+
+Another way to highlight the scale and scope of BJP’s victory is to compare its vote share change with the AITC’s and Left Front’s vote share change.
+
+Also read: It’s Unreasonable to Blame Mamata Banerjee for BJP’s Gains in West Bengal
+
+As a mirror image of BJP’s performance, the LF’s vote share declined in every parliamentary constituency (we do not give the data in Table 1 to save on space). The LF vote share declined the least at 10.6 percentage points in Darjeeling and the largest at 32.1 percentage points in Mathurapur. In all, 12 constituencies saw the LF’s vote share decline by more than 25 percentage points.
+
+The last column in Table 1 and the second panel in Figure 4 provide and visually summarise information about the change in AITC’s vote share between 2014 and 2019.
+
+Unlike the BJP and the LF, the AITC has a mixed record: it saw both increases and declines in its vote share. In 16 constituencies, the AITC saw a decline in vote share; and it saw an increase in its vote share in the other 26 constituencies. The largest decline, at 10.78 percentage points, was seen in Arambagh (giving rise to the so-called Arambagh syndrome), and the largest increase, at 24.61 percentage points, was seen in Jangipur. The AITC managed to increase its vote share by more than 10 percentage points in 10 constituencies.
+
+The main conclusion that seems to follow from this initial look at vote share patterns of parties is that there was a general electoral wave in favour of the BJP in West Bengal in 2019 – because every constituency registered an increase in the BJP’s vote share. Whether this wave was built around the persona of Narendra Modi, the result of an upsurge in anti-Muslim sentiments, the reflection of the aspirations of the youth for a better future, a negative vote against AITC’s misgovernance or a combination of all these (and probably other) factors, needs to be investigated.
+
+In addition to the main conclusion about the wave, some questions also emerge from the above investigation. It seems that a large section of erstwhile LF voters moved to both the BJP and the AITC – because both parties saw increases in vote shares.
+
+Is that true? Was the decline in the LF’s vote share the mainstay of the BJP’s gain? Did the BJP manage to erode the AITC’s vote base as well? We will return to these questions below, but first we must look at the spatial pattern of vote share changes. In fact, the spatial patterns provide important clues to answer the questions posed above.
+
+All the action is in the west
+
+The first panel in Figure 4 shows the spatial pattern of the increase in BJP’s vote share. Most of the increase is concentrated in the western parts of the state. Other than two constituencies in the north – Jalpaiguri and Cooch Behar – all the constituencies that saw an increase of more than 30 percentage points in vote share are located in the west. Of course, the BJP managed to make significant gains in central and north Bengal too.
+
+The second panel in Figure 4 shows the spatial pattern of change in AITC’s vote share and highlights some interesting facts. The AITC managed to maintain its vote share in much of north and east Bengal, and it increased it vote share in the south. The AITC’s losses are concentrated in the western parts of the state. In fact, visual inspection of Figure 4 shows that the same constituencies in the west that saw the largest gains by the BJP are also the constituencies that saw the largest losses by the AITC: Purulia, Bankura, Medinipur, Jhargram, Birbhum.
+
+This leads to two very important conclusions. First, the pattern in Figure 4 shows that BJP’s communal mobilisation in north Bengal – vilifying the Muslim infiltrator – did not succeed in making any dent in AITC’s vote share. In fact, in the constituencies in north Bengal, both the BJP and AITC’s vote share saw an increase. Thus, there seems to be little truth in media assertions about the putative effectiveness of BJP’s communal politics in north Bengal in scripting AITC’s electoral debacle. It is however possible that, as a reaction to the consolidation of Muslim votes behind AITC, some Hindu votes shifted from AITC to BJP.
+
+Also read: When Two Young Tollywood Stars Overcame Sexism to Become MPs
+
+Second, the patterns in Figure 4 show that all the electoral action was in the western parts of the state. These are the constituencies of the Jangal Mahal area, where the AITC government ruthless crushed peoples’ movements of various kinds. Human rights activists point to the continuing state repression in these areas. The vacuum left by the decimation of Left forces, and the continuing disaffection of the people facing state repression, seems to have created the space for the growth of the forces of right-wing Hindu nationalism – which has now taken the electoral form of the massive turn towards the BJP.
+
+Did the BJP manage to erode AITC’s vote share?
+
+The final question that we would like to address relates to the possible relationship between the BJP’s gain (in vote share) and the losses suffered by the LF and the AITC. To address this question, let us turn to the data summarised in Figures 5 and 6.
+
+The first – Figure 5 – is a scatter plot of changes in LF’s vote share (between 2014 and 2019) and changes in BJP’s vote share (between 2014 and 2019) across the 42 parliamentary constituencies. The linear relationship between the two – changes in LF’s vote share and changes in BJP’s vote share – is depicted by the blue line (with an error band).
+
+Figure 6 is similar: it shows the relationship between changes in AITC’s vote share and BJP’s vote share.
+
+Both figures show the same pattern: constituencies where the LF (or AITC) lost more vote share are also the constituencies where the BJP gained more vote share – this is captured by the downward sloping line capturing the relationship between the two.
+
+Statistical analysis – details of which are not being presented here to save space – shows that, across the 42 parliamentary constituencies, every percentage point loss of the LF was associated with a 0.89 percentage point gain by the BJP even after accounting for the change in AITC’s vote share.
+
+In a similar manner, across the 42 parliamentary constituencies, every percentage point loss of the AITC was associated with 0.71 percentage point gain of the the BJP’s vote share even after accounting for the change in LF’s vote share. This analysis leads to two conclusions.
+
+First, the LF’s loss did convert into the BJP’s vote share gain. But this is hardly surprising, given the trend of the LF’s decline since 2009. In addition to the longer term trend of the LF’s decline, there might have been another factor: strategic voting by LF supporters towards the BJP. Even though the LF leaders have not admitted to this, there have many reports suggesting the practice at the local level.
+
+If this is indeed the case, it is a suicidal move. The plan of defeating the BJP once it defeats the AITC is a harebrained one, quite apart from its ominous implications for communal harmony in the state.
+
+Second, and more importantly, the AITC’s loss was also converted, on average, into BJP’s vote share gain. Thus, the BJP did manage to erode some of the vote share of the AITC. Of course, there is a spatial pattern to this erosion too. In the constituencies in north Bengal (Cooch Behar, Alipurduars, Jalpaiguri, Darjeeling and Raiganj), both the BJP and AITC increased their vote share, as can be seen from Figure 4.
+
+Hence, in the north Bengal constituencies, the LF vote base seems to have shifted in both directions – towards the BJP and towards the AITC. But, in the constituencies in the west, the pattern is different. In these constituencies, not only was the LF voter moving towards the BJP, even the erstwhile AITC voter shifted, in large numbers, towards the BJP.
+
+The way ahead
+
+The BJP’s phenomenal success in West Bengal during the 2019 Lok Sabha elections rests on three related trends. The first trend was an unmistakable wave in support of the BJP, either the result of a Modi-wave or the expression of deep anti-Muslim sentiments that has never really been challenged ideologically in West Bengal’s politics or the reflection of the aspiration of the youth or as adverse reaction to depredations by the ruling party.
+
+The second trend, which was mostly in operation in north Bengal, was the partially successful mobilisation of anti-Muslim hysteria against “illegal” immigrants from Bangladesh.
+
+The third, and arguably the most important, trend was the disaffection of large sections of the people of the Jangal Mahal area, who have been at the receiving end of state repression and violence of the AITC cadres.
+
+The third trend is, in fact, more widespread and, in our opinion, was an important factor in driving both LF and AITC voters towards the BJP. This larger trend relates to the depredations of local AITC leaders, and their army of goons, across the length and breadth of the state.
+
+The widespread extortion rackets run by local AITC leaders have not gone down well with the people. The fact that Narendra Modi repeatedly mentioned “tolabaji” (extortion) in his speeches in West Bengal shows how the BJP used that to garner support against the AITC.
+
+Also read: Modi 2.0 Must Check the Sangh’s Role in Generating Politics of Fear
+
+In addition to the extortion rackets was the brazen manner in which the AITC machinery throttled democratic processes, especially of the Left. Party offices of the LF constituents have been forcibly occupied or locked outright, and its members and activists have been intimidated and beaten up. While this has been going on for quite some time now, it came to the fore in a prominent way in the 2018 panchayat elections. Close to 40% of AITC candidates were elected unopposed because opposition candidates were not even allowed to contest.
+
+If the AITC wants to put up a fight against the BJP in the 2021 assembly elections (and beyond), it will have to work on two fronts simultaneously. First, there has been an unmistakable consolidation of Muslim votes behind the AITC. The BJP is going to use this to the hilt in its Hindu-majoritarian propaganda and ratchet up religious friction and riots. The AITC will have to develop an uncompromising ideological movement against RSS’s Hindu nationalism to fight it off.
+
+Secondly, it needs to address the genuine concerns of the people of Jangal Mahal, and the whole state, regarding not only economic development but the democratic right of dissent. Many would scoff at AITC’s ability to accomplish the first task. But the party at least has the capacity to make some real progress on the second front. If it does so, the solidarity of Bengal’s common people would assist it in addressing the first.
+
+Table 1: AITC and BJP in Lok Sabha Elections in West Bengal, 2014 and 2019 2014 2019 Change Parliamentary Constituency Winning Party BJP Vote Share AITC Vote Share Winning Party BJP Vote Share AITC Vote Share BJP Vote Share AITC Vote Share Alipurduars AITC 27.41 29.58 BJP 54.40 36.72 26.99 7.14 Arambag AITC 11.63 54.94 AITC 44.08 44.15 32.45 -10.79 Asansol BJP 36.75 30.58 BJP 51.16 35.19 14.40 4.61 Baharampur INC 7.07 19.66 INC 11.00 39.26 3.93 19.61 Balurghat AITC 20.97 38.52 BJP 45.02 42.24 24.05 3.72 Bangaon AITC 19.06 42.92 BJP 48.85 40.92 29.78 -2.00 Bankura AITC 20.31 39.10 BJP 49.23 36.52 28.91 -2.58 Barasat AITC 23.35 41.37 AITC 38.58 46.47 15.23 5.10 Bardhaman Purba AITC 12.93 43.49 AITC 38.32 44.52 25.39 1.03 Bardhaman-Durgapur AITC 17.81 41.64 BJP 41.76 41.59 23.94 -0.05 Barrackpur AITC 21.89 45.53 BJP 42.82 41.48 20.93 -4.05 Basirhat AITC 18.36 38.64 AITC 30.12 54.56 11.76 15.92 Birbhum AITC 18.48 36.10 AITC 38.99 45.13 20.51 9.03 Bishnupur AITC 14.11 45.51 BJP 46.25 40.75 32.13 -4.75 Bolpur AITC 15.13 48.33 AITC 40.57 47.85 25.43 -0.48 Coochbehar AITC 16.33 39.50 BJP 47.98 44.43 31.65 4.93 Darjeeling BJP 42.73 25.47 BJP 59.19 26.56 16.46 1.09 Diamond Harbour AITC 15.92 40.31 AITC 33.39 56.15 17.47 15.83 Dum Dum AITC 22.48 42.62 AITC 38.11 42.51 15.63 -0.12 Ghatal AITC 6.93 50.14 AITC 40.97 48.22 34.04 -1.91 Hooghly AITC 16.38 45.47 BJP 46.06 41.03 29.68 -4.45 Howrah AITC 22.04 43.39 AITC 38.70 47.18 16.66 3.79 Jadavpur AITC 12.20 45.83 AITC 27.37 47.91 15.17 2.08 Jalpaiguri AITC 16.99 37.94 BJP 50.65 38.39 33.66 0.45 Jangipur INC 8.64 18.53 AITC 24.30 43.15 15.66 24.61 Jaynagar AITC 9.52 41.61 AITC 32.77 56.13 23.25 14.53 Jhargram AITC 9.74 53.63 BJP 44.56 43.72 34.82 -9.91 Kanthi AITC 8.60 52.37 AITC 42.14 49.98 33.55 -2.38 Kolkata Dakshin AITC 25.28 36.95 AITC 34.64 47.50 9.36 10.55 Kolkata Uttar AITC 25.88 35.95 AITC 36.59 49.96 10.71 14.01 Krishnanagar AITC 26.38 35.14 AITC 40.37 45.00 13.99 9.86 Maldaha INC 19.79 17.63 INC 34.09 27.47 14.30 9.83 Maldaha Uttar INC 15.39 16.96 BJP 37.61 31.39 22.22 14.43 Mathurapur AITC 5.23 49.58 AITC 37.29 51.84 32.06 2.26 Medinipur AITC 14.26 45.95 BJP 48.62 42.31 34.36 -3.65 Murshidabad CPM 7.84 22.43 AITC 17.05 41.57 9.20 19.14 Purulia AITC 7.15 38.81 BJP 49.30 34.19 42.15 -4.62 Raiganj CPM 18.32 17.38 BJP 40.06 35.32 21.74 17.94 Ranaghat AITC 17.26 43.62 BJP 52.78 37.05 35.52 -6.57 Sreerampur AITC 22.28 39.88 AITC 38.47 45.50 16.18 5.61 Tamluk AITC 6.45 53.57 AITC 36.94 50.08 30.49 -3.49 Uluberia AITC 11.55 48.08 AITC 36.58 53.00 25.03 4.93
+
+Deepankar Basu is associate professor in the Department of Economics, University of Massachusetts Amherst. Debarshi Das is associate professor in the Department of Humanities and Social Sciences, Indian Institute of Technology Guwahati.

@@ -1,0 +1,51 @@
+Christchurch Call to Action: Laws needed for use of automated tools to filter extremist content, to avoid attack on free speech-India News , Firstpost
+
+Christchurch Call to Action is aimed at preventing online terrorist and violent extremist content.
+
+Recently, India signed the 'Christchurch Call to Action', along with 16 other countries and eight tech companies, aimed at preventing online terrorist and violent extremist content.
+
+The Christchurch Call was formulated following the terror attacks on the Muslim community of Christchurch in New Zealand in March 2019 and contains voluntary measures ranging from prioritising moderation of violent extremist content by service providers to developing effective complaint and appeals process in relation to the takedown of terrorist and violent extremist content.
+
+At the same time, the proposal recognises the importance of free, open and secure internet and respect for human rights such as freedom of speech and expression. Countries worldwide are adopting measures to prevent the spread of terrorist and extremist content on online platforms — in April this year, the EU passed the Online Terrorist Content Regulation in the wake of recent terror attacks; closer home, MeitY issued draft IT intermediary guidelines to replace the existing guidelines and impose greater obligations on internet intermediaries with respect to unlawful content.
+
+Christchurch Mosque Attack aftermath
+
+The Christchurch shootings were horrifying not least because the video of the gruesome attacks was made by the perpetrator himself and live-streamed on Facebook and YouTube. Facebook shut the shooter’s account within an hour of the attack and reported that it had removed 1.5 million videos from its platform within 24 hours of the live streaming, blocking 1.2 million videos at the time of upload. Facebook rolled out a number of measures to deal with any such event in future, including a ‘one strike’ policy to prohibit any Facebook user who commits the most serious violations of Facebook’s policies from using Live (Facebook’s live video streaming feature) for a given set of period; this restriction extends to Facebook users who share links to statements from terrorist groups without any context.
+
+Facebook announced that in future it would also prevent violators from creating ads on Facebook. New Zealand has officially classified the Christchurch Mosque Attack livestream as objectionable, making it illegal in New Zealand to view, possess or distribute the video in any form, including on social media platforms; the Office of Film & Literature Classification found that the video was intended to glorify the attacks, and encourage and embolden the audience to perpetrate mass murder. The New Zealand government’s classification decision also contains the freedom of expression analysis and affirms that a ban on the video is justified under the circumstances.
+
+Christchurch Call to Action commitments
+
+Under the Christchurch Call, signatories have undertaken voluntary commitments. For governments, these commitments include supporting frameworks (such as industry standards) to ensure that reporting on terrorist attacks does not amplify terrorist and violent extremist content, without affecting the responsible coverage of such attacks.
+
+Governments along with online service providers also undertake to support smaller platforms to remove terrorist and violent extremist content such as by sharing relevant databases of hashes; an example is a database developed by Global Internet Forum to Counter Terrorism (GIFCT).
+
+GIFCT is an industry-led initiative which was launched in June 2017 by Google, Facebook, Twitter and Microsoft. GIFCT’s database contains hashes (or the digital footprint of content which is flagged by a member company of the GIFCT consortium as terrorist content); this enables other online platforms to match content uploaded on their platforms against the database of hashes and expeditiously remove the matching content from their platforms.
+
+This has proved useful where terrorists upload their content to other websites when they find that their content has been blocked by the website on which the terrorist content was originally uploaded. One of the goals of GIFCT is to work with smaller tech companies to share best practices on disrupting the dissemination of violent extremist content; this is particularly important in the context of ‘outlinking’ which refers to the practice by terrorists of posting links to terrorist content on smaller platforms which lack the expertise and resources of bigger platforms to block terrorist content.
+
+In the Christchurch Call, the online service providers commit to take effective notice and takedown measures, prioritise moderation of terrorist and violent extremist content including real-time review and provide complaints and appeals processes for users to contest the online platform’s decision to remove or decline the upload of the user’s content.
+
+Risks to freedom of speech inherent in the automated screening of content
+
+The efforts of tech companies in fighting the dissemination of terrorist and violent extremist content have focussed on developing automated tools to filter such content.
+
+In the past, there have been instances of internet platforms inadvertently removing content (which is intended to spread awareness about war and human rights violations) mistaking it for terrorist and online extremist content.
+
+In August 2017, it was reported that thousands of videos documenting atrocities in Syria had been removed by YouTube in its efforts to crack down on violent extremist and terrorist content; this had implications for criminal investigation and prosecution of war crimes. This was the result of YouTube putting in place new technology to automatically screen and block content which was in breach of YouTube’s community guidelines.
+
+While YouTube reinstated some of these videos on being notified by creators, the incident highlights that removal of terrorist content by online platforms cannot be left entirely to machine learning algorithms. One way of avoiding false positives in such cases is for users to make the upload contextual by including information in the summary and metadata tags and by explicitly stating the intention behind uploading the content.
+
+Notably, the US declined to sign the Christchurch Call citing concerns that it will undermine rights under the First Amendment of the US Constitution, namely, freedom of speech.
+
+Laws mandating the use of automated tools to filter terrorist content
+
+In April 2019 the European Parliament passed the EU Terrorist Content Regulation which places obligations on hosting service providers to disable or remove access to terrorist content within an hour of receiving the removal order from a competent authority. The Regulation initially also contained a clause requiring hosting service providers to use automated means to identify and remove terrorist content; the clause is absent in the present draft of the Regulation. The Regulation is at the stage of First Reading in the EU Parliament.
+
+In December 2018, MeitY issued draft intermediary guidelines to revise the existing intermediary guidelines; intermediary guidelines provide a safe harbour to online intermediaries for the actions of internet users conditional on the fulfilment of certain obligations by internet intermediaries. The draft guidelines require internet intermediaries to deploy automated tools to proactively identify and remove public access to unlawful content. The proposed clause has been criticised by civil society organisations for its implications on freedom of speech and expression as it may result in over-censorship of the internet by internet intermediaries. Further, smaller platforms may not have the capacity and resources to develop such tools to comply with the law.
+
+In cases of violent extremist and terrorist content, it is imperative to remove such content expeditiously to stop terrorists from galvanising forces to further their cause; given the scale at which content is disseminated online, governments have to act fast to stop its dissemination making it desirable to rely on automated means to quickly identify and remove terrorist content. The commitments in the Christchurch Call are not binding on governments.
+
+However, to give effect to the Christchurch Call related to the real-time review of blacklisted content, the Indian government may debate the issue of using automated tools for removing terrorist content. It is important that the law on intermediary liability in India accounts for freedom of speech and expression; governments must require internet intermediaries, especially smaller platforms, to employ automated tools to filter terrorist and violent extremist content only when it is technically and economically feasible for them to do so.
+
+The author writes on technology policy and holds an LL.M. degree from Cambridge

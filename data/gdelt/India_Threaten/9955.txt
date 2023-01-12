@@ -1,0 +1,25 @@
+Mumbai: Cyber police cautions against Agent Smith malware spread
+
+Even as a report released by security firm Checkpoint has revealed that nearly 2.5 crore Android phones all over the world have been affected by the malware Agent Smith, the Mumbai cyber cell claims to not have received a single case. The malware can be sent to a mobile phone via third-party apps on the Google store that replace existing apps. In India alone, over 1.5 crore Android users are being affected due to the malware.
+
+
+
+"Till now, the cyber cell of the Mumbai Police has not registered any case connected to Agent Smith malware. However, we are keeping a lookout for any upcoming malware that could compromise your details and affect your system," said a police official on condition on anonymity.
+
+
+
+Meanwhile, Ankur Puranik, a cyber expert said, "Many times, when you download apps from the Play store, Agent Smith virus enter your system. Following this, it can impact your other apps like WhatsApp or banking apps, that can compromise your private and confidential details."
+
+
+
+Once it enters the phone, Agent Smith reportedly gains full access to all the files on the device. In addition to this, it will also get full access to the cellphone's different apps like camera, location services, messaging services, call logs etc. Smith's next step is displaying various advertisements related to frauds; this way, the malware might also extract all the financial details of the user. Another peculiar thing about Smith is that there is no icon for it. Therefore, the user won't even come to know about its presence inside the system. Adding to the misery, it can also replace frequently used social networking apps like WhatsApp and Google.
+
+
+
+Prashant Mali, cyber security lawyer and expert explained, "Typically, the malware sends you a pop- up in which there are different enticing propositions like porn or a discount, in a bid to lure you to click. As soon as you click, they earn money. Additionally, you also end up compromising your details. The best way is to delete data from your WhatsApp and re-install it."
+
+
+
+Till now, Google has removed 12-15 apps from the Play store.
+
+Zee Media Newsroom

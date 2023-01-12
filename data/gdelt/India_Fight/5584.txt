@@ -1,0 +1,153 @@
+Bill Gates tweeted out a chart and sparked a huge debate about global poverty
+
+Has global poverty declined dramatically?
+
+That might seem like a straightforward question to answer, but it’s become the topic of fierce debate among development wonks, economists, and scholars.
+
+The dispute all began with this chart:
+
+Produced by Our World in Data — a Gates Foundation-funded nonprofit website led by economist Max Roser that highlights long-term trends in human living standards — the chart depicts the extreme poverty rate, measured as the share of humanity living on $1.90 a day or less, plummeting from 94.4 percent in 1820 to 9.6 percent by 2015. As Roser is quick to note, it’s not “his” chart — it’s similar to charts many economists working on poverty have produced, such as one in Georgetown professor Martin Ravallion’s book The Economics of Poverty.
+
+The chart tells a story of massive global progress, a story I’ve promoted in my writing as well.
+
+But after Bill Gates tweeted the chart and others from Our World in Data …
+
+This is one of my favorite infographics. A lot of people underestimate just how much life has improved over the last two centuries: https://t.co/djavT7MaW9 pic.twitter.com/kuII7j4AuW — Bill Gates (@BillGates) January 19, 2019
+
+… anthropologist Jason Hickel stood up to say: Not so fast. In a Guardian article titled “Bill Gates says poverty is decreasing. He couldn’t be more wrong,” Hickel raises a variety of objections to the chart:
+
+The $1.90-a-day line is “obscenely low,” and “earning $2 per day doesn’t mean that you’re somehow suddenly free of extreme poverty.” A minimum of $7.40 per day, at least, is necessary for “basic nutrition and normal human life expectancy.” Using the percentage of people in poverty is misleading, and we should instead focus on the absolute number of people in poverty, which according to Hickel’s preferred $7.40-a-day line has increased since 1981. All the numbers before 1981, when the World Bank began collecting detailed survey data on poverty, are illegitimate: “Anything before that is extremely sketchy, and to go back as far as 1820 is meaningless. Roser draws on a dataset that was never intended to describe poverty, but rather inequality in the distribution of world GDP — and that for only a limited range of countries.” The chart erases the toll of colonialism, particularly in the 1820 to 1981 period. “The world went from a situation where most of humanity had no need of money at all to one where today most of humanity struggles to survive on extremely small amounts of money,” Hickel writes. “The graph casts this as a decline in poverty, but in reality what was going on was a process of dispossession that bulldozed people into the capitalist labour system, during the enclosure movements in Europe and the colonization of the global south.” Related to point 4, it’s not clear that going from a pre-monetary society to a monetary society — even if that monetary society is cutting monetary poverty at a rapid rate — represents an improvement in living standards, especially when that transition happened in large part due to violence and coercion by Western powers. “Virtually all” the reduction in extreme poverty occurred in China, which relied on extensive state support for industry and exports. “It is disingenuous, then, for the likes of Gates and [Steven] Pinker to claim these gains as victories for Washington-consensus neoliberalism,” Hickel writes.
+
+A wide-ranging back-and-forth ensued, with Harvard psychologist (and firm believer in a global progress narrative) Pinker responding to Hickel, Hickel firing back, Joe Hasell and Roser at Our World in Data defending their methodology, Hickel redoubling his critique of it, and Branko Milanovic, a CUNY economist and arguably the dean of global inequality studies, weighing in as well.
+
+But over the course of the debate, the two sides’ positions appeared, at least to me, to converge substantially. Everyone agrees that since 1981, the incomes of the world’s poorest people have gone up — even Hickel has disavowed his Guardian headline, saying it was forced upon him by editors. Everyone agrees incomes for the poor haven’t gone up enough, and that $1.90 per day is hardly enough for a human being to live a decent life.
+
+The big differences, then, are how to slice and interpret these facts, and which political interests and narratives they serve. Hickel argues that focusing on data showing declines in global poverty does political work on behalf of global capitalism, defending an inherently unjust global system that has failed residents of rich and poor nations alike. Pinker agrees that the data supports the idea that capitalism is working for the world’s poorest, and says that’s a decisive rebuttal of Hickel’s narrative of enduring persecution.
+
+Roser, as he stressed repeatedly in messages to me, just wants to be clear on what the facts say — and what they say definitively is that living conditions for the world order have improved for decades and decades. Based on my read of the evidence, that’s certainly true.
+
+Let’s start with the stuff everyone agrees about
+
+This debate can get incredibly heated (and fairly so, because the stakes are incredibly high), so it was helpful last year that Hickel and Charles Kenny — whose book Getting Better makes a compelling case that the world is, well, getting better — put together a list of 12 statements on which they can both agree.
+
+Among them (and I’m quoting directly here, as I’m sure these took considerable negotiation to arrive at):
+
+“The $1.90/day (2011 PPP) line is not an adequate or in any way satisfactory level of consumption; it is explicitly an extreme measure. Some analysts suggest that around $7.40/day is the minimum necessary to achieve good nutrition and normal life expectancy, while others propose we use the US poverty line, which is $15.”
+
+“The proportion of people living under $1.90 per day has declined significantly, but poverty as measured by $7.40/day has declined more slowly, from 70.8 percent in 1981 to 58.1 percent in 2013.”
+
+“The average consumption of people below both the $1.90 and $7.40 poverty lines and above those lines has increased. The ‘poverty gap’ (the average distance below the poverty line) has been shrinking.”
+
+“Income and consumption does not tell us the whole story about poverty. Poverty is multi-dimensional, and some aspects of human well-being can be obscured by consumption figures.”
+
+“The present rate of poverty reduction is too slow for us to end $1.90/day poverty by 2030, or $7.40/day poverty in our lifetimes. To achieve this goal, we would need to change economic policy to make it fairer for the world’s majority.”
+
+So the share of humanity in extreme poverty — measured at either a $1.90 a day or $7.40 line — is falling. People below either line are also doing better in terms of poverty; they have more money, are spending more, etc. But there’s more to life than measurable consumption, ending $7.40-a-day poverty will take many many decades, and there’s more we could do to speed up that process.
+
+While not included in the Hickel-Kenny consensus document, I would note that Hickel agrees with Gates, Pinker, Roser, etc. that some material living standards outside of poverty and consumption have improved in recent decades. According to the UN Population Division’s numbers (compiled by Our World in Data, naturally), life expectancy in China rose from only 43 years in 1950 to 76 in 2015 (in a fact convenient to no one but Bob Avakian’s politics, it even grew while Mao was killing tens of millions of people). India’s life expectancy grew from 35 to 68 over the same period; in the Democratic Republic of Congo, it grew from 38 to 59. Likewise, literacy rates and years of schooling have increased.
+
+“Yes, of course I agree that life expectancy has increased and child mortality has decreased,” Hickel wrote in an email to me. “Those data are not controversial, although I differ from Gates and Pinker in my assessment of the causes of those improvements. … As for the graphs on literacy and years of schooling: the data are accurate, but I believe these are very narrow indicators of education, and that a broader, more holistic view reveals a more complicated story.”
+
+In his letter to Pinker, too, Hickel agrees that life expectancy and education have seen gains. “In your work you have invoked gains in life expectancy and education as part of a narrative that seeks to justify neoliberal globalization,” Hickel writes. “But ... that’s intellectually dishonest. What contributes most to improvements in life expectancy is in fact simple public health interventions (sanitation, antibiotics, vaccines), and what matters for education is, well, public education.”
+
+So while there is obviously vociferous disagreement about what political narrative the facts on life expectancy and education supports, everyone appears to agree that the world has made major progress on both.
+
+That’s about where the agreement stops.
+
+Poverty lines and absolute numbers
+
+Let’s start with Hickel’s critique of the Roser chart. Roser relies on survey data from the World Bank that Hickel himself concedes is basically reliable, some disagreements about purchasing-power adjustments aside. Hickel insists that the $1.90-per-day poverty line is unacceptably low and that we should focus on absolute numbers — how many total people are living in poverty — as well as the share of people in extreme poverty.
+
+Hickel is on firm ground in calling for a higher poverty line. Lots of development economists think a more useful line would be higher, maybe much higher — Kenny and economist Lant Pritchett have argued in various places for a line of $10 to $15 a day, much closer to the US poverty line (about $17.60 per person per day for a family of four). Kenny is clear that he doesn’t think this idea has the support of the “scholarly consensus” that Hickel claims it does, but no one argues that $1.90 per day per person is enough for a decent living. Update: Indeed, Roser himself agrees, writing in a Twitter DM, “I also very much agree that higher poverty lines are important to use. (I even wrote a paper last year to suggest a higher one).
+
+We can and should be aiming for more.
+
+The problem comes when Hickel asserts that increasing the poverty line dramatically changes our picture of what’s happening. It’s true that the proportion of people living on under $7.40 a day fell less rapidly than the proportion of people living on under $1.90 a day — but what that tells us, primarily, is that there was a large group of outrageously poor people subsisting on, say, 50 cents a day, who in recent decades have climbed up to earn, say, $2.50 per day.
+
+That’s not good enough by any stretch of the imagination, and they deserve more help. But that’s nonetheless real progress that a higher poverty line deliberately excludes — just as a lower poverty line excludes people who go from $2.50 per day to $4.50 per day, who also see a dramatic improvement in their quality of life.
+
+The important thing isn’t the line so much as the distribution: Are the world’s poorest people making more money overall? And the answer to the latter is yes, they are, as Hickel himself concedes.
+
+This chart from a 2013 paper by Shaohua Chen, the lead development statistician at the World Bank, and Martin Ravallion requires some unpacking but illustrates the point well:
+
+(Thanks to Ryan Briggs for the pointer.)
+
+The x-axis represents different hypothetical poverty thresholds: $1.90 per day, $7.40 per day, all the way up to $13 per day, or roughly the US line for a family of four. Then the y-axis tells what percentage of humanity lived below that poverty line in a given year. The blue line shows the distribution for 1981, the black line for 2008; let’s just compare those two to keep things simple.
+
+Obviously, a poverty line of $0 has no one living under it. And a poverty line of $1 billion a day would have everyone living under it. But what this chart shows is that for every poverty line between $0 and $13 per day, and potentially above that even, poverty was lower in 2008 than it was in 1981. That wasn’t true if you compared 1999 to 1981; all the progress between those years was at the very low end, so $6- or $7-a-day poverty wasn’t reduced. But we’ve reduced poverty from 1981 to 2008 using basically any threshold you could possibly want to use.
+
+This doesn’t answer the question of what line science communicators should use. I am not as outraged as Hickel is by use of the $1.90-a-day line, as I think it shows part of a broader story that holds true for whatever poverty line you choose. But I’d personally be happy to change to $7.40 a day, which would show something very similar happening.
+
+On absolute numbers, I fear Hickel has a weaker case. Hickel likes to note that while the share of people living under $7.40 a day has declined from 1981 to the present, the number of people living below it has increased.
+
+“If the goal is to end poverty, what matters is absolute numbers,” he writes. “Certainly that’s what matters from the perspective of poor people themselves.”
+
+This is the same reason that figures like Hickel’s sworn enemy Bill Gates worry about population growth in poor countries. But I think Gates is wrong about that, and that Hickel is as well. Another way of saying “the poverty rate fell while the absolute number of poor people increased” is that a lot of middle-income countries, with lots of people living on between $1.90 a day and $7.40 day, saw their populations grow. There are more Indians now, more Indonesians, more Nigerians, more Kenyans.
+
+That’s not a bad thing. Using absolute numbers risks confusing reducing poverty with preventing poor people from existing. The latter is a much weirder and frankly more disturbing goal. The history of Western countries trying to intervene in population growth in the developing world is extraordinarily ugly, full of forced sterilizations and other human rights abuses. Part of why populations have increased, moreover, is due to profound improvement in health and food supply like the Green Revolution, smallpox eradication, malaria bednets, etc. Is the success of those policies really evidence that poverty increased?
+
+More conceptually, it doesn’t really make sense to interpret the choice of a poor woman in India to have another kid as “increasing poverty.” What most people in the development field want to ensure is that the people who do exist, however many of them there may be, are as well off as possible. Using percentages is a better approach for that, though even percentages can be affected by population growth effects if fertility in poor countries dramatically outpaces fertility in rich countries.
+
+When I reached out to Hickel about this issue, he pushed back, arguing that in a rich world, we should assume that any individual born into poverty is a policy failure. “In rich nations like the UK or US we would never say that a growing poverty rate has to do with reproduction,” he wrote in an email. “No, we would point out that it has to do with the minimum wage being too low, or weak labour rights, or subprime mortgages, or inflated housing prices, or whatever. We identify systemic causes, because we know that poverty amidst plenty isn’t natural, it is created. So why when it comes to the global South do we imagine otherwise?”
+
+This feels to me a bit like an evasion of the question. We use poverty rates, not absolute numbers, in discussions of US poverty as well. But in some ways, Hickel’s response reflects the crux of the dispute between him and Roser. Roser — like most economic historians — does not view poverty as created but as the original state of humankind from its inception until the Industrial Revolution. It is a policy failure insofar as we finally have the tools to end it now and have not done so yet, but what we’re attempting to do is escape humanity’s natural, brutal conditions. Hickel sees things differently.
+
+The historical data debate
+
+That brings us to the second major dispute: Should we trust data before 1981 on global poverty?
+
+Hickel and Kenny were able to agree about the above numbers because they’re relying solely on World Bank survey data, which began in 1981. But the Our World in Data chart that set off this whole debate relies not just on the World Bank data but on a historical data set extending back to 1820, compiled by economists François Bourguignon and Christian Morrisson; it was published in a 2002 American Economic Review article titled “Inequality among World Citizens: 1820-1992.”
+
+Bourguignon and Morrisson’s numbers in turn draw on work by Angus Maddison, the late British economic historian who along with his research partners and students spent decades assembling a massive database of gross domestic product and GDP per capita estimates dating as far back as the year 1 AD; those numbers are still being maintained by other researchers after his death. The first Maddison database to go back to 1820 debuted in 1995.
+
+It is excruciatingly difficult to generate these kinds of estimates. In 1820, national governments weren’t producing the economic estimates they do today, and usually lacked the income taxes and corporate taxes that would provide them with the data to do such estimation in a straightforward manner. Neither Maddison’s GDP numbers or Bourguignon and Morrisson’s poverty rate extrapolations are thus as reliable as the World Bank data.
+
+What Hickel is arguing is that a chart that combines World Bank data with Bourguignon and Morrisson’s data to construct a longer narrative is relying on data so weak as to be useless, and conflating real numbers with rough estimates.
+
+Hasell and Roser of Our World in Data argue that the Bourguignon and Morrisson numbers are still useful and worth including. “I very much agree that we have to understand the limitations of that data,” Roser said in a Twitter message. “That’s why I’m not just making chart, but worked for 10 years to write a publication that explains what is behind it. Just with any research it of course cannot be reduced to a single number, single chart, or single quote.”
+
+Hasell and Roser offer the example of how historical estimates of Britain’s GDP have been constructed. The researchers Stephen Broadberry, Bruce M.S. Campbell, Alexander Klein, Mark Overton, and Bas van Leeuwen, for instance, reached their estimate by going through dozens of steps involving data on individual crops and livestock to approximate what England’s economy was doing in the 1850s.
+
+Hickel rebuts that the richness of the data on England contrasts with a paucity of data in much of China and Asia. “For Asia and Latin America, data for prior to 1900 exists for only three countries each,” he writes. “For Africa there is no data at all prior to 1900, and data for prior to 1950 exists for only three countries.”
+
+Roser argues that this is, essentially, quibbling. We know that most of Africa was in extreme poverty at that time through other sources, he says. “For Africa we really don’t have many reconstructions,” he wrote in a message. “But we have some, and these don’t suggest that people in Africa were much richer than Europeans at the time. … But you could also ask how much the uncertainty for Africa can possibly matter for our estimates of global poverty. The population of Africa was 8% of the world population. Even if all Africans at the time were billionaires this would mean that the global poverty rate would be at most 8% lower.”
+
+Ultimately, this part of the debate is about what to do with incomplete data. Is it acceptable to use a flawed, not globally representative set of numbers like Bourguignon and Morrisson to illustrate the long-term decline in extreme poverty? Or is it unacceptably misleading?
+
+Hickel argues forcefully that Roser and Our World in Data need to take down the chart going back to 1820, or at least add caveats about the disparate data sources. Roser argues that the story the chart tells is accurate, that we know it’s accurate due to various sources outside the Maddison and Bourguignon and Morrisson data, and that Hickel is attempting to muddy the waters.
+
+“What is really frustrating about it is that [Hickel] publicly gives the impression we don’t really know, which given all I said … and economic historians said in hundreds of great research publications is absolutely not true,” he wrote to me. “That’s not fair to us I feel, it is not fair at all to the research that is out there, it just really misinforms the readers. The Guardian article that says ‘it’s all wrong’ will stick.”
+
+How do we deal with colonialism?
+
+Hickel’s broader view is that what the 19th century saw was a process of forced dispossession by colonizing nations, which transformed a period of affluence and comfort for conquered native peoples into one of rapacious capitalism. Rather than the constant march of progress that Hickel perceives charts like Roser’s to portray, what happened was profound violence and dislocation that can hardly be called “escaping poverty.” Sure, a Zulu citizen before British conquest might not have earned hard currency, but she had a far better quality of life than the one the imperialists offered her, Hickel argues.
+
+Basically no one in this debate disagrees that colonialism was a horrifying, morally indefensible process. “Of course I agree that colonialism was one of the most awful institutions the world has ever seen,” Roser noted to me via Twitter. “Not only, but also because of the terrible impact it had on the development until today, as we know from the studies of economic historians that rely on the data they produced.”
+
+The factual disagreement, then, is more over whether precolonial societies can be meaningfully said to be “in poverty” when monetary poverty wasn’t really a relevant concept.
+
+Roser insists that we can. “We know about poverty in the past not only from the reconstructions of consumption or income measures but also have the reality check of how living conditions were more broadly (health, mortality, technology evidence, agriculture, food intake, housing etc.),” he wrote to me. “There isn’t evidence that Africa or elsewhere was significantly richer than the UK.”
+
+But Hickel takes issue with this depiction of precolonial societies as “poor.” In his book The Divide, he argues that precolonial agricultural societies in Africa and India were “quite content” with a “subsistence lifestyle.” In Africa, for instance, he writes that “most people had access to land on which to graze their cattle and grow food for their families. They didn’t see why they should leave their homes for back-breaking labor on plantations and in mines.” Likewise, before the British forced a new agricultural system, Hickel writes that Indian farmers raised crops for “subsistence,” and were rendered vastly worse off when British colonial authorities imposed a new system on them.
+
+Again, there’s no disputing that colonialism made conditions on the ground worse. But that doesn’t mean that precolonial living conditions were good. The agricultural revolution, which took hold in Africa, India, the Americas, and Europe alike, reduced food security and increased material need, according to many anthropologists. Until the Industrial Revolution made real, sustained economic growth possible, most of humanity was stuck in a Malthusian trap, where economic growth and poverty reduction only led to a population increase that could not be supported, leading to starvation. And, again, life expectancy was far lower, and literacy far less common.
+
+If Hickel argues that $1.90 a day is too low a bar to set for poverty, I’d counter that a definition of poverty that doesn’t include Malthusian conditions before industrialization is inadequate as well. Conditions were not great — even if everyone concedes Europe spent a century or more doing its damnedest to make life for its victims even worse.
+
+And sure enough, if you look again at the chart that opens this post, you’ll see that extreme poverty fell by very, very meager amounts before about 1950, gains that were concentrated in rich European countries thriving off of extracting resources from the global South.
+
+That’s consistent with the story’s Roser’s telling: All of humanity was poor, barred from breaking out of bare subsistence, until industrialization; colonization prevented the mass of humanity from benefiting from the economic growth that industrialization enabled in Europe and North America, and substantially worsened conditions for its victims; but global growth from 1950 onward led to a massive poverty reduction.
+
+The political stakes
+
+“One thing that frustrates me a lot is that I am assigned positions which I don’t have,” Roser wrote to me. Our World in Data doesn’t only show positive developments; it also shows how inequality has surged within nations and how climate change has accelerated, among other negative trends. Roser agrees that we’re not moving fast enough to end poverty. He’s not opposed to government health and education programs — indeed, he touts evidence showing how well they’ve worked!
+
+But Hickel and Pinker, too, aren’t interested merely in the granular disputes detailed above. They’re fighting about a narrative. Hickel views Pinker and Gates as defenders of a neoliberal capitalist world order, where countries are urged to disinvest from important safety net programs and adopt deregulatory policies that could devastate their citizens. Worse, by citing data going back to 1820, he sees them as whitewashing the violence of colonialism, casting recent world history as a narrative of nonstop progress.
+
+Pinker, for his part, described Hickel as “a Marxist ideologue enabled by the Guardian,” adding, “The political agenda of Hickel and other far leftists is obvious: it’s humiliating to their world view that the data show massive improvements due to markets and globalization rather than an overthrow of capitalism and global redistribution.” To which Hickel, of course, retorts that the biggest gains were seen in China, hardly anyone’s idea of a pure capitalist society.
+
+These perceived political stakes are the main reason this fight has gotten so heated. But if we narrow in on the actual numbers that people across the debate can agree on, there’s less disagreement than one might think. Just about everyone agrees life expectancy is up, education is more common, and poverty rates are down over the past three or four decades regardless of where you set the poverty line. And just about everyone agrees we have a lot further to go.
+
+I think the basic fact that we’ve made progress in recent decades is important. Politics and the global economy are dismal places, especially if you only see them through the lens of news coverage. It’s easy to become fatalistic. What I take from the progress against extreme deprivation and poverty isn’t a sense that the mission is accomplished, or that Friedrich Hayek was never wrong, but a sense that things can get better, and that trying isn’t hopeless. I hope Hickel, Roser, and Pinker alike can agree on that much.
+
+Sign up for the Future Perfect newsletter. Twice a week, you’ll get a roundup of ideas and solutions for tackling our biggest challenges: improving public health, decreasing human and animal suffering, easing catastrophic risks, and — to put it simply — getting better at doing good.

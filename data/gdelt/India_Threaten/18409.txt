@@ -1,0 +1,35 @@
+Cloud computing finally became mainstream in 2019 and there is much to look forward to
+
+The global cloud space picked up pace in 2019 and is now expected to register a big growth over the next couple of years. And India is all set to play a big role in all of it.
+
+You can gauge the growth of cloud computing by just looking at the evolution of Big Tech over the years. Amazon has already become one of the top players with AWS and Microsoft has transitioned into a prominent cloud player with Azure. Google is now trying to push cloud beyond 'enterprise' with services such as Google Stadia.
+
+In 2019, cloud computing truly became mainstream, more than ever and the trend is here to stay.
+
+Nasscom predicts that the cloud computing market is set to triple by 2022 to a compound annual growth rate (CAGR) of 30% and hit $7.1 billion. Gartner, earlier this year, had estimated that the global public cloud services market would grow 17.5% in 2019 to a total of $214.3 billion. By the end of 2022, the total cloud market is estimated to hit $33.1 billion. For India, in specific, Gartner has predicted that the market will grow 25% in 2020.
+
+Cloud computing also figures in IDC's top predictions for 2020. "To compete in the digital-first economy, digital services must be able to run anywhere and anytime. This will demand greater integration of applications, data, and management across all cloud providers and locations. By 2022, 70% of enterprises will integrate their public and private clouds by deploying unified hybrid/multi-cloud management technologies, tools, and processes," said an IDC report.
+
+If the predictions are to be believed, India is set to become one of the biggest cloud markets in the world soon.
+
+One of the biggest cloud developments of 2019 was IBM's acquisition of Red Hat. Valued at $34 billion, this was IBM's biggest acquisition in its more than 100-year history. The deal is being widely looked at as IBM's efforts to scale its cloud business, especially in the hybrid cloud segment.
+
+Salesforce, another key cloud computing firm, acquired analytics platform Tableau for $15.7 billion in June this year. Tableau said the acquisition will help its data analytics services become more accessible to enterprises around the world.
+
+Global Public Cloud Service Revenue Forecast (Gartner)
+
+Back in India, Reliance Jio announced plans to leverage cloud infrastructure. The company has partnered with Microsoft to integrate Azure and Azure AI in its services. Reliance Jio is looking to tap the growing small and medium businesses and startups in India with its cloud foray.
+
+"2019 was a landmark year for public cloud adoption. In 2020, we expect many more Indian businesses to deploy mission-critical, production workloads in the public cloud. Because Indian companies understand the need to transform into digital-first businesses and are ahead of some of their JAPAC peers when it comes to cloud adoption. The drivers include increasing access to enterprise-grade solutions, the need for CIOs to focus more on accelerating innovation to drive core business growth, and a dynamic business landscape powered by several new technologies," said Mitesh Agarwal, VP, Global Key & Lead Accounts, Oracle India.
+
+Vikas Bhonsle, CEO at Crayon Software Experts, said, "With newer technologies such as AI and IoT paving their way into industrial and consumer-oriented companies, tech innovations are moving at a speedier pace than expected. Cloud technology which was considered cutting-edge a few years ago is now mainstream for many businesses. 2019 was more about laying the groundwork for these massive tectonic shifts in the IT industry."
+
+ALSO READ: How cloud-based gaming platforms like Google Stadia can kill traditional consoles
+
+"We shall all agree to the fact that the revolution in digital space has encouraged and led organizations to innumerable innovations and improve business outcomes. These new innovations are becoming more mature and are driving advancements and creating new paradigms across all sectors in an interconnected world," he added.
+
+Cloud computing isn't likely to be a standalone proposition in the future. In 2020, we're probably going to see a deeper integration of cloud with automation, artificial intelligence and others. However, having said this, Cloud's growth will not be without challenges.
+
+"One of the classic challenges cited by enterprises for holding back on their cloud journey is complexity. Also, the inability to balance spends across different services, data residency, constraints created by limited visibility and command over cloud spends, and unawareness of how to fully leverage their current on-premises software investments in the cloud are some of the common constraints that enterprises cite," said Agarwal.
+
+"Take the banking industry for example. In the world of 'Insta-Everything', banks today are under solid pressure to both perform and stay relevant in the market at the same time. Cloud is no more an 'IF' question, it's no more a 'Why' question, it is now a 'How quickly can I get onto a Cloud journey' question," he added.

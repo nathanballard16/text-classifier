@@ -1,0 +1,61 @@
+Will the data protection bill make the internet safer for Indians or drive away global investors?
+
+Indians’ long wait for a policy framework that safeguards their privacy, at work and in personal spaces, may end soon. On December 4, the Narendra Modi government approved the personal data protection bill, which provides guidelines for the collection, storage, and processing of citizens’ data with an emphasis on the need for the individual’s consent to share it.
+
+The bill comes against the backdrop of WhatsApp’s admission in October that over 1,400 of its users, including 121 Indian journalists and activists, were targeted for surveillance this year, allegedly by the Israel-based technology firm NSO’s Pegasus spyware.
+
+The National Association of Software and Services Companies, commonly known as Nasscom, has been keenly following the bill ever since it was drafted last year. Even as the details of the draft law are awaited, it is expected to provide clarity on the government’s stance that data collected by foreign companies such as Facebook, TikTok and Google must be stored on Indian servers.
+
+In an interview with Quartz, Ashish Aggarwal, senior director and head, policy and advocacy at Nasscom, talks about how crucial the bill is for the foreign firms and the challenges of putting together an effective data protection bill. “Data ownership and storage is a complex subject in a global and connected world,” said Aggarwal. “Eventually, the government needs to come up with a framework that addresses inadequacy in data ownership and protection.”
+
+He also talked about key issues such as the contested practice of deep discounting by e-commerce firms, and increasing curbs on the H1-B visa by the Donald Trump administration. Edited excerpts:
+
+What are your views on local data storage?
+
+The emergence of new industries such as fintech and e-commerce has put the focus on data storage norms and protection. Going by its stance so far, it’s clear that the government is big on ownership and local storage of data. However, the stand is a bit of an overkill given that the question of ownership of data is a complex one.
+
+Do you think there is a need for companies like Facebook and TikTok to store their data in India?
+
+Technology and e-commerce companies are batting for flexibility in data ownership and storage norms. Broadly, the government needs to look at cross border data flows to draft a fair and balanced data protection policy. The policy has to keep pace with the evolving nature of the industry. Look at where our banking industry was vis-à-vis data protection laws five to seven years back. It was a completely different scenario back then. Now, data from e-commerce and fintech industries overlap with financial data. So today we are framing data protection laws not only for consumers in the banking sector but for other industries as well. The framework for any law on data ownership and protection needs to be broadened.
+
+Do you think data localisaton norms will scare global internet players away from India?
+
+The government needs to go by a larger industry perspective. It needs to look at the impact of data protection laws from the perspective of global companies, too. Data ownership and protection is not just an India problem. It’s the subject of bilateral arrangements with countries with [which] we do business. More synergy and a multi-national approach is required to create a sound data protection policy.
+
+Making a law asking companies to store data locally in India and ensuring its implementation by itself is not a concern. It’s a matter of cost and time rolling back into business decisions, which is a challenge. Some of the companies might find it unviable to follow such requirements.
+
+India’s latest e-commerce policy restricts companies from offering deep discounts. Yet, it’s a global trend that online is cheaper than offline. Is the Indian government fair in implementing this policy?
+
+Deep discounting is a major concern because in cases where larger players have the ability to sustain discounting for a long-time, smaller ones are at a disadvantage. So online selling platforms need to be more neutral. This debate around discounting and platform neutrality takes us back to the fact that we don’t have a national competition policy.
+
+We are trying to drive competition. In doing so, you need to think about where you need to act. How one helps startups and entrepreneurs is where this entire dialogue of having a national competition policy fits in. Talking about protectionism is fine but you want companies in India to grow as well. Our policy stance has to reflect this. Alongside this, our Consumer Protection Act needs cleaning up. We have to see how we protect consumer interest in e-commerce.
+
+Do you think e-commerce players in India have created a distinction for themselves that goes beyond just discounting?
+
+For any technology-led platform to be successful, it’s important to create a distinct identity. It’s difficult to say whether consumers go to e-commerce platforms only for discounts. None of the studies available publicly provide definite conclusions to this effect. Deep discounting is one of the customer acquisition strategies. It’s just that it is running its course longer here [in India]. At the same time, it’s difficult to say that traditional [offline] business models have suffered as a result of competition from online businesses.
+
+Are the Indian government’s efforts to support startups and entrepreneurial culture in India sufficient? If there was one area where you feel policies could be better, what would it be?
+
+
+
+Technology startups have evolved. The government’s decision to offer angel tax relief to startups is a move in the right direction. We cannot say the government has all the right solutions for startups. But at least the intent is there as the government is focused on creating an environment where startups can do well.
+
+Startups, particularly technology players, have done a good job with fundraising. One of the areas where the government needs to do more work is in creating an ecosystem for building up resources for startups. Again, research and development do not happen in isolation. The government has an important role in facilitating academic connect and backing incubators.
+
+Does cryptocurrency have a future in India?
+
+Going by the government’s public statements and few reports published by the ministry of finance in the past, it’s clear that cryptocurrency is not a priority for them. The way the government has defined cryptocurrency is anything but a set of codes. You have to be upfront and say these are the tokens that are not a cryptocurency and move ahead. There has to be clarity around what a currency is and what’s not.
+
+The Indian economy is witnessing a slowdown. Has the IT industry seen a slump?
+
+A large part of our industry is focused on exports. The industry is growing at 5-9% annually. So far, there has been no significant impact of the economic slowdown on the IT industry. We keep reassessing the situation as we cannot be completely isolated from economic developments. The industry is the largest forex earner. A depreciating rupee helps the Indian IT sector.
+
+Is the protectionist rhetoric in the US impacting Indian IT companies?
+
+The debate around the H-1B visa has shifted from qualitative to quantitative over the years. The debate around the H-1B visa has shifted from qualitative to quantitative over the years. What I draw from various studies is that the majority of them are not taken by Indian companies, but by global firms. So too much tightening of rules may hurt global companies. Why would the US jeopardise it? The entire debate around H-1B visa also leads to the question of how Indian companies can create more jobs in the US.
+
+As an industry body, what are the key policy areas that you want the government to focus on?
+
+The IT industry is forever evolving. The focus is on digital transformation. Meanwhile, the government needs to look at the special economic zone policy for setting up more IT hubs. The industry has not heard much about SEZ development post the Baba Kalyani report.
+
+This article first appeared on Quartz.

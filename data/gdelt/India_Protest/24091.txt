@@ -1,0 +1,17 @@
+Ola expands AI-enabled safety feature ‘Guardian’ across 16 Indian cities
+
+Ola has announced the expansion of its AI-enabled safety feature, Guardian, in more markets across India and Australia. The Ola Guardian uses real-time data from rides to automatically detect irregular trip activity including prolonged stops and unexpected route deviations.
+
+Ola has announced the roll-out of Guardian feature in 16 Indian cities along with Perth in Australia. The feature was running in the pilot phase in international markets and across multiple cities in India including Bangalore. The ride-hailing platform says that it aims to take ‘Guardian’ to more cities in the coming quarter.
+
+The Ola Guardian detects irregular trip activity and reports to the mobility platform’s Safety Response Team. The alerts are flagged off in real-time by the SRT, which reaches out to the customer and driver to confirm if they’re safe. The team also offers on-the-call assistance until ride completion.
+
+Through the Emergency button on the Ola app, customers also have the option to alert police authorities and their contacts in parallel. Ola says that the Guardian feature is built on artificial intelligence and machine learning capabilities on the platform which enables it to continuously learn and evolve from millions of data points in order to improve risk signalling and its resolution.
+
+File photo of Uber and Ola cabs parked as drivers protest outside the Delhi Secretariat after ban of Taxi services in New Delhi (Express photo by Ravi Kanojia) File photo of Uber and Ola cabs parked as drivers protest outside the Delhi Secretariat after ban of Taxi services in New Delhi (Express photo by Ravi Kanojia)
+
+On the Ola app, the current safety measures include the Emergency Button, facial recognition system for driver authentication, and one-time-password (OTP) system. The facial recognition system aims to prevent driver impersonation, which prompts on-duty drivers to upload a selfie and authenticate themselves multiple times in between rides.
+
+Ola says that this feature is live across India and is also being piloted in various international markets. Ola claims that it conducts mandatory verification through stringent criminal record checks. It also claims to provide mandatory online training for drivers that includes modules like customer service and etiquette, platform usage, partner support, defensive driving amongst others. The ride-hailing service says that these measures have all been built in India and now lead the global benchmarks for the mobility industry.
+
+Earlier this year, Ola said that it is increasing its focus on using advanced analytics and deep technology to build futuristic mobility solutions for India and other markets. The platform acquired Pikup.ai, an artificial intelligence start-up from Bengaluru in August this year.

@@ -1,0 +1,57 @@
+Explained: Where can you fly a drone in Delhi? What permissions will you need?
+
+Flying of drones is banned over Delhi, and specifically over the Vijay Chowk area — something that the two Americans, Peter James Lynn (65) and Guillaume Leadbetter Lynn (31) have reportedly claimed they were unaware of. (Representational Image)
+
+A father and his son, both citizens of the United States, were detained on Saturday for flying a drone fitted with a camera above the high-security zone in Lutyens’s Delhi. The drone was spotted above Rashtrapati Bhavan around 6.45 pm Saturday, and its camera was found to contain footage of Central Secretariat and nearby buildings.
+
+Flying of drones is banned over Delhi, and specifically over the Vijay Chowk area — something that the two Americans, Peter James Lynn (65) and Guillaume Leadbetter Lynn (31) have reportedly claimed they were unaware of.
+
+While this prohibition follows a specific security threat from terrorists, the general guidelines issued by the civil aviation regulator, Directorate General of Civil Aviation (DGCA), also lay down specific no-go areas for drones.
+
+These guidelines, issued last year, classified civilian remotely piloted aircraft systems into specific types, and made it legal for ordinary enthusiasts to operate drones in India, subject to various requirements and clearances. The guidelines came into effect on December 1, 2018.
+
+Types of drones
+
+DGCA has identified multiple categories of drones, which can be broadly classified as ‘Nano’ (weighing up to 250 g), ‘Micro’ (more than 250 g but less than 2 kg) and ‘Small and above’ (weighing 2 kg or more).
+
+Every drone that is bigger than a ‘Nano’ must obtain a unique identification number (UIN) from the aviation regulator (similar to the registration number for a car). This number must be displayed on the remotely piloted aircraft.
+
+A UIN will be issued once, against a fee of Rs 1,000, and will not be issued to a foreign citizen or entity. It was not immediately clear how big the two Americans’ drone was, and whether it was illegal on account of not having a UIN.
+
+Users of bigger drones will be required to obtain a Unique Air Operator’s Permit (UAOP), similar to a driver’s licence. The permit will cost Rs 25,000 and will be valid for five years. Renewals will cost Rs 10,000.
+
+The UIN and UAOP can be obtained from the online platform Digital Sky. The permits will be issued in less than a week, DGCA officials had said at the time the drone policy was notified.
+
+Flying conditions
+
+All drones other than those in the ‘Nano’ category must meet mandatory equipment requirements such as GPS, anti-collision light, ID plate, radio-frequency identification (RFID) and SIM facilities with software that ensures ‘no-permission, no-takeoff’, among other features.
+
+Before flying a ‘Small’ or bigger drone, an operator has to file a flight plan, and inform the local police, so that the machine can reach a height of 400 ft or more, and use both controlled and uncontrolled airspace. Again, it is not clear if the Americans’ drone was compliant with these requirements.
+
+‘Micro’ drones will be required to submit a flight plan only if using controlled airspace; the operator must, however, inform the local police in all cases. Many drones used for amateur photography fall in this category. These aircraft will need a UIN but no UAOP, and will be allowed to climb only to a height of 200 ft.
+
+‘Nano’ drones will be able to operate freely, without any registration or permit, but their operations will be restricted to 50 ft above the ground, and to uncontrolled airspaces and enclosed premises.
+
+All those requiring a UAOP must undertake a five-day training programme that will expose them to regulations, basic principles of flight, air traffic control procedures, weather and meteorology, emergency identification and handling, etc.
+
+These operators will also have to take written tests and flight simulator tests before they are issued permits.
+
+Only during day
+
+All categories of drones must be flown in the visual line of sight, and only during daytime.
+
+An item in the DGCA’s FAQs issued last year said: “I am a wedding photographer… Most of the marriages in Northern India happen after sunset. Can I use my (Micro) drone for covering marriages at night?” The regulator replied that while all drone operations are restricted to daylight hours, photography using drones is allowed in well-lit enclosed premises. But it would still be mandatory to inform the local police before flying.
+
+No-fly zones
+
+The regulator listed 12 categories of “no-drone zones”.
+
+These include the area up to 5 km from the perimeters of the high-traffic airports of Mumbai, Delhi, Chennai, Kolkata, Bengaluru and Hyderabad. For other airports, the no-drone zone extends up to 3 km.
+
+Drones cannot fly closer than 25 km of international borders, including the Line of Control and Line of Actual Control.
+
+The area within a 5-km radius of New Delhi’s Vijay Chowk is a no-drone zone; this, however, is subject to any additional conditions/restrictions that local law enforcement agencies/authorities may impose for security reasons.
+
+A drone can’t be flown within 2 km from the perimeter of strategic locations and vital installations notified by the Ministry of Home Affairs, unless cleared by the Ministry; within a 3 km radius of secretariat complexes in state capitals; and from a mobile platform such as a moving vehicle, ship or aircraft.
+
+The Americans seem to have been non-compliant on both these counts above.

@@ -1,0 +1,43 @@
+‘India’s statements about Zika virus in Rajasthan are detrimental to public awareness’
+
+Yale scientist Nathan Grubaugh criticises the central and state response to the Zika crisis, praises Down To Earth’s Madhya Pradesh reportage on the issue
+
+The Indian government’s press release issued on November 3, 2018, about Zika not causing microcephaly (birth defects) was flawed, says Nathan Grubaugh, an assistant professor in the Department of Epidemiology of Microbial Diseases at the Yale School of Public Health, United States (US). He also heads The Grubaugh Lab located there. He and his team study combating infectious diseases around the world.
+
+In an interview to Down To Earth (DTE) in the light of a recent paper by Pune’s National Institute of Virology (NIV), he says it (the paper) would be an important milestone to study Zika in India. He, however, says the Indian government’s rebuttal to the US-based Centers for Disease Control’s (CDC) advisory cautioning travel to India was unfounded. He also says the way the Madhya Pradesh government responded by asking Zika-positive women to get their foetuses aborted, as reported by DTE, was unheard of anywhere in the world. Excerpts:
+
+NIV’s paper clearly says that the mutation S139 N, which is conventionally supposed to cause microcephaly, was not found to be present in the Rajasthan strain though its possibility was not ruled out given the virus’ changing nature. On November 3, 2018, the Indian government, in their official press release, had almost ruled out such a possibility. How do we reconcile the two findings?
+
+The Indian government did not rule out that additional mutations might occur, which is different from ruling out microcephaly. But yes, I get your point and agree with you that essentially, they were trying to say that because they did not detect the S139N substitution (i.e. the “microcephaly mutation”), it could not cause microcephaly. In general, saying that the virus mutates is not synonymous with saying that it will cause more severe disease. The whole press release was bad and based on an incorrect interpretation of scientific literature. There are no Zika virus mutations that can determine disease severity in humans.
+
+The paper also quotes a 2018 study from Thailand, saying that even in the absence of the S139N mutation, cases of microcephaly were reported.
+
+I wrote a perspective with several other leading Zika virus experts from around the world (to be published next week) arguing that the presence or absence of the S139N substitution does not dictate disease severity in humans. The Indian government was falsely led to believe this by the paper by Yuan et al in (journal) Science (linked above). Thus, the statements by the Indian government that the Zika viruses circulating in Rajasthan do not have the “known mutation for microcephaly” and “cannot cause microcephaly” are incorrect and detrimental to public awareness and could diminish supportive care for infected pregnant women.
+
+In the Gujarat outbreak case, the paper states that it was a pre-outbreak strain while in case of Rajasthan, they term it as a ‘current Asian outbreak’ strain. On the other hand, they also write in the last paragraph that the virus was present in Rajasthan’s Ajmer, before the current outbreak. How then, are the two strains different?
+
+The authors only did partial virus genome sequencing from the Gujarat isolate; so it is hard to say how related they are for sure. From their data, the virus from Gujarat does not seem to be linked to the outbreak in Rajasthan. Hence, I am not sure about calling it “pre-outbreak” (I don't really like the nomenclature here since we don't know if it is linked to an outbreak or not). Overall, the viruses from the two states are genetically similar but appear to have unrelated transmission cycles (i.e. Zika virus from Rajasthan did not come from Gujarat, or vice versa).
+
+The NIV researchers say the virus might have travelled from Malaysia to Gujarat, while in Rajasthan’s case, we know that it too is an Asian strain although we don't know what it is specifically. Can we attach any special significance to this finding?
+
+The so-called “Malaysian strain” the authors are referring to, is the first isolate of the Zika virus in Asia (1966), from which, all other Zika viruses in the continent evolved. Based on the data from the authors, there is no way that they can conclude that the Gujarat strain travelled though Malaysia. There simply isn't enough data. All they can say is that the Gujarat and Rajasthan Zika viruses are genetically distinct viruses involved in separate transmission cycles (and circulating independently)
+
+What is the significance of independent circulation?
+
+Independent circulation suggests that the Zika virus could be widespread in India, meaning that there may have been several small, unnoticed outbreaks throughout the country/region. The Zika virus was first introduced from Africa into Asia more than 60 years ago and has consistently been found in the region ever since, indicating that it is endemic. This low level endemic transmission (which would produce small, sporadic outbreaks) could provide sources for new Zika viruses to be introduced into India.
+
+How scientifically important is the NIV study?
+
+The authors of this paper did a nice job with their cautious messaging about the role of the S139N substitution and I hope that it helps the Indian Council of Medical Research (ICMR) change their perspective on this subject. With so little Zika virus genetic data from Asia, this paper serves as a nice foundation for understanding future Zika virus transmission and outbreaks in the region.
+
+Down To Earth travelled to Madhya Pradesh and reported that at least two pregnant women in the state’s Vidisha district had said that local health officials had threatened to get their foetuses aborted since they were found to be Zika positive. Have you found any such parallels anywhere else in the world?
+
+First, let me say that it was excellent journalism. To answer your question, no, I've never heard of this and it is appalling. There are several basic protocols to follow to monitor pregnancies for Zika-related congenital disease, which are mostly based on ultrasounds. I've never heard of clinicians advising or pushing for abortions just based on Zika infection.
+
+It is also odd that they were doing this considering the statements from the ICMR that Zika virus cannot cause microcephaly (which is not true). But in that case, why push for abortions? What should be happening is properly educating the public on how to protect themselves from Zika virus infection and how to get access to care during pregnancy to monitor for birth defects. Congenital Zika Syndrome is terrible, but families should be able to make their own decisions based on education, not fear.
+
+The US-based CDC had issued an advisory for pregnant women and advised them not to visit India. India strongly objected to it, asking for the advisory to be withdrawn or modified. India rebutted it and had particular objection with the word 'endemic' in the advisory. Your comment.
+
+This is a safe advisory by the CDC, which they also have in place throughout Asia. It is still too early to know the true extent of Zika virus transmission and outbreaks, and because pregnant women are the most vulnerable, it is likely advisable for them avoid these areas if possible. India’s objection to this is not founded in reality. They have no idea that the cases were localised because most cases are never detected (no apparent symptoms).
+
+The most likely scenario is the Zika virus is endemic to India, considering 1) that different Asian lineage viruses are found in both Gujarat and Rajasthan and Zika is endemic to Asia and 2) there is some serological evidence for the Zika virus back in the 1950s.

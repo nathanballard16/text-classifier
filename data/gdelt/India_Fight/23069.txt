@@ -1,0 +1,61 @@
+Facebook overhauls design as it pivots to private messaging
+
+SAN JOSE, Calif. (Reuters) - Facebook Inc debuted an overhaul of its core social network on Tuesday, taking its first concrete steps to refashion itself into a private messaging and e-commerce company as it tries to move past scandals while tapping new revenue sources.
+
+Chief Executive Mark Zuckerberg unveiled a fresh design for the world’s biggest social network that de-emphasized its News Feed. It also ditched the signature blue banner that has been on the app since its launch.
+
+The new design showcases Facebook’s messaging app, online marketplace and video-on-demand site, while giving greater prominence to the popular photo-driven Stories feature.
+
+The company also rolled out features aimed at encouraging users to interact with their close social circle as well as with businesses, such as a “Secret Crush” option for Facebook Dating and a tool for appointment booking.
+
+“As the world gets bigger and more connected, we need that sense of intimacy more than ever. That’s why I believe that the future is private. This is the next chapter for our services,” said Zuckerberg, speaking at Facebook’s annual F8 conference, where the company gives developers a peek at product releases.
+
+Investors greeted the announcements, mostly launching lower-margin businesses, with a lukewarm response. Facebook shares ended down 0.7 percent on Tuesday.
+
+Zuckerberg in March promised changes to the advertising-driven social media company, which has come under regulatory scrutiny over propaganda on its platform and violations of users’ data privacy.
+
+He identified private messaging, short-lasting stories and small groups as the fastest-growing areas of online communication. In the last three years, the number of people using Facebook’s WhatsApp has almost doubled.
+
+Building up those more intimate and encrypted forms of communication could also reduce pressure on Facebook to clean up misinformation and abusive content. In the wake of its scandals, the company has spent heavily on tools to catch banned material.
+
+The social media company is now working on “LightSpeed” in order to make its Messenger app smaller and faster.
+
+Facebook will also introduce a desktop version of Messenger for Mac and Windows and launch a feature called “Product Catalog” for WhatsApp Business. The desktop app will be available this fall.
+
+Later this week, Facebook will run a test in Canada for a major change to its Instagram app that would remove the number of likes on photos as well as video views from users’ feeds, permalink pages and profiles.
+
+Facebook had delayed rolling out certain products at last year’s F8 event, which came soon after revelations it inappropriately shared information belonging to 87 million users with British political consulting firm Cambridge Analytica.
+
+Slideshow ( 16 images )
+
+“I know that we don’t exactly have the strongest reputation on privacy right now, to put it lightly,” Zuckerberg said.
+
+Other Facebook executives introduced changes within the Messenger and Instagram apps aimed at helping businesses connect with customers, including appointment booking and a tool to lure customers into direct conversations with companies via ads.
+
+The online ad market is largely dominated by Facebook and Alphabet Inc’s Google. But the field is more diverse for messaging, e-commerce and payments, with big players like Amazon.com Inc , Microsoft Corp and eBay Inc as well as fast-growing Silicon Valley unicorns like workplace messaging app Slack and video conferencing service Zoom Video Communications Inc.
+
+Slideshow ( 16 images )
+
+“We’ve shown time and again as a company that we have what it takes to evolve,” Zuckerberg said.
+
+MAKING MONEY
+
+The shift also comes as Facebook is looking beyond advertising for future income.
+
+Facebook pulled in nearly $56 billion in revenue last year, almost of all which came from showing ads to the 2.7 billion people who access its family of apps each month.
+
+But the company is no longer adding many new users in the United States and Europe, its most lucrative markets, and it must find additional sources of revenue if it is to sustain growth.
+
+The product releases at F8 indicated that its answer involves efforts to keep users on its apps for longer, coupled with e-commerce tools Facebook is hoping businesses will pay to use.
+
+Features that drive the most user engagement, like Stories and videos, are being decked out with new tools and given increased prominence across the platforms.
+
+One new feature will allow users to watch videos together in Messenger, while also viewing each other’s reactions in simultaneous texts and video chats.
+
+Facebook Dating will be expanded into 14 new markets, including places in where Facebook has high user growth. The “Secret Crush” feature will allows users to explore potential romantic relationships within their friend circle.
+
+New shopping and other business-to-consumer interactions, already popular in Chinese social apps like WeChat, could also help squeeze revenue out of Facebook’s messaging services.
+
+Instagram is expanding a sales system introduced last month, allowing public figures, known as influencers, to tag products in their posts so fans can buy them right away.
+
+Sellers on Marketplace will likewise be able to receive payments and arrange shipping directly within Facebook, while users of WhatsApp and Messenger will be able to send money to each other as easily as sharing a photo, Zuckerberg said.

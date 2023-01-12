@@ -1,0 +1,21 @@
+Wipro says critical business operations unaffected by cyber attack
+
+Cybersecurity blog KrebsOnSecurity had previously stated that Wipro's systems had been breached and were being used to launch attacks against some of its clients.
+
+New Delhi: Wipro Ltd on April 19 said a cyber attack on few of its employee accounts has not impacted its critical business operations and the firm has taken remedial measures. In a regulatory filing, the company said it became aware of potentially abnormal activity within its network about 10 days back in respect of few of its employee accounts, who were "subjected to an advanced phishing campaign".
+
+"Upon learning of the above, the company promptly kicked off its standard operating procedure for addressing such incidents. We began investigating the incident, identified and isolated the employee accounts which were impacted, took remedial steps to contain the incident and mitigate any potential effects of the incident," Wipro said.
+
+It also informed the handful of customers where the affected employees are engaged.
+
+"We would like to clarify that the incident did not impact the company's ongoing critical business operations," it said.
+
+Cybersecurity blog KrebsOnSecurity had previously stated that Wipro's systems had been breached and were being used to launch attacks against some of its clients.
+
+"Like any large enterprise, the company investigates over 4.8 million alerts in a year," Wipro said without elaborating on what its investigation had revealed.
+
+Wipro said it has used its industry-leading cybersecurity practices and partner ecosystem for remedial steps and has shared this intelligence with its partners to develop the AntiVirus signatures.
+
+"The same has been applied to our enterprise systems. We are collaborating with our partner ecosystem to collect and monitor advanced threat intelligence for enhancing our security posture. We continue to monitor our enterprise infrastructure at a heightened level of alertness," it said.
+
+KrebsOnSecurity, in its blog, had cited sources to state that Wipro was "dealing with a multi-month intrusion from an assumed state-sponsored attacker" and that Wipro's systems were seen being used as jumping-off points for digital phishing expeditions targeting at least a dozen Wipro customer systems.

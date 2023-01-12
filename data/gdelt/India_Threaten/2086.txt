@@ -1,0 +1,249 @@
+“Where did the money go?”: How Appster went from riches to ruin
+
+An investigation into collapsed app-development darling Appster has revealed serious concerns about the company’s financials, operation and management, with former clients and employees labelling its work “dross” and its founders “devious”.
+
+Appster was one of Australia’s premier app-development companies and a poster child of the Australian startup scene, headed up by young founders Mark McDonald and Josiah Humphrey.
+
+Founded in 2011 by the then 19-year-old founders, the company was revered as the epitome of what a 21st-century startup should be: fast growing, scrappy and bootstrapped from $3,000 by two 20-somethings who decided to just have a crack.
+
+Humphrey and McDonald found themselves on the AFR Young Rich List in 2015, valued at a combined $58 million, and on Forbes’ 30 Under 30. The startup seemed destined for greatness, with commentators even going as far to label it the “next Apple”.
+
+However, Appster entered liquidation in December last year, shocking the industry and leaving multiple business owners thousands of dollars out of pocket.
+
+Through numerous interviews with former employees, Appster clients and industry insiders, a picture has been painted of a fast-moving startup with operational flaws, inexperienced management and mismatched revenue figures, alongside inexplicably high margins.
+
+With both founders going quiet and limited communication from liquidator Paul Vartelas, the company’s numerous creditors are concerned they may never see a dollar of the money owed to them, which in some cases exceeds half-a-million dollars.
+
+Half a million in the bin
+
+Linda Eddy is one such client, commissioning Appster in September 2017 to build an app for her bin-hire startup EzyBin. She tells StartupSmart she was hopeful at the beginning of the project, saying Appster employees “promised the world”.
+
+“A lot of people assured me there would be a lot of help. Assistance and support was the reason I went with Appster — I wanted to make sure I was dealing directly with people,” she says.
+
+After agreeing to sign on with Appster, Eddy was brought into the company’s Melbourne office for a three-day intensive workshop. These workshops, called ‘Traction Labs’, run over a total of eight weeks and can cost businesses upwards of $50,000.
+
+The workshops had two main purposes: to provide Appster’s developers and project managers with an idea on what the business owner wanted the app to look like, and to provide that business owner with a wireframe of what the app would look like upon completion.
+
+However, StartupSmart has been told by former Appster employees and clients the workshops often set up clients with overly high expectations, which were quickly dashed months later when the app finished its development.
+
+At the end of Eddy’s workshop, she and the Appster team she had worked with developed over 200 ‘user stories’ for her app: descriptions of the app’s functionality designed to help developers turn vision into code.
+
+“We had about one or two days to okay the app before they started building. Lots of people who go to app companies, including myself, are not experienced in tech,” she says.
+
+“It probably took me six months to get a point where I could go through it properly, user story by user story.”
+
+However, by that point, Eddy realised the app she was getting was not the app she asked for. Appster officially started EzyBins’ build in September 2017, but Eddy says actual work didn’t start until February 2018.
+
+When the developers, who were almost all contractors based in India, started working on the app, Eddy could see glaring holes in her design. She describes her app as an Uber-style solution for the waste industry, but says the Appster developers had left out any ability to track drivers or bins.
+
+“For drivers being able to track deliveries or pickup users’ waste, they were key parts of the user stories. It makes up the whole piece of the app,” she says.
+
+“You’d think common sense and logic would have been applied, but it wasn’t.”
+
+Eddy says she spent over half-a-million dollars on the app and was left with a near-unusable product that was far too labour-intensive for users and drivers to operate. Today, nearly a year and a half after commissioning the build from Appster, Eddy’s app is still not up and running.
+
+“I spent over $500,000 and I have nothing to show for it,” she says.
+
+Development like “pulling teeth”
+
+This is a common theme which runs throughout Appster’s work with its clients, with StartupSmart hearing numerous reports of companies being ‘Appstered’: left with no product after paying thousands.
+
+One such client, who spoke on the condition of anonymity due to potential legal proceedings against Appster, told StartupSmart they had a similar experience to Eddy, being promised glory in Appster’s workshops but left empty-handed after development began.
+
+“We spent two days in the workshop, and afterwards we were glowing. The designers were articulate and well-researched, we thought it was fantastic,” they say.
+
+“But that’s where it stopped.”
+
+The client then describes their proceedings with Appster as “pulling teeth”, with the execution of creating the app “shocking” and the design an “eyesore”.
+
+“Anyone with good eyes could see they didn’t know what they were doing. Every iteration was worse than the last, and though they said they took great pride in doing research, it was clear they’d done none,” they say.
+
+The client called out Appster on the poor-quality app, and was provided with a $10,000 “good faith” refund, despite having spent triple that on production. Then, outside of some threats of legal action from Appster, the client never heard from the company again.
+
+The app development had started in August 2017, and the client was promised a working prototype by Christmas. Instead, they were left with next to nothing.
+
+Workshop model had flaws
+
+Eamon Logue is a former Appster employee, who worked as a lead product strategist before resigning in June 2018, five months prior to the business’ collapse.
+
+Logue tells StartupSmart he couldn’t see any glaring issues while working at the company, labelling its downfall as “systemic” and the decline as gradual.
+
+However, Logue was involved intimately with the company’s workshop programs, and admitted to StartupSmart the business model had some major flaws.
+
+“The idea was we’d sit down with clients and understand the business they were trying to build and what the technology they needed was. When Appster first started, this was something different to competitors, and in an ideal world, we would refuse clients who were not suitable for us,” he says.
+
+“In hindsight, everything was a red flag. The whole thing had a timeshare feel, but you were being sold a swampland.”
+
+“However, there were difficulties with the workshop model. The dev process would last six-to-nine months, and the workshop would set a lot of expectations for the client. If the organisation didn’t deliver on those expectations, or the expectations were incorrect, we’d end up with disappointed clients.”
+
+Logue says the workshop model was innovative and novel when Appster first started, but today is standard fare among app-development companies. As competitors matured and clients were provided with more choice, Appster took on more and more customers it would have initially deemed ‘not suitable’, resulting in complicated projects and exaggerated promises.
+
+Alex Louey is the founder of one such competitor, Appscore. He tells StartupSmart while workshop model for app development has largely fallen out of vogue, the model can work well if expectations are managed appropriately.
+
+“What happens is you do a workshop with a customer and you promise them an outcome in the workshop. But when you apply that to people who don’t have big budgets, it’s just a pipedream sell,” Louey says.
+
+Swift collapse leaves employees questioning
+
+The liquidation of Appster took seemingly everyone bar the company’s executive team by surprise. Former employees working at the company at the time of liquidation say there was no indication the company was at risk, with Logue noting he was “surprised” at the speed of the decline.
+
+Vartelas, Appster’s liquidator, has also noted similar surprise at the company’s speedy collapse, telling The Age he had “never been involved in a liquidation where two weeks before the company is healthy, and two weeks later it’s insolvent”.
+
+“I don’t think anyone knew [it was collapsing] apart from the founders and the CFO [chief financial officer],” a highly placed former Appster employee told StartupSmart.
+
+In an email to StartupSmart, co-founder Mark McDonald blamed the collapse on declining sales against fixed costs, saying Appster’s “sales declined faster than we could reduce expenses”.
+
+However, Eddy, who attended the creditors meeting last month, recalled a number of cases of customers who had transferred Appster hundreds of thousands of dollars mere weeks before the collapse. Vartelas made similar observations to The Age.
+
+The highly placed former Appster employee, who spoke on the condition of anonymity, says they believe there were a number of red flags associated with the liquidation, going so far as to suggest the liquidation may be “bullshit”.
+
+This is due to Appster reportedly placing an eye-watering 400% margin on its sales, meaning a bill of $160,000 to an Appster client would cost the company just $40,000 in production costs.
+
+StartupSmart understands the average margin in the app and software-development space typically sits at about 25%.
+
+The former employee says this low cost point was thanks to the company’s use of offshore contractors based in India, which it seems Appster began to rely on more heavily as the company matured.
+
+However, the business also ran offices in New York and San Francisco — international expansions it made in 2013-14. One former employee in one of Appster’s international offices told StartupSmart they had “zero clue” how the company had run out of money.
+
+“We did nearly $1 million in sales last quarter. We had one office with a few employees. With India being remote, Australia’s team being small and New York and San Francisco being tiny as well, I have zero clue how they did not have any money left as we have been bringing in the same amount of revenue year over year with operating costs decreased,” they say.
+
+Appster’s founders debuted on the AFR’s Young Rich List in 2015 with a combined wealth of $58 million, and the company was reported to have revenue of over $20 million, forecasted to be between $100 and $180 million in 2018.
+
+“So my question is, if this were the case, where did the money go?” the former international employee asks.
+
+“All of this doesn’t add up for me.”
+
+Similar sentiments were echoed by the highly placed former Australian employee who says they had “no clue” what happened to the company’s cash reserves.
+
+“I know there was cash collection from clients in the two weeks before the collapse, but it was not as much as they wanted,” they say.
+
+Revenue figures greatly exaggerated
+
+Though former employees and clients question how a company in such an apparently solid financial position could collapse, documents filed with the corporate regulator suggest the success of the company may have been inflated from the start.
+
+Company financial records reveal in 2014 to 2015, the same year Humphrey and McDonald appeared on the Young Rich List, Appster did just $3.3 million in revenue and posted a loss of $1.1 million in the nine months leading up to March 31. These losses were attributed to significant advertising and marketing costs.
+
+Comparative revenues for the 2014 financial year came in at $3 million. Auditors predicted the company’s revenues to grow to $12.2 million by 2017.
+
+However, the founders told media in late-2014 the company reported revenue of $10 million in that financial year. Months later, in July 2015, the founders claimed the company’s revenue had doubled to $20 million.
+
+The company was also operated through a curious and obtuse corporate structure, seemingly set up for tax purposes.
+
+While Appster’s main operations were based in Melbourne, the company was controlled by an international holding corporation based in Ireland — a country with a corporate tax rate of just 12.5% — which Humphrey and McDonald are both directors of.
+
+The Irish-based holding company reported a loss of €34,393 ($54,654) in the 2018 financial year.
+
+However, the parent company of the Irish holding company is another holding company: Appster Holdings Inc. It’s based in the US state of Delaware, a state with no sales tax and no state corporate income tax on goods and services, a state often used by corporates to legitimately reduce the tax they pay in the United States.
+
+The company reported an annual tax assessment of $US200,000 in 2017. Both holding companies were registered within days of each other in September 2015.
+
+The Delaware-based holding company was established by Corporation Service Company (CSC), a company registration agent used by corporates such as Google and Facebook to obfuscate their identities when making data centre deals.
+
+The US-based holding company was likely set up to manage the company’s two US-based offices. It does not appear Appster had any Irish-based development operations.
+
+Creditors, including McDonald, owed thousands
+
+According to company documents filed with the corporate regulator, Appster owes a total of $1,066,735 to creditors, with $407,788 of that amount being owed to employees. Of the amount owed to employees, $58,455 is in wages, $151,562 in leave and $197,770 in redundancy payouts. An unknown amount is owed in superannuation.
+
+The company also owes $187.089 to the Australian Taxation Office.
+
+Appster clients are owed the remaining amount. However, the company itself is owed $445,000 from clients, though only $185,000 of that amount is assessed as realisable.
+
+At the time of liquidation, Appster reported total assets of $525,989, though less than half of that was assessed as realisable.
+
+Curiously, co-founder Mark McDonald is registered as a secured creditor to the tune of $107,042. Liquidator Paul Vartelas would not reveal why McDonald had registered as a creditor.
+
+Tax ruling “removes profitability”
+
+McDonald told StartupSmart via email another major contributing factor to the company’s collapse was the Tech Mahindra ruling passed down by the Federal Court last year.
+
+It was ruled that payments to an Indian company and its workers from clients in Australia would be taxed in Australia. Prior to the ruling, payment for services performed in India was not treated as a royalty and, therefore, was outside the scope of Australia’s tax provisions.
+
+But the case ruled those payments were defined as a royalty under the Australia-India treaty. McDonald said this ruling “would have removed our profitability in the business”.
+
+“Our business model also became more unsustainable because of the double taxation that was going to occur with the Tech Mahindra ruling between Australia and India applied retrospectively in 2018,” McDonald said.
+
+Multiple spin-offs with no customers
+
+Since launching in 2011, Appster had spread its branches beyond just the app-development industry, establishing a number of spin-off companies.
+
+These include an AI-focused initiative called Appster Artificial Intelligence Services or ‘Appster.ai’, a blockchain arm, a growth-hacking spin-off called GrowthFactors, and a startup-education service called DoHQ.
+
+All of these companies bar DoHQ are registered to the same address as Appster, and former Appster employees tell StartupSmart either Humphrey or McDonald are registered as directors for each of them.
+
+GrowthFactors, Appster.ai and the company’s blockchain offering were all registered within one day of each other in May 2018, seven months prior to the company’s collapse. And while the websites for GrowthFactors and DoHQ have shut down, the entities for Appster.ai, the blockchain offering and GrowthFactors are still registered.
+
+Former employees question the purpose of these companies, saying no clients were ever invoiced under the spin-off companies, and they had few customers in the first place.
+
+Co-founder travelling the world during company’s last days
+
+While the company was in its dying days, former employees allege Humphrey was rarely seen at Appster, choosing instead to spend his time travelling abroad with his partner and attending lavish blockchain conferences.
+
+“He was travelling around the world on very luxurious hotels and events related to blockchain,” one former employee claimed.
+
+Humphrey’s Instagram was publically viewable prior to Appster’s collapse, however, it has now been made private. Cached images from his profile show recent posts of Humphrey late last year travelling the world, including pictures at Machu Picchu.
+
+Additionally, a YouTube channel which appears to be run by the 27-year-old entrepreneur posted a video titled “What Does Entrepreneurship Mean?” on December 4, two days before Appster’s collapse.
+
+In the video, Humphrey discusses failure at length, mentioning how Appster was not an “overnight success”. However, he continues to talk about the company’s growth, saying it’s “working on lots of really, really exciting things at the moment”, including a plug for DoHQ.
+
+Former clients who have met and worked with McDonald and Humphrey claim the founders were unprofessional and unpleasant to work with. “You could tell the culture was rotten to the core,” one former Appster client says.
+
+“I have dealt with both of them, and Mark [McDonald] just a horrible person to deal with,” Eddy says.
+
+“He wasn’t even at the creditors meeting, and then we find out he’s put himself down for $107,000. It’s devious.”
+
+“Heartbroken” founder disputes claims
+
+Both McDonald, Humphrey and Vartelas were contacted multiple times and invited to comment on the details laid out in this story. StartupSmart received some statements from McDonald via email before the co-founder’s Appster email address was disconnected. A US-based number associated with McDonald was also disconnected.
+
+In the emails received before disconnection, McDonald said he and Humphrey had “no immediate plans for the future”. He also disputed the claims by clients of poor work, providing links to the company’s internal feedback surveys.
+
+These surveys show out of the 713 people the company surveyed, the majority were satisfied with their build, rating it at least an eight out of 10.
+
+Vartelas, Appster’s liquidator, did not answer specific questions about Appster’s affairs, referring to an impending creditors report due on March 2 which will include the results of his investigations into the company. Vartelas also refused to provide StartupSmart with a way of contacting Appster’s founders.
+
+In an email to StartupSmart four days after this article’s publication, Humphrey disputed the claims made by former employees and clients, labelling them “unverified and untrue rumors”.
+
+“Mark and I were paid a salary. We did not receive any dividends and we only ever invested back into building Appster. Neither of us benefitted in any way financially from the collapse of the business,” Humphrey said.
+
+“The liquidator has full access to the bank statements and the evidence will show that the business failed because of declining sales and fixed costs rather than any actions of the directors.”
+
+Humphrey also said the company’s margins were not 400% and were “much” lower. The co-founder also disputed claims he was attending “luxurious” hotels and “lavish” blockchain conferences, but conceded he did travel “quite a bit” for Appster in 2018.
+
+“We were working on setting up a couple of new divisions, searching for new avenues to grow the business in emerging tech. All projects for Blockchain and AI were being run through the main Appster business until we got enough scale,” he said.
+
+“I’d like to say that Mark and I are heartbroken with losing the dream we worked on since our teens. We are deeply sorry for any clients, former staff and anyone else it has affected. It was never our intentions for it to end in the way it did and we were trying as hard as possible to find new ways to grow.”
+
+Creditors report to answer questions
+
+The creditor’s report will hopefully answer the questions raised about the company and its founders conduct leading up to the collapse, including the status of any ongoing Appster spin-offs, the impact of the Tech Mahindra ruling, and the outcome of the numerous creditors’ claims.
+
+Eddy is currently back to the drawing board on her app and has had meetings with other, smaller app-development companies, noting her experience has been miles above her initial dealings with Appster.
+
+“I’ve been in business for over 30 years and I’ve never felt this conned. I still don’t have a product, and I’m not the only one,” she says.
+
+The other former client agrees, but says there were numerous subtle “red flags” throughout their dealings with the company.
+
+“In hindsight, everything was a red flag. The whole thing had a timeshare feel, but you were being sold a swampland,” the client says.
+
+“You were never shown a finished product, never shown something that was actually completed.
+
+“All the while those two supposed wunderkinds were living the high life.”
+
+Louey, for his part, thinks the writing had been on the wall for Appster for some time, believing the company failed to update its business model to keep up with shifts in the app-development industry.
+
+“I think they had gotten to the point where they couldn’t grow any further. There’s only so much money new startups can pour into making apps before asking where the return on investment is,” he says.
+
+“Appster relied on that shiny sparkle of a new app, but you can’t build a business only off an app anymore.”
+
+“Everyone in the industry can see how they might not have been going as well as we thought they were.”
+
+* This article was updated on February 19 at 11.00AM to include a response from Josiah Humphrey.
+
+Additional research by Matthew Elmas.
+
+Do you know more about Appster? Get in touch at [email protected]
+
+NOW READ: Buzinga to Appster: An insider’s theory on why the app giants keep falling
+
+NOW READ: How Alex Louey built $25 million app development company Appscore — despite nearly going “bust”

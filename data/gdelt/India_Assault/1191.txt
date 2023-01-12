@@ -1,0 +1,75 @@
+Fileless Malware: What Mitigation Strategies Are Effective?
+
+Cybercrime , Endpoint Security , Fraud Management & Cybercrime
+
+Fileless Malware: What Mitigation Strategies Are Effective?
+
+Security Practitioners Highlight Ways to Fight Against the Threat
+
+As the threat of fileless malware continues to persist worldwide, security professionals are devising targeted risk management strategies.
+
+See Also: Zero Trust Webinar Tomorrow: Research Insights Exploring the Actionable, Holistic & Integrative Approach to Security
+
+Organizations need a separate mitigation plan for fileless malware because the threat it poses is so different than that posed by other malware, security experts say.
+
+Key risk mitigation steps include: creating fail-safe operations; updating, monitoring and locking down Microsoft's PowerShell scripting language as well as enabling security features; minimizing administrative privileges; and implementing behavioral analytics.
+
+Fileless Threat Described
+
+Fileless malware attacks often leverage PowerShell. The powerful, open source scripting language has proved to be the perfect lateral movement tool for attackers once they have compromised a network. And PowerShell scripts may run only in memory, giving rise to the term "fileless" malware.
+
+Malicious PowerShell scripts can be difficult to detect and harder to investigate because they may leave few digital forensic traces. And because PowerShell is a legitimate tool, the challenge for network defenders is how to stop bad people from using a good tool.
+
+To deploy the malware, attackers still need to compromise a machine first, either through credential theft or exploits. But PowerShell makes it faster and easier to move around once they gain access.
+
+"PowerShell commands get embedded into a script, which may contain malicious tasks," explains Mumbai-based Sachin Raste, security researcher with eScan, an anti-virus firm. "Normally this does not come under suspicion since it would be considered as any other administrative task."
+
+Administrators routinely deploy PowerShell scripts to carry out their routine administrative and maintenance related tasks, Raste points out. But in the case of a fileless attack, "it is the threat actor who implements these scripts for gathering information, password hashes, browsing history etc."
+
+These attacks "live off the land," misusing trusted, legitimate files of the OS or trusted IT tools.
+
+"For example, exploit kits can target browser vulnerabilities to make the browser run malicious code, or take advantage of Microsoft Word macros, or use Microsoft's PowerShell utility," says Prakash Kumar Ranjan, security researcher with a Bangalore-based public sector bank. "From there, it is written directly to RAM rather than to disk to execute a series of events."
+
+After the initial intrusion, the malware usually needs information on its location in the network. "It tries to collect users' roles, permissions, existing sessions, machines, their privileged groups, etc.," says Ratan Jyoti, CISO at Ujjivan Small Finance Bank based in Bengaluru. "This data is used to discover valuable machines and accounts in the network, and map different routes to them. Some of the interesting methods to conduct reconnaissance are the usage of standard queries to active directory and machines in the network."
+
+Once a new target and a route to it are identified, the malware starts to move laterally inside the network. "Moving laterally might be done using various techniques, most of which have legitimate purposes, and therefore might not be detected by endpoint security solutions," Jyoti says. "Thus, they keep finding the route to their target through privilege escalation and lateral movement."
+
+The problem is Windows' defender system and anti-virus systems cannot identify the fileless malware as it scans for signatures for the viruses.
+
+"As there is no footprint on the hard disk, the scanners cannot catch them, unless heuristic memory scanning is performed frequently," Vibhandik says. "There are many anti-viruses that perform boot security check. But as system reboots, the malicious fileless malware code is flushed off from the memory. So it cannot be captured during booting scans."
+
+The financial sector has been particularly hard hit by fileless malware, Ranjan says.
+
+"I have seen instances where the fileless malware attacks the command-and-control of a computer system, after which it becomes easier for it to carry out various tasks," Ranjan says. "In such circumstances, it can change a legitimate process and introduce new process, exfiltrate data as well as change administrative privileges."
+
+How to Counter?
+
+Because the threat posed by fileless malware is so different than that posed by other malware, organizations need to create a specific mitigation plan with many components, security experts say.
+
+"For fileless malware, we need risk mitigation plans, including fail-safe operations," says Pune-based Rohan Vibhandik, security researcher with a multinational company. A fail-safe operation ensures that a failure of equipment, process or system does not propagate beyond the immediate environs of the failing entity.
+
+In addition, a good forensic investigation team is essential, he says.
+
+"In normal malware attack if an anomaly has happened, then it is mandatory not to switch on the system so that memory footprint can be captured by using memory forensics tools," Vibhandik says. "But for fileless malware, the mitigation plan needs to be proactive enough to monitor operations performed by Window Management Instrumentation [WMI] and PowerShell services to identify any unwanted task. If you switch on/off the infected workstation, during rebooting, the memory will be flushed and no traces of the fileless malware will be found."
+
+Security experts also suggest disabling of command line shell scripting language, including PowerShell and Window Management instrumentation, wherever it's not needed. This action, however, can have a significant impact on productivity because PowerShell has become increasingly important to IT departments for automating critical processes.
+
+Forensic evidence for fileless malware can only be acquired against a memory image that has been obtained from a live running system that is to be investigated, Vibhandik says. "So a mitigation plan should include the UPS systems for the workstations so that they cannot be switched off in case of abrupt power failure from infection identification until investigations."
+
+Michael Kohli, general manager of IT at Mumbai-based Reliance Nippon Life Insurance, suggests reducing the number of administrative privileges given to employees.
+
+"The attacks usually start with a compromise of the browser and plugins, such as flash, Acrobat reader or MS Office documents, so these applications should be updated and monitored for anomalous behavior," he says.
+
+Making Updates
+
+Also, PowerShell needs to be updated to the latest version and locked down, along with enabling and monitoring logging, Kohli says.
+
+"PowerShell 5 is equipped with security improvements," Vibhandik notes. "Security administrators need to manually enable them as by default they are disabled."
+
+In addition, outgoing access from systems needs to be monitored for attempts to contact command-and-control servers, he adds. "This means the proxy logs are being continuously checked against a fresh source of intelligence."
+
+Jyoti also suggests that organizations leverage behavioral analytics.
+
+"Each attacker behavioral analytics detection hunts for a unique attacker behavior, which you can toggle to an alert, whitelist, or track as notable behavior.
+
+Other specific technical mitigation steps, security experts advise, include: set PowerShell's constrained language feature, which cuts off potentially dangerous actions; enable deep script block logging and use Microsoft's security feature called the Anti-Malware Scanning Interface (see: Locking Down PowerShell to Foil Attackers: 3 Essentials).

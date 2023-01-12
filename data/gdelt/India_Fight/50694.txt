@@ -1,0 +1,53 @@
+‘We were warned of cyber attack’: ISRO confirms reports of malware attack
+
+‘We were warned of cyber attack’: ISRO confirms reports of malware attack
+
+According to reports, Indian Space Research Organisation was alerted about the potential cybersecurity attack during the Chandrayaan-2 lunar landing mission.
+
+news Cyber Crime
+
+It was allegedly around the time of the Indian Space Research Organisation or ISRO’s Chandrayaan-2 lunar landing mission that the agency was notified about a possible cyberattack on its systems. According to an Indian Express (IE) report on November 6, apart from the Kudankulam Nuclear Power Plant (KKNPP) in Tamil Nadu, ISRO was also targeted by the infamous North Korea-based hacker group, Lazarus.
+
+On September 3, the National Cyber Coordination Centre — India’s cybersecurity and e-surveillance agency — had received intelligence from a cybersecurity company in the US, about a “threat actor” that has breached master “domain controllers” at the Kudankulam plant and ISRO, with a malware identified as Dtrack, developed by the North Korean hacker group. Breaching the domain controllers would mean that the hackers have access to the server computer, steal data and respond to security authentication requests.
+
+The report also said that on September 4, the Nuclear Power Corporation of India Limited (NPCIL), which is the administrative governing body for nuclear power plants in India, and ISRO were alerted.
+
+According to the Quint, an ISRO official confirmed that the agency did receive an alert from the Computer Emergency Response Team, India (CERT-In) during the Chandrayaan-2 mission, which began on July 22. However, the official said that ISRO was not affected.
+
+“I can only comment that we also got the alert... our cybersecurity team got into action, they checked the whole thing and we were unaffected,” the official told The Quint.
+
+“Our systems were not compromised and our systems were not affected,” an ISRO official was quoted as saying to Financial Times. The official also reportedly said that the moon mission has not been impacted.
+
+Sushovan Sircar's report in The Quint's also noted that CERT-In, a national nodal agency for responding to computer security incidents, would alert only when there was an actual intrusion in its systems, like the security breach at Kudankulam plant.
+
+Further, Yash Kadakia, the founder of Mumbai-based cybersecurity company Security Bridge, told the news website, that the same server used to send phishing emails (containing malicious links intended to trick people to click and provide sensitive information) to senior nuclear scientists at the Kudankulam plant was also used to send similar emails to ISRO officials, including a scientist.
+
+“We know they were targeted. They got the link and they clicked on the link - that much we can confirm so far,” Yash said.
+
+Working along with IssueMaker Labs, a South Korea-based expert group of malware analysts, Yash also stated that they have the email address of the ISRO scientist who was targeted and have shared it with National Critical Information Infrastructure Protection Centre (NCIIPC) "to look into it and investigate".
+
+It was on October 30 that NPCIL confirmed the malware attack on its system, a day after the Kudankulam plant officials denied it. The NPCIL said that only an administrative system was infected (although it did not specify the malware) and that the plant's control systems were not affected.
+
+Read: India's Nuclear Power Corporation confirms malware attack on system
+
+Indian Twitter user Pukhraj Singh had first pointed out the potential cyberattack threat on Indian cyberspace. He had then notified Lt Gen Rajesh Pant (National Cyber Security Coordinator) on September 4.
+
+When reports of the cyber attack on ISRO surfaced, Pukhraj had expressed his doubts, saying that it was likely that the attackers didn't target Chandrayaan-2. However, he said, “But battling an ongoing breach during the crucial phases of the mission is a significant degradation of capability.”
+
+He further tweeted: “As an incident responder, I can tell you: Crucial evidence gets lost in cyber time and space. The compromised target environment is always in a state of massive flux. We may never know what really happened.”
+
+Targetting India’s nuclear tech since 2 years?
+
+According to the Financial Times report on Thursday, apart from ISRO, four other important government agencies, including India's Atomic Energy Regulatory Board, have been attacked in recent months.
+
+On November 2, the IssueMaker Labs had tweeted that North Korea has been interested in the thorium-based nuclear power, to replace the uranium nuclear power. “India is a leader in thorium nuclear power technology. Since last year, North Korean hackers have continuously attempted to attack to obtain that information,” it read.
+
+They also tweeted that North Korean hackers targetted all top authorities in India's nuclear energy sector.
+
+Those targeted by North Korean hackers are all top authorities in India's nuclear energy sector. Through them, hackers can contact to anyone in India's nuclear energy sector with trusted relationship. https://t.co/MYcWteillp — IssueMakersLab (@issuemakerslab) November 3, 2019
+
+They also said that they continued their attack for about two years.
+
+The North Korean hackers launched spear-phishing attacks on India's nuclear energy-related experts by disguising them as employees of India's nuclear energy organizations such as AERB and BARC. They continued their attack for about two years. pic.twitter.com/C4Lyo7w3XX — IssueMakersLab (@issuemakerslab) November 5, 2019
+
+Read:

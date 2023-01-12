@@ -1,0 +1,63 @@
+Lok Sabha Election Results 2019 Explained: How votes will be counted
+
+India’s seven-phase Lok Sabha election, spanning two-and-half months and 542 seats, ends on Thursday. The counting of votes will begin at 8 am, and strong result leads will be known by noon — unless it turns out to be a neck-and-neck fight like the Madhya Pradesh Assembly elections. Here’s what will happen.
+
+Follow LIVE UPDATES on the Lok Sabha Election Results 2019
+
+Who will be in charge of the counting?
+
+The Election Commission of India (ECI) specifies that the counting of votes is to be done by the Returning Officer (RO), who is an officer or a local authority nominated by the Commission for each constituency. In most cases the RO is the District Magistrate of the concerned district.
+
+Assistant Returning Officers too, are legally empowered to supervise the counting, and they take over especially if the RO has been assigned more than one constituency.
+
+Where will the votes be counted?
+
+Rule 51 (Time and place for counting of votes) of The Conduct of Election Rules, 1961, says that the “returning officer shall, at least one week before the date, or the first of the dates, fixed for the poll, appoint the place or places where the counting of votes will be done and the date and time at which the counting will commence…”
+
+Election Results 2019: A security person walks past the boxes containing election material at a counting hall, ahead of the counting process for the 2019 Lok Sabha elections, at Akshardham in New Delhi, Wednesday, May 22, 2019. (PTI Photo: Kamal Kishore) Election Results 2019: A security person walks past the boxes containing election material at a counting hall, ahead of the counting process for the 2019 Lok Sabha elections, at Akshardham in New Delhi, Wednesday, May 22, 2019. (PTI Photo: Kamal Kishore)
+
+In its Handbook for Returning Officer, February 2019 (Document 23, Edition 1), the ECI says that “for the sake of uniformity, the date and time of counting of votes is fixed by the Commission”. The place of counting is decided by the RO — and while it should “preferably” be at the RO’s headquarters in the constituency, the ECI says “there will be no legal objection even if the place so fixed is outside the limit of the constituency”.
+
+Votes for a particular Assembly constituency are counted at one place. However, the ECI says, “each Assembly constituency or an Assembly segment of a parliamentary constituency is to be counted in separate hall and under no circumstances can the counting of more than one Assembly constituency be taken simultaneously in a hall”.
+
+Each counting hall “shall be a separate room walled on all sides preferably with separate exit and entry facilities”; “where pre-constructed separate rooms are not available but large rooms are proposed to be divided for creating halls, each part constituting a hall will be separated by temporary partitions”.
+
+There can be no more than 14 counting tables, apart from the RO’s table, in one counting hall.
+
+How will counting centres be secured?
+
+The ECI specifies that a 100-metre periphery around a counting premise/campus should be made a pedestrian zone and barricaded. A three-tier security cordon — at the periphery of the pedestrian zone, the gate of the counting premise, and the door of the counting hall — manned by the police, the State Armed Police, and Central Armed Police Forces (such as the BSF, CRPF, CISF, ITBP, etc.) respectively, will be in place.
+
+An Expert Explains: Why hacking EVMs are tough and defy science
+
+To ensure “smooth flow of EVMs between the respective strong rooms and the counting halls”, the ECI directs that “proper barricading of the path used for transporting EVMs between the strong room of an AC (Assembly constituency) and the counting hall for that AC should be done so that the transportation is not interrupted by the presence of non-officials and media persons”, and that “no unauthorised persons should be able to breach that barricade and access the area/path nor should the path of two different ACs crisscross”.
+
+No one except the following can enter the counting hall: counting supervisers, counting assistants, and micro-observers; ECI-authorised individuals and Observers; public servants on election duty; and candidates, election agents, and counting agents. Police officers and government Ministers are not considered “public servants”.
+
+No one (not even the candidate, RO, or Assistant RO) other than the ECI’s Observer can carry a mobile phone inside the counting hall.
+
+Who will be doing the actual counting?
+
+The RO appoints the counting staff. The number of counting staff depends on the number of counting halls, and the number of tables in each hall, with some reserve staff. For each table, there is one counting supervisor (the ECI says they should preferably be gazetted officers of the central or state government or officers of comparable rank from central/state government undertakings), one counting assistant, and one Micro-Observer, who is a central government/PSU employee, and is “responsible for the purity of counting process on his/her respective table”.
+
+The counting officials are randomised in three stages: first, a week before counting, a list of 120% of the required staff is randomly generated; second, 24 hours before counting begins, Assembly constituency-wise randomisation is done; third, counting tables are allotted at 5 am on the date of counting.
+
+Waiting for Election Results 2019: Express Cartoon by E P Unny. Waiting for Election Results 2019: Express Cartoon by E P Unny.
+
+What process will be followed?
+
+At the designated time, the strong rooms, where the polled EVMs are kept under safe custody, will be opened in the presence of the RO/Assistant RO(s), candidates/election agents and ECI Observers. After making entries in the log book, the seal of the lock will be checked and broken under videography and date-time stamping.
+
+Rule 60 of The Conduct of Election Rules, 1961, lays down that “the returning officer shall, as far as practicable, proceed continuously with the counting”. The Electronically Transmitted Postal Ballot Papers (ETPBs) and Postal Ballots (PBs) will be counted first at the RO’s table. Counting of votes in the EVMs can start after 30 minutes, even if the counting of postal ballots has not been completed by then.
+
+After all EVMs of a particular round have been counted, and the ECI Observer has done a parallel counting of two randomly selected EVMs, a tabulation for the round will be done, and the RO will announce the result of that round of counting and sign the relevant record (Part II of Form 17C).
+
+Thereafter, the RO/ARO will give verbal clearance for the EVMs for the next round to be brought from the strong room into the counting hall. In case of simultaneous elections (Odisha, Andhra Pradesh, Arunachal Pradesh, and Sikkim), the next round of counting will be taken up only after the previous round of counting for both the Assembly and Lok Sabha elections have been completed.
+
+READ | EC rejects Opposition parties demand on changes to VVPAT counting process
+
+How will VVPAT slips be counted?
+
+This is the first Lok Sabha election in which VVPAT slips will be compulsorily verified with the EVM count in five randomly-selected polling stations of every Assembly segment. Mandatory verification was introduced with the Gujarat and Himachal Pradesh Assembly elections in 2017, but it was limited to one VVPAT per Assembly segment. This was increased to five polling stations by the Supreme Court on April 8.
+
+VVPAT tallying will be taken up after all rounds of EVM counting are over, and will be done sequentially — and not simultaneously — for all five polling stations. On an average, it takes an hour to verify slips of one VVPAT machine. Hence, the EC anticipates a delay of almost four hours (since the SC has ordered tallying for an additional four machines for every Assembly segment) in the final announcement of results. In case of a mismatch between the VVPAT and the EVM count, the VVPAT count will prevail.

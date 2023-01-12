@@ -1,0 +1,23 @@
+India may force social media platforms to offer user verification: sources – Voice Of Vienna
+
+India’s proposed new privacy bill may require large social media platforms to offer an identity-verification option, a potentially precedent-setting effort to rein in the spread of “fake news”, two government sources told Reuters on Thursday.
+
+The requirement would likely raise a host of technical and policy issues for companies including Facebook and its WhatsApp and Instagram units, Twitter and Chinese app TikTok, all of which have millions of users in India.
+
+Companies would have to offer a mechanism for users to prove their identities and display that verification publicly, akin to the blue check-mark that Twitter has used to confirm the authenticity of some high-profile accounts, including those belonging to celebrities and politicians.
+
+Verification would be optional for users, the sources said.
+
+The Personal Data Protection bill, whose first draft was made public last year, is keenly awaited by top technology companies and industry stakeholders as it could alter the way all major internet companies process, store and transfer Indian consumers’ data.
+
+The identity verification requirement, introduced in the latest draft of the bill, would be one of the most ambitious efforts globally to battle disinformation and fake news, which is often spread by pseudonymous or fake accounts. “The idea was to reduce the spread of fake news and online trolling,” said one of the sources, a federal IT ministry official.
+
+The privacy bill was cleared by cabinet on Wednesday and will be presented to parliament soon, officials said. But passage is not imminent, one of the sources said, as the legislation will likely be referred to a parliamentary expert committee or a panel for further review.
+
+Since 2017, fake news and rumour-mongering on social media in India has led to more than 30 deaths, data portal IndiaSpend said last year.
+
+The companies have taken some measures to combat the problem – including a move by WhatsApp to limit group-forwarding of messages.
+
+But Facebook and other companies have resisted the idea that they should verify the identify of their users, partly on the grounds that people in many countries would struggle to provide sufficient documentation.
+
+The voluntary verification scheme would give users more confidence in the validity of information on the verified accounts, though it would not eliminate fake accounts.

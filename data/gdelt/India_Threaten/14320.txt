@@ -1,0 +1,91 @@
+As Satellite Tech Gets Easier, Who Makes Sure It's Safe?
+
+On March 27, the Indian Defense Research and Development Organization let fly a ballistic missile into low Earth orbit (LEO). Designed for a "kinetic kill"—one that destroys by impact rather than explosion—the missile struck a satellite about 186 miles above the surface. The ensuing shower of de-orbiting debris made headlines but didn't cause an international incident—because the demolished satellite was India's own.
+
+"India has today established itself as a global space power," Prime Minister Narendra Modi announced. "The new capability we have developed is not directed against anyone. India has no intention to threaten anyone."
+
+India's anti-satellite (ASAT) test precipitated some national, international, and corporate soul-searching. Governments, think tanks, founders, and boards discussed how to protect space-based assets from damage, disruption, or destruction—physical or digital, intentional or accidental.
+
+As the new space movement arises, with a focus on more, lower, and cheaper satellites, getting to space has become easier and more cost-effective. That's great for startups that want to explore business models based on satellites, but the competition they bring reduces the control governments have traditionally leveraged over space and introduces new safety concerns. But what's rarely mentioned is what both governments and startups are doing, or will have to do, to ensure the security and safety of the tech they're putting up there.
+
+"Air travel became routine in a matter of a handful of years, and I think we are at that point. This next generation that is coming online, this year and next, it's capitalized on 50 or 60 years of investment," says Chuck Beames, a retired Air Force colonel who chairs both the York Space Systems startup and the SmallSat Alliance industry group. "What was a sanctuary that was really kind of controlled ... Now we're entering an arena where it tends more toward anarchy."
+
+The Private Space Race
+
+Falling costs over the last two decades have sparked a proliferation of space exploration by small and medium-size companies, along with investment in those companies. Some, such as SpaceX and OneWeb, are using satellites in low-Earth orbit—up to about 1,200 miles above the surface—to blanket the Earth in connectivity. Others, including Planet and Maxar, have launched networks called constellations designed to image large swaths of the Earth.
+
+LEO satellites are not stationary relative to the Earth—they pass over different regions as they orbit, each one aiming a small beam down at the ground station. At any given time, your data could be coming from different connected satellites within the same constellation.
+
+Maxar thinks satellite info will help optimize agriculture, disaster response, environmental management, shipping, and more. Companies including Kepler and Cloud Constellation are even using satellites as distributed, secure, extraterrestrial data storage and transfer, sort of like a space-based cloud.
+
+Satellites ranging from the size of a breadbox to the size of a refrigerator are being launched at an unprecedented rate, from 50 in 2012 to more than 300 in both 2017 and 2018. And that number will only go up as SpaceX executes its plan for a constellation of more than 4,000 by 2024.
+
+This June 11, 2019 image show a SpaceX rocket the day before it launched the RADARSAT Constellation Mission (RCM) satellites into orbit. (Satellite image ©2019 Maxar Technologies)
+
+Maxar currently operates four high-resolution commercial imaging LEO satellites. The data it acquires, typically in the form of images with 30cm resolution, is purchased by the US government, tech companies, and other customers. It also builds satellites and orbital robotics for other companies. Maxar must safeguard all those assets, physical and digital.
+
+"We face a spectrum of risks and threats that normal companies don't often encounter," says CIO Jeff Robertson. "As we build space assets, we have to think a decade or more ahead. It takes multiple years to build an asset, and once we have those assets in orbit, they often live for 10 or more years."
+
+Maxar's customers use its data to make important decisions about their operations on the ground, including tracking humanitarian crises. After the 2018 tsunami in Indonesia, aid workers used Maxar's Open Data program to plot open transportation routes, find safe drinking water, and locate trapped families. From that perspective, data integrity is critical; Maxar and its clients must be certain every pixel is accurate as it's recorded, sent from the satellite to the ground station, stored in a data center, and distributed.
+
+"Ensuring that every pixel is true is important," says Robertson. "We don't want to have anyone in the middle changing what we think of as the truth."
+
+Eliminating the Terrestial Infrastructure
+
+Maxar and companies like it face a few types of potential attacks. Simplest is disruption, where bad actors might try to prevent data from being collected or distributed. Most likely, this would take the form of jamming, wherein an attacker blasts a satellite with a radio-frequency signal powerful enough to interfere with its ability to communicate. Maxar's primary defense, says Robertson, is operational resiliency, which allows one satellite to fill in for another if it's compromised and provides alternative transmission routes.
+
+Cloud Constellation, a company dedicated to data storage and transfer, operates 10 LEO satellites designed to isolate sensitive data physically, by putting it in space. Beginning in 2021, Cloud Constellation will offer 1.6 petabytes of storage across those satellites, with each bit held redundantly in triplicate, and isolated from terrestrial networks, similar to air gap security.
+
+The service will target customers in healthcare, government, and financial industries that want to store and communicate data, or even process blockchain transactions, and allow them to access the data only through a proprietary terminal connected directly to their network.
+
+"You basically eliminate the terrestrial infrastructure and the only way to access anyone's data that's been encrypted … You would have to capture the key and the data simultaneously, and that makes it virtually impossible," says Dennis Gatens, chief commercial officer at Cloud Constellation. "Initially, what we're doing sounds like brute force, but it's actually pretty sophisticated in that it's leveraging a domain—space—for providing a level of protection to your data. You can't create a seamless network on Earth."
+
+That's not to say there aren't risks. One reason space has gotten more accessible is the availability of small, cheap, fast computers and controllers. But there are vulnerabilities in the manufacturing process of these parts, points out Chris Pettigrew, Staff Communications Representative at Lockheed Martin.
+
+"Let's say you go to Best Buy," says Pettigrew. "You're a contractor on a program, you go and buy a network router because that does what you need it to do. You may know that Best Buy is a reputable company. They give you lots of promises and say they're doing great work. But Best Buy may also employ a contractor to deliver their routers, and that contractor has another sub. And it turns out that while the manufacturer says it's an Acme router, and you know that to be a reputable brand, maybe Acme gets one of their chips from a source that's been compromised. That's the big concern in supply chain security."
+
+Maxar is built on vertical supply chain integration, building its own parts and software to avoid incorporating potentially compromised parts into its networks. Lockheed Martin tracks, traces, and verifies its components, using a trusted platform module to identify changes in chip behavior.
+
+Is Your Data Safe in Space?
+
+Of course, data isn't useful unless you can access it, and any company operating in space must have avenues to transmit and share data. Each starts with proprietary encryption. But the part that's different, that these companies and others say makes their systems secure, is how data is beamed directly to the appropriate ground station. In this way, many consider LEO satellites a more secure option, thanks to the extra level of effort required to interfere with or access the data.
+
+Compare the new LEOs, such as the communications satellite launched in January by Toronto-based startup Kepler Communications, to traditional geostationary (GEO) satellites, says Kepler CTO Wen Cheng Chong. GEO satellites are much larger and fly higher (22,000 miles), and they act more like a mirror, reflecting a ground-encrypted signal back down to anyone who has the code to access it.
+
+"From the [GEO] satellite's perspective, once it gets something that comes up, it just reflects everything back down," says Chong. Anyone can tap into it, if they can decode it.
+
+LEO satellites are not stationary relative to Earth—they pass over different regions as they orbit, each one aiming a small beam down at the ground station. At any given time, your data could be coming from different connected satellites within the same constellation. In addition to being harder to tap, LEO satellites are harder to jam, as an attacker would have to follow a moving target.
+
+That's not to say it couldn't be done, says Chong; one might find a terrestrial network hub where data is downlinked and then fly a drone between the satellite and the ground station. But intercepting the data would require knowing the radio frequency of the transmission and breaking the encryption. The difficulty of this is a selling point for many of the startups operating in space.
+
+The Military Option
+
+When you talk to satellite companies long enough, whether they make and operate satellites or use satellites built by others to acquire or transmit data, you'll notice many of them list the US military as an important customer—a typical company relies on the government for 50 percent of its business, says Beames. And as interest in using small sats for national security has grown, more capital has become available for young startups through government contracts such as the Air Force's Space Enterprise Consortium.
+
+But Beames warns that the US is lagging far behind China and other countries, which could be detrimental to our commercial space industry and our future national security. "We're moving to an era where the US national security space is going to be reliant on the commercial [sector], they're the only ones that'll be able to do it," says Beames. "But we may not have one because it'll be put out of business by competition because our government is not supporting it."
+
+With the military as a customer, a company must be prepared not just for data pilfering or hacking but also for direct counterspace measures. Security in space, both digital and physical, is tied to national security; the first thing an opponent would want to do, especially an underdog state or terrorist organization, is to take out the US's communications, intelligence, and navigation abilities—all of which are housed primarily on satellites. Because targeting systems are so effective in modern warfare, the winner in a conflict will be the one that stays hidden and strikes first.
+
+The US Defense Intelligence Agency, an arm of the Department of Defense, released a report in January detailing the types and sources of threats facing both military and commercial satellites. "Longstanding technological and cost barriers to space are falling, enabling more countries and commercial firms to participate in satellite construction, space launch, space exploration, and human spaceflight," wrote the authors. "Although these advancements are creating new opportunities, new risks for space-enabled services have emerged."
+
+The report included cyber attacks as well as directed energy attacks via laser, microwaves, or radio frequency, the kind responsible for jamming; sort of like a DDoS attack on a satellite. Further threats include kinetic missiles, such as those used by India and China (which similarly knocked one of its own satellites out of the sky in 2007), and even satellite-to-satellite warfare.
+
+Although the United Nations' 1967 exhaustively named "Treaty on Principles Governing the Activities of States in the Exploration and Use of Outer Space, Including the Moon and Other Celestial Bodies" prohibits placing Earth-directed weapons on satellites or space stations, satellites are capable of perpetrating all these same attacks upon one another. And some novel assault possibilities exist, including employing robotic systems designed to repair satellites to sabotage them instead. Furthermore, as the number of spacefaring entities increases, the expectation that all will follow the international norms set 50 years ago becomes less realistic.
+
+Much of the language in the Defense Intelligence Agency report isn't new. President Ronald Reagan's Star Wars initiative was ahead of its time; it featured plans for radar, optical, and infrared sensors, mounted on satellites, to track airborne threats—technologies employed in the guidance systems of anti-satellite missiles like the one launched by India.
+
+The Clinton administration initiated the Rumsfeld Commission to create a report, released in 2001, that recommended a single, cohesive space service. Though the report encouraged peaceful use of space, it was built around national security concerns. The Commission encouraged collaboration between federal and commercial space efforts and developed a regulatory framework by merging space agencies with the military—all topics that are still under discussion.
+
+Similarly up in the air is the role the government will play in the event of an intentional attack. What protections or aid can companies expect? It's analogous to the field of cybersecurity, says Beames, where there's really no guarantee of protection. The US DOD has the most robust space situational analysis (SSA) system in the world, which it uses primarily to track debris, warning satellite operators about potential or impending collisions. But the DOD shares that information at its discretion, and it comes in second to national security concerns.
+
+Further, it can be very hard to distinguish an intentional physical attack from an accidental collision, and the US has no set doctrine for how to respond—diplomatically or otherwise—to a physical attack. It's unlikely the government will act decisively if the intent or the source of the event is unclear.
+
+The SSA that the DOD runs is the primary (if not only) defense against intentional or physical threats to inherently vulnerable satellite systems, wrote Mariel Borowitz in a February article in the journal Space Policy. "There is some language in the national space policy that makes it clear that our space assets are critical to our national security, so essentially an attack on a space asset would be seen as a very serious action, if not an act of war," says Borowitz, an assistant professor for the School of International Affairs at the Georgia Institute of Technology. "That said, there isn't a very clear statement in terms of exactly what the United States would do, and that's probably because there isn't really agreement among major decision makers."
+
+For example, a Russian satellite launched in 2014 engaged in suspicious behavior, shifting and repositioning itself near an Intelsat satellite. Russia insisted there was no danger of collision, but such proximity can also allow close inspection or even data interception, according to a 2019 Space Threat Assessment report from the Center for Strategic and International Studies. Intelsat complained, US Space Command sent warnings, and the French Minister of the Armed Forces called it an act of espionage.
+
+"There's not a lot of recourse there except to call attention to it, to try to have these international discussions and make it clear what's acceptable behavior and what's not," says Borowitz.
+
+Of course, even if a satellite isn't intentionally targeted, things can just go wrong. On April 7, 2019, Intelsat 29e, a geostationary communications spacecraft launched by the company in 2016, experienced damage to its propulsion system and developed a fuel leak. During a recovery attempt, Intelsat lost all communications, and the satellite shifted its orbit slightly and will drift for the foreseeable future, potentially crossing the orbits of other nearby satellites.
+
+"Space is a really hostile environment, so you have to account for things like radiation," says Pettigrew. "It's just a really difficult place to operate."

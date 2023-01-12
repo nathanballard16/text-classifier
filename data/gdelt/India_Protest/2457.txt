@@ -1,0 +1,43 @@
+Tougher scanning, looser encryption: What new rules want from Web firms
+
+The Rules, read under Section 79 of the Information Technology Act, 2000, make ‘intermediaries’ such as Facebook, Google, WhatsApp, and others responsible for actively monitoring the content they host.
+
+The government on Wednesday published 609 pages of suggestions and comments from a range of relevant parties on a new set of guidelines for intermediaries that it issued at the end of last year. The Intermediaries Guidelines (Amendment) Rules, 2018 could have a farreaching impact on the way social media websites, and the Internet as a whole, operate in India. Counter-comments will be accepted until February 14.
+
+The Rules, read under Section 79 of the Information Technology Act, 2000, make ‘intermediaries’ such as Facebook, Google, WhatsApp, and others responsible for actively monitoring the content they host. They also ask the intermediaries to allow the tracing of information on their platforms by government agencies — a requirement that could create difficulties in the India operations of global end-to-end encrypted products like WhatsApp or Signal.
+
+Internet companies with more than 50 lakh users will be required to register themselves in India, and have an office in the country.
+
+Changes in content
+
+The Rules notified by the Ministry of Electronics and Information Technology (MeitY) on December 28, 2018 ask for greater due diligence from intermediaries on the regulation of the content they host.
+
+First, all intermediary companies will have to “deploy technology based automated tools or appropriate mechanisms, with appropriate controls, for proactively identifying and removing or disabling public access to unlawful information or content”.
+
+Open-source companies like Wikipedia, GitHub, and Mozilla have formally protested to IT Minister Ravi Shankar Prasad. They have argued that it would not be possible for them to employ automated tools to monitor “unlawful” content. GitHub is an online repository of code, Wikipedia content is generated, edited, and moderated by users, and Mozilla’s Firefox is a popular open source browser.
+
+For many startups in India, monitoring and removing content might not always be viable or possible, given the resources that would be required. Plus, companies will have to inform their users “at least once every month” that in case of non-compliance, their accounts and content would be removed. Exactly how this will be achieved is unclear.
+
+In addition to the earlier stipulation about content that is grossly harmful, defamatory, obscene, etc., they must now also filter content that “threatens public health or safety; promotion of cigarettes or any other tobacco products or consumption of intoxicant including alcohol and Electronic Nicotine Delivery System (ENDS) & like products that enable nicotine delivery…”
+
+Any content which “threatens critical information infrastructure” is not allowed under the new Rules.
+
+Question of encryption
+
+Companies will have to help government agencies in locating the origin of content, if required to do so by law. For many, this could mean choosing between breaking their end-to-end encryption in India, or stopping the service in the country altogether.
+
+The new Rules say that if there is a lawful order, “then intermediary shall, within 72 hours of communication, provide such information or assistance as asked for by any government agency or assistance…” The lawful order could be in matters of state security, cyber security, investigation of any offence.
+
+Also, “The intermediary shall enable tracing out of such originator of information on its platform as may be required by government agencies who are legally authorised.”
+
+For apps like WhatsApp, Signal, etc., tracing the originator of information could create problems, besides forcing them to go against the core of what their product stands for.
+
+End-to-end encryption on WhatsApp or Signal ensures that no one can read the messages shared between two users — no government, no third-party, no cyber criminals, not even the company itself. The Rules then, could amount to making it impossible for these firms to work in India in their current avatars. Would the services be banned for non-compliance? That isn’t clear so far.
+
+
+
+Registration in India
+
+All players with more than 5 million users in India have to be incorporated under The Companies Act. This will touch more companies than just the well-known ones. The companies will need to have a “permanent registered office in India with a physical address”. Also, these norms, although currently applicable to only the 5 million-plus firms, can be “extended to any intermediary, which is specifically notified by the Government of India”, according to the Rules.
+
+Again, the Rules only say “fifty lakh users in India” — it is unclear whether they mean monthly active users or daily active users, which are the key metrics that Internet companies use to define their user base. A service that has 5 million monthly active users in India — i.e., users who log in once a month — might not see the sense in having an office in the country.

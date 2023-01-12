@@ -1,0 +1,37 @@
+New ‘Anatova’ ransomware poses as an app or game to trick victims
+
+Security researchers at McAfee have discovered a new piece of ransomware called ‘Anatova’ that masks itself as a program or video game and tricks users into downloading and launching it on their computers.
+
+In an advisory last Tuesday, McAfee claims that that the new ransomware has mainly infected users’ in the U.S, and in nine other countries so far.
+
+The security vendor notes that the new code behind this ransomware, and its modular capabilities, suggests that skilled cybercriminals are behind this, and it first emerged on January 1st of this year.
+
+Researchers from McAfee first discovered the ransomware on a private peer-to-peer network, and McAfee claims that the ransomware has the potential to become a serious threat because of its prepared modular extension.
+
+Anatova ransomware
+
+Christiaan Beek, lead scientist and principal engineer at McAfee, told ZDNet: “Anatova has the potential to become very dangerous with its modular architecture which means that new functionalities can easily be added. The malware is written by experienced authors that have embedded enough functionalities to be sure that typical methods to overcome ransomware will be ineffective.”
+
+The cybersecurity research company said that the primary goal of the ransomware is to morph itself quickly into a game or application to trick users into downloading it.
+
+Anatova will create an RSA Pair of Keys using the crypto API which will cipher all strings, before generating random keys to encrypt the target system and execute the process of deploying the ransomware.
+
+Cryptocurrency payment
+
+Once downloaded, it encrypts as many files as possible on an infected system and then it leaves behind a note demanding payment in cryptocurrency of 10 dash coin.
+
+“The malware developers demand a ransom payment in cryptocurrency of 10 Dash – currently valued at around $700 USD (£534), a quite high amount compared to other ransomware families,” the company said.
+
+Anatova then provides a cryptocurrency wallet address to make the payment and then asks users to email the attacker to receive a decryption key. The ransomware then displays a message: “Nothing personal, only business.”
+
+Users who have been infected by the ransomware are advised not to retrieve the files themselves.
+
+CIS countries unaffected
+
+The report states that the ransomware will terminate itself if it finds that the victim is a member of the Commonwealth of Independent States – made up of former Soviet bloc nations, including Russia. Users in other countries like Syria, Egypt, Morocco, Iraq, and India, are currently not under any threat from the new ransomware.
+
+“It’s quite normal to see the CIS countries being excluded from execution and often an indicator that the authors might be originating from one of these countries,” said Alexandre Mundo, senior malware analyst in McAfee’s advanced threat research team.
+
+“In this case, it was surprising to see the other countries being mentioned. We do not have a clear hypothesis on why these countries, in particular, are excluded,” he added.
+
+Security researchers are not yet sure who is behind the ransomware.

@@ -1,0 +1,13 @@
+India Election Expectations Fuel Unusual Options Activity
+
+The iShares MSCI India ETF (INDA) has rocketed higher today, with the exchange-traded fund (ETF) pacing for its best session since March 2016. Specifically, INDA shares were last seen 4.5% higher at $35.22, as exit polls suggest a win for Indian Prime Minister Narendra Modi. Votes will be counted on Thursday, May 23, after a seven-week election. Against this backdrop, INDA is seeing unusual options activity this morning.
+
+The ETF took a hit earlier this month amid concerns about global trade, and briefly breached its 200-day moving average. This trendline acted as a formidable ceiling for INDA shares from late 2018 into early March. However, the fund is now back above this trendline, and has trimmed its month-to-date loss to under 1%.
+
+INDA etf chart may 20
+
+At last check, INDA has seen more than 7,700 put options change hands -- nine times the average intraday volume, and more than triple the ETF's average daily put activity. For comparison, just under 1,900 INDA calls have traded so far today, in line with the norm.
+
+Digging deeper, most of the action has transpired at the June 34 put, which assumed front-month status after last Friday's close. More than 4,400 contracts have crossed the tape at this strike today, though most traded closer to the bid price, pointing to seller-driven volume. For those selling to open the June 34 put, they expect INDA shares to remain north of $34 through the close on Friday, June 21, when the options expire.
+
+Today's appetite for near-term puts is less unusual when looking at the Indian ETF's open interest configuration, though. Specifically, its Schaeffer's put/call open interest ratio (SOIR) of 9.86 indicates that put open interest outnumbers call open interest by a margin of nearly 10-to-1, when looking at options that expire within the next three months. This ratio is in the 90th percentile of its annual range, suggesting short-term traders have rarely been more put-biased in the past year.

@@ -1,0 +1,11 @@
+YouTube adds fact checks to search results on sensitive topics
+
+YouTube is launching new information panel that will appear when users search for controversial topics. The text boxes will appear at the top of search results and will offer fact checks from verified partners to help combat the spread of misinformation. For now the feature is launching first in India and will be available in Hindi and English, but will be coming to other regions and languages in the future. YouTube confirmed the feature to Engadget.
+
+"As part of our ongoing efforts to build a better news experience on YouTube, we are expanding our information panels to bring fact checks from eligible publishers to YouTube," a spokesperson from YouTube told Engadget. "We are launching this feature in India and plan to roll this out in more countries as time goes on."
+
+According to YouTube, it won't be fact checking individual videos -- a task that would require a gargantuan effort and an uncountable number of human hours to accomplish. Instead, the fact checks will surface in search results as a sort of preemptive attack on any video spreading misinformation.
+
+The articles used for the new information panel will have to pass through a markup process to be used. That process requires fact-checkers to add a couple of lines of code to their articles to allow Google's web crawlers to quickly pick up vital information like what claim is being checked and whether it is true or false. Once an article passes that check, the information can be surfaced by YouTube in search results with no additional lift required by the publisher.
+
+YouTube has implemented a number of changes in recent years in an attempt to combat videos that perpetuate false information. The company came under fire for enabling the rise of people like Alex Jones and the spread of false stories like the conspiracy theory that mass shooting survivor David Hogg was an actor. YouTube has since launched a video feed for verified news organizations and has added information cues under controversial videos that source related information from Wikipedia. The company recently took to removing advertisements from anti-vaccine videos to keep channels from profiting off misinformation.

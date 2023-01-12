@@ -1,0 +1,19 @@
+Indian metros and smaller cities too facing increasing cyber threats
+
+Indian metros and smaller cities too facing increasing cyber threats
+
+Bengaluru ranked the top city facing the maximum cyber attacks last year, states QuickHeal in its report, even while some other major cities such as Delhi along with National Capital Region, Mumbai and Kolkata, too are getting victimized with these attacks.
+
+QuickHeal an anti-virus company based in Pune reports that it's not just the big cities in India that are facing cyber attacks. Even non-metros, for e.g. Patna, capital of Bihar, Bhubaneswar, capital of Odisha, and Jalalpur within Uttar Pradesh in the north are occupying positions within the fifteen most targeted cities inside the subcontinent as prone to cyber assaults this year.
+
+Elucidating over the findings, chief technology officer and founder of QuickHeal Mr. Sanjay Katkar says Bengaluru as the centre of technology as well as the most enriched place for IT recruitments is running as cyber-criminals' most preferred target. In a cat-and-mouse chase, as these companies practice ever more advanced technologies so do cyber-criminals discover methods commensurate to attack them. www.ETcio.com posted this, May 20, 2019.
+
+QuickHeal further studied the state of ransomware attacks and found that these assaults occurred for a maximum of 14 times every 60 seconds, thus indicating a growing e-threat. Incidentally, ransomware is that malware which makes an end-user's PC files inaccessible to him till he pays a demanded ransom from an anonymous person for getting back the access.
+
+However, crypto-jacking that involves using some other person's PC illegally for mining crypto-currency is now ahead of ransomware to form the No.1 online danger for both businesses and households.
+
+In 2018, Indians owning Android devices commonly experienced malware that attacked via intermediate application stores except Google Play. This year (2019) there's an increasing risk of online crimes targeted at mobile phones. Further, digital payments that are now quite popular within India since past few years are expected to be particularly prone to cyber assaults in 2019. www.qz.com posted this, May 17, 2019.
+
+There's currently an online sale of MaaS (malware-as-a-service) as well as RaaS (ransomware-as-a service). Also, IoT (Internet-of-Things) are rapidly taking form of the latest as well as trendy channels of cyber assaults, the report states.
+
+» SPAMfighter News - 5/23/2019

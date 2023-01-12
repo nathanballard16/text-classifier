@@ -1,0 +1,63 @@
+Milacron Completes a Successful Indiaplast 2019 Trade Show - Featured Industry-Leading Injection, Extrusion and Mold-Masters Technologies
+
+CINCINNATI--(BUSINESS WIRE)--Milacron Holdings Corp. (NYSE: MCRN), a leading industrial technology company serving the plastics processing industry, was pleased to attend this year’s edition of the Indiaplast trade show February 28th - March 4th in Greater Noida, just outside India’s capital city, New Delhi. Milacron displayed their industry-leading Milacron injection machinery, Mold-Masters hot runners and controls systems as well as Milacron Extrusion machinery in Hall 11 Booth B1.
+
+The Indian plastics processing market continues to be a key geographical area of focus for Milacron’s brands both for sales and manufacturing capabilities. Milacron’s manufacturing plant in Ahmedabad has experienced significant growth and continues to expand in order to meet both local and international demand. Meanwhile, the Milacron hot runner product brand Mold-Masters based in Coimbatore recently moved into a new 40,000 sq. ft. building in August 2018. The new facility houses Milacron engineering and shared services associates and offers support to the entire Milacron organization globally. Tom Goeke, Milacron President, and CEO stated, “Milacron was proud to participate in Indiaplast 2019. This year’s show was a great opportunity for the Indian market to see the capabilities of Milacron’s injection, extrusion, and hot runner portfolio. We have many loyal customers in India, and a show like this allows us to further demonstrate the Milacron advantage. Milacron will continue our focus on the growing Indian market and manufacturing leading industry technology.”
+
+Below you’ll find a sampling of some of the technologies that were on display from Milacron at Indiaplast 2019.
+
+MILACRON INJECTION MOLDING MACHINES
+
+The NEW Milacron Q-Series Injection Molding Machine Line – Two Q-Series Machines, a 180T and 280T, Ran Live at Indiaplast
+
+Milacron’s new Q-Series is the latest globally available servo-hydraulic injection molding machine that builds on the success of the 2017 launch of the Quantum injection machine line, but offers a number of enhancements. With a tonnage range of 55 to 610 (50-500 KN), the Q-Series is built to perform in a wide array of applications and configurations. Based on Milacron’s highly touted, reliable and in-demand Magna Toggle and F-Series machine lines, the Q-Series is a true culmination of high efficiency, consistency, and globally engineered technology.
+
+Q-Series has been designed to fit the high expectations of toggle performance while providing an extraordinary value. Leveraging the use of a servo motor in combination with hydraulic components, Q-Series provides exceptional repeatability and energy savings. The clamp kinematics provide enhanced velocities while delivering a smooth and accurate operation. The clamp design provides for better tonnage linearity allowing minimum tonnage to go lower than previous toggle designs. The servo motor and hydraulic systems combine to deliver power when it is needed, using less power when it is not. The eco-friendly design generates savings in electrical power consumption, cooling requirements, and lower maintenance cost.
+
+The Q-Series is also available as part of Milacron’s Quick Delivery Program (QDP) in Europe and North America and is part of the Milacron's 2019 injection product refresh.
+
+Cell Details – Q-Series 180T: Molded a PET medical vial, 32-cavities, total shot weight of 115.5 grams and a part weight of 3.6 grams, running at 7-second cycles.
+
+Cell Details – Q-Series 280T: Molded a 100 ml PP cup with in-mold labeling, 4+4 stack mold, total shot weight of 48 grams and a part weight of 6, running at 6-second cycles.
+
+All Milacron Injection Molding Machines and Extrusion Systems are Bio-Resin Compatible!
+
+Milacron recognizes and embraces the importance and rapid adoption of bio-resins in both injection molding and extrusion applications. The entire Milacron injection line-up, as well as all Milacron Extrusion machines, have successfully processed a wide range of bio-resins and are ready to process the newest and most demanding resins.
+
+Milacron India Showcases IIoT solution – M-Powered for India - Designed Especially for the Indian Market
+
+Milacron has created a one-of-a-kind IIoT solution for its India based customers to utilize a portfolio of easy-to-use observational, analytical and support services that gives molders a competitive advantage through insight. Leveraging Internet of Things (IoT) technology, Milacron M-Powered for India provides unique intelligence on current operations and future needs, sharpens manufacturing quality and productivity, and optimizes uptime. M-Powered for India will allow molders to measure, identify, implement, improve and increase operations.
+
+MOLD-MASTERS HOT RUNNER AND CONTROL SOLUTIONS
+
+Mold-Masters Fusion Series G2 Automotive Hot Runner Solutions
+
+Mold-Masters has rolled out many additions and enhancements to Fusion Series G2, the drop-in system favored by the automotive industry for high-quality large part production, which includes an expanded nozzle range and waterless actuator technology. New for the Fusion Series G2 are the F3000 and F8000 nozzles, which extend the capabilities and applications of this system to include shot sizes from <15g to over 5,000g. The F3000 has a shot capacity of <15g, which is ideal for smaller underhood components, technical automotive components and price sensitive packaging and consumer good applications. The F8000 increases the shot capacity of the system further than ever before to 5,000g by utilizing runner diameters up to 28mm. Nozzle lengths are also available that exceed 1m. F8000 has been developed to meet the processing requirements of common large automotive components like Fascias, Instrument Panels, Door Panels, and large white goods. Additionally, Fusion Series G2 systems will also be available with the new Waterless Actuator, which incorporates new Passive Actuator Cooling Technology (PACT); eliminating hose-plumbed cooling circuits allows for the actuators to facilitate faster mold changes and provide long-term performance reliability.
+
+Maximized for uptime, the Fusion Series G2 hot runner system is delivered completely pre-assembled and pre-plumbed, saving significant set-up time to get you back into production right away. Incorporating popular features like field replaceable heater bands ensures that any maintenance is quick and easy.
+
+Mold-Masters Master-Series Hot Runners – The Industry Benchmark in Hot Runner Performance, Reliability and Bio-Resin Capabilities
+
+Master-Series hot runners represent the benchmark in hot runner performance and reliability in the industry. It’s proven to deliver consistently high-performance processing capabilities for exceptional part quality even with highly technical applications. Featuring the industry’s broadest nozzle range, Master-Series leverages many of Mold-Masters core technologies to deliver successful solutions where others fail. Brazed Heater Technology provides exceptional thermal precision and balance, which enhances mold performance and is so reliable it’s backed by an available 10 year warranty that is up to 5 times longer than any other supplier. Mold-Masters iFLOW 2-piece Manifold Technology eliminates sharp corners and dead spots providing industry-leading fill balance and rapid color change performance. Master-Series is also up to 27% more energy efficient than competitive systems. Compatible with a wide range of resins, Master-Series is suitable for almost any application.
+
+Mold-Masters is once again ahead of the curve and ready with the Master-Series hot runners extensive testing and real-world results using a wide variety of bio-resins. Hundreds of Mold-Masters Master-Series systems are already in the field processing bio-resins producing small to medium size parts in single nozzle to high cavity systems running in every major market around the world.
+
+Mold-Masters TempMaster Series Hot Runner Controllers – Optimizing Performance of any Hot Runner System
+
+At the core of each TempMaster temperature controller is our advanced APS control technology. APS is an industry leading auto-tuning control algorithm delivering unmatched control precision and reliability varying only the slightest amount from set point. The result is enhanced molded part quality, consistency and minimized scrap.
+
+Mold-Masters flagship controller has just gone through a recent upgrade. The enhanced TempMaster M2+ controller, which is our most advanced, fully featured controller capable of controlling up to 500 zones is now available with larger and more powerful cutting-edge touchscreen controls with a new modernized interface. Navigating the screens is now more intuitive than ever before and even incorporates familiar gestures like pinch-to-zoom. Instantaneous response to touch inputs eliminates waiting times and data can be displayed in real time (no averaging). TempMaster M2+ controllers also feature the widest selection of modular control cards and have the most compact cabinet dimensions in their respective classes by up to 53%. No other controller can seamlessly integrate with the range of advanced capabilities that the TempMaster M2+ can. Functionality like SVG, E-Drive Synchro Plate, M-Ax Auxiliary Servos and Water Flow Temperature can be easily integrated, monitored and controlled from a centralized location. TempMaster M2+ also introduces more advanced features to its capabilities.
+
+MILACRON EXTRUSION SOLUTIONS
+
+Milacron TP Series Parallel Twin Screw Extruder - High Output with Gentle Plastification
+
+Milacron’s TP Series of Parallel Twin Screw Extruders combines space-saving compact design with the long proven advantages of Milacron technology for all your extrusion applications, including PVC pipe, foam PVC sheet, fence, vinyl profiles, wood, and natural fiber plastic composites, vinyl siding and pelletizing. Our five parallel twin screw extruders cover application requirements for high throughputs. The complete line features proven advantages of minimal screw deflection and a large feed zone for maximum feeding efficiency. Screws have a high surface area for gentle, uniform heat transmission to produce a high-quality homogeneous melt. Options include a segmented barrel design in nitride and exclusive high wear-resistant tungsten coating as well as customized screw designs available with moly or exclusive high wear-resistant tungsten screw flight coatings.
+
+High Resolution imagery can be downloaded here: https://www.dropbox.com/sh/tqzaruls725gsgm/AABElp0tg6PmmZb0h-E5hp63a?dl=0
+
+Press Release is available in English only.
+
+About Milacron
+
+Milacron is a global leader in the manufacture, distribution, and service of highly engineered and customized systems within the plastic technology and processing industry. Milacron is the only global company with a full-line product portfolio that includes hot runner systems, injection molding, blow molding and extrusion equipment, mold components, industrial supplies, plus a wide market range of advanced fluid technologies. Visit Milacron at www.milacron.com.

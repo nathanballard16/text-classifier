@@ -1,0 +1,11 @@
+The Attack That Broke the Net’s Safety Net - The New York Times
+
+As authorities rushed to stop a gunman on a mass killing spree in New Zealand, engineers, programmers and content moderators around the globe were scrambling to keep the rampage from going viral.
+
+It didn’t work.
+
+The terrorist in Christchurch killed 50 people at two mosques on Friday, livestreaming part of the attack on Facebook. The original video was taken down within an hour. But copies proliferated across the major platforms.
+
+On Saturday night, Facebook announced that it had removed 1.5 million copies of the video, with 1.2 million blocked at the moment they were uploaded. YouTube declined to give numbers, although its chief product officer told The Washington Post that at times, a copy of the video was being uploaded every second.
+
+After decades of shunning responsibility for user content, Big Tech is slowly making its products safer for society — banning anti-vaccine misinformation, for instance, and cracking down on political disinformation. More moderation comes with heavy risks, of course. Decisions about the limits of free speech would shift to companies whose priorities are driven by shareholders. But the viral spread of the Christchurch shooting video shows the limits of the content moderation machine in the face of technologies that have been designed to be attention traps. Stricter moderation or filtering systems are not the answer. It must be a priority to redesign technology to respect the common good, instead of ignoring it.

@@ -1,0 +1,65 @@
+ICOs in Emerging Markets
+
+Advertisment
+
+
+
+
+
+Despite the growing range of possible applications of Blockchain technology , most people still tend to focus on the tech’s impact on the financial sector. This is hardly surprising. After all, in 2008, Satoshi Nakamot o’s original pitch described Bitcoin (BTC) and its underlying protocol as “a peer-to-peer electronic cash system”. Cryptocurrencies, which run on blockchain or other forms of distributed ledger technology, aim to challenge the role of their fiat counterparts as a medium of exchange, or, at the very least, strive to create a new investment asset class. And, even though the market for initial coin offerings (ICOs) cooled off dramatically in 2018, for a time token sales managed to challenge the traditional fundraising models.
+
+Positioning blockchain and crypto as a challenger to the traditional financial sector puts the nascent tech in a disadvantage, at least in the developed world, where the incumbents have had centuries to develop a financial system that, for the most part, works. However, when it comes to emerging markets, where opportunities for raising capital are often limited and significant portion of the population don’t have access to reliable banking services, blockchain’s potential as an alternative financial system starts to shine.
+
+Here, I want to focus on ICOs, specifically, and examine which emerging market economies have embraced the model and which may be facing difficulties in adopting it.
+
+India
+
+Apart from some major emerging economies such as China, which banned domestic ICOs in September 2017, emerging markets have so far been largely unable to contribute to the global ICO market in a meaningful way. India, generally considered to be the second-largest emerging economy, has maintained a negative stance on cryptocurrencies, which has discouraged many local blockchain start-ups from launching token sales in their domestic market. Instead, many India-based businesses have chosen to shift to other jurisdictions in order to launch ICOs.
+
+One of these businesses is the Mumbai-based online car rental platform Drivezy , which ran a security-based ICO last February, through its parent company, which was registered in the US. In an interview with online publication livemint.com from March, 2018, Drivezy’s head of business development Ankur Sengupta said that the company chose not to offer its ICO in India and China, because it was unsure about laws regarding cryptocurrencies in these countries.
+
+Speaking on the condition of anonymity, another blockchain told livemint at the time that while there weren’t any specific regulations against token sales, an increasing number of companies were listing their ICOs since there was no clarity from regulators.
+
+The livemint article is old, but it hinted at why the ICO sector hadn’t been able to take off in India. And with Indian authorities having failed to take steps towards facilitating a more ICO-friendly environment, I feel that the insight the piece provided is still relevant today.
+
+In a more recent interview with news outlet BusinessLine, Nitin Sharma, angel investor and founder of Incrypt Blockchain, confirmed that the ICO sector in India was still facing challenging conditions. Asked about whether ICOs had gained traction as a fund-raising mechanism in India, Sharma responded:
+
+“India is a tiny part of global ICO fund raising avenue thus far. I have tracked between 30 and 40 Indian teams that have tried to pursue ICOs.”
+
+“Since India does not have a regulatory structure for ICOs, all of these have chosen foreign jurisdictions and most of the capital raised has also been from foreign investors,” he also said in the interview published September 17.
+
+However, Sharma also pointed to the general decline in ICO global activity, as also preventing the sector from growing. With the market having slowed down considerably, “it can be longer, more expensive and counter-productive to raise capital through ICOs”.
+
+“Hence, very few new projects from India are currently able to raise significant capital via ICOs,” Sharma said.
+
+Russia
+
+In sharp contrast to India, Russia has been quite active on the ICO scene over the past couple of years and the county’s authorities have demonstrated interest in the technology. Last September, media outlets reported that the country’s central bank had conducted a successful ICO experiment.
+
+“Within a framework of the central bank’s sandbox, we conducted an experimental ICO on the basis of our existing infrastructure. Technically it was a success, but we still have a lot of legal issues,” a high ranking official at the bank said at the time.
+
+The business sector in Russia has also been heavily involved with ICO fundraising. According to a report, published in the Stanford Journal of Blockchain Law & Policy, in 2017 around 10% of ICO projects worldwide were launched in Russia, with only the US and the UK capturing bigger shares.
+
+Meanwhile, data from website ICO Watchlist shows that Russia has captured just over 7% of world ICOs, although the timeframe used by the site is unclear. According to the data, those projects have raised over $1 billion.
+
+Latin America
+
+ICOs have yet to take off in Latin America in a big way. Website cryptonews.com reported last year that, as of November 8, a total of 27 token sales had been carried out in the region. Of those, seven were carried out in Mexico, putting the country ahead of Brazil and Argentina, which followed with five each. Still, the region has seen significant growth in fintech companies, with Mexico in particular having seen the number of fintech companies registered in the country growing from 50 in 2015 to 2,400 in 2017. This could potentially provide a foundation for a robust ICO sector in the future.
+
+The ICO problem
+
+Unfortunately, at its current state, the ICO sector is far from realising its potential as a viable fundraising option. As much as the dramatic drop in investor interest has been a reflection of the broader crypto market struggles, it is also indicative of people’s increasing distrust for the sector in the face of overhyped projects, unfulfilled promises and outright fraudulent schemes. The ICO concept can easily be abused by bad actors, especially in regions with less robust regulatory oversight. Still, I believe that, in the right hands, token sales can be a powerful tool that can help businesses with limited access to traditional fundraising to realise their projects.
+
+“Given the disruptive potential of this new method, we are advocating to pay close attention and run sandbox experiments to allow some high-quality ICOs, because India can be a major beneficiary of the capital that can come in to support Indian start-ups,” Incrypt Blockchain’s Nitin Sharma told BusinessLine.
+
+
+
+Blockchain Resources
+
+The post ICOs in Emerging Markets appeared first on The Independent Republic.
+
+
+
+
+
+

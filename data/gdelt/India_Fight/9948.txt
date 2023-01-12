@@ -1,0 +1,49 @@
+Drive an electric car or power your home with solar energy. Magenta Power has clean energy solutions for you
+
+A trip to Southeast Asia five years ago changed 40-year-old Maxson Lewis’s life. Helping to set up a clean energy solutions business in Indonesia as a consultant, Maxson realised he had spent the better part of two decades in the technology domain, and on executing energy solutions. And the question he was asking himself was: “why not start up with what I know best, which is setting up clean energy solutions?”
+
+That, and seeing the Indian government's push on clean energy, Maxson jumped into business in 2016. He bootstrapped his company Magenta Power with Rs 1 crore and. three years on, Maxson is well on his way to set up a complete solar grid, charging infrastructure for electric vehicles, and discovery of solar power availability through his app, ChargeGrid.
+
+Prior experience at St Gobain, Bosch, and Accenture had taught Maxson to create teams and scale up organisations. Also, he had spent a good part of his time building the energy practice at Accenture, and had strong knowledge of the economics of energy. All this knowledge he put to use at Magenta Power.
+
+The government of India had a target to set up 20 GW solar capacity by 2020. However, according to the Renewable Energy Department, India has already achieved 25 GW capacity. And Maxson’s Magenta Power had a good contribution to make to this achievement.
+
+Magenta Power installs roof top solar panels for housing societies and businesses, and these can be linked together to form a microgrid. “We set up, manage utilisation, and build adoption,” Maxson says. Magenta Power has a team of 25 people and most of the projects are executed by the team itself, or it hires people on contract.
+
+“Some components are sourced from overseas. The solar panels are sourced from Singapore, but around 50 percent of the components we use are made in India by various companies that we source from,” says Maxson. Over 300 housing societies in Mumbai and Navi Mumbai have solar installations by Magenta.
+
+Understanding the economics of solar
+
+A solar power installation of Rs 4 lakh can power lighting for common areas, lifts, and water pumps for a society or a corporate office. The cost is ammortised by the housing society or company in four years, and for the next 16 years, the only cost is for maintainance of the solar panels.
+
+Typically, societies opt for between 15 and 100 KW solar capacity installations, depending on the available rooftop area. The per KW cost of installation ranges between Rs 55,000 and Rs 75,000 per KW, depending on the structural complexity.
+
+Stay Updated Get stories of change makers and innovators from the startup ecosystem in your inbox Please fill in this field. {{#error}} {{error}} {{/error}} {{^error}} Something went wrong. Try again later {{/error}} Welcome Onboard ! You have been successfully registered for our daily newsletter.
+
+Each KW of solar installation generates, on average, 120 units of power per month. Assuming an electricity unit cost of Rs 8 (it goes up to Rs 15 per unit in Maharashtra), every KW of solar installation generates 120 times 8, meaning Rs 960 worth of electricity per month, effectively generating enough power to recover investments within five years.
+
+“Solar energy took off in India as production of panels in China took off and prices dropped. The per KW cost of installation is now almost half of what is was four years ago. This has made the business case very positive. In fact, installing solar panels at the current cost of offsetting grid power cost makes absolute business sense,” Maxson says.
+
+In solar power, there are two business models.
+
+CapEx: Where the client invests the cost of installation, and recovers his investment through savings on electricity bills.
+
+OpEx: Where companies like Magenta Power set up the solar installation at their cost, and recover their investment on a monthly basis from the client. This works for larger installations above 100 KW.
+
+Powering electric vehicles
+
+If a building produces more solar power than it needs, it can put it up on the grid, which essentially means individuals can get paid by the government. That, though, is a story for another day as the government is yet to come up with a strategy to execute net metering of solar power.
+
+Currently, Magenta is working to set up charging stations for electric vehicles that would help these buildings monetise the electricity they produce.
+
+“Over the next decade, as the presence of solar electricity increases, every house can become a charging station, which means anyone can give power to, say, electric vehicle owners. This can be managed through the Magenta app, which will match demand and supply of charging stations and vehicles that need charging,” Maxson says.
+
+Magenta aims to set up over 450 charging stations by next year. Currently, it has 32. Magenta has also set up a solar power-based charging station for electric vehicles on the Mumbai-Pune highway. “We have installed India’s first EV billing meter. We will soon also instal charging installations in Pune, Bengaluru and Hyderabad,” he says.
+
+The startup also has a fast-charge solution that can charge an electric vehicle of 15 KV capacity in half hour, which can give a car a range of around 140 km. The company is looking to raise a large round of funding, and did not divulge details on its revenue.
+
+Companies like Orb Energy, 8 Minutes, Renew Powera, and Ostro are working in the solar power installation and distribution piece. Magenta, though, is the only one focusing on electric vehicles. Sun Mobility is planning to set up swappable battery stations across the country, and Maxson said Magenta would support swappable, and fixed charging infrastructure.
+
+Thanks to these startups, original equipment manufacturers such as Mahindra & Mahindra and Tata Motors are betting on a huge electric vehicle strategy. One company, sources say, will release 10,000 electric three-wheelers or rickshaws by the end of the year. “The time to go electric has arrived. The costs are dropping every year and there is great push from the government to go electric,” says Chetan Maini, co-founder of Sun Mobility.
+
+According to clean energy consultant Mercom Research, the market size for solar power is huge, and India will look to have 100 GW of capacity by 2022. When there is an ever lasting sun, why shouldn't India go solar? That's what startups like Magenta want to show the world.

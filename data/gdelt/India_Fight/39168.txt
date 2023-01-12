@@ -1,0 +1,57 @@
+Independence Day 2019: Where are the jobs in India?
+
+The jobs debate rages on. Naysayers and the Delhi Leftist Economic Club claim increasing unemployment. The facts are that India recorded impressive growth between 2014 and 2019. Nominal GDP grew by an estimated Rs 78 lakh crore - 69.2 percent growth at a CAGR of 10.9 percent - implausible without a corresponding increase in employment.
+
+Oft quoted surveys like the PLFS (Ministry of Labour) and Consumer Pyramids (CMIE) indicate a decline in employment. However, they barely survey 105,000 and 160,000 households, respectively; not statistically representative of 1.35 billion people since the context in which people work has fundamentally changed.
+
+Many scholars have also pointed out technical challenges in the surveys. Further, there is significant economic variance among states, and even within states. India’s economic composition has also changed dramatically in the last ten years, rendering some survey methodologies outdated. We need new data sampling methodologies, including employment databases, that account for these factors.
+
+It is time policymakers and economy watchers analyse data from sources like EPFO (Employee Provident Fund Organization), ESI (Employee State Insurance), NPS (National Pension Scheme), IT returns, vehicle sales, Mudra scheme, and others. Steadily, these databases are linking subscribers to Aadhaar and can be cross-mapped. EPFO, ESI and NPS publish monthly reports, with disaggregated data from Sep 2017, and serve as useful starting points.
+
+EPFO applies to entities with 20+ employees across 190 industry classifications. It records new subscribers every month upon payment of contribution and classifies them by age group, industry, and state. The latest June 2019 payroll report shows the gross number of new EPF subscribers in FY 2018-19 is 1.39 crore (Table 1).
+
+Accounting for people who joined and then exited, and in some cases, rejoined in the same FY, the net number of new subscribers is 1.12 crore - representing the net number of people who got a new job during the year.
+
+An applicable entity, on crossing the 20-employee mark, is inducted into EPFO. One criticism is that the EPFO does not indicate new jobs but only formalisation because existing employees are inducted in this manner. This criticism doesn’t hold because we can easily account for this.
+
+In 2018-19, 60,884 establishments remitted their first electronic challan (ECR); factoring this by 20 gives us 12.17 lakh new subscribers, which are existing employees getting formalised. Subtracting 12.17 lakh from the net number yields just over one crore new jobs (Table 1). Further, new employees over the 20-employee minimum of existing entities count as new jobs.
+
+Stay Updated Get stories of change makers and innovators from the startup ecosystem in your inbox Please fill in this field. {{#error}} {{error}} {{/error}} {{^error}} Something went wrong. Try again later {{/error}} Welcome Onboard ! You have been successfully registered for our daily newsletter.
+
+Table 1 – Net number of new subscribers recorded by EPFO in FY 18-19, by age group
+
+EPFO’s methodology was recently updated. In the old MOSPI format, the subtraction of exiting employees included those that had joined before the FY started instead of only those who had registered in the FY. The methodology was revised to count the number of exits, as well as those who rejoined in the same FY, correctly. If a person quits and joins a new job, the record must reflect in both columns. With the correction, the net new subscribers excluding formalisation are at 1.003 crore.
+
+Of 1.12 crore (Table 1), the highest number is 28.6 lakh in the age bracket of 22-25. A very close second is 27.8 lakh in the 18-21 bracket. In the below-18-years group, the record is 1.01 lakh. The sum of net new subscribers in these three groups, till age 25, is 57.4 lakh. Census data shows over the last 30 years, 2.5 crore babies were born every year on average.
+
+With approximately 2.5 crore people attaining the age of 21 every year, of which let us assume 60 percent look for employment, across levels of education – we arrive at 1.5 crore needing jobs incrementally every year. With a total of 56.4 lakh new subscribers in the 18-25 age bracket, we must look at higher education data to correlate the number of pass-outs from college who enter the job market.
+
+A majority in the 18-25 category could have either graduated from high school or progressed substantially in higher education. The 26-28 age bracket recorded 13.9 lakh new subscribers, who could either have post-graduate degrees or maybe took a break and started a second job.
+
+Table 2 – Net new subscribers by age group for representative states in each zone recorded in EPFO in the old MOSPI format, AISHE data from MHRD. Coverage ratio computed by authors. (Odisha’s total EPFO number is less than age 18-28 because data shows a significant number quit in the 35+ age bracket)
+
+Table 2 shows 2018-19 EPFO data, disaggregated by state and age group, correlating with 2017-18 AISHE graduation data. This is the old MOSPI format with new subscribers totalling 61.1 lakh. Applying the corrected methodology across state data might reveal new patterns. India’s GER in 2017-18 was 25.8, and 89.6 lakh students graduated in total. These are people who completed college and maybe seeking formal employment. The coverage ratio of new jobs in the 18-28 age bracket in 2018-19 to graduates in 2017-18 is also presented.
+
+In the representative states in the North-Central-East zones, total new subscribers in the 18-28 age bracket were 7.3 lakh while the number of college pass-outs is nearly 40 lakhs. Uttar Pradesh is a significant contributor here – it has an impressive GER of 25.9 and 17 lakh graduates – but the coverage ratio is only 11.4 percent. States like Bihar, Jharkhand and Rajasthan have low GER and low coverage ratios. West Bengal has a higher coverage ratio - 49 percent - but low GER of 18.7, which must be improved along with formal job creation.
+
+Even in the more industrialised South-West, some states are unable to provide formal employment on par with graduation rates. Tamil Nadu, with India’s highest GER at 48.6, has a coverage ratio of 47 percent while Andhra Pradesh is at 25.8 percent. Karnataka and Maharashtra have 100 percent coverage ratios, which is a good sign - representative of economies that have a substantial services contribution.
+
+It also indicates sizeable migration towards Bengaluru and Mumbai as zones of high employment. The same could account for Telangana at 92 percent with Hyderabad. Gujarat remarkably also has a 100 percent coverage ratio. However, GER is 20.1 - lower than all-India GER - and can be improved to feed Gujarat's formal job creation engine.
+
+ESI enrollment applies to 10+ employee entities across 90 industries. In 2017-18, it showed an increase of 17.97 lakh with 6.1 percent growth. There could be some double counting between ESI and EPFO subscribers.
+
+NPS scheme is availed by citizens and government employees alike. Since 2004, new government employees are necessarily added on a defined contribution basis. PFRDA data (Table 3) shows that the number of new government employees has increased by 21.64 lakh from 2014-15 to 2018-19, 52.2 percent at a CAGR of 11 percent - indicating employment growth in the government sector as well. In 2018-19, 5.16 lakh new government employees registered.
+
+Table 3 – NPS subscriber data showing growth in government employment (data from PRFDA)
+
+Above data clearly shows job creation as new subscribers in EPFO, NPS and ESIC - excluding formalisation - invariably equal new jobs. Previous articles by authors Pai and Baid analyse the transportation sector and tax-paying professionals to demonstrate the creation of jobs from other data sources. Ghosh and Ghosh also demonstrated the use of these databases to estimate job creation.
+
+Amidst employment data, however, it is clear that India needs to fix the following:
+
+Not enough high-paying jobs are being created for graduates. It is probable that most jobs recorded in EPFO are low paying in the Rs 25-30,000 bracket. Data shows the number of salaried taxpayers probably with salaries exceeding five lakh/year has increased from 1.70 crore in AY 2014-15 to 2.33 crore in AY 2017-18. This could also include existing employees. Correlating ITR data with EPFO subscribers will give an idea of income levels in formal jobs and needs further study. Some states with a significant number of graduates have very low coverage ratios. This results in higher unemployment and emigration towards cities with opportunities. For example, there are 1.5 lakh Bengali IT engineers in Bengaluru; significantly higher than in their home state. Women stand to lose the most as they cannot migrate easily, either due to caregiving duties or conservatism. Our previous article shows female GER rose from 19.4 in 2011-12 to 25.4 in 2017-18, and continues upward. PLFS indicates a decline in workforce participation of educated women – 19.8 percent unemployment in 2017-18 compared to 10 percent in 2011-12. Formal jobs must be created in home states to employ graduates.
+
+Regardless, it is challenging for anyone to make claims of growing unemployment based on thin surveys. Instead, one must assemble large data sets from multiple databases – EPFO, ESI, NPS, vehicle sales, IT returns, Mudra and others – and collate with Aadhaar. Using the latest big data analytical tools, an appropriate jobs report reflecting facts and the on-ground reality can be prepared to direct policy decisions.
+
+(Disclaimer: This article has been published earlier and is being reproduced here. The views and opinions expressed in this article are those of the author and do not necessarily reflect the views of YourStory.)
+
+(Edited by Saheli Sen Gupta)

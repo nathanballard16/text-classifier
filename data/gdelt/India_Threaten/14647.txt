@@ -1,0 +1,65 @@
+Your Privacy is Not Your Business
+
+What happens after you tap ‘accept’?
+
+NEW DELHI: Over the past few years, there have been numerous reports on how personal user data was breached by mobile apps. The latest entrant in the list is the Maya app.
+
+
+
+As reported by Privacy International, Maya, a menstruation app was selling intimate data to third parties including Facebook. Many data privacy experts believe there are several other apps doing the same.
+
+
+
+“Over 95 per cent of Indian apps have at least one external third party embedded in them, with whom data gets shared,” said Shivangi Nadkarni, CEO of Arrka, a Pune based cyber security consultancy company.
+
+
+
+Experts say these companies can do so because right now we do not have adequate laws to protect user data. “Currently the law only protects sensitive personal data such as your financial data,” said Tuhina Joshi, an associate with IKIGAI, a technology focused law firm. “How the rest of your personal data is treated can be decided by these businesses.”
+
+
+
+The user agreements/ privacy notices which apps get you to accept before you can use them have a lot of clauses enabling them to use your data as per their needs. Nadkarni pointed out that “in India, many of these digital properties simply do not have a proper privacy notice in the first place, or have ones that are obtuse and vague.”
+
+
+
+When asked about companies’ awareness of privacy concerns, Haramanjeet Singh, who is project manager at RnF Technology, a Delhi based app and website development firm, said “Honestly, not all of them know much about the privacy structure until we voluntarily educate them. Being a company that deals in all kind of IT development and programming, it is our duty to deliver apps with optimum security and quality.”
+
+
+
+This puts a lot of the onus on users, who from complacency or other reasons aren’t compelled to reading these documents. “Who is going to sit there and read such long texts when you just want to order food,” said Shobhit Sukesh, a B.tech student. 21-year-old Satyam Nahar said that he just does not believe that anybody can steal his data, and that is why he is not bothered with reading these agreements.
+
+
+
+“LIC policies or bank documents are read with utmost caution, because more often than not it is available to us as a hard copy,” said Sukesh. In case of mobile apps, it’s just an interface and us, so we don’t really feel the need to read these agreements.”
+
+
+
+Joshi agreed that since the terms and conditions are extremely long and full of jargon, the average user is not going to read them. “So technically, if a company misuses your data, it can still get around saying they had user consent with them.”
+
+
+
+According to an annual report by Arrka, many apps ask for permissions that are not essential for their primary function. “There were these flashlight apps that used to take location permissions from users. Why would such an app require access to your location history?” Joshi said.
+
+
+
+Often privacy notices do not talk about permissions in their text. “An app should clearly state why they are asking for certain information, and how they will use it,” said Karnika Seth, a privacy data expert and Supreme Court lawyer.
+
+
+
+Arrka’s report also claims that Indian apps require as much as 45% more user permissions than their global counterparts. Commenting on this Singh said, “I don’t agree with this since it depends on the nature of the app. Whenever we try to upload our app to the app store or play store, they find out if we have any functionality that is asking for access the information like the camera, contacts etc.”
+
+
+
+If an app is asking for irrelevant permissions, it might be doing so for internal business purposes, he believes.
+
+
+
+People in the European Union are able to regulate this with their General Data Protection Regulation, which asks apps to employ data minimisation, meaning effectively that you only take as much user data as you need.
+
+
+
+India currently is also looking at enacting a Personal Data Protection Act that would help protect user data, and online privacy advocates believe this could help change the practices of these apps in India. Seth said “the law would define for how long data can be kept, where it can be stored. These things are currently not streamlined in India, so the law is a welcome change.”
+
+
+
+While a law might help put these businesses in check, a concern that remains is user awareness. “Unless users know about the potential harm,” Joshi believes, “they won’t care what happens with their data, or understand the consequences of giving out their private information for free Wi-Fi.”

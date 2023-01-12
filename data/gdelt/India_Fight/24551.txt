@@ -1,0 +1,15 @@
+City AI company wins $ 2 mn Google grant
+
+Wadhwani Institute of Artificial Intelligence
+
+Google AI Impact Challenge
+
+WIAI
+
+cotton farmers
+
+Launchpad Accelerator programme
+
+The team working on vertical pest traps in state’s cotton fields
+
+Will help bring down farmer suicides by reducing cotton crop losses due to pests.A Mumbai-based artificial intelligence institute on Wednesday won a $ 2 million grant from Google for a solution against the menace of pests.(WIAI) was chosen from among 2,600 organisations which applied for the grants to. The grant will enableto create technologies that will help reduce crop losses in cotton farming through integrated pest management.WIAI is India’s first AI institute and was set up by Indian-American tech billionaire brothers Sunil and Romesh Wadhwani. It was launched by Prime Minister Narendra Modi during a visit to Mumbai on February 18, 2018. The Wadhwani brothers have committed $ 3 million annually for the next ten years towards using AI for social good.Speaking exclusively to Mirror, Dr Rahul Panicker, Chief Innovation Officer of WIAI, said “We are among the only three teams to receive the $2 million grant and the only team from India to be selected. We are also one of the two teams from South Asia.”Dr Panicker said, “Cotton is one of the largest cash crops grown globally. It is India’s third largest crop after rice and wheat and 75 per cent of it is grown by small-holder farmers who struggle with uncertainty in yield and income. Almost 50 per cent of all pesticides used in India are used by just one crop. Despite heavy pesticide use,have been suffering heavy crop losses due to pests. For example, in 2017-18, the pink ballworm devastated cotton farmers and nearly 30-40 per cent of the cotton crop was lost to the pest attack in Maharashtra.”He said Andheri-based WIAI has developed AI algorithms over last nine months which can help cotton farmers. “We work with agriculture programme workers, and farmers who collect data on the ground. They will take photographs of pest traps hung vertically in cotton fields and based on this our algorithm can identify which of the six to eight different varieties of pests which attack cotton crops are likely to impact the crop. It can also guide the farmers with which pesticide to use, when and how much to use,” said Dr Panicker, a Stanford University and IIT Madras alumnus.He said the solution will be deployed in Maharashtra when sowing starts, but workers had already begun collecting data in Tamil Nadu for early sowing. “It will help farmers protect crops, save money on pesticides and hopefully stem farmer suicides,” said Dr Panicker.A three-member team from Wadhwani AI which worked on this solution will travel to San Francisco next week where they will participate in Google’s. Jacquelline Fuller, President of Google.org, said in a statement: “AI is at a nascent stage when it comes to the value it can have for the social impact sector, and we look forward to seeing the outcomes and considering where there is potential for use to do even more.”

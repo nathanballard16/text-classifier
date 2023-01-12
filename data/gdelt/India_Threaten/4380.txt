@@ -1,0 +1,39 @@
+Comment | Will WhatsApp’s ‘search image’ help in fighting fake news?
+
+Sounak Mitra
+
+What is the biggest threat to the world’s largest democracy? The simple answer: Fake News. Now, what is the best medium to spread it? Again the simple answer: social media, especially instant messaging apps.
+
+The above two facts are fact checked, users of social media platforms (especially those responsible for spreading fake news) know it, the owners of these platforms know it, and even the lawmakers know it.
+
+There has been a series of developments in the past few weeks that can be summed up as genuine efforts by India’s lawmakers and companies running social media platforms to fight fake news.
+
+The latest being instant messaging platform WhatsApp testing a ‘search image’ feature that would spot if an image shared on the platform was genuine or doctored.
+
+This, probably, is the best practical initiative by the Facebook-owned instant messaging platform since it stepped into the Indian market. To understand the importance better, let’s take a look at how Indians use WhatsApp.
+
+Indians just don’t love WhatsApp, for a lot of them it is also the source of information and knowledge. That’s probably is the reason why the term ‘WhatsApp University’ has been coined.
+
+Some statistics could be useful here. Of the 1.3 billion Indians, only around 200 million use WhatsApp. This may make the real issue look smaller. Now, consider this. According to data provided by WhatsApp to the Wall Street Journal, Indians exchanged more than 20 billion New Year’s messages (thanks to cheap mobile data), the highest by any country. The WSJ, in a report in January 2018, termed Prime Minister Narendra Modi as the “most famous morning -message enthusiast” (who is known to “fire off good morning messages as the sun is rising” every day) in India where billions of ‘good morning’ messages are being sent every morning that could probably be clogging the Internet.
+
+During the initial days, Indians were using WhatsApp for text messaging which was relatively costlier that time. With mobile data prices coming down, pictures and videos have become fresh favourites.
+
+Thus, the initiative by WhatsApp to check the authenticity of images shared is important, especially to curb fake news, considering that India is going to vote in less than a month’s time.
+
+However, how effective will be WhatsApp’s ‘search image’ feature?
+
+Reportedly, WhatsApp is going to use Google image search for its ‘search image’ feature aiming to combat fake news. Interestingly, Google’s image search isn’t a full proof function. As reported by Medium on February 22, 2018, the search engine has made it harder to spot fake news when the whole world is struggling to deal with misinformation. One of the reasons for this was copyright issue.
+
+Google uses advanced algorithm to make its image search function work. It is probably the best way to do it, but technology has its limitations. Besides, Google can only search and compare images available to its database. While questioning Google’s database may sound stupid, there are still chances that the Google database isn’t the ultimate thing. Also, what happens to images are doctored by highly-skilled professionals who might have already figured a way out to fool Google’s image search algorithm?
+
+WhatsApp’s parent Facebook also has a reverse image search function, where it also uses Google’s services.
+
+That said, there is one more thing to note. WhatsApp’s ‘search image’ would allow users to check the authenticity of an image if and when the user would like to do so. Most users forward almost everything they receive, sometimes even before reading the message itself. It is such an epidemic that WhatsApp had to introduce an India-first feature, in July 2018, which allows each message to be forwarded only to five contacts each time.
+
+WhatsApp needs to develop a feature that would check the authenticity of an image automatically when someone tries to share it, and block that if the image is fake. Otherwise, the ‘search image’ function will not be effective to combat fake news.
+
+WhatsApp’s ‘search image’ function is only available with a beta update (selective to users who would opt for it), and that too only for Android users. Considering that Android is widely used across India, this would cover a majority of the users once WhatsApp makes the feature available to all its users (on Android devices).
+
+That would take some time, and could be late for India’s immediate need, which is to check fake news via WhatsApp before the nation goes to the polls. This is all the more important because the chances of fake news influencing voter decisions cannot be ruled out.
+
+Yet, it’s never too late.

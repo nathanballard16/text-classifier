@@ -1,0 +1,21 @@
+India's top court voided rules meant to resolve bad debt. That's not good for banks, Moody's says
+
+Ratings agency Moody's said a new ruling from India's top court that voided guidelines about how lenders should resolve their bad debts is potentially bad news for Indian banks.
+
+On Tuesday, the Supreme Court said India's central bank exceeded its authority when it tightened those guidelines last February. As a result, the top court declared the rules "to be of no effect in law."
+
+The Supreme Court in its ruling struck down everything tied to the original Reserve Bank of India guidelines: "Consequently, all actions taken under the said circular, including actions by which the Insolvency Code has been triggered must fall along with the said circular."
+
+In a Feb. 12, 2018 circular, the RBI had said lenders could no longer use loan restructuring schemes to delay recognizing bad debt. They were given 180 days to put resolution plans in place for defaulting assets worth over 20 billion rupees (about $291 million). If companies missed repayment even for one day, lenders were required to identify them as defaulters. If a resolution did not happen by the 180-day period, banks were required to file insolvency proceeding against those borrowers within 15 days.
+
+Those rules were criticized by companies because of the strict timeline imposed on them to resolve their stressed assets. Indian power companies, in particular, had challenged the validity of the RBI guidelines in court and sought a stay on insolvency proceedings.
+
+Tuesday's ruling meant that actions already taken against defaulting companies under that RBI circular could potentially become void. Now, banks can decide for themselves whether they want to start insolvency proceedings against defaulters.
+
+"The circular had significantly tightened stressed loan recognition and resolution for large borrowers. But, with the voiding, this may now have to be watered down," Srikanth Vadlamani, vice president at Moody's Investors Service, said in a statement. "The resolution of stressed loans impacted by the circular will be further delayed as the process may have to be started afresh."
+
+The RBI did not immediately respond to CNBC's request for comment.
+
+Over the last several years, a banking sector crisis in India had left many lenders hamstrung and impeded their ability to issue loans. Banks and financial institutions, a key source of funding for Indian companies, hold over $146 billion of bad debt, according to Reuters.
+
+To tackle the problem, the government and RBI had introduced a series of measures to clean up struggling lenders. Those included asset quality reviews to make sure all bad debt was declared, recapitalizing the public-sector banks, consolidating smaller banks, and introducing reforms for many of their lending practices.

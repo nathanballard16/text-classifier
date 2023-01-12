@@ -1,0 +1,47 @@
+Supreme Court's Ruling On Pension Scheme
+
+ARTICLE
+
+To print this article, all you need is to be registered or login on Mondaq.com.
+
+Background
+
+On 1 April 2019, the Supreme Court in The Employees' Provident Fund Organization and Anr. v Sunil Kumar B & Ors. (SC Ruling) upheld the 2018 Kerala High Court decision in P. Sasikumar and Ors. v Union of India and Ors. (Kerala HC Ruling) which had set aside the Employees' Pension (Amendment) Scheme, 2014 (2014 Amendment).
+
+In accordance with the Employees' Provident Fund and Miscellaneous Provisions Act, 1952 (EPF Act) and the Employees' Pension Scheme, 1995 (Pension Scheme), an employer and employee are required to contribute 12% each from the employee's salary. While the employee's contribution of 12% is entirely allocated towards the employee's provident fund (EPF) account, the employer's contribution is split - 8.33% into the employee's pension (EPS) account and 3.67% into the EPF account. Prior to the 2014 Amendment, for domestic employees (i.e. employees holding Indian Passports) the contribution could be capped at 12% of INR 6,500 per month. However, organizations and employees would usually pay uncapped contributions and would not limit the same to the INR 6,500 threshold. For example, an individual earning INR 1,00,000 per month would receive INR 12,000 as employer's contribution (split 8.33% into the EPS account and 3.67% into the EPF account) and the employee would also contribute INR 12,000 into the EPF account. The provision was the same for 'International Workers' (IWs) i.e. employees who hold non-Indian passports
+
+However, the 2014 Amendment introduced certain critical amendments that were not well received by stakeholders. While the 2014 Amendment increased the maximum salary cap to INR 15,000 per month (from the earlier INR 6,500 per month), it excluded all new members who earned above this sum from pension completely i.e. the aforementioned 8.33% employer contribution would instead go into the EPF account for such members. Further, it gave only a short window of six months to existing members to choose whether or not they wished to make uncapped pension contributions i.e. contribute towards the Pension Scheme at their uncapped salary without limiting it to INR 15,000. In the above example, the employee earning INR 100,000 per month would be entirely excluded from pension if he/she was a new PF member (i.e. became a member after the 2014 Amendment). For someone who was an existing member, their pension contribution would be limited to INR 1,250 per month (i.e. 8.33% of INR 15,000), unless they opted within the six-month window to continue making uncapped contributions. Consequently, the pension payable to employees was substantially reduced leading to petitions being filed against this amendment.
+
+2014 Amendment - Key Provisions
+
+Key elements of the 2014 Amendment are outlined as follows:
+
+(a) salary ceiling was increased from INR 6,500 to INR 15,000 per month;
+
+(b) new members (joining on or after 1 September 2014) drawing salary exceeding INR 15,000 per month were not eligible to contribute to the Pension Scheme at all;
+
+(c) existing members as on 1 September 2014 (whose contribution towards the Pension Scheme had been on salary exceeding INR 6,500 per month) had an option to make contributions on a higher salary (i.e. exceeding the new ceiling of INR 15,000 per month) by expressly opting for the same within a six-month window. This was further subject to the condition that such member would have to contribute an additional 1.16% (on the salary exceeding INR 15,000 per month) from his/ her share of contribution. Prior to the amendment, the Central Government would contribute at the rate of 1.16% of an employees' salary (capped at INR 6,500) towards the Pension Scheme
+
+(d) the pensionable salary was to be calculated on the average monthly pay for the last 60 months preceding the date of exit from the membership of the Pension Scheme. This was 12 months earlier.
+
+The Kerala HC Ruling
+
+Several writ petitions were filed before the Kerala High Court, challenging the validity of the 2014 Amendment. After hearing the petitions, the Kerala High Court ruled on 12 October 2018 that the 2014 Amendment had resulted in creating different classes of pensioners who received different pension benefits on the basis of a date (i.e. 1 September 2014). It noted that the following classes of pensioners were created:
+
+(a) employees who were contributing to the Pension Scheme at salary exceeding INR 6,500, and were continuing in service as on 1 September 2014; (b) employees who were contributing to the Pension Scheme at salary capped at INR 6,500, and were continuing in service as on 1 September 2014; (c) employees who had retired prior to 1 September 2014 without exercising an option to contribute at higher salary (exceeding INR 6,500) towards the Pension Scheme; (d) employees who had retired prior to 1 September 2014 after exercising the option to contribute at higher salary (INR 6,500) to the Pension Scheme.
+
+Given the differentiation created, the High Court observed that the EPF Act does not distinguish between members of a covered establishment and rather treats employees as a homogenous class. Accordingly, the benefits flowing from the EPF Act and the schemes (including Pension Scheme) should apply to the said class of employees uniformly. Consequently, the High Court held that such differentiation has no rational or statutory basis and capping the maximum pensionable salary at INR 15,000 per month would deprive most employees of a decent pension in their old age.
+
+Additionally, the High Court struck down the requirement to contribute an additional 1.16% for employees contributing towards the Pension Scheme at a salary exceeding INR 15,000. It also held that computation of pension based on average monthly pay of 60 months instead of 12 months will reduce pension significantly, and therefore struck this down as well. In this respect, the Employees' Provident Fund Organization (EPFO) argued that the 12-month timeframe would lead to depletion of the pension fund. However, the court rejected this argument owing to the lack of any supporting evidence from the EPFO.
+
+SC Ruling - Analysis and Impact
+
+The SC reaffirmed the Kerala HC ruling that struck down the 2014 Amendment. Consequently, employees covered under the EPF Act will now be eligible for a higher pension, since employees can now contribute towards their pension fund at their uncapped salary and the basis for calculation of pensionable salary will be the salary received over the last 12 months instead of 60 months preceding the date of exit from the Pension Scheme. Also, since the 2014 Amendment has been struck down in its entirety, it appears that the salary ceiling for pension shall revert to INR 6,500.
+
+However, this judgement leaves certain questions unanswered. It is unclear if this will apply retrospectively, thereby allowing employees who were completely excluded from the Pension Scheme by the 2014 Amendment, as well as those who didn't opt for higher pension payments within the six-month opt-in window, to seek retrospective coverage (and accordingly a diversion of contributions previously made into their EPF account, into their Pension account). Going by the R.C. Gupta ruling, one can surmise this would apply retrospectively. In R.C. Gupta and Ors. v Regional Provident Fund Commissioner, Employees' Provident Fund Organisation and Ors. (decided on 4 October 2016), the Supreme Court struck down the six-month opt-in window from 1 September 2014 (for employees to continue making uncapped pension contributions) and directed the EPFO to adjust the funds from the EPF account to the pension account for such employees to allow higher pension pay outs. However, despite the decision of the Supreme Court in the R.C. Gupta case, the EPFO has not been accepting applications in this respect from employees working in exempt establishments (i.e. establishments that maintain a PF trust). This approach by the EPFO appears to be without any reasonable basis since the applicability of the R.C. Gupta ruling to exempt establishments has been re-affirmed by the Rajasthan High Court recently (in the case of Anil Kumar Sharma And Ors vs U O I And Ors).
+
+Further, the SC Ruling shall have an impact on IWs, as they would also be eligible to be covered under the Pension Scheme. Employers need to therefore ensure that they are making contributions towards the Pension Scheme for IWs as well.
+
+Undoubtedly, the SC Ruling is a positive measure for employees promising them higher pension payments. However, the judgement is also being criticized for not taking cognizance of the fact that the EPFO may actually not be able to bear the additional cost burden associated with higher pension contributions. Back-of-the-envelope calculations show that contributions made over an employee's career may not be sufficient to back the pension payments that would eventually have to be made, adding significant pressure on the EPFO. The 2014 Amendment had attempted to limit the member base of the pension scheme, which has been undone by the SC ruling, thereby expanding the pension membership, including to high income individuals.
+
+The content of this article is intended to provide a general guide to the subject matter. Specialist advice should be sought about your specific circumstances.

@@ -1,0 +1,51 @@
+Did Facebook data help Trump? ‘Great Hack’ explores scandal
+
+The new documentary “The Great Hack” captures how Facebook’s cavalier handling of user data in the Cambridge Analytica scandal posed a threat to democracy.
+
+But it doesn’t prove claims in the movie that the ill-gotten data helped elect Donald Trump.
+
+The movie, out on Netflix and some theaters Wednesday, follows former Cambridge Analytica executive Brittany Kaiser around the world, from the Burning Man festival in Nevada to a pool at a hideout in Thailand to a flight from New York to testify in Robert Mueller’s investigation on 2016 election interference. She reveals internal emails, calendar entries and video sales pitches, although the movie doesn’t quite connect the dots on what the documents really say.
+
+Instead, the movie is mostly a recap of what’s already been reported in various news outlets. If you’ve never heard of Cambridge Analytica, or you aren’t steeped in all the details of the scandal that landed Mark Zuckerberg in front of Congress and his company under major federal investigations, “The Great Hack” provides a good overview on the way companies like Facebook collect and use data to influence your thinking. It’s also worth watching for a reminder of the tremendous power and threat of Big Data.
+
+The movie’s release coincides with the Federal Trade Commission announcing a record $5 billion fine against Facebook stemming from its investigation into the Cambridge Analytica scandal. The FTC also sued the British firm, which has filed for bankruptcy.
+
+Cambridge Analytica drew data through a Facebook app that purported to be a psychological research tool. Roughly 270,000 people downloaded and shared personal details with the app. Under Facebook’s policies at the time, the app was able to draw information from those users’ friends as well, even though those friends never consented. Facebook said as many as 87 million people might have had their data accessed.
+
+The app was designed by then-University of Cambridge researcher Aleksandr Kogan. Cambridge Analytica, whose clients included Trump’s 2016 general election campaign, paid Kogan for a copy of the data, even though the firm was not authorized to have that information. Cambridge Analytica shifted the blame to Kogan, who in turn accused Facebook of trying to deflect attention from what he called its own negligent and systematic exposure of user data. The scandal broke in March 2018 after newspapers reported that Cambridge Analytica still had data it had promised to delete after learning of its questionable origins.
+
+Listening to Kaiser, a self-described whistleblower, you might think Cambridge Analytica won the election for Trump. Kaiser, who was the firm’s business development director, explained that the data helped Cambridge Analytica identify “persuadable voters.” She said the firm targeted blogs, websites, articles, videos and ads specifically at them “until they saw the world the way we wanted them to.”
+
+David Carroll, a Parsons School of Design professor who is also heavily featured in the movie, said that given how close the election was in certain states, just turning a “tiny slice of the population” was enough.
+
+Federal election records show that the Trump campaign paid Cambridge Analytica roughly $6 million. Cambridge Analytica said it never used Kogan’s data in its work for Trump. The Trump campaign also denied using the firm’s data.
+
+Experts say Cambridge Analytica’s influence was plausible but inconclusive.
+
+“They had the data, (but) it’s not quite clear how it was fully rolled out,” Jennifer Grygiel, a Syracuse University communications professor, told The Associated Press. “It looks like they did take some kind of action. We just don’t have enough detail to see what kind of impact it had.”
+
+But she said Cambridge Analytica’s work cannot be taken in isolation.
+
+Not until 12 minutes before the credits roll does the movie mention other factors at play, including a Russian-led misinformation campaign centered on fake posts and ads to sow discontent in the U.S. electorate. It was then that Kaiser expresses doubt: “Maybe I wanted to believe that Cambridge Analytica was just the best. It’s a convenient story to believe.”
+
+Kaiser told the U.K. Parliament last year that Cambridge had also worked with Brexit supporters. Among other things, “The Great Hack” shows footage of Kaiser on stage during the Leave.EU campaign launch. It also shows Leave.EU’s online statement on hiring the firm. But Cambridge Analytica has denied involvement in the campaign for the U.K. to leave the European Union.
+
+It’s not surprising that Cambridge Analytica’s marketing pitches, as disclosed by Kaiser and through undercover footage captured by Britain’s Channel 4, would boast of the company’s capabilities. And it’s not surprising that the company would seek to minimize its role once caught. The truth is likely somewhere in between — but just where, the movie doesn’t explore.
+
+The original Cambridge Analytica whistleblower, Chris Wylie, told the U.K. Parliament that it doesn’t really matter whether the firm succeeded.
+
+“When you’re caught in the Olympics doping, there’s not a debate about how much illegal drug you took, right? Or, ‘Well, he probably would have come in first anyway,'” Wylie said in a snippet included in the movie. “If you’re caught cheating, you lose your medal.”
+
+He was discussing the potential role Cambridge Analytica played in Brexit, but his sentiment could have easily applied to Trump. In other words, it’s bad enough that this was going on, irrespective of whether it worked.
+
+The movie could have left it there. Instead, it tries to suggest a larger influence, without fully exploring those dynamics.
+
+British investigative journalist Carole Cadwalladr, who broke the initial stories on the scandal for The Guardian newspaper, noted in the movie that Cambridge Analytica “actually points to this much bigger, more worrying story, which is that our personal data is out there and being used against us in ways we don’t understand.”
+
+The movie tries to illustrate that through Carroll’s quest to get information on what Cambridge Analytica had on him. His efforts were ultimately rebuffed, and the filmmakers didn’t learn more on their own. Nor did the movie explore Facebook’s own attitudes toward data or what Syracuse professor Grygiel described as a fake news environment for Cambridge Analytica to exploit.
+
+“If I were to make a movie today, it would not be about Cambridge Analytica,” Grygiel said. “It would be about Facebook Inc. and the depth of their influence.”
+
+Credit : Associated Press (AP) | Photo Credit : (AP)
+
+Like this: Like Loading...

@@ -1,0 +1,81 @@
+SC's RBI Circular judgment: A Treatise On Interpretation Of Statutes
+
+The recent Supreme Court judgment on the RBI circular dated 12th February 2018 is a treatise on the subject of interpretation of statutes. The judgment, sound on its reasoning, struck down the circular issued by RBI through which it had asked the lenders to institute a board-approved policy for the resolution of stressed assets. The circular which was struck down gave defaulting companies...
+
+The recent Supreme Court judgment on the RBI circular dated 12th February 2018 is a treatise on the subject of interpretation of statutes. The judgment, sound on its reasoning, struck down the circular issued by RBI through which it had asked the lenders to institute a board-approved policy for the resolution of stressed assets. The circular which was struck down gave defaulting companies with debts over INR 2,000 crores and above a period of 180 days to agree on a resolution plan with lenders or be taken to the National Company Law Tribunal to recover the debt. The Supreme Court, however, held in its 84-page judgment that the circular is ultra vires of Section 35AA of the Banking Regulation Act and that RBI had no powers to issue such an order under the current statutory scheme.
+
+
+
+What the RBI circular dated 12th February 2018 entailed for the borrowers?
+
+The RBI directed the banks to identify defaults of large borrowers with dues of over Rs. 2,000 crores within a day of the due date for installment. The circular further required that if the accounts of the defaulting large borrowers were not resolved within 180 days from the date its installment fell due, they had no choice but to refer these accounts for resolution under The Insolvency & Bankruptcy Code, 2016. The RBI circular provides various guidelines in the exercise of powers conferred under Section 35A, 35AA and 35AB of the Banking Regulation Act, 1949 and Section 45L of the Reserve Bank of India Act, 1934.
+
+Contentions of the power, sugar, fertilizer, shipbuilding companies before the Supreme Court
+
+The companies who were petitioners before the Supreme Court were mostly from power, sugar, fertilizer and shipbuilding industries and each of them pointed out the sector-specific challenges faced by them in their day to day business owing to which their accounts with the banks have become irregular. They demonstrated before the Supreme Court that the installments have fallen due simply because of reasons beyond their control, mostly reasons that are regulatory or governmental in nature. With respect to the power sector companies, it was argued elaborately that various Parliamentary Standing Committee Reports are in place identifying the issues and making recommendations for mitigating the financial stress over the power companies and that none of them have been implemented by the concerned authorities. According to the petitioners, the source of power of RBI to issue a circular of this nature can neither be Section 35A nor Section 35AB as Section 35A was introduced way back in 1956 and that Section 35AB refers to the resolution of stressed assets in a manner which is dehors the Insolvency and Bankruptcy Code, 2016. Therefore, it was the argument of the petitioners that the circular derived power only from Section 35AA and that even assuming so, the circular will fall beyond the powers of RBI under Section 35AA as this provision simply authorizes RBI to issue directions to "any banking company" or "banking companies" to initiate insolvency resolution process in respect of "a default" under the provisions of Insolvency Code, 2016.
+
+Contentions of RBI before the Supreme Court
+
+RBI argued before the Supreme Court that the basis of the circular is larger public interest, the interest of the national economy and above all interest of the depositors and that statutorily it is backed by Section 35A, 35AA, 35AB and Section 21 of the Banking Regulation Act. It argued that the regulatory powers of RBI under the above provisions must be widely construed so as to enable RBI to carry out its functions. It was contended that RBI has also the powers to require banking companies to engage in resolution of bad loans expeditiously within a certain timeline, and in the event of failure, to invoke the Insolvency and Bankruptcy Code. According to RBI, both the RBI Act and the IBC are intricately related to the operation of the credit system of the country.
+
+What the Supreme Court held?
+
+Even though various arguments were raised by the petitioners, they were adequately addressed by the respondent-RBI. The Supreme Court was concerned primarily with the legality of the circular, especially the powers of the RBI to issue such a circular.
+
+The Court held that the power of RBI to issue the circular can only be under Section 35AA.
+
+Section 35AA is extracted here:
+
+"35AA. The Central Government may by order authorize the Reserve Bank to issue directions to any banking company or banking companies to initiate insolvency resolution process in respect of a default, under the provisions of the Insolvency and Bankruptcy Code, 2016. Explanation. – For the purposes of this section, "default" has the same meaning assigned to it in clause (12) of section 3 of the Insolvency and Bankruptcy Code, 2016."
+
+The Supreme Court reasoned its position as follows:
+
+"54. A conspectus of all these provisions shows that the Banking Regulation Act specifies that the Central Government is either to exercise powers along with the RBI or by itself. The role assigned, therefore, by Section 35AA, when it comes to initiating the insolvency resolution process under the Insolvency Code, is thus, important. Without authorization of the Central Government, obviously, no such directions can be issued." 55. A corollary of this is that prior to the enactment of Section 35AA, it may have been possible to say that when it comes to the RBI issuing directions to a banking company to initiate insolvency resolution process under the Insolvency Code, it could have issued such directions under Sections 21 and 35A. But after 35AA, it may do so only within the four corners of Section 35AA."
+
+The Supreme Court further held that 'default' mentioned in Section 35AA would mean non-payment of a debt when it has become due and payable and that it is not a particular default of a particular debtor that is the subject matter of Section 35AA. However, the circular has a sweeping effect over all the defaulters and it is not restricted to a single defaulter as is clear from the wording of Section 35AA. The Supreme Court also noted that Section 45L of the Reserve Bank of India Act is also not satisfied by the circular. The said provision provides that the RBI can, for the purpose of enabling it to regulate the credit system of the country, give directions to the financial institutions to conduct its business in a particular way. However, the requirements of Section 45L of the RBI Act can be fulfilled only with due regard to the conditions in which, and the objects for which, the financial institution has been established, its statutory responsibilities and the effect the business of such financial institution is likely to have on the trends in the money and capital markets.
+
+The Supreme Court held on Section 45L of the RBI Act as follows:
+
+"There is nothing to show that the provisions of Section 45L(3) have been satisfied in issuing the impugned circular. The impugned circular nowhere says that the RBI has had due regard to the conditions in which and the objects for which such institutions have been established, their statutory responsibilities, and the effect the business of such financial institutions is likely to have on trends in the money and capital markets. Further, it is clear that the impugned circular applies to banking and non-banking institutions alike, as banking and non-banking institutions are often in a joint lenders' forum which jointly lend sums of money to debtors. Such non-banking financial institutions are, therefore, inseparable from banking institutions insofar as the application of the impugned circular is concerned. It is very difficult to segregate the non-banking financial institutions from banks so as to make the circular applicable to them even if it is ultra vires insofar as banks are concerned. For these reasons also, the impugned circular will have to be declared as ultra vires as a whole, and be declared to be of no effect in law. Consequently, all actions taken under the said circular, including actions by which the Insolvency Code has been triggered must fall along with the said circular. As a result, all cases in which debtors have been proceeded against by financial creditors under Section 7 of the Insolvency Code, only because of the operation of the impugned circular will be proceedings which, being faulted at the very inception, are declared to be non-est."
+
+The Supreme Court, therefore, finally held that the circular is ultra vires Section 35AA of the Banking Regulation Act and therefore illegal in its entirety. As a result, all the cases in which debtors have been proceeded against by financial creditors under Section 7 of the Insolvency Code, only because of the operation of the impugned circular, will stand nullified.
+
+What it means for the lenders as well as borrowers?
+
+What is most important to note in the backdrop of the judgment is that there is nothing that restricts the banks to go down the insolvency route if they find that the defaulter does not show a sign of life. When the circular provided a direct mandate to the banks to approach NCLT after 180 days from the date of installments falling due, the banks are presently left to their discretion to provide a breather to the defaulters if they deem it fit and to not mandatorily approach NCLT after the 180 days period as provided for in the RBI circular. The banks are at liberty to undertake a restructuring process that is best suited to an individual borrower. They can approach each defaulter and formulate restructuring plans on a case to case basis.
+
+Interestingly, many banks were internally not happy with the circular directing them to initiate insolvency process forthwith. Many of them were parties to Joint Lender Forum meetings and on the verge of finalization of Corporate Debt Resolution of the petitioner companies. Since the circular was of banking regulator, they were forced to tow the line and follow it to the letter.
+
+The Reserve Bank of India has already announced that they will formulate a new circular and it is only to be seen as to whether the new circular, now on pipelines, will stand the muster of law.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(Author is a practicing lawyer in the Supreme Court of India. It is disclosed that he was one of the lawyers who appeared in the case. Views are personal.He can be reached at [email protected])
+
+
+
+
+
+

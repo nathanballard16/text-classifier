@@ -1,0 +1,27 @@
+Angel Tax: Its time this colonial hangover gets removed
+
+The “Angel Tax”, or Section 56(2)(vii b), is a 2012 insertion by the then UPA government which taxes domestic capital invested into private Indian entities as income, if the investment was made above the ‘Fair Market Value’.
+
+By Siddarth Pai & Krishnan S
+
+In Poetics, Aristotle described the Greek word Hamartia as “a fatal flaw leading to the downfall of a tragic hero or heroine.” Though used in the context of literary criticism, it can be easily be co-opted to describe Indian tax law—of how every notification of exemption that seems too good to be true always contains within it the seeds of its downfall. Nowhere is this art of the Achilles heel more prominent than in the “Angel Tax” notifications.
+
+The “Angel Tax”, or Section 56(2)(vii b), is a 2012 insertion by the then UPA government which taxes domestic capital invested into private Indian entities as income, if the investment was made above the ‘Fair Market Value’. This clause, a colonial hangover that discriminated against Indian investors in India, became a lightning rod over the past few years as it began to be indiscriminately applied towards Indian startup companies who raised the bulk of their funds from domestic sources. India has been a spectator in its startup story, with barely 10% of all funds raised by Indian startups coming from Indian sources, and a majority of that as seed or angel funding—the prime target of the “Angel Tax”.
+
+It was this beast that the government has tried tackling over the past few years—with numerous notifications on the subject from the CBDT, DPIIT, each cursed by Hamartia. On February 19, 2019, the DPIIT released a new circular exempting Indian startups from angel tax upto a raise of Rs 25 crore, provided that they don’t invest the money into a negative list. While people celebrated, Section 6 of the circular excluded companies who had already received the notice from relief. The very entrepreneurs on whose backs this battle was fought were left in the lurch by the notification—Hamartia. In addition to this, the February 2019 circular states that to qualify for an exemption, a startup cannot make loans and advances, invest in shares and securities, or make capital contributions. If they did, they would lose the exemption & be subject to tax and penalties. This new penalty is at 200% the difference, as per the latest Finance Act 2019. Due to this circular, in one fell swoop, rental deposits, joint ventures, subsidiaries, treasury management, M&A via a stock swap were all out of bounds for Indian startups. Any of these activities performed would render you liable to the scourge of “Angel Tax”, thus, crippling the competitiveness of our startups and exits.
+
+Even the recent CBDT circular in August 2019 suffers from Hamartia. Finance Minister Nirmala Sitharaman in her 2019 Budget speech spoke about “Angel Tax” by name and stated, “It will be ensured that no inquiry or verification in such cases can be carried out by the Assessing Officer (AO) without obtaining approval of his supervisory officer.” The CBDT in this regard issues a circular with the following rules:
+
+– No verification of claims by the AO for DPIIT startups with limited scrutiny notices only on section 56(2)(vii b)
+
+– For DPIIT startups under full scrutiny or limited scrutiny of multiple items, “Angel Tax” won’t be pursued and the other matters can be taken up only with the permission of the AO’s senior
+
+– For other entities, “Angel Tax” will only be pursued with the permission of the AO’s senior This isn’t relief—its bureaucracy with extra steps.
+
+No startup has access to the criteria on which the AO’s senior will yield/deny permission. Worse off, many notices coming in don’t even mention Section 56(2)(vii b) by name—instead, the notices use euphemisms like “details of large share premium”, “whether the funds received in the form of share premium are from disclosed sources and have correctly been offered to tax” and “furnish workings of the fair market value under Rule 11UA”. The circular’s relief is pre-empted by the way these notices are worded since the AOs don’t even mention section 56(2)(vii b)—they don’t even need to. They treat the section like Voldemort—he who must not be named, and yet, everyone knows what it entails. Once again, Hamartia.
+
+Since 2012, India has launched missions to the moon and Mars. Yet, we have not been able to solve the issue of Angel Tax. It is evident now that a cancer such as “Angel Tax” cannot be cured until it is completely excised. With new tools, such as GAAR, Section 68, which taxes unexplained cash credits, including share premium, and has a much higher penal rate than Section 56(2)(vii b), dematerialisation of shares of private companies, quoting the investee’s PAN and security details in your IT Returns,and the PAN of investors in SFT and Form 61A, why does section 56(2)(vii b) still need to exist?
+
+This trickle-down relief, this death from a thousand circulars, needs to stop. This issue can no longer be solved by patchworks—angel tax deserves a surgical strike excision from our statute books.
+
+(Pai is founding partner 3one4 capital & Krishnan is an independent tax consultant Views are personal)

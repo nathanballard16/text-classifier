@@ -1,0 +1,29 @@
+How we can empower biomedical engineers to combat superbugs
+
+At an almost alarming rate, news stories about new “superbugs” are popping up around the world. Earlier this year, a patient in New York died from a drug-resistant salmonella infection. Two years ago, a woman in Nevada died of an incurable infection, resistant to all 26 antibiotics available to treat that infection. And recent reports from India reveal that superbugs have become the leading cause of death for leukemia patients.
+
+Every year, 700,000 people die from incurable drug-resistant infections, a rate that some project will skyrocket to 10 million individuals per year in just 30 years. The United Nations has likened it to a crisis on par with HIV and Ebola.
+
+How can we better predict and prevent these sorts of superbugs that have the potential to become the next global health crisis? Secretary Azar is leading an international coalition, the Antimicrobial Resistance Challenge, to ward off this threat; marked by cross-sector commitments to lessen antibiotic resistance. Yet, as he noted earlier this week at the United Nations, the problem continues to worsen as dozens of pathogens become resistant to treatments.
+
+ADVERTISEMENT
+
+With the advent of artificial intelligence and machine learning, researchers have the capability to predict when bacteria will develop resistance to certain medicines — and investigate how we can develop new antibiotic therapies that are less likely to become resistant to once life-saving treatment. Engineers and scientists can now mine datasets of our nation’s health records, utilize data to optimize patient-specific therapies, and use innovative modeling techniques to explore the basic biochemistry of antibiotic resistant diseases.
+
+Yet, even in my field of biomedical engineering, we are not fully empowering the next generation of students to realize that potential. Most research labs today do not have the cross-training in microbiology and data science to both understand the issues at hand —and leverage big data to tackle those issues. As the next generation of bioengineers enters the workforce, many do so without the foundational skill-set to make use of data science, systems modeling, and machine learning.
+
+To build a future crop of engineers who can conquer antibiotic resistant bacteria, along with other public health epidemics that our world may face, our universities’ biomedical engineering departments must embrace the opportunity to expand access to multi-disciplinary, hands-on, and data-driven learning experiences.
+
+They can develop the curricula of the future, emphasizing cell and molecular biology as well as linear algebra, statistics, systems modeling, and machine learning. And they can empower faculty members to explore how to embed data science and quantitative concepts within core biology and engineering courses at every step of a student’s journey to the engineering workforce.
+
+Here at the University of Virginia School of Engineering, we have partnered with the National Institutes of Health to set an example for how to build this new generation, developing a graduate training program that teaches scientists to work at the interface of computer science, statistics, data science and biomedicine. Universities, government agencies, and private-sector organizations should partner to award and administer more of these grants, ensuring that more of our future medical professionals, engineers, and data scientists have the cross-functional skill set to grapple with a multi-faceted problem.
+
+In addition, entities like NIH and inter-governmental agencies should promote opportunities that encourage our biomedical engineering departments to expand their instruction of data science, especially as a tool to investigate solutions to antibiotic resistance and other medical challenges. With an effective understanding of big data, biomedical engineers can use artificial intelligence and machine learning to predict future antibiotic resistance in bacteria, explore how different combination therapies might work to eliminate previously resistant bacteria, and reveal global solutions to global epidemics.
+
+For example, machine learning can surface invaluable insights about the relationship between human metabolism and the development of antibiotic resistant bacteria, a process that can help produce different drug combinations to combat resistant infections. Additionally, by simulating reactions, response rate and effectiveness, computational models can accelerate the drug development process and inform a wave of new antibiotics that can halt the spread of antibiotic resistance.
+
+Our biomedical engineering programs have a global imperative to elevate data science, machine learning and computational modeling across their curricula, critical tools in mitigating the spread of antibiotic resistant diseases and other epidemics. We must also ensure that our institutions can build out their research and quantitative capabilities at the undergraduate and graduate levels through expanded inter-disciplinary training, research, funding and cross-sector collaboration.
+
+By positioning the future leaders in the fields of medicine and biomedical engineering to harness the full potential of data science and machine learning, we can slow down these superbugs and prevent millions of unnecessary deaths from bacterial infections.
+
+Jason Papin is a professor in the Biomedical Engineering Department of the University of Virginia School of Engineering and School of Medicine and a faculty affiliate at the UVA Global Infectious Diseases Institute, which is targeting superbugs.

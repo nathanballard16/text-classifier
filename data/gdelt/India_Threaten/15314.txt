@@ -1,0 +1,25 @@
+Privacy | The Supreme Court stands between Indians and a surveillance state
+
+Social media intermediaries such as Facebook and WhatsApp have won an important round in their fight against the onslaught on privacy when the Supreme Court ordered the transfer of cases pending with the high courts of Madras, Bombay and Madhya Pradesh over the authentication of social media accounts with Aadhaar. However, a bigger challenge awaits them and the users of social media platforms over new rules that the Narendra Modi-led National Democratic Alliance (NDA) government has promised to submit to the apex court before the next hearing, which is scheduled for January 15 2020.
+
+By implication, the next three months are going to be crucial from the point of view of privacy of our citizens as the government formulates comprehensive rules that would be applied to social media intermediaries with reference to existing rules, especially Section 69 of the IT Act that deals with decryption of electronic content. The rules allow government agencies to intercept, monitor and decrypt any information generated, transmitted, received or stored in any device.
+
+There are dangerous portends in the line of argument presented in the court by Attorney General KK Venugopal, the crux of which is that a terrorist cannot claim protection of his/her privacy. There should not be any objection to that claim. The worrying part, however, is that the social media surveillance rules suspect every user to be a potential threat, warranting monitoring of all social media activities of the users. That is possibly the end of individual privacy in India.
+
+The government argues that such surveillance is required to fight the use of social media for terrorism, anti-national activities, pornography, spreading of fake news and other negative tendencies. These are not problems unique to India. The dark web is a global phenomenon and no country is free from it. Yet, governments have not deviated from their respect for an individual’s privacy, which is a cornerstone of democracy and civilised life. In fact, many of them are bringing new legislation to apply heat on social media intermediaries against compromising users’ privacy.
+
+In July, the US Federal Trade Commission slapped a $5 billion penalty on Facebook for deceiving users into believing that they had full control on the privacy of their personal information while that was not really the case. Google and LinkedIn have also been fined for violations. Such is the level of sanctity accorded to privacy in western democracies.
+
+The Indian government is doing just the opposite. Through its new measures, the Union government is making it obligatory for the social media intermediaries to not only violate the privacy of their Indian users, but help the government in decrypting what they post and share on their platforms. Apart from operational issues, this could pit these platforms against regulators in other countries, including security exchange authorities for violation of their core values.
+
+The government has sought to allay fears over its draconian move by asserting that there will be enough safeguards against abuse, including the institution of a standard operating procedure for implementing electronic surveillance as well as a review committee to examine whether an interception order genuinely pursues a legitimate aim.
+
+However, the Internet Freedom Foundation (IFF), which describes itself as a digital liberties organisation that seeks to ensure that technology respects fundamental rights, has challenged the offending section of the IT Act and its plea is before the Supreme Court.
+
+The IFF has picked several holes in the Union government’s claim and alleges that its so-called standard operating procedure is a sham as it has not been made public and, therefore, lacks transparency. As for the review committee, the first objection is that it comprises only government officials, who cannot go against the will of the government and will therefore end up as a rubber stamp of the law enforcement agencies.
+
+According to the Srikrishna Committee report, the three member review committee has to evaluate 15,000-18,000 interception orders at every meeting. The sheer volume of interception orders makes it practically impossible for the committee to apply its mind to each interception order to determine if it is lawful or not.
+
+With access to new technology, backed by all administrative paraphernalia, the government’s capability and the citizens’ vulnerability have both increased tremendously, making the threat to privacy posed by electronic surveillance substantially higher.
+
+The public’s only hope now is the Supreme Court as the electronic surveillance rules will have to pass the proportionality standard enunciated in the decision of the nine-member bench in the landmark KS Puttaswamy case, where judicial oversight has been included as one of the prerequisites. There is urgent need to change the existing regime which concentrates all power in the hands of the executive.

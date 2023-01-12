@@ -1,0 +1,13 @@
+DNA Edit: News that matters - Government’s scrutiny of social media gets tighter
+
+How much does social media control the lives of people the world over? Apparently, quite a lot. So much that governments, including India, have been devising ways to get a handle on social media to control, among other things, the spread of hate and violence.
+
+Social media firms in the West are under fire again after last week’s mass shooting, which was linked to a hate-filled manifesto posted online. Facebook, Google, Twitter, Microsoft and others are part of the Global Internet Forum to Counter Terrorism, which shares information about threats.
+
+If one of the companies discovers terrorist content, it can put a unique identifier of the image or video, called a “hash,” into a database, which helps other companies quickly find it on their own sites and take it down. Both Facebook and Twitter said the systems have helped them remove more than 90% of ISIS and al-Qaeda content before any users report it.
+
+Now, the firms are being asked by politicians to take a more proactive approach to prevent domestic terrorism. Last week, White House called a meeting with tech companies to discuss violent online extremism, the focus of the talks being on how technology can be leveraged to identify potential threats to combat domestic terror.
+
+In India, a government plan to monitor social media last year came under a lot of fire, with some critics suggesting that it could turn the country into a “surveillance state”. The government wants social media users monitored and fake news identified and the information and broadcasting ministry had invited bids from companies to do that.
+
+India, which may have no choice in the matter like other governments, has been witness to mob violence and lynching after unsubstantiated social media posts have spread panic in various parts of the country.

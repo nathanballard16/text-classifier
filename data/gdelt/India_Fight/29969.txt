@@ -1,0 +1,17 @@
+Socure to double development team in India to leverage local AI talent
+
+Digital identity verification company Socure is planning to double its team of data scientists and developers in Chennai, India, from 15 to 30 by the end of 2019 as it seeks to leverage the region’s talent pool for its artificial intelligence and machine learning products, Times of India reports.
+
+The company recently moved into a new facility for 50 people in Chennai’s Guindy district.
+
+“The talent pool in India, particularly in Chennai, is a big draw for us. We have seen that the employees here also score high in loyalty with attrition rates lower than that in other metros,” Socure CEO Tom Thimot told local reporters.
+
+A proprietary simulation system will be used to develop the companies AI and ML engines. Thimot also says the Chennai team will drive the entire software development life cycle of products. The company offers its Socure ID+ and Aida data intelligence products to banks, brokerages, payment providers and others for near-instant customer verification.
+
+Socure established its subsidiary in India in 2017, and plans to expand beyond its bases there and in the U.S. in 2020. It has raised more than $60 million in funding, and plans to go public after reaching $100 million in revenue by 2021.
+
+Goode Intelligence recently forecasted the digital identity and document verification market to reach $15 billion by 2024.
+
+Article Topics
+
+artificial intelligence | biometrics | digital identity | India | Socure

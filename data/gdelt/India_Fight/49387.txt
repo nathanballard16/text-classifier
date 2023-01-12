@@ -1,0 +1,75 @@
+How this woman entrepreneur battled cancer and founded two healthcare startups
+
+Romita Ghosh was diagnosed with blood cancer when she was just 13 years old. Being too young to understand the implications or what it entailed, she somehow pulled through the extremely painful ordeal.
+
+“The daily scenes I saw at the hospital, patients with hopelessness writ large on their faces, the effect on the families and my own mental and physical struggles while coping with the disease and the treatment left a deep impression on my young psyche. I decided then itself, that if life gave me an opportunity, I would do something to change what I had faced and seen,” she recounts.
+
+This conviction, coupled with a childhood dream of becoming a “businesswoman”, led Romita to become a healthcare entrepreneur, heading two companies, Admirus and MedSamaan, based out of Mumbai and Delhi.
+
+Combining a love for biology and computers
+
+During her growing years, the entrepreneur was fascinated with biology and computers, and became equally good at both.
+
+“I started coding and programming by myself and launched my first website on HTML at the age of 12,” she recollects. She has double majors in biotechnology and biochemistry, and followed them up with an MBA in biotech management.
+
+While doing her graduation, Romita developed a strong interest in translational research and started pursuing research on cancer biology. She also underwent training in Import Export Management from Welingkar’s Institute, Tech Entrepreneurship from Stanford and IIM Udaipur, and Six Sigma Quality Management Systems from BSI.
+
+Her entrepreneurial journey began in 2009 with her first startup, D’lights, a LED and CFL importing and manufacturing company with an assembly unit in Bengaluru. She exited this successfully in two years and co-founded a big data analytics startup.
+
+“Since healthcare was my core interest, and my corporate experience showed me a chartered path, Admirus was born in 2011, with me donning the hats of managing director, business development manager, accountant, and sales representative. Slowly, the team grew and with hard work and a few hits and misses, we became an established company in the market, often invited by embassies to help their respective manufacturers launch their healthcare products in India,” she says.
+
+Making healthcare accessible
+
+While working on Admirus, Romita analysed the market and found that there were huge unaddressed gaps in the medical device sector. She found prohibitively expensive products with unreasonable markups, high import dependence (80 percent), poor or nil availability when required, and substandard quality, leaving healthcare providers with limited choices, often the most expensive ones.
+
+Stay Updated Get inspired by reading stories of women disrupting the startup ecosystem Please fill in this field. {{#error}} {{error}} {{/error}} {{^error}} Something went wrong. Try again later {{/error}} Welcome Onboard ! You have been successfully registered for our daily newsletter.
+
+Romita explains, “I knew I had survived cancer only because I lived in Mumbai where facilities were available, and my family could afford the expensive diagnostic tests and imported medications for treatment. What I had promised myself long back soon started surfacing, and I found myself looking for an avenue where I could start a change, if not create it. My fourth startup - iHeal HealthTech - is my way of alleviating suffering and creating hope.”
+
+Under this, she launched MedSamaan, an online platform featuring the latest medical devices from domestic and overseas manufacturers, sourced and supplied post stringent quality control.
+
+MedSamaan is embedded with an AI-enabled chatbot to guide customers to make informed buying decisions.
+
+The platform, Romita informs us, has a diverse target audience that includes:
+
+Patients who can access the portal to purchase products (20 percent)
+
+Hospitals and doctors, who can order products in bulk (50 percent)
+
+Healthcare retailers (30 percent)
+
+The startup is currently piloting in five cities and would be venturing to the Northeast by next year.
+
+It is focusing on disposables, consumables, wound care, ortho support aids, infection management, and various point-of-care medical devices and supplies. The price of products ranges from Rs 100-50,000.
+
+The founder has invested more than Rs 40 lakh in the business till date, which includes grants as well as loans from family and friends. The revenue being earned is plowed back into the business to fund expansion while meeting running expenditure.
+
+MedSamaan’s revenue model works on commission on sales.
+
+“The major bulk of our revenue (80 percent) is from B2B segment like hospitals, doctors and retailers, while the rest 20 percent is from B2C segment, through online and offline sales. Additionally, we have tieups with channel partners like Amazon, GeM, and BabyChakra,” she adds. It is also an Accelerate of Amity Innovation Incubator.
+
+At the cusp of a revolution
+
+Romita believes that the toughest challenge in the journey has been to raise investment to fund the startup’s expansion.
+
+“Facing a mindset used to generating 100x times the money invested within unrealistic timeframes was initially very challenging and even, demotivating. Now that we have decided to stay bootstrapped until we reach our next milestone, I am convinced that we are standing at the cusp of a possible revolution in healthcare. We are pressing on to inch towards making ourselves revenue positive.”
+
+Challenges along the way
+
+However, the entrepreneur is happy to have achieved success on two fronts. “The first has been the change in mindset we have achieved among stakeholders, particularly patients from lesser-income backgrounds, whom we have weaned away from unscrupulous traditional buying to embracing technology to make informed choices. The second is we have been able to impact health outcomes through timely interventions, from hilly Himachal to rural Orissa - in reproductive health and sanitary hygiene of women to dignified living for elder care.”
+
+Romita rues the fact that in India everyone, from the ghar ke papaji to the neighborhood auntyji and from your autowala bhaiya to the local kirana owner, considers themselves an expert in disseminating healthcare advice and yet, neglect their own health till it becomes life-altering, if not life-threatening.
+
+“Since the preventive care concept is virtually non-existent in the national psyche, selling healthcare products is a challenge in itself. However, with increased awareness, the situation is changing at a rapid pace.”
+
+“Another very challenging factor is the propensity among majority Indians to choose price over quality. For example, we have found that 90 percent of customers living in Tier III and IV cities, which form the major chunk of the population, prefer to risk infection by choosing a two-inch bandage from dubious sources rather than spend Rs 5 more for a sterilised one,” she adds.
+
+Romita says that while women have embraced her with open arms, she often finds men - from healthcare workers to investors, manufacturers and distributors - judging her analytical skills and business acumen on the basis of their notion about the perceived limitations of her gender.
+
+“However, my work has given me the pleasure of seeing these men shift their bias and becoming overnight followers, and at times, even channel partners. These episodes have further strengthened me to mentor other women in an otherwise male- dominated industry,” she says.
+
+When it comes to future plans, the startup is currently developing in-house modules based on ML and DL for better predictive outcomes for patients, and to help them make informed choices while buying medical products online.
+
+“We are alpha testing the MedSamaan platform, and will run our beta version next year. We also intend to disrupt the healthcare sector by utilising AI for unification of various stages like detection, diagnosis, prescription, application of medical devices and drugs, and follow-up of recovery, all under one single window, providing end-to-end solution to healthcare providers. We also plan to undertake direct sales using MedSamaan as a brand and franchise model, to establish a robust supply chain,” Romita says.
+
+(Edited by Teja Lele)

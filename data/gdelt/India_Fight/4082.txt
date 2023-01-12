@@ -1,0 +1,89 @@
+Net neutrality’s day in court
+
+Net neutrality’s day in court Presented by Charter Communications
+
+With help from Margaret Harding McGill, Nancy Scola, John Hendel and Jordyn Hermani
+
+Editor’s Note: This edition of Morning Tech is published weekdays at 10 a.m. POLITICO Pro Technology subscribers hold exclusive early access to the newsletter each morning at 6 a.m. To learn more about POLITICO Pro’s comprehensive policy intelligence coverage, policy tools and services, click here.
+
+— Today in court: The FCC faces a legal challenge over its repeal of the Obama-era net neutrality rules — a battle over the future of internet regulations.
+
+— Harris v. tech? As California attorney general, Kamala Harris earned a reputation for being tough on the tech industry. Now that the Democratic senator has launched a run for the White House, will that past complicate her bid?
+
+— Dropping Gs on 5G: Tech and telecom firms are dialing up the spending on lobbying as the global 5G race ramps up.
+
+GREETINGS AND WELCOME TO MORNING TECH, where your host today is sending out thoughts and prayers to all the loyal New York Knicks fans out there. Got a news tip? Drop me a line at [email protected] or @viaCristiano. Don’t forget to follow us @MorningTech. And catch the rest of the team’s contact info after Quick Downloads.
+
+NET NEUTRALITY’S DAY IN COURT — Attorneys for tech companies, consumer groups and states will face off against the FCC’s top lawyer today in the legal battle over the future of internet regulations. The net neutrality advocates will try to convince three D.C. Circuit Court judges — two Obama appointees and a Reagan appointee — that the Republican-led agency erred in repealing the Obama-era regulations requiring internet service providers to treat all web traffic equally. Oral arguments begin at 9:30 a.m. and are expected to last all morning. (Listen along to an audio livestream of the court’s oral arguments here.)
+
+— Present: Democratic FCC Commissioner Jessica Rosenworcel, who voted against the repeal, tweeted that she will be in the courtroom watching. Aides to Chairman Ajit Pai and the three other FCC commissioners said they do not plan to attend.
+
+— FCC General Counsel Tom Johnson will defend his agency’s actions against challenges from five attorneys. Johnson’s prep this week included a moot court practice session at the FCC, where observers included Justice Department antitrust chief Makan Delrahim and telecom industry representatives in support of the FCC’s repeal, according to a source familiar with the preparations. An FCC spokesman declined comment.
+
+Illustration by Piotr Lesniak
+
+WHEN KAMALA HARRIS TOOK ON THE INTERNET — Before Harris was a U.S. senator and candidate for the White House, she was attorney general of California with a reputation for getting tough on tech. In her six years as AG, she leaned on Silicon Valley to tackle so-called "revenge porn" and prosecuted website operators for cyber exploitation.
+
+— While Harris got companies to start cleaning up their platforms and put some unsavory characters behind bars, she also upset some in the tech world who saw her as willing to sacrifice innovation and digital free speech in the process. The tech industry’s influence in Democratic politics could complicate her run for the White House. Nancy has the story.
+
+Clean Energy Innovation: The Path Forward — The transition toward clean energy is gaining momentum as prices collapse, technological innovation advances, performance improves and demand increases. While the path forward in clean energy innovation is uncertain on the federal policy front, innovation in the market seems promising. Can the market lead policy, or can the market and federal policy still find middle ground? Join POLITICO for a high-level conversation on the opportunities and challenges ahead on policy and investment in clean energy innovation. RSVP today here.
+
+SPLURGING ON 5G LOBBYING — “As the United States positions itself to lead the global rollout of 5G — the fifth-generation of wireless technology and standards — technology and telecommunications firms have been ramping up their lobbying spending to speed its implementation ahead of rivals,” Pro DataPoint’s Janie Boschma reports. View the full DataPoint graphic here. Want to add DataPoint to your Pro account? Learn more.
+
+Janie Boschma/POLITICO
+
+‘THE RUSSIAN PLAYBOOK’ — Twitter and Facebook unveiled a series of disinformation takedowns on Thursday dealing with accounts originating in Iran, Russia and Venezuela. The campaigns featured an array of different tactics, from efforts to repurpose talking points from Iranian state-media to behavior that mimicked the Russian Internet Research Agency troll farm.
+
+— “The Russian playbook is out there,” Sen. Mark Warner (D-Va.), the vice chairman of the Senate Intelligence Committee, tweeted in response to the actions. “Platforms must constantly be on the lookout for bad actors, particularly foreign adversaries abusing these platforms to spread misinformation and disinformation.”
+
+— The bright side: In unveiling the removals, Twitter offered a positive assessment of foreign attempts to interfere in U.S. politics during the 2018 midterm elections. “In contrast to 2016, we identified much less platform manipulation from bad-faith actors located abroad,” Twitter’s Carlos Monje Jr. wrote in a blog post, adding that the efforts tied to Iran, Russia and Venezuela were “limited” in scale.
+
+AGs AGAINST FACEBOOK — “Facebook has become the target of at least three more state probes into the alleged mishandling of user data,” Bloomberg reports. “The state probes are coalescing into two main groups scrutinizing the social-media company’s data-protection practices, said the people, who declined to be named because the inquiries are confidential. Pennsylvania Attorney General Josh Shapiro and Illinois counterpart, Kwame Raoul, have joined forces with Connecticut’s William Tong, said two people. That group is focused on investigating existing allegations, one of the people said.”
+
+TODAY: CAN YOU HEAR ME NOW? GOOD — Staffers from the Federal Communications Commission and House Energy and Commerce Committee are slated to huddle today to discuss the agency's investigation into wireless carriers' handling of customer location data, as your host reported. The meeting comes over two weeks after the panel’s chairman, Rep. Frank Pallone (D-N.J.), ripped Pai for declining his request for an emergency briefing into the matter, which gained renewed attention after a Motherboard report revealed wireless companies continue to sell real-time location data despite pledges to end the practice.
+
+TBT: BILL DRAMA FLASHBACK — Sen. Pat Roberts (R-Kan.) led his GOP colleagues this week in reintroducing the Kelsey Smith Act, S. 273, which would compel wireless carriers to ping the mobile devices of subscribers believed to be in danger and then provide their location information to law enforcement. This bill, longtime MT readers will recall, was entangled in messy negotiations in both chambers in 2016, stalling amid criticism over a lack of appropriate privacy safeguards. Longtime House sponsor Kevin Yoder lost his re-election bid last year, but fellow Kansas Republican Rep. Ron Estes is committing to introduce a companion measure.
+
+MARK YOUR CALENDARS: PCLOB-BERING TIME — The Senate Judiciary Committee is set to take up the nominations of Aditya Bamzai and Travis LeBlanc for memberships on the Privacy and Civil Liberties Oversight Board during a hearing next Tuesday at 10 a.m. European Union officials have been keenly interested in the vacancies on the board, voicing concern about U.S. efforts to protect consumers’ data privacy during negotiations over the EU-U.S. Privacy Shield pact.
+
+— Plus: The state of the net: The House Energy and Commerce telecom subpanel has nailed down plans for a planned net neutrality hearing, set to take place next Thursday at 11 a.m., as John reported. Though no witnesses have been announced yet, the session is expected to center on the effects of the FCC's 2017 repeal of the Obama-era open internet rules, according to a statement from the panel.
+
+Get "Freezin' for a Reason" on Saturday with Special Olympics DC. POLITICO is thrilled to partner with the “Polar Plunge,” an annual event that supports more than 1,600 Special Olympics DC athletes on Saturday, Feb. 2. Attendees will enjoy ICE YARDS festivities, including icy cocktails and local DC brews, fun activities, live music, an ice bar, food from neighborhood restaurants, D.C.’s largest group shotski attempt and so much more! Visit dcpolarplunge.org to register as an individual, as a team or join an existing team and take the plunge.
+
+— Clash of titans: “Apple has now shut down Google’s ability to distribute its internal iOS apps, following a similar shutdown that was issued to Facebook earlier this week,” The Verge reports.
+
+— Business casual robot uprising: The implementation of artificial intelligence in the workforce could change white-collar work as we know it, The Wall Street Journal reports.
+
+— Big Doorbell is you watching: The Washington Post explores the brewing ethical and civil liberties battle over video-doorbell technologies.
+
+Clean Energy Innovation: The Path Forward — The transition toward clean energy is gaining momentum as prices collapse, technological innovation advances, performance improves and demand increases. While the path forward in clean energy innovation is uncertain on the federal policy front, innovation in the market seems promising. Can the market lead policy, or can the market and federal policy still find middle ground? Join POLITICO for a high-level conversation on the opportunities and challenges ahead on policy and investment in clean energy innovation. RSVP today here.
+
+— Smells like teen spying? Facebook COO Sheryl Sandberg said teens who downloaded the Facebook Research App and were paid to have their data mined technically “consented” to the process, Gizmodo reports.
+
+— 404: Face not found: San Francisco could be the first city in the country to ban facial recognition technology, Wired reports.
+
+— Delhi dilemma: Indian e-commerce regulations go into effect today, and it could cause headaches for companies like Amazon and Twitter, CNN reports.
+
+Tips, comments, suggestions? Send them along via email to our team: Eric Engleman ([email protected], @ericengleman), Kyle Daly ([email protected], @dalykyle), Nancy Scola ([email protected], @nancyscola), Margaret Harding McGill ([email protected], @margarethmcgill), Steven Overly ([email protected], @stevenoverly), John Hendel ([email protected], @JohnHendel) and Cristiano Lima ([email protected], @viaCristiano).
+
+Follow us on Twitter Heidi Vogt @HeidiVogt
+
+
+
+Emily Birnbaum @birnbaum_e
+
+
+
+John Hendel @johnhendel
+
+
+
+Rebecca Kern @rebeccamkern
+
+
+
+Alexandra S. Levine @ali_lev
+
+
+
+Leah Nylen @leah_nylen

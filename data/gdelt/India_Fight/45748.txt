@@ -1,0 +1,25 @@
+Why the call ring duration matters to Airtel, RJio
+
+Airtel and Reliance Jio are fighting each other over how much time your phone should ring before it gets disconnected, if you don’t pick up an incoming call. While Airtel used to allow the ringing to go on for 40 seconds, it has now decided to cut it short to 25 seconds. Reliance Jio has been disconnecting calls after 20-25 seconds.
+
+If you think that this is being done for the consumer’s benefit, then you are wrong. The real reason is that the ring duration has an impact on the operator’s revenue. Here is how.
+
+For example, if a Reliance Jio user calls an Airtel customer and Reliance Jio reduces the ringing time for outgoing calls to 20 seconds only, the calls may be cut off even before the Airtel customer has the time to pick it up.
+
+Seeing the missed call, the Airtel customer calls back to Reliance Jio’s network.
+
+So, for Reliance Jio, what started as an outgoing call, has been converted into an incoming call. In India, operators pay inter-operator fee, technically known as Interconnect Usage Charges. This charge is paid by the operator on whose network the call originates, to the operator on whose network the call terminates. So, in the above example, instead of Reliance Jio paying the fee, it now starts earning the fee, because of the shorter ring duration.
+
+Also read: Telecom companies brace for fresh battle over IUC
+
+Also, the telecom regulator is in the middle of an exercise to determine if IUC charges should be brought down to zero. This can happen only if the outgoing and incoming calls on all networks are equal. Currently, the number of outgoing calls from Reliance Jio’s network to the Airtel network is higher. As a result, Reliance Jio ends up paying more IUC charges than it receives.
+
+RJio paid out IUC charges of Rs 851 crore in the June 2019 quarter alone.
+
+By making the ring duration shorter, Reliance Jio is gaming the system, to shift the call traffic in its favour, says an Airtel official. Therefore, Airtel has also cut down the ring call to 25 seconds.
+
+The TRAI has come out with a consultation paper to review this issue.
+
+Globally, most operators have an average ringing time of 15-20 seconds. If all Indian operators were to upgrade their networks to 4G, then this issue would be resolved. Currently, incumbent operators like Airtel have legacy 2G and 3G networks.
+
+The IUC regime was brought in to ensure that investments made by the operators to roll out networks are recovered. Shifting to 4G would end the IUC debate as voice calls are carried on the network just like data, and there would be no case to pay IUC charges.

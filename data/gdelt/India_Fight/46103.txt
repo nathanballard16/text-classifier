@@ -1,0 +1,29 @@
+An International Business Times Site Has Once Again Been Exposed For Deceptive Ad Practices
+
+The Indian edition of the International Business Times has been caught using deceptive ad practices to inflate views, marking the third time the site has been called out for this kind of activity.
+
+IBT India’s site used a combination of methods, including bot-like behavior on its pages, to artificially increase the number of pages and ads being loaded. This in turn inflated traffic and ad revenue. After being contacted by BuzzFeed News and provided video evidence of the activity, Chandra Mohan, cofounder and managing director of IBT India, said he was “surprised” by the behavior and blamed it on a rogue employee, who has now been fired.
+
+“Unfortunately, the internal investigation revealed that a new employee in the team, to boost his performance metrics, employed shortcut methods to reach monthly targets,” Mohan said in a message sent via LinkedIn. “This was done without any knowledge of the immediate managers. We are grateful to you for having identified this and have taken serious disciplinary action and terminated the said erring member of the AdOps team.”
+
+Yet in spite of firing someone, Mohan declined to describe the activity on his site as ad fraud or invalid traffic, the industry term for behavior that does not meet the standard of human activity an advertiser should pay for.
+
+“I’m not agreeing it’s invalid traffic,” he said.
+
+Mohan said the employee was fired because he “has done [a] mistake against [the] company and without informing his immediate managers.” Yet Mohan also pledged that IBT India will not continue with the traffic and ad activity in question.
+
+Digital media metrics firm DoubleVerify told BuzzFeed News last year that it classified IBT India, and some of its sister sites, “as having fraud or sophisticated invalid traffic,” after a detailed investigation.
+
+IBT Media Pvt Ltd is the Indian licensee of the IBT brand and is operated separately from IBT Media, according to the New York–based media company. In a statement to BuzzFeed News, IBT Media said it was launching an internal investigation into its Indian partner.
+
+“IBT Media Inc. is greatly concerned by these allegations. Licensees are expected to abide by industry-standard best practices and uphold the brand’s values and reputation. Therefore, IBT Media Inc. is placing the licensee immediately under review as it conducts an internal investigation into these allegations,” the statement said.
+
+How it worked
+
+Here’s what IBT India was doing. Oddly enough, the suspicious activity started when a user visited the website of conservative newspaper the Washington Examiner. If the user declined to receive web notifications from the site, a small blank browser window popped up in the right-hand corner of their screen. This window would then load a website if the user closed their browser tab with the Examiner in it.
+
+None of that is fraudulent, and it occurs because the Examiner works with AdSupply, an ad network that specializes in these so-called popunder windows. (The Examiner did not reply to an emailed request for comment.)
+
+AdSupply pays the Examiner to open the new browser window and then resells that space to others. IBT India, or an entity affiliated with it, was paying to be placed in the popunder window on the Examiner. But instead of simply loading its site in the hope a user would see it and perhaps click on a link, IBT India kicked off a series of events that rendered the traffic as highly suspicious and problematic.
+
+As shown in the below gif, the expanded popunder window redirects between multiple domains before landing on a final IBT India story. This disguises that the traffic originated from a paid source, AdSupply. Then, once the IBT page is fully loaded, it begins to automatically scroll down in order to mimic human behavior and display more ads.

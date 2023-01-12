@@ -1,0 +1,79 @@
+How Effective Is India’s Government, Compared with Those in Other Emerging Markets?
+
+Voters and policymakers in India face a crush of information as they consider electoral choices and the priorities that lie beyond; there are numerous report cards on the Modi administration circulating on both mainstream and social media, including those prepared by the administration itself. Unfortunately, they also face a crush of misinformation and confusion on social media. Another critical missing element — especially for a country like India with big, global aspirations — is an objective evaluation of the government’s performance in policy areas such as citizen welfare, economic growth, and functioning public institutions. Our analysis of India and some of its peers in emerging markets finds that the Modi administration has made advances on several fronts, most notably in education, skill-building, and support for innovation and it has improved trust in government institutions relative to previous administrations and relative to its peer group. There are still crucial areas where India is lagging its peers: fewer freedoms, lingering low productivity – and most significantly, insufficient progress towards building a more inclusive society.
+
+India is in the midst of a closely-watched election. The incumbent, Prime Minister Narendra Modi, is seeking a second term and there are 900 million people eligible to vote, making this — potentially — the largest exercise in democracy anywhere in the world.
+
+Both voters and policymakers in India face a crush of information as they consider their choices in the election and the priorities that lie beyond; there are numerous report cards on the Modi administration circulating on both mainstream and social media, including those prepared by the administration itself. Unfortunately, they also face a crush of misinformation and confusion on social media. In our view, another critical missing element — especially for a country like India with big, global aspirations — is an objective evaluation of the government’s performance in policy areas such as citizen welfare, economic growth, and functioning public institutions.
+
+To address this gap, we developed a performance evaluation framework with three attributes: data-driven measures of progress across a broad spectrum of policy goals; progress against a comparable peer group of emerging markets; and, given the Indian government’s emphasis on technology as a policy driver, benchmarks against global technology standards set by the world’s most digitally advanced governments.
+
+As part of the Smart Societies research initiative launched by The Fletcher School at Tufts University, we introduced a similar framework in an earlier HBR article: “The Smart Society of the Future Doesn’t Look Like Science Fiction”. In that piece, we evaluated how any country’s policy performance can be measured across three broad areas: well-being of its citizens; robustness of the economy; and functioning of its institutions. We used a global benchmark for that analysis, based on the performance of the “Digital 5” (D5) countries – Estonia, Israel, New Zealand, South Korea, and the United Kingdom – to capture the standards set by the digitally most advanced governments in the world.
+
+To adapt the framework to this analysis of India’s policy performance, we retained the D5 as a global standard and we also created a new benchmark using a comparable peer group comprising five emerging market countries: India, Nigeria, the Philippines, Mexico, and Poland. This geographically-diverse group offers different stages of economic development and represent democracies that are either amid or just out of an elections cycle. All five countries are also emerging in terms of their digital economies; they are “Break Out” nations, as measured by our Digital Evolution Index.
+
+In this peer group, two countries, Nigeria and the Philippines, are close to India in terms of GDP per capita. Two others are more advanced. Mexico is a richer country, but is proximate to India in terms of the dynamism of its economy — it is ranked close to India on the Global Innovation Index. Poland helps set a longer-term “stretch” target for economic advancement; while it is part of the benchmark MSCI emerging markets index, Poland is on the cusp of moving from emerging to advanced economic status and has been upgraded to advanced status by the FTSE Russell index.
+
+On the voting side, Mexicans voted in July of 2018 and elections concluded in Nigeria in February 2019; the former elected a new president, who started a term in December 2018, while the latter returned the incumbent. The Philippines, with a crucial mid-term referendum on the current government, and Poland, with parliamentary elections, are going to the polls in May and November 2019, respectively.
+
+We refer to this group of five emerging market countries as the EM5. For these countries, we brought together data on over 178 different indicators, from over 40 data sources, including public and proprietary databases. Each country was given a score for its performance on each indicator; we used the best score for each indicator to create the EM5 Benchmark. The methodology for arriving at this new benchmark follows the one used for the earlier D5 Benchmark created as part of the Smart Societies research initiative. Given the large number of indicators analyzed, we organized them so that each indicator could be classified under one of 12 broad benchmark components.
+
+Citizens/People Components: inclusivity, environment and quality of life, state of talent and the human condition, talent development.
+
+Economy Components: global connectedness, economic robustness, entrepreneurial ecosystem, innovation capacity.
+
+Institutions Components: freedom of speech, expression and access to content, both offline and online, trust, safety and security, public services.
+
+
+
+We picked the time-frame for the analysis to be 2016- 2017 to align with the mid-point of the current Indian government’s administration and to enable better comparisons with the peer group. Specifically, we wanted to avoid campaign-related activity and other factors in the comparison countries that might cloud the picture. We posed questions such as: How do the EM5 countries compare against each other and against the global D5 benchmark, introduced in our earlier article? How does India, in particular, perform relative to its peers? The chart below shows a summary of our analysis:
+
+For each country, we computed a score for its performance on each of the 12 components. The scores helped facilitate several comparisons: between India and another country; between any set of countries among the EM5; and against the EM5 and D5 benchmarks. This framework also offered a perspective for each country on relative areas of strengths and weaknesses in individual areas.
+
+To get a sense of how the scores were derived, here’s an example. Pick one component and ask: how well a country is doing in terms of facilitating, say, an inclusive society? The inclusivity component, like all the others, is given a score, which itself is based on scores earned along various contributing factors. The inclusivity score is an aggregate of scores earned for several factors, including labor market inclusion, economic mobility, diversity and acceptance, and government policies that promote inclusion. We also observed how these scores have changed over a five year period, 2011/2-2016/7 to get a sense of how the performance has improved or declined leading up to the point of evaluation, which is mid-way through the administration’s tenure in 2016-2017.
+
+Areas of India’s strengths: talent and innovation
+
+The number one issue for Indian voters, according to multiple surveys, is jobs. While India has a long way to go in building the requisite levels of job-ready skills and education in the country’s abundant labor pool, it performs the strongest among the EM5 in Talent Development as well as on other key questions we sought answers to as part of our analysis. We asked questions like these:
+
+Are ventures able to find people with the right skills? For example, one of the data points we surfaced found that Indian workers offer the largest pool among the EM5 on the digital freelancing website Toptal, one measure of the country’s labor supply with relevant skills.
+
+How adept is a country at attracting talent from abroad? India possesses the longest entrepreneur and investor visa length of all the EM5 countries, making it attractive to entrepreneurs and investors.
+
+Is there training for the work force? In addition to a greater availability of public and private training services, there are generally more Indians registered in online education platforms from multiple international sources than the other four countries in our analysis.
+
+India leads the EM5 cohort in innovation. It performs particularly well on several key questions, with some examples given below:
+
+How much is being spent on innovation? The World Economic Forum gives India a 4.5/7 rating on company R&D spending. This is the highest value within the EM5 cohort, at 73% of the D5 Benchmark.
+
+Are individuals, companies, and governments willing to innovate? Among its EM5 peers, India’s innovation capacity rating by the WEF is second only to that of the Philippines.
+
+How easy is it for startups to borrow money? Indian startups received the most seed and early stage investments, compared to those of the other EM5 countries. Here, India achieved 44% of the D5 benchmark.
+
+Is this a favorable environment to start a business? India leads the EM5 in terms of conditions favorable to starting a business and is 45% of the D5 benchmark. That said, it takes time to start a business in India, an average of 29.8 days, compared to the D5 average of 4.9 days and the EM5 average of 24.4 days.
+
+Overall, India’s strong performance in innovation against the benchmarks is helped by the government’s emphasis on adoption of digital services and prioritization of a robust ICT industry.
+
+Weaker performance for India in public health, environment, and inclusivity
+
+The state of public health, the environment, and the degree of inclusion are India’s principal areas of weakness relative to the EM5. We asked questions like these to analyze this:
+
+To what extent is there a general sense of well-being? In a 2017 Gallup survey, for instance, only 3% of respondents in India reported feeling that they are thriving, in contrast to the EM5 average of 24%.
+
+Are people living longer and are children and adults healthier? Though health standards in India are improving, India’s life expectancy remains low at 68 years, compared to Poland’s 77.6 years.
+
+Do people of different genders and identity groups have equal opportunities to participate in the labor force? Women comprise only 24.5% of India’s total labor force, compared to 45% of Poland’s, and 45.4% of Nigeria’s labor force.
+
+How productive is the workforce? While GDP per person employed in India has grown 29% since 2012, the country lags the EM5 average in productivity.
+
+Other notable peer comparisons
+
+Comparing India to the two countries that are closest in socio-economic terms, Nigeria and the Philippines, India outperforms Nigeria on all but two components, Freedoms and Inclusivity, and does better than the Philippines on Talent Development, Public Services, and Innovation.
+
+Particularly notable is India’s weaker performance on inclusivity across the board. Among the many gaps, consider the low participation of women in the workforce. For India, women constitute 24.5% of the workforce, whereas Nigeria has the highest ratio of female to male labor force participation — 84% as many women in the labor force as there are men, compared to the EM5 average of 63%. This true even though Nigeria has only a marginally higher female to male ratio in the 25-54 age category than India. The Philippines has a 40% female labor force and laws mandating equal pay for men and women.
+
+When compared with richer countries, such as Mexico and Poland, India outperforms Mexico on a number of components: Trust, Talent Development, Safety and Security, and Public Services. As for Poland, India outperforms it on Trust and Talent Development. India had the highest trust in government institutions among the EM5. However, Mexico boasts a more satisfied population, with 41% reporting that they were “thriving” in 2017. By contrast, 30% of Poles surveyed report to be “thriving.” In India, the number was a dismal 3%.
+
+As India votes, our analysis finds shows that the Modi administration has made advances on several fronts, most notably in education, skill-building, and support for innovation and it has improved trust in government institutions relative to previous administrations and relative to its peer group; overall India had improved in seven out of the 12 components when studied over a five year period leading up to 2016-17. There are still crucial areas where India is lagging its peers: fewer freedoms, lingering low productivity – and most significantly, insufficient progress towards building a more inclusive society.
+
+Economic robustness has suffered as well, with a combination of drastic measures, such as demonetization, poor implementation of tax reform, and increasingly protectionist policies. The next administration – whether it is a return of the incumbents or new leadership – should pay close attention to these gaps and prioritize closing them to ensure inclusive growth and India’s role as an emerging global power. It is, after all, expected to be the world’s fastest growing large economy for years to come – and uneven performance against its peers and global benchmarks will only serve to undermine the nation’s impact on the world.

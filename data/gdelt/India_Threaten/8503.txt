@@ -1,0 +1,13 @@
+India looks to finalise 5G spectrum bands list on June 17: Report
+
+The matter will be discussed at an inter-ministerial meeting, which will be chaired by a top official of the Department of Telecommunications (DoT) wireless planning cell.
+
+In what could be called a major step in the inception of 5G in the country, the government will soon finalise a list of 5G spectrum bands for deployment of 5G telecom services. India will reportedly unveil this list at the International Telecom Union’s World Radiocommunication Conference-2019 (WRC-19) that will take place from October 28 to November 22 in Egypt. According to a media report, the matter will be discussed at a high-level inter-ministerial meeting on June 17. The meeting will be chaired by a top official of the Department of Telecommunications (DoT) wireless planning cell, The Economic Times reported citing a person with direct knowledge of the matter.
+
+“At the meeting, senior officials of DoT, the Department of Space, Indian Space Research Organisation, Doordarshan, defence ministry and Airports Authority of India (AAI) will try to build consensus on new bands that can be identified and backed for 5G rollouts at WRC-19. Senior executives of phone companies, network vendors and chip makers will also be present,” the media report said.
+
+The list is likely to include 600 MHz, 1.4 GHz, 2.6 GHz, 4.8 GHz (all sub-6 bands), and 26 GHz, 31GHz, 47 GHz and the E&V bands. The E&V bands include airwaves, typically in the 71-to-86 GHz and 57-to-71GHz ranges, and are considered ideal for meeting mobile broadband backhaul needs in a cost-effective manner.
+
+“There will be detailed consultations on June 17 between the multi-ministerial representatives to build consensus and mutual accommodation around spectrum bands, including millimeter waves, that can be supported globally at WRC-19 for 5G deployments, including in India, going forward,” the publication quoted the person as saying.
+
+Recently, Telecom Minister Ravi Shankar Prasad set a 100-day deadline to start 5G trials. Additionally, the DoT asked the Telecom Regulatory Authority of India (TRAI) to review its recommendations on 5G spectrum auctions. Reportedly, the DoT wants an increase in the quantum of airwaves on sale and hike the base price for some frequency bands. As mentioned, the WRC-19, scheduled in Sharm El-Sheikh (Egypt) in October, will review and revise global radio regulations — and it will take a final call on which airwave bands will be globally assigned for 5G services.

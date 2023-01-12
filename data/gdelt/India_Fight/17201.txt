@@ -1,0 +1,33 @@
+The Hindu Explains: What is significant about Mission Shakti?
+
+Anti-sat weapons date back to Cold War.
+
+Prime Minister Narendra Modi on Wednesday announced that the DRDO-developed anti-satellite system A-SAT successfully destroyed a live satellite in the Low Earth Orbit. With this test, dubbed as Mission Shakti, India is only the fourth country after the U.S., Russia and China to have the technology.
+
+What are anti-satellite (ASAT) weapons?
+
+They are missile-based systems to attack moving satellites. So far the United States, China and Russia were the only ones who’ve reported the ability to shoot down space objects from ground or airborne sources.
+
+The development of such systems has a long history — fuelled by the Cold War between the United States and the former Soviet Union — with a waxing or waning of funding. There are different kinds of systems — those that can be launched from the ground or those vaulted from planes.
+
+In the Cold War/Space Race era, 1985 was the last time that the United States had used an anti-satellite system to destroy its P-781 satellite that had instruments aboard to study solar radiation.
+
+Anti-satellite weapons came back into popular currency after China conducted an anti-satellite missile test on January 11, 2007. The government officially confirmed this only on the January 23, after reports in several US media.
+
+The target was a Chinese weather satellite — the FY-1C – that sailed at an altitude of 865 kilometres (537 mi). A year later, the United States launched ‘Operation Burnt Frost,’ the code name to intercept and destroy a non-functioning U.S. National Reconnaissance Office (NRO) satellite named USA-193.
+
+What are India’s capabilities so far?
+
+While 'Mission Shakti' may have targeted an object in outer space, India has long developed the ability to intercept incoming missiles. In 2011, a modified Prithvi missile, mimicked the trajectory of a ballistic missile with a 600-km range. Radars at different locations swung into action, tracking the “enemy” missile, constructing its trajectory and passing on the information in real time to the Mission Control Centre (MCC) to launch the interceptor, an Advanced Air Defence (AAD) missile. It had a directional warhead to go close to the adversarial missile before exploding to inflict damage on it.
+
+What’s new about India’s ASAT system?
+
+Prime Minister Narendra Modi on Wednesday announced the success of ‘Mission Shakti,’ an operation that demonstrated India’s anti-satellite missile capability by shooting down a live satellite. He described it as a “rare achievement” that puts the country in an exclusive club of space super powers.
+
+The satellite was about 300 km away from earth but no details were shared regarding its ownership and what the satellite was used for and what were the reasons for choosing that particular satellite for the test.
+
+India’s ASAT development has a long history with Dr V.K. Saraswat, Director-General of the Defence Research and Development Organisation stating in 2012 that India had "all the building blocks necessary" to integrate an anti-satellite weapon to neutralise hostile satellites in low earth and polar orbits. However there was never any formal announcement of such a mission.
+
+What are Low-Earth Orbit satellites?
+
+The Indian satellite that was shot down was a Low-Earth Orbit (LEO) satellite. These are satellites roughly at an altitude of 2,000 kilometres from the earth and that’s the region where majority of satellites are concentrated. A database from the Union of Concerned Scientists, a non government organisation based in the United States, says that there are at least 5 known Indian satellites in LEO: India PiSat, Resourcesat 2, Radar Imaging Satellites 1 and2 and SRMsat.

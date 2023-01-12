@@ -1,0 +1,13 @@
+Microsoft will retire Cortana on mobile devices in some markets
+
+Microsoft has said over 150 million people use Cortana, but the numbers suggest that the digital assistant is not widely used on mobile devices. According to the Google Play Store listing, Cortana has been downloaded and installed on more than 1 million devices.
+
+If you use Cortana and you live in the UK, Canada, or Australia, Microsoft will be shutting killing off the Cortana app on Android and iOS phones next year. As part of the new strategy, Microsoft will be moving Cortana into the Microsoft 365 productivity apps such as Outlook and Teams.
+
+Microsoft Launcher will also lose access to Cortana in January 2020. It appears that Microsoft will continue to offer Cortana app in other regions including the United States.
+
+It’s not clear whether the company plans to support the app in Germany, Franch, India and other big markets.
+
+Microsoft believes that retiring the app and integrating the assistant into productivity apps will make Cortana more helpful. In support doc, the firm noted that the Cortana’s Android and iOS app will be retired on January 31st, 2020.
+
+“To make your personal digital assistant as helpful as possible, we’re integrating Cortana into your Microsoft 365 productivity apps. As part of this evolution, on January 31st, 2020, we’re ending support for the Cortana app on Android and iOS in your market,” the statement reads.

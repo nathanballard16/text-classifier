@@ -1,0 +1,29 @@
+Nearly 2 years since Bhima Koregaon riots, more holes emerge in Pune Police's rationale for arresting 10 activists-India News , Firstpost
+
+On 8 June and 28 August last year, the Pune Police arrested 10 rights activists in connection with the Bhima Koregaon riots that happened on 1 January, 2018
+
+On 8 June and 28 August last year, the Pune Police arrested 10 rights activists in connection with the Bhima Koregaon riots that happened on 1 January, 2018. The arrests were made on the basis of letters and files it found during the raids conducted at prison-rights activist Rona Wilson and human rights lawyer Surendra Gadling's residences on 17 April, 2018. The police claimed the activists were part of a Maoist plot to assassinate the prime minister and overthrow the government.
+
+On 20 April, 2018, the Pune Police sent the hard drives and memory cards it confiscated from Wilson's home to the forensic lab with a detailed questionnaire. The first question is whether or not the evidence collected from his home had been tampered with. The forensic lab concluded its analysis and responded to the Pune Police on 5 November, 2018. The arrests happened in between. Nihalsing Rathod, lawyer representing the arrested activists, said, "Basically, the police arrested 10 rights activists based on the evidence it couldn't have been 100 percent sure about."
+
+Those arrested were Sudha Bharadwaj, a lawyer based in Chhattisgarh, Sudhir Dhawale, publisher, Varavara Rao, poet, Arun Ferreira, a cartoonist, Shoma Sen, an English professor at Nagpur University, and activists Mahesh Raut and Vernon Gonsalvez.
+
+When the forensic report of Wilson's devices arrived on 5 November, it did not explicitly say the evidence had been tampered with. It did not even say it was not tampered with.
+
+The report, however, mentions the computer's last log on time and date. It is 11.16 am on 17 April, 2018. But the raid had begun at 6 am that day, which begs the question as to why the police had logged on to Wilson's computer. As per the IT Act, 2000, the gadget is supposed to be seized in its original form.
+
+The raid was conducted at Wilson's house in New Delhi, and it was followed by a panchnama, which is the usual procedure. However, Rathod said when raids of this nature are conducted, the panchas signing the panchanama are local residents. "The raids are conducted, evidence is sealed with the signatures of the police officer leading the raid and the panchas overseeing it," he said. "In this case, the Pune Police had taken the panchas along from Pune. So there was no impediment for them to re-open the sealed file and seal it again with their signatures."
+
+It is important to note that the Pune Police, after concluding the raids on 17 April, 2018, sent the evidence for forensic analysis on 20 April. In other words, the evidence was with the police for more than two days. A memory card seized from Wilson's home, according to the forensic report, was accessed on 17 April, 2018 at 5.22 pm — more than three hours after the raid concluded. The report said the memory card did not have an operating system installed, so the last accessed date of the memory card could not be found.
+
+"The police claimed to have found incriminating evidence and letters that described plans for an attack on the prime minister," said Rathod, "The arrests happened in June and at the end of August. If the threat was real, that too, if it was directed at the prime minister, would you wait months before arresting them?"
+
+As far as the documents recovered from Gadling are concerned, Caravan has conducted a detailed analysis of the discrepancies. "There is a curious pattern in the 'Last Accessed' timestamps for all the incriminating files," the piece reads, "The date and time in the timestamps range from 'Thu Dec 7 22:04:07 UTC+0530 2017' to 'Thu Dec 7 22:05:55 UTC+0530 2017' — a span of one minute and 48 seconds." It further goes on to say, "It seems highly unlikely that, for some reason, on 7 December, 2017, Gadling decided to select all the files that incriminate him and paste them into a folder on his computer's desktop."
+
+Further, Rathod, as lawyer of the accused, has not been given the mirror copies of the "evidence" against his clients, which is their right. "They have given us clone copies, but not mirror copies," he said. "They recovered 25 TB data, and copy-pasted eight TB of that for us, saying this is the relevant data. But mirror copies contain the exact window log, which we can examine to ascertain whether or not the data was tampered with."
+
+Since the Bhima Koregaon riots took place, observers have repeatedly questioned the veracity and intent of the investigation. The victims of the riots have blamed Hindutva leaders Sambhaji Bhide and Milind Ekbote for stoking violence against Dalit pilgrims who had come to celebrate the bicentenary of the Bhima Koregaon war, where the British Army, that had a significant Dalit contingent, had defeated the Peshwas.
+
+However, the investigation in that direction has not moved forward in any significant way. However, the Pune Police has arrested 10 activists based on one FIR filed by Tushar Damgude, who is close to Bhide and Ekbote.
+
+Nearly two years after the riots, Sharad Pawar has now sought a fresh investigation. In a significant departure from the shoddy probe under former chief minister Devendra Fadnavis, Pawar told reporters in Pune that he would be discussing it with Chief Minister Uddhav Thackeray and demanding an SIT.

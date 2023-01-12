@@ -1,0 +1,37 @@
+Policy | Tighter PMS norms will increase short term pain, but is good for the industry
+
+Shishir Asthana
+
+The Securities and Exchange Board of India has finally decided to focus its attention on one of the least transparent segments of the market – Portfolio Management Services (PMS). A SEBI consultation paper has given many recommendations for tightening the regulatory framework for the PMS schemes.
+
+While most of these recommendations are good for the PMS industry in the long run, and certainly good for investors, the PMS industry will take a hit in the near term.
+
+One of the biggest drawbacks of the sector is that there is no standardised way of measuring returns. Each fund manager selected his way of presenting returns. Thus, there are no comparable data publicly available, unlike in the case of mutual funds. So, an investor could not compare one PMS with the other.
+
+Some fund managers prefer to show returns on a pre-tax and pre-expense basis, which included profit sharing. This is misleading as the return for the investor, the one that he takes home if he decides to exit from the fund, will be after paying the taxes, expenses and after the fund manager deducts his share of the profit.
+
+Calculating returns of a PMS scheme is a difficult task as all portfolios of the PMS scheme are not standardised. Unlike a mutual fund scheme where the investor gets units of the fund based on the Net Asset Value (NAV), a PMS investor gets shares in his account. A person joining in January 2019 may have a different basket of stocks than another who joined in June 2018; thus, their returns would also be different.
+
+Some PMS schemes have been using this loophole to showcase the best performing portfolio to raise money. Some others would show the aggregate return, which again did not give the true picture.
+
+Rather than using the compounded annual growth rate method, it has been suggested that the time-weighted rate of return method be used, which takes into account returns of those portfolios which were closed during the period. Normally, it is a dissatisfied investor who walks out of the fund and his returns do not get reflected in the overall performance of the PMS. On the contrary, the exit of a poorly performing portfolio would improve the average. This anomaly is addressed by calculating returns based on the time-weighted rate of return, which captures the returns of the accounts that have been closed in the particular period.
+
+SEBI’s proposal of standardising reporting will help investors in making an informed decision on the true performance of the fund and the costs upfront.
+
+The discussion paper other issues as well. Top among them is raising the minimum investment capital requirement from Rs 25 lakh to Rs 50 lakh. There was criticism on this front as PMS schemes are now out of reach of the common man. But as the SEBI paper rightly points out, PMS is a riskier product than a mutual fund and should be restricted to investors who can take the risk.
+
+A PMS portfolio normally has around 12-15 stocks and is not as diversified as a mutual fund, which typically has at least 50 stocks in its portfolio. Furthermore, most PMS funds prefer to invest in smallcap and midcap stocks where the returns, as well as risk, are high. The proposal for increasing the minimum capital is a move to protect smaller investors.
+
+The working group has also proposed higher net worth criteria for PMS managers from Rs 2 crore to Rs 5 crore. This too is a welcome step as it will restrict entry in the industry to serious players. While it is worth noting that this minimum net worth would not be good enough if clients file claims for any wrongdoings, it would still give comfort to investors that the people with whom they are entrusting their money are big enough to manage their funds.
+
+The biggest change that can impact the flow of money in PMS schemes is the change in exit loads. The consultation paper points out that the exit load ranged from 1 percent to 8 percent over 5 years. Ever since commissions on mutual funds have been regulated, wealth managers at most broking houses have diverted their client money to PMS schemes. These schemes, in turn, would give them upfront commissions. This is one of the main reasons why PMS schemes now manage close to Rs 1.43 lakh crore.
+
+Capping exit loads would be a disincentive for wealth managers who derived a large chunk of their revenue by routing money to these funds.
+
+Finally, the PMS industry would be hit by the proposal of charging a performance fee. Currently, they charge fees based on a hurdle rate. If a scheme has a hurdle rate of say, 8 percent, then PMS managers will get a performance fee only if returns are above 8 percent. This seems fair in a good year, but in a bad year like the present one, the scheme would find it difficult in generating even 8 percent returns.
+
+However, in the following year, if a portfolio generates better returns, then the fund manager charges a fee based on the eight percent hurdle rate, irrespective of the fact that the portfolio has deteriorated substantially in the previous year.
+
+This practice is now likely to be scrapped and a new principle of ‘high water mark’ is expected to be applicable. In such a case, the PMS scheme can charge a performance fee only if it crosses the previous high value touched by the portfolio.
+
+Overall, the proposals suggested by SEBI are important for the PMS industry, but the timing could not be worse. Returns of most PMS schemes have been hit badly. These proposals will not only increase their cost of doing business but also affect inflows and their profitability. However, in the long run, the industry will come out stronger and fly-by-night-operators would be screened out.

@@ -1,0 +1,25 @@
+Tool for patients with dementia
+
+Dementia is not curable or reversible, but patients may survive for up to 10 years or longer even as they deteriorate
+
+Medical researchers in Sweden and the Netherlands announced on Monday their development of a tool that takes into account the degree of dementia and coexisting health disorders, if any, to compute the three-year survival probability for individual patients.
+
+Neurologists in Europe have proposed a computational tool to predict the survival probability of a person with dementia over three years that they say would help patients and their relatives “discuss a difficult subject”.
+
+They described their tool in the journal Neurology on Monday.
+
+Dementia, which may result from Alzheimer’s disease or other causes, is not curable or reversible, but patients may survive for up to 10 years or longer even as they deteriorate. Earlier, research studies have identified multiple factors, including age, body weight and coexisting disorders, that can influence survival periods in dementia patients.
+
+In their new study, the neurologists monitored over 50,000 patients aged 65 years or older for around eight years, analysing mortality to develop a tool to predict survival probability on the basis of age, sex, cognitive ability, and any coexisting health disorders.
+
+“We believe the tool might help patients and their relatives with discussing a difficult subject,” Sara Garcia-Ptacek, a neurologist at the Stockholm South General Hospital who led the study told The Telegraph. “Such a tool may help start such a conversation before there are too many cognitive obstacles.”
+
+The computation involves combining the degree of dementia with other health disorders that could impact survival. The tool the Swedish-Dutch researchers have developed takes into account a “comorbidity index” that also factors in other disorders such as chronic obstructive pulmonary disease or liver disease.
+
+“High blood pressure, diabetes, cardiovascular diseases are among factors that can shorten survival periods in patients with dementia,” said Sushma Chawla, a senior physician based in New Delhi and involved in providing dementia care.
+
+Chawla, who was not associated with the Swedish study, said poor awareness and stigma around dementia in India contributes to delayed diagnosis. “Most patients are not diagnosed during the phase of mild cognitive impairment,” she said.
+
+Garcia-Ptacek cautioned that the tool was developed in Sweden and would need to be validated in other populations.
+
+However, Chawla said, a tool to predict survival probability would likely identify patients who are likely to deteriorate relatively fast. “This could prompt patients and relatives talk about finance or care, issues that they would otherwise not talk about.”

@@ -1,0 +1,19 @@
+Madhapur police raid IT firm linked to Telugu Desam
+
+The firm has been booked for criminal conspiracy, cheating, data theft under the IT Act. (Representational Image)
+
+Hyderabad: The Madhapur police on Saturday filed a criminal case and conducted raids against city-based IT company IT Grids Private Limited for allegedly stealing official data of beneficiaries from the AP government database and using it for manipulation of polls in that state.
+
+The complaint was filed by data analyst T. Lokeswara Reddy here.
+
+It was alleged that IT Grids had developed an application called Sevamitra through which it had stolen the data. Cyberabad police seized computers and devices from the company’s premises following the raids. The firm has been booked for criminal conspiracy, cheating, data theft under the IT Act.
+
+Mr Lokeswara Reddy said in the complaint that while he was studying electioneering in AP, he found that the Telugu Desam cadres were using mobile phone and tab-based software applications, especially the Sevamitra app, for advancing the party’s electoral prospects. He said the TD website, www.telugudesam.org, and its Facebook page had details of Seva-mitra app which was meant for the TD’s registered members to gather information about voters and to work for the party’s victory.
+
+“From what I learnt through Sevamitra app, the government of AP has utilised the services of Bluefrog Mobile Technologies in Visakhapatnam to implement government schemes and functions of AP. During the course of discharge of work by Bluefrog, it was given access to enormous amount of official data in respect of the beneficiaries of various government schemes and also private data of individuals,” Mr Lokeshwar Reddy said.
+
+He said the details of beneficiaries which include their demographic, geographic and other identification features such as name, age, gender, address, Aadhaar number were shared with the app. Also shared was data from, AP Smart Pulse Survey, State Resident Data Hub, Praja Sadhikara Vedika (managed by Karvy Data Management Services Ltd., Hyd) and IVRS surveys conducted by the AP government, he alleged.
+
+He alleged that the IT Grids had acquired the data in violation of the Supreme Court guidelines.
+
+“The TD is making use of this data to analyse who are for and who are against the government and based on this analysis they have deleted hundreds and thousands of names of voters,” Mr Reddy said.

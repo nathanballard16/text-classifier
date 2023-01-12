@@ -1,0 +1,27 @@
+What is Pegasus and how can it target Indians?
+
+What do 300 mobile telephone numbers—including those belonging to 40 journalists, three opposition leaders, one constitutional authority, one supreme court judge, several activists, some scientists—have in common? Spyware has been reportedly snooping on them.
+
+The culprit? Pegasus—a technology developed by the Israeli cyber-security firm NSO.
+
+Pegasus sends people “exploit links.” Once a user clicks on it, the malware can penetrate a phone’s security features, and Pegasus is installed on the device without the owner’s knowledge or permission. Once in the system, Pegasus can extract the user’s private data, including passwords, contact lists, calendar events, text messages, and even voice calls.
+
+The Indian government and NSO have both denied involvement in the hacking detailed in the July 18 report by French media non-profit Forbidden Stories and human rights organisation Amnesty International.
+
+Pegasus and Modi’s India
+
+This isn’t India’s first brush with Pegasus.
+
+In October 2019, at least two dozen journalists, lawyers, and activists in the country were targeted for surveillance in the weeks before May 2019, WhatsApp had said. “In May 2019 we stopped a highly-sophisticated cyber attack that exploited our video calling system in order to send malware to the mobile devices of a number of WhatsApp users,” the Facebook-owned company said in a statement. This revelation came shortly after WhatsApp waged a legal war in the US, alleging that NSO hacked over 1,400 devices.
+
+Earlier, in September 2018, Canada-based digital watchdog Citizen Lab found infections associated with 33 of the 36 Pegasus operators it identified in 45 countries, including India.
+
+Pegasus has been around for at least five years now. The mobile espionage software was meant for use by governments that could purchase it on a per-licence basis. However, time and again, it has been suspected to be involved in illicit practices. Touted as “the most sophisticated attack” by cybersecurity company Lookout, this silent jailbreak is among the hardest to catch.
+
+While the jury is still out, Twitter is abuzz with speculation. If NSO claims to only sell to vetted government agencies, and Indians were spied upon, who commissioned it? That’s a question on everyone’s minds.
+
+Member of parliament Kapil Sibal, who belongs to the opposition Indian National Congress, had earlier sarcastically called out prime minister Narendra Modi’s “open transparent government.”
+
+“Same Israeli-based NSO Group’s Pegasus software was used by Saudi Arabia to spy on murdered journalist Jamal Khashoggi,” noted Delhi-based journalist Arvind Gunasekar tweeted. And he wasn’t the only one who made this observation.
+
+Still, a host of questions remain unanswered.

@@ -1,0 +1,61 @@
+Commentary: Why is Google shying away from giving access for content measurement to Ekam?
+
+Amidst all the talks of how BARC India’s proposed unified measurement system Ekam is not progressing and Google being one of the largest players is not giving Ekam any access to measure its content using SDK, the internet giant has countered saying it allows third-party measurement subject to the condition that they must meet strict criteria around privacy-safe implementations and high-quality methodologies.
+
+BestMediaInfo.com had written three articles investigating the reasons stalling the progress of Ekam and its future — ‘Ekam stuck — is ISA hand in glove with Google and Nielsen?’ ‘How blocking Ekam will be a self-goal for Google’ and ‘ISA not getting all advertisers on board on Ekam to have a wide-ranging impact’.
+
+Advertisement
+
+Google objected these articles saying it was not against third-party measurement and it was wrong to say that it did not want to tell advertisers on what platform their ad was seen or whether genuine users saw that ad or if the viewership was propelled through bots.
+
+Google doesn’t want to address questions related to its opaque advertising policies
+
+Advertisement
+
+A few days ago BestMediaInfo.com had sent a very detailed and pointed questionnaire to Google. To which all the tech giant could say was: “We offer all of our global customers a variety of choice for measuring media campaigns through Google Measurement Partners, which is an industry-leading programme made up of 25 trusted third-party measurement providers across specialisations like reach, viewability, brand safety, brand lift and more. Google Measurement Partners is our way of formalising our approach to enabling more options for advertisers, but each partner must meet strict criteria around privacy-safe implementations and high-quality methodologies.”
+
+Questions that went unanswered
+
+Advertisement
+
+Google is right when it says it has an industry-leading programme made up of 25 trusted third-party measurement providers, including the likes of comScore, Neilsen and Kantar among others.
+
+1) But BestMediaInfo.com had pointed out that the data shared with these partners are relay logs, which essentially means the data shared with them in the name of a third party is controlled. We asked Google whether this controlled data sharing in the form of relay log could actually be called transparent. The company did not have anything to answer this.
+
+Advertisement
+
+2) The tech giant is not wrong when it says each partner must meet strict criteria around privacy-safe implementations and high-quality methodologies, hinting that it will not accept Ekam’s proposal to allow SDK in its app. Even as BARC India is said to be exploring alternative and acceptable technologies, we asked Google if it can measure all types of data using SDK and use it for advertising purpose, why can’t it trust a third party to safeguard the data, specially a responsible industry body like BARC, which is not a private entity like comScore, Neilsen and Kantar with business models around measurement?
+
+Recently, Greg Armshaw of Brightcove had told BestMediaInfo.com that BARC should not use SDK as it will impact traffic by making apps heavier. “Most of the companies are moving into PWAs. That’s the reason why people don’t want to put heavy SDKs on their device. Some of our partners have integrated with Airtel and Hotstar, the integration is totally API-based now. Earlier it used to be SDK-based but they don’t want to use SDK anymore to reduce the weight of the app,” said Armshaw.
+
+However, it is more than SDK making the app heavier in case of Google and Ekam and the discussion is currently at the stage of privacy.
+
+3) In the wake of reports that BARC India is currently working on alternative technologies, BestMediaInfo.com asked Google that if any of those technologies could be accepted then why not SDK?
+
+4) Isn’t it for delaying things further? If the entire concern is about users’ privacy, won’t Google deny other options as well?
+
+5) We have learnt that Google is of a view that if Ekam has to roll out with SDK, it would have to go minus Google. Won’t it harm Google’s revenues?
+
+Well, let’s just say Google isn’t bothered and it still believes that it is big enough in India to throw its weight around.
+
+6) What it implies is that we’re Google and you have to take what we give you. Isn’t it like a channel saying if my GRP is not 200, do not report my data?
+
+7) The question that’s concerning the industry is measurement of YouTube content over a browser. In India, the SDK of Neilsen Dar in YouTube mobile app does not work. Will Google give access to the mobile app? The company did not answer.
+
+8) Google developed and rolled out the app measurement for the US market about a year and a half ago. The company has rolled it out in a few other countries also. There’s been talk for more than a year that the app measurement will come in India. If the technology is there for the US and other markets, why can’t it be for India? Isn’t Google waiting for a certain threshold before you report?
+
+9) Big content creators like Star, Disney and Fox don’t want to put their content on YouTube. Apart from extremely low revenue share, they blame that you are not very transparent about views and other data that they get and it is very opaque. Not only did they create their own platform, but they are also eating Google’s revenues. Wasn’t that enough for Google to be more transparent?
+
+10) If I watch my own video five times refreshing the page, I get five views. If I put a bot to do it, then what will happen, what sort of measurement is this?
+
+11) Big advertisers are also concerned to know on which content their ads were played, especially in case of sponsorship. This clubbed with the concerns of brand safety is forcing them to shift their budgets to more transparent platforms. What will it take for Google to realise this?
+
+12) For now, BARC wants to use SDK. Google will not agree to it. New technology is being explored but it will take some time. Does that mean that Ekam is not happening soon?
+
+13) There could be a scenario that Ekam could kick-start with co-operation from four big broadcasters who do not put their content on YouTube. If other broadcasters join them, 92-93% of the video could be measured and a mere 7-8% would be left. Ekam can still tell every desired detail about a show because it is not available on YouTube. Doesn’t this scenario bother Google?
+
+14) There was a time when planners used to park most of their budgets on Google and Facebook. The situation is not the same now. Will the industry wake up when advertisers say that without a third-party measurement, they will not put in money? Would every difference disappear then?
+
+Considering the way Google failed to address all the pointed questions above and referred to a standard reply, it is hard to believe that the internet giant is serious about the wide-ranging impact the delay in Ekam is creating. This shows Google is not transparent and is opaque about their methodology and this is why the unified measurement system, in its true spirit, is not making any progress.
+
+Info@BestMediaInfo.com

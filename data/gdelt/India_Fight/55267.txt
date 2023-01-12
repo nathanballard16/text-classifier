@@ -1,0 +1,49 @@
+Explained: What is Trakea, used by Haryana Police to make forensic reports tamper-proof?
+
+Haryana Police claims it is the country’s first police force to have introduced this unique barcoding for forensic reports. (AP/Representational Image)
+
+Haryana Police has adopted a unique barcoding software — Trakea — to ensure that thousands of forensic reports that form the backbone of the criminal investigation system and subsequent trials in the courts of law, are not tampered with.
+
+According to the police, Trakea ensures foolproof security of the samples collected from the scene of crime, and the forensic analysis reports, and is different from traditional methods that the state police force has been following for decades.
+
+Haryana Police claims it is the country’s first police force to have introduced this unique barcoding for forensic reports.
+
+Who designed the Trakea software?
+
+The software was originally designed by a prisoner who was lodged in Bhondsi jail for 13 months. A software engineer by profession, the man was facing charges of having murdered his wife, but was ultimately acquitted by the trial court.
+
+In the 13 months that he spent in jail, however, the man worked on the software, writing algorithms and, once out of jail, became the source for Haryana Police acquire his creation. The software was adopted after certain modifications to suit the specific requirements of the Haryana Police.
+
+The same software engineer had earlier designed a software digitising data pertaining to prison inmates and prison operations across all 19 jails of Haryana.
+
+So what exactly does this software do?
+
+Trakea is aimed at ensuring security and a tamperproof tracking system for forensic reports. It streamlines the functioning of Forensic Science Laboratories.
+
+Essentially, it is a forensic evidence management system that helps in automation of the entire procedure, right from the stage when forensic experts collect vital samples from the scene of crime to conducting analysis of the samples, followed by tracking casewise forensic reports electronically through barcodes.
+
+Even the selection of forensic teams is done randomly through this software.
+
+And how does the software work?
+
+The system includes features of two-stage barcoding to maintain the secrecy of the samples, sent along with a strong, unbroken biometrically authenticated chain of custody trial, coupled with features to eliminate chances of pick-and-choose by automated case allocation to the scientists, followed by report-generation and real-time tracking of the status of cases through automated e-mail and SMS notifications.
+
+Due to the unique barcoding, only the authorised investigating officers and forensic science experts shall be able to track the crime exhibits and scientific examination reports, reducing the chances of tampering/leakage of the report at any stage.
+
+Also, there will be no case details mentioned on the crime exhibits/samples/parcels except the unique bar code, that can only be read through the biometric system.
+
+Additional Director General of Police Shrikant Jadhav, who is Director, FSL, Madhuban, Karnal, Haryana said: “In India, this system is the first of its kind implemented by any police force and FSL, from police station level to Forensic Science Laboratory, without disclosing details such as FIR number, name of parties etc., which could be used by miscreants to track the samples to influence the scientists or tamper with the examination reports at the forensic laboratories.”
+
+What is the roadmap for the use of the software?
+
+The roadmap for the future includes the expansion of the software on an app-based android platform for real-time online reporting of crime scene investigation visits by officers of mobile forensic science units of the Forensic Sciences Laboratory posted in each district, and its integration with the judicial system to reduce time lags and the chances of malpractices even at later stages.
+
+Using this software, the judiciary too will be able to track the forensic examination report during the trial, significantly cutting down on delays.
+
+How has the system worked traditionally?
+
+As per the conventional practice all over the country, the crime exhibits (samples/parcels) are labeled with complete details, including the case FIR number; the police station; and the names and addresses of the victim, accused, medical officers, etc. With these details available, the crime exhibits can be easily traced and tracked by virtually anyone.
+
+The crime exhibits could include DNA samples, documents, and reports of ballistics examinations, serology, biology, toxicology, lie-detection, etc. From the time the sample is collected to the time when forensic experts draw their final conclusion, there are multiple stages where the accused can use their influence to tamper with the sample in order to get a favourable forensic report.
+
+Don’t miss from Explained: How does an ‘e-plane’ work, and how far is the world from flying fully electric?

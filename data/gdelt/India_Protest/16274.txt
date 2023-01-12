@@ -1,0 +1,21 @@
+5G technology dominate IMC 2019
+
+The second day of the India Mobile Congress (IMC) 2019 saw a slew of launches with real use cases in the telecom sector, where the companies collaborated with each other to bring out the future innovations.
+
+Reliance Jio and Samsung presented new business opportunities using 5G NSA mode, with advanced 4G LTE and 5G technology used in combination as a dual-connected mode network.
+
+Read more: Reliance Jio and Samsung showcase 5G technology use cases at India Mobile Congress 2019
+
+These will demonstrate how innovations from the latest technology can benefit consumers, enterprises and the society.
+
+5G live video call
+
+Ericsson and Qualcomm Technologies also completed the first ever live 5G video call in India using 28 GHz spectrum. The demonstration was done using a smartphone based on the Snapdragon 855 Mobile Platform with Snapdragon X50 5G Modem-RF System and Ericsson’s 5G platform including 5G NR radio, RAN Compute products and 5G Evolved Packet Core, set up at the IMC venue.
+
+The MillimeterWave (mmWave) 5G networks are commercial in the US and being rolled out in many advanced countries including Japan and Korea, where 28 GHz and 39 GHz spectrum bands are being considered for 5G deployments. For mobile networks, mmWave spectrum will be an important capacity layer for both 4G and 5G, the companies said.
+
+To demonstrate, Nunzio Mirtillo Head of Ericsson South East Asia, Oceania and India, made a video call to Rajen Vagadia, Vice President, Qualcomm India at the venue. The companies have already worked closely to create several 5G technology.
+
+“Ericsson was the first telecom vendor to demonstrate 5G technology in India in 2017. Over the past few years we have been working with several stakeholders to build the 5G ecosystem in the country. Today marks an important step in India’s journey towards 5G. This 5G video call and our longstanding collaboration with Qualcomm Technologies is a testament of how the real benefits of 5G can be achieved through partnerships and collaborations,” Mirtillo said.
+
+Similarly, Nokia and Vodafone-Idea Business Services rolled out software-defined wide area network (SD-WAN) services for start-ups and enterprises in India. SD-WAN simplifies the management and operation of the enterprise’s network. While the SD-WAN market is still at a nascent stage, it is expected to become a $10 billion opportunity globally by 2023 as per industry reports.

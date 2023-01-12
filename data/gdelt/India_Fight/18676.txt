@@ -1,0 +1,31 @@
+Artificial Intelligence to power Indian Navy’s Combat Management System in its Indigenous Aircraft Carrier
+
+Indian Navy has achieved advancements to the level of Fleet level planning i.e. the Flag Ship can plan for the fleet ships to efficiently & effectively engage an enemy threat as perceived at a Theatre level.
+
+With its own indigenous Aircraft Carrier (IAC), and indigenous Combat Management System (CMS), India has taken a quantum leap in naval warfare in coming decades. CMS fitted on IAC caters for the enhancement of Threat Evaluation & Resource Allocation (TERA) to effectively integrate the carrier borne MiG 29K’s mission planning in the offensive/defensive role. The government is now pushing for a rapid development in Artificial Intelligence (AI).
+
+Milind Kulshreshtha, C4I expert says that the CMS are mission critical, real time embedded systems with role of Decision Support System (DSS) for the three dimensional (air, surface & sub-surface) threat perceived by Command at sea. The systems are highly complex and utilize high end processors with RTOS (Real Time Operating System) software.
+
+Also read: To counter growing Chinese footprint in Indian ocean region, Indian Navy to get lethal submarines under Project-75I
+
+
+
+“The CMS completes the ‘sensor to shooter’ loop through an automated ‘Decision’ mechanism achieved via unique warfare algorithms. All Sensors and Weapons systems fitted onboard Own ship and Fleet task force ships are connected at single point at each CMS node through onboard digital data bus and, externally via Data link through On-air protocol,” explains Kulshreshtha, who has steered multiple indigenous CMS programmes including CMS-SNF, CMS-28 & CMS-15A, to Financial Express Online.
+
+Indian Navy has achieved advancements to the level of Fleet level planning i.e. the Flag Ship can plan for the fleet ships to efficiently & effectively engage an enemy threat as perceived at a Theatre level.
+
+According to him each Task Force ship is capable of seeing Common Tactical Operating Picture for threat engagement. For any naval task force at sea, & TERA capability plays the most decisive role in a sea battle, with TERA being measured through real time “susceptibility and vulnerability” computations for the Task Force battle group.
+
+With enemy possessing modern long range Air to Surface missiles (ASM) launched from high speed manoeuvrable fighter aircrafts (possessing radar detection avoidance features), CMS with cutting edge TERA technology for countering these threats is only deciding factor to achieve command on high seas.
+
+Efforts to garner the C3I (Command, Control, Communication & Intelligence) capabilities by Indian Navy started in 1980’s with induction of IPN-10, which helped launch an ambitious indigenous project of EMCCA (Equipment Modular Command & Control Assembly).
+
+An indigenous CMS programme with enhanced C4ISR (Command, Control, Communications, Computer, Intelligence, Surveillance & Reconnaissance) capabilities commenced in early 2000 with CMS-SNF and CMS-17 projects. CMS-17 project saw a joint development for Tactical Warfare modules with Russian side, which brought in a paradigm shift in Indian Navy’s Concept of Operations. Through some innovative efforts, these tactical modules too were indigenised in subsequent Projects of CMS-28 & 15A.
+
+IAC Project
+
+The CMS for IAC garnered indigenisation capabilities of last two decades. However, it has also highlighted the need for an updated operating rule set for carrier borne Aircraft operations, and this fact was amply supported with the recent induction of INS Vikramaditya (ex-Groshkov). INS Vikramaditya is fitted with highly capable carrier operated MiG 29K’s and Indian Navy had to re-look at tactics on use of carrier based Aircraft operations.
+
+CMS-71 programme comprises of all support software from M/s TPSED (Tata Power Strategic Engineering Division) for working of Warfare Tactical functions provisioned by WESEE (Weapon Equipment and Systems Engineering Establishment) & MARS (Russia).
+
+“The integration of these software applications from three different agencies is the key to the project success. Further, new challenges at altogether a new level are in store when CMS-71 is to be proven with ‘hard real time’ data at sea, as part of ship’s commissioning. With IAC project itself running late, the commissioning of CMS-71 onboard shall require a hard and dedicated effort, as and when it occurs,” points out Kulshreshtha.

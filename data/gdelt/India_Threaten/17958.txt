@@ -1,0 +1,101 @@
+6 social development efforts that will take India forward
+
+This article is a general introduction to an in-depth series on the different areas of social development crucial to betterment of Indian lives and environment. Watch this space for a detailed look into each area listed below, and the startups and organisations doing their part for them.
+
+Though India is at the cusp of change, there is still a long way to go in improving the health and socio-economic status of its citizens. A run-through of its national profile shows an India that’s exponentially growing, yet its negative effects are a concern. And still larger parts of the nation continue to be at a disadvantage due to regressive social practices.
+
+Listed below are six areas of social development important to progress:
+
+Healthcare for rural India and adolescent girls
+
+Indian healthcare is painfully insufficient in delivering quality and timely care to its people. With only 7.0 physicians and 17.1 midwives/nurses for every 10,000 patients, there simply aren’t enough health professionals in a nation with increasing population and decreasing environmental health. Compare this with Cuba: There are 185 patients per doctor, the lowest patient per doctor ratio in the world for a country that has spent a large part of a century embargoed.
+
+The availability of good physicians and trained nurses for rural India is even lower, bringing the quality of their collective health down. Common problems are left untreated for long until they become too expensive to bother with. Preventative healthcare is all but absent, where something as basic as accessibility is a task.
+
+Young girls and women take a hard hit. There is an institutional disregard for the health and hygiene problems of the girl sex. According to Dasra, a philanthropic organisation, in its studies found that 88 per cent of menstruating women in India use unsanitary materials like old rags, sand or ash to absorb blood. This results in a 70 per cent prevalence of urinary tract infections in young girls. With the unavailability of doctors in rural areas, the health situation of these girls is aggravated further.
+
+More than 20 per cent of the children in the country are not immunised for measles. The under-5 mortality statistics show that for 1000 live births there are 56 fatalities, and 190 maternal fatalities for 100,000 live births. Half the nation does not have access to antenatal care and roughly a third of the child population is not monitored by skilled health professionals. This is why India is home to the largest number of malnourished children.
+
+Stay Updated Get news and updates from the world of social entrepreneurship Please fill in this field. {{#error}} {{error}} {{/error}} {{^error}} Something went wrong. Try again later {{/error}} Welcome Onboard ! You have been successfully registered for our daily newsletter.
+
+These health and hygiene issues leave women mere observers of socio-economic progress, as they’re in a state of arrested development and extreme economic dependence.
+
+Microfinance
+
+The socio-economic alleviation of the nation’s poor -most concentrated in the west where 35-45 per cent of the population is poverty-stricken- is a priority when 59 per cent of the population lives on less than $2.00 (PPP) a day. This doesn’t mean the remaining 41 per cent is better off. According to the World Bank’s 2010 report, 96.3 per cent of the population lives below $5 (PPP) a day. Hence, those sections of society that desperately need to be included into the economy must be assisted. This is where ‘microcredits’ came in, which eventually evolved into microfinancing. Its popularity as a buzzword in non-developed countries hit high when Muhammad Yunus of Grameen Bank won the Nobel Peace Prize in 2006 for his efforts in economic inclusiveness of the poor and marginalised.
+
+Microfinance institutions are what you’d call bottom-up solutions to economic inclusiveness. Yet, it’s not without its critics either. A 2009 report by economists Ha-Joon Chang and Milford Bateman scathingly states:
+
+“By the early 1990s, however, it was becoming clear that the original Grameen concept
+
+– microcredit provided to establish or expand income-generating projects – was
+
+transmuting into the much wider concept of microfinance, meaning the supply of a
+
+whole range of financial services to the poor, including microcredit, micro-insurance,
+
+micro-savings, and so on (see Hulme, 2008). In particular, as Dichter (2007) has
+
+stressed, it was becoming quite clear that most microcredit is actually used not so much
+
+for income-generating projects, but mainly to facilitate consumption spending. While
+
+consumption smoothing is a useful survival technique, this transformation represents a
+
+quite dramatic break with the original Grameen Bank innovation. Notwithstanding,
+
+support for microfinance as poverty reduction and ‘bottom-up’ development policy has
+
+continued virtually unchanged.”
+
+The commercialisation of MFIs makes it little different from what lending institutions otherwise do. How to offset the negatives of MFI and turn it into a long-term solution that actually does help in business building will determine whether these institutions will have a significant and quantifiable impact on economic inclusiveness. What everyone can agree with, however, is that organisations need to help the poor in business-building.
+
+Low-Cost Education
+
+In 67 years, literacy in India has gone from a paltry 12 per cent to 74.04 per cent (2011). It took more than half a century for India to drag the literacy rate to this number. Even then, there is a staggering gender and regional disparity in literacy levels, where only 65.46 per cent of women, but 82.14 per cent of men are literate. Whilst Tripura has 93.91 per cent literacy, Bihar is stuck at an abysmal 63.8 per cent. This number is even lower for women in Bihar.
+
+Mismanagement of government schemes, socially regressive attitudes, economic backwardness that encourages child labour over education are primary reasons for the slow growth in literacy.
+
+Accessible low-cost education, then, becomes an important tool for children in slums, villages and remote areas of the country. It’s not enough to be simply be literate, though. Enrolment rates in the country for pre-primary are 58 per cent, primary are 93 per cent, secondary are 69 per cent, and tertiary are 25 per cent. The numbers may seem impressive, but the Indian education system is fraught with severe problems. Teacher absenteeism, lower girls’ education, poor infrastructure and sub-par quality of schools show a different picture. For instance, when non-profit ASER conducted a survey of 16,000 villages, the enrolment was found to be a high 96 per cent. However, 50 per cent of those aged 10 could not read at the level of a 6-year-old, and more than 60 per cent of these students were incapable of simple division.
+
+India has a low quality of primary and secondary education. Only a small slice of the population benefits from quality private institutions in major cities. It is unfortunate that the perception of Indian education is based on the the country’s middle-to-upper class crème de la crème in education centres like Bengaluru, Mumbai, Delhi, Chennai and Kolkata. The average student in India comes from rural areas, not urban schools. This is why in the 2009 Programme for International Student Assessment (PISA 2009+), where 15-year-old students from across the globe are tested to gauge the quality of education being provided to them, Indian students were miserable at reading , mathematics and science. Their best competition was Kyrgyzstan. It shattered the baseless preconception that Indian students were generally mathematically superior to their counterparts in the OECD nations.
+
+Under these circumstances, it’s monumentally important for low-cost education startups and organisations to assist the government in improving education to make these enrolment statistics actually meaningful.
+
+Rural economy
+
+Almost 68 per cent of the country is rural, yet the other 32 per cent is always in the news. In fact, the very perception of “development” is narrowly based on what constitutes Western urban development, or development that benefits urban India more than rural India.
+
+Farming and agriculture communities in India are in desperate need of sustainable solutions that improve the quality of their produce without damaging the environment their work is dependent on.
+
+Rural areas, for instance, depend on woodfuel. This needs to be remedied by providing these areas access to clean and sustainable energy solutions, a move that’ll help reduce India’s pollution levels (one of the highest in the world at 59ug/m3).
+
+Means of effective storage and delivery are urgent in a nation there tonnes of produce is left to rot or farmers can’t efficiently sell perishable items without portable cold storage. Farmers need scientists and entrepreneurs to develop technologies that sophisticate the industry, especially, when wasteful irrigation practices are still common.
+
+The other side of the rural economy is women’s entrepreneurship. This is, perhaps, one of the most difficult challenges to tackle. Steeped in tradition, rural India is fairly intolerant of women’s economic empowerment. Steps have been made in the direction through government schemes, yet there are cultural hindrances to bringing businesses to women and helping them develop skills to start their own. Traditional skills have largely been the domain of men. There is a natural tendency towards seeing women as “job snatchers”, disrupting their means of livelihood, than competition. Since half of all adolescent girls drop out of school after the age 15, they lose a potential income of USD 400 billion.
+
+Economic empowerment of rural women can only come with their political and social empowerment. It’s an exhausting and time-consuming task… yet, their untapped potential and poor quality of life makes it all the more important to focus on alleviating their condition.
+
+Waste and Sewage Management
+
+An exponentially growing country, the rise in disposable income means a rise in consumption. With this consumption comes the manifold increase in municipal solid waste generation. Currently, South Asia generates the least amount of MSW compared to OECD countries. However, India’s figures tend to be disingenuous due to its wide urban-rural divide. A large percentage of MSW comes from urban India, putting more strain on these regions. In 2000, the Ministry of Urban Development (MoUD) reported that 1,00,000 MT of MSW was generated daily in the country. In 2004-2005, the Central Pollution Control Board (CPCB) surveyed 59 cities (35 metro cities and 24 state capitals) and found these cities generated 39,031 tons per day.
+
+This waste needs to be collected, separated and treated. These figures do not consider all the plastics and biomass burnt in open air, and waste incineration plants are not effective until state-of-the-art technologies are put to use.
+
+The same logistic and technological problems beset sewage management. Open sewers pollute land, soil, underground water resources and the air, besides causing an intolerable stink. The 2011 CAG report concluded that 53% of sewage in Bangalore Metropolitan Region was let into storm drains and lake, whereas only 47% of sewage was treated.
+
+Waste and sewage management are expensive and technologically challenging areas of development, but ones that need urgent attention to improve the livelihood of people and the quality of the environment if people are still interested in breathing clean air and drinking clean water.
+
+Sanitation
+
+Old ills still plague, but incredible achievements have been made in the country. One such achievement is the increase in access to drinking water. Between 1990-2012 the government increased drinking water access to 534 million people. However, a higher number -597 million- still defecates openly, the worst in MDG regions. As opposed to the stride taken to provide people drinking water, India has done the least to address its sanitation needs compared to countries like Bangladesh, Ethiopia, Pakistan and Nepal.
+
+65 per cent of rural India still does not have access to sanitation, a problem more compounded for women, as they have special hygiene needs. In urban India, this number is 12 per cent, where the problem is largely confined to semi-urban regions and slums.
+
+The sanitation problem is a health and environment hazard with long-term consequences for economic progress. Considering how bad even our sewage system is, on closer look, the predicament looks like something that simply cannot be solved. A constantly proposed solution, public toilets take a long time to install due to government bureaucracy, and are expensive to maintain (which they are not). Many aren’t used by slums they’re supposed to service. It’s a grave issue and it can only be solved if the sewage and disposal system in cities is given equal attention.
+
+These are just some of the problems that beset healthy, sustainable and equitable progress in India.
+
+Where many of these problems reflect the systemic rot in the nation and policy failure, others can be addressed by social enterprises and organisations that seek to include marginalised, discriminated or neglected communities across India. What India needs are good solutions to problems with wide-ranging consequences, not short-term quick fixes. There is no point in cleaning a wound if the abscess beneath is untreated. Attempts at bettering the underprivileged majority of India will only succeed if social entrepreneurship is, in fact, “social” and not driven by the need to exploit a historically backward section of society for a quick buck.
+
+All statistics aggregated from the latest Government of India, WHO, UNFPA and World Bank country profiles.

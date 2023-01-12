@@ -1,0 +1,91 @@
+Bhima Koregaon: Amid Demands For Fresh Probe, A Hard Look at the Case's Discrepancies
+
+Mumbai: Nearly two years after the Pune police conducted investigations into the Bhima Koregaon violence and named several rights activists and lawyers as the prime accused while branding them as “urban Naxals”, Nationalist Congress Party chief Sharad Pawar today sought a fresh probe in the case.
+
+Speaking to the media in Pune, Pawar said he would be meeting Maharashtra chief minister Uddhav Thackeray to discuss the case and to demand that a special investigation team (SIT) be set up.
+
+This is a significant development as the earlier BJP-led government had used its might to ensure that the arrested activists remain in jail and had from time to time alleged that the accused were involved in a larger conspiracy to “assassinate” Prime Minister Narendra Modi.
+
+In June 2018, the Pune police had arrested nine rights activists and lawyers in a “well-coordinated, all-India level” investigation into what it termed “urban Naxalism’, but digital evidence made available to the accused reveals several discrepancies and possible tampering on the part of the Pune police.
+
+The Pune police have solely relied on electronic evidence gathered from the computers of those arrested – mainly from Delhi-based prisoners’ rights activist Rona Wilson and Unlawful Activities (Prevention) Act expert and Nagpur-based Dalit rights lawyer Surendra Gadling – to build their case.
+
+However, a closer look at the true copies made available to the accused only earlier this month after persistent court fights to access the evidence, The Wire has found several anomalies and inconsistencies in the claims made by the police, and the legal process that was followed.
+
+Several anomalies
+
+On April 17, 2018, the Pune police carried out multiple raids across India at the homes of several rights activists and lawyers. Among the first was 47- year-old Wilson, whose house was raided at 6 am. The raid, according to the time stamp on the video made available to the accused and accessed by The Wire, went on from 6:05 am to 2:02 pm, at his 10×12 square feet flat in the middle-class neighbourhood of Munirka in New Delhi.
+
+After the raid, the police claimed to have followed the obligatory legal procedures and sealed Wilson’s computer, two external hard drives of one terabyte and 500 gigabyte each, and two memory cards comprising of the eight-hour-long video recorded at his place at the time of the raid. According to the charge sheet and the repeated claims made by the Pune police before the lower and higher judiciary, all the evidence was stored in an ‘anti-static bag’ and sealed with Lac sealing wax.
+
+Evidence, as per procedure, once seized, is required to be sealed to ensure that it is not interfered with – including by policemen.
+
+However, the time stamp on the forensic report shows that one of the two memory cards of the video recordings was last accessed at 5.22 pm – three hours after it was sealed. This timestamp raises doubts over the claims and the sanctity of the entire process of seizing and recording of evidence in the case.
+
+Also read: Bhima Koregaon: NCP Leaders Ask Thackeray to Withdraw Cases Against Activists
+
+Similarly, as per the standard operating procedure followed while collecting digital evidence, the investigating team has to take special care. In case the system is switched off at the time of the raid, the police, as per the prescribed rules laid down under the Information Technology Act, 2000, ought to seize the gadget in its original form. In Wilson’s case, however, the team, headed by the investigating officer in the case Dr. Shivaji Pawar, can be seen switching the computer on at 11.26 am and the computer remains switched on for several minutes before being taken into custody.
+
+Strangely, the police have omitted this fact in the panchnama prepared soon after the raid at Wilson’s residence. While it lists the material seized and other related procedures, there is no mention of any reason for switching the computer on, the duration for which it was left running and also the methodology adopted in the raid process.
+
+Another crucial pattern seen in the forensic report detailing material found on Wilson’s computer indicates that all “incriminating evidence”, as claimed by the police and later mentioned in the chargesheet filed in the case, were found in just one folder saved in the ‘E drive’ of the computer. According to the forensic report, the folder, named “RBackup” contained letters, documents and several finance updates maintained by Wilson from time to time.
+
+A close scrutiny of this particular folder is essential as the police’s case is largely dependent on evidence collected here – as claimed, the conspiracy letter of the “assassination plot” of prime minister Narendra Modi was found in this folder.
+
+According to the police, the letter is addressed to one ‘comrade Prakash’, and in it, the accused have allegedly discussed a “sinister plot” to kill the prime minister. The police, however, have not found any more evidence regarding this serious claim. These letters were selectively leaked to a few media houses soon after the arrests.
+
+This ‘Rbackup’ folder, furnished to the defence lawyers as exhibit No. 17.1, appears to have been archived, created and last accessed all within a matter of few seconds. The forensic report shows it was created on ‘Sun Feb 11 15:41:48 UTC+0530 2018’ and last accessed at the same time ‘Sun Feb 11, 15:41:48 UTC+0530 2018’ and last written a few seconds later at ‘Sun Feb 11, 15:41:17 UTC+0530 2018’.
+
+The folder contains letters supposedly exchanged between Wilson and ‘comrade Prakash’, documents for several meetings and accounts maintained from several human rights meetings and congregations. Names of several leading human rights activists and lawyers have also been mentioned in these letters.
+
+Also read: A Year Later, Rights Activists Accused in Bhima Koregaon Case Struggle for Bail
+
+Soon after the first round of arrest of five persons – writer and Dalit rights activist Sudhir Dhawale, tribal land rights activist and former Prime Minister Rural Development Fellow Mahesh Raut, Nagpur university retired professor Shoma Sen, Rona, and Gadling – on June 6, at a press conference, the Pune police had claimed that the arrested accused were plotting to kill PM Modi in a “Rajiv Gandhi style” assassination plot.
+
+On August 28, the police arrested four others: Hyderabad based poet and writer Vara Vara Rao, rights activist and lawyer Arun Ferreira, Vernon Gonsalves and rights lawyer Sudha Bharadwaj.
+
+The two volumes of chargesheet, however, don’t go beyond the claims of assassination made in the letters seized.
+
+Curious case of folders ‘cut and pasted’ on Gadling’s desktop
+
+Similarly, in the case of Nagpur-based lawyer Surendra Gadling, the police claimed to have found incriminating evidence in a backup file stored on his desktop. In a detailed news report published this month in Caravan magazine, authors Martand Kaushik and Anjaneya Sivan raised questions about the curious pattern in the “last accessed” timestamps for all the incriminating files.
+
+“The date and time in the timestamps range from “Thu Dec 7 22:04:07 UTC+0530 2017” to “Thu Dec 7 22:05:55 UTC+0530 2017” – a span of one minute and 48 seconds. This suggests that the last thing to have happened to these files is that they were cut and pasted into their current location,” the reporters have pointed out.
+
+Gadling’s lawyer Nihalsing Rathod raised an interesting point while speaking to The Wire. “The charges against these accused are of assassinating the prime minister. Any layperson can tell you to see this conspiracy through, one has to carry out an extremely clandestine conspiracy and it has to go beyond a few wild claims made in purported letters found so openly on someone’s computer desktop,” he said.
+
+Pointing to Gadling’s work as a lawyer, he said, “Gadling has been a criminal lawyer for nearly two decades handling cases of Unlawful Activities Prevention Act and other stringent laws. It is rather silly what the police have claimed in this case so far.”
+
+Also read: Arrests, Summons, Externment: Maharashtra Police Moves Against 200 Activists
+
+Several files found in Gadling’s computer were created and accessed months before his computer was installed. According to the forensic report, Gadling’s computer was installed on November 2, 2017. However, several documents saved on his computer show a date stamp of several months prior to installation.
+
+Police failure to follow the due process
+
+It is important to note that the police was fully equipped at the time of the raid. Along with the Pune police, the local district police, two Panch (who, as per the Code of Criminal Procedure is an independent, respectful person from the locality) witnesses from Pune and a cyber expert had accompanied the police.
+
+Yet, the police did not comply with the procedures of handing over the “hash value”, the numerical value of the digital seal, to the accused persons soon after the raids. These hash values are a crucial piece of evidence as any attempt of tampering made from either side would be recorded as a separate numerical value.
+
+The police have no reason to deny the hash value since they were accompanied by a cyber expert during each of these multiple raids. However, they either did not provide hash value at all or, in some cases, it was given several months later only after defence lawyers submitted multiple applications. In Gadling’s case, it was given only in the month of November – five whole months after his arrest. The police have not yet given any explanation for this delay.
+
+In the case of the video recording carried out at Gadling’s house, the police completed the seizure only a day after the raid, i.e. April 18.
+
+The cases of the witnesses
+
+As per subsection 4 of Section 100 of the Code of Criminal Procedure, the police are deemed to find two independent and respectable persons of the same locality where search raids are to be carried out. These witnesses are called Panch witnesses and are considered to be independent persons testifying in the case.
+
+However, in every raid other than the one at Gadling’s house, the Pune police made use of ‘stock’ witnesses who had travelled with the police team from Pune – thereby compromising the independence of their observations.
+
+Raid without permission
+
+On two separate occasions before raids took places, the Pune police had sought permission to conduct searches at the residences of those arrested and other accused named in the chargesheet. However, these applications were rejected.
+
+While rejecting the police’s application, judicial magistrate of first-class (JMFC) P.T. Shejwal- Kale, in an order passed on March 9, 2018, had observed that, “Nowhere, the investigating officer has mentioned as to why he presumes that, accused will not produce the documents by notice under Section 91 of the CrPC… Hence, I am of the view that search warrant under section 93 of the CrPC is not warranted.”
+
+The police, seem to have carried on with the raid despite this order.
+
+The Wire has tried to contact the Pune police for comments on these discrepancies in the case, but has yet to receive a reply. The story will be updated as and when the police respond.
+
+It has been close to a year-and-a-half since many of those arrested have been in jail. Their lawyers have been running pillar to post trying to secure bail and to keep those named in the FIR who have not been arrested out of jail.
+
+Meanwhile, on December 18, the police submitted draft charges to the Pune sessions court and the court is scheduled to frame charges soon.

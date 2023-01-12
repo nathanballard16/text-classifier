@@ -1,0 +1,17 @@
+WhatsApp to allow users to control who adds them into group chats
+
+SINGAPORE: Messaging service WhatsApp is rolling out new changes that will give its users greater control over who gets to add them into group chats, according to media reports on Wednesday (Apr 3).
+
+Users can choose between: Nobody, which prevents anyone from adding a user to a group; My Contacts, which allows only those who are already on a user’s contact list to do so; and Everyone, where there are no restrictions.
+
+To invite someone who has restricted access to a group chat, users will have to send the invitee a private message with a link to the group chat. The recipient will then have 72 hours to decide if they wish to join the group via the invite link.
+
+The feature, which can be accessed via Settings > Account > Privacy > Groups, will be progressively rolled out to users globally in the coming weeks, though they would need to have the latest version of the app.
+
+The move comes as WhatsApp and its parent company Facebook step up measures to combat the rise of fake news worldwide.
+
+WhatsApp on Tuesday launched a hotline for users in India to flag rumours as the country gears up for what experts say is the biggest election in history.
+
+The spread of viral fake videos and messages on social media platforms has proved incendiary in India, where half a billion people are online but limited digital literacy has helped rumours spread like wildfire.
+
+WhatsApp restricted message forwarding in India last year after hoaxes spread by messages on WhatsApp lead to a spate of mob killings in the country.

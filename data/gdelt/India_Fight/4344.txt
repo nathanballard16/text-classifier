@@ -1,0 +1,35 @@
+Denying govt agencies facial recognition tech would be ‘cruel’, claims Microsoft president
+
+Microsoft's chief shot down calls to stop selling facial recognition tech to governments, saying it would be “cruel” to deprive state agencies of the ability to monitor the public’s every move – despite his own misgivings.
+
+More than 85 human rights groups wrote to Microsoft, Amazon and Google in January urging them to stop selling facial recognition software to government agencies over fears of state surveillance and the potential threat to activists, immigrants and others.
+
+However, Microsoft President Brad Smith told Business Insider – apparently without any irony – that such a move would itself be “cruel in its humanitarian effect.”
+
+Also on rt.com No need to install: Microsoft has controversial fake news filter NewsGuard built into mobile browser
+
+“I do not understand an argument that companies should avoid all licensing to any government agency for any purpose whatsoever,” he said at the World Economic Forum in Davos last week.
+
+“A sweeping ban on all government use clearly goes too far,” the software giant’s president added.
+
+While Smith went on to cite the example of facial recognition being used in research to diagnose the rare DiGeorge syndrome, he also referred to it being used to find missing children in India. Unfortunately for Smith, this latter claim is actually contradicted by the Delhi High Court, which last week slammed the system because it had “not borne any results” or “helped in cracking any missing children case.”
+
+Privacy advocates and civil liberties groups fear facial recognition software will be used to monitor or track people, and are concerned that it can erroneously identify someone as a suspect, not to mention that it has been shown to exhibit racial biases.
+
+Microsoft vows to hand over all its technologies to ‘ethical & honorable’ US military https://t.co/yLzLrVtmKf — RT (@RT_com) December 2, 2018
+
+Activists urging tech companies not to sell software to governments point out that the “break then fix” method typically favored by tech giants simply doesn’t work.
+
+“We are at a crossroads with face surveillance, and the choices made by these companies now will determine whether the next generation will have to fear being tracked by the government for attending a protest, going to their place of worship, or simply living their lives,” the ACLU’s Nicole Ozer warned.
+
+Remarkably, given his recent comments, Smith has voiced his own concerns about facial recognition software in the past, in relation to discrimination, privacy and human rights. Perhaps his position at Microsoft leaves him with a bit of a blindspot, as the company has been found to violate privacy and is guilty of surveillance itself.
+
+Windows 10 was criticized for sending data back to Microsoft and for a lack of user opt-out options, and Microsoft was recently exposed conducting “large scale and covert” gathering of data from its Office users and storing their information in the US, a breach of European GDPR privacy safeguards. In 2014 it came under fire when it was revealed that it read a journalist’s Hotmail emails to determine the source of leaked Windows 8 code.
+
+READ MORE: Ready for Big Brother? Americans increasingly accept unrestricted facial recognition tech
+
+While tech companies may sell facial recognition software to governments for seemingly noble reasons, the technology, much like the companies themselves, can evolve and morph into something other than originally intended.
+
+Smith himself said it best in a December blog post: “The facial recognition genie, so to speak, is just emerging from the bottle. Unless we act, we risk waking up five years from now to find that facial recognition services have spread in ways that exacerbate societal issues. By that time, these challenges will be much more difficult to bottle back up.”
+
+If you like this story, share it with a friend!

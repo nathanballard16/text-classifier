@@ -1,0 +1,69 @@
+With 350 stores in small towns, LinQ is helping people shop from Amazon, buy medicines online
+
+With zero cash burn, LinQ is creating entrepreneurs in Tier II and III cities across Telangana and Andhra Pradesh.
+
+After completing his MBA, 27-year-old Kiran Kumar didn’t want to follow the usual corporate job in a city route. He wanted to become an entrepreneur and contribute to the growth of his hometown, Khammam, in Telangana.
+
+Not very far from Khammam, in Tadipatri, a small town in Anantapur district in Andhra Pradesh, 22-year-old Venkateswara Reddy, after completing his BTech, dreamt of starting a business in technology with minimum investment.
+
+Raghavendra Tadiparthi Cheemala, on the other hand, chose to do entrepreneurship to be financially strong after gaining work experience in the service industry. The 29-year-old wanted to utilise the internet and help his town, Wanaparthy in Telangana gain access to the facilities offered by technology.
+
+All of them turned to LinQ, an assisted e-commerce retail chain, to realise their entrepreneurial dreams.
+
+Founded by Sreeram Juluru (25) and Anirudh Rayaprolu (24), LinQ operates across more than 350 tier-II and tier-III cities in Andhra Pradesh and Telangana.
+
+A LinQ store is an offline super bazaar that brings online shopping in the form of physical stores. Unlike regular super markets which are stacked with wares, a LinQ store has computers and large screens connected to the internet to browse various e-commerce websites. Consumers are greeted by LinQ store assistants who help them to buy products according to their needs and best price availability. The store also showcases sample products, thereby, enabling a customer to check the quality of the product before purchasing.
+
+LinQ has partnered with an various e-commerce services like retail, travel, health care, insurance, pharmacy, money-transfer, matrimony and others under a single platform. The store also provides its customers with exchange and money-return policy.
+
+Arunteja Bukkaparapu, vice President of LinQ, explains that through LinQ stores, customers can shop from Amazon at lowest prices, can order medicines with 20 percent discount and book their travels and holiday packages from Via.
+
+LinQ is creating entrepreneurs by helping them to convert their passion into a profession. We can proudly say that we have created our space in this eco-system with ‘zero cash burn’ till date.
+
+Enabling access to technology in small towns
+
+Sreeram and Anirudh, alumni of BITS Pilani, noticed that people in semi-urban, small towns and cities were reluctant to shop online; they were sceptical about the credibility of digital services. Despite the government’s push for a Digital India and an ever-increasing internet penetration in tier II and III cities, online shopping remained a relatively new concept.
+
+Stay Updated Get news and updates from the world of social entrepreneurship Please fill in this field. {{#error}} {{error}} {{/error}} {{^error}} Something went wrong. Try again later {{/error}} Welcome Onboard ! You have been successfully registered for our daily newsletter.
+
+Addressing this opportunity and need, LinQ was conceptualised in 2016. The pilot store was started in Tiruvuru in Krishna district, Andhra Pradesh, and since then the team hasn’t looked back.
+
+Arunteja says,
+
+The use of internet and the number of people who shop online in rural India is very low. We wanted to target the bottom of the pyramid as this is where many internet services and brands are struggling to get to. We wanted to be a focal point for brands and act as marketing hubs to promote sales.
+
+While none of the core team members had prior experience with entrepreneurship, their passion to help the society, and explore the existing opportunities, despite the risks, brought them together to a common platform. They set their base in their residence city, Hyderabad.
+
+Building a team of entrepreneurs
+
+The trio designed a franchise business model, where they invited budding entrepreneurs from small towns to execute the LinQ store models in their respective areas. The main criteria for expansion and selection of franchise partners was whether they shared the same passion and beliefs.
+
+Arunteja explained that they easily connected with people who were keen on the idea, and had seen the problem. These aspiring entrepreneurs were willing to push e-commerce and Internet’s probe in their hometowns.
+
+We wanted like-minded people to join us, individuals who wanted to settle down in their home towns with a good business opportunity, and who saw themselves as entrepreneurs in the technology space.
+
+The overwhelming support the LinQ founding team received was unprecedented.
+
+Since the franchise owners were expected to have sound knowledge about technology and the digital world, the selection process was rigorous. While they focused on creating a “strong trust factor and a credible brand value,” Arunteja recalled that few entrepreneurs deposited the required money to start their own franchise without even meeting the core team personally.
+
+An investment of Rs 2 lakh is required to get the store up and running, however, it may vary from store to store based on the demographics. Realising they that most of their franchise owners were first time business owners themselves, the team provided support till 2am in the initial days.
+
+While the enthusiasm for store ownership is spreading across the two states, the LinQ team has limited its growth to one store per location.
+
+Initially, it took a month to close a deal whereas now a lead is getting converted in minutes. We keep in touch with the team every day, solve their issues and provide support to enable the franchise owners to learn and grow individually, Arunteja explains.
+
+Through performance incentives and a credit system, the team monitors and evaluates the performance of each store.
+
+The team has developed an in-house software using Python and React Javascript connecting all the store owners to receive training and regular updates from LinQ.
+
+Within a year of its inception, until June this year, there were 100 franchise stores. Within a span of three months with the help of social media and word-of-mouth publicity, 300 plus stores opened across Andhra Pradesh and Telangana. The organisation claims they have grown 12 times and have served over 60,000 customers till date, with an average footfall of 15 customers per store on daily basis.
+
+Bridging the gap
+
+The stores are addressing the shopping and commercial needs of small towns and cities. The team is connecting consumers with Amazon, NetMeds, Gati, Via.com, Rubique and Hitachi offline in the form of physical stores, 150 square feet (up to 300 square feet), in the busiest market area.
+
+Arunteja says that people are unwilling to shop online because they either don’t know how to or are not able to handle the nitty-gritties of online shopping.
+
+LinQ Store takes the responsibility of supporting the customer right from their shopping experience to hassle free delivery/installations.
+
+In the coming years, LinQ aims to spread its franchise across India by creating micro entrepreneurs in rural areas and towns, thereby, helping them to gain access to technology and e-commerce websites such as Amazon offline.

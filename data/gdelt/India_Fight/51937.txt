@@ -1,0 +1,77 @@
+In the heated cloud kitchens race, Kitchen United aims to kill with kindness; here’s its playbook – TechCrunch
+
+Cloud kitchens, ghost kitchens, dark kitchens. No doubt by now you know a little about these businesses that are moving into underused or more affordable properties that can be turned into shared workspaces for the purposes of cooking up meals exclusively for delivery.
+
+You probably also know that former Uber CEO Travis Kalanick has been at the forefront of the trend for more than a year, growing his CloudKitchens business as fast as he can, fueled in part by $400 million that he quietly raised from the sovereign wealth fund of Saudi Arabia earlier this year. Sometimes these are in the U.S., in so-called opportunity zones or lower-income areas that, under the Trump Administration, are enabling businesses to set up shop and avoid federal taxes in exchange. Kalanick is also reportedly eyeing big moves into both India and China.
+
+CloudKitchens has competition, though. In fact, among a growing number of rivals, its fiercest competitor is Kitchen United, a Pasadena, Ca.-based outfit that has raised roughly $56 million to date from investors including GV, Fidelity, and the real estate operating companies Divco West and RXR Realty, among others — and which has turned down hundreds of millions of dollars more for the time being.
+
+Does its founder, a tech veteran-turned-restaurateur Jim Collins, not understand the opportunity before him? It was one question among many that Collins answered last week at a StrictlyVC event in San Francisco where he dazzled the crowd with his comic timing — and his tactics. The interview — conducted by former TechCrunch editor and now CNBC reporter Lora Kolodny — also provided one of the best overviews we’ve heard to date of what this fast-ballooning industry is really about. Their conversation has been edited lightly for length.
+
+On Collins’s background:
+
+I did tech companies for a bunch of years and sold the last one off about 10 years ago, and i said i never want to work with venture capital people again. [Laughs.] That’s sort of true but not completely. Honestly, I was burned out, it was a grind. [One day] there was a restaurant up the street for sale. I walked up the street and bought the restaurant…
+
+On how he came to run Kitchen United:
+
+[Our restaurant] is in Montrose outside of Los Angeles . . . and about a year-and-a-half ago, we started getting people at the door, saying, ‘Yes, I’m from Postmates’ or ‘DoorDash’ or ‘UberEats’ and ‘I’m here to place an order.’ Because we weren’t signed up on any services, I was like: What is that? I was so far outside of my past world that I didn’t even know what it was. But all of a sudden, it was a thing and [it was growing], and one day, a headhunter who I knew well called me up and said, ‘Hey, I want you to take a look at food thing.’ So he sent me a job description for the CEO role at Kitchen United, so I went and met the founders — the two folks who were with the company at the time — and I kind of fell in love with them and felt like it was a big idea that we could go after.
+
+What they pitched him on, and why he didn’t think it would work:
+
+The original business plan was, ‘Robots and autonomous cars are going to change the food business, so we need to be ready for that, so let’s build kitchens!’ And I said, ‘I think that’s actually true . . . in 10 years. The problem that the restaurant industry is experiencing because of the explosion of the shift in consumer demand and consumption isn’t a robots-and-autonomous-cars problem. It’s a proximity problem, and proximity is a problem we can solve tomorrow while we’re waiting.
+
+What Kitchen United is building exactly:
+
+We build kitchen centers. Basically you go into a space that’s $25 per square foot that no one has rented in 20 years, so we’ll take that space and put a bunch of kitchens in it. We also install a lot of technology — IoT, conveyer belts, all kinds of display information; we use machine learning to understand fire times — a whole series of things that go into deploying a kitchen center. Then we build a pick-up center in the front of the space that’s kind of the retail interface where drivers from Ubers, Postmates, DoorDash, Cavier, GrubHub (and seven other services can pick up the food) and [consumers can also grab pick-up].
+
+There’s a thing called shared kitchens, which means that I’m going to go and cook in a space this morning, and when I’m done, somebody else is going to walk in this afternoon and cook in that same space. That’s not our business. Ours is effectively creating four-wall spaces for known restaurants to operate inside of our facilities for the purpose of extending their reach to meet new markets for delivery and consumer pick-up.
+
+On whether Kitchen United is raising more money soon:
+
+I don’t think so. We closed our Series B about six weeks ago.
+
+It’s weird to be an entrepreneur in this world. There are two different operating methods that you’re encouraged to pursue if you’re going after a hot space. You’re either encouraged to be the biggest and fastest and to take as much money as you possibly can so you can be the biggest fastest, right? Or you’re encouraged to work hard and build a great business and then once you’ve built a great business, go out and get lots of money so you can build it.
+
+Honestly, I felt like this business was so complex, that we had to learn about elementary stuff, like, where do we build these? Where’s the right place to put ’em? When we first started, we had meetings with big investment firms that were saying, ‘We’ll put $250 million against a $750 million valuation right now.’ That was the first conversation, when it was really like, we’ll put $8 in against whatever [laughs]. But when we were having that conversation, I’m flying home, thinking, $250 million? How would I deploy that? And they’re saying, ‘Well, you just go out and buy a bunch of warehouses in opportunity zones, and put kitchens in them, and it’ll be a great business! It’ll be awesome and you’ll own the market!’
+
+Except warehouses in opportunity zones are too far away from consumers for food to get there fast enough for consumers to want to order from those restaurants. So I would have deployed $150 million in venture capital on brick walls and dry wall and stoves and vents and plumbing — like, ugly stuff. And once that stuff is deployed, it isn’t like it’s so easy to pick it up and move it someplace else.
+
+How Kitchen United competes, if not in a land grab:
+
+Most conservative projections for this space over the course of the next four years are that we’re going to go from somewhere around $30 billion today to around $230 billion, so people come along and people say, ‘This guy is in this business and he’s got all this money’ or ‘This company has raised this much to put to work; does that make you nervous?’ And the answer is, if we go out and build 3,000 of these things, we build like the fourth-largest restaurant chain in the U.S., we’ve only addressed about 40 percent of the total market. So when I look at it from a pure antiseptic, practical perspective, the fact is we need other people in the space, helping us solve the problem. And honestly, to the extent that other people are learning from us and getting better, and we’re learning from others and getting better, I think the competition isn’t a bad thing, I think it’s a good thing. (Here, Kolodny teased him for his “very diplomatic answer.”)
+
+On what makes Kitchen United distinct from its long and growing list of rivals:
+
+First, we decided the U.S. is a giant market, so we decided to focus here on the U.S., despite requests probably once a week from somebody saying, ‘Come to Saudi Arabia’ because it turns out it’s hard to build kitchens anywhere in the world, and we’re pretty good at building them.
+
+The other thing we did . . .[is decide to play nice with Kitchen United’s two biggest customers — major food chains and delivery services]. I don’t want to boil the ocean. I don’t want to be a restaurant; I don’t want to cook food for consumers. There are 800,000 restaurants in the U.S., so let’s let them cook food and let’s come alongside them and help them expand what they are doing into new areas. . . . Our whole job is to expand the inventory for the [delivery] marketplace, expand the addressable market for the restaurant, and expand options for consumers so that we have a great business for all the various markets that we’re serving.
+
+On the criteria to become part of Kitchen United:
+
+We don’t work with startup restaurants. We don’t work with people that only have one location. When we started, we didn’t know what would work so we brought in all kinds of restaurants and ended up having to kick most of them out because either they didn’t know how to be a restaurant or they didn’t know how to be a multi-location restaurant. This is true of the ghost kitchen community as a whole: if you’re a restaurant and you don’t already have a consumer connection and an audience and a following and you try to open in a space with no consumer interface, no storefront, you have to climb a giant mountain.
+
+There are some virtual restaurant brands. We have one in our location in Chicago. They were people who had operated multi-location restaurants and had a tremendous amount of internet marketing savvy and skill, so we decided to let them operate and they’re actually doing pretty well, so that’s an interesting new wrinkle.
+
+On whether anything disqualifies a business from using Kitchen United as a platform:
+
+Yes, a lot of large chains that will say we want to be in Kitchen United. We were at a big real estate development conference in Las Vegas and there were probably 20 chains that talked with us about being in KU and probably 18 of them would not qualify.
+
+You’d like to think [that’s on a nutritional basis]. One thing we’ve learned isn’t to filter what the American consumer wants; our job is just to provide a path for them to get what they want.
+
+The actual challenge is giant chains that have very little ability to create an online connection to their consumer. If they don’t have sophisticated online ordering interfaces, if they haven’t deployed the right technologies into their ERP and their ordering infrastructure and all the stuff that goes into the back end, then they aren’t going to be a good fit for KU because of the operational problems they have to overcome is just too great.
+
+On how Kitchen United uses the data that’s running through its operations:
+
+It’s a hot topic. We’re pretty careful. KU is a partner to our restaurants, and so we learn information through our own order channel. We don’t derive much information through the marketplace channels. There’s sort of a misnomer that when the marketplaces deliver orders . . . all we know is a consumer name, we don’t know an address or any of the other information. So you don’t get a lot of data like that.
+
+Information we do get is stuff like how many chicken sandwiches a Chick-fil-A is selling or whatever. And you might think, ‘Oh cool, so you’ll just make a chicken sandwich [of your own] when Chick-fil-A closes down and you’ll sell it to the public.’ The restaurant world is very nervous about that; it’s a big topic in this space. If you go to restaurant conferences, there are a lot [accusations of], ‘They’re stealing my data.’ I’m the guy on stage saying, ‘It’s their data [the delivery marketplaces]. They attracted the consumer, they got the order from you. It’s their data. They aren’t stealing your data, it’s their data; you chose to allow them to sell your product on their network.’
+
+But [also] it’s not as easy as that. You can’t just whip up a fried chicken sandwich and make consumers like it. The world is littered with even more failed restaurants than failed startups.
+
+What happens to neighborhoods — and local restaurants — if Kitchen United succeeds:
+
+The restaurant industry is huge — $800 billion in the U.S., $675 billion if you discount hospitals and stuff like that. [This take-out market] is somewhere around $33 billion this year. So we’re edging into it as a percentage, but if you look at dining room revenue year over year for the last 20 years in the U.S restaurant industry, it grows 1% per year, which is pretty much consistent with population growth. And the same is projected to be the case this year.
+
+So restaurants aren’t dying because of marketplace delivery. Marketplace delivery is actually pulling business out of grocery stores. That’s why you see Kroger and Amazon and other grocery store chains plowing down rows of [goods] and installing warm counters with warm food and you’re seeing grocery chains focus on delivery.
+
+It’s the wild west. It’s a crazy market and I absolutely, positively love it. It’s not a question of what gets me up in the morning. I never go to bed.

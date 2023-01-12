@@ -1,0 +1,57 @@
+How Facebook’s Cryptocurrency Libra Poses A Serious Threat To Developing Countries’ Sovereignty
+
+Despite some big names ditching the Libra Association, Facebook went ahead and launched a new digital currency called Libra.
+
+Out of the 27 potential members, several like Paypal, Visa, Mastercard dropped out, and the Libra Association on Monday formally signed on 21 members in Geneva. The association is a non-proft body that will govern the currency.
+
+Uber, Lyft, Spotify and Vodafone are some of the association’s members, apart from several venture capital firms. The Association claims that 180 other entities have also expressed the interest to join.
+
+Francis Ang, founder and CEO of Kozjin, called the launch of Libra “massive for the blockchain and cryptocurrency industry".
+
+“Their aim is to build a payments network by creating an online ecosystem on which users can buy things and pay each other. Facebook has a relationship with seven million advertisers and 90 million small businesses—we can only imagine how huge the Libra community will be," he was quoted as saying by the Livemint.
+
+How is Libra different from other cryptocurrencies
+
+Libra doesn’t have the first mover’s advantage when it comes to cryptocurrencies. Currently, over 1,600 cryptocurrencies are operating globally with new ones emerging every week.
+
+Bitcoin, followed by Ripple, Ethereum and Tether together account for about 90 per cent of the market capitalisation.
+
+Also, Bitcoin and Ethereum work as a ‘permission less blockchain’, while Libra will be a ‘permission blockchain’, that is, an ordinary user of the currency will require authorisation to carry out transactions.
+
+The real revolutionary power of a cryptocurrency lies in being ‘permissionless blockchain’ as it is out of the bounds of single points of failure and national censorship. The permission blockchain faces scalability issues. Even the best of permissionless blockchain networks cannot match the speeds of Visa and Mastercard, as of now.
+
+Facebook is also positioning Libra more as an asset rather than a bitcoin-style cryptocurreny. In its white paper, Facebook had stated that Libra will be a “stable currency built on a secure and stable open-source blockchain, backed by a reserve of real assets—a collection of low-volatility assets, such as bank deposits and short-term government securities in currencies from stable and reputable central banks.”
+
+Libra, therefore, is called a ‘stablecoin’.
+
+Therefore, unlike bitcoin, which functions purely based on demand, with a limited amount of currency in circulation, without any concrete asset backing it, and based on algorithms without any external governance structure, Libra will be backed by “real assets" and controlled by the Libra Association.
+
+Libra, therefore, may be nothing but a ‘Low yield Government Bond on a Blockchain’, to quote Jayanth Kolla of Convergence Catalyst.
+
+Facebook claims that this will ensure stability and reliability of the currency.
+
+Why Libra is facing criticism
+
+Not everyone shares the same enthusiasm for Libra. Since its parent company Facebook announced its intention of launching a digital cryptocurrency, the social media giant is under fire from policy makers as well as privacy rights advocates.
+
+Many find the formation of a separate entity- Libra Association- for governance of Libra as inadequate, and fear that Facebook's struggles with protecting users' privacy would spill over into the currency domain.
+
+Even if at arm’s length, Facebook is still involved. David Marcus, a Facebook executive and co-creator of Libra, is one of the five directors of the Association.
+
+Katie Haun with Andreessen Horowitz, one of the VC firms that invested in Facebook before it went public, was elected to the board as well.
+
+Nobel laureate economist Joseph E Stiglitz has argued that Facebook’s repeated failures to respect user privacy should disqualify it from a foray into finance and banking.
+
+Due to Facebook’s massive user base of nearly four billion users globally and over 700 million users in India alone, Libra poses a serious challenge to the monetary sovereignty of the countries.
+
+Currently, fiat money-a currency backed by the sovereign- is the primary mode of transactions. The central banks of different countries, in discussion with the government, regulate the supply of this currency. This forms the backbone of the monetary sovereignty of a country.
+
+With a digital cryptocurrency like Libra gaining ground, the government would lose control over the monetary policy. The controls to regulate capital flows will be more easily evaded, and the economies will be fully exposed to the foibles of global financial markets.
+
+If the value of the assets backing the Libra falls and becomes inadequate to redeem all the Libra in circulation, the situation will be equivalent to a bank run, except that there will be no lender of last resort.
+
+Libra, therefore, poses to economic and financial stability. Even if the Libra Association takes responsibility for the same, in partnership with the government, it will still amount to leasing out of the sovereign power to a private entity.
+
+The currency can also be misused for tax evasion, money laundering, and terrorist finance.
+
+Libra’s promoters argue that the currency will provide significant social benefits like lowering the cost of cross-border payments and remittances, and providing financial services to the unbanked masses. However, these objectives can be achieved via other means which are safer and more respectful of individual privacy.

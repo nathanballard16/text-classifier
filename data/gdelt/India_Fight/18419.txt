@@ -1,0 +1,27 @@
+WhatsApp gets much needed privacy feature: Say good bye to pesky group chat invites
+
+Last month, a report emerged that WhatsApp testing new privacy feature that will give more power to the messenger user to decline group invite unlike before where anybody could just add anyone to a group without the latter's permission.
+
+Now, WhatsApp has finally released the new update to its messenger app for both the iOS and the Android versions, bringing the aforementioned feature.
+
+Here's how the new privacy feature works:
+
+With the new update, a WhatsApp group admin has to send a private message to get prior permission from a user before adding the latter to the group. This is a welcome move, as many and myself too, been a victim of people adding to unwanted groups and I had to leave the community only to be added again into the same group.
+
+If the user rejects the request, the admin will never be able to add a person to a group without the permission.
+
+To enable it, go to Settings in your app, then tap Account > Privacy > Groups and select one of three options: 'Nobody' or 'My Contacts' or 'Everyone'.
+
+If you select 'Nobody', you'll have to approve joining every group to which you're invited, and 'My Contacts' means only users you have in your address book can add you to groups.
+
+In those cases, the person inviting you to a group will be prompted to send a private invite through an individual chat, giving you the choice of joining the group. You'll have three days to accept the invite and if you don't reply, it expires automatically.
+
+If you select 'Everyone', all those in your contacts and also unknown random people can just add you into a group chat without your permission. Readers are advised to not to select this option.
+
+"With these new features, users will have more control over the group messages they receive. These new privacy settings will begin rolling out to some users starting today and will be available worldwide in the coming weeks to those using the latest version of WhatsApp," the company spokesperson said in a statement.
+
+In a related development, WhatsApp is testing 'reverse image search' feature, which will help user fact check whether the photo is fake or original.
+
+As per the image (above), we can see there is a new 'Reverse Search image' feature and if you select yes, it will upload the forwarded image to the Google browser and match it with the vast visual data available on the Internet. This will apparently give you a clear idea whether the image is a morphed photo used to project a particular person (or a political party) is bad or a saviour.
+
+It remains to be seen if the new image search feature comes before the Lok Sabha 2019 election in India, which is scheduled to kick off on April 11 and conclude on May 19. The counting of votes will be held on May 23.

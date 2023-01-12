@@ -1,0 +1,39 @@
+How Microsoft is dealing with the growing threat of cybercrimes
+
+Data is the new oil. Like oil, millions of data barrels are being generated all over the world. And like oil infrastructures, smart devices which produce data can also be attacked. Defending businesses and organisations against such cyberattacks has become a challenging task as digital crimes are getting more nuanced by the day.
+
+Lately, technology giant Microsoft has emerged as an important player in cybersecurity business. It invests over $1 billion annually on cybersecurity research, and has more than 3,500 employees working on related projects. Their security verticals such as Microsoft Threat Intelligence Center and Digital Crimes Unit are encountering and neutralising threats across the world by working along with international organisations such as the Interpol, and local agencies in many countries as well.
+
+Proliferation of smart signals
+
+The world is getting more connected by the day. This is made possible by the rapid increase in smart devices and the billions of signals that they produce. “By 2025, we may have 80 billion connected devices which will generate 180 zettabytes of data,” said Diana Kelley, Microsoft’s cybersecurity field chief technology officer.
+
+But the flip side is, as the data produced by these devices are stored digitally, they are vulnerable to theft. In the case of companies, their customer data, and in the case of organisations, the beneficiaries data, are often targets of hackers.
+
+According to Diane Boettcher, service practice leader with Microsoft, on an average cyberattacks cost $4 million to a company. “A security breach could range from low impact to a major incident where administrative access to enterprise IT systems is compromised,” she said. While stopping all attacks is impossible, Ms. Boettcher said, “rapid detection and response capabilities are essential to protecting ones business”
+
+Microsoft is a prominent player in this threat detection and analysis stream. It analyses billions of e-mail attachments in its outlook product every day. Close to five billion threats are getting detected every month on its operating system worldwide. Other products such as OneDrive, Bing web pages and other Microsoft accounts are routinely searched for threats and reported back.
+
+Human angle
+
+Cyberattacks have also presented a new challenge for companies in terms of human resources. The battle against attacks needs workers who are skilled to carry out the defence. According to a report by Information Systems Audit and Control Association (ISACA), three in five organisations have unfilled cybersecurity positions. About 54% of organisations surveyed said that it took three or more months to fill up such positions.
+
+In a survey conducted by Enterprise Strategy Group of 343 cybersecurity professionals in 2017, 63% of respondents felt that lack of cybersecurity skills and qualified persons increased the workload of existing staff. And 43% of those surveyed said that most of the cybersecurity staff spent time on fire-fighting after an attack, while very limited work hours were spent on prevention.
+
+Microsoft addresses this skill gap using their Microsoft Professional Online Program, which teaches key tech skills and concepts, which include cybertraining.
+
+Data crime unit
+
+Apart from businesses, individuals’ bank accounts and identity information are also prime targets of fraudsters. Phishing e-mails and pop-ups are the usual modes of attack, said Mary Jo Schrade, Regional Director, Digital Crimes Unit, Microsoft Asia. “In the past, if I have to rob a house, I have to be physically be present in the house. The risks were quite high. Now, a person can sit in Singapore and attack someone in Norway,” she said, explaining the complexity in cracking cybercrime cases.
+
+Ms. Schrade explained that scamsters need not be tech-savvy as malwares were available for a price in the dark web. “The malwares can be downloaded, tweaked according to the needs, and used against a company or an individual,” she said. These types of crimes are handled by Microsoft’s digital crimes unit, a group of attorneys, paralegals, investigators, data scientists and digital forensic specialists,who focus on both preventing and aiding police to solve digital crimes all over the world.
+
+Anup B. Kumar, a former Central Bureau Of Investigation (CBI) officer, who is presently serving the Microsoft Digital Crimes Unit as principal investigator, said that databases of vulnerable people who were easy targets and had been tricked before were available on the dark web for sale. “Because they know that once you are fooled, you are vulnerable and fall for tricks again. Scamsters, instead of wasting their time on cold calls, can download such databases and target such people directly,” he said.
+
+Mr. Kumar said that it was important for Microsoft to fight against cyber crime as the company’s brand was one of the most misused by scamsters to fool victims. As Microsoft’s Windows OS is widely used, their customer base is wide and thus the potential victim pool is also large.
+
+The biggest challenge that Microsoft faces in such cases is the location of crime. “The victim will be from one country, the payment gateway used by perpetrators will be from a different country. Similarly, the money will be routed across multiple locations, while the call centre which is where the scamsters are sitting will be in another country, whose IP domain keeps shifting from one location to another,” Mr. Kumar said, explaining the complexities involved in busting such groups.
+
+Call centres in India are the main perpetrators of this type of crime. 97% of attacks which used the Microsoft brand name originated from India, Mr. Kumar said. One of the most successful and recent operations involving Microsoft came when the City of London police, along with the cyber division of the Kolkata police, made several arrests and shut down two call centres in the city which had defrauded thousands of victims in the U.K. alone. The operation was conducted by the U.K. police along with Microsoft as a part of a world-wide four-year-old operation.
+
+(The writer was in Singapore at the invitation of Microsoft)

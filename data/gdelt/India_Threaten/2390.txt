@@ -1,0 +1,19 @@
+Indian telecom regulator’s conspiracy theory about Aadhaar data leaks sounds a lot like Mukesh Ambani’s claim
+
+Chief of the Telecom Regulatory Authority of India (TRAI), RS Sharma, is claiming that private data companies are behind undermining the privacy and security of the Aadhaar unique ID system.
+
+He contends that since India generates the most amount of data in the world, private data companies want to set up their own digital ID systems to capitalize on that opportunity.
+
+Mukesh Ambani, chairman of Reliance Industries and the richest man in India, also made a similar statement about the importance of keeping the data of Indian users within the country.
+
+"My suspicion, I will have to prove that, but based on circumstantial evidence, we think that many of data companies are behind Aadhaar issue. They want to create their own identity system." RS Sharma at 'International Colloquium on Ethics and Governance of Autonomous AI Systems'
+
+Advertisement
+
+Advertisement
+
+"In this new world, data is the new oil. And data is the new wealth. India's data must be controlled and owned by Indian people and not by corporates, especially global corporations.” Mukesh Ambani at the Vibrant Gujarat Summit
+
+Advertisement
+
+The Telecom Regulatory Authority of India (TRAI) chief, RS Sharma, is alleging that there’s a conspiracy afoot to undermine the authority of the world’s largest biometric identification system by private data companies in the country.Sharma asserts that not only are data companies trying to undermine Aadhaar’s privacy framework, but they’re doing it in an attempt to set up their own identity systems.The Aadhaar digital identification system has been under scrutiny for its privacy issues since its inception. Despite repeated affirmations Sharma and the introduction of two-layer security system — citizens aren’t convinced Sharma asserted, “Why would somebody want a national identity to develop and become national digital identity register. Many of these opposition (to Aadhaar) are happening because of these guys (data companies). They think that they should develop ID for the world.”Sharma contends that India generates nearly six exabytes of data per month — making it the highest in the world — and that is of interest to corporations.Mukesh Ambani, the head of Reliance Industries and the richest man in India, also warned against data colonisation at the Vibrant Gujarat Summit in January propagating that ownership of Indian data needs to stay within India.Similar to Europe’s General Data Protection Regulation (GDPR), India has been working on its own Personal Data Privacy Bill. TRAI explained that accountability, autonomy and security are integral for it to be an efficient ‘Data Controller’ in its report, the ‘Privacy, Security and Ownership of Data in the Telecom Sector’.

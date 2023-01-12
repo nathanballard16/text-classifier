@@ -1,0 +1,19 @@
+Here's How Trump's Tariffs Hike May Affect Prices for PC Parts
+
+On Friday, President Donald Trump raised the tariff rate on $200 billion worth of Chinese imports from 10 percent up to 25 percent. So how might this affect your next PC purchase?
+
+The tariff list covers a lot of computer parts, including motherboards, graphics cards, CPU coolers and even desktop cases. TVs, digital cameras and internet modems have also been ensnared as well. However, smartphones and fully assembled PCs have been spared.
+
+Whether you'll see an actual price hike will depend on various factors. For one, Trump's tariffs increase carves out an exemption for cargo ships that are already bound for the US. The packaged goods on these ships will be tariffed at the original 10 percent rate.
+
+Retailers are also still going through their existing stock of goods. So it'll take some time for the new import duties to ripple through the industry's product supplies.
+
+Still, it's true that many electronics are assembled in China. So to avoid the tariffs, some big-name vendors have been trying to move their product manufacturing to other countries. For instance, motherboard and graphics card maker Asus has been shfiting its manufacturing to Vietnam and Taiwan ever since the initial 10 percent tariff rate went into effect back in September. "The impact (of the new tariffs) will be minimal because we adjusted before," company executives told investors earlier this week.
+
+Lenovo, on the other hand, has said the PC maker already has a geographically diverse manufacturing base. This has allowed it to ship non-Chinese made products to the US, and avoid the tariffs. "We have factories in the United States, Mexico, China, Brazil, Hungary and India," Lenovo executive vice president Kirk Skaugen told investors back in November. "If anything we think this (the tariff impact) is a benefit to Lenovo than to our competition."
+
+But not all have been so lucky. The tariffs have worried smaller PC hardware vendors, who are more reliant on Chinese suppliers. Last October, desktop case vendor NZXT told PCMag it had no choice but to raise prices on its products in response to the initial 10 percent tariff. "I don't have a 10 percent [profit] margin I can just throw away and absorb the tariffs," said NZXT vice president Jim Carlton at the time. "And certainly no one has a margin for 25 percent."
+
+Even Dell, a company with manufacturing in North America, had to raise some prices following the initial 10 percent tariff rate. "Where we have incurred higher cost with tariffs, we have passed that through to end users," Dell's vice chairman Jeff Clarke said last November in an earnings call. "Interestingly, we haven't seen an impact or no apparent impact to demand as we've done that," he added.
+
+Time will tell if the new tariffs will cause a bigger impact. But of course, it's also possible the White House will soon strike a deal with the Chinese government to resolve the ongoing trade war. "Over the course of the past two days, the United States and China have held candid and constructive conversations on the status of the trade relationship between both countries," Trump tweeted on Friday. "The relationship between President Xi and myself remains a very strong one."

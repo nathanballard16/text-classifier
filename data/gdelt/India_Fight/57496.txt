@@ -1,0 +1,7 @@
+Tech Alert: Microsoft Killing Off its Virtual Assistant Cortana for all Markets Except US
+
+In a recent development, Microsoft has confirmed that the company was killing off its virtual assistant Cortana for Android and iOS and removing Cortana from its Launcher app for Android from January 31 in India, Australia, Canada, China, Germany, Mexico, Spain, and the UK.
+
+However, the app will still be available in the United States.
+
+Andrew Shuman who leads the Cortana team told American technology portal VentureBeat on Monday, that the Cortana mobile app (and Cortana integration in Microsoft's Android launcher) was being phased out in all countries except the US.

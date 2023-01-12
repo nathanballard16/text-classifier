@@ -1,0 +1,27 @@
+Chandrayaan-2: Chennai engineer’s Vikram Lander discovery boosts citizen science in India
+
+Using tools available on the Gaia Archive website, he said new types of light sources in the galaxy, like stars, and even “new aspects of physics, could be discovered when the data are studied systematically, extensively and in a suitable way, with the guidance of professional astronomers”.
+
+The discovery of Chandrayaan-2’s crash site by NASA, aided by Indian engineer Shanmuga Subramanian, is a shot in the arm for ‘citizen science’ in India and abroad with the free availability of data enabling amateurs to reach for the skies – sometimes literally.Citizen science involves the collection and analysis of data relating to the natural world by members of the general public.The crash site of Chandrayaan-2’s Vikram lander was discovered thanks to the availability of data from the American space agency for common citizens to analyse and interpret. Chennai-based mechanical engineer Subramanian did just that.
+
+Also Read | ISRO’s Vikram Lander: Chennai-techie Shanmuga Subramanian reveals how he got his eureka moment
+
+NASA’s Exploration Mission Planning Office Chief, Nujoud Fahoum Merancy commended Subramanian’s efforts and acknowledged the role of citizen science in a tweet.
+
+“Very cool to see citizen science in action with #NASA LRO! Good work @Ramanean!” she said. But this community-based approach to science has to be a collaborative effort with professionals guiding every step, cautions astrophysicist Sudip Bhattacharyya of the Tata Institute of Fundamental Research (TIFR) in Mumbai.
+
+“It is essential that most citizen efforts, which aim to utilize the data of cosmic sources for scientific progress, should be guided by expert professional astronomers,” Bhattacharyya told PTI in an email interview. He reasoned that such expert guidance is particularly required “so that the interpretation of the data does not take a non-scientific route”. In India, citizen science largely contributes to ecology and conservation studies. But the recent application of NASA’s Lunar Reconnaissance Orbiter (LRO) data by Subramanian to find the Vikram lander’s crash site has shown its potential even for other fields, including astronomy.
+
+“Astronomy is rapidly becoming such a free data-driven science, where citizens can participate, make discoveries, say of new planets, comets, asteroids and other cosmic sources, and take part to unravel the mysteries of the universe,” Bhattacharyya explained.
+
+Citing an example, he said the Gaia satellite, a mission by the European Space Agency to chart a three-dimensional map of our galaxy, provides free data on billions of stars.
+
+Using tools available on the Gaia Archive website, he said new types of light sources in the galaxy, like stars, and even “new aspects of physics, could be discovered when the data are studied systematically, extensively and in a suitable way, with the guidance of professional astronomers”.
+
+According to Bhattacharyya, data from citizen science projects require additional expert processing and interpreting them, using the professional knowledge of the subject. In his view, the participation of interested citizens in the process of cutting edge scientific research is extremely important as it can significantly help science take root in society and promote scientific temper.
+
+He said this is possible when a huge amount of scientific data and user-friendly tools to analyse these data are freely available. While citizen science is under the spotlight with Subramanian’s discovery, it has been used in various fields in India.The India Biodiversity Portal initiated more than a decade ago, for instance, is a platform aiming to aggregate data on all species living in India, with a dedicated module running based on citizen science for more than eight years.
+
+A study published in June in the journal Biodiversity Information Science and Standards noted that the portal runs many biodiversity-related citizen science campaigns – such as the Neighborhood Trees Campaign, National Moth Week, Spotting Alien Invasive species, Mapping Indian Snails and Slugs, and Frogwatch.
+
+“We have learnt valuable lessons in harnessing participation in citizen science, implementing functionality and in integrating technological advancements into the platform codebase,” the researchers wrote in the study.

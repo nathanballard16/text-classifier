@@ -1,0 +1,85 @@
+Milkbasket wants to be your corner shop online for daily essentials (and kill your shopping list too)
+
+How this Gurugram-based hyperlocal delivery app is becoming an online replacement for the shop around the corner and using technology to make your life easier.
+
+It is late at night and you just realised you’ve forgotten the milk, eggs and bread needed for breakfast tomorrow. Hoping against hope, you try your neighbourhood kirana store, but it is shut. That’s where the Milkbasket app can help. Put everything you need into the shopping basket and head to bed. Whatever is in your basket will arrive at your doorstep between 5.00 am and 7.00 am the next morning. Without having to check out, or key in your payment details.
+
+The concept is simple. We all have grocery lists, and we still miss out something that can usually be found at a neighbourhood store, if you can catch them at the right time. It is this very list the founders of Milkbasket wants eliminated.
+
+They don’t want you scrambling to jot down what to order when you run out of everyday stuff for your pantry. They don’t want you to bother with a minimum order value to get a free delivery, either. Nor do they want you to have to rush home to receive an order that you’ve placed or pick out last minute items from a nearby store.
+
+(L-R) Founders of Milkbasket - Anant Goel, Ashish Goel, Anurag Jain, and Yatish Talvadia.
+
+[Also read: Why Kalaari Capital found value and invested in micro-delivery platform Milkbasket]
+
+Why checkout?
+
+“Even with all the e-grocery players, we all get that one phone call from home asking us to pick up something on the way back (because it’s needed for the next morning). On a work day, finding the time to go to a store is difficult, and after 9.00 pm, the stores aren’t open. This means there is a blackout period even for online hyperlocal delivery startups,” points out Anant Goel, Co-founder and CEO Milkbasket.
+
+On the Milkbasket app, items you add to your shopping cart between 7.00 am and midnight are delivered to you the next morning. And there’s no need for a checkout or payment because the purchase is pre-paid via a mobile wallet on the app, which you can top up whenever you run out of funds. So, every time you choose an item on the app, the order is automatically placed without the need for a traditional ‘checkout’ or payment.
+
+Groceries are something you need, unlike clothes where you might want to think about whether you want to actually buy an item you put in your cart. “If you have already decided which product you want, you should be able to place an order right there; especially for groceries,” Anant adds.
+
+Stay Updated Get stories of change makers and innovators from the startup ecosystem in your inbox Please fill in this field. {{#error}} {{error}} {{/error}} {{^error}} Something went wrong. Try again later {{/error}} Welcome Onboard ! You have been successfully registered for our daily newsletter.
+
+Founded in 2015 by Anant, Ashish Goel, Anurag Jain and Yatish Talvadia, Milkbasket has so far raised $16 million in funding from Mayfield Advisors, Beenext, Kalaari Capital, Unilever Ventures, Lenovo, and Blume Ventures.
+
+A third-time entrepreneur and management consultant, Anant knew he wanted to start up in the B2C space. But grocery wasn’t his first choice. It was after trying his hand out in property management and painting services that Anant and his co-founders looked at grocery.
+
+“Ashish used to use the service ‘Milk and More’ in the UK. It used to deliver milk and groceries every alternate day to his home. (The service has since shut down.) We realised we needed a service like that in India,” Anant says.
+
+Milkbasket entered the e-grocery and hyperlocal market at a time when it was already crowded. The landscape was dominated by players like BigBasket, Grofers, LocalBanya, and Peppertap, who had raised large rounds of funding, and were following aggressive customer acquisition strategies.
+
+The only way Milkbasket could survive the highs and the lows that followed in 2016 was by creating a strong differentiator. Anant points out that Milkbasket isn’t competing with the online grocer players or hypermarkets but the mom-and-pop stores in every neighbourhood.
+
+Milkbasket Team
+
+[Also read: “It is easy to give discounts but 30 percent off on Atta is not solving a problem for the customer!” — Anant Goel of Milkbasket]
+
+Milking an existing behaviour
+
+But then, the team also knew what it was up against and realised that if it wanted to bring about a consistent change in consumer behaviour it couldn’t hinge all its plans on luring them with deep discounts. It needs to happen on top of an existing behaviour pattern that people were used to.
+
+The challenge, therefore, was to figure out other ways to stand apart. The one thing that India is used to is having milk delivered to its doorstep in the mornings. That delivery model has worked successfully, and like clockwork. So before they started up, the four founders went knocking on the doors of over 50 doodhwalas (milk vendors) and doodhwala stores in Gurugram.
+
+“Everyone warned us that it is the worst business as there are no profits. So our next question was, ‘why get into the business at all?’ And the answer to that was when customers come to buy milk, they end up buying other items,” Anant says.
+
+What about the money?
+
+There also is the problem of receivables or getting money from the consumer. Often, customers work with a monthly tab at such stores. So while milk would guarantee deliveries, it didn’t guarantee revenues.
+
+In order to solve that, the team decided to start a prepaid model. In March 2015, the four founders and their spouses chose an apartment complex in Gurugram and set up a stall.
+
+“We got our first paying customer that very day. At 9 pm, a lady gave us Rs 500, installed the app, and placed her orders,” Anant recalls.
+
+On the first day, the founders loaded the orders into their cars, and delivered the products themselves at 4.30 am. They soon hired an autorickshaw driver to help with the deliveries. As the volumes increased, they tied up with corporates and automotive companies to set up their own delivery fleet.
+
+Starting off with just 22 customers in April 2015, the team grew to have 30,000 customers just in Gurugram as of June 2015.
+
+“In our first startup, we had burned a lot of money. So the four of us pooled in Rs 50 lakh and wanted to see whether this model worked or not,” Anant adds. And so they focused only on Gurugram and Noida. It was only in January 2019 that Milkbasket opened its operations in Bengaluru.
+
+Core team of Milkbasket
+
+The order flow process
+
+Based on the pattern of order flows within the five-hour window till midnight, Milkbasket’s forecasts models and algorithms predict what will sell and what they want to sell to the customer on that particular day.
+
+From midnight to 4.00 am, individual baskets are created based on the orders received. “At present, we pack more than 15,000 baskets on a daily basis. The dispatch and delivery begins at 4.00 am and ends at 7.00 am. And then the orders start coming in for the next day from 7.00 am," Anant explains.
+
+The team claims to have an order fulfillment rate of 99 percent, a customer retention rate of 95 percent, and has on-time deliveries down pat, at 99.9 percent.
+
+“Milkbasket is working on a technology that frees the customer from having to do anything. Currently the platform is becoming intelligent enough to remember and repeat items. This is done by understanding user behaviour and buying patterns through machine learning,” he says.
+
+To make the order process simpler, Milkbasket has also opened up voice-based orders via the Google Assistant (where you say, “Okay, Google…” and place your order). An Alexa-enabled option is also in the works.
+
+A crowded basket?
+
+The hyperlocal space is heating up again. Bengaluru already has DailyNinja - which raised $4.5 million in funding in October 2018 - claiming to deliver to close to 25,000 households every day and clocking over 7.5 lakh orders every month. By December 2018, the number had grown to 55,000 plus.
+
+But Milkbasket is different, says Anant, in that it is harnessing technology to create new consumer buying patterns. Says Arpit Agarwal, Principal Blume Ventures, an investor in Milkbasket,
+
+“Milkbasket is different from regular ecommerce companies as they are not mimicking a pre-existent online consumer behaviour but using technology to create an entirely new behaviour that was hitherto not possible. Hence, they create unprecedented stickiness.”
+
+Arpit adds that Milkbasket now logs a monthly turnover of Rs 10 crore. Though its average ticket size is around Rs 180, it takes into account monthly household spend as a metric, and this takes the number to around Rs 3,700 per household per month.
+
+Milkbasket works with an inventory-based model and sources its products directly from brands. As such, tech is a big part of their future plans to keep operations lean and efficient. Already, it has eight apps running behind the main customer-facing app and the team is looking at incorporating machine learning as well. Doing so will play a key role in better predicting order flows and revenues and keep the business healthy, according to the team.

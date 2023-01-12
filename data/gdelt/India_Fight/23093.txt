@@ -1,0 +1,93 @@
+RBI's Circular On NPAs: Square Peg For A Round Hole?
+
+ARTICLE
+
+To print this article, all you need is to be registered or login on Mondaq.com.
+
+The Supreme Court has in the matter of Dharani Sugars and Chemicals Ltd. v Union of India ("the Judgment") struck down a circular issued by the Reserve Bank of India ("RBI") titled "Resolution of Stressed Assets- Revised Framework" ("RBI Circular") as ultra vires the provisions of the Banking Regulation Act 1949 ("Banking Regulation Act"). The RBI Circular had mandated banking companies to initiate action under the IBC under certain strict timelines, which the Petitioners claimed was arbitrary and unconstitutional. The ruling comes as a respite to various debtors against whom action had been taken pursuant to the RBI Circular. However, the ruling does not impact proceedings under the Insolvency and Bankruptcy Code (IBC) that have been initiated outside of the purview of the RBI Circular.
+
+Brief Background of the RBI Circular
+
+The RBI Circular stated that it had been issued under sections 35A, 35AA and 35AB of the Banking Regulation Act and s. 45(L) of RBI Act, 1934. It claimed its purpose as that of providing a harmonized and simplified generic framework for resolution of stressed assets, pursuant to the enactment of the IBC. The Circular mandated that in case of accounts with aggregate exposure of the lenders at Rs. 20 billion and above, on or after March 1, 2018 ('reference date'), the resolution plan necessarily needs to be implemented as per the following timelines:
+
+If in default as on the reference date, then 180 days from the reference date.
+
+If in default after the reference date, then 180 days from the date of first such default.
+
+The RBI Circular further mandated that if a resolution plan in respect of such large accounts is not implemented with the concurrence of 100% of the lenders as per the timelines specified above, lenders shall file an insolvency application, singly or jointly, under IBC within 15 days from the expiry of the said timeline.
+
+Reasons for challenge
+
+The Petitioners in the matter represented various sectors such as the power, telecom, steel, infrastructure, sports infrastructure, sugar, fertiliser, shipyard, etc. which were directly impacted by the RBI Circular.
+
+The Petitioners emphasized that the issues faced by these sectors were the result of various government policies and other reasons which are not attributable to operational efficiency of companies operating in these sectors. With regard to power sector it was specifically submitted that a large chunk NPAs in the private sector is primarily on account of Government policy changes, failure to fulfil commitments by the Government, delayed regulatory responses and non-payment of dues by DISCOMs. The Petitioners also submitted that despite the fact that some corporate debtors are on the brink of resolution, the time limit of 180 days leaves the parties with no choice but to proceed under the IBC.
+
+The RBI argued that it is in public interest and in the interest of the national economy to see that ever-greening of debts is not allowed; and to support its submission on leeway to be given to Parliament to deal with problems affecting national economy, it relied on the judgment of the Hon'ble Supreme Court in Swiss Ribbons Pvt. Ltd. and Anr. v. Union of India and Ors. ("Swiss Ribbons"),1 in which the Supreme Court had upheld the constitutional validity of the IBC.
+
+The SC Judgment
+
+A key issue raised before the Supreme Court was whether s. 35A of the Banking Regulation Act which deals with RBI's power to give directions, introduced in 1956 can be the source of power with regard to the RBI Circular that directs invocation of proceedings under IBC which was introduced only in 2016.
+
+The Supreme Court referred to earlier cases on "ongoing" interpretation of statute and observed that statutes are recognized as Acts of Parliament that should be deemed to be "always speaking". The Supreme Court observed that the width of the language of s. 35A of the Banking Regulation Act makes it clear that if otherwise available , the court cannot interdict the use of Section 35A as a source of power for the RBI Circular on the ground that the IBC could not be said to have been in the contemplation of Parliament in 1956, when Section 35A was enacted.
+
+The Supreme Court further observed that although the power granted to RBI to issue directions under s. 21 (power of RBI to control advances by baking companies) and s. 35A of the Banking Regulation Act are very wide, the question of Ultra Vires can be answered only with reference to s. 35AA and s. 35AB.
+
+S. 35AA as the Source of Power for the Impugned RBI Circular
+
+Procedure prescribed under s.35AA
+
+S. 35AA of the Banking Regulation Act makes it clear that the Central Government may, by order, authorise the RBI to issue directions to any banking company or banking companies when it comes to initiating the insolvency resolution process under the provisions of the IBC in respect of "a default", which means that without such authorisation, the RBI would have no such power.
+
+The Supreme Court further observed that consequently, prior to the enactment of Section 35AA, it may have been possible to say that RBI could have issued such directions under Sections 21 and 35A. But after Section 35AA, it may do so only within the four corners of Section 35AA.
+
+In this context, the Court further reiterated the principle in Taylor v. Taylor2, which has been followed by the courts in India which states that if a statute confers power to do a particular act and has laid down the method in which it has to be exercised, it necessarily prohibits the doing of the act in any manner other than that which has been prescribed.
+
+Furthermore default under s. 35AA Banking Regulation Act has been given the same meaning as under s. 3(12) IBC and therefore default would mean non- payment of a debt when it has become due and payable. Thus what is dealt with under a.35AA is a particular debt of a particular debtor.
+
+The Supreme Court held that the following two conditions precedent are to be satisfied before RBI can direct banking companies to initiate proceedings under IBC as prescribed under s. 35AA:
+
+that there is a Central Government authorisation to do so; and that it should be in respect of specific defaults.
+
+The Section, therefore, by necessary implication, prohibits this power from being exercised in any manner other than the manner set out in Section 35AA.
+
+Limitation of Scope of s. 35AA, Banking Regulation Act
+
+As discussed above, what is dealt with under a.35AA is a particular debt of a particular debtor. Furthermore, the expression "issue directions to banking companies generally or to any banking company in particular" occurring in Section 35A is absent in Section 35AA indicating that s. 35AA refers only to specific cases of default by specific debtors. Thus, any directions which are in respect of debtors generally, would be ultra vires Section 35AA.
+
+Whether s.35AA was enacted by way of abundant caution
+
+Another argument raised was that s. 35AA of the Banking Regulation Act was enacted by way of abundant caution inasmuch as there was a doubt as to whether such power could be otherwise exercised and therefore the power could have been exercised even in the absence of s.35AA.
+
+In this regard the Supreme Court held that the fact that two conditions precedent have been introduced in s. 35AA Banking Regulation Act, as discussed above, itself shows that it cannot be said that s. 35AA has been introduced by way of abundant caution. The Supreme Court observed that it is settled law that Parliament does not legislate where no legislation is called for.
+
+S. 35AB as the Source of Power for the RBI Circular
+
+It was next argued that s.35AB Banking Regulation Act, which provides for RBI's power to issue directions to banking companies for resolution of stressed assets, uses the words "without prejudice" to indicate that the power granted under s.35AB was to be read as additional to other powers granted by Sections 35A and 35AA Banking Regulation Act. The Supreme Court held that from the language of s. 35AB, it is clear that the power to issue directions under s. 35AB is without prejudice only to the provisions of Section 35A, i.e., it has to be read in conjunction with Section 35A. S. 35AB is not without prejudice to s. 35AA. Therefore the power under s. 35AB read with s. 35A, is to be exercised separately from power conferred by s. 35AA.
+
+Creative Interpretation of Statutes: the scheme of s. 35A, s.35AA and s. 35AB
+
+The Supreme Court then referred to its earlier decision in FERA (through Dr. Manjula Krippendorf) v. State (NCT of Delhi) and Anr.,3 where it referred to the theory of creative interpretation when the Court looks at both the literal language as well as the purpose or object of the statute in order to better determine what the words used by the draftsman of legislation means.
+
+The Supreme Court thereafter summarised the scheme of s. 35A, s.35AA and s. 35AB, Banking Regulation Act as follows:
+
+(a) When it comes to issuing directions to initiate the insolvency resolution process under the Insolvency Code, Section 35AA is the only source of power. (b) When it comes to issuing directions in respect of stressed assets, which directions are directions other than resolving this problem under the Insolvency Code, such power falls within Section 35A read with Section 35AB...
+
+The Supreme Court further observed that the general provisions in a statute cannot be utilised where a specific provision has been enacted with a specific purpose in mind. Therefore in cases where resolution through IBC is to be effected, only the specific power granted by s. 35AA can be exercised by the RBI. In case of resolution outside the framework of IBC, the general powers under s. 35A and s. 35 AB are to be used. The Supreme Court observed that any other interpretation will make s. 35AA redundant. The Supreme Court therefore concluded that absent Central Government authorization as required under s. 35AA, RBI does not have the power to issue direction to a banking company in respect of initiating insolvency resolution process and therefore the Impugned RBI Circular is ultra vires.
+
+Conclusion
+
+The Supreme Court has left intact the validity of the provisions of the Banking and Regulation Act; however it has concluded that the RBI circular will have to be declared as ultra vires as a whole, and be declared to be of no effect in law and consequently all actions taken under the Impugned RBI Circular must fall along with the said circular. It was held that as a result, all cases in which debtors have been proceeded against by financial creditors under IBC, only because of the operation of the Impugned RBI Circular, are declared to be void.
+
+Although this Judgment comes as a relief to various entities against whom insolvency proceedings were initiated by lenders only due to the mandatory requirement imposed on the lenders by the Impugned RBI Circular, it is relevant to note that there is nothing under the existing IBC framework that precludes a lender from initiating insolvency proceedings against the same entities under the IBC, if it so chooses. Furthermore, while the Judgment takes note of the arguments of the Petitioners in detail where the issues faced by certain sectors as a result of various government policies and other reasons not attributable to operational efficiency of companies operating in these sectors, the Judgment records that in light of the declaration that the Impugned RBI Circular is ultra vires s. 35AA, Banking Regulation Act, it has not gone into other contentions raised. The issues stemming out of applicability of IBC framework across the board as a one size fits all solution, without providing for carve outs that are essential for serious sector specific issues, as acknowledged and discussed in the various Parliamentary Standing Committee Reports, still remains to be addressed through adequate legislative action.
+
+Telma Raju is an Associate with Clarus Law Associates.
+
+Footnotes
+
+1. 2019 (2) SCALE 5
+
+2. (1875) 1 Ch. D. 426
+
+3. (2017) 15 SCC 133
+
+The content of this article is intended to provide a general guide to the subject matter. Specialist advice should be sought about your specific circumstances.

@@ -1,0 +1,49 @@
+Did Bluefrog Develop Sand Mining Data Applications To Support Bigwigs?
+
+VISAKHAPATNAM: The Criminal Investigation Department (CID) continued its raids on the office of BlueFrog Mobile Technologies company in Siripuram area in Visakhapatnam on allegations that it hacked the state government’s sand portal, Mana Sand for the second day.
+
+The CID gathered preliminary evidence that BlueFrog was trying to create a shortage of sand artificially. CID and the police are investigating the suspicion that the BlueFrog mobile technology company might have hacked the government website and also whether the company might have done this with the support of bigwigs from the TDP regime.
+
+CID officials seized a key piece of information, which includes evidence that sand shortage was artificially created by scarcity.
+
+It may be recollected that Visakhapatnam based mobile app developing company, is facing allegations in the data breach scam along with the IT Grids Company last year. Cases against the company are registered both in Andhra Pradesh and Telangana.
+
+Also Read: The Bluefrog Connection To Data Breach Scam
+
+According to sources, a complaint was lodged at Mangalagiri CID headquarters and the team was led by deputy superintendent of police I Chittibabu.
+
+The allegation is that even though there was huge quantity of sand availability, the Government website ‘Mana Sand’ was hacked to create and give an impression of sand scarcity.
+
+Blue Frog got the contract to maintain ‘Mana Sand’ website during the TDP regime. The company had also handled government portals handling sand, agriculture and rural development departments.
+
+The CID team were collecting data from the computers and servers of the company on Wednesday night. It would be analysed with the help of cybercrime experts, sources said.
+
+In continuation of the investigation Cyber Crime PS Mangalagiri, the team of CID officials along with IT core team, and Cyber crime staff verified certain data, and documents in connection with the Mana Sand application.
+
+Blue Frog Mobile technologies is a software applications developing company established in the year 2008 at Visakhapatnam as its headquarters. Kalidindi Phani Kumar Raju was the Managing Director, Jaya Aditya Reddy, and D. Nagaraju were the Directors and about 100 employees were reported to be working in the company. The Management claimed that they don't have any branches office anywhere in AP or in India, except the Head Office which is situated in Visakhapatnam. This aspect has to be also be verified during the course of investigation.
+
+The company was into developing applications on the request of the clients. At present the State Government was their prime clients, and so far they have developed near about 70 applications in different modules to support and maintain the Government schemes during the earlier TDP regime.
+
+In the year of 2016, they a developed Sand Monitoring Application in the name of ''Mana Sand'' as pilot project, and the same was dropped at the initial stage due to the certain technical problems/poor response from the public etc. The reason behind withdrawing the project was also being verified by the CID officials.
+
+Despite being a software company ,in the year 2017 they got a manpower supply contract from Mines Department of AP, and supplied manpower for monitoring the vehicle movements at various sand reaches in the state of AP, and about 80 employees were deployed, and about Rs.80 lakhs received from the Government as remuneration.
+
+Presently, BlueFrog technologies is providing client services to the Government Sector i.e. Department of Agriculture, and the Department of Rural Development. The Management stated that they have developed 8 different modules under Electronic Muster and Measurement System in support to the Rural Development Department to monitoring MGNRG Scheme, and they got this contract during the year 2009 and continued the same till the date. Similarly, they stated that they have developed 9 modules to monitor natural farming at the villages under ICRB programme of Agricultural department, and the contract is continuing from 2011.
+
+The Management stated that presently BlueFrog technologies is not involved or developed any Sand Mining related applications.
+
+The information seized from computers is being sent to CID headquarters in Amravati from time to time. Cybercrime teams, on the other hand, are analyzing data seized. CID DIG Sunil Kumar said that two special cyber crime teams have been appointed at Amaravati headquarters for this purpose.
+
+Special experts from Hyderabad have been called for data analysis. During verification the following data was secured for further analysis:
+
+Data related to the sand mining application and source code.
+
+Data related to the all log files of various programme applications done by the BlueFrog solutions.
+
+Verified the data in systems available within premises of BlueFrog Mobile Technologies, in connection with the sand related transactions.
+
+Verified certain mails, which is found related to the Sand transactions and secured the screenshots of the same.
+
+Cloud data related to the applications
+
+Also Read: Bluefrog Opens Doors For 5 Mins Post Allegations

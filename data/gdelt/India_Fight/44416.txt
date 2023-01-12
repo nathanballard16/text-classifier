@@ -1,0 +1,45 @@
+Supreme Court permits material seized during dawn raid to be used as evidence
+
+Introduction
+
+Facts
+
+Supreme Court decision
+
+
+
+Introduction
+
+On 15 January 2019 the Supreme Court allowed the Competition Commission of India's (CCI's) appeal against a Delhi High Court order which had prohibited the CCI director general from acting on the evidence seized during a dawn raid of 19 September 2014. The dawn raid in question was the first to be conducted by the director general and formed part of the investigation into JCB India Limited's alleged abuse of its dominant position.
+
+The Supreme Court, in allowing the appeal, observed that:
+
+provisions of Section 240A of the Companies Act, 1956 do not merely relate to an authorization for a search but extend to the authorization of a seizure as well. Unless the seizure were to be authorized, a mere search by itself will not be sufficient for the purposes of investigation. Having due regard to the provisions of Section 240A and the underlying purpose of Section 41(3) of the Act, the blanket restraint which has been imposed by the DHC on the DG from acting on the seized material for any purpose whatsoever was not warranted. The DHC has blocked the investigation on an erroneous construction of the powers of the DG.
+
+Facts
+
+On 11 March 2014 the CCI passed an order under Section 26(1) of the Competition Act 2002 ordering the director general to initiate an investigation into JCB's alleged abuse of its dominant position. However, JCB filed a writ petition before the Delhi High Court against the CCI's order. On 4 April 2014 the Delhi High Court passed an interim order regarding said writ petition, which permitted the director general to require JCB to furnish the information sought by the director general, but ordered that no final order or report could be passed by the CCI.
+
+During the pendency of the writ petition, the director general filed an application with the chief metropolitan magistrate under Section 41(3) of the Competition Act read with Section 240A of the Companies Act 1956, seeking authorisation to search JCB's premises for incriminating documents and papers relating to the case.
+
+On 17 September 2014 the chief metropolitan magistrate allowed the director general's application. Accordingly, on 19 September 2014 the director general carried out an unannounced dawn raid for the first time in India at JCB's premises. All incriminating documents, hard drives and laptops found by the inspecting team during the course of the dawn raid were seized.
+
+Following the dawn raid, JCB filed an interim application with the Delhi High Court in the pending writ petition, asking that:
+
+the search and seizure be quashed;
+
+all documents, hard drives and laptops seized during the operation be returned; and
+
+the investigation be stayed.
+
+On 26 September 2014 the court stayed further proceedings before the director general.
+
+On 2 December 2014 – in response to the CCI's appeal – the Delhi High Court division bench advised the parties that they could raise their contentions before the learned single judge and left it open to the CCI or, as the case may be, the director general to apply to vacate the order for a stay on the investigation.
+
+Pursuant to the above direction, the CCI filed an application to vacate the interim order before the learned single judge. Meanwhile, JCB filed another writ petition before the Delhi High Court asking it to set aside the search and seizure. In response to said writ petition, the single judge of the Delhi High Court passed the impugned order of 2 June 2016 restraining the director general from acting on the seized material for any purpose until the next hearing. The CCI then filed the present special leave petition before the Supreme Court against this interim order.
+
+Supreme Court decision
+
+The Supreme Court observed that the Companies Act 1956 and Section 41(3) of the Competition Act – which enables the director general to conduct investigations – were designed to authorise the director general to conduct both searches and seizures. It further observed that unless a seizure is authorised, a mere search would be insufficient for the purposes of an investigation under the act. Therefore, any interpretation restraining a seizure where the chief metropolitan magistrate has already granted a search warrant would be inappropriate. Accordingly, the Supreme Court vacated the impugned injunction order and remitted the pending writ petitions back to the Delhi High Court to determine whether and to what extent a reference to the seized material should be permitted for the purposes of deciding jurisdiction.
+
+For further information on this topic please contact MM Sharma at Vaish Associates by telephone (+91 11 4249 2525) or email ([email protected]). The Vaish Associates website can be accessed at www.vaishlaw.com.

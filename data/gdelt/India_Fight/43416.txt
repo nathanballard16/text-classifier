@@ -1,0 +1,51 @@
+Phishing scams targeting Mac users on the rise with 1.6 million attacks in 2019
+
+Kaspersky caught 1.6 million phishing attacks disguised as the Apple brand in the first six months of 2019.
+
+How sophisticated phishing grants attackers total control of your computer Watch Now
+
+Apple users like to think their devices are a bit safer than other brands, but a new report from Kaspersky shows that cybercriminals are increasingly trying to attack Mac customers.
+
+Kaspersky's mid-year "Threats to MacOS Users" report highlights just how many attacks the company stops for its customers.
+
+In only the first six months of 2019, the number of phishing attacks disguised using the Apple brand grew to 1.6 million. Kaspersky said the total number of phishing attacks have grown exponentially since 2015, when there were only 852,293 attacks. Just in the first half of this year, 5,932,195 attacks were committed, the report stated.
+
+SEE: Windows 10 security: A guide for business leaders (TechRepublic Premium)
+
+"The owners of MacBooks and iMacs are only rivaled by Linux users in terms of the level of confidence in their own security, and we must admit that they are right to a certain degree: Compared to Windows-based systems, there are far fewer threats that target macOS," said Kaspersky researchers Mikhail Kuzin, Tatyana Shcherbakova, Tatyana Sidorina and Vitaly Kamluk, in a press release.
+
+However, the press release continued, that situation is changing, since the popularity of the latter platform is growing. "Due to this and despite all the efforts that have been taken by the company, the threat landscape for Apple devices is changing, and the amount of malicious and unwanted software is growing," stated the release.
+
+
+
+Of the 6 million phishing attacks Kaspersky dealt with, nearly 12% targeted corporate users. Hackers also concentrated on Mac users outside of the United States, according to Kaspersky's survey.
+
+"While technically these fraud schemes are nothing new, we believe they pose an even greater danger to Apple users than similar schemes against users of other platforms – such as Windows or Android," said Tatyana Sidorina, security researcher at Kaspersky. "That is because the ecosystem around Macs and other Apple devices is generally considered a far safer environment. Therefore users might be less cautious when they encounter fake websites. Meanwhile the successful theft of iCloud account credentials could lead to serious consequences. We urge users of Apple devices to pay more attention to any emails they receive claiming to be from technical support, which request your details or ask you to visit a link."
+
+To compile the report, Kaspersky used statistics from their Kaspersky Security Network cloud infrastructure, which stores information about all of the malicious programs or threats that affect Mac users.
+
+Brazil had the largest share of unique macOS users who experienced phishing attacks at 30%, while both France and India had about 22%. Kaspersky highlighted that hackers were increasingly using Apple iconography to trick people into handing over Apple IDs and credentials.
+
+"These phishing attacks aim to steal users' Apple IDs. Links to these sites are usually sent in emails that allegedly come from Apple Support. The recipient is threatened that their account will be locked unless they click the link and log in to confirm the information that has been specified in their profile," the Kaspersky report stated.
+
+The report continued, "Another phishing trick is to send thank you messages for purchasing an Apple device or app on the App Store. The 'client' is invited to learn more about the product (or cancel the purchase) by clicking a link that leads to a phishing page. Here, the victim is required to enter their Apple ID login and password, which, of course, will be sent to the attackers."
+
+Last year there were 1.5 million attacks using Apple's branding, which pales in comparison to this year. By June 2019, Kaspersky stopped 1.6 million similar attacks, and the security company said these kinds of attacks grows by 30–40% every year.
+
+"The vast majority of threats for macOS in 2019 were in the AdWare category. As for the malware threats, the Shlayer family, which masquerades as Adobe Flash Player or an update for it has been the most prevalent," the Kaspersky study stated.
+
+SEE: Special report: Cybersecurity in an IoT and mobile world (free PDF) (TechRepublic Premium)
+
+Kaspersky stressed that Apple users needed to shed the idea that the company's devices were infallible because multiple hacking groups were hard at work on a variety of methods to steal information.
+
+According to Kaspersky, there were at least eight full-fledged campaigns aimed squarely at attacking the users of MacBook, iPhone, and other devices over the past few years.
+
+Mac users have traditionally seen themselves as safe because for many years, they truly were. There are more Windows and Android devices worldwide, making it more cost effective for hackers to focus on those operating systems over Apple, which still largely has a niche, US-centered audience.
+
+Business users should be particularly wary considering the steep rise in attacks centered around Apple products used by financial institutions and other companies.
+
+"Several well-known cybercriminal groups are currently working to develop malware for these operating systems, but the likelihood that a random user will be the target of such programs is extremely small," Kaspersky said in the report. "However, if you work in a financial institution, such as, for example, a bank, and your MacBook or iPhone is a corporate device, then the chances that you will be targeted increase considerably. In this case the threat is significant enough, so we do not recommend relying on the fact that Apple devices are in general less popular targets, and we recommend seeking out a reliable security solution. More so as we expect the number of targeted attacks on macOS and iOS devices to increase between 2019 and 2020."
+
+Cybersecurity Insider Newsletter Strengthen your organization's IT security defenses by keeping abreast of the latest cybersecurity news, solutions, and best practices. Delivered Tuesdays and Thursdays Sign up today
+
+Also see

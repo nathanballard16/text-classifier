@@ -1,0 +1,25 @@
+Australian students join hands with Tech Mahindra to combat climate change
+
+AI-powered number plate recognition to check for vehicle emissions
+
+A group of students from the University of Sydney, in collaboration with Tech Mahindra, will share their ideas on combating water and air pollution in the country as part of their month-long Industry and Community Project Unit (ICPU) in India to study and create solutions for climate change.
+
+The students, who collaborated with Tech Mahindra’s research arm, Makers Lab, will present an Artificial Intelligence (AI)-powered number plate recognition system that helps check for valid Pollution Under Control (PUC) certificates at the gates of Tech Mahindra’s campus in Pune.
+
+The system will allow Tech Mahindra to monitor and reduce its greenhouse gas emissions and help employees meet government regulations. The project is part of the company’s AI 4 Action campaign to combat climate change.
+
+Speaking about the project, the students’ academic supervisor, Dr. Fabian Held said: “We have two groups of students working on air pollution and water scarcity. The groups started out unfamiliar with the problem barely a fortnight ago. From there, they did research to understand the various causal factors and the Indian context. From this they identified concrete parts of the problem and developed a prototype for specific solutions.”
+
+Dr. Held said one group presented a prototype of an AI system that could increase the PUC compliance rates of vehicles on Tech Mahindra’s campuses. “It could be readily implemented and be made operational in a week’s time,” he said.
+
+In a statement released by the team, they said in 1989, the government mandated PUC certificates for all vehicles on Indian roads. The PUC tests the emissions of a vehicle to make sure it follows standard pollution regulations. Despite these rules, they identified a high number of non-compliant vehicles as a major cause of air pollution.
+
+Speaking about the AI system, Dr. Held said, “The AI system recognises cars as they enter the campus and looks up the cars’ emissions in a database. This will allow Tech Mahindra to monitor and reduce its greenhouse gas emissions and measure the success of interventions. Moreover, the system will send out reminders about upcoming PUC checks and therefore help ensure that vehicles on campus are compliant with government regulations.”
+
+Nikhil Malhotra, Global Head of Innovation at Tech Mahindra, said, “Air pollution and water scarcity are some of the burning problems that are being addressed through this project.” The ICPU held at Tech Mahindra’s Pune campus is a first-of-its-kind interdisciplinary and inter-country project, he said, aimed at creating a sustainable future for all.
+
+The students are also working on developing a predictive computer model for water management, which could be applied in different States across India, especially those hit by severe water crisis.
+
+“We are working on a model that will feed vital data on populations, water levels, water usage, crop production and rainfall into a platform that shares useful information to urban and rural communities. It will estimate the risk of water shortage for individual regions and provide helpful information that can improve their water management. Having this information readily available will help identify areas like Chennai early and will allow communities and policy makers to take preventive action,” said Christian Neoh, a student at the University of Sydney.
+
+On the international collaboration, Dr. Held said, “It was overwhelming, but in a good way. Our hosts at the Makers Lab have been very welcoming and supportive and provided incredible learning opportunities for the students. But the ways of working at an Indian technology leader are very different from an Australian university, which was both challenging and enriching at the same time.”

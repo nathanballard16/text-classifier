@@ -1,0 +1,47 @@
+Explained: Why Limited Revival May Be The Only Answer To The BSNL Problem And How It Can Be Done
+
+Forty-three-year-old G Murugan, an employee of Bharat Sanchar Nigam Limited (BSNL), was one of the 6,000-odd technicians who worked to restore the broken infrastructure of the state-owned telecom service provider after the flood in Kerala in record time. He, and 1.2 lakh other contract workers of BSNL, TNM reports, have not received salaries since February as the company accumulates severe losses year on year — Rs 90,000 crore since 2009.
+
+BSNL’s revenues — yes, revenues, not profits — have been falling for the last three years, from Rs 31,533 crore in 2016-17 to Rs 25,071 crore the following year to Rs 19,308 crore in the last financial year.
+
+BSNL’s financial performance has continued to deteriorate since the company started reporting losses at the end of the last decade. BSNL’s loss in 2018-19 was estimated to be around Rs 14,000 crore. Its cousin, Mahanagar Telephone Nigam Limited (MTNL), has been following in its footsteps, accumulating a loss of Rs 3,398 crore during the same period. While BSNL is the country’s biggest loss-making public sector undertaking, MTNL comes third on the list.
+
+The high employee cost has been adding to the woes of the two firms. The employee cost of BSNL and MTNL stands at 75 per cent and 87 per cent, respectively, of their total revenues. To understand the impact of this problem, consider this: the employee cost for private sector telecom service provider is between 2.9 per cent and 5 per cent.
+
+Given the losses, many have called for shut down or disinvestment. The government has, however, seems inclined to revive the company instead.
+
+And it appears to have strong reasons to do so:
+
+One, as the Department of Telecom (DoT) says, closing both the companies will cost the government around Rs 1.2 lakh crore. Among other things, the government will have to spend on compensating those who lose their jobs. This is almost twice of what the government plans to spend on reviving the companies — Rs 74,000 crore.
+
+Two, a disinvestment proposal is unlikely to interest private players as most of them are not in the best fiscal health due to the brutal tariff war triggered by the entry of Reliance Jio into the market in 2017. The industry, by some accounts, has shrunk by a third — consumer spends have fallen by 33 per cent since Jio’s launch. The industry is reeling under acute financial stress as the monthly average revenue per user has dropped by 42 per cent. The industry’s woes continue in 2019.
+
+Additionally, a lot of private players are gearing up to make huge investment in the 5G sector, trials for which are set to begin soon, and they may not want to commit funds elsewhere. Cellular Operators' Association of India says that the base price of 5G spectrum is nearly 30-40 per cent higher than the rates in other markets.
+
+So, if shutting down BSNL and MTNL is not a feasible option at the moment, and the government appears inclined towards a revival, how can it be done?
+
+A report by professors Rekha Jain, Vishal Gupta and Ajay Pandey of the Indian Institute of Management, Ahmedabad, suggests at least nine steps that the government can take for limited revival or restructuring of these companies over the next five years.
+
+One, monetisation of land and real estate.
+
+The professors suggest that the land and real estate assets of BSNL and MTNL, which the companies do not need for telecom operations, should be monetised. According to them, the value of such land, computed in 2015, was around Rs 6,000 crore to 8,000 crore. (However, according to news reports, internal estimates of BSNL suggest its land parcels all over the country may be valued at Rs 20,000 crore in 2018-19).
+
+Monetisation of land assets, the report says, may not only generate some fund for the revival of the companies, but also put unused real estate to productive use.
+
+The report says that the DoT can start on this by identifying the land and buildings that have not yet been transferred to the BSNL. In 2018, reports say, that BSNL’s plan to monetise real estate did not make a headway as the DoT said that its proposal can’t be processed as the ownership of the properties do not vest with the firm.
+
+The process should be completed in six months, the report underlines.
+
+Two, the professors say that the BSNL should accelerate the transfer of its towers to BSNL Tower Cooperation Limited (BTCL). This, they write in the report, will not only bring more efficiency in the management of these assets, but will also give parent company BSNL the opportunity to do a variety of projects under it. The transfer of towers to BTCL, which is an infrastructure company, will eliminate 8 per cent revenue surcharge.
+
+Three, create a separate Fibre Infrastructure Division under BTCL to leverage the growing potential of optical fibre network. As homes move towards more and more smart devices which need broadband, optical fibre network will be a valuable asset. The report says that there could be a rationale for setting up a separate company for this purpose, but that may take a long time. Therefore, for the short term, setting up a separate division under BTCL will be helpful for BSNL.
+
+Four, BSNL should set up a project division under BTCL to undertake projects of strategic importance. The company could deal with projects such as development of services in rural areas, building a network for the armed forces and providing connectivity in the country’s hilly areas. Employees who can work on such protects should be transferred to this division under BTCL. Apart from bringing more efficiency, it will also make BSNL’s project bids more competitive as 8 per cent revenue share will not be imposed on projects executed under this division.
+
+Five, allocation of 4G spectrum. BSNL did not buy 4G spectrum when private players invested in it in 2010 because it was required to pay the highest bid for it in each circle. Given its financial situation, it had decided against buying 4G spectrum.
+
+BSNL has told DoT that it intends to spend around Rs 11,000 crore to upgrade 80,000 2G and 3G towers to 4G, and build 20,000 new 4G towers for the roll out of this service. To reduce the cost of developing the infrastructure required for 4G rollout, the report says, BSNL should be asked to look at options such as tower sharing.
+
+The government should allocate to BSNL 5MHz of 2100 MHz band as 4G spectrum for a limited period of five years. For licence payment fee over five years, BSNL may need around Rs 1,875 crore. This money, the three professors suggest in the report, “can be financed by either equity injection from the Government or by borrowing the same with guarantee from the Government”.
+
+These conditions should be imposed on BSNL for the allocation of spectrum.

@@ -1,0 +1,25 @@
+Juice Jacking: SBI warns of deadly mobile malware
+
+With the increasing usage of digital payments via mobile phones around the world, cybercriminals are coming with cunning tricks to prey on naive users.
+
+Lately, there has been a huge spike in people losing their money, as they are tricked to reveal debit/credit card details and OTP to the hackers over the phone.
+
+In the latest development, the country's premier financial institution State Bank of India has issued a warning of 'Juice Jacking' aka USB charging scam, a new-age nefarious technique that can infect mobile phones with malware at public spaces such as airports and train stations.
+
+What is Juice Jacking?
+
+Intelligent hackers have reportedly developed a harmless looking and yet sophisticated USB port-like gadget that can be attached to the charging stations.
+
+Once a victim plugs his/her phone, the device can bypass the phone security to inject malware in it and steal entire contents of the phone including contact details, emails, messages, photos, private videos, and sensitive financial credentials.
+
+The SBI's warning comes weeks after the California Los Angeles County District Attorney department alerted local residents and travelers to avoid charging phones at public charging stations, particularly in airports.
+
+Here's how to protect the phone against Juice Jacking
+
+Always plug your phone to charging station with two-pin electrical AC outlet only
+
+Never ever plug your phone to a charging station via USB port
+
+Best way to avoid Juice Jacking is to carry your own power banks
+
+Get the latest news on new launches, gadget reviews, apps and more on personal technology only on DH Tech.

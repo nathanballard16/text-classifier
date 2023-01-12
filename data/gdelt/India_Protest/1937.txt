@@ -1,0 +1,33 @@
+Swaying to Success: Team Tiburon at SAVe, Chennai
+
+Since its inception in October 2014, Team Tiburon, the official Autonomous Underwater Vehicle team of NIT Rourkela has been bagging laurels through its unwavering hard work and determination. Recently, its AUV, named Hammerhead, triumphed with flying colours at the 6th National Competition on Student Autonomous Underwater Vehicle (SAVe 2019), organised by National Institute of Ocean Technology (NIOT), by securing the joint first position with IIT Bombay.
+
+The preparations for this event longed back to the three rounds of qualification where the team had to submit a Preliminary Design Report and a Conceptual Design Report followed by an Oral Presentation Round held during the first week of August. A total of 14 teams were qualified for the competition including various IITs.
+
+A team of 16 students, led by Shailesh Prusty, visited IIT Madras for the final competition held during 23rd-24th January. It consisted of two rounds with five teams to be qualified for the final round. The initial round consisted of the following continuous tasks:
+
+Following the designated path: AUVs had to follow the designed orange path rested on the floor of the swimming pool. Touching the identified buoy: After the completion of the first task, the AUVs had to identify any one of the three buoys of different colour and touch it in order to gain points for the task. Passing through the “L”ove lane: After touching the buoy, AUVs were to detect the L-shaped lane and pass through it. Cupid and Torpedo Shooting / Bins and ball dropping task: The teams were provided with two choices after passing through the L-lane. They were to either detect the heart-shaped cupid and shoot a torpedo through it or detect the X/O marked bins and drop a ball in it. Surfacing at the designated place: After completion of the tasks, the AUVs were to resurface through the Hexagon-shaped delivery pipe, hence marking the end of the tasks.
+
+The evaluation for selection to the second round consisted of the number of tasks completed by each team. NIT Rourkela’s Hammerhead easily completed the first three tasks and resurfaced near the hexagon.
+
+The five teams selected for the second round comprised IIT Bombay, NIT Rourkela, IIT Kanpur, MIT Pune and Zakir Hussain College of Engineering Aligarh. The second round consisted of the same tasks from the first round. The five teams were each provided with 30 minutes among which they could have any number of attempts to complete the above tasks. While Hammerhead was fully prepared to complete the arena, the torpedo missed its target after detection of the cupid. Hence, it could not bag full credits for that task.
+
+NIT Rourkela emerged as the joint winners with IIT BOMBAY. IIT Kanpur and MIT Pune bagged the first runner’s up and the second runner’s up prize respectively. NIOT would support the winning teams by partly sponsoring them to participate in the prestigious International ROBOSUB competition organised annually by AUVSI foundation in San Diego, USA during July 2019
+
+The team comprised the following dedicated members: Shailesh Prusty (captain), Rishabh Kundu, Piyush Panigrahi, Vinit Agarwal, Ateet Roy, Ankit Behera, Prabin Rath, Pritesh Samal, Malkhan Singh, Abhishek Rout, Hitaishi Barai, Subham Dwari, Aatish Rana, Muhammed Lafith, Maneesh Rout, Tarun Verma, Angad Pattnaik, Jatin Narde, Abhijeet Tripathy, Sumanth Malla, Avinash Kumar and Sujit Modi.
+
+Shailesh Prusty, Team’s Captain, had the following to say about the victory
+
+SAVe 2019 was a very new experience for all the members of the team as only the graduated members of the team had been a part of the previous instance of the competition. This competition unlike SAUVC which the team had attended last year has a sequence of qualification rounds consisting presentation of technical documents of the vehicle like the Preliminary and Technical Design Report. The preparation for the competition had started from April last year. We chose to go for the task consisting of shooting torpedo as the Cupid's visibility was better than the bins underwater.
+
+On being asked whom would the team like to dedicate this victory, he commented,
+
+We would like to thank our Director, Prof. Animesh Biswas, our Faculty Advisor Prof. Haraprasad Roy for their constant support and motivation. We would also like to convey special thanks to Nag Mani sir and Sambit Senapati sir for their valuable guidance and help during the design process.
+
+
+
+Last but not the least we would not have been able to achieve this height without the support of our sponsors INTEL and SOLIDWORKS.
+
+The team’s next target is Singapore Autonomous Underwater Vehicle Challenge(SAUVC) 2019 to be held during March at Singapore and the AUVSI ROBOSUB 2019 to be conducted at San Diego later during July.
+
+Team MM congratulates Team Tiburon for making NIT Rourkela proud and wishes it good luck for its future endeavours.

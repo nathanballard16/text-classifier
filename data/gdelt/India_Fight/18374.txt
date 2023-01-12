@@ -1,0 +1,87 @@
+Fake news still thriving on Facebook despite being exposed multiple times-India News , Firstpost
+
+Facebook-owned WhatsApp has launched newspaper and radio campaigns to deter the spread of misinformation.
+
+Two weeks after a suicide bombing in Kashmir in February killed 40 Indian paramilitary policemen, a Facebook user called Avi Dandiya posted a live video in which he played a recording of a call purportedly involving India’s home minister, the president of the ruling Bharatiya Janata Party (BJP) and an unidentified woman.
+
+The trio could be heard talking about arousing nationalist sentiment ahead of India’s general election, with the BJP president allegedly saying in Hindi: “We agree that for election, we need a war”.
+
+Within 24 hours, one of Facebook Inc’s fact-checking partners in India, BOOM, exposed Dandiya’s video as fake. An analysis on BOOM’s website said the video was created by splicing audio from older political interviews.
+
+By the time Facebook took down the post, it had received more than 2.5 million views and 150,000 shares. There is no Indian law that specifically targets fake news, but police in New Delhi registered a case of forgery against Dandiya and an official said investigations were ongoing.
+
+Still, Reuters last week found at least four edited copies of Dandiya’s videos on Facebook with about 36,000 views. One on Google’s YouTube has been seen 2,800 times while another on Twitter has 22,000 views.
+
+Messages and e-mails to Dandiya, an avid Facebook user who last appeared in a live video on 23 March, went unanswered. The home ministry, the BJP president and party’s information-technology chief did not respond to requests for comment.
+
+The videos underline how social media companies are struggling with fake news in India despite saying they’ve taken steps to tackle the menace ahead of the general election, which starts on April 11.
+
+With 900 million people eligible to vote and an estimated half-a-billion with access to the internet, fake news can have an enormous impact on the election. Dandiya’s video, for example, could have seriously damaged Prime Minister Narendra Modi and the BJP if enough people thought it was true.
+
+Policing content has become a massive global problem for social media giants which have no template for consistently preventing online fake news or eliminating it.
+
+Fierce internet disinformation battles gripped countries such as Brazil and Malaysia last year ahead of elections. Authorities in Indonesia and the EU, which are due to hold polls, have warned of the threat of fake news.
+
+In India, Facebook has partnered with fact checkers and, like Twitter, ramped up efforts to block fake accounts.
+
+On Monday, Facebook said it had deleted 1,126 accounts, groups and pages in India and Pakistan for “inauthentic behaviour” and spamming, many linked to India’s opposition Congress party.
+
+Google has partnered with fact-checkers to train 10,000 journalists this year to better tackle fake news.
+
+Facebook’s popular messaging app WhatsApp has launched newspaper and radio campaigns to deter the spread of misinformation.
+
+Social media companies say they don’t outrightly remove all fake posts as that would jeopardize free speech. Facebook has said that circulation of posts which are debunked, or discovered to be fake, is reduced by more than 80 percent.
+
+No Silver Bullet
+
+Posts that violate Facebook’s community guidelines, including hate speech or content that could incite violence, are completely deleted, the company said, adding that Dandiya’s video came under that category.
+
+But even when content has been identified as fake and removed, slightly modified versions of the same images, video or text can escape detection and spread further.
+
+“This is a highly adversarial space, so we still miss things and won’t catch everything - but we’re making progress,” said a Facebook spokeswoman, who added that the overall volume of false news had been reduced on the platform.
+
+“There’s no silver bullet solution in fighting misinformation.”
+
+Twitter said it deeply cares about the potentially harmful effects of misinformation and encourages users not to share unverified information.
+
+A YouTube spokesman said the company will continue to embrace the “democratization of access to information” while providing a reliable service to users.
+
+Twitter and YouTube did not comment on Dandiya’s video.
+
+Shown To Be False
+
+Another fake post that went viral recently was on popular student leader Kanhaiya Kumar, who was arrested and charged with sedition after a 2016 rally to commemorate the execution of a Kashmiri separatist. Opposition parties said Kumar’s arrest by the police was an attempt by authorities to curb free speech.
+
+Some Facebook posts in February described Kumar as anti-India and showed his photo in front of a map that depicted some Indian states as part of Pakistan. Two Facebook fact-checkers in India investigated the posts and said the image was doctored.
+
+Still, a month later, Reuters found at least two copies of those posts on Facebook with 375 comments and 1,500 shares.
+
+Facebook in February announced an expansion of its fact-checking company partners to seven, from two. Facebook says it also issues an alert to users who try to share a post which its fact-checkers have debunked, but doesn’t prohibit further sharing.
+
+Reuters found that when debunked posts of Kumar were shared, an alert popped up with a link to the fact-checkers’ analysis. However, all four variants of Dandiya’s videos could be shared without such fake news alerts from Facebook.
+
+“There is no way you can solve this problem (quickly) ... the magnitude of the problem is really huge,” said Kanchan Kaur, a Bengaluru-based assessor at International Fact-Checking Network at U.S.-based Poynter Institute.
+
+Fact-Checking Business
+
+When tensions rose between India and Pakistan in February following a suicide bombing in Kashmir and cross-border air strikes, social media was flooded with fake news - old videos of captured pilots and photos of earthquake-hit regions were spread as depicting current events.
+
+“Since Pulwama we’ve been working seven days a week,” said Jency Jacob, managing editor at BOOM, referring to the site of the suicide attack.
+
+On a recent visit to BOOM’s office in Mumbai, five people have seen monitoring and analysing online content. One of the rooms served as BOOM’s studio where television-style news videos are shot on debunked stories and published on its website.
+
+As an industry, fact-checking is fast spreading in India.
+
+British broadcaster BBC has in-house fact-checking operations and a dedicated WhatsApp number where anyone can flag suspected fake posts for further checks.
+
+“A dedicated team of journalists is debunking fake news daily, and also writing detailed explainers on controversial issues and claims,” BBC’s India Digital Editor, Milind Khandekar, told Reuters.
+
+Former software engineer Pratik Sinha and his mother are part of a 10-member fact-checking initiative named “Alt News” which is run from a two-bedroom-flat in Ahmedabad.
+
+Using online video verification and social media tracking tools, Sinha said his team debunks up to four posts each day.
+
+Debunked posts appearing online has become a problem even for the Election Commission.
+
+In February, a WhatsApp message called for spreading the word that said Indians living overseas could “now vote online for 2019 elections” and should register on the Commission’s website. The Commission called it “FAKE NEWS” on Twitter and filed a police complaint against “unknown persons” for public mischief.
+
+A month later, the message continues to circulate on Facebook - a user who shared it on March 23 has so far received 42 likes and 19 shares. When someone questioned the post, the Facebook user responded: “I think you can vote. Just check the web site and follow the steps”.

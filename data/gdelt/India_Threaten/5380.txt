@@ -1,0 +1,49 @@
+Is India Ready to Tackle Climate Change?
+
+In March 2019, India saw schools go on strike against climate change, with hundreds of students walking out of school to demand that the government take responsibility for the increase in carbon emissions. The Intergovernmental Panel on Climate Change’s (IPCC) special report warns that limiting the rise of global temperature to 2oC is inadequate and could still irreversibly alter global climate conditions. Further, the report states that India, currently the fourth highest emitter of carbon dioxide in the world, will be among the countries affected the worst by climate change. Agricultural incomes are set to be heavily affected due to lower rainfall and increasing temperatures, coastal communities will be at risk from flooding and increasing sea levels, and a projected dip in crop output and nutritional value of food will affect the populace at large.
+
+The ruling party’s response to the climate crisis is troubling: since coming to power, the Bharatiya Janata Party (BJP) has been steadily eroding coastal ecosystems via Coastal Regulation Zone (CRZ) notifications which allow real estate and infrastructure works in the intertidal zone along India's coastline, despite the Union Minister of State for Environement, Mahesh Sharma, cautioning that rising sea levels could inundate settlements along the coast. The Land Acquisition and Rehabilitation and Resettlement Act has also beeen used to hand tribal land over to an energy conglomerate. Over 1,320 square acres of agricultural land has been recently granted to the Adani Group in Jharkhand to construct a thermal power plant. Further, the National Clean Energy Fund (NCEF), which was created to fund innovation in clean energy and to reduce India’s coal dependency has ceased to function, with funds meant for it diverted to states to lessen the revenue loss after the roll-out of the goods and services tax. While the United Nations (UN) has conferred upon Narendra Modi a “Champion of the Earth” tag for spearheading the International Solar Alliance (ISA), an organisation set up to facilitate a shift to solar energy, there is no clarity on how the government plans on funding the $21 million required for the alliance, or on how the target of producing 1,000 gigawatts of solar energy will be met by 2021.
+
+Do climate issues serve political purposes? And, how seriously does the BJP and the political establishment at large view the threat of climate change? This reading list looks at political and institutional efforts in India that address global warming.
+
+1) How Do Political Parties View the Climate Threat?
+
+Asi Guha and Elphin Tom Joe study the 2014 manifestos of eight major political parties in India, and find that their commitment to environmental issues is lacking. From the Indian National Congress to the BJP, and from the Shiv Sena to the Communist Party of India (Marxist), Guha and Joe find that climate concerns tend to be a non-issue for the parties as well as their voter base.
+
+A glaring policy failure of the BJP is evident when one looks at the promises of the party as regards the cleaning of the river Ganga as it committed “to ensure the cleanliness, purity and uninterrupted flow of the Ganga on priority,” in its manifesto. A lack of evidence is witnessed on the ground. Also, one of the flagship schemes of the central government, the Swachh Bharat Mission (SBM), could have environmental impacts hitherto unseen, due to unscientific management of the waste generated and poor design of toilets … Even though the INC put water conservation in agriculture as an agendum, Haryana and Karnataka, where the party was in power in 2014, revealed a gloomy scenario. The drop in groundwater level in Haryana almost doubled from 1999 to 2016 (Duhan 2017). An alarming pattern was observed in Karnataka … Congress was in government from 1999 to 2004 and from 2013 to 2018 in Karnataka and no comprehensive water conservation policy had been put in place.
+
+2) Is the Current Climate Policy Adequate?
+
+India follows a “dualist” system, wherein international agreements must be translated into domestic law in order to be enforceable in the country. Parul Kumar and Abhayraj Naik write that the absence of a time-bound requirement to enforce decisions, such as the 2015 Paris Agreement, has allowed the Indian government to dither in its commitment to mitigating climate change. India’s only official recognition of climate change is the National Action Plan on Climate Change (NAPCC), 2008, but the authors argue that it lacks specifics on mitigation targets.
+
+It has been pointed out that the NAPCC is also ill-suited institutionally to effectively seek a synergy between climate and development concerns in India (Dubash et al 2018a). Critics have suggested that institutional, systemic and process barriers, including financial constraints, inter-ministerial coordination, lack of technical expertise and project clearance delays, stand as major challenges in the efficient implementation of the missions (Rattani 2018) … there continues to be considerable policy ambiguity and inadequate research available on questions of exactly what states can do in terms of India’s overall climate change challenges and the unclear horizontal and vertical diffusion of existing policies (Jörgensen et al 2015).
+
+3) How Uncertain Are Climate Disasters?
+
+The uncertainty of extreme weather events is here to stay, argue Hans Nicolai Adam, Lyla Mehta and Shilpi Srivastava. Writing after the events of May 2018—when dust storms, thunderstorms and lightning strikes ravaged Northern India, causing over a hundred deaths—the authors contend that, since agencies such as the IPCC have moved away from solving uncertainties to managing them, Indian policy ought to move in a similar direction.
+
+Our research has revealed that even the best models struggle with different kinds of uncertainties … Politicians and the public often place undue expectations on the IMD, and are unwilling to accept the limitations and uncertainty within forecasts. As a senior scientist from the IMD puts it, “communication on uncertainty is very important and probability forecasts are useless unless we make the public aware … however, decision makers want deterministic forecasts” (interview, IMD, 2 June 2017) … While scientists largely accept the presence of uncertainty, they struggle because decision-makers desire foolproof accuracy, and this expectation is unrealistic.
+
+Further, the authors raise issue with India’s current developmental model, which is ecologically destructive and further marginalises depressed sections of society, who are the worst affected by climate-related disasters.
+
+It should not be forgotten that most of the victims of disasters and extreme events tend to be the poorer and the marginalised and those who live in exposed locales with deficient infrastructure and housing. Many of them have been subjected to a long history of systemic neglect. That “there’s no such thing as a natural disaster” (Smith 2006) should no longer come as a surprise. These linkages are socio-economic in nature and weather extremes are mere triggers that expose these vulnerabilities.
+
+4) Development, But at What Cost?
+
+Ramaswamy R Iyer’s article, written after the BJP’s 2014 election win, is a critique of the government’s environment agenda. Iyer argues that the environment ministry’s mandate is to not be “obstructionist”—a worrying statement from a ministry whose job is to be just that. Iyer writes that when “development” advocates talk about a balance between environmental concerns and development goals, they invariably mean sacrificing the former.
+
+There are reports that time limits will be set for environmental clearances, and that there might be a provision for an automatic clearance if the clearance is not forthcoming within a certain period … the prevailing idea of development is a booming stock market, an inward rush of foreign investment, and a GDP growth of 8% to 10%. However, 8% or 10% growth would imply a huge draft on natural resources, a high potential for pollution requiring remedial measures, and an immense generation of waste needing disposal. Is it possible to pursue 8% or 10% growth without damaging the environment and Planet Earth?
+
+5) Can Development Be ‘Sustainable’?
+
+Nupur Choudhury writes that economic and infrastructure development has been routinely cited to upstage environmental violations, rendering the principle of “sustainable development” only declaratory in nature. Choudhury looks at institutions meant to protect environmental rights, namely, the Supreme Court and the National Green Tribunal (NGT), arguing that the latter needs to transform from a tribunal into an environmental court, as independence and accountability are necessary to uphold the principles of sustainable development.
+
+NGT’s discourse on sustainable development remains painfully precarious. As an institution it faces two challenges. First, given its limited jurisdiction and, that the Supreme Court is the appellate authority for the NGT, cooperation and backing of the Supreme Court is critical … Interpreting environmental violations as a violation of a fundamental right (Article 21: Right to life) has meant that the Court has frequently been confronted with making a trade-off between environmental rights versus the right to development. And in most cases, the right to development has trumped the right to clean environment, resulting in an interpretation of the principle of sustainable development that is focused on development with a few environmental concessions attached.
+
+Read More:
+
+Climate Change and Rural Poverty Levels in India | K N Ninan, 2019
+
+Ratification Politics: Climate Change Is a Social Problem | Mukul Sanwal, 2016
+
+Climate Change and the Energy Challenge: A Pragmatic Approach for India | David G Victor and Varun Rai, 2009

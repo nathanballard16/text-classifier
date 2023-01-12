@@ -1,0 +1,29 @@
+Facebook removes exposed user records stored on Amazon's servers
+
+(Adds digital news website Cultura Colectiva statement, paragraphs 4-5)
+
+April 3 (Reuters) - Facebook Inc said on Wednesday that it removed public databases containing its user data on Amazon.com Inc's cloud servers after cybersecurity firm UpGuard discovered millions of exposed records.
+
+UpGuard's Cyber Risk team announced in a blog post https://www.upguard.com/breaches/facebook-user-data-leak on Wednesday that Mexico City-based news website Cultura Colectiva had used Amazon servers to openly store 540 million records on Facebook users, including identification numbers, comments, reactions and account names.
+
+Another database, from an app called At the Pool, listed names, passwords and email addresses of 22,000 people, UpGuard said.
+
+Cultura Colectiva said in a statement that all of its Facebook records came from user interactions with its three pages on Facebook and is the same information publicly accessible to anyone browsing those pages.
+
+"Neither sensitive nor private data, like emails or passwords, were amongst those because we do not have access to that kind of data, so we did not put our users' privacy and security at risk," Cultura Colectiva said. "We are aware of the potential uses of data in current times, so we have reinforced our security measures to protect the data and privacy of our Facebook fanpages' users."
+
+Alex Capecelatro, who was chief executive of At the Pool before it shut down around 2014, did not respond to requests to comment.
+
+Facebook said in its statement that it worked with Amazon to take down the databases once alerted to the issue.
+
+"Facebook's policies prohibit storing Facebook information in a public database," the company said.
+
+Facebook has been hit by a number of privacy-related issues, including a glitch that exposed passwords of millions of users stored in readable format within its internal systems to its employees.
+
+Last year, the company came under fire following revelations that Cambridge Analytica obtained personal data of millions of people's Facebook profiles without their consent.
+
+Facebook later announced changes aimed at protecting user data, including an audit of at least thousands of apps that have the right to access Facebook user data.
+
+Amazon did not respond to requests for comment. It has increased efforts to educate customers about the risks associated with storing user data publicly after several such data privacy lapses by its customers made headlines in recent years. (Reporting by Akanksha Rana and Sayanti Chakraborty in Bengaluru and Paresh Dave in San Francisco; Editing by James Emmanuel and Grant McCool)
+
+Our Standards: The Thomson Reuters Trust Principles.

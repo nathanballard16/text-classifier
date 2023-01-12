@@ -1,0 +1,27 @@
+North Korea Hackers Breached Indian Nuke Reactor In Search For Advanced Thorium Technology
+
+North Korea is trying to get its hands on advanced nuclear technology at any cost. One of India’s largest nuclear plants, the Kudankulam, located in the southern state of Tamil Nadu was recently attacked by North Korean hackers.
+
+The hackers are alleged to have belonged to Lazarus, the cyber arm of the North Korean government and are expected to have been after Thorium based nuclear energy, which has been developed indigenously by India.
+
+It seems that a “Dtrack” malware was planted in the nuclear power plant’s systems using phishing emails and the attackers may have gained high-level access to crucial targets, according to an internal report. The emails were disguised as originating from the country’s Atomic Energy Regulation Board and the Bhabha Atomic Research Center of India.
+
+It was tracked by India’s National Cyber Coordination Center, which is the country’s cybersecurity and e-surveillance agency, based on intelligence received from an American cybersecurity company and Indian cyber-security expert, Pukhraj Singh. The report stated that a “threat actor” had breached “domain controllers” at the plant as well as the country’s space agency ISRO.
+
+While the U.S. Nuclear Power Council has stated that the breach only affected administrative systems and not the plant’s controlling mechanism, Singh believes otherwise. According to him, the breach stopped before gaining access to control of the plant, not because of any security measures, but because of the hacker’s intent.
+
+"Cybersecurity should become the pivot of our national security strategy. The intrusions at Kudankulam weren't destructive because the actor decided against it. We were at its mercy," Singh told Straits Times.
+
+Thorium is a cheaper, safer and more efficient alternative to Uranium and is expected to fuel 30 percent of India’s electricity needs by 2050. There aren’t many operational Thorium-based nuclear reactors in the world, which makes the scientific research behind it valuable.
+
+India is a nuclear-armed state that also uses civilian nuclear power. The intent behind the attack seems to be gaining access to India’s Thorium based technology and the know-how of such reactor's mechanisms. If North Korea is able to develop such reactors, it may make it less threating on the global stage, as its current model uses Uranium. It will also have commercial advantages of developing and selling such technology to other countries.
+
+The cyberattack has posed as a major security threat and highlighted security bugs in India’s nuclear system. It also lends into the speculation that India’s Chandrayaan-2 mission in September was derailed due to a similar cyberattack.
+
+Such breaches can threaten India’s nuclear ambitions too.
+
+“Even though it is premature to predict that India’s civilian nuclear energy program and civilian space program are staring at a dire future, the construction of new nuclear power stations that can help meet India’s growing energy needs will definitely be compromised due to the security breach,” Raja Ram, a nuclear scientist, and a Delhi-based think tank member told Asia Sentinel.
+
+North Korean hackers have a history of attacking nuclear facilities including South Korea's Korea Hydro and Nuclear Power’s office and Belgium’s nuclear research center, SCK.CEN. They have also attacked many scholars in the field of Thorium research in the past.
+
+Photo: Pablo Blazquez Dominguez/Getty Images

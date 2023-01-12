@@ -1,0 +1,33 @@
+Five Tips to Help Businesses Combat Bad Wi-Fi
+
+The development of never-ending wireless internet connections has made business accessible throughout the world. Because of that, the demand for Wi-Fi has risen exponentially overtime. According to a report by an agency, it is projected double-digit growth for 2019 and estimates that the number of internet users will reach 627 million by the end of this year.
+
+India is now adding close to 10 million daily active internet users every month, the highest rate of addition to the internet community anywhere in the world. A significant portion of these users are business owners who have learned the power of connecting with customers and colleagues digitally.
+
+A wireless network is the key component to any small and midsized businesses. They speed up significant regular jobs which include sending email from a mobile phone, offering customer help while employees are away from their counter, and maintain track of shipments and record from the stockroom floor. The present digital age looks to improve work processes; Wi-Fi is turning better on a regular basis.
+
+As a small business owner, these are likely to be an issue that you identify with, which means you could also be unaware of a solution that could mean saying “bye bye” to their bad Wi-Fi; namely mesh technology. A mesh Wi-Fi system, such as the NETGEAR Orbi Pro, uses a router and one or more satellites to extend high-speed Wi-Fi coverage to the far reaches of your office. The Orbi Pro router and Orbi satellite transfer data to one another via a dedicated high-throughput wireless backhaul using patented Fastlane3 technology, creating a Wi-Fi blanket that covers up to 10,000 square feet with high-performance AC3000 (3Gbps) Wi-Fi. Employees and customers simply connect to the Orbi Pro router or Orbi satellite that offers the strongest signal; this is seamless and all happens automatically, ensuring everyone has fast, reliable access, no matter where in the office they are working.
+
+Whether it’s for staff or for customers, the business importance of reliable, high-performance Wi-Fi is clear. So, if you’re one of the businesses that need to combat bad Wi-Fi, a NETGEAR Orbi Pro mesh Wi-Fi system could be the solution you’re looking for.
+
+Top 5 tips for better business Wi-Fi
+
+Find and eradicate Wi-Fi dead spots:
+
+It’s likely that some locations in your office or business premises will have a weaker Wi-Fi signal than others, and possibly some areas may have no signal at all (a dead spot). A full Wi-Fi site-survey will reveal these problem spots, but small businesses can also use tools such as the NETGEAR WiFi Analytics app to locate areas with poor signal strength or crowded Wi-Fi channels. You can use this data to place a Wi-Fi mesh extender or NETGEAR Orbi Pro mesh Wi-Fi System, to extend signals to all areas of your office.
+
+Place your router optimally:
+
+As hinted above, the placement of your Wi-Fi router can dramatically affect the strength of the coverage in different areas of the business, so the location of your router and satellites needs careful consideration. Avoid corners and windows, which will mean a large percentage of the signal is absorbed or beamed out into open space, and avoid placement inside cupboards, especially metal cupboards, as this will seriously reduce signal strength. Instead aim for a central placement or ceiling location, so that the signal is not obstructed or wasted in areas where your workers are not located. You can even strategically place an Orbi Satellite to provide coverage to a customer area to ensure a good signal.
+
+Create multiple Wi-Fi networks:
+
+Network admins, employees and customers all need different levels of access, so separate your Wi-Fi networks into admin (owner), and employee and guest networks. Even better, create a guest portal to offer customers free Wi-Fi internet, without allowing them access to the rest of your network. This also provides marketing opportunities, such as immediately re-directing customers to webpages with deals or offers.
+
+Ensure your router is secure:
+
+Regularly check and update your router’s firmware to ensure your device is protected against recent vulnerabilities that could threaten your network’s security. Also, ensure your Wi-Fi networks use the stronger WPA or WPA2 security protocols and avoid the more easily hackable WEP standard.
+
+Use the latest Wi-Fi technologies:
+
+Congestion and interference can be a major problem if all of your employees connect to a 2.4GHz Wi-Fi network. This is especially the case if neighboring businesses are also using 2.4GHz networks, which may be operating on channels that overlap with the one used by your router. Upgrading to 802.11ac or better Wi-Fi, and ensuring features such as MU-MIMO and Beam forming are enabled on your router will lead to faster speeds and less congestion. Another benefit is that if all your staff can use the 5GHz band then you can dedicate the more widely compatible 2.4GHz network solely for customer Wi-Fi, helping to ensure an optimal experience.

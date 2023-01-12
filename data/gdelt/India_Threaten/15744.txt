@@ -1,0 +1,49 @@
+India setting up world's biggest facial recognition system
+
+India's National Crime Records Bureau (NCRB) — a government agency operating under the country's Home Ministry — recently gathered bids from private companies to create the nation's first centralized facial recognition surveillance system. The contract is due to be awarded on Friday, November 8.
+
+Indian authorities say the technology is needed to bolster a severely under-policed country. At present, there are 144 police personnel for every 100,000 citizens in India, among the lowest ratios in the world, according to the United Nations.
+
+"This is an effort in the direction of modernizing the police force, information gathering, criminal identification, verification and its dissemination among various police organizations and units across the country," according to NCRB.
+
+Read more: India 'snooping' order leaves citizens exposed to surveillance
+
+Tech help to law enforcement?
+
+Facing limited resources and a lack of adequate funding, Indian law enforcement agencies have been increasingly seeking tech-based solutions to solve criminal cases.
+
+The NCRB's tender stated that the system will bring a "sea change" in investigating crimes, the handling of criminals and related operations by allowing security forces across India's 28 states and nine federally administered territories access to a centralized database of images.
+
+The images will be pulled from social media accounts, newspapers, CCTV cameras, passport photos, publicly available pictures and criminal records. Even artists' sketches of suspects will be part of the database.
+
+Facial recognition technology was launched in a few Indian airports in July, and Delhi police last year said they had identified nearly 3,000 missing children in just days during a trial.
+
+An airport staff member showing a passenger how to register his personal details at a facial recognition counter at the international airport in Hyderabad
+
+Privacy concerns
+
+Human rights activists and tech experts, however, are worried that the system poses risks to individual privacy and could facilitate increased surveillance by authorities. There is little information on where facial recognition will be deployed and how the data will be used, they say.
+
+"It is deeply concerning that they [NCRB] have done this without any policy consultation and there's not even a policy document. There's no clarity on what problems they are trying to solve [through this project]," Raman Jit Singh Chima, Asia policy director at the open-internet advocacy group, Access Now.
+
+It's unclear who will operate this system and who should be held responsible if something goes wrong, the expert noted. "The government seems to want to go ahead with the plans at whatever cost," he said.
+
+The privacy issue also gains prominence as India's Supreme Court, in a landmark verdict in 2017 on national biometric identity card program Aadhaar, ruled that individual privacy is a fundamental right. The court's ruling came amid concerns over data breaches and the card's mandated use for services.
+
+Representatives of the NCRB or the Home Ministry have not been available for comments on the rollout of facial recognition and requests for information filed by NGOs have so far only received vague responses.
+
+Critics are worried that the system poses risks to individual privacy and could facilitate increased surveillance
+
+Not entirely accurate?
+
+The rise of cloud computing and artificial intelligence technologies globally has popularized the use of facial recognition for a range of applications.
+
+The world leaders in this technology are Amazon's Rekognition, Lambda Labs' Face Recognition and Face Detection, Microsoft's Face API, Google's Cloud Vision and IBM's Watson Visual Recognition.
+
+But facial recognition tech has been shown to be inaccurate in identifying darker-skinned women, those from ethnic minorities and transgender people.
+
+"Even if we presume a high degree of accuracy, it becomes troublesome and problematic in a country like India, which has deep divisions on the lines of appearances, gender, caste and color," said Apar Gupta, executive director of the pro-privacy NGO Internet Freedom Foundation.
+
+He also warned that political opponents, civil rights activists, government critics and journalists could become potential targets for surveillance.
+
+"These kinds of technologies will be used not toward satisfying the needs of national security, but to enforce a system of social control, like in China," Gupta said.

@@ -1,0 +1,91 @@
+DNC updates cybersecurity checklist
+
+DNC updates cybersecurity checklist Presented by ManTech
+
+With help from Eric Geller, Jordyn Hermani and Martin Matishak
+
+Editor's Note: This edition of Morning Cybersecurity is published weekdays at 10 a.m. POLITICO Pro Cybersecurity subscribers hold exclusive early access to the newsletter each morning at 6 a.m. To learn more about POLITICO Pro's comprehensive policy intelligence coverage, policy tools and services, click here.
+
+— The Democratic National Committee issued a major refresh of a security checklist geared toward campaigns. It covers passwords, Facebook and tips for the best answers to online security questions.
+
+— With its bill output last session, Congress demonstrated a growing interest in cybersecurity, a think tank analysis found. But lawmakers didn’t get very many of them to the president’s desk.
+
+— The White House Office of Science and Technology Policy hailed the Trump administration’s cyber work in a new report. The accomplishments were mainly structural.
+
+HAPPY FRIDAY and welcome to Morning Cybersecurity! Now that we’ve found it, hopefully it gets lost again, this time forever. Send your thoughts, feedback and especially tips to [email protected], and be sure to follow @POLITICOPro and @MorningCybersec. Full team info below.
+
+FIRST IN MC: DNC UPDATES CYBERSECURITY RECS — The Democratic National Committee issued a fresh security checklist for campaigns at every level of the ballot to improve cybersecurity. The six-page document updates a previous version and details specific steps that campaigns should take to secure devices and accounts. It recommends using a password manager, employing two-factor authentication and, if applicable, enrolling in Google’s Advanced Protection Program — a service launched in 2017 to make it tougher for hackers to breach high-profile individuals’ email accounts and avoid a repeat of the kind of assault that plagued Hillary Clinton campaign chairman John Podesta.
+
+The update also includes tips beyond the initial DNC checklist, such as only using mail services hosted by Microsoft or Google, reviewing Facebook privacy settings, answering online security questions without revealing personal info (hint: don’t use the name of your high school) and using the encrypted messaging apps Signal and Wickr.
+
+“Our adversaries are already at work, whether a candidate has announced or not. At the DNC, we’ve put together a checklist of steps we are encouraging everyone to take — from presidential candidates down to field staff and volunteers — that will dramatically improve their security posture,” Bob Lord, the committee’s chief security officer, said in a statement. The DNC is “here to assist campaigns in the creation of an overall security program that is tailored to their current landscape and challenges,” he added.
+
+YOU WANT IT TO BE ONE WAY, BUT IT’S THE OTHER WAY — Congress has gotten good at introducing cybersecurity legislation, but not terribly good at passing it, an analysis from the centrist think tank Third Way concluded Thursday. In the last session of Congress, Third Way counted 226 cyber-focused bills, up from just 16 at the turn of the century. However, only 10 got signed into law. The analysis found both “hope” and “opportunity” in some of the other numbers.
+
+“On the side of ‘hope,’ more than half of the bills introduced were bipartisan, including every bill that eventually became law,” wrote Ishan Mehta, a policy adviser for the think tank’s National Security Program. “The polarization that has affected most issues in Washington has not been inflicted upon cyber security legislation. In terms of ‘opportunity’ however, most cyber bills were defensive-minded, focusing on securing networks rather than investigating, finding, and punishing malicious cyber actors.”
+
+WHAT THERE IS TO WORK WITH — The White House trumpeted a series of cybersecurity roadmaps and strategies in a new report on its 2018 science and technology achievements. The cybersecurity section of the Office of Science and Technology Policy’s report, published Thursday, describes a series of structural changes and vision documents: the National Cyber Strategy published in September, the Energy Department cyber office created in February, the roadmap for cyber research released in August and the internet resilience report released in May.
+
+The OSTP report also touted the technical standards agency NIST’s release of version 1.1 of its cyber framework, which contained modest additions like vulnerability disclosure program guidance. The report’s homeland security section mentioned the creation of the DHS National Risk Management Center, and the privacy section discussed NIST’s new privacy framework and the International Trade Administration’s work on EU-U.S. Privacy Shield implementation.
+
+SYSADMINS, TAKE NOTE — NIST wants to help organizations better manage the mobile devices distributed to their employees to reduce the risk of data breaches. The agency on Thursday released a guide with an example approach to enterprise mobile device management that covers “how to configure a device to be trusted by the organization, how to maintain adequate separation between the organization’s data and the employee’s personal data stored on or accessed from the mobile device, and how to handle de-provisioning a mobile device that should no longer have enterprise access.”
+
+It explains how to set up identity federation services that link employees’ work accounts with third-party cloud services to reduce login hassles, and it shows IT administrators how they can increase their awareness of the cyber threats facing their users’ devices.
+
+VVSG, BABY — The public will soon get a shot at commenting on updated Election Assistance Commission/NIST guidelines that a top DHS official said would improve audits. Matt Masterson, a DHS senior adviser in the Cybersecurity and Infrastructure Security Agency, tweeted Thursday that the Voluntary Voting System Guidelines 2.0 common data format work “will empower better more efficient audits, more accurate & accessible elections data & much more!”
+
+EVERYONE LOVES LISTS — MITRE Corp. threat intelligence expert Katie Nickels led a grassroots effort to compile a list of recent cybersecurity indictments of state-sponsored hackers, which she revealed this week. Comprising 31 indictments at the time of writing, the list spans from June 2011 to last week’s indictments of a U.S. defense contractor and four Iranians accused of sending malware to intelligence officials.
+
+By studying these indictments, cyber experts can gain insight into the intel these actors have about their targets, how they're getting this information and how these groups respond to members’ indictments, Nickels said. Her hope for the project is to have people “consider indictments as both a source of intel and a possible instigator of changes in adversary behavior.”
+
+RECENTLY ON PRO CYBERSECURITY — Secretary of State Mike Pompeo said the Trump administration will pursue economic espionage safeguards in any trade deal with China, and warned the U.S. might not share information with allies relying on Chinese tech. … President Donald Trump said the U.S. shouldn’t block foreign tech for its 5G networks. … A California lawmaker and the secretary of state unveiled two bills to protect state voter data and political campaigns. … Sen. Mark Warner wrote health care groups seeking recommendations on a strategy for defending their industry against cyberattacks. … Former Trump attorney Michael Cohen will testify before the Senate Intelligence Committee on Tuesday.
+
+TWEET OF THE DAY — Endless hilarity.
+
+— The Congressional Budget Office analyzed S. 315 (116), the DHS Cyber Hunt and Incident Response Teams Act.
+
+— Switzerland’s online voting system has problems. Motherboard
+
+— Meet the new hacking group in Columbia, Blind Eagle. CyberScoop
+
+— Twitter revised its data on Russian trolls. Bloomberg
+
+— Wired profiles a Russian investigator who reveals Russian spies and hackers.
+
+— Philadelphia bought a new voting system.
+
+— “Lawmakers spar with state's top elections official over modernization of ballot machines, legislative oversight.” Pennsylvania Watchdog
+
+— The U.S. government campaign against Huawei has hit a snag in India. The Wall Street Journal
+
+— ECS won a contract to protect the FBI’s networks. Nextgov
+
+— Duo analyzed Chrome extensions.
+
+— More on those fake FCC comments, via Gizmodo.
+
+— China, not Iran, is reportedly the main suspect in hacks of Australia’s political parties. Sydney Morning Herald
+
+— There are some other cyberattacks down under, too. The Age
+
+That’s all for today. This is OK to find, though.
+
+Stay in touch with the whole team: Mike Farrell ([email protected], @mikebfarrell); Eric Geller ([email protected], @ericgeller); Martin Matishak ([email protected], @martinmatishak) and Tim Starks ([email protected], @timstarks).
+
+Follow us on Twitter Heidi Vogt @HeidiVogt
+
+
+
+Eric Geller @ericgeller
+
+
+
+Maggie Miller @magmill95
+
+
+
+Sam Sabin @samsabin923
+
+
+
+Konstantin Kakaes @kkakaes

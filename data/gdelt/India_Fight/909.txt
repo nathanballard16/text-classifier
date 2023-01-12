@@ -1,0 +1,37 @@
+CES 2019: NVIDIA announces RTX 2060, mobility RTX 2000 GPUs and software partnerships
+
+NVIDIA unveiled the RTX 2060 and mobility RTX 2000-series GPUs at the CES 2019 keynote. The RTX 2060 will be priced at $349
+
+NVIDIA’s CES 2019 press conference turned out to be a bit different this year. NVIDIA CEO Jensen Huang came onto the stage and set the record straight from the get go, this year’s CES was going to be all about gaming. Jensen Huang’s keynote shared quite a few similarities with his Gamescom 2018 address, it started off with him revisiting the graphics revolution seen in the past 15 years and how it was primarily focused on rasterization in the past and the shift towards more real time processing. It wouldn’t take a rocket scientist to figure out that we were about to see the announcement of a new graphics card with real-time ray-tracing capabilities.
+
+Before getting to the juicy part, Jensen took us through some of the features such as reflections, global illumination, facial animation, area lights, character animation and super resolution, etc which according to him, are required to make video game graphics appear more realistic. These very features were part of the Turing architecture that was announced at Gamescom 2018 in the form of the RTX 2080 Ti, RTX 2080 and the RTX 2070. The demo reel that followed saw these very features put in use, in real time. One of them was the announcement for Anthem incorporating DLSS. Then there was one about how Battlefield V has made use of ray tracing and DLSS. After nearly 20 minutes of demo reels, Jensen finally let the cat out of the bag. All the demos run during the event were all on a brand new GPU, the RTX 2060. Here’s everything that NVIDIA announced at their CES 2019 keynote.
+
+NVIDIA GeForce RTX 2060
+
+Having made a significant leap in gaming hardware with the latest Turing architecture based graphics cards, namely the RTX 2080 Ti, RTX 2080 and RTX 2070. NVIDIA CEO, Jensen Huang, at their CES 2019 press conference announced the latest member in the RTX family, the NVIDIA GeForce RTX 2060. The RTX 2060 will reportedly rival the previous gen GTX 1080 in terms of performance. Unlike predictions made by industry analysts, the RTX 2060 does indeed have 30 RT cores giving it real-time ray-tracing capabilities. Here’s the rundown of the GPU structure.
+
+GTX 1060 RTX 2060 SMs 10 30 CUDA Cores 1280 1920 Tensor Cores N/A 240 Tensor Flops N/A 51.6 RT Cores N/A 30 Texture Units 80 120 ROPs 48 48 Rays Cast 0.44 Giga Rays 5 Giga Rays RTX OPs N/A 37 Boost Clock 1708 MHz 1680 MHz Memory bandwidth 8 Gbps 14 Gbps Memory capacity 6144 MB GDDR5 6144 MB GDDR6 Memory bus-width 192-bit 192-bit Memory bandwidth 192 GB/sec 336.1 GB/sec TDP 120 Watts 160 Watts
+
+NVIDIA GeForce RTX 2060 Availability & Pricing
+
+Jensen Huang announced that the RTX 2060 will be available for sale from January 15, 2019 in all major markets. The cards should be available in India around the same time frame. As for pricing, the GeForce RTX 2060 will be priced at $349 globally. The RTX 2060 Founders Edition will be priced at Rs.32,500 in India.
+
+Autodesk Arnold support
+
+Since gaming graphics cards have increasingly been used for use cases such as video editing, NVIDIA has finally decided to officially support enterprise editing software on the new RTX graphics cards. The only one to be announced was Autodesk Arnold, an advanced Monte Carlo ray tracing renderer. It’s assumed that NVIDIA won’t be supporting all the multimedia authoring tools on the GeForce RTX graphics cards since that would cannibalise the sales for the Quadro graphics cards. Nevertheless, this is a welcome move from NVIDIA.
+
+8K RED Video Editing
+
+Another major announcement to the benefit of prosumers and studios is that NVIDIA RTX cards will now support 8K video editing for footage shot with RED cameras. All RTX graphics cards, not just the newly announced RTX 2060, will allow users to perform editing, colour correcting and rendering with 8K RED footage.
+
+OBS pro-quality broadcasting on single PC
+
+NVIDIA also announced that they’ll be working closely with the developers of OBS, the most popular video game streaming software to make the software more optimised on NVIDIA GPUs. Currently, running OBS can rack up quite the compute overhead leading to stuttering during game play if you’re streaming from the same machine. With the new improvements, NVIDIA promises to make it all go away.
+
+Turing VRWORKS with HTC Vive
+
+NVIDIA also announced that they’ll be working closely with HTC to improve user experience on the VR HMDs made by the company.
+
+NVIDIA 2000 series Mobility
+
+Another major announcement was the introduction of the new mobility GPU lineup based on the Turing architecture. GeForce RTX-powered laptops will be available starting Jan. 29 from the world's top OEMs, including Acer, Alienware, ASUS, Dell, Gigabyte, HP, Lenovo Legion, MSI, Razer and Samsung. The individual manufacturers will be unveiling their SKUs in the coming days.

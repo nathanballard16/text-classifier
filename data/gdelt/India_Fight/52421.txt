@@ -1,0 +1,31 @@
+Tech companies like WhatsApp, Google, Facebook need to pay top dollar to ensure security
+
+Confidence is a factor, but as most firms are either monopolies or operate as oligopolies, there is little loss from data breaches.
+
+When WhatsApp released a security update detailing that hackers could get into mobile phones using MP4 files because of a security flaw, it was the second time this year that the company had to encounter such a problem and issue a security patch. Much to its chagrin, it had to accept it has had to address breaches from time to time, despite touting tall encryption, security and privacy standards. While all seems to be in control now, this won’t be the last of the problems that WhatsApp will face going forward. Details emerging from stories show that Pegasus, the spyware used to hack into WhatsApp, has been operational since 2016, and it was only in 2019 that the company found it. It won’t be surprising if companies and groups like NSO have moved on to more sophisticated tools and attacks. There is also no way of knowing since when the MP4 attack has been operational.
+
+It is true that any and all technology platforms are vulnerable to hacking and security breaches, but the fact is that tech companies have seemed least bothered about such attacks. Most operate as monopolies and have no incentive to correct behaviour. Besides, they are out-priced by people willing to exploit security flaws.
+
+In August this year, Apple announced that it would pay up to $1 million to anyone, as part of its bug bounty programme, who could discover a major security flaw.
+
+While this was certainly a step-up from the $200,000 that it had promised over the last three years—it started the programme in 2016—given a hacker can earn much more by selling this information on dark web, it is unlikely that Apple’s programme will find takers.
+
+Apple is not the only company, though, to run a bug bounty programme. While it is a common practice for most tech firms, many in the industry consider it an immoral exercise. Companies claim it encourages people to fiddle with their products when they shouldn’t and is akin to holding companies to ransom. But still as the big tech titans do it, so do others. In fact, networks like HackerOne are making such practices ‘in vogue’.
+
+But a peek into payouts shows that not enough is being done. For one, uncertainty and lack of clarity over awards have often moved hackers and technology experts towards companies that offer better payouts. Google started the programme in 2010 and has defined the classification for each kind of bug reporting along with the rewards. In contrast, Facebook, in its Whitehat programme, only mentions a minimum amount of $500.
+
+This is also the reason Facebook’s payouts have been less than Google. In 2018, for instance, Google paid out $3.4 million, followed by Microsoft ($2 million), whereas Facebook only shelled $1.1 million. More important, Google’s total payout at $15 million, is double that of Facebook. In contrast, Apple has been mostly silent about such payouts.
+
+Indian tech companies have been no better. Zomato announced that it has paid over $100,000 to researchers in its programmes, Swiggy has no money disclosure on its website. PayTM, which is one of India’s leading financial payment firms, has a bug bounty programme that mirrors Facebook, with minimum payment of Rs 1,000.
+
+Flipkart, which is a key e-commerce player, says it does not pay for bug reporting. Amazon India also has no bug bounty programme listed on its website.
+
+A major reason for companies being reticent about the issue is that there is no cost to data breaches. Confidence is a factor, but as most firms are either monopolies or operate as oligopolies, there is little loss from data breaches. Governments do not impose any cost either.
+
+While it is true that services that most companies offer do not come at a price, but companies do profit from data. Until, governments do not understand this dynamic, and impose a cost for breaches, security would be a casualty in data exchanges, and there will be little willingness to ramp it up.
+
+In the wake of WhatsApp scandal, people did move to Telegram, citing lapse in WhatsApp security, but that is not too safe either. Although Telegram does not disclose data on the amount it has paid over the years, it is certainly more transparent than WhatsApp in its vulnerability disclosure policy offering $200,000 to anyone who can hack the service and expose a flaw.
+
+But then again, can $200,000 really make a difference?
+
+ishaan.gera@expressindia.com

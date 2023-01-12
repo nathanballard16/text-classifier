@@ -1,0 +1,39 @@
+What SC quashing RBI's February 12 circular means for banks, companies and IBC
+
+The Supreme Court’s (SC) judgement quashing RBI’s 12th February circular has come as a bolt from the blue. The circular was aimed at early recognition and resolution of stressed assets and making the Insolvency and Bankruptcy Code, 2016 (IBC) pivotal in the entire framework.
+
+Post the February 12 circular, all pre-existing categorization of standard stressed assets – SDR, S4A, CDR restructuring, and flexible restructuring under 5:25 scheme stood abolished, leaving IBC as the only resolution mechanism.
+
+Prior to the 12th February circular, the Banking Regulation Act was amended and under Section 35AA, the Reserve Bank of India (RBI) got the authority to direct banks to initiate insolvency resolution process in respect of a default, under the provision of the Insolvency and Bankruptcy Code (IBC), 2016.
+
+Before assessing the probable impact of the SC judgement, it is important to understand the nuances of RBI’s February 12 circular.
+
+RBI’s February 12 circular
+
+The circular directed banks to identify incipient stress in loan accounts immediately on default, by classifying stressed assets as special mention accounts (SMA) as per the following categories, SMA-0 (1 to 30 days), SMA1 (31 to 60 days) and SMA-2 (61 to 90 days). Lenders were required to report SMA to Central Repository of Information on Large Credits (CRILC) on all borrower entities having aggregate exposure of Rs 5 crore and above on a monthly basis and all defaulting entities on a weekly basis.
+
+While encouraging lenders to go for resolution, bankers felt that the conditions attached with the resolution plan (RP) were onerous. An RP was deemed to be ‘implemented’ only if the borrower entity was no longer in default with any of the lenders. For restructuring, the relevant documentation had to be completed by all lenders and the new capital structure had to get duly reflected in the books of all the lenders and the borrower.
+
+For large accounts, post restructuring, the residual debt required independent credit evaluation by credit rating agencies authorised by the RBI.
+
+For large accounts with aggregate exposure of over Rs 2000 crore, a reference day was set on March 1, 2018. If a resolution was not implemented within 180 days of the reference day or default day (if default day was later than reference day), lenders were required to file insolvency application under IBC within 15 days from the expiry of the said timeline.
+
+Why the need for the February 12 circular?
+
+Even in the face of mounting bad assets, banks were initially reluctant to refer even defaults to IBC and were resorting to different types of restructuring that in most cases made little sense. It neither nurtured the borrowing entity to health nor did it do any good to the lender except for postponing the problem.
+
+The February 12 circular had put a definitive timeline by pushing defaulting cases to IBC. However, under the IBC framework, promoters cannot bid if he/she has furnished personal guarantee and if the period from default to admission into IBC exceeds one year. Section 29A under IBC virtually closed the doors of defaulting promoters to gain access to their companies.
+
+Section 29A was introduced to ensure that persons who were responsible for the default of a company, or certain undesirable persons, did not acquire or regain control of a company by participating in the resolution process.
+
+It is interesting to note that recently the Supreme Court has upheld all provisions of IBC including Section 29A, but it has quashed the February 12 circular.
+
+The way forward
+
+What this essentially means is that banks have more time to restructure a loan. However, the Supreme Court judgement doesn’t prevent a bank from referring a defaulter to IBC should it wish to do so.
+
+For a defaulting promoter, it perhaps gives more time to enter into a restructuring arrangement with the lender without the onerous timeline of 180 days. For companies that have been impacted by adverse macro developments, this could provide some respite.
+
+Finally, while the first list of NCLT cases has met with reasonable success, the same cannot be generalised for the long list of stressed companies. Many of them would be without tangible assets to find takers and for many smaller companies, there would be no takers beyond the promoter, as the real value of the business is best understood by the promoter. The normal IBC route would have resulted in liquidation of many smaller firms, with the attendant impact on jobs.
+
+Whether the SC judgement provides a genuine breather remains to be seen. The follow-up action from RBI, should it come out with fresh guidelines on resolution and restructuring outside the IBC, would be keenly awaited.

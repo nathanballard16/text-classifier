@@ -1,0 +1,37 @@
+Engineering students invent a robotic system to save miners by minimising accidents in coal mines
+
+In subterranean environments like underground coal mines, accidents involving roof fall and sidewall collapse are a common occurence, resulting in loss of human life.
+
+According to the Ministry of Labour and Employment, 377 workers involved in the mining of coal, minerals, and oil were killed in accidents between 2015 and 2017. This number was 352 in 2014 and 962 in 2004.
+
+Aiming to reduce the frequency of such accidents, team Subterranean Rescuers came up with a robotic system that can keep the coal mine workers safe at the Smart India Hackathon 2019 hardware edition held at the IIT Kanpur. The project was one of the winners, and the team received a prize money of Rs 1 lakh.
+
+Subterranean Rescuers came up with a robotic system that can keep the coal mine workers safe at the Smart India Hackathon 2019 hardware edition held at the IIT Kanpur.
+
+The robotic system, developed by the team of six, traverses underground coal mines to generate their 3-D models and 2-D maps. It can also find out the levels of harmful gases like methane, hydrogen sulphide, etc.
+
+“Robot Operating System (ROS) is the core of our system used to execute the SLAM algorithm to generate the required 3D model and 2D map of the closed environment,” says 22-year-old team leader Ajit Mutalik.
+
+The other team members are Vineet Menon (21), Swapnil Patil (19), Ajay Lohar (20), Tushar Kurane (20), and Shradda Gaikwad (20). All of them are students of Ramrao Adik Institute Of Technology, Mumbai.
+
+The initial stage
+
+Initially, Ajit and Vineet worked on implementing this idea for the e-Yantra ideas competition 2018 at IIT Bombay under the guidance of their professor at Ramrao Adik Institute Of Technology Sanjivani C. Chakote. After winning the Best Hardware Category award there, the two started working on upgrading the project. Looking at the innovative work in robotics, the other four joined them. The team was mentored by Sanjivani and Sandeep Sangale, a faculty member at Ramrao Adik Institute Of Technology.
+
+“For a particular coal mine, we recommend carrying out 3D mapping on a periodic basis. Then successive 3D maps can be compared to get information regarding any changes within the structure of mine,” explains Ajit.
+
+Team Subterranean Rescuers
+
+The product has sensors that can conduct convergence monitoring of the underground tunnel/mine and measures harmful gas levels periodically and alert the miners to evacuate the mine as and when needed. It overlays the 2D maps with Google Maps to identify dangerous zones around a mine. The system is semi-autonomous, has asset tracking as well as abandoned mine investigation, is low cost, far-reaching, and easy to implement.
+
+Stay Updated Get stories of change makers and innovators from the startup ecosystem in your inbox Please fill in this field. {{#error}} {{error}} {{/error}} {{^error}} Something went wrong. Try again later {{/error}} Welcome Onboard ! You have been successfully registered for our daily newsletter.
+
+The team claims that this product is a first-of-its-kind and will help solve accidents such as roof fall, slide fall, and flooding inside the coal mine.
+
+Future plans
+
+Ajit says that the team is looking to launch the product in the market. “Two of us have completed our eighth semester examinations, and the remaining are still pursuing their graduation. So, we have decided to either launch the product together or continue researching in the same area,” he adds.
+
+The present government under Narendra Modi has been trying to build a strong spirit of innovation among young minds, especially students. To further this initiative, the government started Smart India Hackathon (SIH) in 2017 and recently concluded its third chapter successfully. YourStory brings to you some amazing young minds who have taken up the challenge to solve some of the country's problems.
+
+(Edited by Saheli Sen Gupta)

@@ -1,0 +1,47 @@
+A10 Networks DDoS Threat Intelligence Finds IoT Devices a Gr...
+
+(MENAFN- RealWire)
+
+New Report Shows IoT Devices Using Machine-to-Machine Communications Protocol Are Increasingly Exploitable in Attacks
+
+Theale, UK. - 7th March 2019 — A10 Networks (NYSE: ATEN) today announced the findings of a new report into the state of Distributed Denial of Service (DDoS) attack weapons and targets, showcasing the growing use of IoT devices in synchronised attacks on targets globally. The report describes the significant potential for attackers to use an IoT-related protocol, the Constrained Application Protocol (CoAP), deployed on IoT devices to marshal attacks.
+
+A10 Networks logo
+
+The A10 Networks report on the state of DDoS weapons in the first quarter of 2019 examines the types of weapons and attacks being used and where they are coming from. While the most prevalent types of weapons leverage other more established technologies and internet protocols, such as the Network Time Protocol (NTP), Domain Name System (DNS) resolvers, and the Simple Services Discovery Protocol (SSDP), CoAP-based devices represent a fast-emerging new weapon type in botnet arsenals, according to the report.
+
+The full A10 report can be accessed here https://www.a10networks.com/sites/default/files/A10-EB-14115-EN.pdf .
+
+The most common type of attack utilising many of these weapons is a reflective amplification attack through which attackers spoof a target's IP address and send out requests for information to vulnerable servers that then send amplified responses back to the victim's IP address overwhelming the capacity of the target's servers.
+
+"DDoS attacks are increasing in frequency, intensity and sophistication," said Rich Groves, director of research and development, A10 Networks. "Malware-Infected systems and vulnerable servers continue to create attacks of crushing scale against unprepared targets. The growth of IoT devices using protocols such as CoAP represent a new, fast-emerging attack surface that we expect will play a major role in DDoS attacks going forward. Like other favourite weapon types, CoAP is inherently susceptible to IP address spoofing and packet amplification, the two major factors that enable the amplification of a DDoS attack."
+
+CoAP is a lightweight machine-to-machine (M2M) protocol that can run on smart devices where memory and computing resources are scarce. The latest A10 Networks report found that over 400,000 of the weapons are being used in attacks.
+
+Types and Location of DDoS Attack Weapons
+
+The A10 Networks report tracked some 22.9 million DDoS weapons in the first quarter of 2019.
+
+The top-five types of weapons tracked were: 1) DNS resolvers, 2) NTP based weapons, 3) SSDP-based weapons, 4) SNMP (Simple Network Management Protocol) devices and 5) TFTP (Trivial File Transfer Protocol) devices.
+
+China is the number one host country for weapons, followed by the United States, with 6,179,850 and 2,646,616 weapons, respectively, tracked. Other leading host countries, in order of magnitude, are Spain, Russia, The Republic of Korea, Italy, and India.
+
+"Having an up-to-date inventory of the millions of DDoS weapons is an important part of any DDoS defence strategy," Groves said, explaining the importance of tracking DDoS weapons around the world. "By creating comprehensive blacklists of suspected IP addresses, policies can be created to block those weapons in an attack. To that end, A10 Networks and our partner DDoS threat researchers analyse forensic data, tap networks, track bot-herder activities, and scan the internet for weapon signatures."
+
+In addition to comprehensive threat intelligence monitoring, A10 Networks is driving innovation in DDoS detection and mitigation solutions. Today, the company released a new capacity enhancement to its Thunder® 14045 threat protection system , which delivers industry-leading attack traffic mitigation capabilities. This capacity gain provides the highest performance available in the market with 500 Gbps of defence in one appliance. The smaller form factor reduces the number of devices required, while building scalable DDoS defences that meet the challenge of emerging attacks.
+
+About A10 Networks
+
+A10 Networks (NYSE: ATEN) provides Reliable Security Always™, with a range of high-performance application networking solutions that help organisations ensure that their data centre applications and networks remain highly available, accelerated and secure. Founded in 2004, A10 Networks is based in San Jose, Calif., and serves customers globally with offices worldwide. For more information, visit: www.a10networks.com and @A10Networks .
+
+###
+
+Media contact:
+
+Jim Pople
+
+
+
++44(0)118 949 7751
+
+The A10 logo, A10 Networks, A10 Harmony, Thunder, SSL Insight and Reliable Security Always are trademarks or registered trademarks of A10 Networks, Inc. in the United States and other countries. All other trademarks are the property of their respective owners.

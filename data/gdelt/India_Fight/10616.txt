@@ -1,0 +1,21 @@
+FBI: End-to-End Encryption Is an Infectious Problem
+
+(Image credit: Ruslan Grumble/Shutterstock)
+
+Just in case there were any lingering doubts about U.S. law enforcement's stance on end-to-end encryption, which prevents information from being read by anyone but its intended recipient, FBI executive assistant director Amy Hess told the Wall Street Journal this week that its use "is a problem that infects law enforcement and the intelligence community more and more so every day."
+
+The quote was published in a piece about efforts from the UK, Australia and India to undermine end-to-end encryption. All three countries have passed or proposed legislation that compels tech companies to supply certain information to government agencies. The laws vary in their specifics, including restrictions on to what information law enforcement can request access, but the gist is that they don't want any data to be completely inaccessible.
+
+The End-to-End Encryption Debate
+
+These efforts are part of an ongoing debate around the right to privacy in the modern age. People are surrounded by more devices that collect more information about them than ever before. Privacy advocates want to make sure that data is protected; law enforcement wants to make sure that data can be used to assist their investigations. The problem is that any intentional security weaknesses (backdoors) could also be exploited by others.
+
+This back-and-forth started to resurge in the U.S. after Edward Snowden revealed National Security Agency (NSA) surveillance programs. The relationship between law enforcement agencies and tech companies became more actively combative a few years later, when Apple refused to unlock an iPhone 5c owned by one of the San Bernardino shooters. (The FBI ended up gaining access to it without Apple's help.) Government agencies have complained about encryption ever since.
+
+Tech companies have extended a few olive branches: Apple made it easier for police to request data, Facebook regularly cooperates with the FBI and many have worked with government agencies to combat disinformation campaigns. But these companies' commitment to user privacy--at least when it comes to government access--have led them to expand end-to-end encryption nonetheless. Apple in particular has made privacy a major part of its business plan.
+
+Things are made even messier by the fact that all of these companies operate on a global scale. This makes some governments worry that intelligence agencies from other countries will use technology to spy, as we've seen with the UK's response to the U.S. "Cloud Act" and global distrust of Huawei. Capitulating to the UK, Australia, or India would make it that much harder for them to refuse other countries.
+
+Hess' comment makes it clear that the FBI, however, likely won't be changing their minds about end-to-end encryption any time soon.
+
+Want to comment on this story? Let us know what you think in the Tom's Hardware Forums.

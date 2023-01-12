@@ -1,0 +1,23 @@
+Can Directed Research Work?
+
+There has long been a debate about the efficacy of government policy on innovation and intellectual property rights (IPR). It seems intuitively right that if there are strong IPR then individuals and firms will be incentivised to invent and innovate because they could enjoy monopoly rents. That is, nobody else will be able to copy their ideas for, say, the 20-year duration of a patent, on pain of litigation and punitive damages.
+
+That is the theory, anyway. But researchers in the area, such as Petra Moser, of MIT and Columbia, (see her paper “Patents and Innovation: Evidence from Economic History”) have not been able to find a strong correlation between IPR and invention. At best, the link is tenuous, so it is even harder to claim a cause-effect relationship. And it turns out that weak IPR protection and placing of inventions in the public domain may not be such a bad idea, either.
+
+This is what the Indian practice had been before our Dark Ages of invasion (our creative people often didn’t even attach their names to their inventions); and today, the same applies to open-source software such as GNU/Linux, Apache, Firefox and TensorFlow, and to the way companies like Hyperloop Technologies and efforts like SETI (the Search for Extra Terrestrial Intelligence) are bringing crowd-sourcing front and centre for innovation. Counter-intuitive, but it produces results.
+
+How Successful has Indian Research Been?
+
+There is the question of whether directed research works or whether it constrains creativity. This issue was in the limelight in March, when the Central University of Kerala put out a circular directing researchers to choose topics that are in accordance with ‘national priorities’. It suggested that it wanted to “discourage research in irrelevant subjects”.
+
+Prima facie, this sounds like the heavy hand of a government imposing its will on the untrammelled flow of academic free-thinking. It would fit in with the general meme in Lutyens media that ‘freedom of expression’ is under grave threat under the Narendra Modi government.
+
+It appears this change in direction was not confined to the Central University of Kerala: it was discussed and agreed upon by the vice-chancellors of all the central universities. Nevertheless, let us consider the underlying logic of those opposing it.
+
+Logic of those Opposing the Central Universities Directive
+
+One objection appears to be that there is a certain Soviet-style or Chinese-style, or even Orwellian, attempt to create ‘groupthink’, whereby any deviation from the ‘approved truth’ would be penalised.
+
+A second suggests that there has been a flowering of original research in India, which would be threatened by this dictatorial fiat to conform.
+
+Alas, neither of these premises holds water. Paradoxically, the very fact that the media, academics and various politicians and officials have all been berating the Modi government without fear, suggests that the alleged assault on ‘free speech’ is a red herring. In addition, despite expectations that school textbooks would be de-toxified from the accumulated dross of 70 years of ideological metastasis, the Human Resources and Development Minister was heard proudly declaring that he had “not changed a single page of the textbooks”.

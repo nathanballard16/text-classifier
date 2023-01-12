@@ -1,0 +1,35 @@
+A new route to hedge exposure
+
+Metal prices have been subject to intense volatility in recent times as a series of events — such as China rebalancing its output, slowing global trade, and now, the trade war unleashed by the US — have been making metal prices gyrate over the past few years.
+
+Sample this. Global aluminium prices are down around 22 per cent this year, while copper, nickel and crude are down 19 per cent, 22 per cent and 20 per cent respectively.
+
+Often, metal prices tend to move in both directions within a year, leaving users of metals in a fix. For instance, the price of aluminium rose 19 per cent between January and April 2018, only to lose 32 per cent from the peak by the end of 2018.
+
+Besides movement in commodity prices, currency fluctuation also tends to derail company profitability. It, therefore, become imperative for metal importers and exporters to hedge their global exposure.
+
+Larger users such as Hindalco and Vedanta have been buying metal contracts on the LME, the CME, etc, to hedge their underlying exposure in the international market. But not all producers have the wherewithal to trade in global markets to hedge themselves.
+
+For such users, India INX Global Access could provide a solution.
+
+About India INXGA
+
+India INX Global Access (INXGA) is a subsidiary of the India INX exchange, an arm of the BSE, that is located in the Gujarat International Finance Tec-City. It is an added service provided to all the members of the India INX platform in the GIFT City. Members of India INX can trade on international exchanges through INXGA.
+
+INXGA provides a single-window interface for trading on global markets, managing clearing and settlements, as well as custodian services. This eliminates the need for individual members of India INX to register separately on each global exchange, thereby decreasing the overall costs of accessing global markets from GIFT IFSC (International Financial Services Centre).
+
+The access is provided through Marex Spectron, UK, which is the clearing member for many global exchanges. The members of INXGA have direct market access to international exchanges.
+
+The Securities and Exchange Board of India gave permission to the Global Access platform in February 2018. Since then, INXGA has tied up with CME, CBOT, COMEX and NYMEX to allow its members to trade the metal and energy contracts of these exchanges.
+
+Now, LME contracts can also be traded through INX Global Access.
+
+Corporate hedging
+
+The INGA platform currently does not have many users. The infrastructure and the basic facilities are being set up. Volumes are expected to increase once the members of India INX and other companies that want to hedge their overseas exposure begin using this platform.
+
+If a company in India wants to hedge its international exposure in commodities, it can do so through INXGA. “All corporates are anyway allowed to hedge their exposure in global exchanges. For instance, large companies such as Hindalco and Vedanta use the LME platform for taking cover,” says Sameer Patil, Head of Business Development, BSE. “They can open a trading account with any member of India INX who is also a member of India INXGA and execute their trades. This is the most legalised way of trading overseas exchanges in the entire framework that is blessed by regulators.”
+
+How is it different from directly hedging on the LME? To buy futures or other contracts on the LME, an Indian firm has to open a trading account with an overseas broker who is a member of the LME and put through the trade. Here, the company has to open an account with a trading member of India INXGA, and it would be ready to hedge in international exchanges.
+
+All the trades on the GIFT City are to be done in dollars. So, a company has to open an account with the bank branch situated in the GIFT City and move dollars into it. However, individuals cannot open a bank account in GIFT City or trade in derivatives in overseas exchanges.

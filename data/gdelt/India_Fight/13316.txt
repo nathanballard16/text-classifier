@@ -1,0 +1,61 @@
+Reducing human-elephant encounters with calls, texts, and digital signs
+
+The Hassan district of Karnataka, India has been a hotbed of human-elephant encounters for years and a challenge for forest authorities, who have been translocating crop-raiding elephants for decades.
+
+Researchers have replicated an elephant alert system that combines signs, voice calls, and text messaging used in the elephant corridors of neighboring Tamil Nadu’s Valparai region to reduce negative interactions between people and elephants in Hassan.
+
+Using familiar technologies, the new system has reduced annual human fatalities in the region from several to nearly zero.
+
+In India, few animals carry the kind of cultural symbolism that elephants do. Human-elephant interaction boasts a rich history dating back centuries. Nevertheless, such a long association has also included encounters that do not end happily.
+
+Human-elephant conflict is particularly apparent in the Hassan district of Karnataka, the state housing India’s largest population of Asian elephants. The Hassan region has faced human-elephant conflicts for years, with a number of these encounters resulting in fatalities. But thanks to resilient conservation efforts and smart application of common technologies in recent months, Hassan could soon be at peace with its elephants.
+
+Jumbos on the move
+
+Hassan and nearby districts sit at the edges of India’s iconic Western Ghats, a UNESCO World Heritage Site and global biodiversity hotspot which accounts for about 60 percent of Karnataka’s forest area. Hassan’s fertile landscape comprises fragmented forest patches, coffee plantations and paddy fields, offering a rich and conducive topographical mosaic for elephants, a habitat generalist species known for travelling long distances.
+
+A recent scientific study, published in Tropical Conservation Science in December 2018, on 205 hamlets around Hassan found a peculiar pattern in elephant movement between 2015 and 2017. Direct tracking and GPS-enabled tags worn by the elephants showed that although the elephants’ numbers were equally distributed between northern and southern areas during their first year (2015-16), their movement was restricted in the second year of study (2016-17).
+
+“Large-scale felling of trees in about 350 hectares of abandoned coffee estates in the central region of the study area and installation of solar fences around these areas restricted movement of elephants toward villages in northern part,” the authors wrote in the paper.
+
+The barriers, significantly increased human-elephant conflicts, as they forced elephants into agricultural lands, closer to roads, and human settlements.
+
+Authorities and environmentalists had attempted other human-elephant conflict reduction methods in Hassan, from translocating elephants found raiding crops to other areas and building fences, but without any improvement in the situation. Over the years, no fewer than 100 elephants have been captured and moved to other locations, but the elephants kept returning. Foresters moved 22 elephants in 2014 alone, but all returned to the Hassan area within a short period of time.
+
+At any given point, more than 60 elephants of three different herds roam the Hassan neighborhood, making encounters with humans inevitable. Elephants use free-flowing travel routes and not strict, narrow areas, Ananda Kumar, a scientist with the Mysuru-based Nature Conservation Foundation and one of the authors of the study, told Mongabay-India. For instance, he said, elephants from Hassan could potentially mingle and breed with elephants from Nagarhole National Park, some 140 kilometers (87 miles) to the south.
+
+Also, they show a “rotating migration pattern,” he explained. When a herd of elephants is translocated away from the area, such as when forest officials moved 22 elephants in 2014, the herds were soon replaced by another herd which immigrated from farther areas.
+
+Preventing encounters of the unfortunate kind
+
+A vast majority of elephant-related human casualties in Hassan territories, as in many other elephant corridors in southern India, have been accidental encounters when victims were caught unaware of the animal’s presence in close proximity. Most elephant confrontations occur between 6 to 10 a.m. and 4 to 8 p.m., when workers are moving across coffee plantations and paddy fields. On average, elephant-related incidents killed five people every year between 2010 and 2016 in districts surrounding Hassan.
+
+In October 2017, forest authorities introduced a combined early-warning system of SMS text alerts, automated voice calls, digital signs, and flashing LED lights at key public places across the Hassan region. Forest authorities registered over 35,000 mobile numbers for the pre-warning SMS alert system, as well as from several local WhatsApp groups.
+
+The alerts, based on sighting data and in the local language, Kannada, are routinely sent in the mornings and evenings about the possible location of the jumbos, in addition to the warnings on unanticipated elephant presence. Additionally, up to 30 digital display boards at important public junctions caution commuters of the movement of elephants.
+
+The integrated system, which was a result of coordinated efforts by conservationists, government officials and the local community, aims to give just enough information without causing panic or inadvertently helping poachers with details like the strength of the elephant herd or its exact location.
+
+Thanks to the endeavor, fatalities from human encounters with elephants have now been reduced to nearly zero.
+
+The original inspiration
+
+Both the forest authorities and conservationists were reasonably confident of this success, since it had yielded satisfactory results in the Valparai tea-growing region in the neighboring state of Tamil Nadu. The Valparai “Elephant Information Network” (EIN) is an early-warning system, which started as alerts on the local television channel but was changed to SMS alerts and display boards in 2011 Its innovative integration of several familiar technologies reduced the average annual human death toll from three to one over roughly five years.
+
+Kumar, who initiated the EIN and is now working in Hassan, said the Hassan terrain is even more challenging than Valparai. “In Valparai, there are vast company-owned tea plantations, whereas in Hassan, coffee plantations are owned by individuals. It’s a [more] demanding task to get on board individual owners than to convince companies,” Kumar said.
+
+“Also, there are several small-time owners possessing just one or two acres of paddy fields and not dozens of acres like Valparai,” he added. “So, if there is damage to crops by elephants, the shock factor on the residents is multifold. This plays a vital role when the local community is a major stakeholder in such projects.”
+
+The warning system in Hassan covers roughly 700 square kilometers (270 square miles) and a human population of about 300,000. Some 50,000 of them live or move in areas where elephants are found.
+
+“The modus operandi of elephant herds is usually observed by local people and the 150-strong Elephant Task Force before warnings are sent out,” said A.K. Singh, Chief Conservator of Forests at the Karnataka Forest Department. “The fatality rate has come down to almost zero. The two deaths in 2018, after the system was introduced, occurred because the victims ignored the alerts and ventured out despite being warned against it,” he added.
+
+The new system is increasingly keeping people and elephants at safe distance from each other. Nevertheless, the researchers stress in their paper the importance of retaining and protecting remaining patches of monoculture tree crops and natural habitats that elephants use as refuges in densely populated, agricultural landscapes such as Hassan.
+
+In addition to the notification tools, authorities have also set up solar fencing at various locations and are organizing awareness events for residents. In February 2019, the Karnataka government allocated more than $10 million (Rs 100 crore) in its annual budget exclusively to reduce human-elephant conflict by erecting used rail track barriers.
+
+Citation
+
+Krishnan, V., Kumar, M. A., Raghunathan, G., & Vijayakrishnan, S. (2019). Distribution and Habitat Use by Asian Elephants (Elephas maximus) in a Coffee-Dominated Landscape of Southern India. Tropical Conservation Science, 12, 1940082918822599.
+
+Note: This article is adapted from the original published by Mongabay-India.

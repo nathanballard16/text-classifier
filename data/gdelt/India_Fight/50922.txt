@@ -1,0 +1,61 @@
+Crimes spike on cyber space in Gujarat
+
+The Ahmedabad cyber crime cell this year busted 12 fake call centres functioning from Delhi NCR involving nearly 50 persons for allegedly duping people in Ahmedabad, Surat, Vadodara and Rajkot.
+
+As per the latest data of the National Crime Records Bureau (2015-17) released by the Union Home Ministry, Gujarat saw a spike in the number of cyber crime cases and it ranked 13th out of 29 states and seven Union territories with the overall cyber crime rate of 0.7%. When it comes to cyber crime in metropolitan cities, Ahmedabad ranked 11th and Surat ranked 12th among 19 metro cities of India.
+
+In the online banking fraud cases, Ahmedabad ranked third with 25 cases per one lakh of its population following only after Mumbai and Pune with 51 and 43 cases. Cyber crime officials claim that they receive 3-4 complaints on a weekly basis from Ahmedabad alone, on phishing through banking, insurance and job portals.
+
+CASE 1
+
+On July 24, this year, the Ahmedabad Cell raided an office site in Noida and arrested 24 persons in an alleged fraud worth Rs 37.7 lakh in the name of Exide Life Insurance from an accountant in Ahmedabad, where officials found a log book listing 599 victims from Gujarat followed by 497 from Mumbai and 329 from Rajasthan.
+
+The accused, led by kingpin Imran Mohammad Shaifi, a 23-year-old Bachelor of Business Administration (BBA) student, contacted the victim Sunil Mukherjee (53), a native of Vadaj in Ahmedabad, in 2016 claiming that his deceased father had left behind an insurance policy of Rs 1,80,000, which had matured. Mukherjee walked into the trap and ended up paying small amounts for a number of charges such as registration, income tax, refund to the callers operating as representatives of Exide Life Insurance. For three years, the call centre group duped Mukherjee to the tune of Rs 37.7 lakh by asking him to open new lucrative policies, until the victim realised the fraud and approached the police.
+
+Shaifi, turned out to be a native of Ghaziabad who earlier worked in a policy company as a tele caller from where he retrieved the data of clients from across the country. Later, he joined an info-tech company in Noida where he provided outbound services for insurance and loans for private banks and companies. It is here that Shaifi collaborated with another person and launched his own call centre. He was among the 24 who were arrested and is currently lodged in Sabarmati Central Jail in Ahmedabad.
+
+The Indian Express spoke to one of the 24 accused who is out on bail. “I came from my native place in Jharkhand to Noida to pursue BTech from a private college. One of my friends introduced me to the call centre operators claiming that since I spoke good English and Hindi, I can easily find a part-time job. I used to work in evening shifts where I was asked to contact clients on behalf of companies. But I never knew that it was illegal,” said the person on condition of anonymity.
+
+VB Barad, inspector with Cyber Crime Cell Ahmedabad, however, disagrees that the accused were unaware it was illegal. The eligibility criteria was excellent communication skills and ability to influence customers.
+
+“For every client, he (Shaifi) paid Rs 8,000 to 10,000 commission to the employees of his call centre. They (employees) were young college students who needed quick money and they were fully aware of the illegal act they were carrying out at the behest of the owner. When you are sitting in a 10×10 room with dozens of other persons, all claiming to be representatives of different companies on their telephonic calls, it doesn’t take a genius to tell that you are doing an illegal activity,” says Barad.
+
+CASE 2
+
+On October 17, the Ahmedabad cyber cell raided a call centre in East Delhi for cheating people in Gujarat by running a fake job portal promising jobs at the Sardar Vallabhbhai Patel International airport. The accused published misleading advertisements in regional newspapers of six states in India, offering fake vacancies at the airport, which made the unsuspecting victims to contact them on phone. The victims were fraudulently charged for job registration, training cost, uniform and identity card fees, fake invoices, etc. by the accused who operated from different sites in Delhi. The ringleader who goes by the name Pravin Malik is still absconding even as the Cyber Crime cell arrested five persons working under him from Delhi. The accused are now lodged in Sabarmati Central Jail of Ahmedabad and are currently awaiting trial.
+
+From the call centre, the police found a logbook where the accused group mentioned 8,853 clients from Gujarat — the highest in their list. “The accused had been running this call centre for three years and used to change sites from time to time. This allowed him to evade arrest for years,” said Rajdipsinh Zala, DCP, Cyber Crime Cell.
+
+More challenges
+
+With new trends in financial crimes, ever mushrooming call centres in Delhi NCR, and lack of coordination between different state agencies, the challenge for Cyber Crime police in Gujarat has only increased in the past few years. The recovery in these cases is almost zero and police action is ensued usually months after the complaint is registered, giving ample time to the perpetrators to shift base.
+
+In the past decade, Noida, Gurugram and Ghaziabad witnessed a boom in “outbound” call centres that handle promotion and advertisement of companies. According to an unofficial estimate by the Noida Police, there are over 300 registered call centres in Noida but no record of the illegal ones.
+
+The outbound call centres usually handle promotion of companies through phone calls via contract and they are not supposed to provide any service to the clients’ companies. However, fraudsters, often posing as service providers rather than promoters, gain access to private and banking details of the victims, the most vulnerable being the people living in Tier 2 and 3 cities.
+
+Maximum call centres targeting people from Gujarat were traced to Noida in Uttar Pradesh and Jamtara district of Jharkhand, which has a mechanism to run such frauds, says Gautam Kumawat, a Gujarat based ethical hacker and cyber security expert, quoting a study by his team.
+
+“I believe, conmen choose Gujarat cities as it is a business-driven state where people in general have more money and there is comparatively less knowledge about cyber safety than compared to metropolitan cities,” said Kumawat.
+
+Shiv Raj, additional superintendent with Uttar Pradesh Police, who has worked in the field of cyber security and financial crimes, said that Tier 2 and 3 cities and villages are like “low hanging fruits” for economic offenders in the cyber crime world.
+
+“With the late penetration of cell phones and internet in these places, the people are not that aware of the phishing methods and ways to strengthen personal cyber security. They easily get influenced by the callers and are coerced to reveal their personal and banking details on phone,” said Shiv Raj.
+
+Another reason behind the shift of victim base could be attributed to the action taken by Noida Police, Federal Bureau of Investigation (FBI) and Canada based Royal Canadian Mounted Police (RCMP) against call centres that were targeting clients in the US and Canada posing as bank officials, insurance agents or IT experts on phone. In 2018, after the joint collaboration of FBI, Noida Police and RCMP, over 25 call centres were shut and 300 alleged cyber criminals were arrested, after which investigators noticed the shift in victim profiles to states where police action is curtailed due to jurisdiction issue, lack of coordination with local police and delayed investigation.
+
+“We have been receiving complaints of fraud from the Gujarat Police and we share inputs with them whenever required. We have strongly dealt with the call centres targeting citizens from the US and Canada but much more is needed to be done in local cases,” said an official of Noida Cyber Crime Unit. The Gujarat cyber unit has sent their teams to Noida, Greater Noida, Ghaziabad, Vaishali and Kaushambi of Delhi-NCR in pursuit of the fraudsters.
+
+Modus operandi
+
+According to police, the callers, posing as representatives of a particular bank or company, initially build trust with their victims and later coerce them to share details or submit money in multiple accounts. In almost all the instances, the fraud was done with not just one phone call but over a long period where the victim was led to believe that they were being guided by their banks or insurance companies.
+
+While the banking and insurance scams continue throughout the year, shopping sites scam occur mostly during festivals such as Dussehra, Diwali, Christmas and Eid. Accord-ing to Kumawat, many of the cyber crime cases go unreported due to police attitude.
+
+“Police usually discourage victims to lodge their complaints in the first place which ensures that such crimes go unreported. Moreover, even private banks do nothing to update their customers, new and old, regarding basic cyber security guidelines. Need of the hour is both policing and awareness to curb such call centres,” he says.
+
+Similarly, Barad says that customers must verify the authenticity of the calls before sharing any details with them.
+
+“Be it inbound or outbound call centres, no bank will ask for account number, debit card details, Aadhaar card number, one time password or any other credential from their customer on phone. When it comes to insurance related calls, one must be vigilant and verify the caller’s identity first. Similarly, private companies do not ask for any registration fees when you shoot your job application to them,” said Barad.
+
+Shiv Raj, additional SP with UP police, believes that cyber security is needed from the ends of both banks and their customers. “We often see that private banks do not go for triple layer security when it comes to online banking despite recommendations from the Reserve Bank of India. While we have our laws in place to tackle the cyber crimes, much more needs to be done for the implementation. Similarly, banks, insurance companies and financial centres must ensure that there is no data leakage from their side,” he says.

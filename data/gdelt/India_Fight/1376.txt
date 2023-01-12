@@ -1,0 +1,29 @@
+The Monsanto BT cotton case is not over yet
+
+Monsanto’s legal proceedings against domestic seed companies will go down in history as one of the toughest Intellectual Property battles ever fought. One therefore expected a substantive ruling from the Supreme Court. Unfortunately, that was not to be. The court ruled on Monday that the meat of the matter — the validity of the patent — will have to be decided by the trial court, and returned it to the Delhi High Court. However, in a relative victory for Monsanto, it ruled that the Delhi HC order invalidating Monsanto’s patent was wrong in law.
+
+To summarise the origins of this dispute, Monsanto entered into licensing arrangements with Nuziveedu Seeds and a number of Indian seed companies that wished to use their patented BT cotton technology. This technology involved the use of a recombinant DNA construct that would keep the deadly bollworm (a pest) away from the cotton. The genetic fragment was derived from Bacillus Thuringiensis (BT), a bacterium, and inserted into a specific portion of the plant genome along with a promoter and a transit peptide producing sequence. Donor seeds carrying this artificial genetic construct were then delivered by Monsanto to seed companies who used these as carriers to breed their own BT gene infused cotton varieties. These varieties were then sold to farmers.
+
+In late 2015, a dispute broke out between the parties on account of non-payment of royalties by Nuziveedu and its affiliates. Monsanto terminated their licences and sued in the Delhi HC, asking for restraining orders against the continued use of their patented technology and trademarks. Nuziveedu shot back, claiming that the patent itself was invalid. It also argued that Monsanto couldn’t legally insist on royalty fees that were higher than rates set by the government through the Cotton Seed Price Control Order (CSPCO).
+
+The single judge refused to rule on the issue of patent validity at the interim stage. However, the court noted that the patent appeared to be prima facie valid. It also held that the termination of the licences granted to seed companies was not in accordance with law. It, therefore (effectively), restored the licences, holding that royalties would have to be paid in accordance with the CSPCO rate.
+
+The matter was then appealed. A division bench of the Delhi HC ruled that the patent was invalid since it violated section 3(j), a provision in Indian patent law that effectively excludes plants and animals from patentability. Both Monsanto and the seed companies appealed this decision in the Supreme Court.
+
+After hearing extensive arguments from a battery of counsels, the SC finally ruled that the division bench ought not to have summarily invalidated the patent without the benefit of a full-fledged trial.
+
+This, in effect, is the crux of the SC ruling. That, unless the scope of an invention was assessed through elaborate evidence/witnesses, courts could not be expected to make a meaningful ruling on patent validity. The division bench apparently did this in a summary manner owing to an alleged concession from Monsanto. However, in the SC, Monsanto contested this, stating that it had not waived its right to a full trial on this issue. The SC agreed with Monsanto, since it was self- evident that no patentee would ever waive such a valuable right. However, for future purposes, in order to reduce the scope for such confusion, courts must video record all proceedings so that submissions by parties are accurately captured and can be replayed in case of a doubt.
+
+The SC also endorsed the initial single-judge order in this dispute: that seed companies, whose licences were terminated for non-payment, could use Monsanto’s patented technology, but only upon payment of royalties/trait fees as fixed by the government under the CSPCO.
+
+So what now? The trial court is faced with the enviable task of deciding an extremely complex patent dispute and, in particular, the metes and bounds of section 3(j), a statutory provision that excludes plants and plant parts from patent eligibility.
+
+Delightfully crisp and lucid, the SC ruling zeroes in on the key issue: whether or not the man-made genetic construct as patented by Monsanto amounts to a “plant” or “plant part”? This issue will, in turn, hinge in significant part on whether or not the process of inserting the genetic construct is a reversible one. While seed companies argue that the process is irreversible, Monsanto contends otherwise.
+
+Monsanto also argues that its patent claim covers only the man-made genetic construct and not the final “plant”. However, in developing a plant or plant variety out of the initial set of donor seeds, Nuziveedu and others will have invariably infringed Monsanto’s patent.
+
+One is not certain how long the trial court will take to issue its decision. But whichever way this goes, one can be certain that the matter will find its way back to the SC. At this stage, one hopes that the judges will sink their teeth right in and proffer a patent interpretation that bodes well for the future of innovation, food and farmers.
+
+Shamnad Basheer is the Bok Visiting Professor of Law at the University of Pennsylvania and the Founder of IDIA (Increasing Diversity by Increasing Access to Legal Education)
+
+The views expressed are personal

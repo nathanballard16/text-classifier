@@ -1,0 +1,15 @@
+Explained: What is AGR? How will it impact Airtel, Vodafone Idea?
+
+The Supreme Court Thursday upheld the Department of Telecommunications’ (DoT) definition of adjusted gross revenue (AGR), a contentious point among India’s telecom players and the source of a running battle between the government and industry for years. The ruling will have major ramifications for the telecom companies, especially the older service providers such as Airtel and Vodafone Idea.
+
+What is AGR?
+
+Telecom operators are required to pay licence fee and spectrum charges in the form of ‘revenue share’ to the Centre. The revenue amount used to calculate this revenue share is termed as the AGR. According to the DoT, the calculations should incorporate all revenues earned by a telecom company – including from non-telecom sources such as deposit interests and sale of assets. The companies, however, have been of the view that AGR should comprise the revenues generated from telecom services only and non-telecom revenues should be kept out of it.
+
+How long has the fight been going on?
+
+The slugfest between DoT and the telecom companies has been on since 2005, when the the Cellular Operators Association of India — the lobby group for players such as Airtel and Vodafone Idea — challenged the DoT’s definition for AGR calculation. Subsequently, in 2015, the TDSAT ruled that the AGR included all receipts, except capital receipts and revenue from non-core sources such as rent, profit on the sale of fixed assets, dividend, interest and miscellaneous income, etc.
+
+The government, meanwhile, continued to raise the issue of under-reporting of revenues to duck charges. The Comptroller and Auditor General of India (CAG), in a recent report, blamed the telecom companies for “understating revenues” to the tune of Rs 61,064.5 crore. The latest petition by the DoT was being heard in the Supreme Court, wherein the DoT sought interest, penalty and interest on penalty on the outstanding amount. These amounted to Rs 92,641 crore (disputed actual demand is Rs 23,189 crore, levy of Interest of Rs 41,650 crore, penalty of Rs 10,923 crore and interest on penalty of Rs16,878 crore)
+
+All the appeals against the TDSAT order dated April 23, 2015, alongside multiple appeals and verdicts by the DoT and the industry in various forums including High Courts and the Supreme Court of India, were heard before the Bench of Justice Arun Mishra, Justice S Abdul and Justice MR Shah. The bench delivered the verdict Thursday and effectively upheld the definition of AGR calculation as stipulated by the DoT. That is bad news for an already beleaguered telecom sector, which would need to cough up the pending payments.

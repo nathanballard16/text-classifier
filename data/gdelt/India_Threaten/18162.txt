@@ -1,0 +1,39 @@
+Chinese military space activities push India towards space supremacy
+
+With resourceful commercial players like Jeff Bezos’s Blue Origin and Elon Musk’s Space X projects participating in such endeavours, Space is no more scientific exploration.
+
+Exploitation of Space to effectively safeguard national boundaries is an inevitable development in today’s world. However, due to the lack of a clear consensus on the level of militarization and weaponization of Space, soon the Space around Earth itself shall be congested, with thousands of already floating space debris limiting the available orbital paths. Apart from the Space Command development, in next two decades the US has ambitions to occupy Moon first and from there gain further easier access to Mars.
+
+With resourceful commercial players like Jeff Bezos’s Blue Origin and Elon Musk’s Space X projects participating in such endeavours, Space is no more scientific exploration. In the Indian context, the past efforts of the Indian Space Research Organisation (ISRO) have helped to gain Space supremacy. In reference to a Common Operating Picture for the three services, various elements have been created with the help of ISRO.
+
+“Creation of C4ISR functionalities and Space segment infrastructure surely is the next level of additional work cut out for the newly formed Chief of Defence Staff (CDS) to achieve optimal utilisation of military resources,” says Milind Kulshreshtha, C4I expert.
+
+India’s Military Space Perspective
+
+World is increasingly reliant on orbiting satellites that provide communications, navigation, intelligence and other services vital to the national economy and military. To date, India has launched over a hundred space missions to build its space assets worth billions of dollars and has indigenous Defence satellites, like GSAT-7 for Navy or GSAT-6 for Armed Forces. Further, the country has multiple dual-purpose satellites (like the recent RISAT-2BR1 launched a few days back) to support mostly Communication and ISR roles. “Even though India has been a newer entrant in the militarisation of Space, the awareness on this aspect was well founded when in 2010 MoD created an Integrated Space Cell, which is jointly operated by the three service arms, the DRDO and ISRO,” he says.
+
+Earlier this year, India had successfully demonstrated its indigenous capability to intercept a satellite in Low Earth orbit under DRDO’s mission Shakti programme. This ASAT weapon was a high-speed kinetic ground-launched missile which rapidly penetrated Earth’s atmosphere to reach the outer space and search/ track an Indian satellite in orbit and finally engaged to destroy it.
+
+Military Space supremacy in the Indian sub-continent was an intent shaped by China’s ASAT tests in 2007, which had made India conscious of the threat perception and vulnerabilities of civilian and military space assets. The US, Russia, China and India has till now successfully demonstrated these ASAT capabilities by shooting down their own satellites to showcase their prowess.
+
+Indigenous Space-Based Essential Services
+
+India has established its own space-based PNT (Positioning, Navigation and Timing) services very similar to Galileo global navigation system of the European Union, Russia’s GLONASS or China’s Beidou.
+
+“In the warships and military aircraft navigation, the PNT services are very important. This is used for Combat function computations to launch weapons like SSMs. However, in the last few decades these services have become equally essential for civilian applications too and any disruption or interference of these services can lead to millions of dollars of loss. ISRO’s GPS Aided Geo Augmented Navigation (GAGAN) system augments the navigation over Indian Airspace and Indian Regional Navigation Satellite System (IRNSS) is being developed for providing an independent and self-reliant satellite-based navigation services over Indian region.”
+
+The Airport Authority of India (AAI) is closely working with ISRO to establish GAGAN to meet the Civil Aviation requirements of satellite-based navigation (SATNAV) and PNT services based on these indigenous regional satellites as part of IRNSS. GAGAN is part of the AAI project for Satellite-Based Augmentation System (SBAS) for the Indian Airspace and is inter-operable with other similar international systems like from the US, UK and Japan.
+
+The GAGAN geo-footprint covers Africa region to Australian sub-continent for providing a seamless navigation service across the region and is first Satellite Based Augmentation System in the world to serve the Equatorial region to ensure reliability and accuracy of GPS. GAGAN though primarily meant for aviation, shall provide benefits to other services like transportation, maritime, highways, railways etc. IRNSS is another application being launched by ISRO to indigenise the satellite-based navigation system to provide positioning, navigation and timing services for users over Indian region. It is designed for two types of positioning services — Standard Positioning Service (SPS) with 20m accuracy for public use and an encrypted Restricted Service (RS) for military and other authorised users.
+
+The recent launch of the US Space Command brings in a new domain in human warfare methodology. The task of this Space Command is to effectively utilize space-based assets to achieve combat and combat support functions in offensive and defensive roles. Even though a similar effort was launched by the US to weaponize Space in 1985, it was paused to realign military resources post 9/11 terror attack and the programme was merged with the US Strategic Command in 2002.
+
+The revival of Space Command for warfighting capabilities are attributable to the threat perceived due to rapid progress made by Russia and China in Space technology for military purpose and the huge scientific advancements in Space engineering field in the last two decades. This has led to the multibillion dollar budget outlay for a Space Command, indicating the importance gained by Space in a nation’s security on Earth, with Space emerging as the fourth dimension in Defence services (after Land, Sea and Air force).
+
+This US Space Command may be seen as a formal extension of the Space already under exploitation for passive military activities such as ISR (Intelligence, Surveillance and Reconnaissance) missions for deterrence and countermeasures. The Space assets possessed by a hostile nation is so significant that these are themselves recognized as military targets, with several nations possessing Anti-satellite (ASAT) systems to destroy them. Furthermore, the efforts to defend Space-based asset is in progress so as to avoid a conflict that either starts or extends to Space.
+
+Space Command Architecture
+
+“A Space Command structure essentially comprises of satellites of various dimensions, in constellations possessing different orbits i.e. from Low Earth Orbit (LEO) to Geo-synchronous and others. Each satellite or a space-platform in constellation shall have onboard specialised sensors and weapons so as to detect, track and engage Earth-based target on a near Real-Time basis. Such Space assets shall be integrated with military systems on Earth to form an Integrated Enterprise Space architecture to achieve the C4ISR capability and effectively complete the ‘sensor-to-shooter’ loop,” according to the C4 expert.
+
+For example, satellites in LEO orbit shall be key for detection of Hypersonic and Ballistic missile launched from anywhere on Earth. “Overall, a multi-layered distributed processing architecture with satellite elements positioned between LEO and GEO orbit with redundancy characteristics and integrated with Earth stations shall be the core of the system. Achieving an optimal network for such a role is an effort which can extend to over a decade, but is an indicator that Space is the next war-fighting frontier for humans on Earth,” he adds.

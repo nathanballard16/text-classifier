@@ -1,0 +1,21 @@
+T Series vs PewDiePie: Hacker cracks into Nest security systems, asks targets to subscribe to Swedish YouTuber
+
+In yet another not-so-hilarious prank by PewDiePie fans, a hacker SydeFX cracked into several Nest security systems across the world and cast 'Subscribe to PewDiePie' message.
+
+A hacker reportedly watched people through their Nest home security cameras and spoke to them, demanded that his targets subscribe to YouTuber channel PewDiePie.
+
+“Can you please subscribe to PewDiePie. That's my only request, I'll go away if you do,” says the hacker in a now-viral video, first posted on Reddit.
+
+People were reportedly asked to click on the subscribe button while the hacker watched them live.
+
+The hacker, who goes by the pseudonym SydeFX, told motherboard he was able to find around 300 exposed cameras within a matter of minutes, and over the course of 15 hours, he said he accessed and spoke through dozens of cameras.
+
+Till date, SydeFX has hacked into 4,000 unique Nest user accounts.
+
+In an unrelated incident, a California family was reeling after a hacker accessed their Nest surveillance camera, falsely warning them of ballistic missiles being launched from North Korea toward the United States.
+
+Both these incidents have raised several questions on cybersecurity.
+
+This is not the first instance of hacking by PewDiePie fans. During the intense T Series vs PewDiePie battle Pewds hacked printers worldwide on two different occasions asking them to subscribe to the channel. Fans also hacked into Google Chromecasts and defaced the Wall Street Journal website.
+
+The war between Indian record label T-Series and YouTuber PewDiePie intensified in 2018 after the Indian record label's fast ascent to the top. PewDiePie, known for his video-game commentary and controversial comments, has been the most-subscribed YouTube channel for last five years. However, this was challenged by T-Series, which gained over 72 million within months, thanks to India's game-changing data service penetration.

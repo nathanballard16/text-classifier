@@ -1,0 +1,35 @@
+Health | India must close the tortuous discussions on medical device regulation
+
+Gauri Kamath
+
+Medical device regulation is in the news once again. According to reports, the government think-tank Niti Aayog wants medical technologies to be regulated by a US FDA-type super regulator which will also oversee food and drugs. The think-tank has reportedly also circulated a draft Bill, the Medical Devices (Safety, Effectiveness and Innovation) Bill, to various ministries.
+
+The move runs contrary to the proposal of the Union Ministry of Health and Family Welfare to let devices continue to be regulated by the central regulator, the Central Drugs Standard Control Organization (CDSCO) under the purview of the Drugs & Cosmetics (D&C) Act, 1940, and to widen the net to cover all devices from December 1 onwards.
+
+India's seemingly never-ending attempt to introduce a comprehensive and effective medical device regulation seems to be reaching a jubilee of sorts.
+
+In the early eighties, India had despatched a health ministry official to an international meeting on medical devices regulation in the United States. He came back to report that of the 50 countries present there, India was the only country that did not regulate medical devices.
+
+This ignominious discovery triggered a discussion. However, it was only 20 years later, in 2006 that the Department of Science and Technology (DST) put the finishing touches on a Bill to regulate devices based on the report of a committee set up in 2000. The Medical Devices Regulation Bill, 2006, proposed the creation of an autonomous regulator for medical devices. It specified rules for governing safety, efficacy, design and manufacturing. It also proposed the risk-based classification of devices — a practice followed globally — and linked regulation to the level of risk. For instance, an implant that went into the body would be in a higher risk class than an ECG machine.
+
+It was already too late. In 2005, forced by the judgment of the Bombay High Court to regulate medical devices forthwith, the health ministry decided that 10 categories of medical device would be overseen by CDSCO. This was problematic.
+
+The rulebook that CDSCO used to regulate was written for drugs and cosmetics. The drug regulatory regime was already stretched dealing with thousands of drug manufacturers. The result was chaos. Licenses began to be held back because device manufacturers were not following requirements — regarding testing or sterility, for instance — specified in the Act. Manufacturers contended that these were relevant to drugs, not devices. Inspections were tardy as inspectors were few. The queue for licences stretched long.
+
+The worst part was that there was no way for doctors to know which devices were licensed and which weren't, thus raising the issue of moral hazard. Unlicensed operators were free to do business as long as doctors/hospitals continued to prescribe/use their products, making fools of bonafide operators waiting obediently in line.
+
+By the time the DST began pushing its Bill in 2007, the health ministry had appropriated medical devices for itself and with not very good results. More importantly, the ministry was ready with the mother of all Bills; one that would propose a Central Drug Authority (CDA) that would cover all regulated products.
+
+The CDA Bill was not about devices alone though it recognised that devices were not pharmaceuticals and needed to be regulated differently. It involved the Centre gradually taking control of crucial regulatory aspects being handled by state drug authorities. For years, drug companies had managed to turn this shared jurisdiction to their advantage. The most infamous example was when they bypassed the Centre and used the machinery of specific states to obtain manufacturing licences for irrational fixed dose combinations without testing. In retrospect, it is easy to see why the CDA Bill took precedence over the DST one that focused exclusively on medical device regulation.
+
+However, in 2008, a parliamentary committee vetoed the Bill in its existing format as resources for a CDA were scarce and various existing systems would have to be disbanded, and that was that.
+
+Since then the medical devices industry has managed to rub along with the regulator as any industry, intent on staying in business, figures out how to do. More devices have been brought under the purview of the CDSCO and in the absence of regulation, it has released guidance documents and periodic updates for the industry. In 2017, it published the Medical Device Rules that define devices differently from drugs and call for risk-based classification of devices, among other things.
+
+Still, the industry appears to be seriously disturbed by the ministry's proposal to regulate all of it under the D&C Act. This suggests that none of the ministry's actions has solved their fundamental grievance — that a device and a drug need different legislation.
+
+There is also the problem of price control. As long as medical devices stay within the purview of the D&C Act, they face the threat of price cuts under India's relatively new price control policy, just like drugs. Two years ago, the prices of heart stents and knee implants were slashed for the first time. A separate legislation may provide an opening to dilute this threat. Given this background, the Niti Aayog’s Bill is likely to find broad support among the industry. A news report citing official sources stated that the Prime Minister's Office is also in favour of the proposal.
+
+It is high time that India ended these manoeuvrings. As healthcare awareness and access have grown, so has the number of Indians using medical devices in some form or the other. However, their safety continues to be a function of corporate self-regulation as was evident in the Johnson & Johnson hip implant recall and its ramifications on Indian patients.
+
+The government must act decisively on the law so that attention can then be focussed on effective implementation. After all, that is the part where Indian regulators are most likely to stumble.

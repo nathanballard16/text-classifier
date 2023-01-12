@@ -17,7 +17,7 @@ np.set_printoptions(threshold=sys.maxsize)
 # load the dataset
 # TODO: PLACE DATASET HERE **Must be a PICKLE FILE**
 
-path_df = "data/News_dataset.pickle"
+path_df = "data/News_india_dataset.pickle"
 
 with open(path_df, 'rb') as data:
     df = pickle.load(data)
@@ -92,11 +92,11 @@ df = df[list_columns]
 df = df.rename(columns={'Content_Parsed_6': 'Content_Parsed'})
 
 category_codes = {
-    'business': 0,
-    'entertainment': 1,
-    'politics': 2,
-    'sport': 3,
-    'tech': 4
+    'India_Assault': 0,
+    'India_Fight': 1,
+    'India_Protest': 2,
+    'India_Threaten': 3,
+    'India_UMV': 4
 }
 
 # Category mapping
@@ -154,41 +154,41 @@ for Product, category_id in sorted(category_codes.items()):
     # print("")
 
 # X_train
-with open('train_test/X_train.pickle', 'wb') as output:
+with open('india_train_test/X_train.pickle', 'wb') as output:
     pickle.dump(X_train, output)
 
 # X_test
-with open('train_test/X_test.pickle', 'wb') as output:
+with open('india_train_test/X_test.pickle', 'wb') as output:
     pickle.dump(X_test, output)
 
 # y_train
-with open('train_test/y_train.pickle', 'wb') as output:
+with open('india_train_test/y_train.pickle', 'wb') as output:
     pickle.dump(y_train, output)
 
 # y_test
-with open('train_test/y_test.pickle', 'wb') as output:
+with open('india_train_test/y_test.pickle', 'wb') as output:
     pickle.dump(y_test, output)
 
 # df
-with open('train_test/df.pickle', 'wb') as output:
+with open('india_train_test/df.pickle', 'wb') as output:
     pickle.dump(df, output)
 
 # features_train
-with open('train_test/features_train.pickle', 'wb') as output:
+with open('india_train_test/features_train.pickle', 'wb') as output:
     pickle.dump(features_train, output)
 
 # labels_train
-with open('train_test/labels_train.pickle', 'wb') as output:
+with open('india_train_test/labels_train.pickle', 'wb') as output:
     pickle.dump(labels_train, output)
 
 # features_test
-with open('train_test/features_test.pickle', 'wb') as output:
+with open('india_train_test/features_test.pickle', 'wb') as output:
     pickle.dump(features_test, output)
 
 # labels_test
-with open('train_test/labels_test.pickle', 'wb') as output:
+with open('india_train_test/labels_test.pickle', 'wb') as output:
     pickle.dump(labels_test, output)
 
 # TF-IDF object
-with open('train_test/tfidf.pickle', 'wb') as output:
+with open('india_train_test/tfidf.pickle', 'wb') as output:
     pickle.dump(tfidf, output)

@@ -1,0 +1,31 @@
+Debt recovery: Back to square one for RBI
+
+The Supreme Court on April 2, struck down the Reserve Bank of India’s revised framework on Resolution of Stressed Assets, popularly known as the ‘Feb 12 Circular’. The circular had revamped much of the framework that was in place for identification and resolution of stressed assets and directed banks having exposure to entities with large stressed assets to take certain mandatory steps to resolve these exposures within 180 days, failing which they would have to initiate insolvency proceedings against the defaulting entities in terms of the Insolvency and Bankruptcy Code (IBC).
+
+In doing so, the circular also removed recourse to out-of-court restructuring schemes such as CDR, SDR, S4A and the JLF.
+
+In the absence of the Feb 12 Circular, there is, at present, no framework for resolution of stressed assets. This is antithetical to the RBI’s aim to facilitate quick and efficient identification and resolution of such stressed assets. In response, the RBI will have to move fast, and come up with a framework that avoids the pitfalls that have become evident from the failure of the February 12 Circular.
+
+One of the main pitfalls of the circular was that the RBI required the institution of IBC proceedings for all companies whose NPAs (non-performing assets) were not resolved within a fixed timeline. Companies in sectors such as power, sugar, textiles and shipping challenged the circular as being arbitrary, as it prescribed a one-size-fits-all approach and refused to recognise that the circular would not resolve distress when applied to sectors that were suffering due to extraneous factors linked to governmental policy.
+
+The companies argued that they would be unable to come up with a resolution plan to standardise their bad debts within the 180 days provided by the circular, and so they would have to undergo the IBC process.
+
+While the IBC has brought in a paradigm shift in the recovery and resolution of bad debt, anecdotal evidence indicates that due to the inherent problems faced by these sectors, very few buyers would be interested in these assets. This raised questions about the suitability of IBC proceedings for resolving them.
+
+Legal framework
+
+Apart from such concerns that are more rooted in policy, the RBI’s use of the legal framework to issue the Feb 12 Circular was also found to be flawed. The Supreme Court pointed out that the RBI’s powers to regulate stressed assets can only operate independent of the IBC, and that any separate direction to initiate the IBC process could be brought only against single, specific entities, that too, only with prior government authorisation.
+
+A more objective, and in retrospect — legally valid approach — would therefore be for the RBI to allow for a separate identification of companies (like in the case of the so-called ‘dirty dozen’) that should go through the IBC process, after balancing the interests of banks, debtors and the public at large.
+
+This also indicates that there is a need to have a well-considered, out-of-court resolution framework, that is an alternative to the IBC process. The Feb 12 circular provided for a restructuring framework that had extremely strict timelines, and required approval of all the creditors. This made it practically impossible for a resolution plan to be approved within the strict time period of 180 days provided by the circular as it created opportunities for hold-outs by creditors.
+
+The mechanism also did not provide a framework for lenders and borrowers to coordinate with governmental authorities and sectoral regulators. This, therefore, offered no alternative mechanism for resolution of distress for entities that require a more nuanced approach that even the IBC is not entirely well suited for. Had the RBI circular done so, perhaps the court would not have seen such an immediate challenge from entities from the power, sugar and other such sectors.
+
+Competing concerns
+
+This ruling presents the RBI with an opportunity to go back to the drawing board and redesign its framework for resolution of stressed assets. In designing this new framework, the RBI must balance two competing concerns — the need to create the right incentives for banks to resolve their bad loans promptly (in a cost-effective manner), and the need to maintain sufficient flexibility to enable the framework to effectively resolve stress caused by different factors.
+
+If the RBI is able to design a such a framework it would afford better prospects of resolution to struggling sectors and entities than a one-size-fits-all approach.
+
+The writes are Research Fellows at Vidhi Centre for Legal Policy

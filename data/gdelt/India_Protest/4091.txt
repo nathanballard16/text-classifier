@@ -1,0 +1,39 @@
+How Extreme Data Management Can Help Tackle Extreme Climate Chaos
+
+Earlier this month, hundreds of thousands of schoolchildren around the world downed their pens and upped their banners, taking to the streets to convey their anger and disappointment at the government’s lackluster efforts at addressing climate change.
+
+Many of the locations where children were protesting – from Cardiff and Cologne, to Sydney, Brussels, Paris and Hannover – have dedicated smart city initiatives in place. So, why are many of these urban areas failing to wise up to the effects of climate change?
+
+Something in the air
+
+By 2050, 68 percent of the global population is predicted to reside in urban environments, according to the United Nations , adding an extra 2.5 billion people to these areas. With these people will come millions of vehicles, power plants, industrial facilities, waste disposal units and factories, depositing millions of tons of harmful gases into the atmosphere. Air pollution is already a significant problem; today, 97 percent of cities in low- and middle-income countries with more than 100,000 inhabitants do not meet air quality guidelines set by the World Health Organization.
+
+Vehicles, power plants, industrial facilities and the like cannot be avoided. Digital transformation is touching every aspect of our lives, and technological innovation is driving efficiencies and maximizing productivity in a variety of industrial sectors. However, for too long, technology and industrialization have been contributors to climate change. This dynamic must be turned on its head, and smart cities must be underpinned by technology which is the savior, not a source, of environmental damage.
+
+Putting data first
+
+We don’t want to do a disservice to some amazing smart city developments we’ve seen in recent years. Connected buildings, ubiquitous public Wi-Fi, smart utilities meters, adaptive advertising and digital signage have all seen private funding and growing returns. These use cases illustrate a typical, infrastructure-first approach to smart city planning. What we’ve seen less of are data-first strategies, where the end goal is to design cities around the specific needs of the population, and in doing so make them enjoyable, sustainable and minimal-impact places for citizens to live.
+
+Photo: David Ramos/Getty Images
+
+What stands in the way of governments, regulators and smart city planners? The IoT permeates so many aspects of our cities and of their citizens’ lives, with data available and accessible from millions of connected end-points. This data is the key to optimizing our smart cities and taking action on climate change.
+
+Take London: in January, Mayor Sadiq Khan launched a network of fixed and mobile sensors to build up a real-time, hyperlocal image of London’s air quality, with results available to the public. In Louisville, Kentucky, meanwhile, clean air initiatives have been in place as far back as 1945, with the formation of the Louisville Smoke Commission, which later evolved into the Air Pollution Control District. Today, the APCD works with local businesses, academics and communities to monitor pollutants, sharing real-time data with citizens.
+
+Similar tactics have been progressed in countless other locations globally, and this is a great start: if you don’t measure and analyze data, you can’t make the necessary changes to urban environments, and proposed ‘green’ manifestos will never be met.
+
+Huge volumes of IoT data, however, presents a double-edged sword. While the information available is massive, the complex, siloed nature of many of these data sets also erects a major barrier to smart city development. In the space of a decade, we’ve witnessed a monumental shift away from human-generated big data, toward machine-generated extreme data. By 2020, the amount of data produced by the IoT is expected to reach 4.4 zettabytes, up from just 0.1 zettabytes in 2013. Unfortunately, the platforms required to process this (and from which we can draw actionable insight) have failed to keep up in many cases.
+
+Photo: SAJJAD HUSSAIN/AFP/Getty Images
+
+Getting to the root of the problem
+
+Until recently, data analysis has been largely siloed, limiting the ability of smart city developers to draw insights from factors like air pollution, and for applications and services to be created that really influence behavioral change. Instead, metadata from the full sensory array of any urban environment must be collected, organized, indexed, analyzed and visualized; mapped in real time with the inclusion of contextual intelligence. It’s this kind of approach – involving root cause analysis – that will enable city planners and decision-makers to address the kind of problems our children have been taking crucial action to highlight.
+
+Democratizing data
+
+By using an extreme-scale data platform and democratizing data access by making information available to the required parties, situations like this can be identified and rectified.
+
+Optimizing the physical world in this way may sound futuristic, but then so did the concept of fully integrated connected cities just a decade or so ago. Strikes by schoolchildren around the globe should shake governments into action, and highlight how technology can be harnessed to address and attack issues relating to climate change. Enriching data with real-time insights and making this available to a cross-section of stakeholders will help direct government attention and money where it’s needed. Importantly, it’ll also give the taxpayer a real return on their investment, and safeguard our smart cities for future generations.
+
+Richard Baker is CEO of GeoSpock, an extreme-scale data analytics company that collates trillions of data points, and augments them with hyper-efficient intelligence and visualization of spatial and temporal data.

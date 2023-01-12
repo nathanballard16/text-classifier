@@ -1,0 +1,73 @@
+Explained: What is the Personal Data Protection Bill and why you should care
+
+Explained: What is the Personal Data Protection Bill and why you should care
+
+The Personal Data Protection Bill was introduced in the Lok Sabha on Wednesday.
+
+news Governance and policy
+
+The Personal Data Protection Bill, 2019, which has been a long-standing demand, was introduced in the Lok Sabha on Wednesday. The Bill was introduced by Union Minister Ravi Shankar Prasad, who referred the Bill to a joint parliamentary committee of both houses of Parliament instead of the Parliamentary Committee on Information Technology, headed by Congress MP Shashi Tharoor. Concerns were raised by the opposition, which was thwarted by Lok Sabha Speaker Om Birla.
+
+The Bill was necessitated by the Supreme Court judgment on the right to privacy, following which a committee was formed, headed by retired Supreme Court judge Justice Srikrishna. This Committee on Data Privacy drafted a legislation in 2018. However, since then, the people have largely been in the dark with regard to the Bill, till the draft was introduced in the Lok Sabha.
+
+This Bill is new territory for India, and includes a few more clauses than that suggested by the Justice Srikrishna committee. In fact, the retired judge himself believes that the Bill should not be passed at the moment, and should be studied by a parliamentary committee.
+
+The Bill gives gives a lot of power to the government, as it has the power to exempt whichever agency as it sees fit -- which would mean that these agencies can process personal data without consent. Since the govenrment gets complete authority in this matter and which data can be processed without consent, there will be no say of the people in the use of their data by government agencies.
+
+Important terms:
+
+Data fiduciary: Whatever data of a person is collected is processed by any entity. In this sense, the data fiduciary could mean any person, company, juristic entity or the government who store and process this data.
+
+Data principal: The person whose data is being stored.
+
+Sensitive personal data: While all data collected about is personal, this Bill proposes to classify some specific categories as sensitive. This includes financial data, health data, official identifier, data pertaining to one’s sex life, sexual orientation, biometric data, genetic data, whether a person is transgender, whether they are intersex, which caste or tribe they belong to, and what their religious and political affiliations are.
+
+One of the main things that the Bill proposes is a Data Protection Authority, which, however, is under the ambit of the Union government. The members will be selected by the Union government. As the Bill states, the Central government in certain cases will also be allowed to remove the Chairperson of this authority. The timeline for when this will be formed, however, isn’t specified.
+
+This Bill is essential because it determines who has access to what data, what and who is exempt, what the penalties are, among many other things. While this Bill has provisions in place to protect data that is collected by companies, the same cannot be said about the government.
+
+For companies:
+
+The Bill states that the data of each person will be processed only for a necessary purpose, and that only data that is necessary for that purpose should be collected. It asks the data fiduciary — or the entity processing the data — to tell the person whose data is being collected what the purpose of such collection is, the nature of data collected, allow them to withdraw their consent, etc.
+
+One of the things that has been a point of contention in recent years is the government’s insistence on data localisation. Any time you provide your data to something, it needs to be transmitted, processed and stored, it is highly likely that the data is not stored in India, but elsewhere. Data localisation would imply that this data would have to be stored within the physical confines of the country by the entity that is collecting your data. This Bill doesn’t have strict restrictions on data localisation and allows them to process elsewhere. It has only put curbs on sensitive personal data, which must be stored in the country but can be processed elsewhere, pending approval.
+
+The Bill also states that personal data cannot be retained for a period longer than necessary, but states that it can be, with the explicit consent of the person whose data it is or if it is obligated to by law.
+
+It lays down provisions for the free and informed consent of the person who is giving data, which can also be withdrawn.
+
+Biometric data cannot be processed by any data fiduciary, unless it is permitted by law.
+
+Grievance redressal for anything related to these entities — or data fiduciaries — will be the data protection authority. In case of a breach, the data fiduciary will have to inform the data protection authority.
+
+“Any data principal who has suffered harm as a result of any violation of any provision under this Act or the rules or regulations made thereunder, by a data fiduciary or a data processor, shall have the right to seek compensation from the data fiduciary or the data processor, as the case may be,” the Bill further proposes.
+
+Penalties have also been proposed under the current Bill. Some violations attract a penalty of Rs 5 crore or 2% of the company’s worldwide turnover (whichever is higher),
+
+Violations pertaining to the processing of personal data of adults as well as children, failure to adhere to security safeguards and transferring personal data which needs to be stored in the country outside can attract a penalty up to Rs 15 crore or 4% of total worldwide turnover.
+
+For the government:
+
+One of the primary criticisms of this Bill is the amount of power it gives the government.
+
+Areas where your personal data can be processed without consent are largely under the ambit of the government. It allows the government to process personal data without consent in cases where the government wants to provide a benefit or service, issues a certification, license or permit, to comply with a court or tribunal order, to provide medical treatment and health services, to ensure safety “during any disaster or any breakdown of public order”, among others.
+
+Other major exemptions provided include areas where the Central government “is satisfied that it is necessary or expedient”. This includes information in the interest of the security of the state, its friendly relations with other countries, public order and “for preventing incitement to the commission of any cognizable offence”. This has raised eyebrows, as it is entirely the government’s discretion on which department to exempt. “What if one of the agencies exempt is UIDAI, the largest collector of personal data?” Apar Gupta, the executive director at Internet Freedom Foundation, told the Economic Times.
+
+Exemptions also include for when data is processed in the “interests of prevention, detection, investigation and prosecution of any offence or any other contravention of any law”.
+
+The Bill also proposes that it can direct any data fiduciary or processor “to provide any personal data anonymised or other non-persona data to enable better targeting of delivery of services or formulation of evidence-based policies by the Central Government, in such manner as may be prescribed.” This, directly, gives the Central government increased powers. However, it only outlines non-personal data as any data that is not personal. This essentially could force companies to turn over data for targeting their policies.
+
+Social media intermediaries: The Bill proposes that social media companies give users a manner to voluntarily verify their accounts in a manner that will be prescribed, and anyone who verifies to be provided with a mark of verification. This raises questions about anonymous accounts — which while has been used by many for trolling, has also been incredibly helpful in times such as the MeToo movement, for those who didn’t want to reveal their identity.
+
+An Economic Times report also states that users who don’t verify themselves will be flagged, which could lead to these users being profiled. However, while sources told the business daily that this is to curb misinformation and detecting accounts that indulge in trolling. In a blog post, Mozilla said that there is no evidence to prove such a thing will work in fighting misinformation. “...it ignores the benefits that anonymity can bring to the internet, such as whistleblowing and protection from stalkers,” the post states.
+
+For children: The Bill lays down provisions for the processing of the data of children. It asks for verification of the child’s age and consent of the parent/guardian. Penalties are also levied in case of specific violations.
+
+Right to be forgotten: The Bill also provides people what is known as the “Right to be Forgotten” — where the person can restrict the disclosure of the personal data. The person, known as the data principal, has the right to erase personal data. However, this is subject to certain conditions, such as when the data is no longer necessary for the purpose for which it was processed.
+
+The Bill is a starting point, but has many areas which require work. It gives the Central government extensive access to data. While things have been made stricter for companies, mandating them to turn over data may not bode well.
+
+Udbhav Tiwari, a policy advisor at Mozilla Corporation told the Times of India that the Bill is a “dramatic step backwards in terms of processing and surveillance by the government”.
+
+“Exceptions for government use of data, the verification of social media users, and the forced transfer of non-personal data all represent new, significant threats to Indians' privacy,” he said.

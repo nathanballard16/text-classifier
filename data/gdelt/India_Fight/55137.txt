@@ -1,0 +1,39 @@
+How Microsoft Fights Cyber Threats
+
+Cybercriminals are everywhere; no individual or organization across any geographic location or industry is safe from cyber threats. While they're not entirely new, the level of sophistication by cybercriminals has risen steeply. As a result, companies like Microsoft, which have always been focused on security, have adopted new, more advanced and effective approaches to combat these threats.
+
+Here's a look at Microsoft’s (MSFT) efforts.
+
+What the numbers say
+
+“Fewer than one in four companies relied on the Internet for their business operations 10 years ago; now, it is 100%,” reads an Accenture report. While this highlights the expansion of digital economy, it also reflects the parallel rise of cybersecurity risks. The latest World Economic Forum report on global risks mentions cyberattacks and data fraud or theft as the top two risks CEOs are most likely to face.
+
+The consequences of cyberattacks don't just manifest in financial terms due to loss of data or money but extend to reputational and regulatory damage. Cyberattacks dent the reputation of the entity, culminating in the loss of trust among suppliers and customers. Some events even trigger regulatory or legality proceedings and negligence claims. Overall, those lead to losses in productivity and competitiveness for a business.
+
+“Cybercrime is the greatest threat to every company in the world, and one of the biggest problems with mankind,” according to the 2019 annual cybercrime report by Cybersecurity Ventures. It is predicted that cybercrime will cost the world in excess of $6 trillion annually by 2021, up from $3 trillion in 2015.
+
+It is estimated that there were 75,266,311 devices with encounters in the last 30 days worldwide. In the U.S., this number was 3,826,156 while in Russia, China and India, the figures were 3,980,451, 13,613,342 and 3,098,427, respectively. The results of a 2019 survey in the Middle East found that 63% of respondents said their company lost either productivity or data to a cyber incident in 2018. A staggering 46% of these victims were affected more than once; and almost one in 10 victims reported incidents “once a week or more.”
+
+To combat the menace of cybercriminals, companies are strengthening their cybersecurity armor too. IDC projects that worldwide spending on security-related hardware, software and services will reach $151.2 billion in 2023 with a compound annual growth rate (CAGR) of 9.4% over the 2019-2023 forecast period.
+
+Microsoft’s commitment
+
+Each year, over $1 billion is invested by Microsoft to advance its efforts on security, data protection and risk management. Cyber Defense Operations Center (CDOC), which is Microsoft’s cybersecurity and defense facility, uses advanced Artificial Intelligence (AI) to combat cyber threats. The use of AI and machine learning comes into play to tackle the challenging nature and huge numbers of cyber-attacks. A review of Malware by PandaSecurity showed that out of the 15,107,232 files registered in 2017, 99.10% were seen only once. This means, most malware changes every time it infects, and thus each threat comes in a new unidentified format. This is particularly challenging as protection is needed against new unknown threats each time, and this is where advanced technologies are being leveraged.
+
+Microsoft’s CDOC team employs automated software, machine learning, behavioral analysis and forensic techniques to create an intelligent security graph for the environment based on information received via trillions of data points across an extensive network of sensors, devices, authentication events and communications. The intelligent security graph is at the core of Microsoft’s built-in security which is the result of the use of AI and machine learning that trawls through trillions of threat signals to identify the ones which matter, thereby enabling real-time protection.
+
+To bring uniformity in approach and strengthen industry standards and promote best practices, Microsoft has collaborated extensively with governments and organizations around the world. One such example is the decision to open source its Homomorphic Encryption (HE) library. Microsoft defines Homomorphic Encryption (HE) as a special type of encryption technique that allows for computations to be done on encrypted data, without requiring access to a secret (decryption) key.” Microsoft had introduced the first version of Microsoft SEAL back in 2015. To further secure private information, and set agreed standards for HE, Microsoft moved its Simple Encrypted Arithmetic Library (Microsoft SEAL), an easy-to-use HE library, to open source on GitHub under an MIT License for free use.
+
+Over the recent years, Microsoft has been making acquisitions (such as Aorato, Adallom, Secure Islands, Hexadite) to strengthen its next-gen security innovation and the core of its cybersecurity offerings.
+
+In February this year, Microsoft unveiled two new cloud-based technologies in Microsoft Azure Sentinel and Microsoft Threat Experts that empower security operations teams. These are aimed by at reducing the false alarms, noise and other time-consuming tasks which weigh on these teams. Azure Sentinel is a cloud-first service that “analyzes security signal at massive scale across the entire organization, using AI to detect, investigate and automatically remediate threats.”
+
+Overall, each month, Microsoft’s security blocks 5 billion threats, scans 18 billion webpages, analyzes 400 billion emails, interprets data from 700 million Azure accounts and checks 450 million authentications. In early December 2019, Gartner named Microsoft Security a leader in five magic quadrants.
+
+Microsoft’s commitment to cybersecurity is particularly relevant given its move towards a mobile-first, cloud-first world. Today, Microsoft delivers hundreds of cloud services via a million servers across more than a hundred datacenters. Thus, the robustness of its connected ecosystem is of paramount importance. In October, Microsoft bagged the enterprise general-purpose cloud contract from the Department of Defense (DOD).
+
+Microsoft CEO Satya Nadella noted that “businesses and users are going to embrace technology only if they can trust it.”
+
+Disclaimer: The author has no position in any stocks mentioned. Investors should consider the above information not as a de facto recommendation, but as an idea for further consideration.
+
+The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.

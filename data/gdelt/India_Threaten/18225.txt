@@ -1,0 +1,33 @@
+Google Chrome hit with bugs, users losing secondary profiles
+
+In Google Chrome 79, several users have noticed that their secondary profiles are losing names and are being called “Person 1” instead.
+
+Cyber security researchers have discovered new vulnerabilities in Google Chrome that may allow attackers to remotely run malicious code inside the popular web browser.
+
+The SQLite vulnerabilities - - five in total, called “Magellan 2.0” have been disclosed by the Tencent Blade security team.
+
+“SQLite and Google have already confirmed and fixed it and we are helping other vendors through it too. We haven’t found any proof of wild abuse of Magellan 2.0 and will not disclose any details now,” tweeted the Chinese Tencent Blade Team.
+
+“Magellan 2.0 on its way! Blade researcher @leonwxqian found another set of vulnerabilities in #SQLite which can result in remote code execution via WebSQL, leaking programme memory or possible programme crashes,” the team earlier tweeted.
+
+All apps that use an SQLite database are vulnerable to Magellan 2.0.
+
+“However, the danger of a ‘remote exploitation’ is smaller than the one in Chrome, where a feature called the ‘WebSQL API’ exposes Chrome users to remote attacks, by default,” ZDNet reported on Thursday.
+
+An attacker can craft an SQL operation that contains malicious code.
+
+According to Tencent team, the five Magellan 2.0 vulnerabilities were fixed in Google Chrome “79.0.3945.79” version.
+
+Meanwhile, in the latest Google Chrome 79, several users have noticed that their secondary profiles are losing names and are being called “Person 1” instead.
+
+Secondary profiles act like a second browser, allowing families to have their Google accounts synced and separate history.
+
+In Chrome 79, a bug is causing Google Chrome to rename those secondary profiles as “Person 1” and so on, reported 9to5Google.
+
+“It’s not deleting any profiles or wiping their data, but simply renaming the profile to remove its personalized or Google-based name,” it added.
+
+Google issued a warning of data breach for users in India and globally after fixing another Chrome 79 bug.
+
+Alert pop-ups began emerging on laptops, desktops and mobile screens, forcing users in India to read the warning that their passwords may have been stolen as part of a data leak.
+
+“Change your password. A data breach on a site or app exposed your password. Chrome recommends changing your password for the site,” read the warning pop-up.

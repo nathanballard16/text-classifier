@@ -1,0 +1,33 @@
+Wipro Cyberattack: The IT Co Hires Forensic Firm to Probe the Breach
+
+Information technology (IT) outsourcing and consulting giant Wipro Ltd is investigating whether its systems have been hacked and are being used to launch attacks against some of the company’s customers. The BSE has sought clarification on news reports about Wipro hiring a forensic firm to probe the cyberattack.
+
+Meanwhile the company has come in for a lot of criticism and outrage on social media for being reticent with its responses.
+
+Cyber security blog KrebsOnSecurity first reported the Wipro breach . Citing anonymous sources, it said Wipro's systems were being used to target at least a dozen customer systems. KrebsOnSecurity says it heard independently from two trusted sources that Wipro — India’s third-largest IT outsourcing company — was dealing with a multi-month intrusion from an assumed state-sponsored attacker.
+
+Exclusive: Multiple sources now say Indian IT outsourcing giant @Wipro is in the throes of dealing with a months-long breach in which intruders were seen using the company's networks to attack and probe customer systems https://t.co/02WkdkU0UE pic.twitter.com/ptOxylwJ4K — briankrebs (@briankrebs) April 15, 2019
+
+Both sources, who spoke on condition of anonymity, told the Blog that Wipro’s systems were seen being used as jumping-off points for digital fishing expeditions targeting at least a dozen Wipro customer systems. Security experts also told KrebsOnSecurity Wipro’s customers traced malicious and suspicious network reconnaissance activity back to partner systems that were communicating directly with Wipro’s network.
+
+At present, Wipro is reportedly investigating the hacking into its IT systems, which are allegedly being used to launch attacks against some of the company's customers.
+
+Quoting a source familiar with forensic investigation at a customer of Wipro, the blogpost at KrebsOnSecurity says, it appears at least 11 other companies were attacked, as evidenced from file folders found on the intruders’ back-end infrastructure that were named after various Wipro clients.
+
+Responding to the query from BSE, the company stated this incident did not impact its ongoing critical business operations. it says, "The company became aware of a potentially abnormal activity within its network about 10 days ago in respect of few of its employee accounts, who were subjected to an advanced phishing campaign. Upon learning of the above, the company promptly kicked off its standard operating procedure for addressing such incidents. We began investigating the incident, identified and isolated the employee accounts, which were impacted, took remedial steps to contain the incident and mitigate any potential effects of the incident. The company also informed the handful of customers where the affected employees are engaged."
+
+
+
+Wipro says like any large enterprise, it investigates over 4.8 million alerts in a year. "The company has used its industry leading cyber security practices and partner ecosystem for remedial steps and has shared this intelligence with its partners to develop the anti-virus signatures. The same has been applied to our enterprise systems. We are collaborating with our partner ecosystem to collect and monitor advanced threat intelligence for enhancing our security posture. We continue to monitor our enterprise infrastructure at heightened level of alertness," it added.
+
+Other source told the blog, that the company is now reportedly building a new private email network because the intruders were thought to have compromised Wipro’s corporate email system for some time.
+
+Refuting the website’s claim that Wipro was in the process of building a “new private email network” because the intruders were believed to have compromised its corporate email system, chief executive Abidali Neemuchwala told reporters that “such attacks are common in the industry” and that the KrebsOnSecurity blog had conflated various events.
+
+. “We think we have a pretty good email system. You can reach us on our emails,” Neemuchwala told the Economic Times
+
+Wipro told the newspaper, “We detected a potentially abnormal activity in a few employee accounts on our network due to an advanced phishing campaign. Upon learning of the incident, we promptly began an investigation, identified the affected users and took remedial steps to contain and mitigate any potential impact.”
+
+Sophisticated attacks are increasingly being launched on enterprises and government agencies to gain access to critical data and intellectual property.
+
+Nevertheless, the attack on Wipro raises alarms over security readiness of Indian IT companies, since no organisation, regardless of its size, is immune from sophisticated cybercriminals.

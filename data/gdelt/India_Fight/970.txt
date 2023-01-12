@@ -1,0 +1,47 @@
+After SC verdict, how amendments seek to change the law on Aadhaar
+
+Lok Sabha Friday passed The Aadhaar and Other Laws (Amendment) Bill, 2018 to amend the laws relating to the use of Aadhaar and the powers of the Unique Identification Authority of India. The Bill seeks to amend at least 27 sections of the three existing laws: The Aadhaar (Targeted Delivery of Financial and Other Subsidies, Benefits and Services) Act, 2016, The Indian Telegraph Act, 1885, and The Prevention of Money Laundering Act, 2002.
+
+The changes follow the Supreme Court’s verdict of September 26, which upheld Aadhaar but limited its use for only certain subsidies and schemes funded by the Consolidated Fund of India, and disallowed private companies from asking for Aadhaar for authentication. The amendments seek to circumvent some of the restrictions imposed by the court.
+
+The Statement of Objects and Reasons in the Bill said that “with over 122 crore Aadhaar numbers having been issued and with the widespread use of Aadhaar as a proof of identity for various purposes by the Government of India, State Governments and other entities, it is essential to have a regulatory framework for the operation of Aadhaar”. Also, UIDAI needed to be empowered to take “enforcement actions… against errant entities”.
+
+The most important changes are to allow children the chance to exit the Aadhaar ecosystem once they turn 18 years old; expand the scope of Aadhaar being used by entities that was restricted by the Supreme Court; create a UIDAI fund; and provide legal backing for Aadhaar to be used voluntarily as proof of identity to open bank accounts and for mobile phone SIM cards. Read the full text of the Aadhaar verdict here.
+
+Aadhaar for authentication
+
+While the Supreme Court had said that Aadhaar can only be sought for welfare schemes and subsidies mentioned in Section 7 of the Aadhaar Act, the amendments say the central government can, in consultation with the UIDAI, allow Aadhaar-based authentications, if the entity is compliant with certain standards of privacy and security, if it is permitted by law, or for any purpose that the central government feels is in the interest of the state.
+
+The Aadhaar Act previously allowed for the state and any body corporate, Aadhaar-based authentications. Entities allowed to use Aadhaar have to be compliant with privacy and security standards that will be specified by UIDAI.
+
+The changes to The Indian Telegraph Act and The Prevention of Money Laundering Act allow banks and telecom companies to use Aadhaar, if offered voluntarily by a person as a Know Your Customer (KYC) document, although neither of the entities can make it mandatory, or the only KYC document.
+
+A person will have the choice to use any other valid document for KYC. Also, the central government can through a notification allow a non-banking company too, if it feels it is necessary and expedient to do so, to perform such authentications.
+
+Aadhaar for children
+
+The majority verdict of the Supreme Court said “it has to be kept in mind that when the children are incapable of giving consent, foisting compulsion of having Aadhaar card upon them would be totally disproportionate and would fail to meet the proportionality test”. Also, “on attaining the age of majority, such children who are enrolled under Aadhaar with the consent of their parents, shall be given the right to exit from Aadhaar, if they so choose”.
+
+The amendments provision that at the time of enrolment the parents or guardians of the children will have to provide consent, and the agency must apprise them of how the information will be used, whom it will be shared with, and other rights. They also allow for the children to apply for cancellation of their Aadhaar number within six months of achieving adulthood, something that the original Act did not permit.
+
+Complaints and penalties
+
+The original Act did not allow courts to accept complaints filed by individuals, only permitting the UIDAI or officers authorised by it to make complaints in case of violations. The amendments change this, as ordered by the Supreme Court. Individuals will be able to register complaints in certain cases, which can include impersonation, or if their Aadhaar information is disclosed without their consent.
+
+The amendments give UIDAI the power to issue directions to entities in the Aadhaar ecosystem. The penalties to be decided by an adjudicating officer appointed by UIDAI for violations of the laws have been increased to a maximum of Rs 1 crore in certain cases “for each contravention and in case of a continuing failure, with additional penalty which may extend to ten lakh rupees for every day during which the failure continues after the first contravention” by any entity in the Aadhaar ecosystem. The Telecom Disputes Settlement and Appellate Tribunal has been made the Appellate Tribunal for such cases.
+
+Offline verification, voluntary use
+
+Biometric authentication using Aadhaar works when a person’s biometric information — fingerprints or IRIS scan — results in a positive match with the information stored in the Central Identities Data Recovery. Now, the verification can be done “offline”, using a digitally signed copy of the Aadhaar card which has the person’s photograph, selected information and a QR code, but does not have the biometric information and need not include the Aadhaar number.
+
+Though only a law made by Parliament can mandate the use of Aadhaar, people can use it as an ID proof voluntarily, without having to authenticate. The Aadhaar Act only allowed it to be used “subject to authentication”, which has now been changed to use it by authentication or even offline verification.
+
+Other amendments
+
+* Currently, the UIDAI deposits whatever revenue it collects in the Consolidated Fund of India. The amendments create a UIDAI Fund, which will now receive its revenues from fees, grants and charges. The revenue will be used for UIDAI’s expenses.
+
+* In compliance with the Supreme Court’s order, only High Courts (not district courts) can ask for disclosure of Aadhaar-related information. Only an officer of the rank of Secretary (not Joint Secretary, as earlier provisioned) can issue directions for such information in the “interest of national security”.
+
+* Use of virtual IDs to “conceal the actual Aadhaar number of an individual”.
+
+* Omitting Section 57 of the Aadhaar Act relating to use of Aadhaar by private entities, which was struck down by the Supreme Court.

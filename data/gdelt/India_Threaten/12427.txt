@@ -1,0 +1,33 @@
+As API production consolidates abroad, U.S. regulators face safety concerns at home
+
+China and India, which are the largest producers of APIs for the U.S. drug supply, also account for most of the FDA regulatory actions. Not only do quality problems at Chinese and Indian firms raise troubling questions about the safety and efficiency of drugs in the American supply chain, they can also lead to shortages of essential drugs.
+
+Of the 75 warnings letters the FDA sent out since early 2018, 37—or nearly half—were leveled against manufacturers in India or China, the Pharmaceutical Journal reports. During the same span, the European Medicines Agency posted 22 compliance notices with 14, or 64%, going to those two countries.
+
+While those figures reflect China and India's prime position in global API production, they also underscore the concerns U.S. regulators have raised about the vulnerability of the country's drug supply.
+
+Earlier this month, the Pentagon announced it would scrutinize Chinese production of APIs used in a variety of “sartan” blood pressure meds—including losartan and valsartan—that were the target of a global recall by the FDA in 2018.
+
+RELATED: Pentagon eyeing Chinese production of tainted 'sartan' API as trade war grows
+
+At issue were active ingredients N-nitrosodimethylamine (NDMA), N-Nitroso-N-methyl-4-aminobutyric acid (NMBA) and NDEA—compounds all considered unsafe at certain levels—found in the API of Chinese-made sartan drugs.
+
+In early April, the FDA cleared 40 angiotensin II receptor blockers (ARBs) that are free of those three potentially carcinogenic compounds as a worldwide shortage in losartan continues to pinch the global market.
+
+Wednesday, the FDA announced it would be expanding the scope of its probe beyond ARBs as the recalls continue but didn’t specify where the investigation would go.
+
+RELATED: FDA publicly shames Chinese drugmaker for tailor-making inspection documents
+
+But it’s not just Chinese sartan drugs that have been the focus of the FDA’s ire: Earlier this week, the agency knocked Ningbo Huize Commodity for quality control supervision errors that include missing basic records and faked annual operation reviews.
+
+The company makes OTC products such as hand sanitizer, body lotion, sunscreen products and lipsticks, which it’s selling to more than 20 foreign countries including the U.S., Japan and Germany, its website shows. The warning letter specifically mentioned sunscreen products, which the FDA classifies as OTC drugs.
+
+Now, the FDA considers all Ningbo Huize’s drugs to be adulterated. After putting the plant on an import alert list that forbids its drugs from entering the U.S., the FDA has followed with the warning letter. The company has agreed to a voluntary recall, according to the FDA.
+
+RELATED: Indian API maker hosed by FDA over contamination potential
+
+Indian manufacturers have also had an ignoble recent history with the FDA.
+
+Wednesday, the FDA issued a warning letter citing CTX Lifesciences' API manufacturing facility in Surat, India, for impure water in February. The letter said that the company knew its API was intended for a sterile injectable drug and “failed to monitor and control the water used in the rinse steps for endotoxins.”
+
+The FDA said the ingredient maker also failed to properly investigate the results from an out-of-spec test of its water, which the company invalidated.

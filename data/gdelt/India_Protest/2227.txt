@@ -1,0 +1,71 @@
+IIT Madras creates bio-friendly laser from carrots using CV Raman’s technique for the first time in the world!
+
+This IIT Madras research team showed the possibility of creating a working, bio-friendly laser from a carrot, using a scientific process first discovered by renowned Indian scientist Sir CV Raman.
+
+Researchers from the Indian Institute of Technology (IIT) Madras have done something incredible - they have showed the possibility of creating a working, biocompatible laser from a carrot, using a scientific process first discovered by renowned Indian scientist Sir CV Raman who won the Nobel Prize for Physics in 1930! This breakthrough by IIT Madras researchers is the first-of-its-kind in the world.
+
+Not only would the laser made from carrots be bio-friendly, but the system being developed is also robust, reliable and has a good and linear response to temperature.
+
+This finding by the team could help science advance in the fields of scientific and industrial research on optical spectroscopy and sensing.
+
+Features of the bio-friendly lasers IIT Madras is developing from carrots:
+
+Natural and fully biocompatible system, which can be used with other bio-entities for their sensing based on the proposed laser
+
+Easy and safe to handle and use
+
+Robust and highly reliable since the lasing mode is fixed at a specific wavelength by Raman vibrational mode
+
+This 'kitchen laser' has very good and linear response for temperature which could be used for temperature sensing too
+
+Actual carrot sample under Raman spectrometer for lasing studies(source: IIT Madras)
+
+What is a laser and how does it work?
+
+Light Amplification by Stimulated Emission of Radiation, more commonly known as LASER, is one of the most important discoveries of the 20th century.
+
+Lasers are ever-present sources of light with extraordinary properties such as a high degree of directionality and sharpness.
+
+A laser is created when electrons in some special materials absorb energy and become 'excited'. These electrons emit 'particles of light' or photons when they return to their original state. The photons are coherent, which makes the light emitted powerful and sharp.
+
+These lasing materials are usually solid-state and semiconductor materials, such as Nd-YAG, which are expensive, and involve environmental issues during production and/or use.
+
+Lasers are crucial requirements in a variety of products and technologies including communication, lithography, medicine, military operations, scientific research, engineering, displays, and data storage.
+
+In this research by IIT Madras, a Raman process along with the cellulose network have been used to demonstrate a particular class of lasers called 'random lasers' in carrots.
+
+(source: IIT Madras)
+
+Who all were involved in this research?
+
+This breakthrough research was undertaken by a team comprising Prof C Vijayan, Physics Department, IIT Madras, and Dr Sivarama Krishnan, Assistant Professor, Physics Department, IIT Madras, along with Venkata Siva Gummaluri, PhD Research Scholar, Physics department, IIT Madras.
+
+Why is bio-friendly technology important now?
+
+"There is now a move towards development of green, sustainable materials for various applications, including in photonics. The need for green photonic technologies in obvious in the current times where sustainability, bio-compatibility and -degradability are of paramount importance," said Prof C Vijayan, speaking about the importance of this research by IIT Madras.
+
+Science behind the IIT Madras research on lazers made from carrots
+
+Organic chemical based lasing sources have been around for decades, nearly as long as semiconductor sources.
+
+Random Lasers (RL), for example, have traditionally used plasmonic or dielectric scatterers, and gain media such as chemical dyes and fluorescent polymers.
+
+While the traditional polymers used were toxic and non-biodegradable, the search has been on for more eco-friendly fluorescent polymers.
+
+Cellulose fibers for example, have been shown to facilitate multiple scattering of phonons, suggesting possibility of an organic/eco-friendly bio-compatible scattering medium.
+
+Since biocompatibility and sustainability point to bio-derived materials, the IIT Madras research team looked at biological molecules as probable lasing sources.
+
+"We were excited to see lasing in fresh carrots, due to the carotene and cellulose found in them. We have successfully demonstrated CW-laser pumped stable Stokes mode random lasing, exploiting the Raman activity of naturally occurring carotene and multiple scattering due to cellulose in carrots," said PhD student Gummaluri.
+
+"Organic bio-pigments like carotenoids found in carrots and porphyrins found in chlorophyll are interesting optically active media because of their visible light absorption properties," said Dr Sivarama Krishnan, elaborating on their Research.
+
+"Although the fluorescence quantum yield of carotenoids is much less compared to standard organic laser dyes, the vibrational spectra can be obtained even with extremely low concentrations of carotenoids. The research team naturally chose carotenoid, as a possible lasing source," he added.
+
+Carrots, in addition to having carotenoids, also have cellulose fibers that contribute to multiple scattering of photons and resultant optical amplification for Raman random lasing. They were not wrong in their expectation.
+
+Read: IIT Madras ties up with Italian company for sustainable energy research
+
+Read: How the Carbon Zero Challenge at IIT Madras is creating job makers to solve the planet’s environment problems
+
+Read: Life at IIT-Madras: How the top engineering college in India is better than the rest

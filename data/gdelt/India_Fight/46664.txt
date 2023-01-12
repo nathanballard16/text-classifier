@@ -1,0 +1,93 @@
+Unmasking Of Online Anonymity : Need To Strike Balance
+
+The Indian judicial system has recently seen a surge in the number of cases demanding elimination of online anonymity by prescribing mandatory linkage of email IDs and social media accounts with govt identity proofs.
+
+Petitions have been filed in Courts seeking for linking social media accounts with Aadhaar. A plea has been filed in High Court of Kerala seeking a ban on Telegram, raising concerns about the app allowing unbridled anonymity in exchange of messages.
+
+All such petitions emanate from a common concern - fake accounts are used to perpetrate cyber crimes, extortion, defamation, etc. While misuse of anonymity on social media is not new-fangled, the legal battle against it is quite premature.
+
+In a recent development, the High Court of Delhi passed an ad-interim ex-parte order asking a major social networking service, Instagram, to take down posts containing sexual harassment accusations against leading Indian contemporary artist, Subodh Gupta.
+
+
+
+The allegations were made by an unnamed co-worker of Gupta a year ago, on an anonymous Instagram handle, aggrieved by which Gupta had filed a civil defamation suit. Therein the court also asked Instagram to furnish the particulars of the person/entity behind the account, in a "sealed envelope".
+
+This order has raised many eyebrows due to the nature of consequences attached to it. Forcible disclosure of identity not only undermines the fundamental right to privacy of an individual but also affects the freedom to express oneself freely.
+
+Right to Privacy
+
+In the absence of adequate jurisprudence on the right to privacy, a recourse may be had to the proceedings of Justice K. Puttaswamy v. Union of India, (2019) 1 SCC 1, which recognized the right to privacy as a fundamental right.
+
+In this regard, Justice Chandrachud in his judgment said,
+
+
+
+"In order to judge the reasonableness of the restrictions, no abstract or general pattern or a fixed principle can be laid down so as to be of universal application and the same will vary from case to case…"
+
+During the proceedings, Justice D. Y. Chandrachud asked,
+
+
+
+"Can an individual assert his right to be anonymous? A fundamental question before us is about to what extent an individual can say that he has a right to remain anonymous. To what extent you can assert your right to privacy to suppress your identity?"
+
+These unanswered questions indicate that the judiciary envisioned the present circumstances and it is certainly why it chose to lay down the guidelines in the matter on a case to case basis.
+
+Another issue striking at the nerve of the topic is the execution of unilateral contracts between individual subscribers and the intermediaries; often devoid of any stiff assurances of privacy. While it is trite law that fundamental rights cannot be waived, can these contracts pave way to justify public disclosures, given that the right to privacy is negotiable?
+
+Other jurisdictions
+
+
+
+While as per the Report of the Special Rapporteur on the Promotion and Protection of the Right to Freedom of Opinion and Expression, David Kaye, "encryption and anonymity enable individuals to exercise their rights to freedom of opinion and expression in the digital age and, as such, deserve strong protection," the international law provides little clarity as to its position. In such a situation, online anonymity has multifarious takes in different jurisdictions.
+
+Europe
+
+In a Declaration on Freedom of Communication on the Internet, the Committee of Ministers of the Council of Europe endorsed online anonymity. As per Principle 7 of the declaration, "In order to ensure protection against online surveillance and to enhance the free expression of information and ideas, member states should respect the will of users of the Internet not to disclose their identity."
+
+The Committee realized though that the pleasure of anonymity could not be employed to give free way to exploitation. In view thereof, it further resolved,
+
+"This does not prevent member states from taking measures and co-operating in order to trace those responsible for criminal acts, in accordance with national law, the Convention for the Protection of Human Rights and Fundamental Freedoms and other international agreements in the fields of justice and the police."
+
+United States
+
+As early as in 1995, the Supreme Court of the US had recognized the contours of anonymity, stating that it was a "shield from the tyranny of the majority". The decision was passed in an appeal titled McIntyre v. Ohio Elections Comm'n, 514 U.S. 334 (1995).
+
+The Supreme Court held therein, with respect to anonymous pamphleteering, that the right to speak anonymously was protected by the First Amendment. It said,
+
+"the purpose behind the Bill of Rights, and of the First Amendment in particular: to protect unpopular individuals from retaliation--and their ideas from suppression--at the hand of an intolerant society."
+
+Justice Scalia on the other hand, who gave a dissenting judgment in the case, said,
+
+"It facilitates wrong by eliminating accountability, which is ordinarily the very purpose of the anonymity. There are of course exceptions, and where anonymity is needed to avoid "threats, harassment, or reprisals" the First Amendment will require an exemption".
+
+Recently, the U.S. Court of Appeals for the Sixth Circuit held in Signature Management Team, LLC v. John Doe, that even if an anonymous user was found to be in violation of law, the First Amendment could be used to protect his anonymity. However, the court set a default of unmasking the violator unless he could prove that unmasking was not warranted. While deciding this issue, the courts would undertake several factors, including the public's interest in the litigation, the plaintiff's needs to know the defendant's identity to enforce the judgment against them, etc.
+
+Interestingly, a California court had forced Twitter in 2011 to disclose personal details of a user accused of defaming a local authority in north-east England, via a series of anonymous Twitter accounts.
+
+South Korea
+
+Stating that "anonymous speech in the Internet, though fraught with harmful side­ effects, should be strongly protected in view of its constitutional values," the South Korean Constitutional Court struckoff Article 44­5 of the Information Communication Network Act which obligated all the Internet intermediaries, receiving more than 1,00,000 average daily users, to verify its users' identities.
+
+However, the Court upheld mandatory identity verification in certain cases, viz.:
+
+Article 82­6(1) and 82­6(5) of the Public Officials Election Act which prescribe identification of persons who publically support or oppose a candidate during an election campaign;
+
+Article 16(4) of Juveniles Protection Act which prescribes identification of persons using websites servicing adult material; and
+
+Article 12(3) of Game Industry Promotion Act which prescribes ascertainment of age of persons using gaming websites.
+
+Brazil
+
+The Federative Republic of Brazil prohibits anonymous speech. Article 5 of the Constitution of the Federal Republic of Brazil of 1988, states "the expression of thought is free, and anonymity is forbidden".
+
+Need to strike a balance
+
+In India, the Information Technology Act, 2000 contains provisions, particularly Section 69, which empowers the law enforcement authorities to intercept, monitor or decrypt or cause to be intercepted or monitored or decrypted any information generated, transmitted, received or stored in 'any computer resource' in the interests of public order, among other reasons.
+
+As per section 79(3) of the Information Technology Act 2000, an intermediary is bound to remove or block content on instructions from appropriate authorities or orders from Courts.
+
+How far these powers can be invoked to direct revealing of anonymous online users? The law is at a very nascent stage on this issue.
+
+If a person is maintaining anonymity out of legitimate concerns - for example a whistleblower who is fearful of threat to life from those in power, or a survivor of sexual harassment who is not comfortable with participating in a formal legal process which is perceived to be insensitive to women - coercive directions to unmask identity can lead to unjust results. At the same time, there is a pressing concern of misuse of online anonymity to inflict harm on others through defamatory posts, cyber abuse etc.
+
+It may not be possible to lay down a straitjacket formula to deal with the issue. A total ban on online anonymity will be a disproportionate invasion on right to privacy and freedom of speech and expression; however, there should be some degree of legal control retained, lest anonymous accounts run amok inflicting harm on others. One can only hope that the Courts will follow a balanced and judicious approach on a case to case basis.

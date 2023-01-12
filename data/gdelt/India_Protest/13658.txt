@@ -1,0 +1,43 @@
+SmartCirqls: On Changing Big Data Ecosystems for India
+
+The volume of machine data generated at the organizational level has been growing exponentially year on year, but due to the sheer size, diversity, and complexity of this data, organizations are unable to tap into its potential. Furthermore, a large contributor to this is the fragmentation in leadership – between business, operations and IT. By breaking down the data silos and unifying them across the enterprise on a single pane view, SmartCirqls is able to centralize access to information, and hence to knowledge. And that, according to SmartCirqls, is the master key.
+
+
+
+Headquartered in Mumbai, Maharashtra, SmartCirqls was founded in 2012, with a goal of making machine data searchable and actionable to enterprises in India. Partnering with Splunk, a leading US based big data analytics platform, helped SmartCirqls to achieve that goal for their customers. The company helps build the vital connections between information silos to provide key insights into business operations and intelligence.
+
+
+
+SmartCirqls has been proactive and recursive in demonstrating that once knowledge management is centralized in the hands of a C-suite owner, the collaboration between business, operations and IT follows naturally. “We’ve found that a successful big data implementation needs to resolve critical pain points from the top down, and go about this with a logical follow through”, says Juthika Nagpal, Big Data Strategist and Business Head, SmartCirqls.
+
+
+
+Small Data – Big Questions
+
+The initial hurdle in an organization’s nascent big data stage is the overwhelming disparity in sources of data. SmartCirqls found a methodical approach that tackles this at the start. According to Juthika, a few key questions pave the way to a structured and successful implementation: “What are the top 3 or top 5 issues this business / IT unit faces? Which KPIs mark these and how do we define them? Which applications or systems do these data points come from? Who are the admins or stakeholders of these applications? Following that, it is purely a technical and operational process to get the data in and work back up the chain, from the small data, to the big questions.”
+
+
+
+SmartCirqls has made some remarkable and successful implementations using the small data – big questions approach. Zee Digital, for example, started out using Splunk to analyze content consumption across their OTT Live TV streaming service. They have now scaled it to resolve issues and get product and business metrics, with end to end visibility across systems - content delivery network, data from mobile & web applications, subscription management systems, and marketing plug ins. Similarly, a large Indian telco worked with SmartCirqls, only to go from basic operational intelligence for one business unit, to three product & operational teams centralizing on Splunk.
+
+
+
+Well aware of the fact that no two businesses have identical issue resolutions, and no two Splunk implementations are alike, SmartCirqls‘ Big Data Strategists and Splunk engineers work closely with clients to understand and evaluate the metrics and data requirements key to the business.
+
+
+
+Journey in the Initial Years
+
+When SmartCirqls was established, the Splunk conversation was 3-4 years ahead of its time. Pertaining to which, SmartCirqls’ initial years were focused on evangelizing and engaging the Big Data conversation with the clients, while maintaining a practical and executable approach to Small Data. “At this point it was essential for us to stay operationally lean while continuing to expand our reach and impact”, adds Juthika. “The focus of our investment has been in building technical expertise and in R&D on big data and Splunk.”
+
+
+
+SmartCirqls is a gender equal, diverse and passionate team of professionals. While Indian tech startups face 25-30 percent attrition, SmartCirqls had zero attrition in the last 2 years while scaling the team to 200 percent. A swift go to market approach, well defined POCs, streamlined and effective implementations- all of this driven by acore, visionary team and management testifies to SmartCirqls’ glory days in the present market.
+
+
+
+Since 2012, SmartCirqls has been operating as the sole actively engaged Splunk Channel Partner from India. 2016 has so far been a pivotal year for SmartCirqls as the company deployed the largest ever Splunk implementation for an Indian company. The same quarter saw SmartCirqls‘ relationship with Splunk Inc. strengthen, as the company was signed on as the sole Splunk distributor for the Indian subcontinent. With large and mid-sized System Integrators now partnering as SmartCirqls’ collaborators, SmartCirqls is all set to script the story for Splunk’s partner ecosystem in India.
+
+Read More: How Som Satsangi analyzes Big Data Trends
+
+YouTube invests in learning content across Indian languages

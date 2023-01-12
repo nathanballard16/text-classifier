@@ -1,0 +1,51 @@
+EVM Malfunction: Does Criminalisation Deter Genuine Complaints?
+
+New Delhi: On April 23, standing outside a polling booth in Guwahati, former DGP and well-known Assamese writer Harekrishna Deka complained to the local media, “Even though I pressed the button for a certain candidate, the VVPAT registered it under some other candidate.”
+
+Deka said, “I challenged (it), asked him (the polling officer) why this happened. He said I could challenge it by paying Rs 2, but added that if I made a false complaint, I would be punished for six months. I do not want to take the risk. In what manner will you prove it?”
+
+State chief electoral officer (CEO) Mukesh Sahu said that Deka can prove it by declaring it to the presiding officer. “The presiding officer will give him a form where he will have to declare that his statement is true. If found false, action will be taken.” Sahu told the news magazine InsideNE, “If he gives that declaration, he will have to show by giving a test vote [to prove] what he is saying is true. The form number is 49 (MA).”
+
+Also Read: VVPATs: This Simple Proposal Will Help the Election Commission Clear the Air on EVM Use
+
+Deka’s allegation about EVM malfunctioning causing votes to register for a different candidate is not new. In the the last two phases of voting for the general elections, several similar allegations have been made. During the April 11 phase, a voter from Meerut showed a video he had recorded with his phone camera as “evidence” to complain that his vote cast for the Bahujan Samaj Party (BJP) got registered for the BJP. The Times of India said, “Although officials replaced the ‘faulty’ machine, claiming it was a ‘malfunction’, non-BJP parties alleged that machines had been tampered with.”
+
+Even as Deka was complaining to the media in Guwahati on April 23, news reports spoke of one voter in Kerala’s Kovalam complaining, “I have voted for Congress, but the picture [that] came on the (VVPAT) screen and the slip was lotus. I want to cast my vote again.” Yet another voter from Thiruvananthapuram too made a similar complaint during the day.
+
+With several complaints coming from voters during the three phases of voting, it is worthwhile to highlight the mechanism put in place by the Election Commission of India (ECI) to register complaints.
+
+Deka was not far from the truth when he said he would run the “risk” of a six-month jail term for complaining to the ECI about a possible malfunctioning of the EVM leading to votes registered to the wrong candidate.
+
+As per rules amended by the ECI in 2013, the complainant will have to fill up a declaration form and be ready to cast a test vote to state that her/his allegations are “true and bona fide.”
+
+What follows such a declaration does pose the question: Is it a veritable intimidation for and a deterrent to voters making genuine complaints?
+
+As per the 2013 rules, the complainant can not only be jailed for six months under Section 177 of the IPC for “furnishing false information” but also fined a sum of Rs 1,000. News reports said the new rules were introduced along with the concept of printers for the paper trail of votes recorded by the EVMs through VVPAT machines.
+
+It brings us back to the question that Deka posed to the authorities. “Who will take the risk?” An FIR was registered against the Meerut complainant after ECI officials found the machine was working ‘fine’. In the third phase too, an FIR was lodged against the voter from Thiruvananthapuram who lodged a complaint.
+
+The case for decriminalisation
+
+Last month, Tiruvalla-based Philose Koshy made the case for decriminalising filing a complainant under form 49 (MA). In a letter to CEC Sunil Aurora, Koshy, an IIT-Kanpur alumnus, wrote, “Free and fair election process, which is the bedrock of Indian democracy, would be under serious threat if voters fail to report the false VVPAT display for fear of criminal prosecution in case the complaint is “found” false by the ECI officials. The honourable Supreme Court has held in a catena of cases that the constitutional protection for the fundamental political expression is calculated to insulate the freedom from such a chilling effect.”
+
+Koshy suggested that instead of the VVPAT slip directly dropping into the ballot box, the ECI should allow the slip to be collected by the voter and after inspecting it, drop it into the box.
+
+Early this week, Koshy, along with Bhim Army leader Chandrasekhar Azad and Sanjeev Danda, secretary, Dalit Aadivasi Shakti Adhikar Manch (DASAM) demanded de-criminalisation of EVM complaints, besides demanding 50% VVPAT verification.
+
+Speaking to The Wire, Koshy said, “The basis for EC’s criminalisation of the complaint against EVM malfunctioning is to stop false complaints. But it has not been able to differentiate between a deliberately made false complaint and a real one.”
+
+He said this is particularly worrying when voting through EVMs is the main expression of a citizen’s right in a democracy. He said, “The voter only gets seven seconds to ascertain that her vote was correctly registered. She could be wrong at times. A voter must be allowed that right. Not everybody complains anyway. Also, there is no empirical evidence with the EC to conclude that voters will misuse such a facility.”
+
+Also Read: The Election Commission Must Not Come in the Way of More VVPAT Verification
+
+Koshy said in most cases, the voter cannot prove his/her point through a test vote, simply because a machine may not repeat the malfunction. “It is a like a car, which may not start sometimes. But when you call the mechanic, it suddenly does.”
+
+Apart from suggesting voter verification before the VVPAT is dropped into a ballot box, Koshy also suggested to the EC to allow voters to click a photo so that they have proof to lodge a complaint. “But verification of the slip by the voter and manually dropping it into a ballot box is a much better option. If a photo is taken, the voter’s privacy may be violated,” he pointed out.
+
+Intimidation and deterrent
+
+Activist Teesta Setalvad also made a similar request to the CEC on April 1. “Under Section 49MA of the Conduct of Election (Amendment) Rules, 2013, the presiding officer of a polling station first ‘warns’ the voter on the consequences of filing a false complaint. This itself is an intimidation and a deterrent (given our vast socio-economic disparities),” she wrote.
+
+Former CEC S.Y. Quraishi, who was not fully aware of the criminalisation of the complaint by the EC since 2013, however, felt that the entire process of voting through EVM/VVPAT “is a well considered move” and must be gauged from “the experience of it”.
+
+“Theoretically, it is correct that a machine might malfunction one time and may not the next time. But the chances are very remote. About the rule, I would say that it is six years old, and what has been the experience of it? Is it just notional? How has it worked? How have the complaints been dealt with so far? Sometimes, a false complaint can delay the voting process. The system of a test vote by a voter was brought in only because the complaint has to be based on facts. But if it is proving to be too harsh on voters, it will have to be seen.”

@@ -1,0 +1,63 @@
+Hitachi's Liaison Office Constitutes Its Taxable Presence In India, Rules Tribunal
+
+ARTICLE
+
+To print this article, all you need is to be registered or login on Mondaq.com.
+
+Introduction
+
+Recently, the Delhi Bench of the Income Tax Appellate Tribunal (Tribunal) held that the Liaison Office (LO) of Hitachi Technologies Singapore Pte Limited (Hitachi) constituted a Permanent Establishment (PE) of Hitachi in India for the financial years (1 April to 31 March) 2001-02 to 2006-07. Hitachi was engaged in trading business and the activities undertaken by the LO were viewed as "core" activities for a trading business and not merely "preparatory" in nature.
+
+Under Indian tax law (read with applicable tax treaties), if a non-resident has a place of business in India, it could be deemed as its taxable presence i.e. a PE (there are certain exceptions) - as a result of which, income arising to the non-resident which is attributable to its PE is taxable in India.
+
+Facts of the Case
+
+Hitachi, a wholly owned subsidiary of Hitachi High-Technologies Corporation, Japan (Hitachi Japan), was engaged in trading operations across ASEAN countries. Hitachi had set up an LO in India at Delhi in 1988 on obtaining permission from the Reserve Bank of India (RBI). The permission was granted by RBI subject to certain conditions in relation to the nature of work which could be undertaken by the LO, essentially preventing the LO from undertaking any commercial activities . Hitachi had also set up LOs in Bangalore and Mumbai which were closed in the year 2004. In 2007, Hitachi had set up a Branch Office (BO) in Delhi.
+
+The LO was engaged in marketing research, marketing and sales promotion and communication and logistical support services.
+
+In April 2008, the tax authorities conducted a survey at the premises of the BO and collected the following information, based on which they treated the LO as Hitachi's PE in India for the years 2001-2002 to 2006-2007. For the purpose of attribution of income to the PE, the tax authorities sought to apply the global profit margin of Hitachi to the sales made in India and attribute 50% thereof to the PE in India. However, at the time of finalising the assessment, the tax authorities considered the commission of 16.5% on sales charged by an independent agent of Hitachi as a comparable, and attributed income to the PE accordingly.
+
+Statements of the employees at the BO:
+
+The tax authorities heavily cross-examined the employees of the BO, raising questions such as:
+
+Nature and activities conducted by the LO and BO respectively, and whether there was any difference in the nature of activities earlier conducted by the LO and now conducted by the BO
+
+Number of employees in the LO and nature of activities undertaken by each employee
+
+Reason for conversion from LO to BO
+
+Details regarding salary expenses incurred by Hitachi in relation to employees working in India
+
+Email exchanges between representatives at LO, tax consultants and employees of Hitachi Japan:
+
+The income tax authorities obtained access to 93 pages of email communications taken from the laptop of one of the employees at the LO and observed that such employee was an important executive, as she was marked in all emails regarding Hitachi.
+
+Interestingly, the tax authorities have heavily relied on email exchanges between the representatives of Hitachi and its tax consultants, wherein the litigation risk exposure and the strategy to deal with this very tax issue was discussed. In such emails, the representative of Hitachi has stated that the LO was in fact actively involved in "commercial activities".
+
+Arguments advanced by Hitachi
+
+The principle contention raised by Hitachi, was that LO was only acting as a communication channel between the customers and Hitachi and providing logistical support as permitted by RBI. Hitachi therefore contended that the activities of the LO were "preparatory and auxiliary" in nature and would fall under the exclusion provided under Para 7(e) of Article 5 of the India-Singapore tax treaty, as per which a PE shall not arise where a place of business is maintained "solely for the purpose of advertising, for the supply of information, for scientific research, or for similar activities which' have a preparatory' or auxiliary character, for the enterprise."
+
+Arguments advanced by the tax authorities
+
+Based on the information unearthed in the course of the survey operation, the tax authorities observed as follows:
+
+Key personnel of Hitachi were working in the LO and carrying out advertisement, sales promotion and marketing activities
+
+The activities of the LO included ascertaining customer requirements, price negotiations, following up on deliveries and chasing the customers for payments
+
+The tax authorities therefore contended that as Hitachi was a trading concern, such activities undertaken by the LO would form the "core" activities of Hitachi and could not be considered as "preparatory or auxiliary" in nature.
+
+Decision of the Tribunal
+
+The Tribunal held in favour of the tax authorities, on the basis that since Hitachi was engaged in trading operations, the nature of activities undertaken by the LO, that too since the year 1988, could not be considered as "preparatory and auxiliary" in nature and would qualify as core business activities of Hitachi. Activities of the LO therefore constituted a PE of Hitachi in India.
+
+As regards attribution, the Tribunal appreciated that the basis adopted by the tax authorities was not appropriate, given that the LO was performing routine and limited functions with negligible risk profile (as compared to an independent agent) and therefore, directed the tax authorities to recompute attributable income, using the Transactional Net Margin Method (TNMM).
+
+Comments
+
+This ruling reaffirms the principle that for the purpose of assessing whether activities undertaken by representatives / office of a non-resident in India are merely "preparatory or auxiliary" in nature, the deciding factor would be the criticality of such activities vis-à-vis the overall business of the non-resident. In addition to the technical aspects discussed in this ruling, one should also note the nature of detailed scrutiny undertaken by the tax authorities. Aspects such as email communication and statements of employees recorded during survey proceedings are generally key sources of information in such cases. Thus, in addition to intra-group contractual arrangements, one needs to review all the surrounding facts including internal and external email communication and how the representatives on the ground understand the business operations of the offshore group entities, to ensure that consistent positions are taken.
+
+The content of this document do not necessarily reflect the views/position of Khaitan & Co but remain solely those of the author(s). For any further queries or follow up please contact Khaitan & Co at legalalerts@khaitanco.com

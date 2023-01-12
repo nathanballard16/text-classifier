@@ -1,0 +1,19 @@
+Mozilla red flags changes in IT Act
+
+Mozilla on Thursday warned that the proposed amendments in the Information Technology Act 2000 for social media and internet firms by the government are a “blunt and disproportionate fix to the problem of harmful online content”, which will lead to “over-censorship and chill free expression.”
+
+New Delhi: Mozilla on Thursday warned that the proposed amendments in the Information Technology Act 2000 for social media and internet firms by the government are a “blunt and disproportionate fix to the problem of harmful online content”, which will lead to “over-censorship and chill free expression.”
+
+“The proactive obligation on services to remove ‘unlawful’ content will inevitably lead to over-censorship and chill free expression,” it said. Mozilla said that automated and machine-learning solutions should not be encouraged as a silver bullet to fight against harmful content on the internet. “Requiring services to decrypt encrypted data, weakens overall security and contradicts the principles of data minimisation, endorsed in Ministry of Electronics and Information Technology’s draft data protection bill,” it said.
+
+Mozilla said that Indian government proposed sweeping changes to the legal protections for “intermediaries”, affect every internet company today. It said that intermediary liability protections have been fundamental to the growth of the internet. This, it pointed out ensures that companies generally have no obligations to actively censor and limited liability for illegal activities and postings of their users until they know about it.
+
+“In India, the landmark Shreya Singhal judgement had clarified in 2015 that companies would only be expected to remove content when directed by a court order to do so," said Mozilla.
+
+It said that new rules proposed by the Ministry of Electronics and Information Technology (MEITY) turn this logic on its head.
+
+“They propose that all “intermediaries”, ranging from social media and e-commerce platforms to internet service providers, be required to proactively remove “unlawful” user content, or else face liability for content on their platform,” it said.
+
+“They also propose a sharp blow to end-to-end encryption technologies, used to secure most popular messaging, banking, and e-commerce apps today, by requiring services to make available information about the creators or senders of content to government agencies for surveillance purposes,” it said.
+
+Mozilla said that it recognise that harmful content online — from hate speech and misinformation to terrorist content — undermines the overall health of the internet and stifles its empowering potential.

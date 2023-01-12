@@ -1,0 +1,19 @@
+Aadhaar Truth: UIDAI Never Appointed a Chief Information Security Officer, Reveals RTI
+
+Everyday there are news reports and information coming out in public domain about leakage of Aadhaar data. However, every time the Unique Identification Authority of India (UIDAI), the agency that issues Aadhaar, provides a standard reply that tries to say 'all is well' at their end. Unfortunately, UIDAI does not even have a chief information security officer (CISO), reveals a reply received under the Right to Information (RTI) Act.
+
+Internet researcher and alumnus of IIT Madras, Srinivas Kodali had asked for names and tenure of CISO in UIDAI since 2009. Replying to the query, Virender Prasad, additional director general and chief public information officer (CPIO) of UIDAI, stated, "UIDAI has not employed any CISO. Therefore, the information (sought) may be treated as 'Nil'."
+
+So @UIDAI has not employed any Chief Information Officer Security officer for the #Aadhaar project. No wonder their security is shit pic.twitter.com/z36cFs97bQ — Srinivas Kodali (@digitaldutta) February 5, 2019
+
+. TechCrunch asked Baptiste Robert, a French security researcher who goes by the online handle Elliot Alderson, to take a look at the Jharkhand government's website. "Robert has prior experience in revealing Aadhaar-related data leaks. Using less than a hundred lines of Python code, Robert demonstrated that it was easy for anyone to scrape the entire site in batches to download their photos and corresponding Aadhaar numbers," the report says. Just few days ago, technology news portal, Techcrunch.com exposed how the security lapses involving India's Aadhaar continues . TechCrunch asked Baptiste Robert, a French security researcher who goes by the online handle Elliot Alderson, to take a look at the Jharkhand government's website. "Robert has prior experience in revealing Aadhaar-related data leaks. Using less than a hundred lines of Python code, Robert demonstrated that it was easy for anyone to scrape the entire site in batches to download their photos and corresponding Aadhaar numbers," the report says.
+
+Indian government district leaks thousands of Aadhaar numbers https://t.co/ftoZicI4wm — TechCrunch (@TechCrunch) February 1, 2019
+
+TechCrunch says it verified a small selection of Aadhaar numbers from the site using UIDAI’s own verification tool on its website using a virtual private network (VPN) in Bengaluru as the page was unavailable in the US. Each record came back as a positive match, it added.
+
+It says, "The exposure may represent a fraction of the billion-plus users registered with Aadhaar, but uncovers yet another inadvertent disclosure of citizen data from a system that UIDAI claims is impenetrable. Instead of learning from mistakes and mishaps, UIDAI instead has shown a long history of rebuffing evidence of security incidents or breaches with mockery and declaring findings as 'fake news,' by claiming to refute evidence without presenting any of its own."
+
+However, according to Techcrunch, the exposure alone contradicts the Indian government’s claims that the Aadhaar system as a whole is secure.
+
+"In recent years, several security lapses involving data relating to Aadhaar have reignited fresh concerns about the centralised database—including several issues found by Robert. Last year, security researcher Karan Saini, a New Delhi-based security researcher, found a poorly secured web address used by state-owned utility company Indane that had direct access to the Aadhaar database, allowing him to query results from the system. UIDAI rubbished the reports, baselessly claiming that there was 'no truth to this story' in a series of tweets from its official Twitter account, despite evidence to the contrary. In the same year, India’s Tribune newspaper reported that some were selling direct access to the Aadhaar database. UIDAI responded by filing a complaint against the reporter with police," Techcrunch says.

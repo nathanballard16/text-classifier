@@ -1,0 +1,53 @@
+Cyber criminals cash in on millions with Formjacking
+
+Faced with diminishing returns from ransomware and crypto jacking, cybercriminals are doubling down on alternative methods, such as formjacking, to make money according to a preview of Symantec’s Internet Security Threat Report (ISTR), Volume 24.
+
+Symantec's ISTR provides an overview of the threat landscape, including insights into global threat activity, cyber criminal trends, and motivations for attackers. The report analyses data from Symantec’s Global Intelligence Network, the largest civilian threat intelligence network in the world, which records events from 123 million attack sensors worldwide, blocks 142 million threats daily and monitors threat activities in more than 157 countries. Key highlights from this year’s report include:
+
+Formjacking is the New Get Rich Quick Scheme for Cyber Criminals
+
+Formjacking attacks are simple – essentially virtual ATM skimming – where cybercriminals inject malicious code into retailers’ websites to steal shoppers’ payment card details. On average, more than 4,800 unique websites are compromised with formjacking code every month globally. Symantec blocked more than 3.7 million formjacking attacks on endpoints in 2018, with nearly a third of all detections occurring during the busiest online shopping period of the year – November and December.
+
+While a number of well-known retailers’ online payment websites, including Ticketmaster and British Airways, were compromised with formjacking code in recent months, Symantec’s research reveals small and medium-sized retailers are, by in large, the most widely compromised.
+
+By conservative estimates, cybercriminals may have collected tens of millions of dollars last year, stealing consumers’ financial and personal information through credit card fraud and sales on the dark web, with a single credit card fetching up to USD 45 in the underground selling forums. With more than 380,000 credit cards stolen, the British Airways attack alone may have allowed criminals to net more than USD 17 million.
+
+he Diminishing Returns of Cryptojacking and Ransomware
+
+In recent years, ransomware and crypto jacking, where cybercriminals harness stolen processing power and cloud CPU usage from consumers and enterprises to mine cryptocurrency, were the go-to methods for cybercriminals looking to make easy money. However, 2018 brought drop-offs in activity and diminishing returns, primarily due to declining cryptocurrency values and increasing adoption of cloud and mobile computing, rendering attacks less effective. For the first time since 2013, ransomware infections declined, dropping by 20 per cent. Nevertheless, enterprises should not let their guard down – enterprise ransomware infections jumped by 12 per cent in 2018 as compared to last year, bucking the overall downward trend and demonstrating ransomware’s ongoing threat to organisations. In fact, more than eight in ten ransomware infections impact organisations.
+
+Although crypto jacking activity peaked early last year, crypto jacking activity declined by 52 per cent throughout the course of 2018. Even with cryptocurrency values dropping by 90 per cent and significantly reducing profitability, crypto jacking nonetheless continues to hold appeal with attackers due to the low barrier of entry, minimal overhead, and anonymity it offers. India ranks fourth globally, second in APJ in terms of crypto mining activities. Similarly, India ranks second both globally and in APJ in terms of ransomware activities. Symantec blocked 3.5 million crypto jacking events on endpoints in December 2018 alone.
+
+When it Comes to Security, the Cloud Is the New PC
+
+The same security mistakes that were made on PCs during their initial adoption by the enterprise are now happening in the cloud. A single misconfigured cloud workload or storage instance could cost a company millions of dollars or land it in a compliance nightmare. In the past year alone, more than 70 million records were stolen or leaked from poorly configured S3 buckets. There are also numerous, easily-accessible tools that allow attackers to identify misconfigured cloud resources on the internet.
+
+The recent discoveries of hardware chip vulnerabilities, including Meltdown, Spectre, and Foreshadow also place cloud services at risk of being exploited to gain access to the protected memory spaces of other companies’ resources hosted on the same physical server.
+
+Living Off the Land Tools and Supply Chain Weaknesses Spur Stealthier, More Ambitious Attacks
+
+Supply chain and living off the land (LotL) attacks are now a mainstay of the modern threat landscape, widely adopted by both cybercriminals and targeted attack groups. In fact, supply chain attacks ballooned by 78 per cent in 2018.
+
+LotL techniques allow attackers to maintain a low profile and hide their activity in a mass of legitimate processes. For example, the use of malicious PowerShell scripts increased by 1,000 per cent last year. While Symantec blocks 115,000 malicious PowerShell scripts each month, this actually accounts for less than one per cent of overall PowerShell usage. A sledgehammer approach toward blocking all PowerShell activity would be disruptive to organisations, further illustrating why LotL techniques have become the preferred tactic for many targeted attack groups.
+
+Identifying and blocking these attacks requires the use of advanced detection methods like analytics and machine learning, such as Symantec’s Managed Endpoint Detection and Response (MEDR) service, its enhanced EDR 4.0 technology, as well as its advanced AI solution, Targeted Attack Analytics (TAA). TAA has allowed Symantec to uncover dozens of stealthy targeted attacks, including those from the Gallmaker group who conducted their cyber espionage campaigns completely without malware.
+
+In addition to LotL and weaknesses in the software supply chain, attackers are also increasing their use of conventional attack methods, like spear-phishing, to infiltrate organisations. While intelligence gathering remains the primary motive of targeted attacks, the number of attack groups using malware designed to destroy and disrupt business operations increased by 25 per cent in 2018.
+
+Internet of Things in the Crosshairs of Cyber Criminals and Attack Groups
+
+While the volume of the Internet of Things (IoT) attacks remains high and consistent with 2017 levels, the profile of IoT attacks is changing dramatically. Although routers and connected cameras make up the largest percentage of infected devices (90 per cent), almost every IoT device has been proven vulnerable, with everything from smart light bulbs to voice assistants creating additional entry points for attackers.
+
+Targeted attack groups are increasingly focusing on IoT as a key entry point. The emergence of the VPNFilter router malware represents an evolution in traditional IoT threats. Conceived by a skilled and well-resourced threat actor, it allows its creators to destroy or wipe a device, steal credentials and data, and intercept SCADA communications.
+
+The Great Privacy Awakening
+
+With the recent Cambridge Analytica data scandal and the Facebook data privacy hearings, the implementation of the General Data Privacy Regulation (GDPR), and revelations about app location tracking and privacy bugs in widely-used apps such as Apple’s FaceTime feature, consumer privacy has entered the spotlight the past year.
+
+Smartphones could arguably be the greatest spying device ever created – a camera, a listening device and location tracker all in one that is willingly carried and used wherever its owner goes. While already targeted by nation-states for traditional spying, smartphones have also become a lucrative means by which to collect consumers’ personal information, with mobile app developers existing as the worst offenders. India is among the top countries for mobile malware with 23.6 per cent of global infections.
+
+According to Symantec research, 45 per cent of the most popular Android apps and 25 per cent of the most popular iOS apps request location tracking, 46 per cent of popular Android apps and 24 per cent of popular iOS apps request permission to access your device’s camera, and email addresses are shared with 44 per cent of the top Android apps and 48 per cent of the most popular iOS apps.
+
+Digital tools that gather cellphone data for tracking children, friends, or lost phones are also on the rise and clearing the way for abuse to track others without consent. More than 200 apps and services offer stalkers a variety of capabilities, including basic location tracking, text harvesting, and even secret video recording.
+
+Click on Deccan Chronicle Technology and Science for the latest news and reviews. Follow us on Facebook, Twitter.

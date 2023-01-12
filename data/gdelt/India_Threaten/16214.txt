@@ -1,0 +1,21 @@
+Carrying out mobile transaction? Five ways to stay safe from fraudsters during transactions
+
+Representational image | Photo Credit: BCCL
+
+Key Highlights The main reason behind the spike in mobile malware is installing unofficial apps or repackaged apps on your device In order to avoid mobile transaction frauds, never share your credit or debit card details, OTP on-call or other media
+
+New Delhi: With the growing dependence on the internet, digital payment is rapidly gaining popularity. It may be noted that the UPI or unified payment interface is a recent payment method. Earlier this month, National Payments Corporations of India (NPCI) in a release said that the total transactions of UPI jumped to 1.15 billion in October 2019 from 0.96 billion in September 2019.
+
+Online financial transactions come with convenience whether it is for shopping, paying bills or any other thing. Nowadays, fraudsters are increasingly adopting different ways to gain access to the victim's mobile device.
+
+Given below are a few ways to stay safe while doing mobile transaction-
+
+1. It's not that mobile banking is unsafe. It is safe and secure if you take some precautions. One of the basic precautions is that you never store your account information like account number, debit and credit card PIN on your mobile handset. While using the mobile app of your app, never click on remember username and password for automatic login. Another important thing to be noted is that never do the mobile transactions on a public network or free wifi hotspots.
+
+2. The main reason behind the spike in mobile malware is installing unofficial apps or repackaged apps on your device. Such apps tamper the device's security features and steal/read the data. Be careful while downloading apps because they can introduce malware in your device. Always make sure to download apps from official app stores.
+
+3. Many times we receive inviting links on the mail from the bank. One shouldn't fall for it because the chances are this could be a fake website designed to mimic your bank. If you wish to visit your bank's website, navigate to a website directly. Also, a secure websites' URL begins with 'https' and not 'http'. The 's' stands for secure and uses secure sockets layer connection. Also, look for the 'Lock' icon displayed in the browser window.
+
+4. Be careful when you return a missed call from an unknown number. These could be unwanted schemes, spam, scam voice or text messages. The risk associated with this is that during the call, your phone data might get compromised. If someone calls you up claiming to be a bank representative or official, do not divulge your financial or banking details such as CVC code of your credit or debit card.
+
+5. Therefore, in order to avoid mobile transaction frauds, never share your credit or debit card details, OTP on-call or other media. It should be noted that the bank never asks for such details. Another important thing is never share your UPI MPIN with anyone. Banks and other financial institutions keep warning their customers never share OTPs, bank details over the phone or through SMS. Other institutions such as IRDAI (Insurance Regulatory and Development Authority) and EPFO (Employees Provident Fund Organisation) have also been issuing advisory on their websites and through social media accounts not share financial information with anyone over phone.

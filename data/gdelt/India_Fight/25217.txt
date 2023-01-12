@@ -1,0 +1,31 @@
+The Tech Oligopoly: The New Kingmakers
+
+n 2016, Microsoft made one of the most significant tech deals ever when it acquired LinkedIn for roughly 7.2 times the social network’s annual revenue. At the time, it was the biggest deal in Microsoft’s history. Many analysts considered the deal too expensive and a waste of money.
+
+Microsoft’s acquisition of LinkedIn puts into perspective the magnitude of its latest purchase. Github was recently acquired for nearly 30 times its annual recurring revenue by Microsoft. The reason behind the astronomical number is simple: developers.
+
+Microsoft is keenly aware of the importance of talented developers. With $7.5 Billion, Microsoft has bought access to the millions of developers who use GitHub’s code repository products. It is a strategic move aimed at eventually guiding those users into the Microsoft developer environment.
+
+Predictably, many prominent members of the open source community were not too keen about the acquisition. They felt deceived and betrayed by a network which had accrued value due to the labor of the open source community. Andre Staltz, an influential open source developer, wrote:
+
+“If you're still optimistic about the Microsoft-GitHub acquisition, consider this: they didn't ask your opinion not even a single bit, even though it was primarily your commits, stars, and repositories which made GH become a valuable platform."
+
+Like Andre, many other developers publicly announced their decision to migrate away from Github to other platforms built on open source software. However, the exodus of developers away from Github barely registered as a dent to its massive user base.
+
+Microsoft wanted access to developers. They got it.
+
+Over the previous decades, the importance of developers has only increased. They have been aggressively recruited, offered extremely lucrative positions and generally been the most highly sought-after human resource in Silicon Valley. They are the builders of this new digital era and have helped the tech companies become a crucial aspect of our everyday lives.
+
+But not all developers are created equal. Some developers are considered more valuable, and they are more sought after, given more perks and privileges. Over the past few years, the AI developers have achieved a level of importance never seen before.
+
+Wanted: The New Kingmakers
+
+For the past two years, Chinese companies have won an AI competition to detect objects. China’s emerging dominance in AI, due to its massive implications in nearly every field, is creating immense anxiety in the US. In economic terms, a study released by PwC highlights just how big of a game changer AI is going to be and how much value will be created by this one technology. According to PwC, AI could contribute up to $15.7 Trillion to the global economy by 2030. That is more than the current GDP of China and India combined.
+
+It is not surprising, therefore, that nation-states and corporations are actively competing to attract a talent that is extremely rare and valuable.
+
+Just how rare is AI talent? Element AI, an AI solutions provider, estimates that there are 20,000 PhD-level computer scientists around the world capable of building AI systems. Furthermore, a recent study by Bloomberg pointed out that less than 10,000 developers worldwide possess the required machine learning skills.
+
+According to a report written by KPMG, (as of 2016) only 28 companies had more than ten deep learning specialists on staff. An article in Business Insider highlighted the fact that only six technology companies employed 54% of all deep learning specialists. A 2017 poll by Ernest & Young found that according to 56% of senior AI professionals, a lack of talent was the greatest barrier to AI implementation within business operations.
+
+Recently, the World Economic Forum reported that the top 20 companies in tech are all either American or Chinese. Perhaps a time might come when AIs are invented, designed, and programmed by other AIs, but for now, the backbone of AI is its developers and researchers. As such, the tech titans are working strategically to monopolize AI talent. These giants are actively involved in the war for AI talent, leaving no stone unturned in their quest to recruit the most valuable soldiers in the world.

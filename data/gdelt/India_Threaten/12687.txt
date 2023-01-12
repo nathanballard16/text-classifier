@@ -1,0 +1,37 @@
+Why the digital India needs protection
+
+As India becomes in­creasingly digitalized, cyber security threats are assuming menac­ing proportions. Sys­tems must be put in place to counter this. Here’s how to go about it.
+
+“I dream of a Digital India where cyber security becomes an integral part of our national security.” – Narendra Modi
+
+It is not only the Prime Minister who nurses this goal. His Defence Minister Manohar Parrikar recently warned that wars in the future will be fought in cyberspace. In this context, it is important to realise the importance of cyber security and what it means for the country’s defence and progress. As they say, every regiment needs a strong defence to be invincible. Today, digital India can't do without the protective wall of cybersecurity.
+
+Digital India March and Its Ground Reality
+
+From smartphones and broadband networks to cloud computing and business data analytics, the Information Technology (IT) industry has witnessed tremendous growth in the last decade in India. It is expanding with each passing day. The Modi government aims to transform India into a digitally empowered society and knowledge economy by promoting accessibility of digital infrastructure as a utility to every citizen and ushering in an era of e-governance at strategic levels.
+
+While the present government’s push to integrate information technology as an indispensable part of the citizens’ lives is commendable, the vulnerability and misuse of personal, professional, and national security data are ringing serious alarm bells. According to the ‘Cost of Data Breach Study in India 2016’, the average total cost per data breach paid by Indian companies has increased by 9.5%. According to another recent study by ASSOCHAM & PWC, the registered numbers of cybercrime cases in India (under the IT Act) have surged to a whopping 300 per cent between 2011 and 2014. With reports of data breaches every other day; most of them resulting in grave financial or privacy losses, there is no other alternative than to sit up and take serious note of the threat, and now.
+
+Challenges and Threats
+
+The digital space in the country is susceptible to various types of intrusions such as cyber espionage, stealing of computerized data of commercial value or national importance, electronic frauds via hacking, attacks on open networks (disrupting services for a temporary period), large-scale digital assault, and so on.
+
+As India takes significant strides towards a cashless economy and more data is being generated and stored on company networks, the associated risks of data breaches are also multiplying. White-collar crime has evolved into a smarter avatar in the last 5 years or so, and terrorism in India is witnessing a moment of change from the operational perspective as cyber goons are adapting newer technologies (such as spywares and malwares) with each passing day.
+
+In general, businesses nowadays work with one or more outsourced partners. Resultantly, data sharing is no longer confined to insiders. Moreover, while organizations may spend huge amounts of money on password authorisation mechanism, employees casually share their system passwords with each other giving access to various people, which actually defeats the very purpose of security administration. When it comes to data protection and cyber security, it must be noted that even small mistakes by employees, or mischief by insiders or outsiders, can cause long-term damage of reputation and massive losses.
+
+Thankfully, India has not seen the kind of high-profile attacks that the advanced economies have in the recent times, which explains our attitude of nonchalance and measly cyber protection budgets. While cybercrime is considered as a major threat faced by businesses presently, most often it does not form a part of the management board agenda, which indeed adds to the risk.
+
+Way Forward
+
+In today’s evolving threat environment, intruders are using a variety of methods and technology to attack our systems. This ranges from seeding malwares right up to complex attacks such as Advanced Persistent Threats (APTs) and Distributed Denial of Services (DDOS). The critical success factor for securing the integrity of data in this ecosystem lies in our capability to defend. This requires a radical shift in the core competence of today’s cyber warriors. A security professional in today’s environment will require strong analytical knowledge to evaluate and predict vulnerabilities. India will need more and more security professionals with skills required configuring and using threat detection tools, performing data analysis, interpreting the results to identify vulnerabilities, threats, and risks to an organization with the end goal of securing and protecting applications and systems.
+
+A lot more needs to be done by authorities, enterprises, individuals, and other stakeholders in upgrading India’s cyber security to match global standards. More importantly, cyber security breach and its governance are the two important areas which need to be addressed. Setting up of national cyber security architecture in consultation with recognized industry bodies can be of help in monitoring and fortifying network systems in the country. Private entities need to safeguard their digital assets, be aware of newer threats and keep pace with technology by adapting a people-centric, multi-prolonged approach.
+
+Cyber security is no longer restricted to high-end computer learning, but practically percolates into almost every aspect of our daily lives. Again, defeating cyber attack requires combined participation and sustained efforts from both public and private sectors. As per estimates by NASSCOM Cyber security Task Force, India will need 1 million trained cyber security professionals by the year 2025. CompTIA’s International Trends in Cyber Security research reveals that nearly 8 out of 10 managers responsible for network data protection expect data security to become a more important priority for their companies over the next two years.
+
+Of course, acknowledging the fact that cyber thieves are a probably a step ahead and hence making netizens specifically aware of risks is the first step. But, protecting computer networks from illegal attempts of accessing protected information on the internet requires a lot of expertise. Education and awareness in this field must be seen as key pillars to effectively combat the red eye of cyber security threat if Digital India is to spread its wings.
+
+Read More: Why Dr. Sawant recomends a Security Operations Centre
+
+SmartCirqls: On Changing Big Data Ecosystems for India

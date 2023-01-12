@@ -1,0 +1,15 @@
+Fake FaceApp software may infect your device, says Global cybersecurity company Kaspersky Lab
+
+New Delhi:
+
+Now-a-days, the craze of a photo-morphing application called ‘FaceApp’ is on its peak. The app is being used by every other smartphone user not only in India but in the whole world. However, the app is courting controversy too. Recently, Global cybersecurity company Kaspersky Lab has warned about the risk of using apps that allows a person to age their face.
+
+It is to be noted that the Kaspersky Lab found that a fake app that is designed to trick users into thinking it is a certified version of FaceApp can actually infect victims' devices with an adware module called MobiDash.
+
+Kaspersky Lab further revealed that once the FaceApp app downloaded from unofficial sources and installed, it simulates a failure and is subsequently removed. However, a malicious module in the application remains on the user's device which displays adverts.
+
+According to data by the company, more than 500 unique users have encountered the problem only in two days, with the first detections appearing on July 7. Also, there were 800 different module modifications identified.
+
+"The people behind MobiDash often hide their adware module under the guise of popular applications and services. This means that the activities of the fake version of FaceApp could intensify, especially if we are talking about hundreds of targets in just a few days. We urge users not to download applications from unofficial sources and to install security solutions on their devices to avoid any damage," noted Igor Golovin, security researcher at Kaspersky.
+
+The previous study of Kaspersky Lab had revealed that the 63 per cent of consumers do not read license agreements and out of them, 43 per cent just tick all privacy permissions when they are installing new apps. Though this survey was done three years ago, the researchers still believe findings on digital habits remain relevant.

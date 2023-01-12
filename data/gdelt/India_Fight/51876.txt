@@ -1,0 +1,31 @@
+Akash Missile: All about India’s first home-made supersonic missile
+
+What is Akash missile's range and capability?
+
+The nuclear-capable missile can fly at a speed of up to Mach 2.5 (nearly 860 meter per second) at a maximum height of 18 km. It can strike enemy aerial targets like fighter jets, drones, cruise missiles, air-to-surface missiles as well as ballistic missiles from a distance of 30 km. What’s the length and weight of Akash?
+
+The missile has a launch weight of 720 kg, a wingspan of 1,105 mm, length of 5.8 m and a diameter of 350 mm. It can carry a warhead of 50-60kg.
+
+
+
+What are the unique features of Akash?
+
+* The missile is unique in the way that it can be launched from mobile platforms like battle tanks or wheeled trucks.
+
+
+
+* It’s unique all-the-way-powered missile system has nearly 90 per cent kill probability. Akash has a kill probability of 88 per cent for the first missile and 99 per cent for the second.
+
+
+
+*The missile is supported by the indigenously developed radar called 'Rajendra' that can handle highly-manoeuvring multiple targets from multiple directions in group or autonomous mode.The missile is reportedly cheaper and more accurate than US’ Patriot missiles due to its solid-fuel technology and high-tech radars. Akash uses ramjet propulsion system which can intercept the target at supersonic speed without deceleration. The ramjet propulsion and its electronic couter-counter measure equipment also help it break any electronic jamming system. What are the components of the complete Akash missile defence system?
+
+* Akash missile system has seven components. It contains integral ramjet propulsion; a switchable guidance antenna system; a command guidance unit; an onboard power supply; a system arming and detonation mechanism; digital autopilot; multi-function Rajendra phased-array radar; 3D passive electronically scanned array Rajendra radar (PESA) and command centres.
+
+
+
+* Akash contains four Rajendra radars and four launchers are interlinked together and controlled by the group control centre. Each launcher, equipped with three missiles and one radar, can track 16 targets. So in total, the radar can track 64 targets and simultaneously launch 12 Akash missiles. Who manufactures Akash?
+
+The missile system is designed and developed by DRDO. But Bharat Dynamics (BDL) manufacturer the missiles, while Bharat Electronics produces its hi-tech ‘Rajendra phased array radar’.
+
+Akash is India’s first indigenously produced medium range Surface-to-Air missile that can engage multiple targets from multiple directions. The all-weather missile can engage targets at a speed 2.5 times more than the speed of sound and can detect and destroy targets flying at low, medium and high altitudes.The Akash missile system has been designed and developed as part of India’s 30-year-old integrated guided-missile development programme (IGMDP) which also includes other missiles like Nag, Agni , Trishul and Prithvi.Here is everything about Akash’s salient features, its range and why it is one of the best surface-to-air defence missiles in the world.

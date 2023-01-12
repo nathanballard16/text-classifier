@@ -1,0 +1,27 @@
+WhatsApp promises to check fake news before 2019, without snooping on users; here's how
+
+WhatsApp, the most popular messaging application in the country, has come up with measures to check misuse of its platform during the general elections slated to happen within a few months. The Facebook-owned online messaging client has warned political parties against using it as a bulk messaging or broadcasting platform, a senior WhatsApp official said.
+
+WhatsApp has engaged several political organisations to explain to them that it is a private messaging platform and should not be used for broadcasting messages to a wide audience, company's Head of Communications Carl Woong said during an interaction with the press here on Wednesday.
+
+He, however, did not disclose which political parties WhatsApp was in contact with, or the nature of misuse that they have come across. He did assure that improper usage, like bulk messaging or automated behaviour, are monitored very closely, and accounts engaging in such activities are banned almost instantly.
+
+ALSO READ: Draft Information Technology rules: Experts write to MeitY, highlight key concerns
+
+WhatsApp has an active global user base of 1.5 billion, and India is its biggest market. Woong revealed that around 2 million accounts are banned every month around the world, but he did not divulge the number of users that are banned in India. He did disclose that 25 per cent of Indians are not part of any WhatsApp group, and the average group size is 10 users. The goal is to reduce automated behaviour, Woong said.
+
+As users banned from the platform, they can apply for a review of their ouster. However, WhatsApp claims that 75 per cent of the banned accounts do not opt for a review.
+
+WhatsApp is also working on expanding its team in India. It is very important for WhatsApp to have a team in India which will have a wide mandate, Woong said, including keeping fake news at bay. He, however, refused to comment on the size of the team or probable candidates.
+
+ALSO READ: Govt directs WhatsApp to come out with effective solutions against spread of fake news
+
+Despite all the measures, WhatsApp will not look into messages sent by its users to protect their privacy. Woong mentioned that WhatsApp holds messages on its servers only for a short duration of time and does not possess the key to decrypt messages which are coded with end-to-end encryption.
+
+WhatsApp released a list of measures it will undertake to check the spread of misinformation during the 2019 elections, while keeping its users' data safe. Out of them are the recent changes made to the platform, such as labelling forwarded messages, limiting the number of messages an user can forward, and better controls over the WhatsApp groups. The company also ran a nationwide advertisement campaign to sensitise people about the spread of rumors and fake news. This initiative will be expanded in the run up to the 2019 Lok Sabha elections.
+
+To prevent abuse on its platform, WhatsApp has made several changes to its reporting functions. Now it also allows users to keep reported messages on their phones if they want to share them with fact checkers or law enforcement officials. A grievance officer has also been appointed in India to look after complaints in the country.
+
+ALSO READ: WhatsApp update for old, new iPhones: Now, messages can be kept private using Face, Touch IDs
+
+WhatsApp has been working with government bodies, law enforcement agenices, fact checkers and civil society organisations to identify and act upon reports of misue of the platform. It has already been working with political to sensitise them towards responsible use of the messaging application. In the days leading to the 2019 General Elections, WhatsApp has said that it will work with the Election Commission of India to further expand on this initiative.

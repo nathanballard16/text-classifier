@@ -1,0 +1,75 @@
+Abortions by mail: the FDA is going after online pill providers
+
+The US Food and Drug Administration is cracking down on organizations that sell medical abortion pills over the internet.
+
+In a warning letter released Tuesday, the agency requested that the online abortion pill provider AidAccess.org immediately stop selling unapproved versions of the abortion drugs mifepristone and misoprostol and respond to FDA concerns within 15 working days outlining how it will correct its regulatory violations.
+
+“Failure to [do so] may result in FDA regulatory action, including seizure or injunction, without further notice,” an agency spokesperson told Vox.
+
+The FDA also issued a warning letter to Rablon, an online pharmacy network that includes at least 87 websites, such as AbortionPillRx.com and AbortPregnancy.com, directly selling mifepristone and misoprostol to patients.
+
+Legal versions of mifepristone and misoprostol have been available to patients in the US since 2000 — but patients can’t just get them at any pharmacy. The drugs are only given out by certified health care providers in a doctor’s office, clinic, or hospital. The providers need to sign a waiver that they’ll ensure patients have access to a surgical abortion or emergency care if anything goes wrong — part of an FDA risk mitigation program called REMS, which is common to higher-risk medications.
+
+When retailers sell unapproved versions of drugs outside of the REMS program — which the FDA says Aid Access and Rablon have — “FDA is well within its regulatory authority to take action,” said Tim Mackey, a UC San Diego School of Medicine expert on counterfeit drugs. (In the case of Aid Access, the pills are imported from India.)
+
+But reproductive rights groups and doctors have long viewed REMS as a “medically unnecessary” barrier to women who want access to a safe abortion. And Aid Access, which was started by the Dutch physician and activist Rebecca Gomperts, popped up in the US last year in a very particular context.
+
+With the rollback of abortion access across US states well underway, the confirmation of Brett Kavanaugh to the Supreme Court, and the future of Roe v. Wade looking increasingly grim, women who want to safely terminate their pregnancies face an increasing number of roadblocks. So Aid Access offers what Gomperts’s other service, Women on Web, has been doing for years for patients in other countries with restricted health care systems: fast access to medical abortion pills.
+
+But because the site sells unapproved versions of the drugs outside of REMS, the FDA is going after it — part of a broader crackdown on online illegal drug sales. “We’ve been very active in combating illegal online sales of unapproved medicine,” an agency spokesperson told Vox. “This is not about the particular product. This is business as usual for FDA.”
+
+Reproductive rights activists, however, view the crackdown slightly differently: as another move that’ll make it harder for patients to have a safe abortion. “As access to clinic-based abortion care becomes more constrained because of legal restrictions, more women may turn to these websites as they look for options to end an unwanted pregnancy,” said Daniel Grossman, a professor in the department of obstetrics, gynecology, and reproductive sciences at UCSF.
+
+Instead of going after these websites, Grossman continued, the FDA “might better use its resources to explore how the medically unnecessary restrictions” on the drugs — through the risk mitigation program — “could be lessened in order to improve access to safe abortion care.”
+
+Women in the US have faced arrest and jail time for self-managed abortions
+
+Although abortion is still legal in the US, self-managed abortions have been considered criminal in many states, and people have in rare cases faced arrests, jail time, or police investigation.
+
+“Many think it’s easy to get an abortion in the US, but it is not,” Jill Adams, the strategy director for the SIA Legal Team, a group of lawyers focused on self-managed abortions, told Vox in October. “Resourceful people are looking for options to end a pregnancy that are safe, affordable, and fit their circumstances.” (Gomperts said she’d filled 600 US prescriptions in six months last year.)
+
+Getting an abortion by mail from Aid Access works like this: Patients are screened through an online consultation about their pregnancy and health history. If they meet specific criteria — healthy, less than 10 weeks pregnant, live within one hour of a hospital — Gomperts fills a prescription and sends it to a pharmacy in India she knows and trusts.
+
+The pills are then mailed from India to the woman’s home for a fee of $95 (though Aid Access says it will find ways to help patients who can’t pay). And patients can access real-time instructions and support if necessary.
+
+The two medications Gomperts prescribes — again, mifepristone and misoprostol — work in combination by inducing a miscarriage early on in pregnancy. These drugs are considered essential medicines by the World Health Organization, meaning they’re supposed to be available to people in all functioning health systems at all times.
+
+If taken before 10 weeks, mifepristone and misoprostol are 92 to 98 percent effective. So failed abortion is rare when patients use these drugs as directed, according to UpToDate, the physician’s evidence-based medicine resource.
+
+The Aid Access approach has been shown to be safe — but it’s not risk-free. And we know much less about Rablon.
+
+The WHO has also studied the safety of using mifepristone and misoprostol when self-administered at home compared to in a clinic, and gave the home-based approach the green light. “There is no evidence that home-based medical abortion is less effective, safe or acceptable than clinic-based medical abortion,” the WHO report concluded.
+
+Reproductive medicine experts in the US also consider these drugs reliable and routine. “First-trimester medication abortion with mifepristone and misoprostol is very safe,” said Grossman, “with serious complications occurring in less than 0.5 percent of patients.”
+
+But this doesn’t mean anyone who’s pregnant can take these drugs — or that the pills are risk-free. According to UpToDate, there are a number of groups that should avoid mifepristone and misoprostol, including those with ectopic pregnancies (or pregnancy that grows outside the womb, which can only be confirmed by getting medical imaging), those with an intrauterine device in place, and those who have chronic adrenal failure or who are on long-term corticosteroid therapy.
+
+As with all medications, there are potential side effects, most commonly abdominal pain, excessive bleeding, and gastrointestinal discomfort. While more serious complications are rare, they do happen. These can include hemorrhage, infection, or fatal sepsis. (That’s why Gomperts will only administer the drugs to patients who are near a hospital.)
+
+With Gomperts’s service, there are additional safety questions. Again, the pills patients get are not FDA-approved: They come through a pharmacy based in India. That means US health regulators have no oversight, and there’s the risk of adulteration or improper dosing. (Grossman noted that researchers in the US ordered mifepristone and misoprostol online from India for a recent study, and found the mifepristone products contained the correct dose but some of the misoprostol tablets were “degraded and less potent than they should have been.”)
+
+There’s also the risk that a patient has an ectopic pregnancy but doesn’t know about it. In these cases, the drugs won’t work.
+
+But so far, the published data on Gomperts’s approach suggests it’s very sound. For one study, published in the British Medical Journal, Gomperts and other researchers analyzed the health outcomes of 1,000 patients who used her services to perform an abortion at home in the Republic of Ireland and Northern Ireland between 2010 and 2012. Here are the main results:
+
+Overall, 94.7% reported successfully ending their pregnancy without surgical intervention. Seven women reported receiving a blood transfusion, and 26 reported receiving antibiotics (route of administration (IV or oral) could not be determined). No deaths resulting from the intervention were reported by family, friends, the authorities, or the media. Ninety three women reported experiencing any symptom for which they were advised to seek medical advice, and, of these, 87 sought attention. None of the five women who did not seek medical attention reported experiencing an adverse outcome.
+
+There are a couple of caveats with the paper, though: The data was self-reported, which means women may not have always accurately recounted their experiences. And the study may not reflect the full picture of patients using the service.
+
+Here’s why: In the time period the researchers looked at, 1,636 patients received pills, and Gomperts only had follow-up information for 1,158 (or 71 percent). Of those, 1,023 confirmed using the medications, and follow-up information was available for 1,000. So the data is based on a subset who ordered abortion pills through Gomperts, and there’s a chance that if they had a fuller data set, the safety picture would change.
+
+Even less is known about Rablon’s approach. The network owns at least 87 domain names, such as OnlineAbortionPillRx.com and AbortionPillsRx.com — and the pills they offer haven’t been studied to the same extent as Aid Access. According to the FDA, their “Abortion Pill Pack,” a combination pack of mifepristone and misoprostol tablets, is not approved by the agency and doesn’t include adequate directions for use.
+
+Some have faced arrest for using these pills
+
+Still, as the government in the US tries to crack down on abortion access, these websites are going to be more and more important — even if they’re not always legal.
+
+Seven states have criminal statutes that directly prohibit self-managed abortion. Abortion rights advocates have argued these are illegitimate and unconstitutional. Prosecutors in a few other states have interpreted their fetal harm and fetal homicide laws in ways that also restrict self-managed abortions.
+
+“When a prosecutor decides they’re going to punish someone for ending their own pregnancy, what the law says is practically secondary,” SIA’s Adams said. And while the risk of police involvement is low, “anyone who buys pills from a foreign pharmacy could risk arrest, as US law does not permit the importation of prescription drugs except in very limited circumstances.”
+
+I asked Adams how often people have faced legal action in this country as a result of self-administering abortions. She said at least 21 people have been arrested — and some imprisoned — for ending their own pregnancy or helping another person do so. Every case was different, but most commonly, patients were turned in by doctors after seeking medical care following a self-induced abortion, or by friends and family who knew about their plans. Adams thinks the total number of people arrested is likely much higher than the cases SIA knows about.
+
+Of the FDA crackdown, she told Vox, “We wish the FDA would focus on improving people’s access to affordable abortion pills, instead of forcing medically unnecessary restrictions that push this essential medicine out of reach, especially for communities already facing the highest barriers to reproductive health care.
+
+“No one should have to fear arrest or investigation for self-managing an abortion or supporting someone who has decided to end their own pregnancy. Instead of targeting people for punishment, we should make sure people can access the abortion care they need, in a manner that’s right for them.”

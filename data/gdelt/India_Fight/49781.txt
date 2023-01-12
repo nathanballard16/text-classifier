@@ -1,0 +1,83 @@
+WhatsApp hacking: How the targets found out
+
+An investigation by Facebook and Citizen Lab, which is at the University of Toronto, found that more than 1,400 individuals became targets of the spyware, owned by an Israeli company called the NSO Group.
+
+The Israeli spyware Pegasus, which is suspected to be behind the hacking through WhatsApp worldwide, was reportedly used to target several Indian human rights activists, academics and journalists.
+
+Several targeted persons in India that this website spoke to mentioned that a Citizen Lab representative told them governments generally buy the spyware for surveillance. Activist Bela Bhatia said the Citizen Lab representative mentioned that its investigation had shown 'our own government was involved in this'.
+
+This website sent an email to Citizen Lab for clarifications, but had not got any reply till publishing.
+
+The Indian government has so far not said anything to address the claim that governments are buyers of this surveillance spyware.
+
+Several people working among tribals in Chhattisgarh became targets. Some academics and activists accused in the Bhima Koregaon caste clash of 2018 also got the warning from WhatsApp on the spying.
+
+Alok Shukla, who is fighting a case against the Adani Group for eight years in Chhattisgarh, said he got the warning message from WhatsApp. The case shukla is fighting is linked to coal mining in the state, he said.
+
+Columnist Rajeev Sharma was informed by Citizen Lab that the spyware tracked him from March to May in the run-up to and during the general elections.
+
+On October 29, Facebook, which owns WhatsApp, filed a lawsuit against NSO.
+
+This is what some of the activists have told this website.
+
+Anand Teltumbde, an academic and civil rights voice who is accused of involvement in the Bhima Koregaon clash
+
+John Scott-Railton, a senior researcher at the Citizen Lab, contacted Teltumbde, about a week ago to talk to him about a possible security breach of his WhatsApp account. Scott-Railton described to him the kind of spyware it was and how it is licenced only to governments. WhatsApp had sent him an alert about the attack too.
+
+“In May we stopped an attack where an advanced cyber actor exploited our video calling to install malware on user devices,” the alert said. The message also warned him about a possibility that his phone number was impacted as well and sent him a link on how to secure his phone.
+
+“You can’t take any steps [to secure]. Lakhs of phones are tapped. Earlier, we used to hear that there is a long procedure. Now it’s not. Nothing can be done,” Teltumbde said. “The government... has taken control over the country. They can do anything to anyone. It could be you also. This country is gone, it could declared a rogue state,” he said.
+
+Teltumbde has been accused by the police of being involved in a conspiracy that led to a caste violence in Bhima Koregaon in 2018. The Dalit scholar was arrested but released after the court found the arrest illegal.
+
+“In the Bhima Koregaon case, I’ve been targeted unnecessarily. All of those letters are fabricated. Everybody has been targeted unnecessarily. That itself is a violation,” Teltumbde said. “They are the criminals. When the state turns criminal what do you do?”
+
+Bela Bhatia, human rights activist and lawyer in Bastar, Chhattisgarh
+
+Bhatia lives in Chhattisgarh. Like everyone else, she had no clue about that her WhatsApp account may have been hacked.
+
+“They told me that it was clear from their investigation that our own government was involved in this. He then asked me, ‘what do you think about that’. I said I’m not surprised because there is already a certain kind of surveillance we are already subjected to for the last few years. The only thing we didn’t know was that the government can resort to such a sophisticated form of surveillance,” Bhatia said.
+
+Bhatia said it was astounding what the government was doing, even after the Supreme Court judgment In 2017 when right to privacy became a fundamental right. She said this was a worrying development, considering that the country has millions of WhatsApp users.
+
+Bhatia also shared bits about what she learnt about the spyware. “The nature of the spyware is such that it spies into your whole life. I was told it is like carrying a spy in your pocket. The rest of the time, when you are at home, it can see your room, it can hear whatever is happening. Various aspects of your life, be it finance or any other thing in your life,” Bhatia said.
+
+She changed her phone, as advised by the Lab.
+
+Subhranshu Choudhary, a former BBC journalist now working in Chhattisgarh
+
+Choudhary has been working in Chhattisgarh since 2009 when he started the community mobile news service CGnet Swara. Choudhary was informed about the spyware by the Citizen Lab in September.
+
+“He (the person from the Lab) asked me what do I do. After I told him, he said it becomes obvious now. He told me about the spyware made by the Israelis and since it is very expensive it is normally bought by the government,” Choudhary said.
+
+Scott-Railton’s next question was why would a government be snooping on him. “I told him that we work on a journalism project. We have also been campaigning for the release of prisoners. We also took up the issue of displaced tribals, so this might be linked to this,” Choudhary said.
+
+He said that he never took these things seriously but that call from the Lab made him change his mind. “Earlier when we worked in Kashmir, we knew about phone tapping which we understood. But we didn’t know that WhatsApp could be tapped as well. We need to be extra vigilant and aware now,” he said.
+
+Sidhant Sibal, journalist with the news channel Wion
+
+Sibal is the diplomatic and defence correspondent with Wion. In a tweet on October 30, Wion’s official handle revealed that their journalist was among the many who were attacked.
+
+Sibal, currently in Riyadh covering the Prime Minister’s tour, confirmed coming to know about the attack via WhatsApp message. He said he believed his phone was secure. He also had no information about the Israeli firm or the software prior to the notification sent to him. Sibal said that he wouldn’t know whether or not the government was involved in this cyber attack.
+
+Rajeev Sharma, columnist
+
+Sharma, a strategic analyst and columnist, was told by Citizen Lab that he was under surveillance from March to May, when the country was gearing up for the general elections. Sharma said the Lab told him that the government was behind this attack. He was advised to change his handset.
+
+“I didn’t change the number or the device. I have nothing to hide. I’m not doing any anti-national, anti-social or illegal activities, then why should I change my handset?” he asked. “If somebody is keeping me under surveillance, let them,” Sharma said. “Why should I cow down to anybody.”
+
+He received the confirmation from WhatsApp on the night of October 26 at 9.36 pm.
+
+“From March to May, during those days I gave lots of video interviews and promoted it on Twitter as well. Whatever I said made powers at the peak quite uncomfortable. Obviously, whatever I said was not music to their ears,” Sharma said.
+
+He believes it is his opinion on the election that might have made him the target.
+
+Alok Shukla, rights activist who is fighting a case against the Adani Group
+
+Shukla is the convener of a civil society alliance called the Chhattisgarh Bachao Andolan. He saw news on the spyware yesterday and then recalled he had received a message from WhatsApp, similar to the one received by others, two days ago.
+
+“We struggle for the rights of the adivasi people in the state. I have been fighting a case against the Adanis, who have a major investment in coal mining in Chhattisgarh, for the past eight years,” Shukla said. “As an alliance, we have also worked against human rights violations and displacement.”
+
+Shukla also recalled that he had received some suspicious international calls on WhatsApp earlier this year, but ignored them.
+
+He blamed not just the government but also WhatsApp which, he said, took months to inform users about the attack.

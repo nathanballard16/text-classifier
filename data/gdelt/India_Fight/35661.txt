@@ -1,0 +1,15 @@
+Aadhaar authentication may be required for large Indian bank transactions
+
+India’s government is considering requiring biometric or other Aadhaar authentication methods for cash deposits and withdrawals above a certain threshold in order to reduce fraud, according to a report by the Times of India.
+
+Bank customers in India typically transact using their permanent account numbers (PANs), but amendments in a proposed Finance Bill would mandate Aadhaar authentication, via electronic KYC, biometrics, or a one-time password (OTP), for high-value transactions. The requirement would also be applied to property transactions.
+
+A representative of the government told TOI that it is seeking a way to track transactions above a certain amount without causing hardship for smaller transactions. The limits are yet to be established, but Aadhaar authentication requirements may start at 2 to 2.5 million rupees (US$29,000 to 36,000) in annual deposits or withdrawals. A system may be developed to avoid authentications for every transaction at small shops, or by shop-owners depositing revenues.
+
+India’s government has been attempting to gather data on an increasing number of cash transactions, such as jewelry and property purchases, to combat the money laundering and black money.
+
+The central bank of India announced an update earlier this year allowing commercial banks in the country to use offline Aadhaar checks to meet KYC requirements, and the government has been attempting to determine appropriate authentication rules since the Supreme Court ruled Aadhaar does not have the legal basis for use by private entities.
+
+Article Topics
+
+Aadhaar | authentication | biometrics | identity verification | India | secure transactions

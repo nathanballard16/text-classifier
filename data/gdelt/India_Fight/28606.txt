@@ -1,0 +1,109 @@
+Here Are Travel’s Big Winners in an Antitrust Crackdown on Big Tech
+
+Some are too scared to say so publicly, but much of the travel industry would welcome a diminution of Google's vast market power. If a U.S. regulatory probe gets going against Big Tech, it is a very open question how far-reaching a remedy might be in the offing.
+
+Suddenly there is a glimmer of hope that the travel industry can get some relief from nearly mandatory fees: paying for ads in Google search and in its hotel and flights shopping services to get visibility.
+
+That’s because Google, Facebook, and Amazon could reportedly face tough antitrust enforcement from U.S. regulators, as well as an inquiry by the House of Representatives’ Judiciary Committee. The U.S. Department of Justice would take a look at Google’s business practices from a competition perspective while the U.S. Federal Trade Commission could take on Facebook and Amazon.
+
+If Google, for example, were forced not to place its own travel businesses such as Google Hotels and Google Flights, recently consolidated into travel.google.com, high up in search results to the detriment of competitors’ travel offerings, a wide swath of travel companies, from Expedia and Booking.com to Trivago and Kayak, could benefit. Depending on the shape of any antitrust remedies — and the teeth would be in the details — hotel brands seeking direct bookings and travel startups begging to get noticed could be rewarded.
+
+A precise answer would be impossible to come up with because we don’t know how harsh a crackdown might be, and which aspects of Google’s business practices might be reined in. Google, after all, has faced relatively large fines in Europe over the practices of its retail shopping business, but the effectiveness has been called into question.
+
+Max Rayner, a partner at Hudson Crossing, believes that one of Big Tech’s arguments that its practices enhance competition and save consumers money doesn’t hold up to scrutiny. He argues that platforms such as Google and Amazon force businesses to pay “rent.”
+
+“The rent-seeking regulatory analysis presents the greatest danger to big tech because its main defense against antitrust charges has reasonably been that there’s no evidence of rising prices that hurt consumers, and hence no monopolistic behavior,” Rayner said. “Regulators appear to be poised to go beyond that question and to start asking whether big tech companies are extracting ‘rents’ indirectly, first by favoring their own products and channels over competing third parties, and second by forcing ad buyers to pay an undeserved ‘rent’ in the form of greater costs to buy ads to counteract the biased results and/or premium placement for big-tech’s own offerings.”
+
+Rayner offered a couple of screenshots that first show Google’s current business practices in flight search. Note that the only results that appear higher than Google’s own flight metasearch business and its sponsored gateway, “Flights from New York, NY (all airports) to Las Vegas, NV,” are paid advertisements from CheapoAir, Alaska Airlines, Kayak, and Expedia.
+
+In a second screenshot, you can see that Google’s own flights business, Google Flights, still rises to the top of the page even when no competitors are paying for ads. Note that Google Flights, which it acknowledges will lead to Google getting compensated by providers, appears higher on the page than the free, or organic, results from Expedia and Kayak. Other competitors become practically invisible.
+
+That’s why then-Priceline CEO Paul Hennessy said at the Skift Global Forum in 2015 that marketing environment was all about advertising with free search waning in importance.
+
+“As far as SEO (Search Engine Optimization) is, my view on that is it’s more of a desktop thought because as the devices get smaller and smaller and smaller, the number of choices from an SEO perspective on mobile decline dramatically. And so I believe it is a paid world. Google is an advertising engine and they drive paid traffic to advertisers. And I think that’s going to continue for quite some time. We will do our best to play in that environment.”
+
+Hennessy argued, though, that Google is not a monopoly. “They have great competitors around the world,” he said. “We have been able to take the traffic off of Google and do a great job turning that traffic or customers into converted bookings for us. We will continue to do that.”
+
+You can read more about how Google biases search results against competitors and toward its own advertising business in the story, Google Is Rigged. Just Not the Way Trump Thinks It Is.
+
+“This is a story where politics and allegations of economic rent-seeking collide,” Rayner said. “Big tech companies are in a political crossfire: both the left and the right complain about biased content (whether in search results or post feeds). This creates a climate where antitrust action that otherwise might not have support becomes plausible. What has started as bipartisan griping about biased results in a political sense now seems to be moving into a more fraught question about biasing search results for commercial goods like travel at Google, and for third party-sellers at Amazon.”
+
+Expedia Group spent $5.68 billion on sales and marketing — much of it in Google — and Booking Holdings shelled out $4.96 billion, he said.
+
+“Regulatory pressure could help either of them to moderate their marketing spend if Google, for example, were prevented from taking the entire space on the first page of search results with Google Flights, and had to give unbiased airtime to competitors like Expedia, or to actual suppliers like airlines and hotels. In that scenario, Expedia Group, Booking Holdings and every major travel brand would stand to save billions.”
+
+Google declined to comment on the news that it may be subject to a Department of Justice antitrust investigation.
+
+Meta Matters
+
+Paul English, co-founder of flight- and hotel-metasearch company Kayak and currently chief technology officer at Lola, agreed. “I do think the OTAs (online travel agencies) and metasearch would benefit the most from getting better treatment in Google results,” English said.
+
+Clayton Reid, CEO of travel and tourism marketing company MMGY Global, concurs that online travel agencies and metasearch companies could be big winners in travel if regulators restrict Google’s business practices.
+
+“If Google is somehow restricted in the way they curate and direct most traffic in travel, meta players such as Kayak and Trivago, as well as TripAdvisor would benefit,” Reid said. “But the biggest beneficiary would be Amazon.”
+
+Reid is convinced that Amazon, which launched flight bookings in India in partnership with Cleartrip, will dig deeper into the travel business.
+
+“Amazon’s ad network performs incredibly well, converting at a much higher rate than GDN (Google Display Network), Reid said. “And, I continue to think they are going to step into the travel market. If Google is somehow tamped down, Amazon has an even larger opportunity to control traffic, ad spend, and ultimately converted bookings.
+
+Data on Steroids
+
+Cyril Ranque, president of lodging partner services for Expedia Group, would like to see a more neutral marketplace in Google, but contends that his company has some advantages over the search engine.
+
+When asked Monday about the potential antitrust crackdown against Google, Ranque said, “We welcome any initiative that is pro-competition.”
+
+“We want to make sure there is not preferential treatment of Google products over our own products in a dominant marketplace, that’s one thing,” Ranque said. “Because it is still a wonderful acquisition channel for people who are undecided. We don’t have any issue with that as long as it is a level playing field.”
+
+The Expedia lodging executive argued that his own company is better-positioned than Google to target the right customer at the appropriate time.
+
+“When you look at what Google has, they have obviously unlimited data on the upper part of the funnel,” he said. “The point is we are uniquely positioned at Expedia. We process, we actually see 2.3 billion interactions between demand and supply every day on our platform. We process 60 million customer service calls per month. We have 6,000 people in the field working with hotel partners.”
+
+Combining data with feedback about partners from the sales team is a winning combination, Ranque argued.
+
+“I think the power of our model is you have the power of data on steroids from the human capital that we are putting into the business. And that’s what makes us unique versus Google and to some extent makes us unique versus our partners on the chains and on on the hotels, which only have one side of the equation. And that’s why we are pretty optimistic about the future.”
+
+Ranque was asked whether Expedia is spending less in Google these days. After all, Expedia tamped down its spend in Trivago’s metasearch last year.
+
+“We are getting smarter with metasearch to make sure we only pay for incremental bookings,” Ranque said, but he sounded as though Google won’t be hurting from any declining advertising spend from Expedia.
+
+“By default, the fact that we’re adding hundreds of thousands of properties a year, we want those properties to be marketed everywhere customers search,” he added.
+
+Agoda on Book on Google
+
+Google’s position in the travel industry gets even more complex given the fact that it is increasingly acting as a booking source, and not merely referring customers to advertisers’ websites.
+
+John Brown, the CEO of Booking Holdings’ Agoda unit, spoke about Google at Skift Forum Asia last week in Singapore. He mentioned that although Agoda participates in Book on Google, where the booking takes place on Google but Agoda provides the customer service, but he isn’t particularly bullish about the whole thing.
+
+“I remember talking to the folks at Google about Book on Google, and when they told me they were doing it, I wasn’t really thrilled,” Brown said. “And they said, “but it really is booking on Agoda.’ And I said, ‘it really is booking on Agoda on Google.’ And we had this discussion and I thought it was like a Donald Trump conversation — I shouldn’t talk politics — but we were going in circles.”
+
+Brown said he prefers when consumers actually make their bookings on Agoda instead of on Google.
+
+“But like with every marketing channel out there, we have the best strategist and the best analyst out there,” Brown said. “We look at every last click and we see what it does for us. For the time being, we still get good economics. I would says Book on Google is something we are working with today, and in the long term it’s hard to say.”
+
+By all accounts, TripAdvisor has lost some market share in its hotel business as Google steadily ramped up its Google Hotels metasearch feature. TripAdvisor CEO Steve Kaufer said he “welcomes any renewed interest by U.S. regulators into Google’s anticompetitive behavior.”
+
+Like TripAdvisor, Yelp has battled Google over its business practices for many years, arguing that Google biases its own business results to the detriment of competitors. Likewise, while Google argues that it is merely giving consumers the best possible answers to their queries, Yelp counters that this isn’t really the case.
+
+Startups
+
+One sector that might really get a boost from a crackdown against Google’s business practices, and any new emphasis on organic search results could be travel startups. It is often nearly impossible for travel startups to get noticed because of the costs of Google marketing, and getting vastly outspent in Google by incumbent competitors.
+
+It is apparent, too, the the more direct bookings companies get, rather than having to pay to acquire customers over and over again through Google, the less benefit they might get from Google getting taken down a peg.
+
+Companies such as Airbnb, which markets through Google, although its spending level hasn’t been publicized, and Oyo rooms argue they get a ton of direct traffic because of the power of their brands.
+
+Bobby Healy, non-executive director at CarTrawler in Dublin, argues that regulation of Google would bring widespread benefits to travel companies.
+
+“All consumer-facing travel companies — suppliers and intermediaries alike — will benefit from regulation or breakup of Google Travel,” Healy said. “Not a single B2C travel business is immune to the rising cost of customer acquisition driven by a widening and deepening Google incursion into previously brand-owned ground.”
+
+Healy points to how airlines have to pay for “brand clicks” as Google Flights “is forcibly placed at the top of search results for their own brand names.”
+
+He adds” Extrapolate that monopolistic behavior to the flight aggregators and metasearch spaces (including hotel search, too) and you see everyone is forced to pay more for the same traffic, simply because Google’s own flight search, and soon trip planning, and hotel search products, are displayed ahead of their own.”
+
+Google’s dominance in search, and the high bar at play for startups to break through because of the marketing costs it takes to get noticed in Google should give investors pause, Healy said.
+
+“No investor in their right mind would see long-term value in a seed or early stage business where there is a monopoly capping their return,” Healy said. “For that matter, investors should seriously question the long-term viability of the business models of both Booking and Expedia if Google is not constrained. Just ask [Expedia chairman] Barry Diller.”
+
+Any regulatory hammer taken to the business practices of Big Tech would take years before it would be implemented. Google, Facebook and Amazon will undoubtedly fight these potential regulatory restrictions to the maximum extent possible, and it very much remains to be seen whether any rollback of their platform power would have any meaningful impact.
+
+Fines or a slap on the wrist likely wouldn’t change very much.

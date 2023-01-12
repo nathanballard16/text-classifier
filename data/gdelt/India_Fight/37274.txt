@@ -1,0 +1,37 @@
+OrganSecure is an Indian student’s app that uses AI to make organ donation easier
+
+OrganSecure essentially attempts to bridge the gap between organ donors and recipients by ensuring timeliness and consent to make organs available to those in need in real-time.
+
+“The process of organ donation is very difficult, something I realised when I watched the web series ‘Breathe’ on Amazon Prime. Seeing WHO’s statistics, I saw that organ donation is a very big issue not only in India, but worldwide. That was the inspiration for me to start building the application,” explains student developer Pratik Mohapatra in a telephonic conversation with indianexpress.com.
+
+Mohapatra is the creator of OrganSecure, an award-winning app that uses artificial intelligence or AI as it attempts to make the process of organ donation simpler in India. His app secured the third position worldwide in Microsoft’s AI for Good Idea Challenge.
+
+A computer science engineering student at R V College of Engineering, Bengaluru, the 21-year-old explains that his AI-powered app is currently in an alpha-testing stage. He hopes to go commercial with this in the next six to eight months, and there’s a good reason for this delay.
+
+“I do not want to put an app in the market that has 90 per cent accuracy rate. The accuracy rate needs to be above 95 per cent because we are talking about critical things here,” he pointed out.
+
+A computer science engineering student at R V College of Engineering, Bengaluru, the 21-year-old explains that the AI-powered app is in currently in an alpha-testing stage. A computer science engineering student at R V College of Engineering, Bengaluru, the 21-year-old explains that the AI-powered app is in currently in an alpha-testing stage.
+
+OrganSecure attempts to bridge the gap between organ donors and recipients by ensuring timeliness and consent to make organs available to those in need in real-time. The problems that he aims to solve are of low awareness about organ donation and time factor.
+
+“Even if people know about organ donation, they don’t know where to go, to what centers. When you log in to the application, the first thing that we are trying to do is run a short video, which will explain the entire process,” Mohapatra said.
+
+The second problem is real-time tracking in terms of where an organ recipient is on the list. The app matches recipients on the basis of the time they have left, instead of if they have applied first, which he says is the present scenario.
+
+“Currently, it is a first-come-first-serve basis, but it doesn’t work. Let’s say you and I are waiting for an organ, but I have 10 days left and you have six months left. The problem is that you had applied first, then you will get the organ first,” he explained. The app will also include information that might come in handy for its users such as nearest organ banks, expected costs, and more.
+
+At this stage, the app is aimed as an enterprise application targeting hospitals. Mohapatra hopes that if it is successful, he will be able to open it to the general public as well.
+
+The idea is that when a person dies in an accident or passes away, OrganSecure will facilitate with a organ donation by letting partner hospitals verify the person’s details quickly if they are available on the app.
+
+Creating an app for organ donation might sound like a simple process, but it is easier said than done. Creating an app for organ donation might sound like a simple process, but it is easier said than done.
+
+As of now, the engineering student is using open-source data sets available online to train the machine learning models to develop the app as a proof-of-concept (POF). The data sets of real patients will be implemented once they reach the stage of a commercial rollout.
+
+“We are looking at data sets like previous organ donors, how were they matched and if we can get more data to improve the machine learning so that it can match the right recipients to the donors,” he explained.
+
+Creating an app for organ donation might sound like a simple process, but it is easier said than done. “There are a lot of factors involved in the process of organ donation such as blood group, platelet count, age, whether you’re a smoker, etc, antigen type, etc, which the machine needs to learn and get trained to match right recipients to donors,” he explains.
+
+That’s what artificial intelligence is stepping in to make the process of matching faster and easier. “All of the processing of data, all of the intelligence in terms of who should be matched, where, which hospital, who the donor is, etc, will be taken care of by Artificial Intelligence,” he said.
+
+For Mohapatra, the next step will be a tie-up with hospitals in order to get them to approve organ donors on the app. These can only be people who have an organ donor number or are legally authorised to be accepted as organ donors. That approval will have to come from hospitals. His initial aim is to partner with 10-15 hospitals in Bengaluru, where the app will be rolled out first. This will include private as well as government hospitals.

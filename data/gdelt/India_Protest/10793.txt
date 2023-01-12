@@ -1,0 +1,39 @@
+Part III – Exit Stage: Preparing For A REIT IPO Exit
+
+ARTICLE
+
+To print this article, all you need is to be registered or login on Mondaq.com.
+
+*An eight-part series covering the commercial and legal considerations of REIT listings in India. Click here to read Part 2.
+
+Institutional investors have demonstrated a steadfast interest in Indian real estate in recent years. Private equity investments in the real estate sector peaked at $2.5 billion in the first quarter of 2019 – the highest since 2008.1 With the lion's share of investments being cornered by commercial office spaces, retail and hospitality sectors, the introduction of the Real Estate Investment Trust (REIT) framework in India comes at an opportune time, providing investors with an additional avenue for potential exits.
+
+However, as the dust settles over India's first REIT listing, it is now apparent that a REIT IPO is vastly different and distinct from an IPO by a company in many respects. Given the inherent intricacies and nuances of the REIT framework, investors seeking to exit via a REIT listing will need to re-calibrate, re-assess, and re-think their investment strategies, holding structures, investment documentation as well as exit horizons to expediently navigate the new regime.
+
+Facilitating REITable Structures – Better Three Hours Too Soon than a Minute Too Late
+
+On account of the intrinsic nature of real estate as an investment class, it is not uncommon for investors to make investments through multiple layers of investment vehicles, holding comingled assets alongside various other stakeholders through a combination of debt, equity and hybrid instruments. As a first step to ensuring a seamless exit through a REIT IPO, investors should have a clear understanding of the structuring limitations placed by the REIT regime (be it restricting holding structures to two-tiers, excluding non-commercial assets from the ambit of REITable assets or, in the case of foreign investors, ensuring the free transferability of specific securities in exchange for REIT units). While REIT listings are necessarily preceded by extensive M&A activity, the gargantuan scale of such restructuring can be significantly reduced by ensuring that investors are attentive to the minutiae of the REIT framework at the time of investing in the asset.
+
+Sponsor – To Be Or Not To Be: That Is The Question
+
+Institutional investors making significant investments in Indian companies are often reluctant to be categorised as 'promoters' of the investee company. Onerous promoter liabilities, extensive disclosure requirements and continuing compliance obligations, make them wary of being identified as promoters – which often then has a bearing on the manner in which investments are structured (be it in terms of quantum of stake acquired, or nature of rights negotiated). However, given the subtle but significant differences in the roles, obligations, liabilities, disclosures and manner of identification of 'sponsors' and 'promoters', investors may need to re-visit some of their apprehensions with donning the sponsor mantle.
+
+With no direct links between shareholding/ control and classification as a sponsor, investors may opt to stake their claim to a larger piece of the pie. However, investors in such situations would be left to grapple with the conundrum of being identified as a promoter of the investee company, but not necessarily the sponsor of the REIT. It would be pragmatic for investors in such situations to explore how this would impact their eventual exit; whether investors (as promoters of the investee company) would be liable to the REIT/ its stakeholders under any specific circumstances; and whether this would have a bearing on the nature of warranties and indemnities expected of the investor at the time of exiting the company, etc.
+
+While the promoter discussion is often centred around the question of control and management rights, investors evaluating whether or not to be identified as sponsors of a REIT will need to focus their attention on other factors, such as the choice of the investment vehicle (so as to meet sponsor eligibility criteria); ring-fencing the investor's other investments (important from the perspective of identifying the sponsor group); and evaluating whether the mandatory sponsor lock-in and de-sponsorisation norms prescribed by the REIT Regulations pose significant hurdles to the investor's proposed exit plans.
+
+Management Rights – Give Me a Staff of Honour for Mine Age But Not a Sceptre to Control the World
+
+Although the traditional trepidations with respect to control and management rights may be of little relevance to REIT structures, the bouquet of rights and the manner in which such rights are structured will be crucial to ensuring a smooth exit. Customary management/ veto rights negotiated in a private equity/ venture capital investment may be incongruous and incompatible with REIT structures. Given that the REIT manager is empowered to take IPO related decisions (including timing, pricing and appointment of intermediaries) as well as investment decisions (post listing), investors may need to evaluate whether such rights are relevant in the context of the investee company or if such rights need to be supplanted or bolstered with similar rights in the manager. Arriving at an acceptable formulation of rights may be harder in cases where the investment platform comprises multiple investors with no mutual consensus on eventual exit strategies.
+
+Investors would also need to be cognisant of their rights (as well as restrictions on their rights) should they choose to remain invested in the company post the IPO. While the considerations would differ depending on whether the investor opted to remain in the fray as a unitholder as opposed to a shareholder in the investee company, investors in both situations would find themselves with limited statutory protection – making it imperative that the investment documentation adequately addresses these concerns.
+
+Back to the Drawing Board – Once More Unto the Breach
+
+The intricacies and specificities of REIT structures and the REIT listing process require us to look at investments and exits in the real estate sector through a wholly different lens. Investment structures and documentation hitherto employed in this sector are ill-equipped to address the idiosyncratic challenges presented by the REIT framework. The oddities and nitty-gritties of the REIT regulatory framework will need to be factored into each step of the transaction, right from the time of making the investment until the eventual exit. A successful and seamless exit through a REIT listing will entail investors (along with their advisors) embracing significant changes to the manner in which investments in this sector are conceived, consummated and concluded.
+
+Footnote
+
+1 "First quarter investments in Indian Realty at decade-high of $2.5 billion" available at https://economictimes.indiatimes.com/industry/services/property-/-cstruction/first-quarter-investments-in-indian-realty-at-decade-high-of-2-5-billion/articleshow/69137429.cms
+
+The content of this article is intended to provide a general guide to the subject matter. Specialist advice should be sought about your specific circumstances.

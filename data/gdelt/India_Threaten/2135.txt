@@ -1,0 +1,45 @@
+SBI, ICICI Bank or HDFC Bank customer? Take this advisory from banks very seriously
+
+Last year, a report by global financial information company Experian had sent alarm bells ringing when it claimed that one in four Indians directly experienced frauds while transacting online. With the digital revolution underway in the country, with people increasingly turning to online and mobile banking, users have become more vulnerable to data theft. And phishing is one of the most common cyber frauds in India.
+
+So, leading banks like State Bank of India, ICICI Bank and HDFC Bank now prominently display advisories on their websites to alert customers about the growing threat as well as to educate them on protecting themselves. Here's all you need to know about this fraud:
+
+"Phishing is a type of fraud that involves stealing personal information such as Customer ID, IPIN, Credit/Debit Card number, Card expiry date, CVV number, etc. through emails that appear to be from a legitimate source," HDFC Bank said on its website, adding that fraudsters nowadays also use phone (voice phishing) and SMS (Smishing).
+
+How do the fraudsters operate?
+
+Fraudsters send spoofed emails that appear to be sent by a legitimate bank to large number of recipients with an urgent tone that calls for quick action to verify, update or reveal one's confidential account information by clicking onto a link in the email. But once you do that, the link will direct you to a replica page of a known financial institution where you will be presented a web form to divulge your confidential personal data. "Or while the user is online, a form will populate through an in-session pop-up," ICICI Bank cautions on its website.
+
+The customer's confidential account information or identity credentials so collected by phishers is then used to commit fraudulent transactions. According to the SBI, the perpetrators may use the information for siphoning money from the victim's account or run up bills on victim's credit cards. In the worst case, one could also become the victim of identity theft.
+
+How to identify a phishing attempt:
+
+1. Be on guard against unsolicited emails, calls from strangers or websites asking for confidential banking details or urgent action due to "security reasons".
+
+2. The URLs of most fake web addresses start with 'http://' while the authentic ones boast 'https://' where "s" stands for secure site.
+
+3. Check the Padlock symbol. This depicts the existence of a security certificate, also called the digital certificate for that website.
+
+4. The fraudster may use well known bank's email address, domain name, logo, etc to give an authentic feel but such fake emails will always address you by a generic salutation, say, "Dear Net Banking Customer". On the other hand, a bank's authentic emails will always address you personally by your name.
+
+5. The links embedded in such fake emails may sometimes look authentic but when you move the cursor/pointer over the link, there may be an underlying link/URL to a fake website
+
+Also read: What are the best investment options for working women in their 30s?
+
+How can you safeguard yourself?
+
+The easiest thing to do is to not open any spam mails. Be especially cautious of emails with any of the above-mentioned red-flags. If you do open the email, then ensure you do not click on any suspicious links in it or open any unexpected email attachments, including those promising a cash reward.
+
+Banks have been repeatedly sending SMS alerts and emails informing customers that their employees will never ask for customer's sensitive data. So never disclose details like passwords, debit card grid values, etc. to anyone, not even someone who claims to be from the RBI, your card issuer or the income tax department.
+
+Next, when conducting online transactions, look for signs that the site is secure, such as a lock icon on the browser's status bar or a "https:" URL. Always access your bank website by typing in the correct website address on your web browser instead of clicking on any link.
+
+It also helps to install the latest anti-virus/anti-spyware/personal firewall/security patches on your computer or smartphones and updating it regularly.
+
+What to do if you suspect you have become a victim?
+
+The first thing to do is to change your passwords immediately if you have accidentally revealed sensitive data or have clicked on a dodgy link. Banks say that you should also report the incident on their customer care helplines - forwarding phishing emails also helps.
+
+(Edited by Sushmita Choudhury Agarwal)
+
+Also read: 5 reasons why provident fund is so important to the salaried class!

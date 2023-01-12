@@ -1,0 +1,65 @@
+Exclusive: Kolkata Prof Got an Alert From Yahoo Over 'Govt-Backed' Email Snooping Attempt
+
+Mumbai/New Delhi: Just around the time when news of Israeli spyware Pegasus being used to target activists and human rights lawyers was breaking in India, Partho Sarothi Ray, a 42-year-old Kolkata-based molecular biologist, was dealing with another peculiar problem.
+
+His Yahoo email account had received an alarming message from the technology company: “We believe your Yahoo account may have been the target of government-backed actors, which means that they could gain access to the information in your account.”
+
+Ray, who specialises in cancer biology, is an associate professor at the Indian Institute of Science Education and Research in Kolkata.
+
+He is also a well-known civil rights activist and one of the founder members of a Leftist magazine, Sanhati. In 2012, while allegedly protesting against the Mamata Banerjee-led Trinamool Congress government’s decision to evict slum dwellers in Kolkata, Ray was jailed for 10 days. At the time, academics and activists around the world publicly protested his arrest and detention.
+
+He is also a part of a collective called Persecuted Prisoners Solidarity Committee (PPSC), formed to provide legal help to incarcerated persons, he says, who are suffering from state persecution. “Mainly those from the marginalised sections such as Adivasis, Dalits and religious minorities.”
+
+Also read | Pegasus Episode Should Not Make You Give Up Hope of Communicating Securely
+
+Ray’s personal email, according to the message from Yahoo, may have been targeted and compromised. He told The Wire that he received the message on November 5 on his personal email account, and his official IISER email address which he uses as a recovery account for his personal ID.
+
+“The message very categorically stated that I was being digitally targeted by a government-backed actor. I looked up Yahoo’s website and found out that such emails are sent only when the website suspects something unusual on your account. I followed the several links that were mentioned in the email and I was sure this was an authentic email,” he said.
+
+The Wire has been able to verify the authenticity of the warning but not its specific contents. It is therefore not clear who this “government-backed actor” is or indeed what government they work for.
+
+Yahoo response
+
+When contacted and sent these messages to ascertain their authenticity, a Yahoo Mail spokesperson told The Wire that the company “strives to detect and prevent unauthorised access to user accounts by third parties”.
+
+“It does not necessarily mean that the user’s account has been accessed by unauthorised third parties, but it reminds users to secure their account and provides guidance on the steps they can take to protect their accounts and devices,” the spokesperson said.
+
+The company declined to disclose how it knows if an account has been targeted, but said that a user is only notified if they “have a high degree of confidence that they have been targeted”.
+
+“Disclosing how we know if an account was targeted is challenging as we do not want to give bad actors a roadmap to circumvent our detections, but we only notify a user if we have a high degree of confidence that they have been targeted,” the spokesperson said.
+
+The company also added that receiving this sort of email did not indicate that Yahoo’s internal systems had been compromised, but that it was primarily aimed at protecting users from possible phishing attacks.
+
+Also read | Israeli Spyware: Ask Not What Pegasus Does, But How Powerful Actors Operate in India
+
+In the last six months, Ray has been at the receiving end of what appears to be part of a phishing and malware campaign. The Wire has accessed this evidence – the attacks happened in May 2019 and in October 2019 – which is being forensically analysed at the moment.
+
+Yahoo’s warning appears to indicate that it’s not just WhatsApp but that phishing and other snooping attempts are also being carried out on the email accounts of other rights activists and lawyers in the country.
+
+The Wire has learned that more people have received such alerts from Yahoo in the past week, warning them of a possible intrusion into their email accounts. The nature or origin of this attack remains unknown, however.
+
+Although perturbed, Ray says he was not surprised. His activism and his writings have been considered anti-government. He has been organising and campaigning against incarceration of political prisoners in West Bengal. During his work, he says, he has come across several activists across the country, including those arrested in the Bhima Koregaon case.
+
+Nine prominent rights activists and lawyers have been arrested by the Pune police last year and have been accused of being “urban Naxals”. This case, which began as an investigation into the violence unleashed on the Dalit community visiting Bhima Koregaon, 30 km northeast of Pune, was later converted into an investigation into a larger plot to allegedly “assassinate Prime Minister Narendra Modi”.
+
+Also read | Citizen Lab Lists Measures You Can Take to Protect Your Accounts From Spyware
+
+Among those arrested activists, Ray says, he had come in contact with lawyer Sudha Bharadwaj on several occasions as part of his PPSC work. Like Bharadwaj, 83-year-old Jharkhand-based activist Father Stan Swamy and Bharadwaj’s lawyer Shalini Gera are also a part of this collective. Swamy has been named as an accused in the case and his house has been abruptly raided multiple times by the Pune police.
+
+Gera is one of several lawyers and activists who were alerted by WhatsApp and a Canada-based digital research organisation about the Israeli malware, Pegasus, sent to their phones and that their data could have possibly been compromised.
+
+“These communications were essentially in connection with the prisoners’ languishing in jails across the country,” he says. In the chargesheet filed against the nine accused, Ray’s name has been mentioned a few times.
+
+“My name has appeared in several places in the chargesheet. Although I have not been named as an accused or questioned by the police so far, I am on their radar. My work is all in the public domain and I, like all others arrested in the case, have been critical of the state’s policy and human rights violations. The state looks at all this as an anti-national activity,” Ray tells The Wire.
+
+Home ministry ‘warning’
+
+Soon after the arrests of activists in the Bhima Koregaon case, the Union home ministry had sent a letter to the West Bengal government requesting it to “keep a watch” on ten organisations and entities in the state. Among them, Ray was named first.
+
+The letter, as quoted in a report published by Anandabazar Patrika on September 8, 2018, states that the home ministry wants the state to keep a close watch on “ultra-Left organisations”.
+
+The reporter, Jagannath Chatterjee, quoted an official from the state secretariat as saying, “Several Maoist organisations were functional during Nandigram, Singur and Lalgarh uprisings. We have detailed information on them. At that time, a lot of important people would be in touch with Maoist organisations. The Jangal Mahal is now once again abuzz with efforts of Maoists to restart operations. Resources will be sent from the cities. We are alert.”
+
+The article, however, said that the letter from the ministry has not called any of those named “Maoists”.
+
+The Wire tried to reach Chatterjee to find out more about the directive. However, he refused to speak saying that his phone had been tapped as well and that he wouldn’t like to reveal more over a phone call.

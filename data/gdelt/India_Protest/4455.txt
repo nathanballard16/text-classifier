@@ -1,0 +1,95 @@
+Mark Zuckerberg presents his vision for an integrated, privacy-focused platform- Technology News, Firstpost
+
+Nimish Sawant
+
+Mark Zuckerberg is back with another detailed outline of what he wants to do in the coming years.
+
+Post the 2016 US Presidential elections, Zuckerberg and the company he founded have been under constant scrutiny. This reached its peak post the Cambridge Analytica data breach which had exposed the data of around 87 million Facebook users. Since then, it has been one PR disaster after another and Zuckerberg and team have tried to do damage control — till the next privacy faux pas was brought to light.
+
+While Zuckerberg has made it amply clear that under no circumstances will he be stepping down, he has been trying to use his personal Facebook page to present lofty ambitions regarding Facebook’s future.
+
+In the most recent post, Zuckerberg has presented a vision for a privacy-focused messaging and social networking platform. He hasn’t given a timeline as to when this new platform will go live but has said that it will be done openly and after consulting with experts as it goes about developing this platform.
+
+Principles of this new privacy-focussed platform
+
+A quick run through the operating principles of this new privacy-focused social networking and messaging platform bring home the point that those talks about the integration of WhatsApp, Messenger and Instagram Direct are indeed true.
+
+“We plan to start by making it possible for you to send messages to your contacts using any of our services and then to extend that interoperability to SMS too. Of course, this would be opt-in and you will be able to keep your accounts separate if you'd like,” said Zuckerberg. He also tried to justify using Messenger for sending SMSes (which would mean you share your contact book with Facebook) would ensure SMSes are end-to-end encrypted as SMS protocol doesn’t allow for that. Well, I wonder who in 2019 uses SMS for private communication in the first place? This argument of encrypting SMSes to get access to your phone book seems weak. While you can do this on Android today, Apple does not allow any SMS interoperability.
+
+Zuckerberg said he would be focussing on aspects such as private interactions which will be end to end encrypted, there will be an effort to reduce the permanence of these messages so that something you may have said in the past may not be used against you.
+
+Sensitive data would not be stored in countries where the human rights records are weak and freedom of expression is under threat.
+
+Zuckerberg also stressed on the fact that these principles will be core to the services being offered on the new platform, the development of which will happen in an open manner with consultations from experts and different stakeholders from the society who may be affected by it.
+
+Facebook and Instagram’s public nature lets these platforms collect immense data on you, which can then be used to target you with ads. This has been Facebook’s business model and one which has helped it grow year on year. With a privacy-focussed social media platform, getting private user data would not be that easy. Zuckerberg acknowledges that fact and is ready to sacrifice revenues and profits on that front — so long as users feel secure communicating on Facebook’s platforms. Does this mean the public Facebook and Instagram platforms are to be abandoned by users?
+
+Not really, Facebook and Instagram are going nowhere
+
+Zuckerberg’s announcement of the new platform naturally put question marks over Instagram and Facebook, which are more public in nature. These won’t be going anywhere.
+
+In an interaction with Wired, Zuckerberg said that Facebook and Instagram, which are the digital equivalents of a town square, would continue to grow in importance and will remain. “At the same time though, the things that we see growing the fastest, in terms of what people want to do, are private messaging, stories that are ephemeral and don’t stick around.”
+
+When talking about broader social networks, Zuckerberg said that accumulating friends and followers, to an extent that the service feels more public, is great for many use cases such as broadcasting information to your friends, finding communities of like-minded people, organising fundraisers and much more. While all that is good, we have seen how these "good" aspects can be used against users on these public platforms. The Cambridge Analytica scandal’s origins lay in a simple personality quiz — something one would consider harmless while taking it.
+
+That argument of there being a public town square — a term that both Facebook and Twitter use often — comes with its own set of sticky areas. Abuse is rampant on both these platforms and they are still struggling to keep it under control. So while it’s great to acknowledge the finer aspects of the whole ‘digital town hall’, Zuckerberg would do good to acknowledge its pitfalls as well.
+
+Zuckerberg stated an example of how when building WhatsApp, the team was focussed on creating an intimate environment and when WhatsApp Groups was built, they put in a size limit to ensure every interaction felt private. And yet, WhatsApp Groups are far from being the private online islands one would hope for.
+
+On encryption
+
+End-to-end encryption is an important tool for user data privacy and one thing that’s good about WhatsApp is that it is end-to-end encrypted (though we have to take Facebook's word for this). There has been speculation about how Facebook’s increased interference in making the $19 bn WhatsApp acquisition profitable has led to the departure of its founding members Brian Acton and Jan Koum. The WhatsApp co-founders had both promised that even after the acquisition by Facebook, they would protect user data. WhatsApp added end-to-end encryption in 2016 to further cement its resolve.
+
+But over the years, we have been seeing how Facebook wants to get WhatsApp user data and use it to its advantage. There were changes made to WhatsApp's terms of services in 2016, to allow sharing of user data between WhatsApp and Facebook, including user phone numbers, devices they are using, operating systems on which the app is running and so on. Naturally, not many users were too kicked about this, leading to courts in France, Germany and Britain ordering and fining Facebook for going ahead with this.
+
+It's not just WhatsApp founders, but even founders of Instagram who left the company last year following increased interference from Facebook.
+
+With this backdrop, when Zuckerberg speaks about the importance of end-to-end encryption, one is bound to view it with a sceptical eye.
+
+Zuckerberg, in his blog post, spoke about how encryption is helping dissidents to communicate in countries where freedom of expression is frowned upon.
+
+“This may seem extreme, but we've had a case where one of our employees was actually jailed for not providing access to someone's private information even though we couldn't access it since it was encrypted,” said Zuckerberg.
+
+Zuckerberg also touched upon how end-to-end encryption also lets people doing bad things, stay untraceable. “We have a responsibility to work with law enforcement and to help prevent these wherever we can. We are working to improve our ability to identify and stop bad actors across our apps by detecting patterns of activity or through other means, even when we can't see the content of the messages, and we will continue to invest in this work,” said Zuckerberg acknowledging that this will be a tricky issue to tackle and it will still be difficult for us to know the full extent of the harm that can be caused by such actors using encrypted platforms.
+
+The one good thing that Zuckerberg followed this up with was the fact that it won’t just be Menlo Park engineers working to resolve this issue. Facebook will be consulting with experts, law enforcement, government agencies and many other stakeholders on how best to tackle this issue. WhatsApp will be the take-off point for a lot of these safety systems as it already is an end-to-end encrypted platform.
+
+Not just stopping there, Zuckerberg also mentioned about working with other platforms to ensure the entire industry is on the same page. The only other privacy focussed messaging apps that come to mind include Telegram, Signal and Apple’s Messages. Will these platforms work together? It’s difficult to say at the moment.
+
+On reducing permanence
+
+One of the reasons why Snapchat took off after launch was the idea of ephemeral messaging it offered. Of course, it has been a while since and Facebook has pretty much copied all of Snapchat’s Stories' philosophy to bake it into Instagram, Facebook and WhatsApp. The Stories, which disappear after 24 hours, enables a lot of us to share our lives without the fear of any embarrassing moments being used against us in the future — something that is not offered on our Facebook albums. A drunken night out during your college days, may have been shared on some public Facebook album which you may have forgotten about and it may come back to haunt you in your current professional job. The only way around is currently to make those albums private or delete them manually.
+
+Zuckerberg, in his thoughts on reducing permanency of messages or photos or videos, is hinting at having a system-level self-destruction module which will let you decide the expiry date of a message or a photo.
+
+“..You'd have the ability to change the timeframe or turn off auto-deletion for your threads if you wanted. And we could also provide an option for you to set individual messages to expire after a few seconds or minutes if you wanted,” said Zuckerberg. He also goes on to mention limiting collecting messaging metadata beyond a certain timeframe. This may have more to do with strict regulations such as GDPR and possibly future privacy laws that may mandate this. So it’s good of Zuckerberg to pre-empt this as he works towards the goal of collecting less personal data on the user in the first place.
+
+Securing data centres
+
+“Looking at the future of the internet and privacy, I believe one of the most important decisions we'll make is where we'll build data centres and store people's sensitive data,” said Zuckerberg.
+
+Countries which have a track record of violating human rights and freedom of expression will not be considered as locations for Facebook’s data servers for the new platform. Zuckerberg did not mention any specific countries, but we can all take educated guesses on that front.
+
+“Upholding this principle may mean that our services will get blocked in some countries, or that we won't be able to enter others anytime soon. That's a tradeoff we're willing to make. We do not believe storing people's data in some countries is a secure enough foundation to build such important internet infrastructure on,” said Zuckerberg. One can then safely say that China won’t be getting this new privacy focussed service unless there are drastic rule changes there regarding its Great Firewall.
+
+Zuckerberg, who can speak Mandarin, has always been on the fence about Facebook’s China plans. With around 1.4 bn internet users in China, who can only access Facebook and its services via VPN, one can’t blame Zuckerberg for looking at making some inroads into that market. In fact, till 2016, Facebook was even willing to build a special censorship tool to suppress posts to get into the good books of Chinese authorities.
+
+We have seen Zuckerberg visit China and courting Chinese officials to try and get the ban on Facebook lifted, but nothing has happened so far. A Buzzfeed News report states that a senior source inside Facebook has claimed that the company doesn’t see any point in pursuing its Chinese ambitions for its upcoming privacy-focussed platform.
+
+Another country that comes to mind is Russia, which just yesterday announced plans to propose a ‘Sovereign Bill’ which would let officials control the flow of information being circulated within Russia. A sort of 'Great Firewall of Russia', if you will. While the official version of the bill is to counter a cyber strategy the US adopted last year against the Kremlin, it is believed that the bill could be used to stifle political and civil unrest in the country.
+
+But if this privacy focussed platform also plans to have marketplaces which will involve payments, it could run into issues even in India considering the government’s insistence on data localisation. Zuckerberg has said that building this privacy focussed platform is just the first step and he has plans to build many services on top of it — such as financial transactions, payments services and so on. The vision seems akin to having a super secure version of a Super App such as Tencent’s WeChat.
+
+In conclusion
+
+Zuckerberg has been questioned by regulators in the past about its competitors or whether it's a monopoly. Zuckerberg had no strong response there as, let’s face it, Facebook, as an ecosystem, has no parallel. Regulators have also called for splitting up Facebook into different products so that data is not concentrated in one place. While Zuckerberg has also agreed to some level of regulation, it looks like this idea of a privacy-focused platform, separate from its current public platforms such as Facebook or Instagram, could be a step in that direction.
+
+Zuckerberg has, more than twice in his 3,200-word manifesto, mentioned how Facebook will be having open consultations with multiple stakeholders before creating this platform. This should definitely win him some brownie points from regulators who have always called out Facebook for being this private (Evil?) entity, taking unilateral decisions in its Menlo Park headquarters which affect the public discourse globally.
+
+Zuckerberg, through his manifesto, has also hinted to investors that they should be prepared for not-so-exponential growth on the platform, as it tries to get things around privacy in place.
+
+How effectively Zuckerberg has allayed the fears of its core user-base is open for debate. He has mentioned the word ‘people’ in his post around 66 times, as though he is addressing an election rally more than presenting the vision for a future social media platform. That’s how critical it has become for the platform to put the people and their wellbeing front and centre. As this analysis in The Atlantic notes, replace ‘people should’ with ‘Facebook wants’ and you will understand how Zuckerberg has deftly presented his company’s ambitions as something altruistic he is doing for the people.
+
+One acknowledgement from Zuckerberg, which he has oft-repeated, has been, “I understand that many people don’t think Facebook can or would even want to build this kind of privacy-focused platform — because frankly we don’t currently have a strong reputation for building privacy protective services, and we’ve historically focused on tools for more open sharing.” But then, he goes on to say that Facebook has evolved to build services that ‘people really want’. Well, reactive measures will not cut it any longer.
+
+In the last couple of years, Facebook has consistently let its users down. So even if you, like me, are sceptical of Facebook’s grand vision around this privacy-focussed platform, it’s perfectly fine. Facebook has lost its trust among users, to an extent that they're leaving the platform by the millions, and it will have to work doubly hard to earn back that trust.

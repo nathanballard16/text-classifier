@@ -1,0 +1,107 @@
+Israel's Beresheet spacecraft crashes on Moon
+
+The first privately funded mission to the Moon has crashed on the lunar surface after the apparent failure of its main engine.
+
+The Israeli spacecraft - called Beresheet - attempted a soft touch down, but suffered technical problems on its descent to the Moon's surface.
+
+The aim of the mission was to take pictures and conduct experiments.
+
+Only government space agencies from the former Soviet Union, the US and China have achieved soft lunar landings.
+
+Israel hoped to become the fourth country to do this.
+
+"We didn't make it, but we definitely tried," said project originator and major backer Morris Kahn.
+
+"I think that the achievement of getting to where we got is really tremendous, I think we can be proud," he said.
+
+Prime Minister Benjamin Netanyahu, watching from the control room near Tel Aviv, said: "If at first you don't succeed, you try again."
+
+After a seven-week journey to the Moon, the unmanned spacecraft approached a final orbit at 15km (9 miles) from the surface.
+
+Tensions were high in the command centre as communications were lost before Opher Doron, the general manager of Israel Aerospace Industries' space division, announced there had been a failure in the spacecraft.
+
+"We unfortunately have not managed to land successfully," he said.
+
+Reactions from people watching outside the control room at Israel Aerospace Industries (IAI) site in Yehud
+
+The audience outside had been through a turbulent journey themselves as they watched the first part of the landing go to plan.
+
+As Mr Doron announced that the engine had cut out, groans filled the room.
+
+"We are resetting the spacecraft to try to enable the engine," he said.
+
+The engine came on seconds later and the audience applauded, only for communication with the spacecraft to be lost shortly after. The mission was over.
+
+The project has cost about $100m (£76m) and has paved the way for future low-cost lunar exploration.
+
+Dr Kimberly Cartier, an astronomer and science news reporter, tweeted that she was "sad about how #Beresheet ended" but "proud of the entire @TeamSpaceIL".
+
+Beresheet, which is Hebrew for "in the beginning", was a joint project between SpaceIL, a privately funded Israeli non-profit organisation, and Israel Aerospace Industries.
+
+Why did it take weeks to get to the Moon?
+
+In space terms, the Moon is a mere hop from the Earth, and most missions take a few days to get there.
+
+But the Beresheet mission, which launched on 22 February from Cape Canaveral in Florida, spent weeks reaching its destination.
+
+Its journey took it on a series of ever-widening orbits around the Earth, before being captured by the Moon's gravity and moving into lunar orbit on 4th April.
+
+The spacecraft launched on a SpaceX rocket in February
+
+The average distance to the Moon is 380,000km (240,000 miles) - Beresheet travelled more than 15 times that distance. And the main thing driving this was cost.
+
+Instead of sitting alone on a rocket that would put it on the perfect trajectory to the Moon, it blasted off on a SpaceX Falcon 9 rocket along with a communications satellite and an experimental aircraft.
+
+Sharing the ride into space significantly reduced its launch costs - but it meant the spacecraft had to take a more convoluted route.
+
+The spacecraft enlarged its path around Earth until it was captured by the Moon's gravity
+
+How hard was it to land?
+
+A controlled landing on the lunar surface was the major challenge for the Israeli spacecraft.
+
+The engine was British-built, developed by Nammo in Westcott, Buckinghamshire. It provided the power to get the spacecraft all the way to the Moon, but it also took Beresheet on its final descent.
+
+The 1.5m-tall spacecraft had to rapidly reduce its speed, so a final firing of the engine in effect slammed on the brakes, hoping to take the spacecraft to a gentle stop.
+
+Before the landing, Rob Westcott, senior propulsion engineer at Nammo, said "We've never used an engine in this kind of application before".
+
+He said the big challenge would be "the fact that the engine is going to have to be switched on and get very hot, then switched off for a short period of time when all that heat is remaining in its thermal mass, and then fired up again, very accurately and very precisely such that it slows the craft down and lands very softly on the surface on the Moon."
+
+That landing process took around 20 minutes. All of the controls for this were uploaded and performed autonomously with mission control watching on.
+
+What was the spacecraft supposed to do on the Moon?
+
+Its first job was to use its high resolution cameras to take some photos - including a selfie - which it did manage before the crash.
+
+It was then going to measure the magnetic field of the spot it landed in, an area known as Mare Serenitatis.
+
+Pictures of the moon plus a selfie taken by Beresheet as it made its descent
+
+Monica Grady, professor of planetary and space science at Open University, said it would be "looking at the landing site really closely". This would help "work out how the magnetic measurements of the Moon fit in with the geology and geography of the Moon, which is really important to understand how the Moon formed".
+
+The lander also carried a reflector from Nasa to help scientists make accurate measurements of the distance between the Earth and the Moon.
+
+Temperatures on the Moon are extreme, and as the Sun rose the spacecraft would have been unlikely to survive the heat.
+
+The spacecraft was due to study the Moon's magnetism while on the lunar surface
+
+How significant was this mission?
+
+Over 60 years of space exploration, only a few nations have made it down onto the Moon.
+
+The former Soviet Union achieved the first soft landing with its spacecraft Luna 9 in 1966. Nasa followed this by getting the first humans to the Moon in 1969. In 2008, India's space agency fired an impact probe, which intentionally crashed into the Moon's south pole. Then, China's Change-4 spacecraft touched down on the far-side of the Moon earlier this year.
+
+If their landing had worked, Israel would have been the latest nation to join this elite club.
+
+But it was the low-price tag - and the fact that the mission was not funded by a major space agency - that was significant.
+
+A photo taken by the spacecraft of the earth from a distance of 37,600 km (23400m)
+
+Beresheet was not alone in pursuing low-cost lunar exploration.
+
+Its origins lie in the Google Lunar XPrize, an international challenge offering $20m for the first privately developed spacecraft to land on the Moon.
+
+And while the competition ended last year after no-one was able to meet its deadline (the foundation has subsequently announced they will award the Beresheet collaboration $1m for their achievement), other teams involved are also continuing with their efforts to get to the Moon.
+
+Both Nasa and Esa have also announced their intention to use commercial landers to deliver scientific payloads to the lunar surface.

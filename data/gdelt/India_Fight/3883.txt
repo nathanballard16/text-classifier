@@ -1,0 +1,23 @@
+India’s largest bank leaves the data of millions of users exposed
+
+The State Bank of India’s (SBI) server was left without any password protection exposing the contact details, balances and partial account number details of its users.
+
+The server has since been secured, but while left vulnerable, it had archived messages going back to December.
+
+
+
+While no sensitive data was disclosed, the data breach leaves customers susceptible to social engineering hacks and extortion.
+
+Advertisement
+
+Advertisement
+
+“The data available could potentially be used to profile and target individuals that are known to have high account balances." Karan Saini, security researcher told TechCrunch
+
+Advertisement
+
+Advertisement
+
+Advertisement
+
+Hacking is where someone has to bypass security in order to get information, but India’s largest bank, the State Bank of India (SBI), left the data of millions of users exposed all because it did not set a password on its server.The ‘SBI Quick’ server — a service that allows the bank’s customers to text the bank for information on their accounts — has reportedly been secured since the report.But while it was open, it had archives of messages dating back to December according to TechCrunch’s investigation. That’s millions and millions of messages about balance information, loan inquiries, financial transactions and other data — although there were no passwords disclosed.The data breach was spotted by a security researcher (unnamed) and verified by Karan Saini, the researcher who previously found a leak in India’s Aadhaar database, the largest biometric authentication system in the world.Business Insider has reached out to SBI but they are yet to issue a response on the data breach. .While there was no sensitive data on the server, simple details like partial account numbers and contact information can render the SBI customers vulnerable to ransom demands.Social engineering attacks, one of the most common ways commit financial fraud, could also be a possibility. Drawing a correlation between a phone number and a high account balance, a social engineering attack would involve human interaction and manipulating their targets in to breaking normal security guidelines.As India’s largest bank, SBI claims to have more than 500 million customers worldwide with 740 million accounts. And since the bank hasn’t issued any response there isn’t any data available to determine exactly which customers’ data was exposed and how many customers are vulnerable overall.But, in a single data, the server shoots out nearly three million messages which doesn’t paint a very encouraging picture.Protecting data is a much larger program and goes beyond SBI. It’s not companies aren’t spending on security, but it’s getting harder to stay ahead of the challenges. To be fair, in SBI’s case, it was a simple case of negligence.When the Cosmos Bank — a 112 year old bank in India — was hacked in August last year, it was the victim of an attack carried out by the Lazarus Group of North Korea.A report by the Boston Consulting Group (BCG) found that among 50 of the recent major data breaches, only 28% were caused by inadequate security tech. In all the other cases — that’s 72% or nearly three-quarters — the breaches were caused due to organizational failure, process failure or, simply, employee negligence.While improving the technology behind cybersecurity is important, it’s also key to drive resilience measures in order to improve efficacy.

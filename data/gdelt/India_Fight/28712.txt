@@ -1,0 +1,63 @@
+Q&A with additive manufacturing consultant and trainer John Barnes
+
+Additive manufacturing (AM) is taking great strides towards becoming a mature, industrialized process.
+
+Second- and third-generation machines are being introduced. Increased building speeds are making AM a possible technology for production quantities. Material options in both plastics and metals continue to expand to meet component performance criteria. Educational institutions are adding curricula to bolster AM knowledge among young and experienced engineers. Small and large manufacturers are working to learn how AM can be logically integrated into their operations and benefit their customers.
+
+Still, there are steps to take and knowledge to be gained before manufacturers have a thorough understanding of how—and when—AM is truly advantageous.
+
+The Additive Report discussed AM’s current place in manufacturing and where it will be tomorrow with John Barnes, founder and managing director of The Barnes Group Advisors and its ADDvisor® Services, an AM engineering, consulting, and training company. Its services help companies develop their AM strategies, train personnel from executives to production engineers, and achieve various qualifications.
+
+AR: Where do you see AM in terms of being a widely adopted production process?
+
+John Barnes: I don’t know if I would call it an infant or a teenager, but I do see it reaching more of the supply chain. Its performance with plastics is much more advanced, and we are seeing new twists on old production ideas now that the initial patents are expiring.
+
+AR: Why does there seem to be a delay in general adoption?
+
+Barnes: Today about 1 percent of manufacturers know what to do with AM. The other 99 percent of companies making parts with AM are still trying to figure out how to integrate it into their operations.
+
+On the good news front of adoption, we see more of the supply chain getting involved, which is healthy. For example, we came across a company in The Netherlands using AM to make ovens for bakeries. So, the innovative thinkers are coming online and are quietly implementing the technology—they just don’t announce everything they do with AM.
+
+AR: What challenges need to be addressed to keep the technology moving forward?
+
+Barnes: Workforce education is number one. Productivity of the machines is certainly there, but until engineers really know how to design for the process, it doesn’t matter how productive the machines are.
+
+Education is a difficult problem to tackle because it is people-oriented. You can’t turn a person on like you can a piece of equipment and make him or her a fully functional additive designer. One CEO told us that there are only 1,000 design engineers in the world who really know how to design for additive, and that is a difficult number to work with if you want the technology to progress.
+
+AR: Are today’s graduating engineering students beginning to fill that void?
+
+Barnes: They have a better understanding of AM than many engineers, but they have a completely different perspective than seasoned industry members. They know that the technology is cool, but they don’t know how to qualify and perform product development for highly engineered AM components. It’s like with any skill—the students come into industry with an ability to Google and provide 1,000 data points, but they may still lack the ability to synthesize the knowledge into a meaningful message.
+
+They do have an interest in and knowledge of the design software, but they don’t know why AM is not the way to make everything. They look at other production technologies and forging and wonder why those methods would be used, because it seems like a waste of perfectly good material. They have to learn the reasons why another form of production can be the best choice. But it is encouraging. There is clearly a lot of interest across the board, and high school students interested in engineering have likely designed something for AM and perhaps had an opportunity to print something out.
+
+In some higher educational institutions, like Purdue, students can get so many sheets of copy paper and so many spools of filament by showing their ID cards. This lets them make copies of virtually anything.
+
+AR: Are established design engineers moving into AM?
+
+Barnes: Learning the technology is appealing to a wide demographic. One engineer said he was 56 years old, didn’t know how to blog, but is loving AM. We see all ages in our courses—engineers like him along with the younger crowd.
+
+AR: Do you see North America industry and engineers being a step behind their counterparts in Europe and Asia?
+
+Barnes: It is different from continent to continent. The U.S. is more concentrated on applications and product development. Europe has a clear advantage in development of the specific technologies and machines. It will never be equal, and that is fine. One will be a little stronger in the overall technology space. I see North America as a little behind Europe but catching up quickly.
+
+Within Asia, AM is just starting to come into its own. AM has seen a lot of movement in China and we are starting to see a lot of AM progress in India where there are a lot of good engineers. We are interested in seeing how quickly it will mature there.
+
+What we have here in the U.S. is very promising visibility on the startup side. There is now close to $1 billion of venture capital funding going into 3D printing, and there is no doubt that some good progress will come from that.
+
+Engineers everywhere have universal AM information consumption. They all have access to the Internet and watch the same YouTube videos, so there are not a lot of information barriers or variances from country to country. If there are differences, they are more generational than geographical.
+
+AR: What do you see happening with materials?
+
+Barnes: We are seeing a natural evolution that has happened with a lot of manufacturing technologies. Manufacturers will want a part made out of Ti64 because that is what was used before and that’s what is wanted for the future. Then they see that with an AM process, Ti64 might not be the best material. They come to understand that rather than keeping with the Ti64, they could get better reliability, performance, and so on by focusing on the desired properties for the finished component and choosing materials from those available because of the AM process.
+
+Everybody is getting a little smarter about the various processes like e-beam and laser powder bed work and the differences in their operations, and they should be doing the same thing regarding the materials. The question should be what properties are needed, not what material.
+
+AR: How do you see AM technology evolving over the next several years?
+
+Barnes: I see it becoming more accepted as a manufacturing tool. The processes will certainly get faster and more productive, which is key for it getting into mainstream industries like automotive. AM is already starting to chip away at production processes for high-end cars. I can see that with a doubling of current productivity, it will really be accepted by markets in addition to aerospace and medical, where it is already becoming commonplace.
+
+Education is a big part of this. The good news is that there is more training available and more online programs, which is how information and education are being consumed today.
+
+The internet gives engineers access to AM information as it evolves. Somebody in India or Australia or Peoria, Ill., can now get a Purdue-level AM education in his or her living room. Online doesn’t replace human-to-human interaction, asking face-to-face questions, or getting into detailed discussions, but if we want to get to 100,000 AM design engineers instead of 1,000 in a reasonable time, teaching 20 students at a time is not going to do it.
+
+AM breeds a different process economic, which will be healthy for manufacturing.

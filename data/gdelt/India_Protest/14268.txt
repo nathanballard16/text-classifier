@@ -1,0 +1,21 @@
+Chip ‘fingerprint’ technology for secure transactions
+
+Cloning the electronic fingerprint is not easy
+
+The emergence of Internet of Things has brought in, rather urgently, a need for low-cost security technology. While passwords and other such forms of encryption are software-based, there is also a need for security at the hardware level. Every device, such as a chip, needs to be encrypted with a fingerprint-like identity. This is known as a physically unclonable function. Developing a technology to implement this is a highly competitive field, and IIT Bombay researchers have developed a device that can be used for this purpose. The research has been published in the journal IEEE Electron Device Letters.
+
+Securing hardware
+
+Secure transactions are ubiquitous today and demand security at various levels. For instance, credit card has a chip attached to it and the identity is downloaded with the card. To prevent the card from being cloned, the chip has to have an electronic fingerprint-like identity. Unlike an optical image of a fingerprint that can be lifted easily, this electronic fingerprint has several layers, thus making cloning hard. Such an identity is what the researchers have developed.
+
+“Various technology start-ups around the world are addressing this challenge, for example, SiDense and eMemory, which have been acquired by larger companies in the last couple of years. This [what IIT Bombay has developed] is an indigenous capability in a cutting-edge technology with strong international interest,” Udayan Ganguly who is in the Department of Electrical Engineering at IIT Bombay and is a part of the team that developed this technology says in an email to The Hindu.
+
+Translating a new technology into a manufacturing line without disturbing its existing capabilities was the greatest challenge faced by the team. “We have achieved this by developing excellent working relationship and trust between IIT Bombay and Department of Space’s Semi-Conductor Laboratory [near Chandigarh] to take calculated risks which are necessary to demonstrate new capabilities,” says Prof. Ganguly.
+
+After developing the concept, the team demonstrated the technology on a 180 nm CMOS chip in the fabrication facility in Chandigarh to show the feasibility for manufacturing. This technology is currently being developed for Defense Research and Development Organisation (DRDO).
+
+“Defence qualification is the first goal. Meeting stringent defence specifications will instill great confidence in our technology. Next, we will push for commercial applications such as e-commerce, credit cards to name a few,” says Prof. Ganguly.
+
+Collaborative effort
+
+The translation of the technology will require the participation of several bodies across the country — IIT Delhi will work on the circuits, Chennai-based Society for Electronic Transactions and Security will study the encryption, and Semi-Conductor Laboratory will manufacture the device.

@@ -1,0 +1,33 @@
+WhatsApp Pegasus spyware: There was no ‘unauthorised interception’ by govt, says RS Prasad- Technology News, Firstpost
+
+tech2 News Staff
+
+During a discussion on the WhatsApp surveillance controversy in Rajya Sabha today, Union Minister Ravi Shankar Prasad denied any "unauthorised interception" by the government using the Pegasus spyware.
+
+Prasad said that the government is committed to the digital security of Indians, and is working towards making messaging platforms more secure for users in the country.
+
+He said, “On September 5, 2019, WhatsApp wrote to CERT-In, providing an update to the security incident reported in May 2019 stating that while the full extent of this attack may never be known,” ANI reported. “WhatsApp continues to review the available information.”
+
+My statement in the Rajya Sabha on the Calling Attention Motion regarding security breach of WhatsApp users by Pegasus spyware. pic.twitter.com/t3rAJhiAIC — Ravi Shankar Prasad (@rsprasad) November 28, 2019
+
+Union Minister Ravi Shankar Prasad in Rajya Sabha: On 5 September, 2019 WhatsApp wrote to CERT-In providing update to the security incident reported in May 2019 stating that while the full extent of this attack may never be known, WhatsApp continues to review the available info. pic.twitter.com/jVRnbbq2Lh — ANI (@ANI) November 28, 2019
+
+Union Minister Ravi Shankar Prasad in Rajya Sabha: It also mentioned that based on WhatsApp data available, they believe that the attackers may have attempted to reach the devices of approximately 121 users in India. https://t.co/PqSXMX2bAE — ANI (@ANI) November 28, 2019
+
+Prasad also said that Indian and foreign digital players need to come up with proper security measures or appropriate action will be taken against them.
+
+RS Prasad in Rajya Sabha: Digital players,both Indian & foreign are welcomed to contribute in growing market but must understand that safety & security of Indians is of prime importance.They must erect appropriate security walls to ensure this, or appropriate action will be taken https://t.co/vRb3PzS15U — ANI (@ANI) November 28, 2019
+
+During the debate, senior Congress leader Digvijaya Singh also appealed to all the parties to form a Joint Parliamentary Committee to investigate a snooping row that is said to have affected WhatsApp users in India.
+
+Digvijaya Singh, Congress in Rajya Sabha on WhatsApp privacy breach issue: I appeal to all the parties to constitute a Joint Parliamentary Committee (JPC) and investigate this sensitive issue as it is connected to our fundamental rights and national security. https://t.co/vRb3PzS15U pic.twitter.com/1UNu1uxUn5 — ANI (@ANI) November 28, 2019
+
+On 29 October, WhatsApp revealed that it was suing Israel-based NSO Group for developing the Pegasus spyware that was used to target 1,400 civil rights activists, lawyers, and journalists across the world, including 121 users in India.
+
+Union Minister Ravi Shankar Prasad in Rajya Sabha: It also mentioned that based on WhatsApp data available, they believe that the attackers may have attempted to reach the devices of approximately 121 users in India. https://t.co/PqSXMX2bAE — ANI (@ANI) November 28, 2019
+
+(Also read: WhatsApp Hack: Government expresses concern over not disclosing the incident earlier)
+
+While WhatsApp seems to be bearing the complete blame for the vulnerability, the NSO group has always claimed that they only sell their solutions to national governments and law enforcement agencies. There was no explicit clarification by the govt till today that no ‘unauthorised surveillance’ was approved. As most of the activists and lawyers whose WhatsApp accounts were compromised were what one would call anti-establishment actors, the suspicion about government involvement was justified to some extent.
+
+Despite CERT-In being informed about it, a government official said that the response team could not fathom the magnitude of the situation due to the advisory being full of 'technical jargon'.

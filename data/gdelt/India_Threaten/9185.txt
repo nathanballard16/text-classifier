@@ -1,0 +1,57 @@
+Nokia ties up operators as data boom makes 5G inevitable
+
+While incumbent telecom operators like Bharti Airtel and Vodafone Idea (VIL) have been up in arms against 5G spectrum auction in the near future due to a financial crunch in the sector, Reliance Jio has been quite vocal about going ahead with 5G trials, reports Romita Majumdar.
+
+IMAGE: According to telecom experts, the humongous video streaming levels is also a reason for rising network congestion (even for voice services) in the country. Photograph: Kind courtesy Gracini Studios/Pixabay
+
+The internet data boom and rising consumption of content and related services will eventually lead 4G LTE resources to exhaust, leaving operators no choice but to adopt 5G networks, said Alexander Tikhonov, vice-president and global head of customer solutions architects at Nokia.
+
+Last week, the smartphone maker confirmed its position with 42 commercial 5G deals (more than any other vendor has announced) in place with operators around the world, 22 with named customers such as T-Mobile, Telia Company, and SoftBank.
+
+Including these deals, Nokia's 5G deals, trials and demos total over 100 5G customer engagements to date.
+
+"The data consumption (in India and globally) is video centred on internet devices at very high quality.
+
+"That will exhaust LTE spectrum at a point in time in near future, that is, between 2021 and 2023 as per studies across most countries.
+
+"And they will need to shift to 5G to satisfy consumer demand," said Tikhonov.
+
+According to a recent Assocham-PwC report, data consumption in India will grow from 7.2 million MB in 2017 to 1.09 billion MB (megabytes) in 2022, growing at a compound annual growth rate (CAGR) of close to 72.6 per cent.
+
+IMAGE: According a Nokia report last year, video streaming constitutes up to 75 per cent of the data traffic. Photograph: Kind courtesy, StockSnap/Pixabay
+
+While internet penetration is increasing in India, with mobile internet penetration set to reach 56.7 per cent in 2022, from a mere 30.2 per cent in 2017, with video-on-demand driving usage.
+
+In fact, according a Nokia report last year, video streaming constitutes up to 75 per cent of the data traffic.
+
+According to telecom experts, the humongous video streaming levels is also a reason for rising network congestion (even for voice services) in the country.
+
+While incumbent telecom operators like Bharti Airtel and Vodafone Idea (VIL) have been up in arms against 5G spectrum auction in the near future due to a financial crunch in the sector, Reliance Jio has been quite vocal about going ahead with 5G trials.
+
+Bharti Airtel hopes that the Centre will bring down the proposed base price for the 5G auctions for the company to consider participating in the airwave sale.
+
+In a recent investor conference call Gopal Vittal, chief executive officer of Bharti Airtel, said that since 5G requires large quantity of spectrum and investments in the range of Rs 50,000-55,000 crore and "clearly these are prices we can't afford as they are exorbitant, we hope the government will bring down pricing and then we will look seriously at 5G."
+
+While spectrum cost is a concern, telecos are also bidding on data usage as a means to grow revenue and usage over voice services.
+
+IMAGE: A sign advertising 5G is seen at CES (Consumer Electronics Show) Asia 2019 in Shanghai, China. Photograph: Aly Song/Reuters
+
+Airtel currently has 115 million data subscribers compared, to 306 million of Reliance Jio and 146 million of Vodafone Idea.
+
+Airtel, however, has the highest data usage at 11 GB per subscriber per month, compared to 10.9 GB for Jio and 8.8 GB for Vodafone Idea.
+
+"With 4G penetration for Bharti Airtel and Vodafone Idea still at 25-30 per cent of the subscriber base, limited use cases of 5G at present, and a nascent 5G ecosystem, we believe it will be negative for operators to spend over $7 billion on a project offering limited returns," noted Deepti Chaturvedi, research analyst at CLSA, in a note to investors.
+
+Further, with 275MHz spectrum available in 3.4-3.6GHz band and only three operators in play, there is enough supply.
+
+So, even if Reliance Jio bids in current auctions, incumbents led by Bharti Airtel can purchase spectrum in subsequent auctions.
+
+Deferring purchase will likely also lead to a cut in price of spectrum.
+
+Historically, the govt has cut spectrum prices by 30-40 per cent if it saw no demand in the previous auction, Chaturvedi wrote.
+
+Operators in South Korea, Japan and China have been granted 100-200MHz spectrum each in the 3.5-3.7GHz band for 5G services.
+
+Over past few months, commercialisation of 5G has also started with Korean operators introducing 5G plans and Samsung launching the first commercial 5G smartphone.
+
+In the US, Verizon launched its mobile 5G service called 5G Ultra Wideband in April in a couple of cities and plans to expand this to another 20 cities in 2019.

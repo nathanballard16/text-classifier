@@ -1,0 +1,57 @@
+Why CEOs must take control of their organisation’s cybersecurity
+
+If a CEO is not asking tough questions regarding cybersecurity, chances are that the organisation’s digital destiny is in the doldrums.
+
+Who owns an organisation’s assets? Who is responsible for its security? How large is an impact when an organisation’s IT security is breached? Where does the buck stop in the event of a breach? The answers to these questions can be unsettling. But with digital transformation happening quickly in your company, you have no choice but to up your cybersecurity game plan.
+
+And if you think this won’t happen to you, let examples of serious breaches in India serve as a wake-up call.
+
+All of us are smitten by Game of Thrones. We have aged faster waiting for the next season of the series. A Mumbai-based post-production house was contracted by an Indian channel for post-production work on season 7 for the series to be launched on their app. Two employees leaked the episodes 2 days before the on-air date. HBO suffered a setback of $100 million. The post-production company was not only embroiled in a police investigation; it lost many other post-production contracts.
+
+Shopping channel and portal Naaptol witnessed the exit of five employees and five months later realised that those employees stole IP information and started a copy of Naaptol. By the time they grappled with the situation, they lost about Rs 100 crore; it took them months to clean and tighten their systems.
+
+JNPT was shut down for three months following a malware attack, which originated in Maersk’s Hague HQ. The entire terminal operations came to a standstill, impacting many banks and corporations across Europe.
+
+Got your attention now?
+
+CEOs across business segments, whether traditional or new age, have over time reiterated that digital transformation is integral to business growth. They have been focusing on becoming more tech-savvy in order to elevate their customers’ experience with their apps, mobile websites, impact transaction experiences, and resolve customer complaints in the shortest possible time.
+
+We thought of testing it as part of the risk awareness campaign we undertake for our enterprise clients from time to time.
+
+An innocent mail landed in the inbox of 150 employees, informing them that they had a delivery from an ecommerce website. In order to claim their free delivery, they needed to click the link and share their information. As many 25 percent the people clicked on the link, 15 percent offered their personal information willingly while 5 percent replied to the “Do not reply”, expressing their willingness to accept the delivery. The irony was that none of them had ordered anything from the said ecommerce company!
+
+Stay Updated Get stories of change makers and innovators from the startup ecosystem in your inbox Please fill in this field. {{#error}} {{error}} {{/error}} {{^error}} Something went wrong. Try again later {{/error}} Welcome Onboard ! You have been successfully registered for our daily newsletter.
+
+Needless to say, their CEO was shocked to see the extent of human malware in their otherwise secured systems. While this was simulated attack, but chances are that if played out in real life, there is a good chance that once the link was clicked, a piece of malware would have been downloaded in the system. This could have created havoc - either bringing their systems down or worse stealing sensitive information for potential future abuse.
+
+To every CEO reading this, cyber risk is for real, and it is time you took the bull by the horns and led the implementation of a cybersecurity plan for your organisation.
+
+While there are several point technology products/tools available in the market, there needs to be one overall risk score metric that the CEOs should ask for. This ensures that not only is there a comprehensive view of the organisation’s security posture, but there is an objective evaluation of the status instead of a guesstimate of how the organisations. It also lets you gauge if, over a period of time, the risk posture is improving. (Ref image attached)
+
+For far too long, cyber risk and cybersecurity have been considered an IT domain. While this is true to an extent, this sole responsibility on the IT team has led to cybersecurity being sidelined from the management’s agenda far too often. Consequently, it has only a marginal impact on the critical urgency to be aware of cyber threats and implement a security plan.
+
+The leadership of an organisation creates and dictates the organisational culture, and if CEOs are not asking tough questions, chances are that the organisation’s digital destiny is in the doldrums. It is time for CEOs to lead the elaboration of cybersecurity plans, and ensure that they are implemented and regularly updated to reflect preparedness to new threats. More CEOs need to attend and actively participate in mock drills to instil a culture of security and preparedness among their employees. CEOs must ensure that cybersecurity education is a priority for their organisations.
+
+The organisation’s people, or human malware as we are calling it now, continue to pose the biggest risk for cybersecurity. And the wider the CEO disconnect from prioritising cybersecurity, the larger the margin for employees to hack away at sensitive information. Unfortunately, the more digitised our processes become – themselves a risk – the more impersonal our workspaces are becoming, creating issues of trust and loyalty, and increasing risks of breaches. Many CEOs appear to spend time developing sophisticated business processes and value chains, but little time on recognising security issues in these.
+
+Every CEO should regularly ask themselves the following questions:
+
+What is the critical asset of the organisation?
+
+What is the potential threat to business?
+
+Where does this asset lie?
+
+Who has access to these assets – internal and external?
+
+How are they being secured?
+
+What happens frequently is this: “How are they being secured?” has an actual technical connotation, and by default gets handed over to the IT department. However, the IT department does not have the answers to the first four questions. So most often, cybersecurity solutions come in the shape of generic technologies that are not contextualised to the particular organisation.
+
+I were to speak to the organisation’s representatives about their cybersecurity, I would be told about the five new technologies they have installed, but not how they actually protect the company’s specific threats.
+
+Digital footprints are pervasive, and communication channels between the IT department and the CEO’s office needs to be open, two-way and constantly engaged.
+
+It’s time to TAKE CONTROL of your digital destiny.
+
+(Disclaimer: The views and opinions expressed in this article are those of the author and do not necessarily reflect the views of YourStory.)

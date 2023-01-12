@@ -1,0 +1,41 @@
+How to hack Indian EVMs? US cyber expert set to demonstrate to a live London audience
+
+The Indian Journalists’ Association (Europe) is organising the event and says the unnamed expert is an EVM designer. Election Commission sticks to its stand.
+
+New Delhi: Less than three months before the parliamentary elections, the Europe chapter of the Indian Journalists’ Association (IJA) is set to demonstrate how electronic voting machines (EVMs) can be hacked.
+
+The demonstration will be held in London Monday, and the IJA has roped in a US-based cyber expert, who they say is also a designer of EVMs in India.
+
+“His contention is these machines are not only hackable, but have routinely been hacked in recent Indian national and state elections so as to rig elections,” reads the IJA invite.
+
+The Election Commission of India (ECI) is not aware of the live demonstration in London. Ashok Lavasa, election commissioner told ThePrint: “We are not aware of any such demonstration, and we have always maintained that the EVMs used by the ECI in India are not tamperable.”
+
+India has to elect its next government by mid-May, when the term of the current BJP-led NDA government ends. Government sources told ThePrint that election dates could be announced in the first week of March.
+
+Also read: Four-member committee of oppn leaders formed to look into EVM manipulation
+
+Shroud of secrecy
+
+The IJA has refused to divulge what triggered this demonstration in London. In response to an email query from ThePrint, Ashis Ray, president of IJA (Europe), said: “IJA has nothing to say beyond the invitation that was sent to journalists.”
+
+It is also tight-lipped about the identity of the cyber expert who will do the live demonstration. “For security reasons, we cannot at present disclose the identity of the cyber expert. He will be fully introduced to attendees at the presentation,” reads the IJA’s media invite.
+
+However, the IJA has communicated the expert’s claim that with the help of EVMs actually used in recent Indian elections, he will show how these machines have been manipulated.
+
+“The claim, if correct, could shatter the serenity over election processes, and have international ramifications,” the IJA said.
+
+Also read: Chief Election Commissioner claims EVMs are tamper proof
+
+EVMs in India
+
+India switched to EVMs in 2004, completely getting rid of paper ballots that had to be counted physically.
+
+Parties including the Congress and Aam Aadmi Party (AAP) have been challenging the reliability of the EVMs for a few years now. However, none have so far come up with proof that voting machines can be hacked.
+
+In May 2017, Delhi’s AAP government held a live demonstration of how EVMs can be tampering with inside the Delhi assembly, showing how a machine can be programmed to favour a political party.
+
+But then in June 2017, the Election Commission of India conducted an EVM challenge where political parties were asked to demonstrate how the machines can be tampered with. Just two parties—Nationalist Congress Party and Communist Party of India (Marxist)—turned up, and even they did not participate.
+
+Amid constant complaints of EVM hacking from opposition parties, the ECI has now made it mandatory for every EVM to be attached to Voter-Verifiable Paper Audit Trail (VVPAT) machines, to ensure there is no tampering.
+
+But now, following the mega rally organised by West Bengal CM and Trinamool Congress chief Mamata Banerjee in Kolkata Saturday, a four-member committee of opposition leaders has been formed to evaluate the functioning of EVMs. The committee features the Congress’ Abhishek Manu Singhvi, Samajwadi Party’s Akhilesh Yadav, Bahujan Samaj Party’s Satish Chandra Mishra and Delhi CM and AAP convener Arvind Kejriwal.

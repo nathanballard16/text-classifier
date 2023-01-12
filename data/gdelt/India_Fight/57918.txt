@@ -1,0 +1,11 @@
+Facebook Messenger Drops Support for Creating New Accounts Using Phone Numbers, Facebook Account Mandatory
+
+Facebook Messenger is undoubtedly one of the most popular messaging apps today. The cross-platform app enables users to communicate via text, images, or video. Almost all Facebook users rely on the app to stay connected to their friends and family. Facebook Messenger also lets users sign up via just their mobile number to use the app. But it seems like Facebook is quietly removing the feature and asking everyone to simply sign up for a Facebook account to use Messenger.
+
+According to a report by VentureBeat, Facebook has started removing the ability to sign up for Messenger using just a phone number. Users will need to sign up for a Facebook account to use the messaging app. The change will only affect new users who want to stay using Facebook Messenger or Messenger Lite. Facebook's help centre has also confirmed the change.
+
+In a statement, Facebook told VentureBeat, "If you're new to Messenger, you'll notice that you need a Facebook account to chat with friends and close connections. We found that the vast majority of people who use Messenger already log in through Facebook and we want to simplify the process. If you already use Messenger without a Facebook account, no need to do anything.
+
+Facebook might be removing the feature gradually as we were able to create a new account using a phone number on the iOS app in India. The world's largest social network has also hinted at integrating its messaging platforms such as Messenger, WhatsApp, and Instagram into a single end-to-end encrypted messaging platform earlier this year. This move could signal a small start towards that goal.
+
+The company's plan to integrate WhatsApp, Instagram and Messenger isn't expected to go through smoothly with regulators. Facebook is expected to integrate the three platforms, allowing users within each of these apps to communicate with one another without leaving the platform. Facebook and other popular social media platforms have also been battling rising privacy concerns for the most part of the year.

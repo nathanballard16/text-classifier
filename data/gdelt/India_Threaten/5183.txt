@@ -1,0 +1,71 @@
+Facebook’s Misinformation Problem Is Only Getting More Complicated
+
+Facebook’s Misinformation Problem Is Only Getting More Complicated
+
+In the aftermath of the 2016 U.S. presidential election, Facebook’s potential to be a subversive political tool has been all too clear.
+
+And several years later, the social network still struggles to crack down on the very real dangers its platform creates for political systems.
+
+As the social network cracks down on its core product, new battlefronts are opening up in the fake news war and WhatsApp is proving to be a more troublesome product to police
+
+And these issues are hardly unique to Facebook and the U.S.—they are plaguing other Facebook-owned services all around the world.
+
+On Monday, Facebook published a blog post announcing that it had removed hundreds of pages and accounts from India and Pakistan across both Facebook and Instagram for violating the company’s policy on coordinated inauthentic behaviour or spam.
+
+“We are constantly working to detect and stop coordinated inauthentic behaviour because we don’t want our services to be used to manipulate people,” Nathaniel Gleicher, Facebook’s Head of Cybersecurity Policy, wrote in the post.
+
+Gleicher noted that Facebook had removed 103 Pages, Groups and accounts on Facebook and Instagram for coordinated inauthentic behaviour “as part of a network that originated in Pakistan,” as well as 687 Pages and accounts on Facebook connected with an IT Cell of the prominent political party the Indian National Congress (INC).
+
+An additional 15 Pages, Groups and accounts were removed by the social network for coordinated inauthentic behaviour in India connected with IT firm Silver Touch.
+
+According to Indian outlet The Wire, the firm has been tied to “The India Eye” a website that’s known for pushing false right-wing propaganda that was among the pages Facebook said it removed on Monday.
+
+But what is glaringly missing from this report on moderating misinformation in India and Pakistan is any mention of coordinated inauthentic behaviour on WhatsApp.
+
+“In the last year misinformation has migrated from Facebook to WhatsApp,” Govindraj Ethiraj, a journalist and founder of fact-checking website Boom, a partner in Facebook’s fact-checking program, told the Wall Street Journal.
+
+Ethiraj reportedly said that Boom went from receiving about a dozen tips a day regarding WhatsApp hoaxes to now hundreds a day.
+
+The Wall Street Journal report, published on Sunday, noted a few examples of the types of fake news messages spreading on WhatsApp in India, which included a graphic featuring the wrong dates for upcoming polls.
+
+According to a January report from India Times, leading up to the Lok Sabha elections this year, fake schedules for the polls showed up on both Facebook and WhatsApp, in what the Delhi CEO reportedly said was causing “public nuisance and mischief.”
+
+“The WhatsApp team has made substantial changes to the platform specific to India,” Samidh Chakrabarti, Facebook’s director of product management for civic integrity, told the Wall Street Journal.
+
+WhatsApp used to let users forward up to 250 messages at once, but lowered that to 20 last year and then in January, in an even further effort to combat misinformation on the messaging service, limited the number of messages that could be forwarded at once to just five.
+
+But it’s clear the misinformation issue on WhatsApp remains and, arguably, shows no sign of slowing down in India. Counterpoint analyst Tarun Pathak, told the Wall Street Journal that “India is now the world’s cheapest country to spread fake news.”
+
+He noted that a lot of users in rural areas in India are getting on the service thanks to cheap mobile phones, but that they don’t have a lot of digital literacy. This gap in knowledge makes these users easily exploitable targets for those flooding the messaging service with fake news.
+
+The Wall Street Journal reported that there were photos being shared on WhatsApp of dead people purported to be dead militants but who were, in fact, individuals who died in a heat wave.
+
+There was also a WhatsApp message “falsely claiming that the father of a captured Indian Air Force pilot had joined an opposition political party.”
+
+Fact-checkers last year described similar tactics deployed on Facebook—such as taking legitimate photos and videos out of context to manipulate political discourse.
+
+These hoaxes now spreading across India’s most widely used messaging platform have already led to horrific mob killings and voter suppression. And amid mounting violence and protest in Kashmir, WhatsApp has also been used as a vehicle to further exacerbate an already exceedingly deadly standoff.
+
+As the Wall Street Journal reported, “footage from a video game falsely purporting to show Indian warplanes blowing up a building across rival Pakistan’s border” was among the WhatsApp messages spreading recently in India. Vikas Verma, a member of Bajrang Dal — a right-wing Hindu nationalist organisation — accused Kashmiri students of “insulting the Indian paramilitary troopers on WhatsApp,” Al Jazeera reported.
+
+“They have written against the forces on social media,” Verma reportedly said. “We have given these students 24 hours to leave, or else they will face the consequences.”
+
+Over the last few years, it appears as though those leading the efforts to mass spread these hoaxes across social networks have mastered a model for manipulation, and we’re at a point where these operations are extending their reach into other mainstream services like Instagram and WhatsApp.
+
+“You see those patterns,” Gemma Mendoza, who leads fact-checking efforts as well as research on disinformation on social media at Phillipines-based Rappler, another publisher with Facebook’s fact-checking program, told Gizmodo last year. “It seems there’s a content plan like they are also in tune with current events except the content is, in many cases, made up.”
+
+The issue with hoaxes spreading on WhatsApp in general, not just in India, is that while it’s the same beast we’ve seen mushroom across Facebook and Instagram, at its foundation it’s a distinctively different type of platform.
+
+It is end-to-end encrypted messaging, so while the intentionally manipulative content may look the same — memes, out of context footage, voter suppression graphics — there’s a level of privacy that doesn’t exist in the same way on the social networks.
+
+The hoaxes spreading through WhatsApp aren’t inherently more complex than those spreading on Facebook’s other services, but they exist within a uniquely different type of platform.
+
+The complication therein lies in figuring out how to solve a problem in a totally different ecosystem; a problem that Facebook hasn’t figured out a meaningful solution to on even its main platform.
+
+WhatsApp isn’t a public news feed—these are private messages. The same strategies that Facebook is using for both Facebook and Instagram don’t apply here, and it’s likely why we didn’t see any mention of WhatsApp in Facebook’s exhaustive blog post on Monday detailing efforts to thwart inauthentic coordinated behaviour in India and Pakistan.
+
+Facebook can’t simply take down pages or accounts on WhatsApp — they don’t exist. And it poses the question as to how these platforms should be moderating spaces for private communication—and whether Facebook is even capable of moderating these personal spaces without sacrificing the privacy of its users.
+
+It sets a new precedent on what types of platforms riddled with disinformation are fair game to be policed.
+
+The Facebook-owned service is proving to be a powerful mechanism by which bad actors can manipulate users by fuelling their biases and their fear — both of which have already resulted in influencing elections and inciting violence — and it remains unclear if Facebook has the tools or the strategy to get a handle on it.

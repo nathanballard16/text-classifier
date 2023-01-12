@@ -1,0 +1,87 @@
+The best Chinese phones you can’t buy in the US
+
+The American smartphone market is an increasingly boring place to be. You have Apple and Samsung at the top, LG in a distant third, then Motorola, and maybe the occasional wildcard option like Google and OnePlus collectively making up less than ten percent. If that’s all you see when you enter a phone store, you could be forgiven for having lost interest in phones altogether.
+
+As this year’s Mobile World Congress demonstrated in acute fashion, however, there is a ton of interesting stuff going on outside the States — and a whole lot of it is coming from China. 2018 was the year that Chinese manufacturers made a firm claim to be producing the most exciting and experimental phone hardware in the world, with wild designs from the likes of Oppo and Vivo. Others are competing on different terms, making phones of surprising quality at prices American buyers could only dream of. And going forward, Huawei and Xiaomi have demonstrated some of the most attractive foldable phone designs yet.
+
+But for a long and complex list of reasons, barely any compelling Chinese phones go on sale in the US beyond those from OnePlus, a company whose key designs invariably show up in Oppo phones months earlier. And while it’s technically possible to import Chinese phones, we wouldn’t often recommend it unless you’re confident that you won’t run into any issues with unfamiliar software or LTE bands.
+
+Just in case you’re interested, though, here’s what you’re missing in the US right now.
+
+Photo by Dan Seifert / The Verge
+
+Xiaomi Mi 9
+
+Xiaomi’s flagship Mi series tends to combine high-end specs, conventional design, and low prices, and that’s certainly the case with the latest entry. The Mi 9 has a notched 6.4-inch OLED display, a Snapdragon 855 processor, up to 12GB of RAM, an in-screen fingerprint scanner, and a triple-camera system with three separate focal lengths.
+
+There isn’t much groundbreaking about the Mi 9 itself unless you care about wireless charging speed, but Xiaomi’s ability to price a 6GB of RAM/128GB of storage variant for just 2,999 yuan (~$450) continues to be the company’s key advantage. The Mi 9 makes even OnePlus phones look questionably priced, never mind Samsung and Apple.
+
+Photo by Amelia Holowaty Krales / The Verge
+
+Xiaomi Mi Mix 3
+
+The Mi Mix is a higher-end line for Xiaomi, and ever since the original model has always been about achieving the most bezel-free design possible — no notches allowed. That tradition continues with the Mi Mix 3, which uses a magnetic slider mechanism to raise the selfie camera from behind the uninterrupted screen.
+
+There are certainly tradeoffs with this approach. The Mi Mix 3 is thicker than you’d expect for a phone with just a 3,200mAh battery, and the mechanism isn’t always easy to operate one-handed. You’ll also have to wait until May for the 5G version if you want a larger battery and this year’s Snapdragon 855 chip, and who knows how that’ll turn out.
+
+But at a starting price of 3,299 yuan (~$475) for a 6GB/128GB model, the Mi Mix 3 is still at least as compelling a value proposition as the Mi 9. Especially if you hold a personal vendetta against notches.
+
+Photo by Vlad Savov / The Verge
+
+Huawei Mate 20 Pro
+
+You can’t ignore the political pressure Huawei faces in the US, but the simple fact is that the Mate 20 Pro is a big deal virtually everywhere else. Huawei’s latest flagship is an extremely good handset with an impressive Kirin 980 SoC, a strong triple-camera setup, an excellent curved OLED display, both 3D face-scanning and an in-display fingerprint sensor, and a massive battery that delivers class-leading endurance.
+
+If hardware were everything, the Mate 20 would have a very strong claim to be the best phone in the world. Unfortunately, it is not, and Huawei’s EMUI software remains one of the least elegant examples of a heavy-handed Chinese Android skin; Xiaomi’s MIUI blows it away in terms of usability. If you can get over the software and the £899 (~$1,200) price, though, this phone is a serious contender.
+
+Photo by Sam Byford / The Verge
+
+Honor View 20
+
+Huawei sub-brand Honor’s latest flagship has the same EMUI drawback, but no-one can complain about the price. Launched a couple of months ago, the View 20 has the same Kirin 980 chip as the Mate 20 Pro alongside a couple of smartphone firsts: a hole-punch LCD and an intermittently great 48-megapixel camera. You also get a large 4,000mAh battery and even a headphone jack.
+
+All of this comes in at £499 (~$650), and there’s very little to point to on the View 20 that renders it less than flagship-class. Sure, the Mate 20 Pro has wireless charging, a better camera, and an OLED screen, but overall the View 20 would be an impressive device at any price — let alone one this reasonable. It’s also the only phone on this list that should eventually get a US release, though we’ll see how that turns out.
+
+Photo by Sam Byford / The Verge
+
+Vivo V15 Pro
+
+The V15 Pro is Vivo’s newly announced mainstream flagship, and it brings some of the company’s high-end features from last year to a more accessible device. There’s a 32-megapixel pop-up selfie camera, a speedy in-display fingerprint sensor, a 48-megapixel main camera, and — of course — an OLED screen with no notch and barely any bezels.
+
+This is also the first phone to use Qualcomm’s new mid-to-high-end Snapdragon 675 processor, and performance has been impressive in my testing. At around $400, this is an extremely compelling mid-range device if you can deal with the Micro USB port and lack of wireless charging.
+
+Photo by Sam Byford / The Verge
+
+Vivo Nex
+
+If you prefer the smaller pop-up selfie camera design to Oppo and Xiaomi’s more elaborate mechanisms, the highest-end option is still the original Nex. The Vivo Nex has a Snapdragon 845, a 4,000mAh battery, a giant 6.6-inch notchless screen, and both USB-C *and* a headphone jack.
+
+Vivo’s subsequent full-screen phones have been more refined in various ways, with improved in-display fingerprint sensors, better-quality selfie cameras, and more sensible screen sizes. But as one of the most decadent and feature-packed phones ever created, the original Nex still makes a statement — iridescent rainbow-dot pattern and all.
+
+Vivo Nex Dual Display Edition The Nex Dual Display Edition, on the other hand, makes the original Nex look positively restrained. Its solution to the problem of where to put the selfie camera on a bezel-less phone is… not to have one at all. Vivo just stuck another screen on the back so you can use it as a viewfinder when the regular camera is pointing at you. The camera is also surrounded by a colorful light-up “Lunar Ring” that cuts into the second screen. This mostly works fine, apart from the multiple times a day you’ll find yourself taking the phone out of your pocket and staring at a blank screen because the “switch screens” and “wake” buttons swap functionality based on the phones’ orientation and yet are indistinguishable by feel. But if you want the world’s best selfie phone and don’t mind that it might also be the world’s most fragile phone — at least until foldables arrive — this could be for you.
+
+Photo by Sam Byford / The Verge
+
+Oppo Find X
+
+Even though it was announced the best part of a year ago, the Oppo Find X is arguably still the most beguiling Android phone around. Its curved notchless screen and unique motorized sliding design, where the entire top panel of the phone rises up to reveal a 3D face scanner and selfie camera, make it the most convincing attempt yet at achieving the all-screen dream.
+
+Oppo later released the Find X Lamborghini Edition, which keeps the same basic specs but bundles some passable wireless earbuds and introduces one legitimately cool feature. Super VOOC makes use of a custom dual-cell design that allows you to go from 0- to 100-percent charge in just 35 minutes — an unbelievably fast time for a 3,400mAh battery. The Find X might still be using a Snapdragon 845, but it still feels cutting-edge.
+
+Photo by Sam Byford / The Verge
+
+Oppo F11 Pro
+
+Oppo announced the F11 Pro this week, and it’s similar to Vivo’s V15 Pro: 48-megapixel camera, pop-up selfie camera, headphone jack, Micro USB. It also has maybe my favorite gradient color scheme since China seemingly decided a year ago that all phones should look like this.
+
+The F11 Pro is a little lower-end than the V15 Pro, though: there’s no in-display fingerprint sensor, the selfie camera is 16 megapixels, and the processor is a MediaTek Helio P70. That’s reflected in the lower price of ~$350, which means it still offers pretty great value for anyone who doesn’t need the highest-end specs around.
+
+Photo by Sam Byford / The Verge
+
+Realme 3
+
+There are literally countless budget Chinese phones I could have included here for the exact same reasons — this Realme 3 is just the most recent example. Realme is an India-focused brand spun out of Oppo, and its products make our US-targeted “Best cheap phones you can buy” article from last year seem sort of embarrassing.
+
+Sure, if you have $180 in the US you can get that LG K30 with chunky bezels, a 5.3-inch LCD, a 2,800mAh battery, 32GB of storage, and 2GB of RAM. Realme 3 customers in India, on the other hand, get a modern-looking 6.4-inch LCD with a tiny notch, a 4,230mAh battery, 32GB of storage, and 3GB of RAM for about $125. It’s also just $30 more for 4GB of RAM and doubles the storage to 64GB.
+
+Though at least the K30 has USB-C.

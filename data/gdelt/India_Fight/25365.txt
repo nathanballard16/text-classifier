@@ -1,0 +1,79 @@
+Attackers Exploit WhatsApp Flaw to Auto-Install Spyware
+
+Cyberwarfare / Nation-State Attacks , Endpoint Security , Enterprise Mobility Management / BYOD
+
+Attackers Exploit WhatsApp Flaw to Auto-Install Spyware
+
+Immediate App Updating Required to Protect Apple and Android Device Users
+
+Photo: Tim Reckmann via Flickr/CC
+
+Facebook is warning users of its WhatsApp messaging app to update immediately to fix a flaw that is being used to remotely install surveillance software. Users of iOS as well as Android devices are at risk, and the flaw can be exploited with no user interaction, security experts warn.
+
+See Also: Live Discussion | The Toll of Identity Sprawl in the Complex Enterprise
+
+The flaw, designated CVE-2019-3568, is "a buffer overflow vulnerability in WhatsApp VOIP stack [that] allowed remote code execution via specially crafted series of SRTCP packets sent to a target phone number," Facebook says in a Monday security alert, referring to Secure Real-time Transport Protocol, or SRTP, which is designed to provide message authentication, encryption and integrity.
+
+WhatsApp says attacks against the flaw hit a "select number" of targets and says the attacks were facilitated by "an advanced cyber actor."
+
+WhatsApp offers end-to-end encrypted messaging. But experts warn that the flaw can be used to subvert such protection. Attackers have been abusing an audio call feature in the app to automatically install spyware on a device and steal data simply by placing a WhatsApp call, with no further user interaction required by the target. Because the spyware erases the incoming call information from device logs, experts warn that discovering when and if the flaw has been exploited could be difficult, at best.
+
+All WhatsApp users remain vulnerable to being exploited via the flaw unless they install the latest version. Fixes were released on Friday to WhatsApp's 1.5 billion global users.
+
+Facebook says the flaw affects the following versions of WhatsApp:
+
+WhatsApp for Android prior to v2.19.134;
+
+WhatsApp Business for Android prior to v2.19.44;
+
+WhatsApp for iOS prior to v2.19.51;
+
+WhatsApp Business for iOS prior to v2.19.51;
+
+WhatsApp for Windows Phone prior to v2.18.348;
+
+WhatsApp for Tizen prior to v2.18.15.
+
+The U.K.'s National Cyber Security Center - the public-facing arm of GCHQ - has published guidance for all WhatsApp users. "The NCSC ... always recommends that people protect their device by installing updates as soon as they become available," it says. "The NCSC also recommends that people switch on automatic updates to install them as quickly as possible."
+
+Likewise, the Indian Computer Emergency Response Team, Cert-IN, has warned that attackers could launch further attacks. It's urging all users to upgrade immediately to latest version of WhatsApp.
+
+Questions remain about what exactly the exploit might allow attackers to do. For example, could they use it to escape Apple's iOS sandbox, and does updating eliminate any access they may now enjoy to a device? "Does updating the app remove whatever malware was placed on phone? Did they manage to pivot out of the app? I haven't seen any technical analysis of the malware yet so genuinely interested," says Alan Woodward, a professor of computer science at the University of Surrey.
+
+Report: Flaw Used to Install Pegasus
+
+Facebook has blamed the attacks that use the exploit on a private firm. "The attack has all the hallmarks of a private company reportedly that works with governments to deliver spyware that takes over the functions of mobile phone operating systems," WhatsApp says in a statement. "We have briefed a number of human rights organizations to share the information we can and to work with them to notify civil society."
+
+According to a report in Financial Times, the WhatsApp buffer overflow has been used to install Pegasus spyware built by Israel-based NSO Group, which is usually licensed to governments looking to infect targets of investigations and gain access to various aspects of their devices.
+
+NSO's software has previously been tied to questionable use cases, including against human rights activitsts in Mexico and the United Arab Emirates, according to Citizen Lab, a research group within the University of Toronto that investigates the use of software exploits by governments with questionable human rights records to monitor activists and dissidents (see Apple Fixes Zero-Day Flaws Used to Target Activist).
+
+The software was reportedly also used by the government of Saudi Arabia to eavesdrop on Saudi journalist Jamal Khashoggi before he was murdered in the country's consulate in Istanbul last October.
+
+Citizen Lab believes that the WhatsApp exploit was used to target a U.K.-based attorney with Pegasus spyware as recently as Sunday. The Guardian reports that the lawyer, who has not been named, is party to a lawsuit against NSO that has been brought by multiple government critics as well as Mexican journalists.
+
+NSO Group has been bragging that it has no-click install capabilities for quite some time. The real story here is that WhatsApp found the damn thing. — Eva (@evacide) May 13, 2019
+
+Amnesty International is supporting legal action to take the Israeli Ministry of Defense to court to demand it revokes the export license of NSO Group.
+
+NSO Defends Controls
+
+Reached for comment, NSO Group says it rigorously vets all users of its software. "NSO's technology is licensed to authorized government agencies for the sole purpose of fighting crime and terror. The company does not operate the system, and after a rigorous licensing and vetting process, intelligence and law enforcement determine how to use the technology to support their public safety missions," an NSO spokesman tells Information Security Media Group.
+
+"We investigate any credible allegations of misuse and if necessary, we take action, including shutting down the system," he adds. "Under no circumstances would NSO be involved in the operating or identifying of targets of its technology, which is solely operated by intelligence and law enforcement agencies. NSO would not or could not use its technology in its own right to target any person or organization, including this individual."
+
+Hot Sector: 'Legalized Hacking'
+
+Woodward says that NSO has a company valuation of about $1 billion, reflecting the appetite for its wares. "This is a really good example of how governments are moving, because post-Snowden all these sorts of apps became nearly end-to-end encryption, and actually breaking that encryption for all intents and purposes is not practical, and so the concept of what's called equipment interference was introduced, and equipment interference is basically legalized hacking."
+
+Some countries, such as the U.K., U.S., Russia and China have a well-documented ability to craft their own exploits (see Massive CIA Hacking Tool Leak: Ex-Agency Employee Charged).
+
+"But certain governments, they're not small countries, but they don't necessarily have the in-built capability, but they've got money. Places like Saudi Arabia, et cetera, and they want to conduct targeted surveillance," Woodward tells ISMG. "So this isn't about mass surveillance, it's about targeted surveillance. And you find that the bottom line is that these agencies in those countries, they want the capability but the only way they can do it is buy it off the shelf from a company. Because what's happened is, it's become a really active market sector."
+
+Abusing the Signaling Process
+
+Prashant Pandey, a security researcher based in Noida, in the north of India, says the WhatsApp flaw is being abused by attackers who send a specially formed SRTP packet, which created a buffer overflow via WhatsApp's voice calling function and "enabled the attackers to install spyware without the victim's permission."
+
+The WhatsApp flaw has also persisted for an unknown period of time. Such flaws can be very difficult to find. Google's Project Zero Team in December 2018, for example, noted that a part of signaling process in WhatsApp occurs before the receiving peer answers the call. "This means that if there is a vulnerability in the code that processes incoming signals before the call is answered, it does not require any user interaction," the researchers said.
+
+Signaling is the process through which video conferencing peers initiate a call. But the Google researchers noted that despite their efforts to find flaws in this WhatsApp process, they had been unable to do so.

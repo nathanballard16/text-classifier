@@ -1,0 +1,13 @@
+Cybersecurity awareness level low among users in smaller cities
+
+With smaller cities becoming popular growth destinations, the cybersecurity awareness among companies and cyber users in tier-2 regions is believed to be very low and hence becoming a ‘sweet spot’ for cyber criminals, says Q2 findings of K7 Computing’s Cyber Threat Monitor.
+
+Patna registered the highest percentile of cyber attacks at 47 per cent compared to the rest of the tier-2 cities covered in the study and higher than any tier-1 city. This is followed by Guwahati (45 per cent); Lucknow (44 per cent), Bhubaneswar (43 per cent) and Jaipur (40 per cent) of cyber users coming under attack, says a release from the Chennai-based K7 Computing.
+
+About three out of every ten Indian cyber users encountered one or more cyberattacks, while metro cities have experienced a similar number of cyberattacks when compared to the previous quarter.
+
+Among metro cities, the cyber attacks in Delhi increased in Q2 with a 6 per cent rise in the quarter-on-quarter infection rate. The Infection Rate in Hyderabad is 41 per cent from 39 per cent recorded last quarter. Bengaluru and Pune experienced 39 per cent and 35 per cent of cyberattacks, similar to the previous quarter.
+
+Despite a 2 per cent decrease in infection rate from the last quarter, Chennai still remains most vulnerable at 46 per cent. Kolkata follows at 41 per cent and Ahmedabad at 37 per cent, the release said.
+
+Exploitation of loopholes continued to be a major threat that impacted both Windows and iOS systems. While the iOS vulnerabilities were found in the iMessage service that exists in iPhone and Siri components, Remote Desktop Protocol based attacks remained the dominant type of cyber threat in Windows. Unpatched Virtual Private Networks continued to be an easy target for cyber criminals, the release said.

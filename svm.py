@@ -13,27 +13,27 @@ import pandas as pd
 
 
 # Dataframe
-path_df = "train_test/df.pickle"
+path_df = "india_train_test/df.pickle"
 with open(path_df, 'rb') as data:
     df = pickle.load(data)
 
 # features_train
-path_features_train = "train_test/features_train.pickle"
+path_features_train = "india_train_test/features_train.pickle"
 with open(path_features_train, 'rb') as data:
     features_train = pickle.load(data)
 
 # labels_train
-path_labels_train = "train_test/labels_train.pickle"
+path_labels_train = "india_train_test/labels_train.pickle"
 with open(path_labels_train, 'rb') as data:
     labels_train = pickle.load(data)
 
 # features_test
-path_features_test = "train_test/features_test.pickle"
+path_features_test = "india_train_test/features_test.pickle"
 with open(path_features_test, 'rb') as data:
     features_test = pickle.load(data)
 
 # labels_test
-path_labels_test = "train_test/labels_test.pickle"
+path_labels_test = "india_train_test/labels_test.pickle"
 with open(path_labels_test, 'rb') as data:
     labels_test = pickle.load(data)
 
@@ -170,8 +170,8 @@ d = {
 df_models_svc = pd.DataFrame(d, index=[0])
 print(df_models_svc)
 
-with open('models/best_svc.pickle', 'wb') as output:
+with open('india_models/best_svc.pickle', 'wb') as output:
     pickle.dump(best_svc, output)
 
-with open('models/df_models_svc.pickle', 'wb') as output:
+with open('india_models/df_models_svc.pickle', 'wb') as output:
     pickle.dump(df_models_svc, output)

@@ -1,0 +1,21 @@
+Beware! Nobody is Deducting GST Payment from Your Net Banking Account and Sending It to Income Tax. Its a New Fraud.
+
+Many people are receiving emails informing them about significant sums of money having been deducted from their netbanking account for Goods and Services Tax (GST). It asks them to click on a link in the mail, which shows name of Income Tax website to download the payment challan. If you have a net banking account, do not panic or click on the link of this authentic looking email. This is outright fraud email.
+
+A closer investigation by Moneylife reveals that these dangerous emails, purportedly sent through ‘ [email protected] ’ are not authentic. It may look like real but are not. Worse, the GST payment email shows a link to the Income Tax department website for downloading the payment challan!
+
+There are three huge signs that shout out about the malicious and fraudulent nature of the email that people should be aware of. First, nobody deducts GST payment directly from your netbanking account. Secondly, why would you need to download GST payment challan from the Income Tax website, which is prominently displayed in the email. Lastly, challans are used to make payment or deposit money before the transactions and not afterwards as the email tries to inform you.
+
+Now let us dissect the link provided in the email. This (please do not click) https://www.incometaxindia.gov.in/PaymentChallan is the visible link in the email. However, when you hover your mouse over the link, it shows something different link. Here is the hidden link behind the Income Tax name, http://aradhyachitrakala.com/wp-includes/js/jquery/ui/404.htm (please do not click on this).
+
+When we tried to open this link (in secure environment), it asks to download and open a certain zip file named as TDS Challan.zip! (Another red sign! why would you download tax deducted at source-TDS challan for GST payment challan?) Origin of the file is shown some other website, iradiusmarketing.com. More about iRadius Marketing later.
+
+This file, TDS Challan.zip could be an executable file that may install some malware or Trojan on your system. So do not download the file.
+
+Further probe about the hidden link in the email shows the website aradhyachitrakala.com indeed exists and is registered by one Kumar Abhishek from Websoftlink from Noida, as per information from Who.is. This portal is run by one Rajnish Kumar, who is visual artist and graphic designer from Siwan in Bihar for Aradhya Chitrakala. This looks like a studio that provides services such as painting, portrait, abstract, traditional, interior designing, installation, sculpture, logo design among others. Mr Kumar told us that Aradhya Chitrakala does not have any idea about the file and he had already received one phone call about this. He promised to have it looked and fixed by his web team at the earliest.
+
+Now coming back to iRadius Marketing, which as per Google search, is a Ahmedabad-based firm. Its website is not reachable and we could not open any pages of iRadius Marketing from Google. One link, however, opened, but took us to an IP address of 134.249.116.78, which was immediately blocked by our firewall as a malicious website.
+
+Another search result for iRadius Marketing on Google, took us to 'mobile7633.bubblelife7.agency' portal. It was a blog-type page on how to get rich quickly. The page had a story of a Pizza delivery boy, who become rich within two weeks after joining 'the business' in forex market. It mentioned how anyone can place one-minute bet on a selected pair of forex, and earn huge profit. These people claimed to have devised a system where one can place concurring 'up' and 'down' bets to win big money! Unfortunately, before we could grab a screenshot, the URL become not reachable.
+
+In short, do not click on any email or SMS that you may receive from someone pretending to be an authority such as income tax or GST.

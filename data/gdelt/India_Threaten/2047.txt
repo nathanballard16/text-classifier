@@ -1,0 +1,97 @@
+Farmers or corporates: Who benefits from Andhra Pradesh’s natural farming project?
+
+In June 2018, the Andhra Pradesh government announced an ambitious programme to bring all 80 lakh hectares of its cultivable land under agroecological farming by 2024. Agroecology emphasises minimising external, artificial inputs by using resources available in the local ecosystem so as to make farming sustainable and environment-friendly.
+
+Called Andhra Pradesh Climate Resilient Zero Budget Natural Farming, the programme seeks to wean away 60 lakh farmers from conventional chemical-based agriculture. It was launched after a three-year pilot project covering 700 villages.
+
+With less than 3% of India’s cultivable land under organic agriculture, Andhra’s programme has attracted immense national and international interest and participation. Among its key backers and stakeholders is the United Nations Environment Programme, which has hailed ZBNF as “an unprecedented transformation towards sustainable agriculture at such a massive scale” and “a better deal for farmers, consumers, and the planet”.
+
+Closer home, Niti Aayog has recommended Andhra’s programme as a model for other states, while Uttar Pradesh Chief Minister Adityanath has called it a noble idea . Himachal Pradesh launched its own ZBNF programme in February 2018. Karnataka, in close consultation with Andhra, announced a pilot ZBNF programme in June 2018. Chhattisgarh is among a few other states closely studying the programme.
+
+Yet, some of the programme’s partners and their records raise questions about the Andhra government’s claim that it’s farmer-centric. Its funding pattern and scale-out targets leave open the possibility of governments and/or corporations taking further control of agriculture. Together, they point at the challenges Andhra and other states contemplating similar programmes must contend with to ensure it is the average farmer that benefits.
+
+Shopping for funds
+
+In Andhra, statewide adoption of ZBNF by 2024 will cost $2.3 billion (Rs 17,000 crore at the current exchange rate). This excludes money that may be required for putting in place digital surveillance systems to track and monitor progress and ensure traceability.
+
+Traceability enables consumers to know the location of the field the produce has come from; the soil, temperature and moisture content in the field across the crop cycle; and farming practices used in its cultivation. A new regulation from the Food Safety and Standards Authority of India makes traceability mandatory for all farm produce sold as organic in the country from April 2019.
+
+Over the past decade, “ green growth ” and “ green finance ” have emerged as buzzwords among funding agencies, venture capital firms and investors . India attracts a large chunk of this funding. The World Bank, for instance, funded the Community Managed Sustainable Agriculture programme in Andhra between 2005 and 2014. The bank currently funds a $600 million climate resilient sustainable agriculture programme in Maharashtra, apart from other such projects across the world.
+
+Andhra is looking at all such sources, including global markets, to raise the money needed. In fact, part of Chief Minister Chandrababu Naidu’s speech about the scale-out plans of the programme in New York in September 2018 was a sales pitch.
+
+To his audience at the UN headquarters, comprising representatives from different countries, international agencies, global financial institutions and funds, he narrated a list of things the programme would secure, from farmer livelihoods to the planet’s future.
+
+“I have a dash board to measure [the programme’s performance] against Sustainable Development Goals,” he said. “Everything will be online. And there will be no corruption.”
+
+A few months before Naidu’s speech, in June 2018, Rythu Sadhikara Samstha, the state-owned not-for-profit company implementing the programme, signed on Sustainable India Finance Facility as a partner. The latter is a collaboration between UN Environment, BNP Paribas, and the World Agroforestry Centre that seeks to bring “long-term finance to projects and companies that stimulate green growth”.
+
+“Loans for universalisation of ZBNF by the government will play a crucial role in enabling us to completely transform agriculture in the state in the next six-seven years,” Rythu Sadikara Samstha vice chairman T Vijay Kumar, who leads the programme, told Scroll.in. “Trying to do the same using government scheme funds will easily take 20-25 years.”
+
+The Rythu Sadhikara Samstha website states that repayment of loans “will not be done by individual farmers but by the state government of Andhra Pradesh”.
+
+Funding pattern of Andhra Pradesh’s natural farming project leave open the possibility of corporations taking further control of agriculture. Photo courtesy ZBNF Project Team
+
+What are the implications of raising vast amounts of money backed by state guarantee for an agroecological transformation programme? “The Reserve Bank of India has warned against securing foreign investment in any sector on the basis of state guarantees, as it artificially buoys the viability of a project,” said Leo Saldhana of the NGO Environment Support Group. “But this critical caution is being sidestepped in securing financing from foreign banks for the ZBNF programme by Andhra Pradesh.”
+
+Records accessed by Saldhana and reviewed by Scroll.in show the Andhra government has cleared “bilateral financial cooperation” worth Rs 2,046 crore from the Frankfurt-headquartered development bank KfW for implementing the ZBNF programme.
+
+Ashish Kothari of the environmental NGO Kalpavriksh pointed out that the transition to agroecology is a slow process. “Successful examples of this kind [of agroecological transformation] have taken a decade or more to become self-sustaining,” he said. “This is because it takes time to build local institutions that enable small and marginal farmers to take control of the process and reap benefits.”
+
+Kothari said he does not know enough about Andhra’s ZBNF programme to comment on it specifically, but in general covering lakhs of farmers in a few years could compromise such institution-building and take control of agriculture further away from farmers, favouring government and/or corporates. “Besides, raising money from financial institutions could lead to the commercialisation of the agriculture sector,” he cautioned. “Agriculture or some allied sector will have to be commercialised to facilitate repayment in such cases.”
+
+Commercialisation may, in effect, only help large farmers as they alone are equipped to reap commercially available benefits like precise advisories on when to sow what under which weather conditions.
+
+Tech sans transparency
+
+Does the Andhra government want to promote the agritech sector as part of the programme?
+
+Global interest in agritech has been growing in recent years, riding on the increasing unviability of chemical-based agriculture for smallholders and emergent narratives of climate change and food security. From drones that gauge vegetative health of standing crops and crop scouting techniques that detect pests to terrain 3D modelling that helps decide optimal sowing patterns and accurate advisories that help farmers make prudent choices, the range of digital agritech solutions offered by start-ups as well as established technology companies like Microsoft is diverse.
+
+The realisation of Naidu’s “everything will be online” pitch before his New York audience requires putting in place a digital surveillance system that can monitor and track all aspects of the programme, down to granular data like air and soil moisture in individual farms. That means business for agritech companies.
+
+“We are already trying to integrate a bunch of community information centres being set up under an IFAD-funded drought mitigation project into ZBNF for this purpose,” said Kumar, referring to the International Fund for Agricultural Development.
+
+The programme is also implementing a pilot on enabling traceability. Scaling this up across Andhra to cover all farms, however, will require technological expertise and resources.
+
+Microsoft is among the large technology companies that are bringing artificial intelligence and the Internet of Things to agriculture. The company’s blog talks of a “digital advisor for farmers” built by a third party on its Azure cloud technology.
+
+The Rythu Sadhikara Samstha is working with Digital Green, a company focussed on “lifting smallholder farmers out of poverty” using technology. Digital Green was incubated by and is closely associated with Bill and Melinda Gates Foundation, the philanthropic arm of Microsoft founder Bill Gates and his wife.
+
+The agritech company has stationed six Video Resource Persons in every Andhra district who work with and train best-practising farmers to create short training videos.
+
+Scroll.in came across several locally created videos during its field visit. The visit also revealed that several aspects of the programme – identifying master farmers in villages, collecting data on soil and crop health, training farmers, creating pedagogic content, building an online repository of practices and products – are dependent on partnerships with NGOs.
+
+Yet, no details are publicly available regarding the scope and nature of arrangements in place between the Rythu Sadhikara Samstha and all its partners in the ZBNF programme. The company’s website does have copies of some agreements with key partners, but these are amended versions, said Saldhana.
+
+“Confidentiality clauses that were earlier there in MoUs with SIFF and Azim Premji Philanthropic Initiatives have been deleted,” he added, referring to the Sustainable India Finance Facility. Saldhana has been studying the programme and has authored a review that raises further questions about its lack of transparency.
+
+Hidden agendas?
+
+One of the programme’s partners is BNP Paribas, which has a record of investing in environmentally destructive projects, including the Tata Mundra port in Gujarat. Saldhana, in his review, wonders if the Sustainable India Finance Facility is “greenwashing” BNP Paribas. Greenwashing is when companies trumpet their good deeds while hiding their efforts to block progress.
+
+The involvement of the Bill and Melinda Gates Foundation through Digital Green has also sounded alarm bells. The foundation is a strong supporter of transgenics (genetically modified organisms) and among the most fervent promoters of gene editing in agriculture. In the global agricultural market, gene editing is being primed up as the next best thing in agriculture after the GM revolution. It is also being promoted as the emerging, natural alternative to chemical-intensive conventional agriculture.
+
+Natural farming relies on traditional seeds. Phota via Twitter/APZBNF
+
+A group of civil society representatives raised this concern in a letter to Kumar in October 2018. Given the Bill and Melinda Gates Foundation’s association with the project, one of the letter’s signatories who requested to remain anonymous told Scroll.in, “they may want to bring in this new ‘natural’ alternative”.
+
+Kumar responded to the letter with an “Open Letter to Critics” stating that the foundation is not directly involved with the programme and that there is no space for transgenics in it.
+
+In any case, the foundation is closely associated with the Andhra government, working with it to improve soil health. It also helped organise the AP AgTech Summit 2017 in Vishakapatnam.
+
+Speaking at the summit, Bill Gates said a mega seed park being developed in Andhra under collaboration between the state government and America’s Iowa State University would “drive innovation…for varieties of regional importance, including more nutritious and resilient non-cereal crops like pulses”, this creating business opportunities for local seed companies.
+
+The purpose of a mega seed park in a state which seeks to bring all its farmland under natural farming remains unexplained, given that natural farming relies on traditional seeds and stresses on seed self-reliance.
+
+Alternative narrative
+
+“There are a number of civil society-led initiatives that have been promoting agroecological farming so as to make agriculture sustainable,” Kumar said. “But their presence is confined to pockets. In fact, less than 1% of India’s agricultural land was under organic farming in 2016, when we launched the ZBNF pilot. In the last three years alone, we have managed to convert 8% of the state’s farmers...What we are trying to do is unprecedented. We want to set an example for the world. We want to put in place an alternative narrative of self reliance and food security in the farm sector that is actually working.”
+
+Kothari said it is an admirable objective to set an example. But such alternative narratives, he noted, are already available across the world. And they are at a scale that the farmer community can understand, control and adopt to, without excessive dependence on state agencies or corporations.
+
+“The massive scale of a project [like the ZBNF programme] is a matter of concern,” Kothari added. “Scaling up successful examples over a massive population in a short time span has usually led to standardised, mechanical processes that fail or do not sustain once the project ends. For instance, Maharashtra’s Adarsh Gaon Yojana tried to rapidly replicate Ralegan Siddhi village’s success across the state, but could achieve little. How Andhra Pradesh’s programme deals with such challenges remains to be seen.”
+
+This is the final part of a two-part series on natural farming in Andhra Pradesh.
+
+Read the first part: Can Andhra Pradesh’s ambitious plan to stop the use of chemicals in farms succeed?

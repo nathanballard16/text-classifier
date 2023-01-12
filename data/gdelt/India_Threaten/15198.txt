@@ -1,0 +1,41 @@
+EXPLAINER | Contagion risk to the Indian financial system and what can be done to prevent it
+
+Earlier this week, S&P Global Ratings pronounced that the Indian financial sector is facing rising risk of contagion. The rater said that the failure of any large finance company will adversely impact economic growth and have other consequences, such as draining the credit available to the sector. In this explainer, we look at the implication of a financial contagion and what can be done to prevent it
+
+What is financial contagion?
+
+In the natural world, contagion refers to a disease that can spread from person to person. In the financial world, contagion refers to the risk of difficulties at one or more financial system entities (banks, non-bank finance companies, mutual funds, insurers, etc) spilling over to a large number of other banks/NBFCs or the financial system as a whole.
+
+How is financial contagion transmitted?
+
+This is best illustrated through an example. For instance, a housing finance company – which borrows from banks and lends to real estate developers – fails. This failure could be because of multiple reasons but what it essentially means is that this housing finance firm is unable to pay its dues to banks or re-finance its loans. This in turn means that the non-performing assets of banks will rise crimping their ability to lend more. The housing finance company will not be able to lend to its consumers – real estate developers in this example. Starved of credit, such real estate developers will not be able to complete their projects and manage their cash flows leading them to fail or default, adding to more non-performing assets in the financial system.
+
+Overall, this could lead to the failure of not only financial system entities- connected as they are through the inter-bank funding market, over-the-counter derivatives market and so on - but non-financial companies as well when credit flow chokes up. Weaker companies, especially those who have not done proper risk due-diligence while chasing growth, and those with governance issues, are the most vulnerable.
+
+What are the chances of financial system contagion in India?
+
+The Indian financial system has been fragile for some time. Banks have been grappling with non-performing assets since 2015. Towards the end of 2018, the problems were exacerbated by the failure of IL&FS. After IL&FS’s default, banks and mutual funds became more wary about giving money to NBFCs. Non-banks and housing finance companies are having to pay higher interest to raise money – the weakest companies have seen their rates increase from 8.9 percent to 15.9 percent now, on an average, according to S&P data. We have seen multiple defaults by finance companies, especially those linked to the real estate sector (the most prominent being Dewan Housing Finance and Altico Capital), and downgrades as well.
+
+In its June 2019 Financial Stability Report, the Reserve Bank of India warned that the failure of any of the top 5 housing finance companies or NBFCs could lead to defaults in up to 2 banks. Markets have lost faith in financial companies with their equity value plummeting in the past year.
+
+Risks are rising for contagion, as S&P points out. For instance, there is the fear now that bank NPAs might continue to rise. That’s because at least 65 percent of NBFC exposure to real estate is under moratorium, where current dues are only interest payments. Principal repayment is expected to start only from first half of the next fiscal year. Given the stressed state of the realty sector, fresh bad loan additions are only expected to rise, leading to more pain at banks and NBFCs.
+
+Why is a quick resolution important?
+
+There is an economic slowdown deepening by the day. The government has tried to induce a debt-fueled spending but that hasn’t worked so far. Bank credit growth is a tepid 8.8 percent. A resolution to the NBFC crisis is important to revive growth because non-banks accounted for 23 percent of loans outstanding in India and they reach places where regular banks are unable to or do not want to lend.
+
+What steps have the government and the central bank taken so far?
+
+RBI and the government have taken many small steps to revive the credit flow to the NBFC sector. For instance, the central bank increased the ceiling for a bank’s exposure to a single NBFC to 20 percent of its tier-I capital from 15 percent earlier. Similarly it increased the limit for bank lending (classified as priority sector borrowing) to registered NBFCs for on-lending to agriculture up to Rs 10 lakh; micro and small enterprises up to Rs 20 lakh; and housing up to Rs 20 lakh per borrower. The government also set up a partial credit enhancement scheme where it partially guaranteed the pool of retail loans sold by NBFCs to banks.
+
+How can we prevent this contagion?
+
+The key issue here is the trust deficit in the financial system. The credibility of reported financial numbers has come down for many NBFCs and even banks.
+
+A quick way out is for the RBI to carry out an Asset Quality Review (AQR) of NBFCs. RBI had carried out a similar exercise for banks in 2015 which found that the banks were understating their bad assets. An AQR for NBFCs will restore market faith in their balance sheets.
+
+Second, the central bank could open up a special liquidity window for NBFCs in its capacity as the lender of the last resort – similar to what it had done for mutual funds in the aftermath of the global financial crisis in 2008. But central bank officials have repeatedly ruled this out. It is unlikely to occur unless there is serious risk to the stability of the financial sector.
+
+Third, the government could set up a bad bank. This entity will house all the non-performing assets in the financial sector and go about resolving them freeing banks and NBFCs to go about the business of lending. But there are issues about how this bad bank will be funded, at what price it will buy NPAs from lenders and so on.
+
+Ultimately, an AQR is the best solution even if there is a short-term pain because of NPAs mounting at NBFCs. So far, the RBI has said that it is monitoring the top-50 finance companies closely based on the size of their balance sheet, the scale of their operations, as well as governance practices and credit behavior. But obviously, it has done nothing to resolve the trust deficit. More transparency is needed and that will come through the AQR. After all, sunlight is said to be the best of disinfectants; electric light the most efficient policeman.

@@ -1,0 +1,41 @@
+Startups Took Over Earth, and Now They’re Headed to Space — With Creepy Pepsi Ads in Tow
+
+The CubeSat was born in 1999 as part of a partnership between professors Jordi Puig-Suari and Bob Twiggs, of California Polytechnic State University and Stanford University, respectively. They wanted a way to help their students get hands-on experience with satellite technology.
+
+At the time, the process of building any satellite generally took several years and millions of dollars — far too much time and money to waste on students.
+
+“If you worked on satellites, you maybe got to work on one or two your whole career,” says Andy Erickson, director of global security at Los Alamos National Laboratory in New Mexico. “It used to be a very slow process and, as a student, you never got to work on real hardware.”
+
+CubeSats quickly became an invaluable teaching tool for young scientists and a boon to researchers who wanted to test out new technologies, bolstering university space programs around the world.
+
+Today, the same technological advancements that have allowed smartphones and computers to become smaller and more efficient are poised to allow exponential jumps in CubeSat technologies, and an increasing push into space travel by private companies is opening a new world of commercial interest in the mini-satellites.
+
+One of the leaders in the world of commercial CubeSats is Planet Labs, founded in Silicon Valley, startup style, out of a garage in Cupertino, California. Planet has launched more than 350 CubeSats into LEO since 2010.
+
+“Every three to six months, we have a new generation of the satellites,” says Michael Safyan, vice president of launch at Planet Labs. “Sometimes it’s an improvement on capabilities, like a new telescope, or a reduction in the time it takes to manufacture.” At this point, Safyan estimates that Planet can produce dozens of satellites per week.
+
+A “1U” CubeSat without an outer layer of protection
+
+Alone, a single CubeSat isn’t terribly powerful. The imaging power of CubeSats is nowhere near the granularity of a billion-dollar satellite like those used by the military. And because they’re so small, there’s no way to build in redundancy, meaning that if one component breaks, the whole CubeSat quickly becomes useless. But what CubeSats lack in size, they make up for in numbers, cheapness, and ease of deployment.
+
+“A constellation of CubeSats gives you some congregant capability that one big system doesn’t give us,” says Air Force Captain Michael Nayak, a scientist with the U.S. Air Force Research Laboratory whose work focuses on space and planetary science. “From a defense perspective, if you have a constellation of CubeSats, you can take out a few of them and you’ll still be able to gather data effectively.”
+
+For its part, Planet has a swarm of 120 CubeSats that image Earth every single day. But the most valuable thing about a constellation of CubeSats is the data they’re capable of collecting, and the machine learning that can analyze all of it.
+
+Satellite imagery from CubeSats can help NGOs track humanitarian crises or assist scientists monitoring the effects of climate change. In identifying China’s Muslim internment camps, Earthrise Media used satellite images provided by Planet Labs’ CubeSats, among other sources.
+
+The “democratization” of space technology by commercial entities also means that private companies now get a say in who gets access to the data collected from space.
+
+Countries that don’t have billions to invest in a space program can use data from commercial CubeSats to monitor crops or extreme weather. And private companies, especially those in the commodities world, can infer valuable information about everything from agricultural yields to power plant productivity by analyzing satellite imagery. Images from satellites monitoring, say, a crop like corn, allow commodities traders to see what’s growing where — weeks before a USDA report on crop yields would normally be released.
+
+But commercial entities’ “democratization” of space technology also means that private companies now get a say in who gets access to the data collected from space. “At one point in time, this kind of technology was controlled by nation states, mostly the U.S. and the Soviet Union,” says Brian Weeden, PhD, of the Secure World Foundation, a nonprofit that works to promote peaceful and sustainable use of space. Now, instead of the U.S. government deciding who gets access to the information picked up by a satellite, it’s likely to be a company like Planet, which Safyan says has its own internal review process about which clients it works with.
+
+But leaving these decisions up to private companies has some worrying implications.
+
+“There’s no control, say, on where a company’s venture funding comes from,” says Captain Nayak. “There’s nothing stopping, say, a foreign government [from] coming in and being a venture backer for a CubeSat company and then wanting access to that data.” Though he couldn’t say this has already happened with CubeSats, Nayak offered the example of the Thirty Meter Telescope in Hawaii, which has received funding from China, Canada, Japan, and India.
+
+While certain information, like the imaging of a U.S military base, is off-limits for a commercial company to sell, machine learning like the kind Planet is pioneering can process terabytes of data on a daily basis, allowing for near real-time imaging of nearly everything else.
+
+“Countries that are very restrictive of citizens [could] be able to obtain information about people’s movements, and that could be very hard to control,” says Erickson.
+
+An analysis of CubeSat imaging could, for example, tell how crowded a parking lot is at certain times of day — valuable intel for both an investor and someone trying to plan a high-impact terrorist attack.

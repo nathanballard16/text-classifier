@@ -1,0 +1,39 @@
+Britain NEVER needed £1BILLION EU Galileo GPS – MOD system was 'already available'
+
+Brexit: UK should still be part of Galileo post-exit says Woerner
+
+SUBSCRIBE Invalid email Sign up HERE for science breakthroughs in health, business and more that matter We use your sign-up to provide content in ways you've consented to and to improve our understanding of you. This may include adverts from us and 3rd parties based on our understanding. You can unsubscribe at any time. More info
+
+The UK is stepping up plans to develop its own global navigation satellite system (GNSS) after its exclusion from secure aspects of Galileo, and last week announced it was investing approximately £600,000 into the search for pioneering new technologies. Despite having invested upwards of £1billion in the project, with British scientists at the heart of its development, the UK is being frozen out of the secure aspects of the system.
+
+I don't think it would be exaggerating to say that this solution would save the UK billions of pounds Dr Stuart Eves
+
+However, Dr Stuart Eves, a satellite systems engineer whose CV includes stints working as lead mission concepts idea for Surrey Satellite Technology Ltd, as well as for Astrium, plus a 16-year-career with the Ministry of Defence, is unimpressed. Instead of attempting to build a hugely expensive rival to Galileo at vast expense, he told Express.co.uk the UK should instead develop a system based on geosynchronous satellites similar to India's Indian Regional Navigation Satellite System (IRNSS), or the Japan's Quasi-Zenith Satellite System (QZSS), which Mr Eves said would provide a regional navigation system which was far more affordable than a large global network. He added: "The MOD is already planning to launch a new generation of geosynchronous communications satellites called Skynet 6, which could also host the navigation system at little extra cost. "I don't think it would be exaggerating to say that this solution would save the UK billions of pounds."
+
+By thinking creatively, the UK could save billions on a satellite system, said Dr Eves
+
+The UK faces exclusion from the secure aspects of Galileo
+
+Dr Eves first suggested such a system more than 30 years ago, and said the principles on which it works were well established. However, he added: "UKSA and MOD are in La-la-la-I'm-not-listening mode, so it's not a formal proposal at present. Would be a waste of time." With respect to the feasibility study, Dr Eves said: "The whole project is a waste of money. "The satellite constellation would be expensive, the large rockets required to launch them even moreso and the orbits and the rockets required for the system they're proposing are incompatible with launch from Scotland, so we'd have to go overseas for this element of the system.” READ MORE: NASA astronauts grow lettuce on the Space Station - 'So excited'
+
+Satellites can offer pinpoint accuracy
+
+He added: "The MOD is already planning to launch a new generation of geosynchronous communications satellites called Skynet 6, which could also host the navigation system at little extra cost. "I don't think it would be exaggerating to say that this solution would save the UK billions of pounds." Dr Eves first suggested such a system more than 30 years ago, and said the principles on which it works were well established. DON'T MISS
+
+Alien discovery is ‘very close’ and this is where to find it [OPINION]
+
+Elon Musk’s SpaceX Mars mission could destroy alien life [COMMENT]
+
+NASA warning: Top scientist warns against discovering life on Mars [WARNING
+
+The launch of one of the Galileo satellites
+
+Sujatha Deepak stands near a replica of India's navigation satellite
+
+Any UK system would not be able to make use of the software used by GPS, for example, to unscramble the satellite signal, and therefore Britain would need to develop its own version. Dr Eves said: "Inside most people's mobile phones is a GPS receiver which allows the phone to determine its position. There is specific software which decodes the GPS signal and performs the calculations that are necessary. "Some phones also incorporate the equivalent software for the Russian Glonass and European Galileo satellite navigation systems. "If the UK was to develop its own GNSS constellation, it would need to develop a comparable receiver capability."
+
+Satellites are integral to satellite navigation systems
+
+Any UK system would not be able to make use of the software used by GPS, for example, to unscramble the satellite signal, and therefore Britain would need to develop its own version. Dr Eves said: "Inside most people's mobile phones is a GPS receiver which allows the phone to determine its position. There is specific software which decodes the GPS signal and performs the calculations that are necessary. "Some phones also incorporate the equivalent software for the Russian Glonass and European Galileo satellite navigation systems. "If the UK was to develop its own GNSS constellation, it would need to develop a comparable receiver capability." Any UK system would consequently be even more expensive if it sought to emulate their capabilities, and inferior in terms of performance if it did not.
+
+Trending

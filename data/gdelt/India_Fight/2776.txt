@@ -1,0 +1,79 @@
+Dispatches from Davos — Tuesday Morning: The cyber futurists
+
+Dispatches from Davos — Tuesday Morning: What the cyber futurists are saying today
+
+Today at the World Economic Forum in Davos, the future of cyber and the fourth industrial revolution was discussed.
+
+Our man in Davos — Tom Patterson, chief trust officer at Unisys — will be providing his thoughts all week from the World Economic Forum
+
+In a series of dispatches, I will be sending my thoughts from Davos on the World Economic Forum throughout the week.
+
+Davos Tuesday morning: What the cyber futurists are saying today
+
+We’re back, after a long night of welcome parties from groups ranging from companies to countries to causes. It seems that once people figured out how to get their giant rolling suitcases that final mile to their hotel rooms, and some Glühwein into their bodies, everyone started to get into that famous ‘Davos Spirit’ that has pervaded this mountain top since 1971. One thing for certain with this year’s delegates is that their diversity of opinions is exceeded only by their personal passions. What a start to the week!
+
+The World Economic Forum’s panels begin in earnest today with a wide array of topics on healthcare, finance, digital transformations, and critical infrastructure in general, and of course, cyber security.
+
+Today, cyber is trying to get above all of the necessary day to day battles we fight as security professionals, and truly raise the level of discourse to the strategic, and focus on creating a cyber future that is safe and secure for all. And what better way to have these discussions than to go to the highest town in Europe (Davos), and then go up! Literally, up the Schatzalp funicular to the ‘sun porch of Davos’ perched high above the town, where the annual Cyber Future Dialogue put on by the Cyber Future Foundation takes place. This unique event is held here above Davos to provide a collaborative platform for industry, public agencies and academia towards building a more trusted and secure cyber space at a global level.
+
+Today’s discussions are taking the delegates to the future by focusing on six key areas to success — systemic cyber threats, standardising cyber education globally, cyber risk qualification, quantification and mitigation, adversarial actors in cyberspace, information reliability, and disruption and innovation in technology and talent. The delegates — all cyber experts in their own rights — are being led today by this impressive list of delegation anchors:
+
+• Chad Sweet, Co-founder & CEO, Chertoff Group
+
+• Hans-Wilhelm Dunn, President, Cyber Security Council of Germany
+
+• Oran Holander, Head of Cyber Security, Telefonica Germany
+
+• Ric Longenecker, CISO, Verisure
+
+• MJ Vaidya, Member of the Special Council on Cyber Education, Cyber Future Institute; Partner, EY
+
+• Wouter Veenstra, Manager, Outreach & Participation, Global Forum on Cyber Expertise
+
+• Prof. Dr. Nasir Memon, Associate Dean of Online Learning, NYU
+
+• Sascha Maier, Head of IT & Information Security, IWC Schaffhausen
+
+• Alan Cohn, Partner at Steptoe & Johnson LLP, Adjunct Professor, Georgetown Law.
+
+• Mark Carney, SVP, Coalfire
+
+• Andrea Bonime-Blanc, CEO, GEC Risk Advisory, Fellow, NACD, Author, Speaker
+
+• Norma Krayem, Sr. Policy Advisor, Holland & Knight
+
+• David Stender, CSO, M&T Bank
+
+• Denise Anderson, President Healthcare ISAC/Chair- National Association of ISACs
+
+• Rod Beckstrom, Sr. Geopolitical Expert and former CEO, ICANN
+
+• COL. Jaak Tarien, Director, NATO Coopertive Cyber Defence Center of Excellence
+
+• Renaud Deraison, Co-Founder & CTO, Tenable
+
+• Dr. Staffan Truve, Co-Founder & CTO, Recorded Future
+
+• Pavan Duggal, Advocate, Supreme Court of India
+
+• Jacqui Taylor, Author, Speaker, CEO, FlyingBinary
+
+• Robert Rodriguez, Chairman & Founder, SINET
+
+• Tom Patterson, Chief Trust Officer, Unisys
+
+• Oliver Newbury, Chief Technology Officer – Security, Barclays
+
+• Greg Day, CSO-EMEA, Palo Alto Networks
+
+At last year’s 2018 World Economic Forum in Davos, there was a seminal panel titled ‘In Technology We Trust’, that included Salesforce.com’s CEO Marc Benioff, Alphabet (aka Google)’s CFO Ruth Porit, and Uber’s CEO Dara Khosrowshahi leading the charge, that posited that “this is the most pivotal and important discussion – trust in technology.”
+
+Today, the Cyber Future Dialogue is pushing past the concept that new technologies like 5G communications, quantum computing and communications, artificial intelligence (AI), and behavioural biometrics are inherently good or bad on their own, and beyond to contemplate a cyber future where the world comes together to decide how they choose to use all of this new fourth industrial revolution technology for our collective good.
+
+We heard ample expert elucidation on how adversarial groups are and will continue to use new tech to our collective detriment, but equally powerful and substantially more uplifting examples of how global society can use it for the collective good. Today the futurists found that we are at a critical technological crossroads, and now is the time to make the hard decisions that will protect us for generations to come.
+
+That’s it for this morning’s dispatch… an exhilarating morning to be sure, with the sun shining upon us all here high above Davos. Check in later today for more of what’s happening with Davos cyber security down below!
+
+Written by Tom Patterson, chief trust officer, Unisys
+
+This article is tagged with:

@@ -1,0 +1,21 @@
+No bar on payment processing abroad but data should be stored in India only, says RBI
+
+The data should include end-to-end transaction details and information pertaining to payment or settlement transaction that is gathered, transmitted or processed as part of a payment message or instruction.
+
+The Reserve Bank of India on Wednesday clarified that “there is no bar on processing of payment transactions outside India” by the payment system operators (PSOs) but the “data should be stored only in India” after the processing.
+
+“In case the processing is done abroad, the data should be deleted from the systems abroad and brought back to India not later than the one business day or 24 hours from payment processing, whichever is earlier. The same should be stored only in India,” the RBI said. The central bank last year mandated companies to store their payments data only in India so that the regulator could have “unfettered supervisory access” forcing entities such as Mastercard and Visa to initiate steps to store data in India. However, the RBI move had met with resistance from US payment companies.
+
+“The complete end-to-end transaction details should be part of the data,” the RBI said. “However, any subsequent activity such as settlement processing after payment processing, if done outside India, should also be undertaken/ performed on a near real time basis. The data should be stored only in India,” it said.
+
+However, with data storage issue becoming a thorny issue between US payment companies and India, the RBI said a copy of the domestic component of cross border transaction data — consisting of a foreign component and a domestic component — may be stored abroad. US Secretary of State Mike Pompeo said last week ahead of his visit to New Delhi, “we’ll also push for free flow of data across borders, not just to help American companies, but to protect data and secure consumers’ privacy.”
+
+Explained A thorny issue for US payment companies On this contentious issue, while the RBI has said there is no restriction on processing of payment transactions outside India by payment system operators, this comes with the rider that the “data should be stored only in India” after the processing. Additionally, if data processing is done abroad, it should be deleted from the systems abroad and brought back to India and stored here. The data storage issue has been a thorny issue for US payment companies such as Mastercard and Visa and has been raised by the US Government as part of its trade negotiations strategy.
+
+On June 18, Commerce Minister Piyush Goyal met technology firms and heard their concerns about various plans to push for more stringent rules on data storage, which government officials say would help them better access data and conduct investigations. The government had then said the RBI will look into concerns about data storage rules that have been raised by companies.
+
+According to the RBI, the directions are also applicable in respect of the transactions through system participants, service providers, intermediaries, payment gateways, third party vendors and other entities (by whatever name referred to) in the payments ecosystem, who are retained or engaged by the authorised / approved entities for providing payment services.
+
+The data should include end-to-end transaction details and information pertaining to payment or settlement transaction that is gathered, transmitted or processed as part of a payment message or instruction. This may include customer data (including name, mobile number, email, Aadhaar number, PAN number), payment sensitive data (customer and beneficiary account details), payment credentials (OTP, PIN, passwords) and transaction data (originating and destination system information, transaction reference, timestamp and amount).
+
+“The data may be shared with the overseas regulator, if so required, depending upon the nature or origin of transaction with due approval of the RBI,” it said.

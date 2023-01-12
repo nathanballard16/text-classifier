@@ -1,0 +1,41 @@
+Nifty at 11,400: Deploy Call Butterfly Spread to take advantage of rally
+
+Shubham Agarwal
+
+Indian markets displayed stupendous rally for yet another week as Nifty50 rallied by 3.5 percent. All the major sectoral indices were in green.
+
+BankNifty exhibited strong outperformance as it moved in uncharted territory. The Nifty future closed a tad lower than 11,500, while BankNifty future closed at 29,500.
+
+Crude is stabilizing near 67 with Rupee/Dollar appreciating by about 1.5 percent to 69.09 level provided the necessary impetus to the rally.
+
+Both Nifty and BankNifty saw substantial long addition in Futures. During the week, Nifty added nearly 50 percent OI to last week tally, 8.3 mn shares while BankNifty saw the addition of 0.9 mn shares, 43 percent higher than last week base.
+
+Combine OI of BankNifty comes closer to its last one-year high seen in May 2018. Sector-wise Nifty bank was top performer led by a stellar rally in heavyweight like HDFC Bank (5.8 percent), IndusInd Bank (12 percent), ICICI Bank (6.6 percent), Kotak Bank (6.9 percent) and the State Bank of India (6 percent).
+
+Move in stocks is supported by OI addition of 15-25 percent each. The Nifty Energy also showed buying interest led by the move of 4-6 percent in Reliance Industries, ONGC, and OMC stocks.
+
+BPCL and IOC have seen OI accumulation of 20-25 percent in the last week. IT stocks like Infosys and TCS have seen good OI accumulation during the week.
+
+India VIX remained range bound within 15 percent to 16 percent during the week. Volatility skew, an advance study of the placement of IV did depict the move of 11,500 at the beginning of the series, indicating underline bullishness in the market.
+
+PCR (Put Call Ratio) OI wise is moving in the range of 1.6-1.8. Friday session saw ratio trading at 1.77. A significant move above 1.85 could see some consolidation coming in.
+
+The Nifty Option Open interest remained relatively light on Call side, highest being at 11,500 of 23.46 lakh as fright is visible among Call writers while and Put writer showed aggression at every 100 points rally by an upward shift in Put base.
+
+On immediate basis, 11,300 now acts as key support for Nifty monthly with next major placed at 11,000. Participant data points towards the bullish bias of Foreign Institutional Investor (FII).
+
+They have created net longs of nearly 80,000 contracts in Index Futures in March series highest in last 13 months. In Options too their Synthetic long (Call Long+ Put Short) to Synthetic Short (Put Long +Call Short) trades at 1.44.
+
+Clients on other end have gone net short in Index futures this week to 45,929 contracts compare to long of 7,119 contracts seen in the week gone by.
+
+Overall data points towards inherent bullishness in Nifty with substantial long addition in futures, lower Calls resistance and upward shifting Put base to 11,300.
+
+Thus it is prudent to deploy Bullish Strategy on Nifty. With next week being truncated and approaching expiry, Call Butterfly Spread in monthly expiry is recommended.
+
+Call butterfly Spread is a bullish strategy that expects a positive move in underline. It’s an idle strategy to play for positive bias along with being completely hedged.
+
+Under this strategy, we are buying 1 lot lower strike Call, Selling 2 lots of higher strike Call and Buying 1 lot of further higher strike Call. The maximum profit would be made at the middle strike.
+
+(The author is CEO & Head of Research at Quantsapp Private Limited.)
+
+The views and investment tips expressed by investment expert on moneycontrol.com are his own and not that of the website or its management. Moneycontrol.com advises users to check with certified experts before taking any investment decisions.

@@ -1,0 +1,41 @@
+Indian team wins USD 5,000 IBM award to prevent flooding in country
+
+A team of Indian software professionals has been awarded a prize money of USD 5,000 by IBM for providing a potential solution to prevent pervasive flooding that plagues the Indian subcontinent, and help save lives and property, the technology giant has announced.
+
+Purva Suchak took the top prize in the IBM and David Clark Cause foundation Call for Code 2019 for Asia Pacific region announced on Saturday here.
+
+The team consists of software professionals from Pune-based Cognizant: Siddamma Tigadi, Ganesh Kadam, Sangeetha Nair, and Shreyas Kulkarni.
+
+By continuously checking reservoirs, dams and bodies of water, Project Purva-Suchak can collate data with weather forecast information, according to a statement.
+
+This allows them to generate effective flood prediction data that can be stored on blockchain and accessed by those who need the data most -- including government agencies and disaster management teams, the statement said.
+
+Up to date and accessible data can prevent flooding and huge losses of life and property, it said.
+
+"When we started on the journey of IBM Call for Code we first tried to identify the natural disasters that have a huge impact on the Indian sub-continent," Tigadi, team leader of Purva Suchak project, told PTI in an email.
+
+"So flooding was one of the issues we realised was not just an issue which lacked effective flood management but also needed a prediction and mitigation approach," Tagadi said.
+
+Call for Code 2019 Asia Pacific saw 15 countries participating from the region. India had the largest number of developers in the world after the US.
+
+The winner of the Call for Code 2019 Global Challenge is Spain-based Prometeo, a system that uses artificial intelligence (AI) and the internet of things to guard the safety of firefighters as they battle blazes.
+
+Prometeo was awarded USD 2,00,000 for the project.
+
+The first runner-up for the global challenge is Sparrow, whose members hail from India, China, and the US.
+
+Sparrow is an open-source AI-enabled platform that serves as a one-stop enabler of medical and psychological well-being during and after disasters.
+
+It helps connect those in need to a number of critical services during a disaster, including access to medical records or real-time advice from a doctor.
+
+Sparrow was also the only team from Asia Pacific to qualify for the global finals, the statement said.
+
+"We are seeing increased participation every year from all across the world and it's bringing together some of the greatest minds of this generation to build innovative solutions that can save lives in disaster-stricken areas," said Priya Mallya, Country Leader, Developer Ecosystems, IBM India South Asia.
+
+"With regional editions being introduced from this year, we can now recognise and implement solutions that can address issues relevant to a particular region," said Mallya.
+
+Purva Suchak will also have the option of further developing and implementing their solution through the Code and Response initiative, IBM said.
+
+Call for Code is a USD 30 million, five-year global initiative which, together with charitable partner United Nations Human Rights, has become one of the largest and most ambitious efforts bringing together start-up, academic, and enterprise developers to address pressing societal issues.
+
+(This story has not been edited by Business Standard staff and is auto-generated from a syndicated feed.)

@@ -1,0 +1,45 @@
+Policy shift away from GDP towards improving development indicators is long overdue
+
+By Varun Gandhi
+
+Between 1652 and 1674, England fought the Dutch three times, with local landowners facing high taxes on their estate’s income to fund the war. William Petty found this quite unjust and decided to compile a set of national accounts for England and Wales, asserting that national income must balance out with total spending.
+
+He quantified expenses — about 4.5 pence per day was adjudged to be enough for food, housing, clothing and other necessities for each of England and Wales’ six million citizens, totalling up to £40 million annually. Income was tabulated across a long list of assets — houses in London, land, ship, etc — totalling up to £15 million annually. The remainder was classified as wages at about £25 million annually. Petty’s advice, to the government of the day, was to shift the tax burden accordingly.
+
+And, thus, the gross domestic product (GDP) was born. Its modern formulation was crafted by Simon Kuznets for the US Congress report (bit.do/fj5Wf) in 1934, caveated by not being suitable for measuring social progress or welfare. And, yet, this is the metric that nations chase most after.
+
+Such caveats were recognised from the beginning. The modern formulation may not include externalities, nonmarket transactions, non-monetary economy, quality improvements or wealth distribution. Current measures of economic growth (including GDP) may consider every expense as a positive — without distinguishing between welfare-enhancing and welfare-reducing activities.
+
+Even the 1984 Bhopal gas disaster could raise GDP through rebuilding. There is also little recognition for the distribution of income among individuals and its significant social impact.
+
+Anumber of alternative approaches have emerged. In the early 1980s, a capability approach emerged, focusing on the functional capabilities enjoyed by the people of a country, explored in Séverine Deneulin and Lila Shahani’s 2009 An Introduction to the Human Development and Capability Approach: Freedom and Agency. The index of sustainable economic welfare, defined by John B Cobb and Herman Daly in 1989, is also utilised to consider other factors such as consumption of non-renewable resources.
+
+Don’t GDP, Be Happy
+
+The better known concept of gross national happiness (GNH) was formulated into a framework in 2005 by Med Jones (bit.do/fj5ZK). The World Bank has defined ‘comprehensive wealth’, taking into account the income generated along with the associated costs, to provide a deeper insight into economic well-being and sustainability of the progress path.
+
+Meanwhile, Canada tops up its GDP figures with a per-capita sum of key elements that include natural, social and human capital. China created a ‘green GDP’ in 2006, considering environmental factors for GDP calculations. Britain surveyed happiness in addition to GDP in 2010, and New Zealand adopted a‘well-being’ budget in May 2019.
+
+For India, there are three key measures we could explore. First, to measure the destruction of natural and social capital. A qualitative adjustment of GDP assessments, with linkages built to recognise how much incremental social and natural capital such economic activities build, may be looked at.
+
+One metric, the ‘genuine progress indicator’ (GPI), takes an existing GDP data set, and adds in corrections for various social and environmental factors such as inequality, pollution costs and underemployment.
+
+Such corrections, at the very least, would enable us to showcase market failures hidden by the overlying GDP numbers, and then instigate government action — such as banning polluting industries — for mitigation. Results from these corrections are revealing.
+
+Global GDP has increased three times since 1950. However, economic welfare, as defined by GPI, has actually decreased in net terms. Dividing this by population could give a true picture of economic outcome. Global GPI per capita peaked in 1978 — coincidentally, the same period when the global ecological footprint exceeded the global biocapacity to sustain life.
+
+We may also take into account the nature of transactions in our economy. Recognising that not every rupee transaction as the same value or quality is imperative. With the expansion of Unified Payments Interface (UPI) and Ru-Pay formalising our economy, tracking every transaction on the basis of the social good created — for instance, purchasing khadi helps foster our handicrafts culture — may become feasible, leading to an anonymised system to reward economic activities that improve social and natural capital.
+
+Atrue picture of economic activities would emerge, enabling retail investors to make the right decisions. These could include savings certificates linked to the annuities from renewable energy infrastructure that could then compete with mutual funds with a portfolio dominated by fossil fuel firms.
+
+Simon, Come Back
+
+Giving greater priority to development indicators can be explored. The human development index (HDI), developed by Mahbub ul Haq in 1990, emerged as a composite index of life expectancy at birth, adult literacy rate and standard of living, and is now complemented by numerous composite indices: inequality-adjusted HDI, gender inequality index, gender development index, etc. A shift in economic policies, away from GDP generation, and towards improving development indicators, is long overdue.
+
+Finally, we must continue to measure GDP. It remains an ingenious tool to measure economic growth. But a change in approach is necessary. In the words of economist Simon Kuznets, ‘Distinctions must be kept in mind between quantity and quality of growth, between costs and returns, and between the short and long run. Goals for more growth should specify more growth of what and for what.’ Adam Smith’s ‘invisible hand’ would suddenly be more visible, and be skewed towards a direction of focusing on well-being.
+
+(The writer is a BJP MP)
+
+Facebook Twitter Linkedin Email Disclaimer Views expressed above are the author's own.
+
+END OF ARTICLE

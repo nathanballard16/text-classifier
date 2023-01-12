@@ -1,0 +1,21 @@
+Vehicle registration data to be put on sale
+
+The Ministry of Road Transport and Highways collects and holds data as part of issuance of vehicle registration certificates (RC) and driver licence (DL).
+
+Chennai: Organisations and researchers can buy bulk data pertaining to vehicle registrations on an annual basis from the next fiscal. However, the government has put in place checks and balances to ensure the security of this data.
+
+The Ministry of Road Transport and Highways collects and holds data as part of issuance of vehicle registration certificates (RC) and driver licence (DL). The ministry currently shares complete data only with specified agencies such as police, banks and insurance companies.
+
+As per the 'Bulk Data Sharing Policy and Procedure', sharing of vehicle registration data in a "controlled manner, can support the transport and automobile industry". The sharing of data will also help in service improvements and wider benefits to citizens and government, the policy said.
+
+Organisations requesting for data should be registered in India with at least 50 per cent ownership by an Indian resident or an Indian company. All bulk data accessed by the organisation shall be processed/stored in servers/ data centre residing in India. The data at any point shall not be transferred/processed/ stored in a server outside India, it said.
+
+The commercial organisations and individuals seeking bulk data will have to pay an amount of Rs 3 crore for FY 2019-20. Educational institutions can use this data only for research and internal purposes and would be provided one time on payment of an amount of Rs 5 lakh for the FY 2019-20. There shall be an annual increase of 5 per cent from the FY 2020-21 onwards.
+
+But government has warned that breach of data will result in action under the IT Act and other applicable laws besides debarring the agency from access to this data for a period of three years.
+
+It will monitor, control and block any sensitive data being transferred from the data processing organisation network. All sensitive data should be in encrypted format while stored in disk and only to be decrypted while accessed through proper mechanism. According to Naveen Dham, CEO of GIS Consulting, the cyber security scenario in India is not that desirable to permit such wide use of vehicle and personal data.
+
+“It has been experienced in the recent past that many renowned organisations have been unable to keep up with the advancements in hacking, and introduction of IoT has worsened the situation wherein the devices like IOT-enabled devices, electrical grids and IoT-enabled factories are at the mercy of cybercriminals. Since we are living in a reactive environment wherein we react and take mitigation action after the organisation is attacked by cyber criminals it is similar to buying a fire extinguishers only after experiencing the fire incidents,” he said.
+
+“We have to ensure that we have to establish a robust system which will ensure the adequate prevention and treatment to refrain from cyber attacks,” he added.

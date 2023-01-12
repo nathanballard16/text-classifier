@@ -1,0 +1,43 @@
+FAA Chief Meets Boeing Officials, Tries Out Max Simulator
+
+The chief of the Federal Aviation Administration tested the Boeing 737 Max in a flight simulator Thursday, but the FAA declined to say how its updated anti-stall software performed.
+
+That software kicked in before two Max jets crashed, and fixing it is central to Boeing's effort to get the grounded airplane flying again.
+
+New FAA chief Stephen Dickson said his agency has no timetable for reviewing changes that Boeing is making to the plane.
+
+Dickson also toured the Max assembly line near Seattle and met with senior Boeing officials.
+
+Boeing has not yet submitted its safety analysis of the changes. Dickson said he has seen draft materials that still need more work. He did not provide details.
+
+The FAA's reputation was damaged by revelations it didn't take part in determining the safety of a key flight-control system called MCAS before certifying the Max for flight in 2017. The system pushed the aircraft nose down in both crashes, one off the coast of Indonesia last October, the other in Ethiopia in March, which killed 346 people in all.
+
+Dickson, a former Air Force fighter pilot who flew earlier versions of the 737 during a long career at Delta Air Lines, had two sessions in a flight simulator to test changes Boeing has made to MCAS — making it less powerful and easier for pilots to control. In the first session, he practiced simulations of normal flights.
+
+"It handles like a 737," he told The Associated Press after an initial simulator run replicating normal flight conditions. "The airplane handles very well from everything I can tell."
+
+Later Dickson tested situations in which MCAS kicked in and pushed the nose down, but the FAA declined to make Dickson available for comment on that simulation.
+
+Dickson said he will fly a Max jet — not just a simulator — before the plane is ungrounded.
+
+Dickson also toured the Max assembly line in the Seattle suburb of Renton and spent "a couple hours" meeting with top officials of Boeing's commercial airplanes business. Boeing CEO Dennis Muilenburg was not present, he said.
+
+Critics, including Democrats and some Republicans in Congress, have questioned the FAA's practice of delegating many inspection and safety tasks to designated employees of aircraft manufacturers.
+
+Backers of delegation say it takes advantage of industry's expertise. However, at Dickson's Senate confirmation hearing in May, Sen. Richard Blumenthal, D-Conn., called it "safety on the cheap" and self-policing. Sen. Ted Cruz, R-Texas, said bureaucrats tend to become captives of industries they oversee, and he implored the mild-mannered Dickson, "Be pissed off that 346 people died."
+
+Dickson did not hint at any change in the FAA's approach to aircraft certification either at that hearing or in a telephone interview.
+
+"The concept of delegation itself is a sound one," he said Thursday. "It makes the FAA a more effective regulator, and it makes the manufacturer safer because we're able to share data in real time."
+
+But, Dickson said, he will wait to see recommendations from a special Transportation Department committee and others before making any decisions about FAA's process for certifying new aircraft.
+
+Some of those recommendations will come from international aviation regulators. The FAA gathered officials from dozens of foreign agencies in May in Texas, and it plans to do the same thing next week in Montreal.
+
+The FAA, once unchallenged as the world's foremost aviation regulator, now faces the very real — and embarrassing — possibility that other countries won't immediately go along when it approves the 737 Max for flight.
+
+The CEO of Ireland's Ryanair said Thursday he doesn't expect the plane to be back in service until February or March.
+
+Canaccord Genuity analyst Ken Herbert, just back from a big aviation conference in Europe, said consensus in the industry is that, while the FAA might un-ground the Max before the end of the year, Europe's regulator is expected to take about three months longer — and could require Chicago-based Boeing to make additional changes to the plane. Regulators in Canada and India have also indicated they could break with the FAA.
+
+Any such phased return of the plane would be a scheduling headache for airlines and carry financial consequences for Boeing. If major countries keep the plane grounded longer, it will delay Boeing's plans to ramp up production of the Max, which has continued but at a slower pace since April.

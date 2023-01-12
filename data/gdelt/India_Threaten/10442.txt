@@ -1,0 +1,33 @@
+A new view of the fortune at the bottom of the digital pyramid
+
+Photograph by code6d
+
+The Next Billion Users: Digital Life Beyond the West
+
+by Payal Arora, Harvard University Press, 2019
+
+The benefits of digitization and Internet connections in developing nations — and the opportunities awaiting companies that can provide them — have been much lauded in the past couple of decades. But as Payal Arora, a professor at Erasmus University Rotterdam, clearly demonstrates in her new book, The Next Billion Users, the conventional storyline around the transformative effect of technology on people’s lives often doesn’t ring true.
+
+Arora, who has been studying how the global poor outside the West use computers and the Internet for nearly 20 years, discovered this for herself during her first development project in a rural region of southern India. “The goal,” she explains, “was to infuse this town with new digital technologies to help the poorer members of the community leapfrog their way out of poverty.”
+
+The project team set up computer kiosks and funded cybercafes. It sent computer-equipped vans to remote villages to promote Internet awareness. “We envisioned women seeking health information, farmers checking crop prices, and children teaching themselves English,” Arora writes. The reality was the polar opposite: The kiosks became Pac-Man gaming stations, social networking sites dominated computer usage in the cybercafes, and the free movies used to attract people to the vans became their primary draw.
+
+“Many of the technology development projects I have worked with since have yielded similar results,” Arora writes. “Play dominates work, and leisure overtakes labor, defying the productivity goals set by development organizations.” (Imagine the sniffing among Western do-gooders.)
+
+This is the source of what Arora defines as the third digital divide between the developed and developing worlds. The first digital divide is access to technology. The second divide is the ability to use the technology — to read and write, for instance. And the third divide, which Arora labels “the leisure divide,” is rooted in motivation. “The leisure divide is about understanding what the global poor want from their digital life and why it matters to them,” she writes. “It reminds us that fulfillment is not necessarily a matter of efficiency or economic benefit but can involve a more elusive, personal, and emotive drive.”
+
+The leisure divide is about understanding what the global poor want from their digital life and why it matters to them.”
+
+Kids, for instance, are kids, no matter where they live. When Arora volunteered at a cybercafe in Almora, a rural town in the Himalayas, eight hours by train and then a three-hour jeep ride from Delhi, she expected to find teenagers surfing the World Wide Web. Instead, she found a dating café. “Boys and girls would sit behind computers while chatting with each other online, occasionally stealing glances at one another,” she writes. “Their friends would stay right outside, serving as their escorts and guardians lest these interactions strayed into inappropriate advances or undesirable behaviors.”
+
+The salient point here for development organizations — and companies, too — is that the less connected their visions of the customers are to the reality on the ground, the greater the chance that their initiatives in the Global South will fail. Meanwhile, Arora says, their customers “do not sit and wait for the market to recognize them as legitimate consumers of leisure. Instead, they creatively forge ahead, using whatever technology is available to them to pioneer novel — and yes, often illegal — ways to gain access to the online hubs of happiness.”
+
+These ways usually involve pirated media, which is unsurprising in regions without movie theaters, and where a DVD or CD can cost the equivalent of week’s wages. “Given this enduring fact,” Arora suggests, “perhaps it is time for the global media conglomerates to reform their business models to make their media available to people with scarce resources, instead of continuing to tighten the noose in enforcing regulations that make a majority of the world’s people unable to access their products by legal means.”
+
+Arora reserves particular scorn for the digitization of educational initiatives in the Global South, like the Hole-in-the-Wall project, whose results, including the ability of rural children to teach themselves molecular biology, she convincingly argues were exaggerated. “Autonomous learning can serve as an intellectual sabbatical and a good story, for the wealthy,” she declares. “But for the poor, it is Russian roulette with their future.”
+
+Arora also is critical of companies that pursue C.K. Prahalad’s “fortune at the bottom of the pyramid” using concepts like hackathons, jugaad (frugal innovation), or other means of cocreation. “Few companies found this pot of gold, and probably few would now agree with Bill Gates’s enthusiastic declaration, not many years ago, that this could be ‘an intriguing blueprint for how to fight poverty with profitability,’” she claims.
+
+Arora doesn’t offer alternatives to these approaches. Instead, her purpose is to reveal their shortcomings and make a plea for a more measured approach that leans on empirical evidence and research. It is the only way, she says, to avoid “nineteenth-century colonial politics” and bridge the digital divide between the developed and developing worlds.
+
+The primary audience for The Next Billion Users is government agencies, NGOs, and socially conscious companies seeking to address poverty. But any leader whose company sees the global poor as a key market will find its reality-based view of the intended customers bracing and useful, too.

@@ -1,0 +1,59 @@
+‘Government-backed attacks’: Google warned 500 Indians against hacking
+
+The search giant issued over 12,000 warnings to users across the country against hacking state-sponsored attackers from July – Sept 2019
+
+In a blog post this month, search giant Google revealed that it sounded warnings against being targeted by ‘government-backed attackers’ to at least 500 users in India between July to September 2019.
+
+In a security update put up by its Threat Analysis Group (TAG) which works to counter government-backed hacking against itself and its users, it said that the group tracked more than 270 targeted or government-backed groups from more than 50 countries. Apart from intelligence collection and stealing intellectual property, these groups, TAG says, have goals of targeting dissidents and activists, spreading coordinated disinformation and carrying out destructive cyber-attacks.
+
+Google said that between the periods of July to September this year, it sent out more than 12,000 warnings to users in 149 countries saying that they were targeted by government-backed attackers. The number of warnings, it said was approximately sent out in the same period of 2018 and 2017.
+
+It issued warnings to more than 1000 users in the United States of America (USA) and Pakistan, with other vulnerable regions being Canada, Nigeria, Egypt, Turkey, Saudi Arabia, Iran and the United Kingdom (UK).
+
+Last year, a report by Business Standard revealed that a research by RSA Security had shown that india was among the top four nations targeted by phishing attacks after Canada, USA and the Netherlands.
+
+It moved from the fourth to the second spot this year according to another research by RSA Security.
+
+The statement by Google read, “We’ve had a long-standing policy to send users warnings if we detect that they are the subject of state-sponsored phishing attempts, and have posted periodically about these before.”
+
+The post by Google explained that 90 percent of the users were targeted via ‘credential phishing emails’ that are attempts at obtaining the target’s password and other account information to hack into their account.
+
+To protect itself from the same, Google said it encouraged ‘high-risk’ users like journalists, human rights activists and political campaigns to enroll in the Advanced Protection Program (APP) – designed for the highest-risk accounts – which utilizes hardware security keys and provides the strongest protections available against phishing and account hijackings.
+
+The press release by Google comes close on the heels on the WhatsApp Spyware row, where WhatsApp had revealed that the NSO group’s surveillance spyware Pegasus was used to spy on human rights activists and journalists in India.
+
+Early reports on Pegasus came out when a human rights activist in the UAE, Ahmed Mansoor was targeted with an SMS link on his iPhone. Apple had then responded by pushing out an update to “patch” the issue, The Indian Express reported.
+
+In December 2018, Montreal-based Saudi activist Omar Abdulaziz filed charges against the NSO Group, alleging that his phone had been hacked using Pegasus, and conversations that he had with his friend, the murdered Saudi dissident journalist Jamal Khashoggi, snooped on. Khashoggi was slaughtered by Saudi agents at the kingdom’s consulate in Istanbul on October 2, 2018; Abdulaziz said he believed his phone was hacked in August that year.
+
+Citizen Lab, the University of Toronto’s interdisciplinary laboratory had helped uncover that Indian lawyers, academics, Dalit activists and journalists like Anand Teltumbde, Nihalsing Rathod, Shalini Gera, Degree Prasad Chouhan among others, who were associated with the Bhima Koregaon matter and detained, were being spied upon through Pegasus.
+
+The Wire also earlier this month reported of Yahoo sending out warnings against ‘government-backed actors’ to an associate professor at the Indian Institute of Science Education and Research in Kolkata, a 42-year-old Partho Sarothi Ray.
+
+Ray, is not just a professor, but also a well-known civil rights activist and a founder member of a Leftist Magazine called Sanhati. He had earlier protested against the Trinamool Congress (TMC) over its decision to evict slum dwellers in Kolkata and was jailed for 10 days. He is also part of a collective that provides legal help to incarcerated people suffering from state persecution – mostly Adivasis, Dalits and religious minorities, called the Persecuted Prisoners Solidarity Committee (PPSC). He has also been on the radar of the police and the Union home ministry who had asked the West Bengal government to keep a watch on him.
+
+But the nail in the coffin regarding hisaccount being hacked could be his association with Sudha Bharadwaj, who has been arrested in the Bhima Koregaon case and who helps him out with PPSC work.
+
+In June this year, announcing new security features in AOL mail and Yahoo mail,Verizon had put out a press release saying it had notified tens of thousands of users – including journalists, activists and officials with sensitive information - since 2015, that they may have been targeted by a ‘government-backed’ actor.
+
+Their release said, “For many of our users, knowledge itself is also a powerful tool in account security and can even have implications for a user’s physical security. A journalist reporting on corruption of an oppressive government regime may learn that they need to take steps to ensure their digital and physical security. The same could be true for a free expression advocate challenging government censorship.We’re committed to protecting the security and safety of our users, and believe this expanded system demonstrates that commitment. As always, stay paranoid!
+
+The TAG team of Google whose daily work involves “detecting and defeating threats, and warning targeted users and customers about the world’s most sophisticated adversaries, spanning the full range of Google products including Gmail, Drive and YouTube” said that going forward it will share more technical details and data about the threats it detects and counters to advance the broader digital security discussion.
+
+The complete blog by Google’s Threat Analysis Group (TAG) can be read here.
+
+
+
+Related:
+
+The Daily Fix: If BJP government hasn’t used Pegasus Whatsapp spyware to snoop, why won’t it say so?
+
+Did GOI just admit in Lok Sabha to using Pegasus to spy on activists?
+
+What is Ravishankar Prasad Hiding on WhatsApp Hack?
+
+Who Benefits? The Question Nobody’s Asking in the WhatsApp Hacking Case
+
+Whatsapp Spyware Attack: Bhima-Koregaon activists being spied on by the Centre?
+
+Open Letter to the Government of India from Pegasus Targeted Persons

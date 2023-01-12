@@ -1,0 +1,33 @@
+Non-telecom PSUs facing AGR burden planning on joint forum
+
+New Delhi: Public sector companies such as PowerGrid, Railtel, GAIL, OIL, and DMRC may form a joint forum to oppose any move by Department of Telecommunications (DoT) to seek additional licence for their limited telecom and internet service operations on the basis of recent Supreme Court ruling on adjusted gross revenue (AGR).
+
+On October 24, the Supreme Court ruled that AGR for telcos should include all revenue accrued to carriers, including that from non-core activities, backing the DoT's stance in a 16-year-old case but putting additional licence fee burden of Rs 92,000 crore on telecom companies.
+
+While the order did not distinguish between pure play telecom players and those with very limited telecom operations for payment of licence fee under the new AGR definition, there is fear and doubt among cross-section of energy and infrastructure sector PSUs that they may also be asked to pay higher licence fee for their telecom operations by way of Internet Service Provider (ISP) and National Long Distance Service licences.
+
+"We have not been informed by any government agency so far of any change in our licence structure for limited telecom service post apex court's ruling. The broad understanding is that, we are not a telecom company and certain licences (ISP or NLD) are peripheral to our core business activity. So, revenue from our other operations should nor form part of AGR calculation for determining telecom service licence fee," said an executive of energy sector PSU asking not to be named.
+
+Another official from the Power Grid Corporation of India Ltd (PGCIL) said that the company has paid licence fee of Rs 59 crore (8 per cent of revenue) to DoT for ISP and NLD services as per the terms of the contract on telecom revenue of Rs 742 crore. Powergrid's telecom revenue is just 2 per cent of its total revenue with almost 95 of the revenue flowing from power transmission operations.
+
+"No further payment will be made to DoT and the company would fight it, if the issue is raised. We have not heard from DoT on the impact of AGR on non-telecom companies. All the non-telecom PSU are waiting for the outcome of review petitions filed by Airtel and Vodafone in the apex court. A joint forum of non-telcom PSU companies could be formed later to take all possible remedial actions if there is any revision in their telecom licence fees," said the official quoted earlier.
+
+As per industry sources, if AGR is calculated as per new DoT definition, PowerGrid itself would require to fork out over Rs 40,000 crore. The impact would be much higher for GAIL and other non-telecom PSUs. Total dues from these non-telecom companies could work out to over Rs 1.5 lakh crore.
+
+While the DoT so far has not issued any directive to these PSUs on paying up licence fee dues on new AGR definition, it has sent letters to ISPs to submit the AGR documents up to 2018-19 in Kerala circle and plans soon start sending them across the country for compliance of the Supreme Court order.
+
+The DoT has already asked operators, including ISPs and Virtual Network Operators (VNOs), to do a self-assessment of their respective dues as per the licence conditions.
+
+"Legal recourse may be taken if DoT insists on payment of licence fee dues even from non-telecom companies like us. However, being government companies, we hope that right view would be taken in our case," said an executive of another public sector company.
+
+PowerGrid, with its brand name 'POWERTEL' in telecom business, has overhead optic fibre network that uses optical ground wire on power transmission lines. The company has an all-India Broad Band Telecom Network of 39,662 km. It is also a National Long Distance Operator (NLDO).
+
+Gas transmission company GAIL has GAILTEL as its Telecom & Telemetry services arm providing communication services for its business critical pipeline Supervisory Control and Data Acquisition (SCADA) etc apart from commercially leasing telecom services to telecom operators across India. GAILTEL has laid OFC and telecom infrastructure along the NG and LPG pipeline. It has 12,000 km of OFC network connecting more than 100 towns/cities across India.
+
+RailTel Corporation, a "Mini Ratna (Category-I)" PSU, is one of the largest neutral telecom infrastructure providers in the country owning a pan-India optic fibre network on exclusive Right of Way (ROW) along railway tracks.
+
+Similarly, the Delhi Metro Rail Corporation (DMRC) is also registered as infrastructure provider category-I (IP-1) license with the DoT to establish and maintain the assets such as dark fibres, & tower for the purpose of grant on lease basis to the recognized & registered telecom license for the telecom services.
+
+
+
+

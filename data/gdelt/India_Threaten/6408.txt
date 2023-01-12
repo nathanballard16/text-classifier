@@ -1,0 +1,165 @@
+Hillicon Valley: Facebook expects up to $5B FTC fine | DHS face scanning at airports sparks alarm | New Twitter tool targets election misinformation | Lawmakers want answers on Google 'Sensorvault'
+
+Welcome to Hillicon Valley, The Hill's newsletter detailing all you need to know about the tech and cyber news from Capitol Hill to Silicon Valley. If you don't already, be sure to sign up for our newsletter with this LINK.
+
+Welcome! Follow the cyber team, Olivia Beavers (@olivia_beavers) and Jacqueline Thomsen (@jacq_thomsen), and the tech team, Harper Neidig (@hneidig) and Emily Birnbaum (@birnbaum_e).
+
+IT'S COMING: Facebook believes that a Federal Trade Commission (FTC) probe into the company's handling of the Cambridge Analytica scandal could end up costing it between $3 billion and $5 billion.
+
+The social network disclosed to investors in its quarterly earnings report on Wednesday that it had already set aside $3 billion as a legal expense. Facebook said that it had not yet reached a settlement with the agency, and it's unclear when the case would be resolved.
+
+Some context for the numbers: Any multibillion-dollar fine over privacy violations would be a record for the U.S.
+
+But it might not do lasting damage to Facebook, which revealed on Wednesday that it had made more than $15 billion in revenue through the first three months of 2019.
+
+ADVERTISEMENT
+
+Facebook's shares shot up nearly 5 percent in after-hours trading after the quarterly earnings was posted.
+
+An FTC spokeswoman declined The Hill's request for comment.
+
+Read more on the expected fine here.
+
+NOT THE FACE: Lawmakers and civil liberties advocates are calling on the Department of Homeland Security (DHS) to halt plans to begin using facial recognition technology on nearly all departing air passengers within the next four years.
+
+The agency's plan has reignited the fight over the sensitive technology. Critics say facial recognition technology is not ready for large-scale deployment and that DHS has failed to establish specific rules to prevent abuses and policies for handling the collected data.
+
+What lawmakers are saying: "The Department of Homeland Security is plowing ahead with its program to scan travelers' faces, and it's doing so in absence of adequate safeguards against privacy invasions, data breaches, and racial bias," Sen. Ed Markey Ed MarkeyNew bill would end energy poverty in the US and help families adjust to rising temperatures Carville says he'd help fundraise for potential Gallego Senate bid Overnight Energy & Environment — Court nixes offshore drilling leases MORE (D-Mass.) said in a statement to The Hill. "Homeland Security should change course and stop its deployment of facial recognition technology until it meets that standard."
+
+Markey and Sen. Mike Lee Michael (Mike) Shumway LeeSenate Republicans press federal authorities for information on Texas synagogue hostage-taker Put partisan politics aside — The Child Tax Credit must be renewed immediately These Senate seats are up for election in 2022 MORE (R-Utah) have raised these concerns with DHS over the past year, releasing statements and sending letters to the agency urging it to halt the program until it puts specific safeguards in place. So far, according to Markey's office, the department has ignored their warnings.
+
+What DHS is doing: DHS has been implementing its "biometric exit" program, which photographs some visitors when they are departing the U.S., for years, expanding to 15 major airports with plans to reach five more. President Trump Donald TrumpUS pushes for talks with North Korea after latest missile launch Democrats topped GOP in raising, spending 'dark money' from undisclosed donors in 2020: report Hutchinson warns fellow GOP governors: Talking about 2020 election a losing strategy MORE in 2017 signed an executive order speeding up the rollout of the face-scanning technology, and Congress in 2016 authorized up to $1 billion over the next 10 years to implement the program.
+
+The stated purpose of the program is to identify non-U.S. citizens who have overstayed their visas, but it captures the faces of U.S. citizens as well. The agency says it has successfully identified 7,000 people at major U.S. airports who have overstayed their visas.
+
+Read more on DHS's plans the pushback here.
+
+EVERYTHING IS FINE: Former Homeland Security Secretary Kirstjen Nielsen Kirstjen Michele NielsenUS to restart 'Remain in Mexico' program following court order Far-left bullies resort to harassing, shaming Kyrsten Sinema — it won't work Ex-Trump official: 'No. 1 national security threat I've ever seen' is GOP MORE was warned not to brief President Trump on possible Russian interference in the 2020 presidential election, according to The New York Times.
+
+Acting White House chief of staff Mick Mulvaney reportedly warned Nielsen not to bring the topic up in front of the president, despite Nielsen's concern that the Russians would attempt to influence another U.S. election.
+
+Mulvaney reportedly said it "wasn't a great subject and should be kept below [the president's] level."
+
+The reported warning came amid special counsel Robert Mueller Robert (Bob) MuellerAn unquestioning press promotes Rep. Adam Schiff's book based on Russia fiction Senate Democrats urge Garland not to fight court order to release Trump obstruction memo Why a special counsel is guaranteed if Biden chooses Yates, Cuomo or Jones as AG MORE's nearly two-year investigation of Russian interference in the 2016 presidential election, including whether Trump or his associates cooperated in the effort.
+
+Trump has raged over Mueller's probe, regularly calling it a "witch hunt" and "presidential harassment." The investigation concluded in March, finding no criminal conspiracy between the Trump campaign and Russia.
+
+Despite statements Trump has made that appear to cast doubt on whether Russians sought to influence the vote in 2016, his administration says he accepts that attempts were made.
+
+Read more here.
+
+WHO'S THE DENTIST: A U.S. official with knowledge of the Trump administration's efforts to combat Russia's election interference told CNN on Wednesday that getting the White House to pay attention to the efforts was like "pulling teeth."
+
+The official, who went unnamed, told CNN that Director of National Intelligence Dan Coats Daniel (Dan) Ray CoatsAn independent commission should review our National Defense Strategy Overnight Hillicon Valley — Scrutiny over Instagram's impact on teens Former national security officials warn antitrust bills could help China in tech race MORE feels that the White House is not being "forward-leaning enough in notifying Congress and the American people" about the need to take Russian efforts to interfere in U.S. affairs more seriously.
+
+The source said that officials have "spent months and months trying to sound alarm at the White House about the need to take foreign interference more seriously and elevate the issue," but have largely seen their pleas fall on deaf ears.
+
+The source indicated that President Trump's National Security Council has blown off requests from the Department of Homeland Security (DHS) to meet about the issue, saying DHS kept "getting the Heisman" from national security adviser John Bolton John BoltonBelarus is risking its independence for a Russia-centric foreign policy Former Trump officials plotting effort to blunt his impact on elections: report Equilibrium/Sustainability — Fire calls infrastructural integrity into question MORE and his staff.
+
+"In general, senior White House staff felt it wasn't a good idea to bring up issues related to Russia in front of the president," the unnamed official continued.
+
+Read more here.
+
+IT'S NOT EVEN WORTH IT: The National Security Agency is recommending that the White House officially end the agency's mass collection of U.S. phone data, according to The Wall Street Journal.
+
+Sources told the Journal that the NSA has concluded that the program, which gathered metadata on domestic text messages and phone calls, is too burdensome to maintain.
+
+The White House has final jurisdiction over the matter and will ultimately decide whether to push for legislation to renew the program's legal authority, often referred to as Section 215. Sources told the Journal that the White House has not decided what it will do.
+
+The White House did not immediately respond to The Hill's request for comment.
+
+Reports have emerged for months that the NSA has been shuttering the program amid technical difficulties.
+
+Privacy hawks in Congress and civil liberties advocates had been gearing up for a battle on Capitol Hill over the reauthorization of the USA Freedom Act – Congress's 2015 response to former NSA contractor Edward Snowden's bombshell disclosures.
+
+A group of bipartisan lawmakers last month introduced a bill that would end the program for good and take away the NSA's authority to restart it.
+
+Read more on the controversial program's expected end here.
+
+TWEET IT OUT: Twitter on Wednesday announced it is launching a new tool that will allow users to report content promoting misinformation ahead of elections.
+
+The feature will be rolled out this month in India and the European Union for their elections.
+
+The reporting tool allows users to flag content that could mislead citizens about how, where and when to vote. The company said the mechanism will aid in its efforts to crack down on misinformation that aims to deter voter participation.
+
+Twitter's announcement comes as the social media platform ramps up its efforts to remove the scourge of misinformation and divisive content targeting voters around the world.
+
+Read more here.
+
+FACEBLOCK: The American Civil Liberties Union (ACLU) is threatening to sue a New York congressman for allegedly blocking his own constituents on Facebook.
+
+The ACLU's New York chapter sent a letter to Rep. Pete King Peter (Pete) KingBiden pays homage to Obama by rocking tan suit during birthday week Newsmax anchor Greg Kelly to host New York radio show Top GOP lawmakers call for Swalwell to be removed from Intelligence Committee MORE (R-N.Y.) on Wednesday arguing that blocking users from viewing his page or commenting on his posts deprives them of constitutional rights.
+
+"Silencing these voices is an affront to the First Amendment and to the core values of our democracy," the group wrote. "If you do not unban these constituents promptly, we intend to file a federal lawsuit to vindicate their rights."
+
+The letter includes a list of King's constituents who say they were banned from the "Congressman Peter King" Facebook page after posting critical comments. According to the ACLU, about 70 users have been blocked from the page.
+
+King responds: In a phone interview with The Hill, King said he is free to moderate the Facebook page because it is an extension of his campaign and not a part of his official capacity as a government official.
+
+For official communications, King says he uses a Twitter account.
+
+"Why should I have to give the opposition the opportunity to attack me on something I paid for," King said. "If they want to contact me the government Twitter account is there."
+
+Read more here.
+
+SAME: White House counselor Kellyanne Conway Kellyanne ConwayKellyanne Conway memoir set for May release Pennsylvania Republican David McCormick launches Senate campaign McCormick drawing support from Trump alumni ahead of Pennsylvania Senate bid MORE on Wednesday said President Trump is "very concerned" about people "losing followers" in response to a question about his meeting the day before with Twitter CEO Jack Dorsey.
+
+"The president's very concerned about what he sees as losing followers or people being blocked from certain actions," Conway told reporters outside of the White House. "That's obvious. Some of you have bothered to cover it."
+
+Trump during the Oval Office meeting with Dorsey on Tuesday reportedly raised concerns that he has been losing Twitter followers, one element of his ongoing allegations that social media platforms – including Twitter – discriminate against conservatives, according to The Washington Post and The Daily Beast.
+
+Dorsey reportedly told Trump that high-profile accounts routinely lose followers as Twitter removes bots and spam accounts from its platform, adding that he himself has lost followers in those purges.
+
+Read more here.
+
+ALEXA, STOP IT: Amazon employees charged with auditing Alexa users' commands can access customer location data and home addresses, according to Bloomberg.
+
+The Alexa review team is based on three continents and transcribes, annotates and evaluates a percentage of voice recordings Alexa picks up, to help the digital voice assistant adapt to and respond to commands, according to Bloomberg, citing five employees familiar with the program.
+
+But the employees told Bloomberg that access to Alexa customers' geographic coordinates can easily be used to find home residences through third-party mapping software. While there is no evidence that the data has been used to locate individual users so far, members of the team told Bloomberg they were concerned Amazon was granting overly broad data access that could easily be used to identify individual users.
+
+"Anytime someone is collecting where you are, that means it could go to someone else who could find you when you don't want to be found," Lindsey Barrett, a staff attorney and teaching fellow at Georgetown Law's Communications and Technology Clinic, told the publication.
+
+While much of the information stored by the software can't be traced back to individual users, Amazon also collects location data to allow Alexa devices to answer requests specific to local conditions such as restaurants or weather. An Amazon team member gave Bloomberg a demonstration in which they pasted a user's coordinates into Google Maps and were able to find their address.
+
+Read more here.
+
+STOP FOLLOWING ME, GOOGLE: Top members on the House Energy and Commerce Committee are calling for answers from Google CEO Sundar Pichai on the tech giant's "Sensorvault," which holds the precise location information of hundreds of millions of consumers.
+
+In a bipartisan letter sent to Pichai on Tuesday signed by Chairman Frank Pallone Jr. Frank Joseph PalloneLawmakers discussing potential compromise to revive drug pricing measure House Democrats announce bill to rein in tech algorithms House Democrats ramp up probe of FDA approval of Alzheimer's drug MORE (D-N.J.), the lawmakers expressed concerns over consumer privacy, citing a report by The New York Times that the database contains the information of almost every Android user.
+
+Such information has been used in the past by police for criminal cases.
+
+Users of the devices can essentially have their "whole pattern of life" tracked, since the data is collected even when apps aren't being used and calls aren't taking place, the lawmakers noted in their letter.
+
+"The potential ramifications for consumer privacy are far reaching and concerning when examining the purposes for the Sensorvault database and how precise location information could be shared with third parties," they wrote. "We would like to know the purposes for which Google maintains the Sensorvault database and the extent to which Google shares precise location information from this database with third parties."
+
+Read more here.
+
+COME ON IN, THE 5G'S FINE: Great Britain will reportedly allow Chinese telecommunications giant Huawei to build parts of its 5G network, snubbing repeated claims from the Trump administration that Huawei poses an insurmountable security threat.
+
+The United Kingdom will allow Huawei restricted access to its next-generation wireless network, according to The Daily Telegraph, after the U.S. asked its allies to refuse to incorporate Huawei products into their infrastructure.
+
+Huawei, the largest producer of telecommunications equipment in the world, will reportedly be allowed to build noncore parts of the U.K.'s 5G infrastructure, including antennas.
+
+The U.S. has cast Huawei as a national security threat, alleging that its technology can be accessed by Chinese intelligence, and has asked U.S. allies to institute a ban on its products.
+
+The CIA recently accused Huawei of being backed by China's state security apparatus.
+
+A source told Reuters that the U.K. would block Huawei from "core" parts of its 5G network while restricting access to other parts.
+
+Read more here.
+
+AN OP-ED TO CHEW ON: Defending the nation in cyberspace -- a call to action.
+
+A LIGHTER CLICK: Give us the killer bird.
+
+NOTABLE LINKS FROM AROUND THE WEB:
+
+Scammers have turned Instagram into a showroom for luxury counterfeits. (NBC News)
+
+'It's not play if you're making money': how Instagram and YouTube disrupted child labor laws. (The Guardian)
+
+Human rights activists say these videos show violent kidnappings--and Facebook isn't taking them down. (Mother Jones)
+
+Mark Zuckerberg Mark ZuckerbergFacebook winding down cryptocurrency effort: report Can our nation afford higher interest rates with the current national debt? Hillicon Valley — States probe the tech giants MORE has a podcast now. (The Verge)

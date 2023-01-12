@@ -1,0 +1,53 @@
+NTPC v. Voith Hydro Joint Venture: Force Majeure Clause v. Impossibility Under Section 56?
+
+ARTICLE
+
+To print this article, all you need is to be registered or login on Mondaq.com.
+
+Recently in NTPC v. Voith Hydro Joint Venture, 2019 SCC Online Del 9014, the High Court of Delhi ("Court") made certain important observations with respect to the scope and application of Section 56 of the Indian Contract Act, 1872 ("Contract Act"). Section 56 of the Contract Act stipulates that a underlying contract is rendered void when obligations under an agreement become impossible to perform or where occurrence of an unforeseeable supervening event frustrates performance of the agreement. In this case, the Court affirmed the decision of the arbitral tribunal and ruled that Section 56 of the Contract Act would not prevail over the provisions of the contract, where the contract itself contains a force majeure clause.
+
+Facts:
+
+NTPC and a Voith Hydro Joint Venture ("Voith") entered into three distinct contracts, emanating from bids for an electro mechanical package for executing a hydro-electric project (Loharinag Pala Hydro Electric Power Project) ("Project") on the Bhagirathi river. Due to widespread protest against the Project, the National Ganga River Basin Authority ("NGRBA"), a government entity set up by the Ministry of Power, scrapped the Project. Accordingly, NTPC informed Voith that in view of the decision of the NGRBA to scrap the Project, the contract stood frustrated and called upon Voith to return the outstanding advances. On the other hand, Voith disputed that the contract stands frustrated and asked NTPC to return the bank guarantees furnished by Voith. NTPC was also called upon to withdraw its request to return of advances given to Voith. The dispute between the parties was referred to arbitration.
+
+The tribunal rejected NTPC's contention on the ground that NTPC was not relieved of its obligations under the contract, as the contract could not have been frustrated in terms of Section 56 of the Contract Act. It was held that since NTPC did not invoke the force majeure clause, the contract stood terminated in terms of the 'termination for convenience' clause under the contract. The Tribunal also rejected NTPC's contention that in light of the decision of the NGRBA to scrap the Project, the contract had been rendered unlawful within the meaning of Section 23 of the Contract Act.
+
+The award was challenged by NTPC before the High Court of Delhi under Section 34 of the Arbitration and Conciliation Act, 1996 ("A&C Act").
+
+Scope of Section 56 of the Contract Act:
+
+The primary grounds of challenge by NTPC were as follows:
+
+The tribunal erred in holding that the contractual provisions prevailed over Section 56 of the Contract Act. It was argued that in view of the decision of the Supreme Court in Satyabrata Ghose v. Mugneeram Bangur & Co., AIR 1954 SC 44 (" Satyabrata Ghose ") and Energy Watchdog v. CERC, (2017) 14 SCC 80 (" Energy Watchdog "), Section 56 of the Contract Act was a positive law and the dispute/matter cannot be left to be determined according to the intention of the parties.
+
+") and Energy Watchdog v. CERC, (2017) 14 SCC 80 (" "), Section 56 of the Contract Act was a positive law and the dispute/matter cannot be left to be determined according to the intention of the parties. Despite the tribunal acknowledging that the decision of the NGRBA was 'law' within the meaning of clause 9.4 of General Conditions of Contract ("GCC"), it erroneously held that the contract was terminated pursuant to a 'termination for convenience' clause in the contract. It was argued that NTPC did not terminate the contract as it stood frustrated due to the decision of the NGRBA to scrap the project.
+
+The Delhi High Court rejected NTPC's contentions and affirmed the tribunal's award. It was held that where parties have expressly contemplated the consequence of a supervening event in a contract, the terms of such provision would remain binding and parties would not be absolved from their obligations under the contract. In other words, where there exists a force majeure clause in the contract, the parties would be bound by such a clause and would be precluded from relying on Section 56 of the Contract Act to escape performance of the contract. In the facts of this case, since parties had not relied on a force majeure clause in the contract, the Court was of the view that they cannot now seek to rely on Section 56 of the Contract Act.
+
+The Court also relied on a previous judgment of the Supreme Court in India, Satyabrata Ghose to state that where the parties contemplate the possibility of an intervening circumstance that might affect the performance of the contract, there can be no recourse to frustration under law. This is because the basis of the contractual provision agreed by the parties is to demand performance, despite the occurrence of a particular event. The contract does not become frustrated on the happening of such an event.
+
+Comment:
+
+The Delhi High Court has once again reaffirmed the doctrine of party autonomy by way of this judgement.
+
+The judgement has differentiated between the concepts of impossibility under Section 56 of the Contract Act and a force majeure clause in the contract. Where parties have mutually agreed on a course of action under the contract, parties are estopped from taking a recourse dehors the contract, as the same would amount to diluting the binding effect of the contract.
+
+The Court's decision in Voith Hydro Joint Venture makes it difficult for parties to escape performance of the contract by merely relying on Section 56 of the Contract Act, when the contract itself contains a detailed force majeure clause setting out the course to be followed and its consequences in case of the occurrence of an unforeseeable supervening eventuality.
+
+It is also interesting to note that some High Courts have previously held1 that parties cannot contract out of the application of the Contract Act. The basis of these judgments is that the scheme of the Contract Act allows parties to envisage and cover under contractual provisions, only those events that are not contrary to or inconsistent with the Contract Act. Various provisions under the Contract Act are prefaced with 'in absence of a contract to the contrary' or 'unless otherwise provided'. High Courts have repeatedly held that when a provision under the Contract Act does not contain such a stipulation, it would not be open for parties to contract out of the applicability of such a provision.
+
+The judgment rendered in Voith Hydro Joint Venture, which relies on Satyabrata Ghose and Energy Watchdog, seems to have carved out an exception to the application of Section 56 of the Contract Act in the form of a force majeure clause. However, Section 56 of the Contract Act does not contain phrases such as 'in absence of a contract to the contrary' or 'unless otherwise provided', and this aspect does not appear to have come up in the arguments before Court.
+
+On a separate issue, it can be seen that the tribunal has clearly stated that the decision of the NGRBA is binding on the parties as a matter of law. This is important because Section 56 of the Contract Act also stipulates, that a contract to do an act which subsequently becomes "unlawful" renders the underlying contract as void. However, the judgment does not dwell into this aspect in detail.
+
+NTPC could have also argued that the NGRBA's decision to scrap the Project altered the fundamental basis of the contract, which incapacitated the parties from adhering to obligations under the contract. The Supreme Court of India has previously in Naihati Jute Mills Ltd. v. Khyaliram Jagannath, AIR 1968 SC 522 ("Naihati Jute Mills") as also in Satyabrata Ghose and Energy Watchdog, has made observations with regard to the application of Section 56 of the Contract Act when the edifice/fundamental basis of the contract of the contract gets altered/affected.
+
+It has been held in these cases that when the very foundation of the contract gets disrupted/becomes impossible to perform, due to either the destruction of the subject matter or by reason of a long interruption or delay, the same changes the nature of the contract and would be contrary to what parties had originally contemplated at the time of entering into the contract. Courts have held that such events or change of circumstances, which are so fundamental, to be regarded by law as striking at the root of the contract, would be covered under Section 56 of the Contract Act. These judgements could also have been helpful for the Court to consider in Voith Hydro Joint Venture.
+
+Ultimately, it would lie for consideration by a Court whether the existence of a force majeure clause in a contract, would have the effect of an automatic exclusion of the general application of Section 56 of the Contract.
+
+Footnote
+
+1. The Official Assignee v. Madholal Sindhu, AIR 1947 Bom 217; Mahendrakumar Chandulal vs. Central Bank of India, 1983 GLH 1125
+
+The content of this article is intended to provide a general guide to the subject matter. Specialist advice should be sought about your specific circumstances.

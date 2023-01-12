@@ -1,0 +1,107 @@
+Facebook’s fact checkers: Post-Pulwama, three out of seven partners have shared misinformation
+
+“We are committed to fighting the spread of false news on Facebook, especially ahead of the 2019 general election campaign season,” Manish Khanduri, Facebook India’s news partnership head, said in a statement in February. Last month, the tech giant added five new partners to its fact-checkers network in India, bringing up the total to seven. The aim of the programme is to verify the authenticity of information via third-party partners who can rate a story false and prevent further dissemination.
+
+However, three of the seven fact-checking partners of Facebook – India Today, Dainik Jagran and Newsmobile – have been found circulating misinformation post-Pulwama terror attack on February 14 that left 44 Central Reserve Police Force personnel dead. In most cases, these outlets either failed to take down their misreports or add a clarification to their updated articles.
+
+India Today Group
+
+
+
+1. 2017 video used to portray IAF jets in Balakot airstrike
+
+After 44 CRPF jawans were killed by the terrorist group Jaish-e-Mohammed on February 14, the Indian Air Force retaliated by an airstrike on February 26 in Balakot, Pakistan. India Today reported the event using a video purported to be of IAF jets inside Pakistani territory.
+
+According to reports, the air strike was conducted at around 3.30 am on February 26. Alt News found that this video, used by India Today to report the attack by IAF, was first posted in 2017.
+
+Play
+
+Alt News had debunked India Today’s misleading reportage the day it was broadcasted. The news channel is yet to take it down or put out a clarification.
+
+2. Photoshopped image used to show ‘slain terrorist’ of Pulwama attack
+
+On February 18, news broke out that the mastermind of the Pulwama terror attack was gunned down in an encounter. According to reports, Jaish commander Abdul Rashid Ghazi alias Kamran was killed after a 12-hour long encounter with security forces. The news was reported by several media organisations, including India Today, that also carried a photograph purported to be of the slain Jaish commander.
+
+The photograph used by India Today was made using a photo software application. Abdul Rashid Ghazi’s face was superimposed on the template, found Alt News.
+
+India Today later took down the photoshopped image and updated its article with a clarification.
+
+3. ‘Bodies shifted from Balakot after IAF airstrike’
+
+On March 13, India Today carried an ANI report that was based on a tweet by a Gilgit activist Senge Hasnan Sering. He claimed while citing a video that a Pakistani military officer admitted the “martyrdom of 200 terrorists”.
+
+Alt News had debunked the claims made in Sering’s tweets. The video posted was neither from Balakot nor did it represent the Pakistani army admitting to the casualty of 200 terrorists. The audio commentary itself was sufficient to establish that the Pakistan army personnel were talking about the death of only one person.
+
+Alt News reached out to sources in the Pakistani media who informed that the man who died was a civilian porter, Ehsanullah. He suffered a heart attack on February 28 while assisting an army unit. Ehsanullah’s funeral rites took place on March 1 in Singhara Darora, Upper Dir district of Khyber Pakhtunkhwa province in Pakistan. We checked on Google maps that Balakot is at least 300 km away from the said location. The video posted below is the footage of Ehsanullah’s burial, which contains imagery from the video posted by Sering.
+
+Despite our fact-check, India Today is yet to clarify that the tweet cited in its report was based on an unrelated, thus, misleading video.
+
+4. ‘300 terrorists killed in Balakot airstrike’
+
+Joining the bandwagon of media organisations declaring that “according to sources, 300 terrorists were killed in Balakot airstrike” was India Today in its February 26 broadcast.
+
+While this reportage wasn’t a classic case of misinformation, it was undoubtedly premature and misleading. Besides a lack of ground reports and visual evidence, there was no official announcement made by the government on the number of casualties in the Balakot airstrike. Yet, India Today ran a story based on an unverified number. The latest update on the number of casualties is Defense Minister Nirmala Sitharaman’s statement that the government will not provide a figure.
+
+5. 2015 image used as downed IAF plane in Balakot airstrike
+
+India Today group member Aaj Tak was also found circulating misinformation post-Pulwama attack. On February 27, the media organisation published a report titled – “Pak claims – two Indian aircraft shot down, 1 pilot arrested alive” – using an image of a downed plane captioned “MiG plane crash”.
+
+Alt News had found that the image of the aircraft which was claimed to have crashed near the LoC in Pakistan was three years old and pertained to an Indian Air Force fighter trainer aircraft that had crashed in Mayurbhanj district of Odisha.
+
+Aaj Tak has now changed the photograph, without clarification, but an archived version of the article can be seen here.
+
+Jagran Media Network
+
+A recently launched fact-checking initiative – Vishvas News – partnered with Facebook in February. Vishvas News is a part of Jagran Media Network, the parent organisation of the Hindi daily Dainik Jagran.
+
+Post-Pulwama terror attack, Dainik Jagran was found publishing misreports.
+
+1. The Hindi media outlet ran a story on
+
+“300 terrorists killed in Balakot” on the front page of its February 27 Delhi city print edition.
+
+As mentioned earlier, the figure was premature and misleading, and the government has denied giving a figure on the casualties. But the report, also carried on its website, has not been corrected by Jagran.
+
+2. Another misleading reportage that has been debunked earlier in this article was the story on “bodies shifted from Balakot after IAF airstrike”. On March 13, Dainik Jagran published an article titled “A strong retort for those asking for proof of airstrike, Gilgit activist discloses where the dead bodies of terrorists are.”
+
+After Alt News’s fact-check story revealing that the Gilgit activist’s tweet was replete with misleading claims, Dainik Jagran changed its story. An archived version of its initial report can be read here.
+
+Jagran’s altered story was also factually incorrect. The news organisation now claimed that the “Gilgit activist shared a six-year-old video to give proof of Indian airstrike.”
+
+While Jagran claimed in its headline that the video was six years old, the content of the report revealed that the media outlet did not vouch for the information’s authenticity. In fact, it vaguely wrote that “it is being said that the video is old”.
+
+The truth is that the video was not old. It just did not represent the aftermath of Balakot airstrike. As debunked in this article earlier, the video depicted the funeral rites of a man who died on March 1 in Singhara Darora, Upper Dir district of Khyber Pakhtunkhwa province in Pakistan. Alt News’s detailed investigation on the footage can be read here.
+
+Dainik Jagran has also published misreports prior to the Pulwama terror attack.
+
+Newsmobile
+
+1. Another one of Facebook’s fact-checking partners, Newsmobile reported the unverified “300 terrorists killed” figure on February 27. Needless to say, there have been no official statements from the government supporting this figure.
+
+2. Astro predictions
+
+This is what the ‘About Us’ section of Newsmobile says – “…our aim is to highlight stories that impact people and present credible and fact-checked stories to our readers”. But ironically, the outlet publishes weekly Astro predictions.
+
+Astro prediction is the belief that celestial phenomenon affects human activity on Earth. NASA had rejected it as a pseudoscience and said that nothing proves that astrology “can be used to predict the future or describe what people are like based on their birth dates”.
+
+It is rather peculiar for a dedicated fact-checking outlet to publish predictions based on “sun signs” that have no scientific explanation. Any information without a factual backing is as good as misinformation.
+
+Is Facebook putting up a sincere fight against fake news?
+
+The deaths of 44 CRPF soldiers, the airstrike in Balakot and the capture of Wing Commander Abhinandan caused India’s citizens to become emotionally invested in the political turmoil between India and Pakistan. That the misreports were published by fact-checking outlets at a time when public emotions were most susceptible to getting misled is unfortunate.
+
+When mainstream media fails to rightly inform, the burden falls on fact-checking portals to present accurate information. The dynamics, however, completely change if fact-checking outlets, claiming to debunk misinformation, are associated with the ones circulating misinformation.
+
+Alt News had debunked the video claiming “200 terrorists killed in Balakot” the day it was reported in the media. None of Facebook’s fact-checking partners has, however, put out a clarification on the misreporting. Dainik Jagran instead claimed that the video was six years old, which was also untrue.
+
+Misinformation of this sort could be easily avoided with verification of facts and delayed reportage in case of incomplete verification. Since neither was practised by media outlets, the authenticity of the fact-checking division of the same outlets is questionable. Can organisations that are in the profession of presenting the fastest news to maximum people in the shortest possible time do justice to fact-checking?
+
+As a dedicated fact-checking outlet, Alt News confirms every aspect of a story despite the possibility of delay in reportage. Post-Pulwama alone, we debunked at least 30 instances of misinformation. That the same can be expected out of mainstream media is far-fetched.
+
+With a booming industry of misinformation on Facebook, the platform partnering with fact-checking websites is appreciated. However, when such partners are found to be contributors to misinformation, the question arises – is Facebook sincere in its efforts to curb fake news?
+
+Brooke Binkowski, the managing editor of American fact-checking website Snopes – a former fact-checking partner of Facebook, told The Guardian that Facebook “essentially used us for crisis PR. They’re not taking anything seriously. They are more interested in making themselves look good and passing the buck… They clearly don’t care.”
+
+Snopes pulled out of Facebook’s fact-checkers network last year.
+
+This article frist appeared on AltNews.in.

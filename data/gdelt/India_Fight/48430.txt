@@ -1,0 +1,73 @@
+Shades of REDD+: Bridgig the National vs Project Divide
+
+Charlotte Streck
+
+Efforts to reduce tropical deforestation are divided into two separate worlds: One that believes that governments need to lead any effort on reducing emissions from deforestation and degradation (REDD+), and one that sees a role for private carbon projects. We must unify these worlds to increase the chances to curb deforestation.
+
+21 October 2019 | We must tackle tropical deforestation if we’re to meet international climate and biodiversity goals, and to do so we must confront humankind’s hunger for the food, fuel and fiber that drives deforestation. This is a daunting task and excruciatingly difficult. Cooperation in addressing deforestation seems to be essential, offering win-win outcomes for governments and private investors. However, a look at the history tropical forests’ inclusion under the climate regime shows that agreeing on how to create incentives for reducing deforestation has been hard. From the beginning, a private sector-driven vision clashed with one that sought to empower governments, often one at the expense of the other. Here I argue that, if we are to conserve forests, we need both private direct investment and national plans, and the challenge is bringing them into alignment.
+
+Addressing Deforestation Under the Climate Regime
+
+Attempts to address deforestation under the international climate regime date back to the adoption of the UN Framework Convention on Climate Change in 1992. However, the Convention did not define country-specific obligations or create specific mechanisms and, with regard to forests, only asked countries to ‘promote and cooperate in the conservation and enhancement, as appropriate, of sinks and reservoirs of all greenhouse gases’.
+
+It was the task of the 1997 Kyoto Protocol to translate the Convention into a concrete mitigation architecture based on targets for industrialized countries that, at that time, were responsible for the bulk of emissions. The Kyoto Protocol required that developed countries account for their emissions from deforestation under their binding reduction targets but failed to create incentives for developing countries to protect their vast forest estates. Since the Kyoto Protocol did not assign emission limitation obligations to developing countries, the only way developing countries participated in its formal mitigation framework was through sponsoring or approving Clean Development Mechanism (CDM) projects. The inclusion of ‘avoided deforestation’ into the CDM – as suggested by a number of negotiators – would have allowed public and private actors to generate offset credits through investments in protecting tropical forests.
+
+A number of developing countries were eager to see reduced deforestation be rewarded with carbon credits. However, allowing carbon credits to be awarded to avoided deforestation projects sparked controversy. Brazil feared that it would lose control over the Amazon by linking it to offset markets (a fear that prevails until today). Many governments, primarily in Europe, and civil society worried that reducing deforestation would be easy (the contrary proved to be true) and would serve as a substitute for the needed decarbonization in other sectors. Finally, there were worries about the lack of accuracy in measuring and monitoring forest carbon; the potential for reversals, i.e. that forests could be cut down after receiving credit; and leakage of emissions, i.e. the risk of displacement of deforestation from the project site to other areas (worries that have been diminished but persist). In the end, avoided deforestation was excluded from the CDM.
+
+In December 2005, when negotiations on a post-Kyoto agreement began, Papua New Guinea and Costa Rica revived the discussion on avoided deforestation. The two countries put forward a submission to consider whether and how incentives to reduce deforestation could be included in the future climate regime. The proposal to avoid or slow deforestation was welcomed by the global community as one of the first internationally publicized developing country-proposal to make a quantifiable contribution to scaled-up mitigation efforts under the UNFCCC and led to the adoption of a Warsaw Framework of ‘Reduced Emissions from Deforestation and forest Degradation’ (REDD+) in 2013.
+
+Putting Trust in Different Actors: CDM and REDD+
+
+However, the theory of change that supported ‘avoided deforestation’ had shifted since the adoption of the Kyoto Protocol, and this fundamentally influenced the design of REDD+. As it goes when actors and Zeitgeist change, the departure from previous discussions was complete and radical to the point that it ignited a dispute within the forest community which continues to smolder until today – and still triggers occasional disruptions. Let me explain.
+
+The CDM put its trust in the ability of non-state actors to identify and mobilize emission reduction opportunities. Consequently, the vast majority of CDM projects were developed by private actors who developed projects in renewable energy or waste sectors in developing countries and sold certified carbon credits primarily to EU actors that sought to use CDM credits to meet regulatory obligations to reduce greenhouse gas emissions. The role of developing country governments in the CDM was limited to confirming that a project contributed to the country’s sustainable development.
+
+The CDM received a lot of criticism over the years1 but also brought about benefits unusual for international treaties: It created a vibrant carbon market, motivating private (for-profit and non-for-profit) actors and empowering local communities around the globe to actively engage in climate mitigation through the implementation of carbon projects.2 What the CDM did not do – and never was designed to do – was motivate governments to adopt climate policies. The relative independence of the CDM catalyzed private actors in countries with weak governance to take action, but it failed to create similar incentives for governments. The CDM operated as a truly bottom-up carbon market mechanism.
+
+When REDD+ was negotiated, the clear intent was not to build on the CDM, but rather to design a mechanism that put governments front and center of the action. Its underlying assumption was that governments had so far failed to put in place the regulatory and policy frameworks that would protect forests due to a lack of, mainly financial, incentives. If they received the promise of payments upon delivering forest conservation results, they would be properly motivated and do what was necessary to conserve their tropical forests. Consequently, REDD+ does not speak about ‘projects’ or ‘private entities’ but suggests that governments should take the lead in reducing deforestation through implementing a wide range of forest and land planning policies, including payment for ecosystem services, tenure reform, forest sector and forest restoration programs, stronger standards for the production of deforestation-free commodities, and support for improved productivity and organization in smallholder systems. They would then be paid – ideally ex-post – for their performance in terms of reduced emissions from deforestation.
+
+REDD+ willfully ignored projects and replaced the carbon market-based sensibility of the CDM with a system that relies on a comparatively soft set of guidelines and principles formulated in the Warsaw Framework for REDD+. (Note that stringency may be added if REDD+ is included in the system of cooperative approaches under Article 6 of the Paris Agreement, but this is uncertain and a topic for a future blog post.)
+
+It is important to mention that, despite the clear desire of some negotiators, REDD+ did not eliminate ‘avoided deforestation projects.’ Forest projects have remained a popular project class in voluntary markets, not least due to their many co-benefits, such as biodiversity or watershed protection, but also for their strong links with local communities and livelihoods. The recent investments of big oil companies into forest carbon and ‘nature-based climate solutions’ that we discussed in our last blog post demonstrates that forest projects have not lost their lure.
+
+In sum, the regulatory transition from the CDM to REDD+ played out on three fronts: from a focus on private actors to a focus on governments; from project scale to national scale; and from a market-driven, regulatory approach to government-to-government payments for results.
+
+Why REDD+ and Carbon Markets Should Coexist
+
+Today, as the limitations of REDD+ become obvious3, one can only wonder why international negotiators thought in such a binary system (national or project-level) and failed to confront the reality that is obvious to many operating on the ground: forests can only be protected by creating complementary incentives for public and private actors. An international system that discriminates against one or the other is by definition weaker than a system that creates incentives for all actors with the means and the ability to protect forests.
+
+Without a doubt, governments must act as guardians of the forests and of the people depending on forests for their livelihoods. But governments have proven to be shaky partners – for other governments, even more so for local citizens and civil society, and most disappointingly for local communities and indigenous peoples. This does not mean that efforts to engage governments should be reduced – on the contrary. Building robust institutions makes them less vulnerable to corruption, more accepted, and less likely to be dismantled.
+
+But their fickleness also means that relying on governments alone to solve the deforestation crisis is prone to failure. Tropical forest governments more often than not fail to prioritize conservation and sustainable rural development over the desires of powerful economic lobbies. Even where political will does exist, governments often lack the means to confront deforestation. Whether it is the Colombian Amazon, the Central American forest corridors, or the vast forests of the Congo Basin, government institutions at the forest frontier are often weak or absent.
+
+Civil society and the private sector play important roles in protecting forests. Corporations and financial institutions are important agents of deforestation and carry the responsibility to make their investments and supply chains forest- and climate-proof. When it comes to carbon markets, private project developers are more flexible and nimbler than governments and hold the potential to contribute to reduced deforestation in areas beyond governments’ reach. As project developers, their efforts may be limited in scope and territory (even though some projects cover large areas), but they are often the only efforts that provide local communities with alternative sources of income or seek to implement community forestry. Most of these projects depend on donor funds and private donations, which can be fickle. Selling carbon credits can sometimes offer these programs a lifeline to raise new funding and – at least temporarily – become independent from donations.
+
+The solution is the integration of carbon projects into national REDD+ systems. If projects are ‘nested’ within national accounting frameworks, they may attract carbon market finance while the environmental integrity of the system is protected: Double counting can be avoided, reference levels adjusted, and leakage captured. If government systems fail, projects should be able to survive; and where projects falter, government action may still protect forests. This double-track strategy also allows tapping into different sources of funding. Governments could benefit from public results-based-payment programs, capacity building, and policy support, while projects could attract funds from philanthropies and private investors. Together with investments into supply chains, green credit lines, subsidy reform, and demand-side measures, this integration could bring us a long way towards the proposed Marshall Plan for forests.
+
+It is time for REDD+ policymakers to recognize that the system needs to rest on two pillars: technical and financial support to tropical forest governments that have proven they have the political will and regulatory ambition to protect tropical forests; and clear recognition in policy and action of private actors and civil society that work towards forest conservation on the ground. International and national systems must be adjusted accordingly. Let’s bridge the decade-old divide and marry the bottom-up and top-down world views on REDD+!
+
+Support Our Work
+
+All environmental challenges are, at their core, pricing challenges: for, if the cost of environmental degradation were embedded in the cost of production, we’d fix this mess overnight.
+
+That’s as true in climate as it is in water and biodiversity, which is why Ecosystem Marketplace has been covering the interplay between economy and ecology since 2005 – long before it was trendy. If you like our work and want to see more of it, then pitch in to help us increase our coverage at this critical time.
+
+You can help out with a one-time donation, or become a sustaining member for as little as $1 per month.
+
+
+
+
+
+
+
+Sign up for E-Mail Alerts
+
+More on the Bionic Planet Podcast
+
+You can also follow our coverage of REDD+ on the Bionic Planet Podcast, which is avaiable on iTunes, TuneIn, Stitcher, and on this device here:
+
+[1] For many : M. Cames et al. (2016), How additional is the Clean Development Mechanism? Study prepared for DG CLIMA, Ref: CLlMA.B.3/SERl2013/0026r; Agarwal, A. (2016), How sustainable are forestry clean development mechanism projects?—A review of the selected projects from India, Mitigation and Adaptation Strategies for Global Change January 2014, Volume 19, Issue 1, pp 73–91
+
+[2] For many: J. Ellis et al. (2007), CDM: Taking stock and looking forward, Energy Policy 35 (2007) 15–28.
+
+[3] Until today, only very little money has been disbursed to reward REDD+ results. The World Bank’s Forest Carbon Partnership Facility (FCPF) has only signed three Emission Reduction Payment Agreements and has not disbursed results-based funding. Tropical deforestation continues to rise.

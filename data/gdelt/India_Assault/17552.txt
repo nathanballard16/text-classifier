@@ -1,0 +1,85 @@
+Secret weapon: the F-INSAS programme
+
+As a leading light of the BRICS group of rapidly developing countries, India’s burgeoning economy is quickly catching up with countries in Europe and North America.
+
+Just as India’s economy is expanding and modernising, moving ever further from its agrarian roots, the Indian Government is looking to bring cutting-edge 21st-century technology to its million-strong armed forces. According to some reports, the Indian Ministry of Defence (MoD) has been supporting around 600 modernisation initiatives for the Indian Army in the country’s 11th five-year plan (2007-2012).
+
+Current large-scale modernisation plans include the tactical communications systems programme to build a digital network connecting regiments and battalions to army headquarters, as well as the battle management system project to integrate the communications of the country’s army, navy and air force.
+
+Creating 21st-century warriors
+
+One of the biggest of these projects is F-INSAS (Futuristic Infantry Soldier as a System), a multibillion dollar programme to turn India’s infantrymen into fully networked, digitised, self-contained 21st-century warriors.
+
+Related
+
+The scheme, which is reportedly scheduled to be rolled out in stages between 2012 and 2020, has been described by Indian defence officials as similar in scope and objectives to infantry modernisation projects such as the US Army’s Future Force Warrior initiative.
+
+Data, insights and analysis delivered to you View all newsletters By the Army Technology team Sign up to our newsletters Sign up here
+
+F-INSAS can trace its roots back to 2007 and even before; however, there is still very limited information available about the project. With little government communication on the initiative and widespread confusion about its progress, doubts have been raised as to whether F-INSAS is on track to meet its goals.
+
+Royal United Services Institute (RUSI) military and intelligence research fellow Mark Phillips characterises the Indian MoD as suffering from a "lack of expertise", leading to scattershot development and a lack of clear long-term goals for projects like modernisation schemes.
+
+"The Indian Administrative Service is composed of generalists who have no functional expertise, which results in constant reinvention of the wheel and a lack of capacity to evaluate long-term issues like defence planning and military capabilities," he says. "This is despite the fact that civil servants maintain considerable control of financing. Bureaucrats focus on the process of decision-making instead of the outcome."
+
+We picked through the tangle of F-INSAS data to compile everything we know about this troubled but potentially revolutionary R&D project and its current status.
+
+F-INSAS’ goals
+
+The overarching goals of the F-INSAS programme, which took shape in 2007 after several years of planning, combine a host of soldier-mounted technologies with the aim of creating a new generation of Indian infantry with better communications, lethality, survivability and situational awareness.
+
+The F-INSAS roadmap, laid out by Indian defence officials at the project’s outset, states that the new system will be supplied to eight to ten infantry battalions (up to 10,000 soldiers) by 2015, with all 325 battalions fully upgraded by 2020.
+
+"We have put in place an action plan to modernise the armed forces in all dimensions," said India’s now former chief of the army staff Joginder Jaswant Singh back in 2007. "A project, codenamed F-INSAS, has been taken up to train futuristic soldiers, equipped with the latest weaponry, communication network and instant access to information on the battlefield. In my view, the next war will be won by the side that is adept at high technology with all-weather fighting capability."
+
+Innovative rifle development
+
+The cornerstone and first stage of the F-INSAS project is the development or procurement of a new standard-issue armament to replace the ageing INSAS (Indian small arms system) rifle.
+
+This was developed by India’s Armament Research and Development Establishment and introduced by the Ordnance Factory Board in the late 1990s. This replacement has been plagued by usability problems, especially cold arrest issues in high-altitude areas. As a result, the Indian Army has been forced to import 100,000 AK-47 rifles in 1995, which have proved more reliable in extreme conditions.
+
+To replace the INSAS, the Indian Army wants to develop or acquire a new modular, multicalibre suite of weapons. The primary weapon is planned to be a rifle capable of firing 5.56mm and 7.62mm ammunition with a new 6.8mm underdevelopment. This first stage alone will reportedly cost up to Rs250bn ($5 billion).
+
+As well as interchangeable barrels, the new rifle would incorporate an under-barrel grenade launcher able to launch airburst grenades, as well as thermal optics and a laser range finder. Other weapons proposed for the system include a close-quarter battle (CQB) carbine and a specialised sniper rifle.
+
+High-tech equipment and accessories
+
+In the later stages of the programme, the Indian Army intends to complement its new weapon platforms with a range of high-tech equipment for its infantry soldiers. This equipment includes a new helmet with mounted thermal sensors and night vision, as well as cameras and chemical and biological sensors. The helmet will have an integrated visor with a heads-up display (HUD) capable of outputting images with the equivalent space of two 17in computer screens. Other proposed accessories include a full battle-suit with a bulletproof and waterproof jacket, health sensors and even solar charging devices.
+
+This kind of personal energy generation could be used to power the soldier’s HUD and sensor systems, as well as a wrist-mounted palmtop GPS system that will be used to increase battlefield awareness and act as a networked messaging system between battalions and their commanders. On top of all this, the army aims to reduce the overall weight carried by infantry soldiers by at least 50%.
+
+Home or away?
+
+Despite the hugely ambitious nature of this cutting-edge programme, F-INSAS has seen little in the way of demonstrable progress since 2007. The multitude of armed forces modernisation programmes (many of which overlap in terms of objectives), combined with a lack of official clarification from government sources, has created a spaghetti junction of conflicting reports, even when simply looking at the initiative’s first stage of weapon development.
+
+"The Indian Administrative Service is composed of generalists who have no functional expertise. Bureaucrats focus on the process of decision-making instead of the outcome."
+
+One of the major talking points of the early stages of the F-INSAS’ was the government’s desire to assign the development of different aspects of the soldier systems to India’s own expertise as much as possible, relying on domestic companies and public defence organisations such as the Ordnance Factory Board and the Defence Research and Development Organisation (DRDO) rather than foreign defence contractors from the US or Europe.
+
+"Indian industry has demonstrated its capabilities in the fields of information technology and other core sectors, and the army expects it to achieve excellence in defence technology, too," said JJ Singh’s successor as chief of the army staff, Deepak Kapoor, in 2007.
+
+Indeed, picture evidence from military events seems to show that Indian companies like Tata Advanced Materials and its subsidiary Nelco are working on various parts of F-INSAS equipment and accessories, from night vision goggles and body armour to personal power packs. It should be noted, however, that no official confirmation of these contracts by either company or the government has been published.
+
+Private sector excluded?
+
+Phillips believes that the Indian Government’s insistence on eschewing private sector involvement in defence procurement in favour of public organisations such as DRDO is hampering its ability to get projects moving and remains a source of inefficiency and confusion.
+
+"Government policies towards private sector participation in the defence industry prevent the emergence of a vibrant alternative to state-run enterprises," Phillips says. "As a result, the Indian military is beholden to the government-run DRDO, whose performance is a matter of debate and controversy. So although the military has large autonomy, it is nonetheless reliant on another organisation to execute its plans in the procurement area.
+
+"In 2006, India’s comptroller and auditor general V N Kaul said that ‘Defence R&D is an area where accountability often takes shelter under the policy of self-reliance, and indigenisation becomes a reason for delay… Accountability of domestic R&D organisations needs to be re-emphasised to enable better assessment of return from investment. Sensitising of the defence services to the role of public audit is essential.’"
+
+F-INSAS weapon development
+
+Discovering the company or organisation that has been, or will be, tasked with developing the F-INSAS programme’s new weapons throws up roadblocks of its own. In September 2011, it was reported that the Ordnance Factory Board’s Rifle Factory Ishapore (RFI) had developed a new rifle that would be going into production for F-INSAS in January 2012. Rumours suggested that the rifle was modular and incorporated advanced components, possibly including a computer chip. However, no subsequent announcement has been made concerning this rifle or RFI’s claims of its imminent production.
+
+An announcement towards the end of 2011 seemed to cast further doubt on the reported RFI rifle development, and indeed on whether the Indian Army’s next-gen rifle would be developed in India at all.
+
+The Times of India and other Indian sources reported at the beginning of December 2011 that the Indian Government has put out global tenders for F-INSAS assault rifles and CQB carbines.
+
+The tender for a new carbine also conflicts confusingly with reports from May 2011 that DRDO had developed an Indian-made carbine called the Milap. This raises the question: if the Milap was not developed for F-INSAS, what was it developed for?
+
+In the case of the F-INSAS rifle, it is possible that the Indian Government will procure a large quantity of foreign-made advanced rifles along with a license for the Ordnance Factory Board to produce further models. But why is media speculation like this even necessary when official government reports should be providing reliable information? Phillips says that a fear of hostile media attention provides a possible explanation to government secrecy.
+
+"Since the Bofors scandal and especially after the Tehelka sting operation, weapons procurement by the armed forces has attracted considerable media and political attention," he said. "Increasing numbers of corruption investigations have paralysed decision-making as officials became increasingly fearful of getting embroiled in investigations and possible litigation. This could explain the lack of official information available. Corruption allegations and media attention in this vein could also explain why there is conflicting information about projects."
+
+Until the private sector or the Indian Government clarifies the details of any tenders or deals, observers around the world are left to simply speculate on the status of F-INSAS. The project could be floundering or on the verge of flourishing, but without more reliable and official information, it’s impossible to know for sure.

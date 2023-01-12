@@ -1,0 +1,97 @@
+Sony Cybershot DSC-WX800 Review
+
+Point-and-shoot digital cameras these days aren't particularly exciting, unless of course they have some unique features such as 4K video support or a high zoom range. Incidentally, Sony's new Cybershot DSC-WX800 manages to squeeze both these features into a really compact body. In fact, Sony claims that this is the world's smallest fixed-lens camera with such a wide optical zoom range.
+
+The Sony Cybershot DSC-WX800 is available right now in India at a price of Rs. 34,990, which doesn't seem so bad considering the features you get. We were eager to see how this camera performs, and now that we finally got our hands on a retail unit, it's time to see if the Cybershot DSC-WX800 is the perfect camera for your next vacation.
+
+Sony Cybershot DSC-WX800 design and ergonomics
+
+The Cybershot DSC-WX800 weighs around 233g and is roughly the same size as Sony's DSC-HX90V and RX100 IV compact cameras. Sony has essentially used the same body as the predecessor to this model — the Cybershot DSC-WX500 — and has simply upgraded some of its features. The camera feels well put together, and all the plastic and metal parts meet nicely, without leaving any unsightly gaps. When switched off, the lens doesn't protrude much so this camera can be easily slipped into your pants pocket.
+
+There isn't much of a handgrip on the right side, except for a small patch of rubber at the back for where your thumb rests. We did find this to be an issue at times, especially when shooting with one hand, as there's not a lot of surface area to grip. The front metal plate has a smooth texture that looks nice, but some rubber padding here would have been helpful. It's not a big complaint, but a little detail that Sony seems to have missed.
+
+On the top of the camera, there is a switch to pop open the flash, as well as power and shutter buttons and the mode dial. The shutter button has a bit of play when you try to half-press it to lock focus, so this could have been designed better. The mode dial is tiny but fairly stiff, so we never had accidental changes when shooting. The Cybershot DSC-WX800 lacks an electronic viewfinder (EVF), which means all framing needs to be done through the LCD screen on the rear.
+
+Speaking of which, the 3-inch TFT display is a touchscreen with a 921K dot resolution. It has decent brightness but it does wash out slightly under bright sunlight. Having an EVF would have been handy here. The screen also flips up 180 degrees, making it easier to shoot selfies. A 3-second timer is activated by default when you flip the screen over, so you have time to hit the shutter and pose for your selfie.
+
+The button layout at the back is nearly identical to that of the older model. You have a rotating dial that also doubles up as a four-way navigation pad along with buttons for video recording, menu, playback, a function button and a customisable ‘C' button.
+
+There's a Micro-USB port on the right, which is used for charging and connecting the camera to a PC. The Micro-HDMI port is placed at the bottom. There's also a flap at the bottom for the battery and storage. The Cybershot DSC-WX800 accepts either a microSD card or a Memory Stick Micro card. It's a little strange that Sony didn't use a full-sized SD card slot, considering that the previous model had one and the dimensions of this camera are more or less identical.
+
+Considering how cheap microSD cards have become, this isn't a problem but you'll have to remember to carry an adapter around if you want to copy files over to a laptop when you're travelling. The Cybershot DSC-WX800 is only available in one colour, which is black. In the box you get a wall charger, a Micro-USB cable, and a wrist strap.
+
+Sony Cybershot DSC-WX800 specifications and features
+
+The Cybershot DSC-WX800 packs in an 18.2-megapixel, 1/2.3-inch Exmor R CMOS sensor with a BIONZ X image processor. It has contrast detection autofocus, an aperture range of f/3.5 to f/6.4, a zoom range of 24-720mm (35mm equivalent), and SteadyShot optical stabilisation for stills and movies.
+
+The camera has a native ISO range of 80-3,200, which is expandable to ISO 6,400. The camera only shoots JPEGs and there's no RAW file support. It has a continuous burst shooting speed of 10fps (inSpd Priority mode). 4K video can be recorded at 30fps, while 1080p recording can go up to 120fps. Eye autofocus is also supported.
+
+The camera has a feature called Zoom Assist, which lets you zoom out temporarily so you can re-frame your subject, and then return to the exact the zoom position you were at. It's handy at high zoom levels, as you don't have to keep adjusting the zoom switch back and forth. The Zoom Assist function can be assigned to some of the buttons at the back of the camera. Even some of the labeled buttons can be reassigned to different functions, so you get a decent level of customisation to adapt to your shooting style.
+
+The Cybershot DSC-WX800 has Wi-Fi 802.11n, Bluetooth 4.1, and NFC, and syncs with your smartphone using the Sony PlayMemories Mobile app. You can control the camera remotely or use your phone to browse through images and copy them over, either at the original size or at a lower resolution.
+
+Sony Cybershot DSC-WX800 performance and battery life
+
+Given the price point and the size of the sensor in this camera, we weren't expecting miracles in our ISO test. Still, it's interesting to see how this little camera fares at higher ISO levels. We begin with ISO 100, and at a 100 percent crop, you can see that things aren't off to a great start. There's some mild distortion in the shadows, and it becomes more apparent once we go up to ISO 400. Notice that the details also begin to degrade a bit, and we're yet to get to the higher ISO levels. At ISO 800 to 1600, details get progressively mushier.
+
+Sony Cybershot DSC-WX800 ISO test
+
+At the highest native ISO level, the image is is barely usable. The expanded ISO level of 6400 should be avoided as photos simply become grainy messes. For low-light shooting, we found it best to leave the camera in Auto mode.
+
+The Sony Cybershot DSC-WX800 can take advantage of multi-frame shooting, which means it captures a series of frames and combines the output to reduce noise. This can be forced in any of the ‘Program' modes too, by selecting “ISO Multi-frame NR”. It works well but it can also backfire at times, especially in very low light. We found that it could mess up the exposure and colours in some shots.
+
+Under good light, the Cybershot DSC-WX800 captures bright and vivid images, with good sharpness and detail. Reds and greens do appear a little exaggerated at times, which might not always be the most accurate representation of the scene you're shooting, but it could appeal to causal users who are the target market for such a camera in the first place. Macros are handled well too, although at higher zoom levels and under harsh lighting, the camera struggles a bit to get the right exposure.
+
+Sony Cybershot DSC-WX800 camera sample (resized for web): ISO 80, f/4.5, 1/800s, 56mm (35mm equivalent) Tap to see full-sized image
+
+Sony Cybershot DSC-WX800 camera sample (resized for web): ISO 100, f/5, 1/1000s, 75mm (35mm equivalent) Tap to see full-sized image
+
+Sony Cybershot DSC-WX800 camera sample (resized for web): ISO 200, f/6.4, 1/250s, 720mm (35mm equivalent) Tap to see full-sized image
+
+Sony claims that the camera can lock focus in 0.09 seconds, but this is only at the widest focal length. We found focusing to be fairly quick, even with moving subjects, but it slows down as you zoom in. At the highest zoom level, the camera can take a second or two to lock focus, depending on the lighting and the size of your subject. Eye autofocus works well, and we liked the Lock-on AF feature, which tracks your subject for still shots and in certain video modes.
+
+We were able to capture some pretty good action shots using the burst mode, even from a moving boat. This bodes well for the camera's optical stabilisation. The zoom range is quite impressive, and photos retain good sharpness and detail even at the highest zoom level. You can enable digital zoom too, but the image quality takes a hit so we don't recommend it.
+
+Low-light performance is strictly average though. Even with multi-frame shooting, there's no escaping a bit of noise in the shadows and details aren't as sharp as we would have liked it to be. Sony uses this similar technique on its higher-end RX100 series too but there, the camera shoots at a higher burst rate, which results in cleaner and sharper pictures, compared to the Cybershot DSC-WX800, which only seems to shoot about 3-4fps.
+
+Sony Cybershot DSC-WX800 camera sample (resized for web): ISO 3,200, f/3.5, 1/5s, 24mm (35mm equivalent) Tap to see full-sized image
+
+Sony Cybershot DSC-WX800 camera sample (resized for web): ISO 3,200, f/4, 1/5s, 40mm (35mm equivalent) Tap to see full-sized image
+
+4K videos are limited to 5 minutes per clip but we found the quality to be above average in good light. This is due to the fact that the Cybershot DSC-WX800 uses a full sensor read-out, without any pixel binning which means it shoots at the full 18.2-megapixel resolution and then oversamples it to 4K. Image quality gets a little noisy in low light and we did observe a bit more focus hunting, compared to when shooting in daylight. At full zoom, the camera's autofocus is a bit slow at locking focus, and if your subject moves a lot, it's not very quick at shifting focus.
+
+The camera is rated to deliver around 370 shots per charge, or around 460 shots if you set the screen to time out after 2 seconds. We were easily able to match these claims, and at times, we managed to get around 450 to 500 shots before the battery level dipped to a single bar. We had the camera in Airplane mode during most of our field testing, which could be one of the reasons for the above-average battery life. The battery can be charged via a powerbank, which is convenient and you can also use the powerbank to supply power so you can continue using the camera.
+
+Verdict
+
+The Sony Cybershot DSC-WX800 offers good features and a very good zoom range, and is priced well at Rs. 34,990. If image quality is what you're after, then entry-level DSLRs such as the Nikon D3400 or the Canon EOS 1500D would serve you better at around this price, but they are also a lot bulkier. Panasonic has a direct competitor to the Cybershot DSC-WX800, called the Lumix DMC-ZS60S, which costs roughly the same but offers an EVF along with a touchscreen, 30x zoom range, and 4K video recording.
+
+The Cybershot DSC-WX800 would have been better if it had a better handgrip, quicker autofocus at higher zoom levels, and an EVF. Low-light performance is quite average, but that's par for the course in this segment so it's not a huge complaint. However, this little camera it does have many things going for it including its large, flippable touch display, good zoom range, 4K video support, decent battery life, and good features. All in all, that means it is worth considering at this price.
+
+
+
+Price (MRP): Rs. 34,990
+
+Pros
+
+Pocketable
+
+Good zoom range
+
+Shoots decent JPEGs in good light
+
+Flippable touchscreen
+
+Good battery life
+
+Decent 4K video
+
+Cons
+
+Average low-light performance
+
+Slow autofocus at high zoom levels
+
+No EVF
+
+Ratings (out of 5)

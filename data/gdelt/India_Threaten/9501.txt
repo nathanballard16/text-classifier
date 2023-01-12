@@ -1,0 +1,5 @@
+HDFC Bank has a warning for you about this new online banking scam: What you should know
+
+HDFC Bank has issued a warning to all online banking users about a new scam in which fraudsters are stealing money via UPI. In this scam, the fraudster aims to gain unauthorized access to a victim's mobile device through remote device control apps like AnyDesk. The Reserve Bank of India (RBI) had earlier issued a similar warning but it seems more people are falling for the same.
+
+In a recent advisory, the RBI has advised that while apps like AnyDesk asks for regular privacy permissions, it is capable of acquiring full access to your smartphone remotely and would let fraudsters carry out banking transactions remotely. Here is everything you must know the new UPI online banking fraud that you must know.

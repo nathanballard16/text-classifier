@@ -1,0 +1,53 @@
+‘Be prepared to fight wars... in outer space’
+
+Your colleagues and yourself worked for several years on missiles and the ballistic missile defence system, but why was the A-Sat not accomplished earlier?
+
+We did a lot of simulation tests and evaluation of the technology (for A-Sat) in 2012. We just needed a good kinetic kill vehicle and an infrared seeker then. So Wednesday’s launch of the anti-satellite missile is an offshoot of Phase-I of our ballistic missile defence programme, which is now completed.
+
+I congratulate Team DRDO for taking forward the development of all technologies from where we left to such levels where India has the capability to intercept satellites.
+
+The A-Sat is a minor variant in the sense that instead of a missile, the interceptor brought down a satellite.
+
+It’s indeed a big day for DRDO, given the high complexities of the technologies involved as the missile had to intercept a satellite hurtling at seven to eight km a second in orbit, and the speed with which ground-based networks worked to accomplish the mission. Even a millisecond delay during the flight of the missile would have resulted in missing the target satellite by 10 meters, and a failed mission, much to the disappointment of all of us.
+
+So will the successful test of A-Sat spell an end to criticism of DRDO’s performance and stop the organisation from being hauled over hot coals?
+
+The media is responsible for the flak which DRDO has been receiving over the last two decades. You people (media) have published all sorts of reports about DRDO, and that it is an organisation with zero performance. The truth is that products worth more than Rs 2 lakh crores are under production over the last 15 years. So you people (media) have a myopic view about DRDO and its performance, which we have chosen to ignore.
+
+Could you please explain about the indigenously developed kinetic kill vehicle and its role in the A-Sat tests?
+
+The role of the kinetic kill vehicle is very significant and comes into play only at the end to kill the target.
+
+To start with, long-range ground-based radars track the satellite, its direction, velocity, and also indicate its likely position after a certain amount of time. The Mission Control Centre (MCC) will discern whether it is an aircraft, a missile or a satellite, and communicate all details to the Launch Control Centre (LCC), which based on the information, will launch the interceptor. This entire operation is automated and will be completed within a couple of seconds.
+
+The kinetic kill vehicle will head towards the satellite after the first two stages of the missile are dumped.
+
+The onboard computer, seeker and thruster help the kinetic kill vehicle to pursue its own trajectory to reach the satellite and achieve a kill.
+
+The vehicle is very agile and can pull five G (five-time gravity) at any point during its flight.
+
+What about the debris churned out during the A-Sat test? Countries like the United States are complaining that it could lead to a potentially dangerous situation?
+
+It’s not true that the debris will pose a problem. Unlike the large number of pieces left behind after the Chinese knocked down their satellite with a missile in 2007, our test was carried out in Low Earth Orbit (LEO), and will not result in a cloud of debris. All pieces of debris will eventually start falling through the atmosphere and will burn out quickly.
+
+Do you agree with some experts who have described A-Sat as an important milestone — like the nuclear tests in Pokhran?
+
+Of course it is as major a milestone as Pokhran-II, though five nuclear tests were carried out on a single day in 1998. The strategic importance of A-Sat is very high because a successful demonstration triggers a message that if anyone messes with our satellites, they will face destructive consequences. It is like a nuclear deterrent that will prevent a misadventure by anybody. We are ready to defend the fourth dimension, which is space. We have more than 48 satellites in space and we should be ready to take care of these satellites and to defend them. We, however, believe in the non-weaponisation of outer space, and will never use space technology for military purposes. It is better to demonstrate the technology as we cannot rule out the possibility of some countries venturing into military space activities in the future, as well as portray an image of being a very powerful nation.
+
+Is it true that DRDO did not seek the permission of the previous UPA government to carry out the A-Sat test as pointed out by the former NSA Shivshankar Menon?
+
+Who said we sought permission from the UPA government to carry out the test?
+
+We merely made an informal presentation to the Union government about our capabilities in 2012. So he’s correct in his own way (Mr Menon), and I am right in whatever I have said.
+
+But this issue has resulted in a slugfest between the government and Opposition parties?
+
+I don’t want to make any political statements, but have already stated the facts.
+
+Experts agree that A-Sat is a deterrent, but do you agree that with a right mix of conventional military assets, India can come up with a military strategy that links all capabilities for deterring a war?
+
+All investments and plans must be made to safeguard the interests of the armed forces and to be prepared for warfare on land, sea, air or outer space.
+
+Vijay Kumar Saraswat Q&A
+
+The A-Sat test on Wednesday, March 27 is strategically important to stop any adversary from messing with Indian satellites and a very important step to stand on the same pedestal as the most powerful nations, says Dr Vijay Kumar Saraswat, former chief of the Defence Research and Development Organisation (DRDO) in an interview to B.R. Srikanth. Excerpts:

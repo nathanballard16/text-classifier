@@ -1,0 +1,41 @@
+CoinReport [Guest Post] 2019: Crypto War Chests Are Being Built
+
+by Prashanth Swaminathan, CEO of XDAT.io and Advisor to Eleven01
+
+Many people remain surprisingly optimistic about the future of cryptocurrencies despite the harrowing year that ushered in crypto winter. After all, the only way to accept it is to convince ourselves that it had to happen. Bitcoin was a bubble and had to burst — it would break up the deleterious hype pervading the minds of every trader, office watercooler conversation and family dinners around the world, and the builders can get back to building again.
+
+The massacre that laid waste to a bubbling market revealed a few truths.
+
+Blockchain technology is real and its adoption is imminent.
+
+Bitcoin rang in the new year with over 10 million new blockchain wallet users, and last year alone it brought in 54 million new crypto users despite the bear market. It would have been more interesting if the wipeout had ceased all activity in the industry, but it didn’t. Bakkt kicked off 2019 with a $182 million fundraise, Binance expanded into the European markets with a fiat-to-crypto trading platform designed especially for the euro (EUR) and British Pound (GBP), and Coinstar machines will begin dispensing digital currencies from ATMs in the United States.
+
+Blockchain technology is already being developed or is in use in government procurement systems, and in help with advocacy, and in the retail industry globally. Platforms like ICON, NEO, and Eleven01 are providing interoperability protocols that create and weave blockchain systems together into a cohesive global decentralized network.
+
+It will not be long before more direct facing consumer blockchain products will make crypto much more accessible to a broader audience. All of this coupled with improving sentiment around crypto will ameliorate the paranoia about price and instil a sense of confidence resulting in a very different environment for crypto moving forward.
+
+Regulation is in the air, and it will grease the wheels for mass adoption.
+
+Proactive and positive regulatory frameworks from several world governments and regulatory bodies are paving the way for a consumer-friendly cryptocurrency environment. This is good news to crypto enthusiasts among the masses, however, it is not favourably the same for exchanges. Countries around the world have started to clamp down on how they regulate and oversee cryptocurrency exchanges, and they look to Japan as a guiding light.
+
+Rather than banning cryptocurrency trading, like China, the Japanese Financial Services Agency set up a rigorous framework for evaluating and issuing licenses to exchange operators. These measures were taken to prioritise safeguarding of investors from scams and illicit hacking. These legal frameworks created by governments also require exchanges and crypto-based businesses to register and comply with licensing policies to crack down on anti-money laundering, tax evasions, and to counter the funding of terrorist activities with cryptocurrencies.
+
+As a result, exchanges like Binance and Kraken left Japan due to the strict regulatory environment only to find that they’ve left the market wide open for competitors like Huobi to re-enter Japan as a fully-licensed exchange after a merger with BitTrade. And they’re not alone: according to Cointelegraph, Coinbase, Yahoo, Mitsubishi UFJ Financial Group and Money Forward have applied for and are under review for receiving an FSA license to legally operate in Japan.
+
+These lessons informed our approach with XDAT, a digital asset trading platform, via a broad spectrum gateway that currently accepts more than 10 fiat currencies. The newfound cryptocurrency exchange, aims to create a trusted brand with a crypto-fiat trading platform that can facilitate the much-needed wider adoption through a regulated approach.
+
+Capital is not drying up, it’s gotten smarter.
+
+None is more powerful than he/she with deployable capital in a bear market. Multimillion-dollar crypto funds are ceasing to exist, investors are pivoting to advisories and service-based models to survive and finally, the conference sponsorship email solicitations have died down. Companies who were smart with their money during the boom can now go on a shopping spree to stack up on talent, technology and market share. And they have.
+
+Coinbase made 11 acquisitions to date, with Blockspring being its first purchase of the year. Popular open-sourced Ethereum wallet platform, MyCrypto, purchased crypto app developer Ambo pre-launch to gear up for an expedited expansion into mobile.
+
+At every level, the signs point to one thing: war chests are being built.
+
+Those with money will buy, and those promising enough will be bought. The next era of blockchain adoption will certainly be exciting, and many of us are bullish on the fact that this will be the year that sets forth the path towards a decentralized future.
+
+Author Bio
+
+Prashanth is an expert in structured finance and a highly capable engineer, who takes the reins of running XDAT the digital asset exchange. He is an engineering graduate from the prestigious Indian Institute of Technology, Guwahati and an MBA from the Indian Institute of Management, Calcutta. A veteran investment banker, Prashanth has over a decade of experience in the field and last held the position of Executive Director at Morgan Stanley, London. Having founded XDAT, Prashanth leads all its efforts towards growth, adoption, team and regulatory aspects. Prashanth has already built a team of industry veterans across FMCG, traditional financial services, technology, and accounting, and aims to bring conventional wisdom and know-how into this emerging space.
+
+Image via PR firm Hokku

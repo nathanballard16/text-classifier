@@ -1,0 +1,29 @@
+BT Buzz: Does the amended Aadhaar Bill circumvent Supreme Court's order?
+
+On June 24, Ravi Shankar Prasad, the Minister of Law & Justice, Electronics & Information Technology introduced The Aadhaar and Other Laws (Amendment) Bill, 2019. Amidst protests by some Opposition leaders, he sought to provide a brief explanation.
+
+"Supreme Court has elaborately dealt with the Aadhaar Act and has held that Aadhaar is a valid law is in the national interest and it does not violate privacy. There is no mandatory compliance. SIM card can be taken either by Aadhaar, or any other document," he said, downplaying concerns around the collection of personal information by private companies - until a few months back, fin-tech start-ups, banks, cab aggregators, and mobile phone operators routinely asked for Aadhaar in order to meet Know Your Customer (KYC) norms.
+
+BT Buzz: Malnutrition, healthcare system failure behind Muzaffarpur's season of despair
+
+The Minister, here, stressed the voluntary nature of compliance using Aadhaar, a 12-digit unique identification number (UID) issued by the Unique Identification Authority of India (UIDAI). "Today, 68 crore people have taken SIM cards through Aadhaar; 65 crore bank accounts are there through Aadhaar. People of India are accepting Aadhaar," he told the Parliament.
+
+Critics, however, aren't satisfied.
+
+In September 2018, the Supreme Court struck down a portion of Section 57 of the Aadhaar Act that enabled a corporate body or even an individual to seek authentication through the unique identification number. The government then considered an Ordinance, which was promulgated by the President on 2nd March, 2019. On June 12, the Union Cabinet approved The Aadhaar and Other Laws (Amendment) Bill, 2019 to replace the Ordinance. Mandatory use of Aadhar for processes such as KYC has now become voluntary. But here lies the criticism too.
+
+First, a listing of the significant features in the amended bill.
+
+Privacy hawks, including experts from the legal community, see the amended bill somewhat circumventing the Supreme Court's directions. Yes, KYC compliance through Aadhaar is now voluntary but the argument is that India is a country with low digital literacy. Most Indians aren't aware of how their personal information can be used or misused. Neither are they aware of their legal rights. And while personal data with the Unique Identification Authority of India could be secure, there is little guarantee that information collected and stored by private entities would be leak-proof. In an opinion piece in BloombergQuint, Reetika Khera, an associate professor at the Indian Institute of Management, Ahmedabad, pointed to the Equifax data breach of 2017. Equifax, a data, analytics and technology company, discovered that attackers had gained unauthorised access through the Internet to its online dispute portal. The breach resulted in the attackers accessing personal information of 145.5 million people in the United States.
+
+BT Buzz: Early signals offer little comfort on monsoon front
+
+Prasanth Sugathan is a technology lawyer and a Counsel with SFLC.in, a legal services organisation. He says that the amended Section 4 could lead to a situation whereby private entities could be allowed to use Aadhaar for authentication that would enable commercial exploitation of individual biometric and demographic information by private entities. "This would raise the likelihood of fresh litigation on an aspect of the law that has already been settled," he said.
+
+Kazim Rizvi, Founding Editor of The Dialogue, a policy think tank, felt that introducing the Aadhaar amendment without first clearing the Data Protection Bill will expose the privacy of millions of citizens. "The Supreme Court in the September 2018 Aadhaar judgment had suggested that the government should first pass the Data Protection Bill and subsequently introduce the Aadhaar amendment. Without a proper data protection law, it leaves citizens exposed to any misuse or privacy violation of their personal information through the purview of data disclosure for law enforcement," he said. "Moreover, without a recourse mechanism and a law that protects their personal data, where will citizens go if their personal information is compromised by private entities in cases of authentication by Aadhaar? Which is why a base legislation to protect personal data is a must before any law, which seeks to collect personal data of citizen, is implemented," he added.
+
+Virag Gupta, Supreme Court lawyer and Partner at the law firm VAS Global pointed out that the Supreme Court had made it clear that information in the Aadhaar database had to be disclosed in the interest of national security but this needs to be sanctioned by a judicial officer. "The new amendment has circumvented the Supreme Court judgment and the information on the Aadhaar database can be shared with only a mere executive order. Moreover, the decision can be taken by any secretary-level officer instead of the Joint Secretary," he said.
+
+To safeguard citizens, and their personal information, the amended bill may require more improvements.
+
+BT Buzz: Private banks see red as RBI refuses to budge on shareholding pattern, IPO norms

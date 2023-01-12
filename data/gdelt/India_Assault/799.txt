@@ -1,0 +1,57 @@
+“Maharashtra police has created 37 cyber labs in rural areas”
+
+Maharashtra cyber chief Brijesh Singh on how the state tackles cyber crime
+
+Maharashtra has been the pioneer in establishing a dedicated unit and necessary infrastructure for cybercrime investigation. It is headed by Brijesh Singh, an IPS officer, as special inspector general of police, cyber. After successfully implementing the crime and criminal tracking network and system (CCTNS) project and IT schemes for policing, Singh currently also heads the CCTNS Task force developing big data solutions and analytics on crime data.
+
+Geetanjali Minhas spoke with him about the rising cases of cybercrime and steps being taken to arrest the trend.
+
+Edited excerpts from the interview:
+
+Cities like Mumbai have been witnessing more and more cybercrimes. Please tell us about the types of cybercrimes taking place.
+
+With the spread of bandwidth and mobile technology, India has become a mobile-first country where primary digital interaction is through apps as against the desktop where primary interaction is through a search engine. The number of consumers using 4G is very high, and cybercrime has no territories. We have seen a steep rise in cybercrimes, but registered crimes are only a tip of the iceberg. There are difficulties in registering crime as people themselves do not realise if some crime has been committed or not – especially financial cybercrimes come to notice very late. Though remedies are available, like claiming money from the bank, going in for arbitration or a civil litigation, it becomes a complex case where people who are not very tech-literate find themselves using these technologies and somewhere security is compromised. Most cases of people losing money are not exactly cybercrimes – though a mobile device has been used, but primarily people’s trust is gained to make them part with their passwords, OTPs or personal information, steal identity and withdraw money on their behalf. Authentication is an issue in the cyber world.
+
+More cybercrimes relate to child sexual abuse and offences relating to women and their privacy. The central government has launched a crime portal, cybercrime.gov.in, for registering complaints relating to online child pornography, child sexual abuse material, and sexually explicit content like and rape and gang-rape videos. The maximum number of complaints have come from Maharashtra which have been forwarded to local units. Soon all types of complaints will be registered online.
+
+Data on cybercrime
+
+
+
+Maharashtra has 2,000-2,500 registered cases, of which Mumbai alone has 800-900 cases. As many as 51 cyber labs have been set up in each district of Maharashtra including ancillary units like SIT, anti-corruption bureau and ATS. As many as 47 cyber police stations have been notified in Maharashtra, of which five are in Mumbai. To analyze different types of software 180 police officers were trained in 2017 and 150 in 2018. Faculties from C-DAC and National Police Academy trained 130 police officers in 2016-17, and 45 police officers in 2017-18 in cyber crime investigations.
+
+With the rise in cybercrime cases, the Maharashtra government in 2015 became the first state to start a cyber wing of police, headed by an inspector general of police, cyber. In the last three years almost every state has appointed cyber officers. Maharashtra created cyber labs in all rural districts and opened 44 cyber labs with most modern equipment available anywhere in the world. These were later converted into cyber police stations. As many as 37 of them are operational now handling thousands of cases, and more will come up. These labs do forensics on hundreds of devises every month. The capabilities have been created not just at a central place but rural places like Dhulia, Nandurbar, Gondia, Akola, Bhandara and Wardha with fully functioning cyber police stations and labs. These labs have been running for one and half years and are very proficient.
+
+Please tell us about the ‘MH cyber project’.
+
+The state government has come up with its own cyber project called ‘MH Cyber’ [MH for Maharashtra] consisting of four wings:
+
+1. Technology-assisted investigation for cyber forensics and providing specialised services like dump analysis of telephone tower data, image enhancement, etc.
+
+2. MH CERT [computer emergency response team] for advisory and in serious cases, providing incident response to critical government infrastructure and later to all other large corporates. It will also pass cyber threat intelligence.
+
+3. An analytics unit which will assist in crime investigation. With a large CCTNS now available we are producing huge data. Once we start correlating this data with law enforcement data like vehicle database or CCTV, I will not only be able to assist in crime investigation but also in policy and crime prevention. And, 4. A centre for excellence, as apart from cyber forensic investigations, people will need to secure technology, especially that of the government.
+
+Tendering is under way for this and most parts should be up and running in the next six months. A cyber university will be a part of the centre of excellence and it is being set up by the skills department.
+
+What is the responsibility of service providers in case of cyber frauds?
+
+The RBI has issued a circular stating norms for limited liability on bank customers and putting the onus on banks if customers lose their money [in frauds]. In a fiduciary relationship, be it with a bank, financial institution, insurance company or social media, the responsibility lies with the service provider. As for matrimonial frauds, we have conducted workshops with those running matrimonial websites and warned them about fake profiles on their websites. They were told to verify uploaded content. The primary responsibility lies with the provider to have securely coded systems and procedures which cannot be misused.
+
+Please tell us about other units of Maharashtra cyber police.
+
+We are working on a very large scale against online piracy which is almost a billion dollar business. Piracy not only takes away jobs that can otherwise be created but also results in loss of taxes and money that can roll into economy. The Maharashtra Cyber Digital Crime Unit is a collaboration between the cyber police and industry players like the Motion Picture Association of America, Indian Motion Pictures Producers’ Association, The Producers Guild and now also the Indian Music Industry (IMA). We have now been able to permanently shut down 203 of the top piracy websites by Alexa ranking with a monthly traffic of 172 million hits. This effort has been praised by the World Intellectual Property Organisation and we are emerging as one of the better units across the world.
+
+We are in the process of implementing a programme called Automated Multimodal Biometric Identification System (AMBIS) which is an advanced automatic fingerprint system [a digital database of criminals’ fingerprints which can improve the conviction rate]. This should be established in the next three months. The Maharashtra cybercrime unit also plays an advisory role to the state police units on technical and cyber issues.
+
+Is there any plan for a separate cyber cadre so that there could be trained and sepcialised personnel?
+
+It is not possible for the police to create separate cadres for different types of crimes. Cybercrime is less than 1 percent of all the crimes that police deals with. Rather, we are enabling everyone and creating sufficient backups. We have trained 100 policemen who are now working in cyber cells and are fully competent to handle their work. We are creating a special training programme for everyone and if they have an aptitude they can continue in the cadre or else opt out. A lot a graduates are joining the Maharashtra police constabulary. Rather than doing an outdoor job in the heat and dust, they prefer this job which is comparably more satisfying for some. Today we have hundreds of applications and have a large waiting list of people wanting to join the cyber branch. We are rolling out an intermediate and advanced 45-day training programme where we will train all officers on all aspects of cybercrime investigations. We have provided Faraday bags [which can block remote wiping or alteration of wireless devices recovered in criminal investigations] to local cyber police stations so that evidence seized is not destroyed. We will be adding 500 trained cybercrime officials in the next six months. Besides, the cybercrime police is also working on issues relating to women’s safety, terrorism and social unrest. We cannot look at police work with a narrow lens.
+
+What basic guidelines you would recommend to citizens as precautionary measures for online safety?
+
+There are separate guidelines for WiFi, desktop apps, children, women, protection against ransomware, apps and so on. But simple things will be helpful to all: do not share your confidential information with anybody, no bank or financial institution will ask you for your OPT or PIN, so don’t share these with anyone. From time to time, we issue advisories specific to the kinds of threats and dangers, attempts and modus operandi people are facing. In case of viral games like Blue Whale and Momo Challenge we organised workshops. Fake news has been a big challenge and we have conducted hundreds of workshops all over Maharashtra along with press and district administrations. Above all, people must learn basic cyber hygiene.
+
+geetanjali@governancenow.com
+
+(This interview appears in the January 31, 2019 edition)

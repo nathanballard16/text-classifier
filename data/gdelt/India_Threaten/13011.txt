@@ -1,0 +1,51 @@
+'Cobrapost' Expose - Lesser Punishment Can Be Applied Retrospectively : Delhi HC [Read Judgment]
+
+The Delhi High Court has held that a lesser punishment introduced in an Act following an amendment can be applied retrospectively. The rule against retrospective application of criminal law will not apply in such cases, held the Court, while dismissing 14 appeals filed by by the Financial Intelligence Unit- Ind (FIU) against banks.The single bench of Justice Vibhu Bakhru held in the...
+
+The Delhi High Court has held that a lesser punishment introduced in an Act following an amendment can be applied retrospectively. The rule against retrospective application of criminal law will not apply in such cases, held the Court, while dismissing 14 appeals filed by by the Financial Intelligence Unit- Ind (FIU) against banks.
+
+The single bench of Justice Vibhu Bakhru held in the case that "The rule that the enactment must be construed as prospective is not applicable in cases of a beneficial legislation. In such cases, the same must be construed retrospectively. It would be unfair to impose a higher punishment then as prescribed under a statute as currently in force, merely because the person visited with such punishment has committed the offence / default prior to the legislation being enacted".
+
+Background
+
+The decision was passed in the backdrop of a sting operation conducted by online media portal named "Cobrapost.com" on various banks. During the sting, undercover reporters approached employees of various banks representing themselves to be customers who required opening of accounts to deposit black money belonging to a Minister and for laundering the same. The video indicated that officials of the banks had expressed willingness to accept deposits of black money.
+
+Consequently, FIU issued letters to the respondent banks asking them to provide certain information under Section 12(a) of the Prevention of Money-Laundering Act, 2002 (the Act), in reference to the sting operation and held hearings, all of which culminated into issuance of show cause notices under Section 13 of the Act, alleging non-compliance of the provisions of Section 12 of the Act read with Prevention of Money Laundering (Maintenance and Records) Rules, 2005 (the Rules). Section 12 of the Act envisages reporting obligations of banks against 'suspicious transactions'.
+
+The FIU proceeded on the basis that the conversations recorded in the sting operation constituted 'suspicious transactions' within the meaning of Rule 2(g) of the Rules, and imposed monetary fines under Section 13 of the Act.
+
+This order of the FIU was modified by the Appellate Tribunal, PMLA stating that violation of the reporting obligations on part of the respondent banks warranted issuance of a warning in writing under Section 13(2)(a) of the Act, instead of a monetary penalty as imposed under Section 13(2)(d) of the Act.
+
+Hence, the present appeal titled "Financial Intelligence Unit- Ind v. Corporation Bank" along with other appeals was filed under Section 42 of the Act.
+
+FIU's Contentions
+
+The FIU submitted that warning under Section 13(2)(a) of the Act could not be issued as the said provision had come into force by virtue of Section 11(iii) of the Prevention of Money-Laundering (Amendment) Act, 2012, after the offence had been committed.
+
+Prior to the amendment which came into force on 15.02.2013, failure to comply with the provisions of Section 12 of the Act was required to be visited with monetary fine. However, the rigors of the aforesaid provisions were relaxed by the Amendment Act which prescribed violation of the reporting obligations on part of the respondent banks warranted issuance of a warning in writing under Section 13(2)(a) of the Act.
+
+Considerably, the dates on which the sting operation was conducted were not within the knowledge of FIU and it had moved on a presumption that the sting operation was conducted prior to the amendment.
+
+Findings
+
+The court noted that there was nothing on record to establish that the sting operation had been conducted prior to 15.02.2013. Therefore, FIU's contention that un-amended provisions were applicable to the Banks was bereft of any factual foundation.
+
+Thus the only question for consideration was whether the amended provisions of Section 13 of the Act, which provide for a lesser punitive measure, were applicable retrospectively.
+
+In this regard, the court relied on T. Barai v. Henry Ah Hoe & Anr., (1983) 1 SCC 177, wherein the Supreme Court had explained that insofar as a new enactment creates new offences or enhances punishment for a particular type of offence, no person can be convicted by such ex post facto law nor can the enhanced punishment prescribed by the amendment, be imposed. However, if a punishment for an offence is reduced, "there is no reason why the accused should not have the benefit of the reduced punishment"
+
+FIU's contention in this regard that in the present cases the respondent banks had suffered a civil liability and the aforesaid precedent was applicable only to criminal laws was rejected by the court. It was held that "Even if it is assumed that the liability imposed on the respondent banks is a civil liability, no distinction can be drawn on the aforesaid ground so as to deprive the respondents of the rule of beneficial construction".
+
+Reliance was placed upon Commissioner of Tax (Central)-I, New Delhi v. Vatika Township Pvt. Ltd., (2015) 1 SCC 1, wherein the Supreme Court had held that if a legislation confers the benefit on some persons without inflicting a corresponding detriment on some other person or where it appears that the intention of legislature is to confer such benefit, the rule of purposive construction would be applicable and the said legislation would be construed as applicable with retrospective effect.
+
+In these circumstances, the court held that "even if it is assumed that the sting operation was conducted prior to 15.02.2013, there is no infirmity in the decision of the Appellate Tribunal to modify the punishment from a monetary fine to a warning in writing, in terms of Section 13(2)(a) of the Act".
+
+Arguments for the Appellant were advanced by Senior Standing Counsel Satish Aggarwala with Advocates Gagan Vaswani and Radhika Narang.
+
+Click Here To Download Judgment
+
+[Read Judgment]
+
+
+
+

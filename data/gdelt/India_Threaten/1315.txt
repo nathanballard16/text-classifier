@@ -1,0 +1,41 @@
+AMD shares jump on record growth in data centre revenue
+
+(Reuters) - Chipmaker Advanced Micro Devices Inc on Tuesday reported record quarterly growth in data centre sales and projected revenue growth in fiscal 2019 above Wall Street expectations, sending its shares up 10 percent after the bell.
+
+FILE PHOTO: Lisa Su, president and CEO of AMD, gives a keynote address during the 2019 CES in Las Vegas, Nevada, U.S., January 9, 2019. REUTERS/Steve Marcus
+
+Investors were bracing for weak results from AMD after warnings from a host of other chipmakers about a slowdown in China that was triggered by a trade dispute with the United States.
+
+Shares of Nvidia Corp and Micron Technology Inc also rose nearly 2 percent in after-hours trading while Intel Corp was up marginally.
+
+Bigger rivals Nvidia and Intel both flagged stagnating growth in data centre sales, a segment in which AMD is beginning to get a foothold on the back of its server chips.
+
+AMD said it expects revenue in 2019 to grow at a high-single-digit percentage, while analysts were targeting growth of about 6 percent.
+
+The company said despite near-term graphic headwinds and revenue falling short of analysts’ estimates for the fourth and current quarters, it is banking on its newest graphics and data centre chips to bolster growth for the year.
+
+Stifel analyst Kevin Cassidy said AMD’s results were not as bad as feared, especially compared with Nvidia.
+
+Nvidia on Monday cut its fourth-quarter revenue estimate by half a billion dollars (£381 million) because of weak demand for its gaming chips in China and lower-than-expected data centre sales.
+
+AMD’s fourth-quarter gross margin rose to 38 percent from 34 percent a year earlier. The company said it expects adjusted gross margins to be more than 41 percent for 2019, its highest level in nearly eight years.
+
+“The more resilient gross margin outlook provides some level of comfort to investors,” said KinNgai Chan at Summit Insights Group LLC. “AMD is well positioned to continue to gain market share from Intel in the high-margin server market especially in 2H19.”
+
+Sales at AMD’s computing and graphics segment, which includes graphic chip sales to data centres, rose over 8.5 percent to $986 million, beating the analyst average estimate of $939 million, according to FactSet.
+
+HEADWINDS REMAIN
+
+AMD’s chief executive officer, Lisa Su, said there were still headwinds in the graphics channel, and macro uncertainties were causing some caution in the first half of the year as the company’s first-quarter revenue forecast missed analyst estimates.
+
+The chipmaker forecast current-quarter revenue of $1.25 billion, plus or minus $50 million, a drop of 24 percent from last year. Analysts were expecting $1.47 billion, according to IBES data from Refinitiv.
+
+Su said the company expects to launch over 30 percent more Ryzen systems in the year compared with 2018 and expects the CPU side of its business to grow faster than GPU.
+
+A crash in prices of cryptocurrencies late in 2018 hit chipmakers including AMD in the prior quarter and led to a pile of inventories that proved difficult to clear.
+
+Su told analysts on a post earnings call that while first-quarter inventory levels are elevated, AMD had seen an improvement in channel GPU sellout throughout the fourth quarter and expects its partners to reduce inventories in the current quarter and going forward.
+
+“My expectation is that in Q2, we’ll have a sort of improved channel inventory levels and we will return to a sequential growth in the gaming site of our business,” Su told investors.
+
+AMD’s quarterly revenue of $1.42 billion also missed expectations of $1.45 billion. Excluding items, AMD earned a profit of 8 cents per share, in line with the analysts’ estimates.

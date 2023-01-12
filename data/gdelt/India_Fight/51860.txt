@@ -1,0 +1,33 @@
+Facebook nixes billions of fake accounts
+
+Facebook believes that fake accounts represented about 5 per cent of its worldwide month active users during the second and third quarters of this year. — AFP pic
+
+Follow us on Instagram and subscribe to our Telegram channel for the latest updates.
+
+SAN FRANCISCO, Nov 14 — Facebook yesterday said it has nixed 5.4 billion fake accounts already this year, in a sign of a persistent battle on social media against manipulation and disinformation.
+
+“We have improved our ability to detect and block attempts to create fake, abusive accounts,” the internet firm said in its latest transparency report.
+
+“We can estimate that every day, we prevent millions of attempts to create fake accounts using these detection systems.”
+
+Facebook believes that fake accounts — where someone pretends to be a person or entity which does not exist — represented about five per cent of its worldwide month active users during the second and third quarters of this year.
+
+The social network has invested heavily in finding and taking down accounts crafted to deceive people about where information is originating, particular when spread as part of coordinated campaigns with political or social agendas.
+
+The detailed report also showed that government demands for user information hit a new high led by the US.
+
+Overall request by governments for Facebook user data rose 16 percent to 128,617 in the first half of this year.
+
+“Of the total volume, the US continues to submit the largest number of requests, followed by India, the UK, Germany and France,” the report stated.
+
+Facebook received 50,741 requests from the US for information regarding 82,461 accounts, with roughly two-thirds of those done in a way prohibiting the social network from letting users know about inquiries, the report showed.
+
+“We always scrutinise every government request we receive for account data to make sure it is legally valid,” Facebook deputy general counsel Chris Sonderby said in an online post about the latest figures.
+
+“This is true no matter which government makes the request.”
+
+In a detailed transparency report that, for the first time, included photo and video-oriented social network Instagram, Facebook also highlighted progress tackling terror, hate, suicide, child porn, and drug related posts.
+
+“While we are pleased with this progress, these technologies are not perfect and we know that mistakes can still happen,” Facebook said.
+
+“That's why we continue to invest in systems that enable us to improve our accuracy in removing content that violates our policies while safeguarding content that discusses or condemns hate speech.” — AFP-Relaxnews

@@ -1,0 +1,71 @@
+Intelligent network, smart enterprise: Mobile India 2019 addresses how AI redefines society
+
+The eleventh edition of the annual Mobile India conference, for which YourStory is the media partner, will kick off this week in Bengaluru with a wide range of insights on the impacts of Artificial Intelligence (AI).
+
+The annual Mobile India conference in January is a curtain raiser for innovators and tech solutions providers in the communications industry. The focus this year is on the impact of AI on intelligent networks and smart enterprises.
+
+In this preview article, we share exclusive speaker insights on AI trends, opportunities, and challenges, which will be discussed in greater detail during the conference on January 10 as part of COMSNETS 2019. See also YourStory’s coverage of the six earlier editions of this conference: 2018, 2017, 2016, 2015, 2014, and 2013.
+
+AI and smart networks
+
+AI is helping networks become smarter by providing deeper insights into network performance. “AI can quickly identify anomalous network behaviour,” said Pravin Bhagwat, Associate Vice President, Advance Technologies, Arista Networks.
+
+It helps in conducting automated root cause analysis (RCA) faster. It also reduces the mean time to problem resolution. “In many cases, it is possible to identify problems before they occur and take corrective actions,” Pravin added.
+
+More specifically, AI impact on networks can be tracked by a range of metrics identified by Pravin: higher speed and lower latency network leading to better user experience; reduced number of support tickets and faster time to resolution; and reduced spending on operations and management of networks.
+
+Trends to watch in the space of cognitive WiFi include adoption of Gigabit 11ax technology, enterprises moving away from on-premise controllers to cloud-based management, and increased use of big data for improving customer experience and reducing cost of operations and maintenance.
+
+The rise of AI in network space opens up a range of opportunities for startups. “There are opportunities in building custom, vertical-specific applications leveraging device location data available from networking infrastructure,” Pravin explained. Other opportunities lie in DevOps (automation for enterprise IT) and helping enterprise IT manage migration from controllers to cloud architecture.
+
+AI and security
+
+“Machine learning is at the heart of the security platforms of today. Let me give an example from the world of digital risk management. All along the threat value chain, AI-based machine learning algorithms power the processes,” explained Sourabh Issar, CEO, CloudSEK.
+
+In the first stage of DRM (collect), bots and crawlers use ML to determine which link to traverse, which forum to trawl, where to doubleclick, what data is relevant, and so on. “The entire process of interpreting and parsing this data, classifying and identifying data, noise filtering and indexing, can all be driven by AI and ML systems,” Sourabh added.
+
+Stay Updated Get stories of change makers and innovators from the startup ecosystem in your inbox Please fill in this field. {{#error}} {{error}} {{/error}} {{^error}} Something went wrong. Try again later {{/error}} Welcome Onboard ! You have been successfully registered for our daily newsletter.
+
+This allows the machine to determine the severity of a threat. “So, for example, a threat involving a credible threat actor, with a successful past history, is grounds for a higher severity,” Sourabh said. And lastly, the correlation to the clients’ assets is also driven by ML-based engines.
+
+“These engines allow these platforms to very quickly and accurately correlate the threats. For example, if a certain IP’s vulnerability is being discussed in a dark web forum, then it is able to determine the client it belongs to, and accordingly red flag that information for immediate action,” Sourabh explained.
+
+AI impacts can be quantified by a number of metrics in this regard. “Savings are primarily driven by replacing armies of people with bots. While these bots cannot replace humans entirely, they can take care of almost 60-80 percent of the low-level grunt work very effectively,” Sourabh observed.
+
+Another important metric is turnaround time. “ML-based automated systems significantly increase the scope of coverage, number of sources, assets being scanned, data being analysed, and so on from tens to thousands, replacing hundreds of scans with millions of scans in minutes,” Sourabh said.
+
+In terms of trends to watch, he identifies the talent crunch, which will test the industry. “With the initial euphoria tapering down, and realism setting in, people will demand proof before jumping on to the ML bandwagon. Vendors will have to commit up front to delivering on the promise of ML; mere promises will not cut ice anymore,” Sourabh advised.
+
+AI and digital media
+
+AI and ML are impacting digital media across a wide spectrum, from text and images to video and animation. “AI/ML is running in the background in applications and websites to segment customers, and learn user preferences,” explained Vinutha BN, Consulting Partner, CTO Office, Wipro Technologies.
+
+As examples of AI/ML coming up with user recommendations, she cited Netflix movies, ads on websites, online shopping, and news summarisation. Deep learning techniques are being used to detect online frauds and in intelligent chatbots that provide 24x7 support.
+
+Other impacts cited by Vinutha include image quality improvements such as de-noising, de-blurring, and super-resolution using computer vision and deep learning techniques. Live video analytics is using ML in security surveillance to detect anomalies or unusual patterns in customer behaviour, traffic management, and facial recognition.
+
+RoI on AI (ROAI) would be closely dependent on the application space, Vinutha explained. For example, with personalised recommendation, the conversion rate could be a metric in the marketing space.
+
+Automation of data extraction with automatic rule definition from websites, text and images can lead to better productivity; improved accuracy could be a relevant metric in this regard. In the context of chats handled by bots, metrics could be the time spent by human or the bot and the number of re-directed interactions.
+
+Trends to watch in the area of AI and ML impacts on media include the rise of more cognitive, context-aware chatbots (with more support on NLG), visual Q&A, better image processing algorithms using capsule networks and deep learning techniques, and AI algorithms to identify fake news and avoid their propagation.
+
+“For Indian markets, chatbots that can handle Indian languages and combinations such as Hinglish are a trend to watch,” Vinutha said.
+
+Recommendations for AI implementation
+
+The speakers also offer a range of recommendations to companies with regard to implementation of AI. “Look at how web scalar companies are designing and rollout their networks,” said Pravin of Arista Networks, advising companies to leverage cloud, SDN, open APIs, hardware and software disaggregation, and AI to reduce OPEX.
+
+Companies can gain by maximising benefits of Gigabit 11ax, and plan upgrade of wired switching infrastructure to 2.5 Gbps or higher. “”Invest in DevOps automation. Whatever can be done programmatically, don't do it manually,” Pravin summed up.
+
+“Companies should first understand what is the key problem they are trying to solve, and understand data patterns. This includes checking for trend and seasonality,” advised Vinutha of Wipro.
+
+Companies should work out the amount of data available for training to decide statistical or deep learning approaches. AI models should be integrated with the existing infrastructure. "Model retraining and tweaking will be needed for improved performance,” Vinutha said.
+
+The road ahead: redefinition of the workforce
+
+There are many fears about AI leading to job loss, but the speakers explain that the impacts are more nuanced. “AI will create new jobs, assist some jobs, and also replace other jobs,” Vinutha said.
+
+“Some repetitive tasks will be replaced by AI. But AI will bring in new challenges that will need human skill to solve! This can include detection of malware in training data,” she explained. Thus, old jobs get replaced with new job needs and new skillsets, such as creating data sets and annotating data.
+
+“Just as society was reinvented during the industrial revolution, I am positive that we will do it again as part of the AI revolution,” Vinutha summed up.

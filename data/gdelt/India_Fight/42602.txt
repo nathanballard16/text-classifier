@@ -1,0 +1,21 @@
+IACS fabricates hydrogels with tunable bactericidal activities
+
+The hydrogel reduces the cell size of the E. coli and disrupts its cell membrane
+
+Researchers at the Indian Association for the Cultivation of Science (IACS) Kolkata have used a using naturally occurring nucleoside molecule cytidine to self-assemble into a hydrogel in the presence of silver acetate and phenyl boronic acid. The hydrogel possessing i-motif DNA-like structure was found to exhibit antibacterial activity against Gram-negative bacterial strains such as E. coli, Pseudomonas aeruginosa, Klebsiella pneumoniae, and multidrug-resistant Morganella morganii.
+
+Non-toxic
+
+While silver is known to have antibacterial property, it may not be used due to its toxicity. But when silver acetate was incorporated in the hydrogel the toxicity was reduced and thus suitable for treating bacterial infections. The hydrogel containing silver acetate was found to be non-toxic to normal kidney epithelial cells and red blood cells.
+
+The research team led by Prof. Jyotirmayee Dash from the School of Chemical Sciences, IACS, found that the silver-containing hydrogel was capable of killing E. coli. The hydrogel reduced the cell size of the E. coli and disrupted its cell membrane, leading to leakage of cellular contents. The results of the study were published in the journal ACS Applied Bio Materials.
+
+“The hydrogel can be tuned to change the anti-bacterial activity,” says Prof. Dash. “By changing the boronic acid component used in the hydrogel we can prepare a large number of hydrogels with different bacterial killing properties.”
+
+Physical properties
+
+Aside from self-assembling, the hydrogel exhibits thixotropic property — changes from a gel to a sol phase when subjected to mechanical shaking or stirring. When allowed to stand, it returns to its original gel phase. The hydrogel is also pH responsive. While being stable between pH 3 and 6, it becomes unstable at more acidic or alkaline pH.
+
+“So the hydrogel can be used for drug delivery applications by using external stimuli such as mechanical stress or by changing the pH,” says Prof. Dash. The low pH of the gel is also another contributing factor for its intrinsic antibacterial activities.
+
+The researchers loaded the hydrogel with cancer drug doxorubicin and made the gel release the drug by subjecting it to mechanical shearing and changing the pH. “We tested the drug-delivery property and in cellulo activities are currently under progress.

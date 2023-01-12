@@ -1,0 +1,7 @@
+Exclusive: N Korea Stole Data From Kudankulam Attack, Says Expert
+
+The cyber attack by suspected North Korea-based hackers on the Kudankulam Nuclear Power Plant in September was intended specifically for information theft and The Quint has now been told that the actors were able to steal technology-related data from the plant’s IT systems.
+
+IssueMaker Labs, an expert group of malware analysts based in South Korea who have tracked the North Korean actors suspected to be behind the attack since 2008, told The Quint that the actors were backed by the North Korean government and stole data by deploying a malware designed for data theft.
+
+“We have found that Nuclear Power Plant technology-related data has been taken,” Simon Choi, founder of IssueMaker Labs told The Quint.

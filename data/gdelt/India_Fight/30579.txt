@@ -1,0 +1,43 @@
+How Much Space Debris From India’s ASAT Test is Still in Orbit?
+
+New Delhi: It’s been nearly three months since India’s three-minute “moment of pride” – when it “shot down” a low-orbit satellite – and it would appear about half of the debris fragments generated are still in orbit today.
+
+Although the anti-satellite (ASAT) test was conducted at an altitude of about 300 km, the consequent debris cloud extended beyond the original parent object orbit. As The Wire previously reported, some fragments have even climbed into the upper reaches of the low-Earth orbit, endangering other satellites.
+
+The Defence Research and Development Organisation said that India’s ‘Mission Shakti’ had been carefully planned to minimise the amount of debris generated. But experts in the West tracking the debris have raised concerns with the country being in denial.
+
+Marco Langbroek, one of those experts, claimed in an analysis he posted on Twitter that, as of mid-June, “92 larger debris pieces from the test” had been catalogued and that half of them “were still orbiting today”.
+
+In a post titled ‘Why India’s ASAT test was reckless,’ the Dutch satellite tracker noted on May 1 that the Indian mission was “conducted in a less responsible way than originally claimed.” The test, he said, generated debris with much longer orbital lifetimes – in come cases up to 10-times longer.
+
+These fragments ended up at much higher altitudes than what the Indian government has been willing to admit, thus becoming a potential threat to satellites in all orbital inclinations at these altitudes.
+
+Also read: India Has a Long Way to Go Before it Can Use Space for Modern Warfare
+
+While India has claimed that the debris would decay within 45 days of the test – which was over a month ago – Langbroek noted that barely 40% “of the tracked larger debris had reentered” as of June 15.
+
+He has forecast that some five fragments would still be on orbit a year after the test. The last one is likely to survive until mid-2021.
+
+2/4
+
+According to the Indian Government forecast at the time of the test, the last debris pieces should have reentered 45 days after the test, i.e. a month ago. The reality is different. 45 days after the test, barely 30% of the tracked larger debris had reentered. pic.twitter.com/cmx0AxPMgR — Dr Marco Langbroek (@Marco_Langbroek) June 16, 2019
+
+Langbroek has been plotting the Indian debris in what is called a Gabbard diagram and on May 3, he catalogued eight new pieces, taking the “total number for which orbital elements have been released” to 92.
+
+Orbits for 8 new pieces of debris from the Indian #ASAT test on Space-Track.
+
+Total number for which orbital elements have been released now 92. Updated Gabbard diagram: pic.twitter.com/ObXcktnCH1 — Dr Marco Langbroek (@Marco_Langbroek) May 3, 2019
+
+Standing by its claims, DRDO chief G. Satheesh Reddy reportedly said that month that the “majority” of the debris was “gone” and that “the few remaining will decay shortly.”
+
+The ASAT missile is essentially a three-stage rocket weighing 19 tonnes and standing 13 m high. It has a range of up to 1,000 km, a span that encompasses the orbits of most low-Earth orbit satellites.
+
+Reddy previously claimed that the test itself had been conducted to intercept a satellite at about 280 km to minimise the threat of space debris. The missile can target satellites travelling at over 7.5 km/s (with relative velocities around 10 km/s for satellites in low-Earth orbit).
+
+Because of the high precision and control demand, Reddy had said that the entire operation – identifying the satellite, launching the missile and tracking and destroying it – had been automated.
+
+Jonathan McDowell, an astrophysicist at the Harvard-Smithsonian Center for Astrophysics, Massachusetts, who has previously called India’s claim that the debris is not a problem “nonsense”, plotted the orbit height versus time for the Indian ASAT debris earlier this month.
+
+Updated plot of orbit height vs time for Indian ASAT debris pic.twitter.com/aZeaUlZQKI — Jonathan McDowell (@planet4589) June 9, 2019
+
+Even before that, McDowell had noted that at least “half” of the debris will be up and threatening other space traffic for months to come, “in contrast to the claims made by the Indian government.”

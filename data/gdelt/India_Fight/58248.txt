@@ -1,0 +1,33 @@
+Future-proof your business with a data shot in 2020
+
+Nine out of 10 CEOs I met in the last 6 months acknowledged that data management is integral to the successful running of their organisations.
+
+We live in a truly data-driven world. As per Domo’s Data Never Sleeps 7.0 report, the world is witness to more than 18 million text messages that are sent; 4.5 million YouTube videos watched; 511,200 tweets and 55,140 photos posted every minute of every day! This treasure trove of data is, in reality, of immense value—offering businesses the unlimited opportunity to improve customer satisfaction or profitability and ultimately allowing them to be successful. They just need to be smart to know it, and how to collate, process and secure it.
+
+In today’s digital economy, data has become the new battleground for business, and being able to master it through effective data management can have a direct impact on an organisation’s success. For this reason, the database becomes the de-facto heartbeat of an enterprise. Nine out of 10 CEOs I met in the last 6 months acknowledged that data management is integral to the successful running of their organisations. But with databases growing in size and complexity, the task is only getting harder. Enterprises are being forced look to new solutions that could be driven by automation and machine learning, to unlock their data potential.
+
+Depending only on human intervention isn’t an option
+
+When an employee or customer wants to retrieve data, the process is complex and can consume a great deal of time, as well as compute and disk-access resources. This is especially true at peak times when thousands or potentially millions of users are trying to access the database, say, during festive sales.
+
+This manual approach is beginning to crumble under the weight of exponentially growing organisational data. Traditional database management has become extremely time-consuming and expensive: 72% of IT budgets are spent simply maintaining existing information systems.
+
+With DBAs often finding themselves managing 50 or more databases a day, human errors are going to be inevitable. Common errors include failure to apply a security update or inability to keep a database fully optimised. These errors can be disastrous for uptime and security, but there’s a more fundamental problem. A company unable to keep its databases performant is less able to utilise its data effectively. Employees will struggle to get data they need and will be slower to make decisions, while customers will suffer from an unsatisfying user experience. Every second of every day counts.
+
+Why it’s time for an autonomous approach to data management
+
+To remain relevant and competitive in the long run, companies must explore new ways to reduce the effort needed to maintain databases, limit downtime and, above all, accelerate performance so data can support their ‘innovation agenda.
+
+Increasingly, with the advent of emerging technologies such as like automation and AI/ML, autonomous systems are being born. The ‘autonomous database’ is the first successful example of this revolution. Its self-driving, self-securing and self-repairing features are making it easy and cost-effective to adopt, while freeing IT up to focus on innovation and higher value-adding tasks.
+
+Give your business the data booster shot to succeed in 2020 and beyond
+
+Above all else, an autonomous database gives organisations a data shot to the arm – the ability to better access and utilise their data—faster and more efficiently—enabling greater productivity and a more seamless, competitive customer experience.
+
+The direction of travel is clear – databases are only going to get larger, more complex and more important to business success. India already houses some of the world’s largest databases with the sheer size of our economy, population and businesses. Companies fully utilising the benefits of cloud solutions and other emerging technologies for better data management will survive. This data injection will enable them to become truly data-driven, develop their ability to boost critical areas, drive the customer and employee experience to new heights and be an inspiration to new businesses.
+
+How to make the autonomous leap?
+
+One of the first steps to future-proof your business is to future-proof your IT, so it can well support your growth and expansion in the next decade. The beauty of a Gen 2 cloud with autonomous capabilities is you can try something small and scale up when you’re ready – with the mindset and confidence – to go the whole distance. Possibly by using a small dataset to run analytics, extracting deeper insights in no time. To understand the quantum of business value you can unlock from your data, bring alive the latent data-driven business leader in you, and arm your business with an autonomous edge in 2020.
+
+The author is Regional Managing Director, Oracle India

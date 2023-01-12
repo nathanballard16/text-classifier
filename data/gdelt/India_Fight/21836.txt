@@ -1,0 +1,63 @@
+Made in India, for the world: this startup incubated at IIT Madras is an Uber for putting satellites in orbit
+
+Launching a satellite is, quite literally, rocket science. Which means it is also expensive. While the Indian Space Research Organisation (ISRO) has become a popular option to launch satellites from across the world at affordable rates, launching a small satellite remains a challenge.
+
+For one, small satellites are often the last choice for a launch vehicle because launching their larger counterparts is more profitable – the more the weight, the higher the cost. So, a small satellite may have to wait at least 24 months to get a ride that would put it into a low-earth orbit.
+
+Countering this problem is an IIT Madras-incubated startup, Agnikul Cosmos. As the company’s Co-founder and CEO Srinath Ravichandran told YourStory, waiting for a launch vehicle is a lot like waiting for a bus in rural India.
+
+"Customers have to wait until a launch vehicle is going where they want to go. There are no dedicated launch vehicles for these small satellites," he says.
+
+Agnikul is developing small-scale launch vehicles for such satellites and hopes to offer it at the super competitive rate of $15,000 per kilogram of payload.
+
+But what stands out is its promise to launch a small satellite within two weeks of a customer signing up. If all goes well, Agnikul should launch its first vehicle in 2021.
+
+It is also estimated that by 2024, the global market for satellite launch vehicle would reach $2.4 billion.
+
+Apart from building dedicated launch vehicles for small satellites, Agnikul’s USP is its plug-and-play concept: its launch vehicles are way less complex when compared to large launch vehicles like PSLV and others.
+
+Moin (left) and Srinath (right) with their model launch vehicle
+
+Also read: This Indian startup is cutting the cost of putting satellites in space, making them last longer
+
+In addition, the launch vehicle’s propulsion system is entirely 3D printed and can be completed in just 36 hours. Srinath says the 3D printing for their prototypes was carried out using an existing 3D printer instead of outsourcing the job to a new customised printer. The aim is to make launch vehicles cost-effective, compact, and efficient.
+
+"Our aim is to reduce the complexity and make sure that there isn’t much human intervention during vehicle assembly," explains Srinath.
+
+For the launch vehicle’s propulsion system, Agnikul Cosmos chose liquid oxygen and kerosene instead of cryogenic propulsion, which utilises a mixture of oxygen and hydrogen.
+
+Stay Updated Get stories of change makers and innovators from the startup ecosystem in your inbox Please fill in this field. {{#error}} {{error}} {{/error}} {{^error}} Something went wrong. Try again later {{/error}} Welcome Onboard ! You have been successfully registered for our daily newsletter.
+
+One reason they wanted to avoid cryogenic propulsion was because small launch vehicles do not require a high magnitude of power and handling them is a difficult task as oxygen and hydrogen are highly reactive and dangerous.
+
+"The liquid oxygen and kerosene propellant is a safer combination compared to oxygen and hydrogen. It is also a greener alternative that has been used in the Falcon 9 launch vehicle by Space X," Srinath points out.
+
+SpaceX – which is led by Elon Musk – is competition for Agnikul, as are Blue Origin, led by Jeff Bezos, and ARCA Space, to name a few.
+
+Srinath and his team, however, remain undaunted in the face of such competition. After all, it is not every day that an electrical-engineer-turned-finance-professional becomes an aeronautical engineer in order to tackle space, the final frontier.
+
+"I am a space enthusiast myself and after witnessing the success of ISRO across the globe, I decided to do something related to space in India," says Srinath, who did his second Master’s degree in Aerospace, Aeronautical, and Astronautical Engineering, from the University of Illinois.
+
+While he has the right credentials, what he needed was an academic partner. It was in 2015 that Srinath started visiting universities across India to explore partnerships.
+
+Two years later, on a visit to IIT Madras, he met Prof Satyanath Chakravarthy, a propulsion expert and the Head of the National Centre for Combustion Research and Development (NCCRD), who understood and supported his concept. He helped Srinath and his team do research and development work for their launch vehicles and its propulsion system at NCCRD.
+
+Also read: These IIT students are part of the only Asian team shortlisted for Space X's hyperloop competition
+
+It was around this time that Srinath met Moin SPM, who at that time was looking to move from manufacturing into aerospace. The 27-year-old later joined Agnikul Cosmos as a Co-founder in 2017.
+
+Srinath says,
+
+"As we had IIT Madras as our partner, we registered our company in Chennai and later got incubated at IIT Madras itself."
+
+Soon, Srinath and Moin realised they needed someone who had practical experience in this field. They were fortunate, they admit, to come across Prof Satya Chakravorty, who had a few contacts in ISRO and introduced them to RV Perumal, former ISRO scientist and an ex PSLV mission director.
+
+With an all-star team on board, they were ready to raise seed funding.
+
+There was an initial surge among the investors who were looking to invest in deep tech hardware. We met Vishesh Rajaram and Arjun Rao from SpecialE Invest in mid-2018, after which we received Rs 3 crore as seed funding.
+
+Since then, Agnikul has also been part of the Airbus BizLabs accelerator programme, and may receive a grant.
+
+Until then, the 35-member team continues to work on making small launch vehicles for small satellites, making it a boon for customers in the field of earth observatories and telecommunication companies.
+
+Also read: Elon Musk-led SpaceX launches India's first privately built satellite, Exseed Sat-1

@@ -1,0 +1,139 @@
+[Techie Tuesday] Sanjeev Barnwal of Facebook-backed Meesho has one advice for coders: ‘get out and meet the customer’
+
+Sanjeev Barnwal, Co-founder of Facebook-backed Meesho, says he took to engineering because he didn't want to opt for biology. But, along the way, the 28-year-old’s love for tech has not paled the importance of other, equally critical, learnings as well.
+
+For instance, pursuing entrepreneurship has helped him understand that being a techie involves a lot more than just coding, and building a startup also requires you to build relationships.
+
+Today, as CTO of Meesho — a mobile-first social commerce platform for small businesses that use WhatsApp and Facebook to keep in touch with customers — building great tech still remains Sanjeev’s passion, but he has also recognised the power of talking to the customer in order to be successful at solving real problems.
+
+In an interaction with YourStory, Sanjeev Barnwal, Co-founder and CTO, Meesho, charts his personal journey and growth — from a small town in Jharkhand to IIT-Delhi, then Tokyo and starting up in India — his love for technology, and why Meesho was the solution waiting in the wings for the millions of resellers and emerging brands in India.
+
+Sanjeev Barnwal, Co-Founder and CTO, Meesho
+
+IIT calling
+
+Before Meesho, and everything that preceded it, an 18-year-old Sanjeev took a gap year after school to join every IIT hopeful on their pilgrimage to Kota. He made it to IIT-Delhi right after, and pursued Electrical Engineering.
+
+“I knew I wanted to do engineering, and not biology. And the best place for engineering is IIT. If I do anything, I want to be the best at it. And that is why I even took a year off,” he says.
+
+Sanjeev, however, notes that engineering just happened to be the most obvious answer for him as he could not think of anything else he wanted to do with his life.
+
+“I got into engineering because that was the option I knew and was aware of. It was a choice by exclusion. My life was not that difficult and anyway things become easier when you get into an IIT. And because my brother was older, he provided me with a lot of guidance. My family was aware that I had to make sure that education was very important.”
+
+Hailing from a middle-class family in Ranchi, starting up wasn’t exactly on the cards for Sanjeev. The son of a Central Coalfields Limited (CCL) employee and a homemaker, he lived in Hazaribagh, a small town in Jharkhand till Class X. Soon after, the family moved to Ranchi for two years, where Sanjeev did his Class XI and XII.
+
+Stay Updated Get stories of change makers and innovators from the startup ecosystem in your inbox Please fill in this field. {{#error}} {{error}} {{/error}} {{^error}} Something went wrong. Try again later {{/error}} Welcome Onboard ! You have been successfully registered for our daily newsletter.
+
+It was when he was in high school that Sanjeev saw his first computer. “I was just curious more than anything. The internet opened up a whole new world for me and that was it. I didn’t think much beyond that back then,” he recalls.
+
+At IIT, Sanjeev truly understood the power technology and coding hold to make lives better.
+
+“We created an app for visually impaired people to recognise the denominations of Indian currency. I don’t know what happened to that; it probably stayed back with the professor. But then it made me realise the power of technology,” he says.
+
+Sanjeev with his IIT Delhi batchmates
+
+Lessons from Tokyo
+
+Post-IIT, Sanjeev joined Sony in Japan. He was a part of the core tech team that developed the company’s digital single-lens reflex camera (DSLR), and Sony’s Cyber-shot cameras.
+
+At Sony, he worked on the hardware abstraction layer from scratch. Explaining his work, Sanjeev says, “Below the Android Open Source Code (AOSP), every vendor has its own layer. This is the layer that interfaces your hardware to the AOSP. This layer, I think it was Android Lollipop then, was the biggest change from the previous version. We had to rewrite this whole layout. So I wrote one of the layers from scratch."
+
+He also worked with the team that was trying to port Sony’s Cyber-shot camera tech into Xperia, the company’s Android smartphone range. “I was part of that project as well. At that point of time the smartphones they released had the best cameras in the world,” he adds.
+
+For him, the learning was mostly around how a device operates on a driver layer side. “I don’t think a lot of that translates into the usual backend programming, but you do get some sense of the idea of good architecture,” he says.
+
+While Sanjeev was happy at Sony and learnt a lot during his time in Tokyo, he couldn’t ignore the niggling feeling that he was meant to start something on his own. This, coupled with the passion to build tech, led him to start up with a couple of his other Indian colleagues in Japan, a year before he left the country.
+
+“Nothing was concrete then. We were trying to build something similar to what [HR tech startup] Belong does today. We were trying to use Facebook data to predict social behaviour: basically deriving personality out of Facebook likes, type of posts, reactions, etc. We tried that for a year and built it to some extent and tried selling it. We failed and realised that we were not good salespeople,” Sanjeev laughs.
+
+Eliminate shipping anxiety and convert shoppers into loyal customers.
+
+“Narvar gives us an opportunity to positively impact the overall shopping experience for our customers from the moment they have clicked the buy button; and this keeps them coming back. The solutions are easy to implement, scalable and impactful.” Pragya Batra, Co-founder, Quirksmith
+
+‘Why join a startup when you can start up?’
+
+In 2015, while he was still in Tokyo, he received interest from a few Indian startups that wanted him to help them with natural language processing (NLP). This made Sanjeev realise that the startup ecosystem in India had arrived.
+
+“So I called Vidit [Aatrey], my batchmate from IIT Delhi. We were in the same department and hostel back then. Luckily, he was in Bengaluru, at InMobi. I called to ask about the startup that was interested in hiring me. He instead said, ‘Why would you join a startup? Let’s start one of our own’. So, in a month or so, we decided to go ahead and build something on our own. Both of us resigned from our jobs and I got back to India in June 2015. But even at that point, the idea for the startup was not finalised,” Sanjeev recalls.
+
+The initial idea for the two friends was a fashion marketplace: the platform would remap all the shops and then customers could use the app to try the product before they purchased it. But the idea didn’t take off.
+
+It was then that Meesho was born.
+
+Centre (L and R) - Vidit and Sanjeev during their IIT Delhi days
+
+The birth of Meesho
+
+“Before the first pivot, we were talking to customers and trying to understand why they were not buying. At that point of time, our vendors on our backend were multi-brand stores. We used to go to the stores and take photos of the vendors to put it on our app. They introduced us to social commerce,” says Sanjeev.
+
+What got Sanjeev and Vidit hooked onto this particular aspect of doing business for SMB brands and resellers was the potential for tech intervention their operations held.
+
+Typically, these stores would take down the WhatsApp number of every customer, make a group, and send pictures of new inventories. This introduced Sanjeev and Vidit to the many WhatsApp shopping groups in India dedicated to buying and selling.
+
+In late 2015, Meesho came to be out of a small two-bedroom apartment in Koramangala, Bengaluru. Sanjeev and Vidit’s first desk was a dining table.
+
+“We were trying to figure out what to build. We were working seven days a week and our idea of weekends was a sip of cheap beer between coding. It clearly was a big step down from the sake in Japan and Sony Corp!” Sanjeev says.
+
+In the early days of Meesho, Sanjeev was playing the role of a techie, while Vidit was handling operations. The duo built the backend and launched in a month.
+
+Today, the platform works on a social commerce premise and helps resellers and emerging brands build businesses using social media. Facebook recently made an undisclosed investment in the startup - the social media giant’s first in a startup in India.
+
+Now, the founding duo has upgraded from the 2BHK flat to a four-storey office in a prominent part of Koramangala. The startup has over 500 members in its team, and has on-boarded over 2,00,000 resellers across India.
+
+They may have arrived, but Sanjeev says he would never regret the early-day struggles as they were the foundation on which Meesho stands today.
+
+Sanjeev Barnwal (extreme left) and Vidit (extreme right) with a reseller
+
+The importance of staying flexible
+
+To begin with, Sanjeev and Vidit scoured Facebook, which hosted plenty of groups of sellers. “We found some 50 sellers on Facebook and tried to understand their problems and gaps. It was then that we figured that these guys need a microsite like Shopify to run their business and payments, manage orders, and share their inventory. We then built a platform that is now called Meesho,” Sanjeev explains.
+
+He built the backend using PHP as in the initial stage, he says the programming language does not matter. "I was comfortable with PHP,” Sanjeev adds. It was during this time that he had his first hard learning as a tech co-founder - building something fast and not for scale, especially in the early stages.
+
+Sanjeev says,
+
+“In the initial days, it is important to get the minimum viable product (MVP) out quickly. You have to be okay with your idea changing. You cannot fall in love with it. This is an extremely hard pill for a techie to swallow as we techies have the habit of putting in a lot of effort to build the perfect software.”
+
+He underscores the importance of staying dynamic and not averse to change.
+
+“The moment you build something for scaling during the early days, you are wasting time because you don’t know if that idea is going to stay with you. The most important part in the initial phase of a startup is that you have to be very dynamic,” Sanjay adds.
+
+In his experience, the first plan usually doesn’t work. There will always be tweaks to your idea. This is why the stuff you are building at the beginning is not going to stay till the end.
+
+“I was naive enough to think that in the beginning, when you jump from a bigger company to start up, you think you will build the product, raise a lot of money, scale, and then go home. But then I realised timing is very important since the market is not in your control. So, it becomes difficult to gauge the idea. For us, the first idea did not take off so we had to pivot. That’s when I realised that we have to keep fighting for it.”
+
+Hey, techie! Talk to your customers
+
+Sanjeev delves into why techies starting up and building products need to have a different frame of mind that goes beyond writing code.
+
+This line of thinking was also reinforced during Meesho’s time at Y Combinator’s summer batch of 2016 when it was one of the three Indian startups cherry picked by the California-headquartered accelerator.
+
+During the three-month programme, Sanjeev realised that the role of a techie, tech founder, or CTO changes every few months, especially if the startup is growing. At the beginning, it does not matter if you are a techie founder. You still have to talk to customers, understand their perspective, and build accordingly.
+
+“Why focus on building something for scaling? All of this can actually kill your career – you are spending your own money and running on your motivation. That is why you should always focus on the right thing – find customers and build something that they want. Always talk to your customers, as directly or indirectly they will tell you what they want,” Sanjeev notes.
+
+He explains the kind of impact that a techie has when they interact with their customer - you are in the position to decide how one can use tech to solve a problem they are facing in the best possible way. No other person in your team will be able to figure that out.
+
+“Y Combinator tells you clearly that if you don't do this, you are not going to succeed. You absorb that and realise that their experience tends to be true. Initially, everyone loves coding. Now, I realise that it is required you understand the impact you have by not coding as well. Letting the entire team contribute and do their work takes time,” he adds.
+
+When to code, and when not to
+
+Sanjeev explains that while a lot of planning is required, the startup has to stay agile too. “When you get the MVP tested and there is a market, that is when you quickly start building for scale,” he adds.
+
+He explains that you also don’t want to diversify too much in terms of language and framework as when you scale, you have to develop expertise in that.
+
+“So a lot of planning goes into what you are building, why you are building it, if it’s going to scale or not, what kind of scale it is going to handle, because a lot of other people have to work on it,” he adds.
+
+Today, Meesho does a lot of A/B testing. Sanjeev says they are a data driven-company, and they collect a lot of metrics, put them in a useable format, and place it in front of everyone.
+
+“Our dashboard is very easy to use. Everybody has access to a lot of data. Whenever we have any discussion around building any feature or trying to solve any problem, it is always about a certain metric. For example, order per reseller is a very important metric for us. Meesho grows only if the resellers grow,” Sanjeev explains.
+
+From IIT Delhi to Sony in Tokyo and now Meesho in India, Sanjeev’s career has always been about championing tech. But he has also learnt how to use it in a way that truly creates value.
+
+He underscores the importance of a techie doing their due diligence before starting up.
+
+“There are two things: First, ask yourself if you really want to start up. Your life changes a lot, and if you want to build something big and really impactful, forget everything else. Think before you start up with an idea. Get a feel of it by working on a side project with friends, and figure out if entrepreneurship is for you. And second, as a techie, get out of your cubicle and meet the customer,” says Sanjeev.
+
+(With inputs from Debolina Biswas)
+
+(Edited by Evelyn Ratnakumar)

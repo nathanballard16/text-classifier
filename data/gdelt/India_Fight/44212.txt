@@ -1,0 +1,25 @@
+Telecom companies brace for fresh battle over IUC
+
+There’s a fresh battle brewing in the telecom sector over interconnect usage charges. While new entrant Reliance Jio wants the charges to be reduced to zero by next year, Airtel and Vodafone Idea want an increase in these fees to 14 paise a minute from 6 paise now.
+
+The trigger is a new consultation paper by the Telecom Regulatory Authority of India (TRAI) which has asked the industry whether the deadline to reduce interconnect charges should be extended beyond April 2020.
+
+What is IUC?
+
+Interconnect usage charges (IUC) is a fee paid by the operators on whose network the call originates to the operators on whose network the call terminates. The fee is paid because the originator operator collects tariffs from consumer for the call whereas the operator on whose network the call terminates does not get anything even though its infrastructure is used for completing calls. IUC acts as a compensation fee to the terminating operator.
+
+Traditionally, when telecom networks were only about voice calls, this fee was necessary to compensate the larger operators who have invested billions of dollars into rolling out network into all parts of the country. The fee is loaded heavily in favour of large incumbent operators because the number of calls from a new player’s network to an incumbent operator’s network is always higher compared to the number of calls from incumbent operators to a new player.
+
+In this context, in 2017, TRAI mandated 0.06 (paise six only) per minute with effect from the 1st October, 2017 and 0 (Zero) with effect from January 1, 2020. Trai’s assumption was that by 2020, there will be symmetry between the new operator — Reliance Jio and the incumbent players wherein the outgoing and incoming calls will be equal and hence IUC can be reduced to zero.
+
+“While making this rule, the regulator’s assumption was that the majority of the calls would terminate on VoLTE (4G) and that lowering the IUC will lead to symmetric traffic. However, the ground reality is that Trai’s estimates have not proven to be correct. Significant amount of traffic continues to be on 2G and 3G and there is no way that there will be symmetry of traffic by the end of the year,” said a source close to the incumbent operators.
+
+Heavy 4G rollout
+
+Airtel deployed a total of 1.73 lakh 4G-LTE sites in the past 3-4 years as compared to 1.82 lakh 2G sites deployed over 20 years. Airtel’s 4G network covers 92.8 per cent population compared to 94.5 per cent population by its 2G network.
+
+Despite such heavy 4G roll-out, only 100 million Airtel customers are using 4G–LTE data network. The remaining customers (65 per cent) are still using non 4G (2G/3G) handsets as these 2G/3G handsets are more affordable. “Despite deploying VoLTE on a pan-India basis, only 15 per cent of Airtel’s voice traffic is being carried on VoLTE. This again is due to a large number of customers continuing to use non-VoLTE handsets,” said an industry executive representing one of the incumbent operators.
+
+However, sources close to Reliance Jio dismiss the stand taken by the incumbent players. “The incumbent operators are clamouring for IUC because they are not interested in moving up their customers to 4G. IUC is a way to encourage old and inefficient technologies,” said a source aware of RJio’s thinking.
+
+“Incumbent operators are wrong in their assessment of not achieving symmetry. Going by the data put out by TRAI, there will be symmetry by next year and in fact RJio may emerge on the net positive side in terms of incoming to outgoing calls ratio,” said another source.

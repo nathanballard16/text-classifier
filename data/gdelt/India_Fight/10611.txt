@@ -1,0 +1,47 @@
+Samsung Galaxy M30 first impressions: Triple-cameras come to the mid-range segment
+
+Even while Samsung’s global team is busy with showcasing the flagship Galaxy S10 lineup and the futuristic Galaxy Fold, Samsung India is busy fighting it out in the mid-range segment. The company introduced the Galaxy M series with two smartphones — The Galaxy M10 and the Galaxy M20 back in January. Just a month later, the Galaxy M30 is here, making Samsung’s presence stronger in the ever-evolving mid-range smartphone segment in India. The Galaxy M30 arrives just a day before Xiaomi is expected to take the wraps of the Redmi Note 7 and the Redmi Note 7 Pro and the phone landed up in our test lab just a few hours before launch. The phone also came with an aggressive price-tag of Rs 14,999. After using the device for a limited period of time, this is what we thought of it —
+
+Let’s get the hardware specs of the Samsung Galaxy M30 out of the way first. The phone houses a 6.4-inch Super AMOLED display with FHD+ resolution. Samsung particularly stressed upon the fact that the phone comes with Widevine L1 certification that allows one to stream HD content in Netflix, Amazon Prime and more. This is something other Chinese OEMs like Xiaomi and Honor skip in their devices and might give the M30 an edge over the others.
+
+Under the hood is a Samsung Exynos 7904 SoC, the same as the Galaxy M20. From what we had noted on the Galaxy M20, the Exynos 7904 has the same CPU as that of the older Exynos 7885 octa with two 1.8GHz high-performance cores and six 1.6GHz cores for low-power tasks. The only major difference is an upgraded ISP that supports a triple-camera setup. Added to that is 4GB of RAM and 64GB of storage. There’s also another variant of the phone with 6GB RAM and 128GB storage priced at Rs 17,999. You also get the option to expand storage via a dedicated microSD card slot, up to 512GB.
+
+The Samsung Galaxy M30 is also notable for having a USB-C port along with a rear-mounted fingerprint sensor and a triple-camera setup on the back. Powering it all is a massive 5,000mAh battery, same as the Galaxy M20.
+
+In fact, there’s very little separating the Galaxy M20 and the Galaxy M30 save for the extra camera sensor on the back. Both phones have the Infinity-U display with an U-shaped notch that lights up every time you flip the front camera open. The phone supports 15W fast charging.
+
+Samsung Galaxy M30 design and display
+
+The Samsung Galaxy M30 looks a lot like the other M-series phones. It has the same glossy exterior with a subtle gradient finish. It does look nice. The corners curve to fit the palms offering a good grip while the screen itself is a little raised from the body. We couldn’t confirm whether the phone has a protective glass on top of the display. The spec-sheet reads the Galaxy M30 display has a pixel density of 394 ppi, which is standard across most FHD+ devices in the mid-range segment, while the aspect ratio is 19:9. It’s an AMOLED display where the Galaxy M20 offers a TFT LCD panel. At first glance, the Super AMOLED felt a cut above the other common LCD panels. The stock wallpapers have deep contrasts that feels a lot more vibrant. We will test out the phone's display vigorously, but we have a feeling the Galaxy M30 may have one of the best displays in the under-15k range.
+
+Samsung has used the Infinity-U design for the front. While the company bucked the wide rectangular notch in all of its devices last year, the U-shaped cutout in the display debuted with the Galaxy M-series. It’s fairly acceptable and doesn’t really intrude into what you’re viewing, at least for the little time we used the phone. The area around the notch shows the notification icons and other status bar elements. The notch also lights up when you open the front camera which looks really nice.
+
+The Galaxy M30 feels a little larger than the M20 because of the extra screen-real estate. It seemed the bezels are equally large on both the phones.
+
+Samsung Galaxy M30 camera
+
+One of the reasons why Samsung believes the M30 will be a hit in the Indian market is because the phone offers a triple-camera setup in the mid-range segment. Ultra-wide cameras seem to be the rage this year and right from flagships to mid-rangers, every smartphone seem to offer one. The one on the Galaxy M30 has the same specs as that of the Galaxy M20. Both phones have a 5MP ultra-wide sensor with fixed focus and f/2.2 aperture. Then there’s a 5MP depth sensor along with a 13MP primary sensor with f/1.9 aperture and 1.12um pixel pitch. Once again, the specs indicate this is the same primary sensor as that on the Galaxy M20.
+
+The triple-camera setup, as a result, is used to shoot ultra-wide photos, standard shots and portrait photos. The latter allows one to adjust the amount of depth in post-processing. However, the initial few photos that we took had the same amount of barrel distortion seen on the Galaxy M20’s camera. Samsung does offer a shape-correction feature though, which straighten the lines by cropping out the frame.
+
+On the front, the Samsung Galaxy M30 bumps up the camera specs and offers a 16MP sensor with f/2.0 aperture. The front camera also support portrait shots but uses software to simulate the bokeh effect.
+
+The rear cameras on the Samsung Galaxy M30 can shoot slo-mo videos (not in 960fps though) and can record panoramas, hyperlapse and even has a pro mode. However, the pro-mode lacks a few essential controls like shutter-speed.
+
+Samsung Galaxy M30 performance and UI
+
+Based on the limited time of usage, the Samsung Galaxy M30 felt fairly responsive and usable. It’s not terribly slow, but it’s not blazing fast either. The lock screen shows various photos and articles every time you unlock, which makes unlocking the phone a little longer. We also noticed a little lag between opening the camera app and getting to the viewfinder. The fingerprint sensor works pretty fast though and is easy to reach. We will be putting the phone through our suite of performance tests to see how it fares against its peers.
+
+The Galaxy M30 uses the same Samsung Experience 9.5 UI that’s there on the Galaxy M20. It’s based on Android 8.1 Oreo and Samsung didn’t give a definite timeline as to when the phone will be upgraded to the latest version. Surprisingly, the Galaxy M30 skips the OneUI interface that Samsung debuted with the S-series and then the recently announced Galaxy A-series at MWC.
+
+The Samsung Galaxy M30 should also last for a very long time thanks to a massive 5,000mAh battery. We are expecting similar battery life as the Galaxy M20 as not much has changed inside.
+
+Samsung Galaxy M30 Price and Availability
+
+The Samsung Galaxy M30 is also sweetly priced at Rs 14,999. At that price, you get an AMOLED display and three-cameras on the back. We did feel the 6GB RAM variant to be a little more expensive, though. Samsung announced the phone will be available from March 7 on Amazon India.
+
+First Impressions
+
+The Samsung Galaxy M30 is certainly an upgrade if you consider the devices Samsung was launching in the mid-range segment even a year back. There are a sufficient number of new features like a triple-camera setup, a bright and vibrant display and a big battery to make this smartphone a worthy rival to the upcoming Xiaomi Redmi Note 7 and the likes, especially for the price it launched in. However, there’s not much changed from the Galaxy M20 in terms of spec-sheet, except for the display quality and the number of cameras on the back.
+
+Just how the phone performs in the real-world remains to be seen and we will let you know once the phone has gone through our tests for the in-depth review. Stay tuned!

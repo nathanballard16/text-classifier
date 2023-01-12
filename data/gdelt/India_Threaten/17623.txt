@@ -1,0 +1,135 @@
+Explained: How and why the Indian economy is losing its growth momentum
+
+Subramanian, in his role as the CEA, had argued in the Economic Survey of 2017-18 that the economy was facing a TBS problem, whose origins he had traced to the economic boom that happened between 2005 and 2009.
+
+To a lay observer, the collapse of India’s economic growth momentum is nothing short of befuddling. That’s because until just a few years ago – to be precise until March 2017 – the Indian economy was not only growing at a progressively rapid pace but was also the fastest-growing major economy in the world.
+
+But this growth momentum (see table below) appears to have fizzled out just as sharply as it was achieved after the economy lost its way towards the end of UPA-II during the financial years of 2012 and 2013.
+
+But before understanding what led to the slowdown in India, readers must first familiarise themselves with a fundamental equation in macroeconomics.
+
+GDP = C + G + I + (NX)
+
+In other words, four drivers determine a country’s GDP.
+
+These are:
+
+– the total expenditure (demand) by private individuals (represented by C),
+
+– the total expenditure (demand) by the Government (represented by G),
+
+– the total expenditure (demand) on investments made businesses in the country (represented by I), and
+
+– the net effect of imports and exports (represented by NX).
+
+A country’s GDP can grow by one or all of these factors.
+
+Table: India has lost its GDP momentum just as fast as it gained it. Table: India has lost its GDP momentum just as fast as it gained it.
+
+The whole story of how India’s economy lost its way can be explained by looking at how each of these variables performed over the past decade.
+
+At times, the trade component (NX) was weak because the global demand for India’s goods was down. This hurt India’s GDP in that year – as it is happening this year when the global demand is low.
+
+On other occasions, government spent more than usual – say by investing in making new roads and bridges. This boosted the GDP. In another year, private individuals like you may be buying more cars and homes and this (C) expanded the GDP.
+
+So, what explains the turnaround in India’s fortunes?
+
+In a new working paper published by Harvard University’s Center for International Development last week, Arvind Subramanian, who was India’s chief economic advisor between October 2014 and August 2018, and Josh Felman, former IMF resident representative to India, give a detailed understanding of how the Indian economy lost its way.
+
+In a nutshell, they argue that Indian economy is facing both structural (that is, more long-term issues related to the overall framework of the economy such as the flexibility or inflexibility of labour laws etc.) and cyclical (that is, more short-term issues such as a bad monsoon that disrupts production of food articles etc.) challenges.
+
+Since the causes are both structural and cyclical, they say, arresting this economic slowdown is proving to be so difficult – measures that would have alleviated a cyclical slowdown fall flat because structural reasons are also involved.
+
+The authors build on Subramanian’s analysis of the twin-balance sheet (TBS) problem that India faced since 2014. They show that as the years rolled by the TBS problem morphed into a “four balance sheet challenge” for the economy.
+
+What was the twin-balance sheet problem?
+
+Subramanian, in his role as the CEA, had argued in the Economic Survey of 2017-18 that the economy was facing a TBS problem. The two balance sheets he referred to belonged to the Indian banks (especially public sector banks or the government-owned banks) and the corporate sector, respectively. He pointed out that the balance sheets of Indian banks were burdened by a high proportion of non-performing loans and the balance sheet of corporates were clogged because they had over-borrowed and were unable to pay. He traced the origins of India’s TBS to the economic boom that happened between 2005 and 2009.
+
+This was a period when economic prospects were rosy and the economy was growing at near double-digit growth rates. As such, companies threw caution to the wind and borrowed heavily in the hope of making profits in the future. The banks, especially the government-owned ones, too, ignored prudential norms and lent a lot of money to companies in the hope that this would help boost economic growth. As it happened, economic prospects collapsed quite sharply after the Global Financial Crisis (GFC) and a high proportion of companies found that their projects were no longer viable. The end result was that the companies were left with huge loans they could not pay back in time and the banks were left with huge loans that had turned duds.
+
+This essentially meant that neither the Indian companies were in position to invest nor were the Indian banks in a position to lend. This was the TBS.
+
+So why did economy continue to grow fast between 2010 and 2012 even after the GFC impact?
+
+On the face of it, the Indian economy appears to have largely shirked the GFC; the GDP growth rate dipped just 2009 but it was soon back to 9% to 10% in the succeeding years (2010 and 2011).
+
+What happened can be explained by the interplay of the different components of the equation mentioned above.
+
+It is true that between 2009 and 2013, companies were in no position to invest. So the “I” component of the equation above became weak.
+
+What also happened during this period was the hit to India’s exports because of a decline in global demand. So “NX” component above also weakened.
+
+But unlike in the developed world, where such companies would have been declared bankrupt and liquidated or where such banks would have sunk, in India, both the companies and the banks survived.
+
+Why?
+
+Banks: Because most of the struggling banks were owned by the government and so there was no risk associated with them; it was always believed that the government would bail them out. Companies: Most companies survived because banks took a call that giving these companies more time will help the companies repay. In fact, many banks actually lent new loans to such companies so that these companies stayed afloat.
+
+But there was another reason why India continued to grow fast in the immediate aftermath of the GFC.
+
+That had to do with the robust demand from the other two components – C and G. In particular, private consumer demand — which is quite weak these days — buoyed up the economy during this phase.
+
+What kept the economy going from 2014 to 2018?
+
+These were rather fortuitous years for the Indian economy. That’s because even though the TBS problem remained unsolved – in other words, the bank NPAs continued to climb and share of debt-ridden companies unable to pay interest payments continued to rise – yet, thanks to a sharp fall in crude oil prices, Indians experienced an income boost.
+
+During 2015 and 2016, international crude oil prices fell to a third of what they were in 2014. This essentially meant that Indians could spend more and the “C” component of the equation boosted the GDP. Subramanian and Felman claim this gave a 1 to 1.5 percentage point boost to the GDP.
+
+In other years, there were three other factors.
+
+For example, “2017 and 2018 saw an uptick in world demand and a real depreciation of the rupee, amounting to about 13 percent in real effective terms by late 2018. As a result, non-oil export growth rose from -8.6 percent in 2015-16 to 8.9 percent in 2017-18”. In other words, the “NX” component helped bump up the GDP growth.
+
+What further helped GDP growth in these years was increased government spending – the “G” component. This happened even though on paper the fiscal deficit stayed within or near about the prudential (FRBM) norms.
+
+How? Because government funded economic activity in the country not directly but indirectly through government backed institutions such as Food Corporation of India and National Highways Authority of India. These are called “off-budget” items which should ideally be counted in the fiscal deficit but are not.
+
+Last but not the least, India’s growth was boosted by a lending spree provided by non-banking financial companies (NBFCs) like IL&FS and DHFL.
+
+NBFCs took over the leading role of lending to the economy because banks were still struggling with NPAs and were largely unwilling to lend directly to businesses. The credit provided by NBFCs fuelled both private consumption (C) and business investment (I), and through this route fuelled GDP growth.
+
+The authors state that these factors papered over the disruptions caused by demonetisation and GST introduction.
+
+What derailed the economy after it had regained speed in 2016 and 2017?
+
+In short, there are two broad but interlinked reasons. One, the unresolved TBS problem, and two, the fall of NBFCs and the real estate sector. Together, they make for the Four Balance Sheet Challenge for the Indian economy.
+
+Even though the steepness of the slowdown is surprising, most analysts observing the economy for a while are not surprised by the growth slowdown per se. That’s because even during the phase when India seemed to have regained the crown of the fastest growing major economy in the world, the twin-balance sheet problem remained unresolved.
+
+This happened even after the introduction of the Insolvency and Bankruptcy Code (IBC) in December 2016. The data shows that the IBC resolution has been much slower than expected. Moreover, the recovery rates are nowhere near what were hoped for.
+
+As a result, the stressed enterprises have remained “stuck in a neverland” where their old promoters have been removed but no new owners have assumed responsibility, “where their debts are increasing even as their capacity to pay is diminishing, where their value as firms is deteriorating by the day, at ever increasing cost to the banks that lent to them and the taxpayers who must ultimately foot the bill”.
+
+The authors further explain how this meant that the problem spread across the economy over time.
+
+“Worse, this ‘virus’ cannot be contained to a few sectors and banks. It naturally spreads, for stressed companies slow their payments to other companies, cut back their operations and investments, and lay off workers”.
+
+But while the unresolved TBS problem provided a progressively weakening ecosystem of banks and companies, the collapse of some of the leading NBFCs has proven to be trigger for the sharp growth deceleration.
+
+Why did the NBFCs falter?
+
+“The trigger for the slowdown was the collapse of ILFS in September 2018. This was a seismic event,” state the authors. “One reason was obvious: ILFS was a behemoth, with Rs 90,000 crores of debt, so its failure sent shockwaves throughout the financial system. But there was also a deeper reason: the failure was completely unexpected, prompting markets to wake up and re-assess the entire NBFC sector. What the markets discovered was profoundly disturbing. Much of the NBFC lending had been channeled to one particular sector, real estate. And that sector itself was in a precarious situation”.
+
+Why was the real estate sector in a precarious situation?
+
+Simply put, the real estate story is about builders launching numerous projects since the start of mid-2000s in the hope that these flats would be lapped up.
+
+But after the Global Financial Crisis, the demand for flats as well as bank funding for builders collapsed.
+
+The NBFCs, however, took the lead in lending to the real estate sector. By June-end 2019, the real estate sector reached a breaking point with close to 10 lakh unsold units (as against an annual demand of just 2 lakh units) in just the top 8 cities in the country.
+
+What this meant is that that the real estate sector was unable to pay back to the NBFCs , which, in turn, starting defaulting.
+
+What’s the upshot?
+
+What becomes clear from this analysis is that India’s GDP has been affected by different factors at different times.
+
+For example, in the immediate aftermath of the Global Financial Crisis, it was private consumption that bailed India out. However, this component – “C” – has become progressively weaker since 2017 and is today the main worry.
+
+Similarly, G or government spending bailed out the GDP but at the cost of hiding the true fiscal deficit. This component is now overextended.
+
+The “I” or business investment component has been weak since the GFC and even sharp repo rate cuts and corporate tax cuts appear ineffective in the short term.
+
+The net exports or “NX” component has remained weak all through since the GFC, barring some positive movement when Rupee depreciated sharply.
+
+At this precise moment, C is down, G is overextended, I is stuck, and the outlook on NX is not rosy because global demand is also weak.

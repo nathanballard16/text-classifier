@@ -1,0 +1,45 @@
+Shell Companies In India
+
+ARTICLE
+
+To print this article, all you need is to be registered or login on Mondaq.com.
+
+In the past few years, 'panama' and 'paradise', rather than signalling sunshine and rainbows, have been frequently evoked in the context of the 'shell corporations' which were incorporated in various off-shore tax havens. 'Shell companies' are simply an 'outer cover', 'a protective layer' that frequently have only a paper existence with no real assets, liabilities or operations. They therefore generate no economic activity but do impart separate corporate legal personality to the structure. Various news reports and ministry circulars emphasize the efforts being undertaken to curb the sprouting up and regulating of shell companies in India. However, despite the pro-active measures taken by the Government, sizeable issues remain in the operation, implementation and harmonisation of the same.
+
+A Task Force on Shell Companies ("Task Force") in February, 2017 was set up by the Prime Minister's Office, under the joint chairmanship of the Revenue Secretary and Secretary, Ministry of Corporate Affairs ("MCA") with a "mandate to check in a systematic way, through a coordinated multi-agency approach, the menace of companies indulging in illegal activities including facilitation of tax evasion and commonly referred to as 'shell companiesi." The achievements of this Task Force are by no means nominal and substantial ground has been covered in moving towards eliminating shell companies from the system. Databases have been compiled, more than 2 lakh (two lakh) companies have been identified and their names been struck off the Registrar of Companies("RoC") under Section 248 of the Companies Act, 2013 ("Act").
+
+Section 248 is the crux, and at present, one of the few provisions in the legislation that seeks to curtail shell companies.Section 248 vests the power with the Registrar to remove the name of any such company from the RoC where a company has failed to commence business within 1 (one) year of incorporation or where the company has not been carrying on any business or operation for a period of the preceding 2 (two) financial years and has not applied for dormant company statusii. The Companies (Amendment) Act, 2019 ("Amendment Act") (which received the President's assent on July 31, 2019) supplements the provisions of Section 248. Some of the measures contained in the Amendment Act are:
+
+A new Section 10A has been inserted which stipulates that a declaration is to be filed by a director within a period of a 180 (hundred and eighty) days from the date of incorporation of the company in the manner prescribed with the Registrar, affirming that every subscriber to the Memorandum has paid the value of the shares agreed to be paid by him on the date of making such declarationiii. Where no declaration has been filed in accordance with Section 10 A, and the Registrar has reasonable cause to believe that the company is not carrying on any business or operations, the registrar may initiate action for removal of the name of the company from the ROC. The Amendment Act has also inserted sub-section (9) in the Section 12 of the Act, which empowers the Registrar to cause a physical verification of the registered office of the company on reasonable cause. The Amendment Act has also widened the ambit of powers assigned to the Serious Fraud Investigation Office ("SFIO") to ensure speedy and more effective enforcementiv.
+
+While the changes brought about by the Amendment Act are laudable, the major hurdle that hampers investigation and identification of shell companies in India is the lack of a proper and uniform definition of 'shell companies'.A parliamentary panel asked the MCA to define 'shell companies' and to clearly differentiate between fraudulent conduct and cases of irregular filingsv. The process to define 'shell companies' has been in the works for over a yearvi and several definitions and parameters have been received and contemplated by the MCA. One of the definitions under consideration is the definition of 'shell companies' used by the Organisation for Economic Co-operation and Development ("OECD"). OECD defines 'shell companies' as a firm that is formally registered, incorporated, or otherwise legally organised in an economy but which does not conduct any operations in that economy other than in a pass-through capacity'vii. As part of the exercise, the Securities and Exchange Board of India ("SEBI") has also come up with certain parameters that could be taken into account while gauging the active status of the company, or lack thereof. SEBI has suggested that any entity, having no significant operational assets or business activity of its own but acting in a pass-through capacity as a conduit may be called a shell company. The following other parameters have been put forth by other agencies:
+
+entities with insignificant business or assets; entities set up to mainly facilitate cross-border currency and asset transfers along with transfer of large sums to related entities; firms having no economic rationale in their banking transactions; multiple companies having the same address; no physical existence at the given address; high ticket transactions inconsistent with the business of the company; and rotational transactions with no apparent legitimate business groupviii.
+
+Discrepancies due to inconsistency in the definition of shell companies have also been addressed in court, with the most recent example being in the case of Assam Co. India Ltd. vs. Union of Indiaix wherein a company owning a substantial number of tea estates, producing millions of kilograms of tea on an annual basis and feeding thousands of families was termed a 'shell company'. The Hon'ble High Court of Gauhati held that "considering the negative implications of being branded as a shell company, it was not justified to treat the company as a shell company straightaway and thereafter to initiate investigation to justify such branding...that apart, there is also the question of the State or its agencies using an expression which is not defined in any lawx."
+
+While a coherent structure to deal with shell companies is essential, it needs to ensure that such regulation does not inadvertently create unnecessary obstacles for perfectly legal entities. A careful balancing act is necessary while deciding the definition of shell companies.
+
+Footnotes
+
+i https://pib.gov.in/newsite/PrintRelease.aspx?relid=179863
+
+ii Section 248(I) of the Companies Act, 2013.
+
+iii Section 10A(I)(a) of the Companies (Amendment) Bill, 2019.
+
+iv Section 212(14A) of the Companies (Amendment) Bill, 2019.
+
+v https://economictimes.indiatimes.com/news/economy/policy/parliamentary-panel-asks-government-to-define-shell-companies-in-companies-act/articleshow/63253972.cms?from=md r
+
+vi https://www.livemint.com/Companies/DiBTFfScE2kvzRvyTw7czH/Govt-to-soon-come-out-with-definition-for-shell-companies.html
+
+vii http://lawstreetindia.com/experts/column?sid=297
+
+viii https://economictimes.indiatimes.com/news/economy/policy/govt-regulators-mull-challenge-proof-definition-for-shell-companies/articleshow/64145993.cms?from=mdr
+
+ix 2019153SCL46(Gau)
+
+x http://lawstreetindia.com/experts/column?sid=297
+
+The content of this article is intended to provide a general guide to the subject matter. Specialist advice should be sought about your specific circumstances.

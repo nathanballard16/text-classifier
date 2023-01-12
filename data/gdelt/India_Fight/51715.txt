@@ -1,0 +1,39 @@
+North Korean Hack on Indian Nuke Plant A Security Shock
+
+A cyberattack on India’s newest and biggest nuclear plant by North Korean hackers has created a furor in the country’s security establishment, raising fears that Indian nuclear energy production will be impacted, jeopardizing the country’s energy security plans, low-carbon goals and raising concerns over Delhi’s ambitions for geostrategic heft.
+
+That is hardly music to the ears of Prime Minister Narendra Modi, who has set an ambitious target for India to become a leading space power, announcing proudly earlier this year that the country had entered the “space super league.”
+
+Accusations of targeting military and financial institutions, among others, dog the shadowy North Korean agency, known as Lazarus, which faces US sanctions. The attack on the Kudankulam Nuclear Power Plant, in the southern state of Tamil Nadu, a joint venture between India and Russia, came to light when malware was discovered on the facility’s computer systems in September.
+
+The plant’s employees are feared to have opened phishing emails from North Korean spammers, accidentally installing malware on their computers, which then spread across the system. According to an investigative report, the attackers had acquired high-level access and struck “extremely mission-critical targets.”
+
+Much the same way it became a nuclear power despite its lack of resources, North Korea has managed to mutate into a global hacking power, “one that is destructive, intrusive, larcenous and surprisingly muscular,” according to the Tribune News Service, and one which has plundered US$81 million from the central bank of Bangladesh, besieged South Korea, hit targets in Vietnam, Poland and Mexico and has looted bitcoin exchanges.
+
+The National Cyber Coordination Center, India’s cybersecurity and e-surveillance agency, received intelligence from a cybersecurity company in the US about a “threat actor” that had breached master “domain controllers” at the plant as well as the country’s premium space agency ISRO. The malware was identified as Dtrack, developed by the North Korean hacker group.
+
+The emails, by hackers disguised as employees of Atomic Energy Regulatory Board and Bhabha Atomic Research Center of India, created shockwaves in the science community. Believed to be produced by the Lazarus APT (advanced persistent threat) group, Dtrack is said to be specifically targeting India across various industries, with the nuclear plant attack possibly the most high-profile so far.
+
+The Nuclear Power Council said only an administrative system was infected and that the plant's control systems were not affected. The Kudankulam plant officials denied the breach to begin with. However, soon it was out in the open that the hackers had gained access to the server computer and that secret security data had been compromised. The belated realization sent India’s security apparatus scrambling to do public relations damage control.
+
+Security analysts believe the attack on Kudankulam represents a worrying transformation of Seoul’s cyber hacking capabilities to go after a country that is a nuclear-armed state as well as a civil nuclear plant operator. Some media reports have also speculated that the main intent behind the attack was for North Korea to spy on how India is developing its thorium technology and thorium-based reactors. India is currently acknowledged as a market leader in commercializing the use of thorium as a safe and more efficient alternative.
+
+Knowledge garnered from Kudankulam would help make North Korea’s own reactors less threatening as unlike uranium, thorium doesn’t produce plutonium needed to make weapons, say experts.
+
+Simon Choi, founder of IssueMaker Labs, a group of experts working in the cyber-security field told The Quint in an interview that more than one group of North Korean hackers worked together to first conduct reconnaissance and then deploy the malware.
+
+“There are approximately seven hacker groups in North Korea,” Choi told the publication. “There is ‘Group B’ which generally attacks the Korean Army and have attacked Korean banks and networks in 2013. This group is the one that attacked KKNPP of India this time. This group is normally known as ‘Dark Seoul’ or ‘Operation Troy’ to people.”
+
+Analysts are apprehensive that the Korean intrusion will have long- and short-term ramifications for India, recognized as a nuclear weapons power. India shot down a satellite in March, becoming only the fourth country after the United States, Russia and China to do so. The country’s nuclear program, both civil and military, are inextricably linked which makes any cyber breach at any level a major security threat.
+
+According to an industry report, between April and June alone, recorded cyber-attacks in India jumped by 22 percent, with 2,550 unique samples of malware discovered. Some of that malicious code is infecting highly sensitive venues – such as nuclear facilities and even ISRO.
+
+Speculation is rife that a similar cyberattack derailed India’s high-profile Moon mission Chandrayaan last month. The project collapsed after it lost contact with the spacecraft. ISRO was warned of the cyberattack during the Chandrayaan-2 moon mission as early as September. However, the agency insisted that its systems had not been 'compromised' by the attempted hacking.
+
+According to Abhijit Iyer-Mitra, senior fellow at the Nuclear Security Program of the Institute of Peace and Conflict Studies, New Delhi, the Indian cyber security ecosystem would benefit from greater transparency to ward off such scares in future.
+
+“Notably, unlike in the United States, where two per cent of nuclear program staff are laid off every year for minor infractions (sometimes not even related to their work, such as a repeat occurrence of speeding tickets or gambling problems), we still have no transparency with regards to our personnel reliability program.” Iyer-Mitra wrote in Moneycontrol.com, a leading financial news site. “In short, if indeed a breach has occurred, it is a human problem, not a network one and KNPP's diagnostic and denial does little to restore confidence.”
+
+Episodes like the Kudankulam hack, nuclear industry sources say, could cripple India’s nuclear ambitions. “Even though it is premature to predict that India’s civilian nuclear energy program and civilian space program are staring at a dire future, the construction of new nuclear power stations that can help meet India’s growing energy needs will definitely be compromised due to the security breach,” said Raja Ram, a nuclear scientist and a Delhi-based think tank member.
+
+Neeta Lal is a Delhi-based editor and journalist and a longtime contributor to Asia Sentinel

@@ -1,0 +1,21 @@
+Google Pixel 3a XL with Snapdragon 710 SoC spotted on Geekbench, launch expected on May 7
+
+Google is pushing into the mid-range market with the cheaper variants of their Pixel devices. Search giant is expected to add Pixel 3a and Pixel 3a XL to their line up at the Google's I/O developer conference, which will be held from May 7 to May 9 at Mountain View, California. And now few more details regarding the new mid-range Pixel device, Pixel 3a, is out after it was spotted on Geekbench.
+
+The Geekbench listing for Google Pixel 3a XL shows that the smartphone will be powered by high performance mid-range Qualcomm Snapdragon 710 SoC, which is engineered to optimise and enhance AI, power, and performance. The phone will not be ready for Android Q and will come with Android 9 Pie out of the box. In the era of minimum 6GB RAM, the Pixel 3 XL will be a 4GB RAM device. On Geekbench tests, the Google Pixel 3a scored lower than the Pixel 3a XL, suggesting that the Pixel 3a might carry a lower end processorin comparison to the Pixel 3a XL. Rumours suggest that Pixel 3a might come with a Snapdragon 670 processor.
+
+Earlier, Google Play Store and the Google Play Developer Console's device catalogue had hinted to the Pixel 3a and Pixel 3a XL. The Play Developer Console had added "bonito" and "sargo," which were supposed to be the fish-related monikers for the Pixel 3a and Pixel 3a XL.
+
+As far as the leaked details about the phones are concerned, "Bonito" or the smaller Pixel 3a would have a 2,160x1,080 screen, while the "Sargo" or the Pixel 3a XL would have a larger 2,220x1080 display. Both handsets would also have 4GB of RAM, OLED screen with 12-MP rear camera, and 3,000 mAh battery.
+
+The listing on the Google Play Developer console alludes to a support for Open GL ES 3.2, bringing advanced desktop class graphics functionality to the device. There have also been reports that Pixel 3a would have a 64GB of onboard storage.
+
+Pixel 3a and Pixel 3a XL is Google's attempt at luring the buyers in the developing markets like India. Even Google CFO Ruth Porat said that the company sold fewer Pixel phones due to industry wide pressure on high-end phones.
+
+Edited By: Udit Verma
+
+Also Read: Google Pixel 3a, Pixel 3a XL specifications confirmed, here're the details
+
+Also Read: Google's Android Q gets iPhone-like gesture navigation
+
+Also Read: Google release first Android Q beta, here are some of the key features

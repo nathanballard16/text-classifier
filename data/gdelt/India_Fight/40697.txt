@@ -1,0 +1,17 @@
+Indian Supreme Court to hear Facebook argument against linking Aadhaar biometrics with accounts
+
+The Supreme Court of India has agreed to hear arguments from Facebook that accounts on social media platforms should not be required to be linked with Aadhaar biometric credentials, Business Today reports. Facebook has sought a change of venue to the Supreme Court for cases currently before the high courts of Madras, Bombay, and Madhya Pradesh.
+
+The government of Tamil Nadu told the court that it wants social media accounts linked with Aadhaar to combat the circulation of fake news, defamatory content and pornography, as well as anti-national or terrorist communications. The court is seeking feedback from the federal government, Google, Twitter, YouTube and others, according to the report.
+
+In addition to violating user privacy, Facebook argues that it cannot provide Aadhaar numbers for Whatsapp users to a third party, as the instant messaging service is encrypted end-to-end and the company does not have access to its content.
+
+The country’s Electoral Commission (EC), meanwhile, has written the government’s law secretary to seek amendments to the Representation of People Act to enable Aadhaar to be linked with voter IDs, as well as the creation of measures for people who do not have an Aadhaar number, according to the Financial Express.
+
+Electoral fraud and incompetent oversight from the EC are frequently alleged in Indian politics. The YSR Congress Party alleged that 16 percent of the voter roll in Andhra Pradesh, while the EC struck 2.7 million names from the list in Telangana before the 2019 elections.
+
+The EC wants to seed voter IDs with Aadhaar in order to leverage biometrics for voter verification and prevent duplicate voting with electronic voting machines.
+
+Article Topics
+
+Aadhaar | authentication | biometrics | credentials | Facebook | identity verification | India | social media

@@ -1,0 +1,21 @@
+Google warned 500 Indians against 'government-backed' phishing attacks
+
+Google claimed that it had warned almost 500 users in India against government-backed phishing attempts between July and September this year. Google's Threat Analyst Group had sent warnings to 12,000 users in 149 countries saying that they were targeted by government-backed attackers, said a report by the tech giant.
+
+Google recorded the highest number of warnings in the United States with more than 1,000 users being alerted. Canada, Afghanistan and South Korea had the second-highest frequency of warnings at nearly 1,000.
+
+"Over 90 percent of these users were targeted via "credential phishing emails"... These are usually attempts to obtain the target's password or other account credentials to hijack their account," Google said.
+
+ALSO READ: Facebook sees sharp spike in 'emergency' requests for user info from Indian govt
+
+ALSO READ: How To Restrict Google From Saving Data
+
+The report stated that security breach warnings to users in the third quarter this year has remained consistent with the same period in 2017 and 2018. Google, however, did not specify whether these attacks were carried out by governments against their own citizens or those in other countries.
+
+Threat Analysis Group, or TAG, flags phishing campaigns, vulnerabilities and disinformation by tracking more than 270 targeted or government-backed groups from more than 50 countries. These groups work for intelligence collection, stealing intellectual property, targeting dissidents and activists, destructive cyber attacks, or spreading coordinated disinformation. Google said that the intelligence it thus gathers is used to protect its infrastructure and users targeted with malware or phishing.
+
+The development comes shortly after Facebook-owned WhatsApp revealed that a spyware called Pegasus had been used to spy on journalists and human rights activists around the world. The affected users included 121 people from India. NSO Group, which developed Pegasus, has maintained that it sells to government and does not operate its own products.
+
+ALSO READ: WhatsApp replies to govt, expresses regret for Pegasus attack
+
+ALSO READ: WhatsApp snoopgate: Activist asks SC to order probe into hacking scandal

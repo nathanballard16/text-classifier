@@ -1,0 +1,77 @@
+Chennai’s water woes as seen from 700-km above the parched ground
+
+The eyes in orbit saw it unfolding. Those on the ground just missed it.
+
+As authorities waited for monsoon to ease the city's water crisis, satellite imagery showed how Chennai's main reservoirs shrank bone-dry over the past one year.
+
+Remember, Tamil Nadu is not immune to disasters. From tsunamis and floods to severe water crises, this southern state has borne the brunt of extreme conditions.
+
+The present water crisis in Chennai adds to the long list of dry years in this metropolis, but with a difference - the warnings up from space were apparently ignored.
+
+Experts blame man-made factors for the city's two extreme conditions - water crisis and floods.
+
+With the help of water repository agency Global Surface Water Explorer, India Today's Data Intelligence Unit (DIU) analysed 34 years of water volumes of Chennai's four major storage reservoirs - Poondi, Cholavaram, Puzhal and Chemarambakam.
+
+More than 20 lakh people in Chennai struggle for fresh water for at least two months every 2-3 years, with the situation worsening further due to a rapidly expanding urban population.
+
+Supporting a population of about 50 lakh, this sixth largest city in India needs 80 crore litres of water daily, but can provide only 52.5 crore - that too is reducing at a drastic pace.
+
+Poor water management has rendered Chennai one of the most water-stressed cities not only in India but in the world.
+
+Nutan Maurya, an environmental anthropologist working on urban water issues and associated with The University of Chicago Center in Delhi, explains, "This crisis is more due to mismanagement, as 80 per cent of our surface water is polluted. The haste to concretise urban space has shrunk green areas and reduced options of aquifer recharge. Recycled wastewater can be a source, but about 70 per cent of the wastewater goes down untreated to rivers and other water bodies, resulting in contamination of those and loss of resource too."
+
+Major water bodies in Chennai
+
+Source: Global Surface Water Explorer
+
+The four major city reservoirs - Poondi, Cholavaram, Puzhal and Malayambakkam - having a total capacity of 11.5 thousand million cubic feet (tmcft), have dropped to an all-time low. Sholayar, one of the largest reservoirs in Tamil Nadu, is completely dried up.
+
+Chennai's water resources are mostly dependent on rainfall. The city's annual average rainfall is around 1,400 mm, but it fluctuates a lot every year. Last year, it was only 835 mm.
+
+Chennai has been repeatedly hit by water adversities. Between 2015 and 2019, it faced extremes of droughts, floods and tsunami. The 2004 tsunami in Tamil Nadu killed 8,000 people and affected almost 9 lakh families. In 2015, Chennai was brought to a standstill by floods which killed almost 300 people, injured thousands and damaged property and livelihood worth Rs 143 billion.
+
+But today, the Chembarambakkam lake that once overflowed and caused floods in the city stands dry with less than 1 mcft of water.
+
+The graphs below show the extent of water bodies observed with the help of cloud-penetrating RADAR satellites over various time periods. Satellite images show that Puzhal and Cholavaram are completely dry by June 2019; Chembarambakkam and Poondi too have barely any water left.
+
+The failure of northeast monsoon in 2018 and pre-monsoon showers in 2019 have caused depletion of the already over-exploited lakes.
+
+POONDI IN JUNE 2018 AND 2019
+
+Source left: Copernicus Sentinel Data (2019); Processed by Raj Bhagat P, WRI India using SentinelHub | Source right: Copernicus Sentinel Data (2019); Processed by Raj Bhagat P, WRI India using SentinelHub
+
+PUZHAL IN JUNE 2018 AND 2019
+
+Source left: Copernicus Sentinel Data (2019); Processed by Raj Bhagat P, WRI India using SentinelHub | Source right: Copernicus Sentinel Data (2019); Processed by Raj Bhagat P, WRI India using SentinelHub
+
+CHEBARAMBAKKAM IN JUNE 2018 AND JUNE 2019
+
+Source left: Copernicus Sentinel Data (2019); Processed by Raj Bhagat P, WRI India using SentinelHub | Source right: Copernicus Sentinel Data (2019); Processed by Raj Bhagat P, WRI India using SentinelHub
+
+THENNERI IN JUNE 2018 AND JUNE 2019
+
+Source left: Copernicus Sentinel Data (2019); Processed by Raj Bhagat P, WRI India using SentinelHub | Source right: Copernicus Sentinel Data (2019); Processed by Raj Bhagat P, WRI India using SentinelHub
+
+Chennai's water supply is dependent on four major lakes, two desalination plants and groundwater. Apart from these, there is a canal to tap into excess water from the Krishna basin (as part of the Telugu Ganga project) and Cauvery (Veeranam project).
+
+Due to weak monsoon in 2018, three of the four lakes are empty, and the fourth has less than 1 per cent water. Groundwater has also depleted due to low rainfall. The Krishna river didn't help the city either.
+
+At present, the city is dependent on groundwater (which has reached deficit levels), Veeranam and the desalination plants. This is not enough to cater to the needs of the entire city. The water crisis, however, is not limited to Chennai or other urban areas alone. The stress is being equally felt in the rural parts of northern coastal Tamil Nadu.
+
+DIU found that Chennai's most significant water source Poondi has maintained 31 per cent water recurrence during this period.
+
+Cholavaram's water occurrence was 75 per cent, followed by Puzhal at 89 per cent. Water history of Poondi shows reservoirs face water stress in a cycle of 3-4 years.
+
+Poondi: Biggest reservoir of Chennai
+
+How seasonal water bodies disappear
+
+Satellite data shows that a number of 'seasonal' water bodies in Chennai have disappeared between 1984 and 2018. The pink colour indicates loss of seasonal surface water.
+
+Source: Global Surface Water Explorer.
+
+Chennai-based water expert and the World Resources Institute's sustainable cities manager in India, Raj Bhagat P, said, "Chennai's problem (not just 2019) is not lack of water but managing the water that is already available. Chennai shouldn't be equated with drought; it does have sufficient water for managing its needs. It should think of managing water efficiently and scientifically. The responsibility lies on all stakeholders - residents, industries, government and farmers."
+
+Considering the massive demand in all sectors - domestic, agriculture and industrial - the available water is not enough for Chennai. Over the years, these sectors have grown significantly and minor fluctuation in rain causes huge stress. Deficit rainfall, highly depleted groundwater, population pressure and lousy water management push Chennai to this condition almost every 6-7 years.
+
+The government has announced plans to bring water from Jolarpettai (about 100 km from Chennai) by railway tankers for the next six months.

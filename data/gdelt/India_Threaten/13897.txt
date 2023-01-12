@@ -1,0 +1,33 @@
+Why BS 6 will make cars expensive
+
+Why BS 6 will make cars expensive
+
+India is set to embrace BS 6 emission norms next year, after a Supreme Court ruling fixed 1 April 2020 as the deadline for the transition. The government arrived at the decision to skip BS 5 and move straight to BS VI in 2016 after the pollution levels across the country continued to grow at a staggeringly high pace. The new norms, then, are meant to help keep pollution from vehicular emissions under check. Unfortunately, the government's decision received sharp criticism from several quarters, including automotive manufacturers and buyers. And their key point of contention has been this: it will make cars, bikes, and scooters in India significantly expensive.
+
+We won't try to sugar coat it: It is true -- BS 6 vehicles will indeed become expensive. And in this article, we will tell you exactly why.
+
+Also read: Two-wheeler makers to sacrifice LED headlights to deal with BS 6 price hike
+
+How do companies make BS 6-compliant cars?
+
+To be completely honest, this is a slightly complex subject. Nonetheless, we'll break it down for you; see, the general MO for making cars BS 6-compliant involves a handful of steps. The first step is improving the combustion method, which, in turn, is based on the design of two things: combustion chamber and fuel injector. The next step is to curb the emission of pollutants such as NOx, PM, etc., which is done by the means of exhaust treatment systems.
+
+Carmakers make use of particulate filters in direct-injection engines to cut down the emission of PM, whereas for NOx, companies use either one of the following systems: a Selective Catalytic Reduction (SCR) or a Lean NOx Trap (LNT). With SCR, a water-based urea solution (AdBlue) is injected as mist into the exhaust stream so as to lower NOx emissions. This is done by the means of a chemical reaction that enables the conversion of the nitrogen oxides into inert nitrogen. And how does LNT work? Well, it is rather basic and simply helps filter out the nitrogen oxide from the exhaust gases.
+
+Also read: BS VI emission norms: All you need to know
+
+While the SCR system is substantially more effective than the LNT system, the former poses two challenges; one, in the context of the complexity involved. Second, the cost. This is why there are a very limited number of BS 6 cars in India with the SCR system.
+
+Unfortunately, this transition also poses other challenges.
+
+You see such engines' combustion process is a tad slow and the exhaust after the integration of systems such as SCR and LNT heighten back pressure on the motor. All of these factors tend to take a toll on two critical aspects about cars' engines: their performance and fuel-effciency. It can be admittedly quite arduous to deal with this.
+
+What will be the quantum of the hike in the price of petrol and diesel cars in India due to the transition to BS VI?
+
+While the exact figures, of course, vary from automaker to automaker, industry experts have estimated the impact on prices. They say diesel BS 6 cars price in India will be roughly 10 per cent more expensive as compared to their BS 4 counterparts, while the price for BS 6 petrol cars is expected to go up by about 4 -5 per cent.
+
+Also read: BS 6 fuel price: You will be paying more for BS VI petrol and diesel from April 2020
+
+This hike in car prices, if you are still wondering, is not only due to the R&D required, but also owing to the technology upgrades and an increase in overall manufacturing costs.
+
+While this transition will certainly do us a lot of good, but realistically speaking -- the government's efforts must not stop here. We, undoubtedly, need additional efforts to ensure that this switch to BS 6 emission norms in vain. And from what we hear, the government is planning to announce a vehicle scrappage policy and also increase the fee for re-registration and fitness tests for commercial and private vehicles that are older than 15 years.

@@ -1,0 +1,25 @@
+View from India: Servers redefined
+
+India is one of the world’s biggest consumers of data. The avalanche of data also calls for security and protection
+
+All essential services in India are available online today. This results in a huge quantum of structured and unstructured data which requires processing in a central location. Another aspect is that the information or data about the concerned individual needs to be protected and that happens through data centres. It’s only appropriate that the resources inside a data centre should be maximised so that the operations are speedy. This includes devices, base station, on-premise server and switches, all of which drive high digital speed.
+
+High-speed digital design is the norm today. To illustrate, WeChat users send 40 billion messages every day, YouTube users upload more than 400 hours of video per minute and Walmart processes 2.5 petabytes of data every hour.
+
+We are at the heart of a digital revolution and one of its highlights is speed. “We require high-speed interfaces that drive the Internet. Intelligent algorithms are also required to differentiate between data which is of current use and that which is of long-term use,” said Rajkumar Chandrasekar, engineering group director, Cadence Systems India Pvt Ltd., addressing the audience at the Keysight World 2019 event.
+
+Data which is not of immediate use needs to be stored at the backend of the system. This needs to be supported by higher connectivity, speed and systems that process the data quickly and secure it as well.
+
+Consequently, the infrastructure for data centres needs to be robust. “Our company has created solutions for testing the various stages of the data centre infrastructure. This goes right from the components to the server stage. As well as Internet infrastructure, right from components to the server,” added Brig Asay, director of strategic planning, Internet Infrastructure Group, Keysight Technologies.
+
+While Internet infrastructure needs to be equipped to handle loads of traffic smoothly and at a fast pace, the server brings its share of challenges. These include issues revolving round the bandwidth. Power, cost and size are other factors. By and large, the server tends to lag behind compared to the other sections of the system. That’s due to the fact that it relies on the other parts of the system for its functioning.
+
+It’s then appropriate to look at improving the server performance. What is required is a suite of solutions to increase the bandwidth, including the width of the fibre deployment.
+
+A combination of technologies will help ease the flow of data into the server. These include data analytics, artificial intelligence (AI), video transcoding and geonomics that help push more data into the server. Machine learning (ML) takes over the server communication between the central processing unit (CPU) and server. In fact, ML and big data analytics are changing the way data is being processed. “About 90 per cent of the compute happens off CPU limits. It means that the interconnecting parts should be fast enough to handle the speed and the memory utilisation needs to be improved,” said Asay.
+
+Digital standards are of a higher order to cater to the new parameters of speed in the data centre networking. Technologies like CXL (compute express link) have been conceptualised to overcome issues related to bandwidth.
+
+“The server design is crucial for achieving economy of scale. A pool of tech building blocks is required in order to solve challenges that crop up in the various segments of the infrastructure,” highlighted Chandrasekar.
+
+Today’s engineers need to have a multidisciplinary outlook to cater to the requirement and pace of speed. They need to understand the wired world as well as wireless, electrical and optical, along with the physical layer of the infrastructure.

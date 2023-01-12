@@ -1,0 +1,95 @@
+Auction Sale Cannot Be Held 3 Years After The End Of Financial Year In Which Recovery Certificate Was Issued By DRT: Kerala HC [Read Judgment]
+
+The High Court of Kerala has set aside an auction sale held for recovery of arrears due to a bank on the ground that it was done beyond the period of three years from the end of financial year in which recovery certificate was issued by the Debts Recovery Tribunal(DRT).The Division Bench of Chief Justice Hrishikesh Roy and Justice A K Jayasankaran Nambiar held so on the basis of Section 29 of...
+
+The High Court of Kerala has set aside an auction sale held for recovery of arrears due to a bank on the ground that it was done beyond the period of three years from the end of financial year in which recovery certificate was issued by the Debts Recovery Tribunal(DRT).
+
+The Division Bench of Chief Justice Hrishikesh Roy and Justice A K Jayasankaran Nambiar held so on the basis of Section 29 of the Recovery of Debts Due to Banks and Financial Institutions Act,1993(RDDBFI) read with Rule 68B of Second Schedule of the Income Tax Act,1961.
+
+The order was passed in the case filed by M.V Shaji against the sale held for recovery of arrears due to HDFC Bank. Shaji and his wife Preetha Shaji have been waging intense protests against the attempts of the bank and auction-purchaser to evict them from their homestead, which drew a lot of popular and political support, giving momentum to anti-SARFAESI sentiments.
+
+The Court noted that Section 29 of the RDDBFI Act said that provisions of second and third schedule of the Income Tax Act should apply to procedure for recovery of debts as far as possible. Sale of immovable property in respect of income tax arrears is carried out as per Rule 68B of Second Schedule of Income Tax Act, as per which sale has to be carried out within 3 years from the end of financial year in which the order giving rise to dues under the Income Tax Act has become final or conclusive. In the context of RDDBFI Act, the Court read this as three years from the end of financial year in which recovery certificate was issued by the DRT.
+
+
+
+
+
+
+
+
+
+
+
+
+
+On the basis of these provisions, the Division Bench held : "The sale proclamation in the instant case, however, was only on 28.10.2013, and the sale itself on 24.02.2014, more than eight years after the issuance of the recovery certificate. As none of the exceptional circumstances mentioned in Rule 68B for extending the time limit, are made out in the instant case, the sale conducted by the bank was clearly illegal and void".
+
+
+
+Attachment not necessary in equitable mortgage
+
+The bank's counsel sought to sustain the auction sale arguing that time limit under Rule 68B is applicable only in cases where property is attached, and since there was no attachment in the instant case, the mortgage being an equitable mortgage created by deposit of title deeds, auction sale was not hit by Rule 68B. This contention was based on the fact that Rule 68B(1) used the words "for the recovery of which the immovable property has been attached".
+
+But this contention was rejected by the Court holding that in an equitable mortgage, there was no need for attachment. The Court said :
+
+"While, the learned counsel for the auction purchaser would vehemently contend that Rule 68B would apply only in a situation where there was an attachment of the immovable property prior to its sale, we are of the view that the phrase "shall, as far as possible, apply with necessary modifications as if the said provisions and the rules referred to the amount of debt due under this Act instead of to the Income Tax Act" appearing in Section 29 of the RDDBFI clearly indicates that the words "for the recovery of which the immovableproperty has been attached" appearing in Rule 68B are wholly irrelevant, when an attachment of the immovable property is not required prior to its sale, on account of the title deeds of the property already being in the hands of the creditor consequent to the creation of the mortgage by deposit of title deeds".
+
+Penalty to be paid to auction-purchaser
+
+The Court noted that as per Rule 60 of the Recovery Rules, the auction purchaser has to be paid a penalty of sum equal to five percentage of the purchase money, in the event of sale getting set aside. Since the auction purchaser had deposited Rs.37,80,000/- for purchasing the property, five per cent of the said amount i.e. Rs.1,89,000/-, would have to be paid to him by the mortgagor, at whose instance the sale was set aside.
+
+The purchaser was held entitled to refund of the purchase money, along with interest as applicable to savings accounts. He is also entitled to recover the penalty from the bank, in case of default by petitioner in paying the same and the bank in turn will be entitled to add the said amount to the debt owed by the mortgagor.
+
+Bank's right of recovery
+
+Balancing the right of the bank of recover the debt with the right of the mortgagor to redeem the mortgage, the Court held that the property can be redeemed if the mortgagor pays the amount which stands crystallised as on March 31, 2009, the date on which three year limitation period for auction-sale expired.
+
+The outstanding as on the said date was stated to be Rs.43,51,362.85. On payment of this amount along with the penalty to the auction-purchaser before March 15, 2019, the mortgagor will get back the original title deeds. In case of his default, the bank will be at liberty to seek fresh recovery certificate in terms of the final order passed in its original application by the DRT on June 10, 2005.
+
+Long drawn legal battle
+
+The case has its genesis with the guarantee offered by M V Shaji in 1994 for a loan of Rs.2 lakhs availed by his fried from Lord Krishna Bank(which later merged with Centurion Bank, which in turn merged with HDFC Bank). Repayments were defaulted, leading the bank to take legal steps for recovery. In the final order passed by the DRT on June 6, 2005, the outstanding was quantified as Rs.17.75 lakhs, with interest being applied at 20.75% annum with quarterly rests.
+
+The residential property of Shaji having an extent of about 18 cents was the security for the guarantee, which was put to auction sale for an amount of over Rs.37 lakhs in 2014.
+
+To avoid the take over of the property, Shaji and his wife Preetha held public protests with the support of activists and members of the Anti-Sarfaesi People's Movement for nearly 600 days. The protests garnered support from many sections of public, which perceived the bank's measures as harsh and unjust.
+
+
+
+
+
+
+
+
+
+In that backdrop, the auction-purchaser moved the High Court seeking police protection. Contempt petition was also filed against Shaji for resisting court action. Meanwhile, Shaji filed O.P(DRT) under Article 227 of the Constitution of India, assailing the auction sale and consequential proceedings.
+
+The scale of public support for the protests of the couple put the state government in a fix. The State Attorney was constrained to submit before the Court that "the orders of this court, if implemented, would cause great suffering to the principal debtor and guarantors"
+
+This was not appreciated by the Court though, which "distressingly" noted the non-execution of court's warrant due to "stubborn resistance by persons in locality".
+
+As a condition for hearing the petition, the Court required Shaji and family to deliver vacant possession of their property to the Village Officer. Accordingly, they did so and the Village Officer put the property under lock and seal.
+
+The court expressed that the challenge by Shaji was highly belated, and that they had failed to take timely and proper legal recourse - the appellate remedy under the RDDBF Act.
+
+However, the glaring issue of violation of constitutional right - that of deprivation of right to property under Article 300A - persuaded the court to proceed to grant relief to the petitioner, overlooking technical objections.
+
+"one cannot forget that when a mortgagor is deprived of his right to redeem the mortgaged property, he effectively loses all his rights over the property in question, including the valuable right that he has in terms of Article 300-A of our Constitution which, in unambiguous terms, states that no person shall be deprived of his property save by authority of law", said Justice Jayasankaran Nambiar in the judgment written on behalf of the Division Bench.
+
+Quoting Justice Krishna Iyer, the judgment said that "dharma of the situation" demanded that the petition cannot be turned down on the "negative plea of alternate remedy".
+
+The court also clarified that that the acts of "indiscretion and obstruction to the course of justice mounted by the mortgagor" are not condoned, which will be separately dealt with in the pending contempt petition.
+
+Read Judgment
+
+
+
+
+
+
+
+
+
+
+
+

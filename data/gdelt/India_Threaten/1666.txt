@@ -1,0 +1,31 @@
+A crypto exchange may have lost $145 million after its CEO suddenly died
+
+(CNN) — The death of a Canadian entrepreneur has left a huge stash of cryptocurrencies locked off from the people who own them.
+
+Quadriga, Canada’s biggest cryptocurrency exchange, said it’s unable to gain access to $145 million of bitcoin and other digital assets after Gerald Cotten, its 30-year old CEO and co-founder, died of complications arising from Crohn’s Disease while traveling in India.
+
+Many of the digital currencies held by Quadriga are stored offline in accounts known as “cold wallets,” a way of protecting them from hackers. Cotten is the only person with access to the wallets, according to the company.
+
+The unusual case highlights the risks investors face looking after their assets in the thinly regulated industry.
+
+Cotten’s death has plunged Quadriga into crisis and left it struggling to figure out how to refund more than 100,000 of its users.
+
+On Tuesday, the company said it was granted creditor protection in the Nova Scotia Supreme Court as it tries to sort out its financial mess.
+
+“For the past weeks, we have worked extensively to address our liquidity issues, which include attempting to locate and secure our very significant cryptocurrency reserves held in cold wallets,” Quadriga said in a statement on its website. “Unfortunately, these efforts have not been successful.”
+
+Cotten’s widow, Jennifer Robertson, said that the laptop that Cotten used to run the currency exchange is encrypted, according to a copy of her affidavit posted online by cryptocurrency news site CoinDesk.
+
+“I do not know the password or recovery key,” she said. “Despite repeated and diligent searches, I have not been able to find them written down anywhere.”
+
+The company has hired tech experts in an attempt to hack into Cotten’s laptop and other devices to retrieve the missing cryptocurrencies, but Robertson warned that at least some of them “may be lost.”
+
+Quadriga, which is based in Vancouver, also owes about 70 million Canadian dollars ($53 million) in cash that it’s unable to pay back, she said, citing difficulties accessing funds through the traditional banking system.
+
+The Nova Scotia court appointed financial services firm Ernst & Young as an independent monitor that will oversee Quadriga’s efforts to resolve its financial problems.
+
+The Canadian High Commission in New Delhi told CNN that it was aware of Cotten’s death and had “provided consular assistance,” but declined to reveal further details.
+
+While the case is unusual, it isn’t the first time the cryptocurrency industry has been hit by security concerns. Hundreds of millions of dollars’ worth of digital currencies have been stolen by hackers over the past few years.
+
+The spectacular boom and bust in the prices of bitcoin and other cryptocurrencies have presented a quandary for governments around the world, which have taken differing approaches in trying to regulate their use.

@@ -1,0 +1,55 @@
+Dangerous Knowledge
+
+We live in a time of information abundance, and with explosive growth in mobile internet access, more Indians have access to more information than in any point in history. With an estimated over two billion websites, search engines to find them, billions of users of social media and messaging applications, and several billion videos hosted on video-sharing sites, Indians who are online have access to an amount and variety of information that was unthinkable in a pre-digital age.
+
+The problem is that much of that information is crap, that some of it is outright dangerous for both individual citizens and society at large, and that the platforms we rely on to find the islands of information in this ocean of crap struggle to protect their users from abuse and sometimes seem to not just enable, but amplify, problematic content and behaviour.
+
+This development leaves hundreds of millions of Indian citizens better off in terms of access to information but simultaneously vulnerable to all sorts of new risks, risks that are sometimes animated by old, well-known forces like the hunger for profit, political power, or the parochial sense of satisfaction that some seem to derive from asserting their supposed superiority over others, risks that are sometimes amplified by the ways in which digital media technology works, the platform businesses behind it, and the way in which these tools and systems are used.
+
+What are the problems?
+
+"Crap" is as good a general description of much of the information online as any, but perhaps not as finely differentiated a nomenclature as one would want to understand one of the defining issues of our time. A more granular typology is the pioneering distinction between 'misinformation' (false but not intentionally so), 'disinformation' (false and intentionally so) and 'malinformation' (information that may be factually true in whole or in part but is used intentionally to harm someone or something) that Claire Wardle and Hossein Derakhshan have developed.
+
+These different kinds of problematic content are produced and promoted by a wide variety of different actors with different motives. Misinformation, disinformation and malinformation can all be published for profit, whether by new entrants or sadly sometimes by long-established media. (When asked to define 'fake news', many people will point to poor journalism or other forms of corrupt or craven editorial practices.) All types are also sometimes deployed by political actors and their proxies as part of their struggle for power. (A government might, for example, deny the occurrence of large protests even as credible news media publish footage to prove them wrong.)
+
+Companies like Google and Facebook have now become more important online gatekeepers than any editors in India
+
+Illustration by NILANJAN DAS
+
+Finally, and most complicatedly, we as individual citizens sometimes push misinformation, disinformation and malinformation- often in good faith. (There is no scientific evidence that any kind of urine, human or from other mammals, can cure cancer, but some people continue to claim so, sometimes no doubt sincerely.) Beyond all this lie further problems that are not really about the veracity of information but about the darker parts of the expressive and performative side of human communication.
+
+When some of us, sometimes very actively, sometimes in large numbers, sometimes in coordinated ways, harass others on the basis of their race, religion, gender, caste, other aspects of their identity. At its worst, such harassment veers into hate speech and incitement to violence, sometimes with bloody consequences.
+
+Old problems, new problems
+
+These are all old problems. Sometimes some publishers mislead people, sometimes some powerful people lie and dissemble, sometimes some of us amplify false and misleading things we have come across, consciously or unconsciously. And we often do not get along, and sometimes actively try to demean, humiliate or embarrass one another. But there are also new things afoot here, and they are about how we navigate the ocean of crap online to find the islands of information that are relevant to us.
+
+A recent survey of English-language internet users in India that I conducted with a team of colleagues can illustrate the issue. In a predigital world, we generally sought out information about public affairs by going directly to print publishers and various broadcasters.
+
+But online, just 18 per cent of our Indian respondents identify directly accessing the websites or apps of publishers and broadcasters as their main way of finding news online. By contrast, 32 per cent say they rely on search engines and 24 per cent on social media. This means that companies like Google and Facebook are now more important online gatekeepers than any editors in India. This is very, very different from the pre-digital world.
+
+Research documents how both search engines and social media generally lead people to more and more diverse news than they seek out on their own, but it also documents that people are not always able to identify who the news providers are, leaving them vulnerable to various misinformation providers, liable to click on something and read it without first identifying the source and considering its credibility and motivations. The new problems do not stop here. Digital media and the rise of platform companies have not only transformed how we access and find information but also how we can engage with it.
+
+Indians have taken to the interactive and participatory potential of social media and messaging applications with gusto, and a large number of our survey respondents report that they use platforms like Facebook and WhatsApp to share news stories and discuss current affairs with friends and strangers. Much of this activity is arguably benign (or perhaps in some cases inane, but at least innocent).
+
+It is great that people can not only access information but also discuss it with others. The problem, of course, is that the very same platforms that allow us to access and discuss information with unprecedented ease also enable harassment, sometimes coordinated by political parties, a very significant problem especially in divided societies and polarised political environments. Indian citizens are not naïve about how vulnerable they are in this new, changing media environment.
+
+Half or more of our survey respondents say they are concerned about problems like political propaganda, fabricated 'news' stories and examples of inaccurate and misleading poor journalism online. Given how pliant some media seem when faced with political pressures, and the prevalence of phenomena like 'paid news', this is arguably a justified culture of suspicion. More worryingly, many are scared. Chillingly, 55 per cent of our respondents fear that expressing their political views online could get them into trouble with the authorities, just as many say they are worried expressing their views will change how friends and family, or colleagues and acquaintances, think about them.
+
+What can be done?
+
+How can we make the most of a situation where we have unprecedented access and abundance but also have to find islands of information in an ocean of crap, including content with wide-scale problems of online harassment and propaganda often enabled by the same platform companies we rely on to navigate the internet?
+
+Some of these challenges are timeless, integral parts of living in irreducibly diverse, disputatious societies, where we often do not agree on what is right and what is wrong, and where one person's relevant information may well be seen by another as irrelevant or even dangerous crap. We will likely never agree on these matters.
+
+Some of the challenges are new, however, and these are more than anything about how the dominant platform companies shoulder the responsibilities that come with owning and operating-for profit-a large part of the infrastructure of free expression.
+
+Globally, and in India too, we are only beginning to see what that could look like. The United Nations guiding principles for business and human rights provides a starting point. It would suggest that platform companies have a responsibility to protect our fundamental right to free expression-a right that is not limited to "correct" statements and also protects expression that may shock, offend and disturb-but also to act to protect users from harm, especially from hate speech and incitement to violence.
+
+Every country will consider its own regulatory response, ideally in ways that minimise the risk that politicians will try to pressure the platform companies for special treatment (as some seem to do in the United States). To enable independent oversight and a better environment for users, we need the platform companies to provide an intelligible environment, where people can understand the media they rely on, and data is made available to independent third parties to scrutinise how products and services work and are used.
+
+All the major platform companies have taken some steps in these areas, and at the very least we should expect them to make sure that every measure taken to protect users in their domestic American market is also taken to protect users in their largest market-India.
+
+Only this way can they demonstrate that all users are equal, that there are no second-class citizens, and that they are committed to ensuring that everyone, everywhere-not only their shareholders-can make the most of the amazing, though ambivalent, opportunities digital media provide, and help us find the islands that matter for us in the ocean that the internet gives us access to without putting us at risk.
+
+RASMUS KLEIS NIELSEN is director of the Reuters Institute for the Study of Journalism and professor of Political Communication at the University of Oxford

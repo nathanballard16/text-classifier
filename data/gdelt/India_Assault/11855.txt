@@ -1,0 +1,39 @@
+Hire Suspended for Vessel Seized by Pirates
+
+The Commercial Court dismissed a shipowners’ claim for hire exceeding USD 4.5 million for the period that the vessel ‘Eleni P’ was seized and detained by Somali pirates in the Arabian sea. In this decision the court applied fundamental principles of contractual construction in a time charter context.
+
+The vessel was captured by pirates during a sub-time charter trip as it navigated the Arabian Sea and held for seven months. The owners issued arbitration proceedings for approximately USD 5.6 million, the majority of which was for hire whilst the vessel was seized. Clauses 49 and 101 of the time charter, which was on an amended NYPE 1946 form, provided as follows:
+
+• Clause 49 – ‘Should the vessel be captured [sic] or seized or detained or arrested by any authority or by any legal process during the currency of this charterparty, the payment of hire shall be suspended for the actual time lost.’ [Own emphasis.] • Clause 101 – ‘Charterers are allowed to transit Gulf of Aden any time, all extra war risk premium and/or kidnap and ransom as quoted by the vessel’s underwriters, if any, will be reimbursed by charterers. Also any additional crew war bonus, if applicable will be reimbursed by charterers to owners against relevant bona fide vouchers. In case vessel should be threatened/kidnapped by reason of piracy, payment of hire shall be suspended.’
+
+The owners claimed suspension of hire under clause 49 only covered situations where the capture, seizure or detention was by an authority or legal process, not by pirates. The charterers argued that the word ‘captured’ stood alone, was not linked or reliant on the rest of the clause, and covered capture of any kind, including pirates.
+
+The owners also claimed that clause 101 only covered instances where the capture, seizure or detention occurred in the Gulf of Aden, a definable geographic location. Charterers argued that the Gulf of Aden had no precise definition and, in any case, that clause 101 covered situations where the capture was an immediate consequence of the vessel’s transition through the Gulf.
+
+In the first instance decision the tribunal rejected the owners’ claim, holding that hire was excluded by each of the two clauses for the capture of the vessel by pirates. The owners appealed.
+
+The appeal
+
+The Commercial Court analysed the correct construction of the charter party and in particular clauses 49 and 101. The court commented that under a time charter the starting position is that risk of delay is on the charterer. If the charterer wished to avoid paying hire for delay then he had to bring himself within the off-hire provisions of the charter party.
+
+Popplewell J disagreed with the tribunal’s finding that clause 49 included capture by pirates. He concluded that the words ‘by any authority or legal process’ must qualify all the preceding words otherwise these qualifying words would be redundant, and an arrest could only be made by an authority or under legal process.
+
+However, Popplewell J agreed with the tribunal’s finding that clause 101 applied to seizure by pirates in the Arabian Sea and therefore that hire was suspended during this time. He explained that the purpose of the clause was to enable the charterers to trade the vessel through the Suez Canal and allocated the risk of delay to owners. He concurred with the tribunal that when the charter party was formed the risk of piracy in the Arabian Sea generally, and not just in the Gulf of Aden, was well known. He found that:
+
+1. The tribunal was correct in deciding that the expression ‘Gulf of Aden’ was not capable of being given a geographical definition.
+
+2. The parties knew that the risk of piracy was expanding outside the Gulf of Aden. The natural construction of the third sentence of the clause was that the vessel should be off-hire if pirates detained her as an immediate consequence of the transit.
+
+3. There was no evidence that the war risk and kidnap and ransom premiums were tied to a single, definable geographical location.
+
+It followed that the vessel was off-hire for the period that she was seized by Somali pirates in the Arabian Sea and so the appeal failed.
+
+Comments
+
+Whilst the court noted that the burden was on the charterers to prove that they had brought themselves within the off-hire provisions of a charter party if they wanted to avoid paying hire, it showed that it was willing to analyse the construction of a charter party and consider the intended allocation of risk between parties.
+
+Members should note the court’s determination to consider in depth the interpretation and meaning of words and clauses within a charter party. This emphasises the point that members should take particular care to ensure that the wording used in their charters reflects their intentions.
+
+The case highlights the importance to both owners and charterers of having unambiguous wording with regard to off-hire and piracy, and the allocation of risk generally. It is also a useful reminder to charterers, on whom the burden rests, to ensure they are squarely within the off-hire provisions before refusing to pay hire.
+
+Source: The Standard Club

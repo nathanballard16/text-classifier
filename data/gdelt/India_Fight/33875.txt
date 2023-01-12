@@ -1,0 +1,45 @@
+MVNOs key to competing with MFS – Interview with Effortel’s Liudvikas Andriulis
+
+Liudvikas Andriulis, Chief Marketing Officer at Effortel, explains how his company has helped to launch MVNOs around the world.
+
+The huge success of mobile financial services delivered by operators in emerging markets has prompted banks to get in on the action by setting up MVNOs in order to compete. Effortel's experience in emerging markets has informed your recent activity in Russia.
+
+How did you come to be involved in Russia’s MVNO market? Why is this market so unique?
+
+We’d launched MVNOs around the world for customers such as Vodafone Egypt and Globe in the Philippines, but our biggest break was when Kenya’s Equity Bank came to us to enable their MVNO, which now has 5 million subscribers. We supplied the technology and technical operations to enable this; it’s a purely P2P payment MFS-based MVNO, with all the differentiation from mobile banking rather than the telecom side.
+
+We saw this kind of success inspiring a lot of banks around the world, in markets such as Brazil, the Philippines, and then Russia. The Russian MVNO market was dormant for 11 years; the regulation was made in 2008, but nothing was done until 2016, when Tele2 decided to take a leap into the world of MVNOs and open up its network to MVNOs. The operator issued an RFP for an enablement platform which we subsequently won, and we became the first MVNE in the Russian market, which is a very interesting one. There are no small MVNOs because all the efforts in this area are launched by large banks; some of the country’s major financial institutions have launched MVNOs on our platform.
+
+The focus of banks on MVNOs is the result of mobile operators aggressively nudging themselves into the mobile market; two of the biggest MNOs in Russia have established themselves as banks with full licences, and they heavily promote their banking services to subscribers. As with Equitel, which was forced to become an MVNO to counter Safaricom’s m-Pesa, the same story happened in Russia. Mobile operators were so aggressive in the mobile money market that banks were forced to respond in kind and launch their own branded mobile services differentiated by MFS.
+
+All of this forced us to redevelop our platform from scratch for the scale of Russia. Our previous platform was sufficient for a smaller country like Kenya with a few million banking subscribers, but in Russia you have banks with 100,000,000 account holders and 22,000 bank branches that distribute over 87 regions; the scale is unimaginable. It has become the hotspot in the MVNO space for the past few years; since then a lot of countries have seen MVNO launches and it’s largely driven by the financial institutions.
+
+What are the factors that resulted in MFS becoming the key differentiator for MVNOs in Russia?
+
+The success of m-Pesa in Kenya was mainly due to a lack of financial infrastructure; in Russia it’s a completely different story as it’s one of the most advanced countries for fintech in the world. You can pay via whatever means you prefer; there’s a lot of technical innovation going on in the market. Meanwhile, the mobile market is cutthroat, with large volumes but tiny ARPUs, and since the major players have a fairly even share of the market they’re obviously looking for ways to increase their revenue. After you stop selling ring tones, the next obvious market was payments.
+
+That resulted in Russian mobile operators moving very aggressively into mobile finance, because the infrastructure and competences were there and they have good innovation skills in terms of programming. Competition was so fierce that they moved fast, and at the same time banks were experiencing pressure from two sides. On the one hand, you had mobile operators moving into the banking space with their own licences, while on the other there are fintech companies.
+
+What did you learn from your experiences in Kenya that was transferrable to Russia, and what needed to change?
+
+It’s a completely different story from Kenya, but with more or less the same result – there has been a proliferation of services, but in the first instance it was due to a lack of infrastructure while in the second it was due to an abundance.
+
+Kenya taught us the importance of low technical cost; it’s not just using the platform to increase ARPU but also having the ability to accrue millions of subscribers at a very low technical and operational cost. A lot of automation is needed to process information; it’s unaffordable to have manual back office processes, and technology has to be cheap so we used a lot of open source technology.
+
+What are the key issues facing MVNOs in emerging markets, and how does your offering help address these?
+
+Developing market MVNOs will never survive if they live on airtime only – if they’re receiving a dollar per customer and giving half of this to their mobile network provider, it’s not sustainable. Therefore, most MVNOs in emerging markets are hybrids with multiple revenue sources – airtime, P2P lending, commissions, mobile payments, etc. This forced us to build a platform that can integrate with anything, so we had to be extremely open. We integrated it with an Indian-made core banking system and a Latvian-made mobile banking gateway. In Russia, integration with banks is not an easy task as it’s a very deep integration; there’s a lot to consider with compliance and credit-scoring.
+
+The platform also needs to be able to manage the customer base in terms of revenue. Getting a report back three days after a campaign has been launched could mean the difference between success and failure. Even waiting 24 hours to see if a promotion is making or losing money could kill an MVNO in a developing market, so we had to make everything real-time so they could see how their revenue margins were unfolding. They needed to be able to see at a glance whether take up was good or not and if the campaign was profitable. With upselling services, if you run a promotion that gives away data for free, this needs to be assigned and communicated to subscribers in real-time.
+
+Low ARPU-high volume markets are very dynamic in terms of churn; Kenyans particularly are notorious for switching operators in cycles as swift as two to three weeks. Whichever operator is providing a better promotion in any given week will see substantial uptake as people churn onto their network to take advantage. This is also an issue in Russia, so for MVNOs it’s extremely important to be more reactive and faster than the bigger players.
+
+The MVNO model requires very low upkeep costs and squeezing as much revenue from subscribers as possible to stay afloat. They need to be much more cost-conscious compared to larger operators, but nonetheless an MVNO in Europe has less to worry about than one in Kenya or Russia – the cost imperative is much more important in developing markets. A small MVNO in Europe (100,000 subscribers) can have decent ARPU, good cost control and cheaper technology and they’ll be fine. However, in countries where you need at least a million subscribers to break even, then cost becomes a massively important factor. If you’re using expensive components and software, then a network of this scale is costly – there’s a lot of manual work even if labour is cheap. These were the lessons that we learnt in the Philippines and Kenya and now we’re applying them in Russia.
+
+What challenges are presented by the sheer scale of Russia’s geography?
+
+The physical size of a country is very important and challenging – networks might have one brand but it’s not one network underneath, they come together via a series of mergers and acquisitions and becoming one systems. Russia is also something like the US in terms of regionality; each area will have a different tariff plan, and regulation is typically fairly strict across the board.
+
+At this scale, real-time monitoring of the customer base is mandatory – for an MVNO which may be managing everything from one central office with maybe 20 people, it’s absolutely imperative to be able to see and manage the customer base from a revenue perspective. It’s not that real-time management was a business requirement from our clients – we basically had to build it to make the whole setup sustainable because we understood that our customers wouldn’t be large mobile operators who can oversee a huge number of regions independently.
+
+The final question is which market will be next after Russia – which country’s banks will wake up and start moving into the MVNO space? It could be Brazil, India etc, but that country will likely be our next market. The challenges are similar in terms of size and population density but the opportunities for banks are similarly myriad, so it will be interesting to see how it unfolds.

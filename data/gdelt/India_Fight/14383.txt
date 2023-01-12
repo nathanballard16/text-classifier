@@ -1,0 +1,77 @@
+Six Reasons Why the Aadhaar Amendment Ordinance Undermines Democracy
+
+On February 28, the Centre issued the Aadhaar and Other Laws (Amendment) Ordinance, 2019, to revive the commercial use of the biometrics-linked 12-digit Aadhaar number, which the Supreme Court had specifically struck down as being unconstitutional in September 2018.
+
+President Ram Nath Kovind promulgated this ordinance on March 3.
+
+The ordinance was just days before the 16th Lok Sabha was set to dissolve in order to ensure that private entities and businesses built on data aggregation have access to Aadhaar – ahead of the general elections during which their support might be crucial for the incumbent BJP’s political success.
+
+Also read: Modi Govt Clears Aadhaar Amendment Bill Through Ordinance Route
+
+Via the ordinance, the government has pushed through amendments to the Aadhaar Act that it failed to pass through parliament and in particular the Rajya Sabha where it lacks a majority.
+
+While the amendments are presented as being in compliance with the SC judgment on Aadhaar, our view is that they violate the judgment.
+
+How do the key provisions impact citizens?
+
+Ordinance reopens the door for commercial exploitation by private entities
+
+Since its inception, the government has presented the Aadhaar number as a “voluntary” ID, but, in practice, made possessing an Aadhaar number a precondition for any interaction with the state and thereby mandatory. The Ordinance continues this doublespeak on voluntary-mandatory. Clause 5 of the Ordinance defines the various forms of “voluntary” Aadhaar authentication, including “offline verification”, as also the criteria for selecting/validating requesting entities (REs).
+
+However, nothing in this ordinance stops authentication by private commercial entities as directed by the Supreme Court. The SC judgement stated that use of Aadhaar by private parties was not permissible. Allowing private parties access to the database impinges on citizens’ right to privacy and was declared unconstitutional.
+
+The majority judgment, authored by Justice A.K. Sikri, noted (on Page 560):
+
+“(c) Apart from authorising the State, even ‘any body corporate or person’ is authorised to avail authentication services which can be on the basis of purported agreement between an individual and such body corporate or person. Even if we presume that legislature did not intend so, the impact of the aforesaid features would be to enable commercial exploitation of an individual biometric and demographic information by the private entities. Thus, this part of the provision which enables body corporate and individuals also to seek authentication, that too on the basis of a contract between the individual and such body corporate or person, would impinge upon the right to privacy of such individuals. This part of the section, thus, is declared unconstitutional.” (Emphasis added)
+
+Ordinance says children reaching majority can opt out of Aadhaar – is it realistic?
+
+The SC also directed that quoting the Aadhaar number cannot be made a requirement for school admissions, competitive examinations, and scholarships. The judges asked the government to allow children to “opt out” of the Aadhaar project when they reached 18 years of age. The new Section 3A introduced in the Ordinance appears to comply with these directions, emphasising the need for parental consent (or guardian’s consent) but fails to take into account the reality that no such consent is ever sought. Not to forget – schools were asked to organise Aadhaar enrolment camps by the UIDAI.
+
+Also read: Everything You Need to Know About the Aadhaar Case Before the SC Verdict
+
+At the same time, the government has issued no notifications ensuring use of alternate IDs through which children can access midday meals, scholarships, disability support, etc. Further, the ordinance provides a token six-month duration within which children achieving majority (18 years of age) can “opt out” of the Aadhaar scheme.
+
+But children from marginalised sections of society will still have to undergo Aadhaar authentication for multiple other welfare benefits or services on reaching adulthood as no alternatives have been specified and therefore cannot effectively “opt out” from the scheme. The ordinance also fails to explicitly provide such an opt-out option for those children enrolled prior to the judgment.
+
+Introduces “offline verification” but fails to specify how and may only exacerbate fraud
+
+While the new Section 8A introduced through Clause 7 of the Ordinance elaborates the circumstances in which offline verification may be performed (i.e. with informed consent, for a limited, specified purpose, etc.) it does not mention in what form such offline verification shall be performed. It simply states that “no offline verification-seeking entity shall… subject an Aadhaar number holder to authentication”. This seems to imply that displaying the physical printed summary of a person’s Aadhaar number and related demographic information (often called the Aadhaar “card”) will suffice to verify a person’s identity.
+
+While the Reserve Bank of India has indicated that the “Aadhaar letter issued by the UIDAI” has the status of an Officially Valid Document (OVD, similar to PAN card, passport, etc.), there is no officer responsible, and taking accountability for, issuing such a letter to the individual enrolling for an Aadhaar number (unlike the other OVDs). The sanctity of the document thus far was through triggering online authentication. The only foreseeable impact of such a provision is a surfeit of bogus or fake Aadhaar cards – and anyone wishing to create one can find resources to do so via a simple Internet search.
+
+Ordinance hands greater power to the UIDAI – with lesser accountability
+
+Clause 8 of the ordinance trims the original Section 21 of the Aadhaar Act, 2016, deleting the phrase “with the approval of the central government”, and effectively conferring greater autonomy upon the UIDAI in terms of appointing officers and other employees.
+
+The insertion of a new Section 23A under Clause 9 also appears to give the UIDAI authoritarian powers over other entities within the Aadhaar ecosystem (such as banks, for example, who traditionally are regulated by the RBI and not the UIDAI), requiring them to mandatorily comply with the Authority’s directions. Can the UIDAI truly be an impartial arbiter of the functions of these other entities?
+
+In Illustrations: Why We Should Worry About Aadhaar-Related Privacy Concerns
+
+This also means that parliament’s ability to question the UIDAI has been lowered in comparison to the original Aadhaar Act. For instance, who can call the UIDAI to account if it should choose to appoint individuals who have clear conflicts of interest through any associations with other entities within the Aadhaar ecosystem?
+
+Consider that presently, the CEO of UIDAI, Ajay Bhushan Pandey, is also the revenue secretary as well as the chairman of GSTN. How is it acceptable that Parliament has oversight over only one of his roles and not the other?
+
+Also of significant concern is the fact that the UIDAI, despite being a data collector operating information technology infrastructure of national importance, has never appointed a Chief Information Security Officer. Who, if anyone, will now have the authority to mandate the UIDAI to do so?
+
+Ordinance disregards SC striking down disclosure of information exception
+
+Section 33(2) of the Aadhaar Act, which required disclosure of information in the interest of national security when directed by at least a Joint Secretary, was struck down by the SC on the grounds that a higher official should be involved and a judicial review required for such disclosure “to avoid any possible misuse”.
+
+The Ordinance retains this section, merely replacing “joint secretary” with “secretary” and making no mention of the judicial review. Such reaffirmation of a grossly violative section practically invites further judicial scrutiny.
+
+Amendments to the Telegraph Act and PMLA are the proverbial tip of the iceberg
+
+The ordinance also includes amendments to the Telegraph Act and the Prevention of Money Laundering Act permitting the voluntary use of the Aadhaar number and Aadhaar-based authentication as well as offline verification for establishing one’s identity with a service provider or bank.
+
+The inclusion of these amendments is the clearest indication of the government’s intent to let private entities exploit the Aadhaar ecosystem for their profit – in violation of SC orders – as the amendments do not restrict the use of Aadhaar-related authentication/ identification measures to public entities alone.
+
+This also sets a precedent for expanding the “function creep” of Aadhaar by sneaking Aadhaar-based authentication into various laws requiring identification. Also, the sheer harassment of people by banks and mobile service providers – which has continued despite the SC judgment – has made not the least impact upon the government, which is most worrying.
+
+You can follow our extensive coverage of Aadhaar here.
+
+Above all, the ordinance has been issued despite the continued absence of a data protection law. Even compliance with such a law does not repudiate the multiple concerns with the Aadhaar scheme. Any claims made by the UIDAI regarding either its own data security measures or those of the other agencies in the Aadhaar ecosystem need to be questioned given that the UIDAI has consistently refused to describe such measures even in responses to RTI enquiries. The UIDAI cannot be a data collector, a data regulator, as well as a data security arbiter – especially with extended autonomy and lower accountability.
+
+While the ordinance may be electorally expedient, it only raises further concerns around the governance of the Aadhaar scheme given the absence of any sort of public consultation or parliamentary scrutiny. We therefore must continue to resist the imposition of Aadhaar in our everyday lives, and challenge the mandatory use of the Aadhaar number for provision of any service or welfare benefit.
+
+Raghu, who tweets and writes under the handle ‘godavar’, is a member of the Rethink Aadhaar collective. This piece is based on inputs from other Rethink Aadhar members.

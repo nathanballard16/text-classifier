@@ -1,0 +1,17 @@
+Microsoft To Use AI Technology To Treat Cervical Cancer In India
+
+Microsoft is using modern technology to battle cancer, especially in the countries where it is hardest to do so, by using AI technology. Microsoft is currently working with SRL Diagnostics to help the women of India battle cervical cancer, if not, fully cure it.
+
+As reported by Tech Crunch, Microsoft has partnered with SLR Diagnostics for the project of utilizing AI in building a network of pathology, which will help scientists in India in their quest of fighting against cervical cancer. This is called the AI Network for Pathology.
+
+According to statistics, cervical cancer kills around 67,000 women in India every year. This number could be lowered, if diagnosis and treatment could be done at a faster pace as it is now. This is actually one of the biggest challenges that were seen, that the detection of the disease is too time-consuming. They hope for AI to help cytopathologists and histopathologists speed this up.
+
+Photo: padrinan - Pixabay
+
+Manish Gupta, Principal Applied Researcher at Microsoft Azure Global Engineering explained that the main idea of this collaboration is to build an AI algorithm that would speedily assess examinations by looking at the area various experts look at in different and separate processes.
+
+The two companies actually already revealed the initial results of the project. Running on Microsoft’s Azure, SLR’s Cervical Cancer Image Detection API was seen to be able to quickly screen liquid-based cytology slide images for detection of cervical cancer in the early stages and return insights to pathologists in labs. Additionally, This early build of the algorithm is already able to differentiate between normal and abnormal smear slides with accuracy and classify smear slides based on the seven-subtypes of the cervical cytopathological scale.
+
+“The API has the potential of increasing the productivity of a cytopathology section by about four times. In a future scenario of automated slide preparation with assistance from AI, cytopathologists can do a job in two hours what would earlier take about eight hours,” Dr. Arnab Roy, Technical Lead for New Initiatives & Knowledge Management at SRL Diagnostics said in the report.
+
+More updates on the research efforts of Microsoft and SLR Diagnostics are expected to be shared with the public soon.

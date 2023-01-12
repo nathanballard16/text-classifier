@@ -1,0 +1,11 @@
+North Korea is funding its weapons program with stolen cryptocurrency
+
+Hacking has become a central strategy for Kim Jong-un’s regime to generate revenue and soften the blow of economic sanctions. A new report from the United Nations, seen by the Associated Press, outlines the considerable breadth of the operation, which it says is being used to fund the development of weapons of mass destruction.
+
+The news: Last week, several media outlets reported the UN’s conclusion that North Korea has stolen as much as $2 billion using “widespread and increasingly sophisticated” cyberattacks on financial institutions and cryptocurrency exchanges. The AP has now seen a lengthier version of the report, which provides more detail about the attacks. UN experts say they are looking into at least 35 instances in 17 countries in which North Korea used a cyberattack to raise money for its weapons programs.
+
+The targets: North Korea’s hackers appear to have done the most damage in South Korea. The report counts 10 attacks there, including four leveled at Bithumb, one of the largest cryptocurrency exchanges in the world. State-sponsored hackers from North Korea also carried out three attacks in India and two each in Bangladesh and Chile, according to the AP.
+
+The methods: The attacks have taken two main forms. Some were targeted at the SWIFT system that banks use to transfer money internationally. In those cases, hackers infiltrated bank employees’ computers and other infrastructure to send fraudulent messages and destroy evidence. Other attacks involved stealing digital currency from cryptocurrency exchanges and users. The UN researchers say that North Korea is also engaging in “mining of cryptocurrency as a source of funds for a professional branch of the military.”
+
+Why it matters: For years, North Korea has seemed committed to a strategy of stealing money via the internet. Digital currency offers a way to raise funds and engage in commerce outside the US-dollar-led global financial system.

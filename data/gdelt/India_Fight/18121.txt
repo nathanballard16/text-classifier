@@ -1,0 +1,65 @@
+Facebook statement on removal of certain pages/accounts run from India and Pakistan
+
+Gandhinagar: Facebook has today in a statement said it has killed over 500 pages/accounts run by Congress IT cell. Facebook has also removed Pakistani Army run pages/accounts.
+
+Highlights of statement by Facebook on removal of pages/accounts from India and Pakistan
+
+By Nathaniel Gleicher, Head of Cybersecurity Policy
+
+We have removed Pages, Groups and accounts for violating Facebook’s policies on coordinated inauthentic behavior or spam. Today’s action includes four separate takedowns — each distinct and unconnected.
+
+We have detailed each of these actions below.
+
+Coordinated Inauthentic Behavior Enforcement
+
+The operations we found to be engaged in coordinated inauthentic behavior were two distinct sets of activity in India and one network in Pakistan. We didn’t find any links between the campaigns we’ve removed today, but they used similar tactics by creating networks of accounts to mislead others about who they were and what they were doing.
+
+We are constantly working to detect and stop coordinated inauthentic behavior because we don’t want our services to be used to manipulate people. We’re taking down these Pages and accounts based on their behavior, not the content they posted. In each case detailed below, the people behind this activity coordinated with one another and used fake accounts to misrepresent themselves, and that was the basis for our action.
+
+While we are making progress rooting out this abuse, as we’ve said before, it’s an ongoing challenge and we’re committed to continuously improving to stay ahead. That means building better technology, hiring more people and working more closely with law enforcement, security experts and other companies.
+
+In each case below, we identified violating accounts and Pages through ongoing internal investigations into coordinated inauthentic behavior in the region ahead of the upcoming elections in India. We have shared relevant information with policymakers and technology platforms.
+
+Pakistan
+
+Today we removed 103 Pages, Groups and accounts for engaging in coordinated inauthentic behavior on Facebook and Instagram as part of a network that originated in Pakistan. The individuals behind this activity used fake accounts to operate military fan Pages; general Pakistani interest Pages; Kashmir community Pages; and hobby and news Pages. They also frequently posted about local and political news including topics like the Indian government, political leaders and military. Although the people behind this activity attempted to conceal their identities, our investigation found that it was linked to employees of the ISPR (Inter-Service Public Relations) of the Pakistani military.
+
+Presence on Facebook and Instagram: 24 Pages, 57 Facebook accounts, 7 Groups and 15 Instagram accounts.
+
+24 Pages, 57 Facebook accounts, 7 Groups and 15 Instagram accounts. Followers: About 2.8 million accounts followed one or more of these Pages, about 4,700 accounts joined at least one of these groups, and around 1,050 accounts followed one or more of these Instagram accounts.
+
+About 2.8 million accounts followed one or more of these Pages, about 4,700 accounts joined at least one of these groups, and around 1,050 accounts followed one or more of these Instagram accounts. Advertising: Around $1,100 in spending for ads on Facebook paid for in US dollars and Pakistani rupees. The first ad ran in May 2015 and the most recent ad ran in December 2018.
+
+Below is a sample of the content posted by some of these Pages:
+
+India
+
+Today we removed two separate and unrelated networks of Pages, Groups and accounts that engaged in coordinated inauthentic behavior on Facebook and Instagram in India. The first was linked to individuals associated with the INC IT Cell, and the second was connected to individuals associated with an Indian IT firm, Silver Touch. Here are some details.
+
+We removed 687 Facebook Pages and accounts for engaging in coordinated inauthentic behavior in India. The individuals behind this activity used fake accounts, the majority of which had already been detected and suspended by our automated systems, and joined various Groups to disseminate their content and increase engagement on their own Pages. The Page admins and account owners typically posted about local news and political issues, including topics like the upcoming elections, candidate views, the INC and criticism of political opponents including the Bharatiya Janata Party (BJP). While the people behind this activity attempted to conceal their identities, our review found that it was connected to individuals associated with an INC IT Cell.
+
+Presence on Facebook: 138 Pages and 549 Facebook accounts.
+
+138 Pages and 549 Facebook accounts. Followers: About 206,000 accounts followed one or more of these Pages.
+
+About 206,000 accounts followed one or more of these Pages. Advertising: Around $39,000 USD in spending for ads on Facebook, paid for in Indian rupees. The first ad ran in August 2014 and the most recent ad ran in March 2019.
+
+Below is a sample of the content posted by some of these Pages:
+
+Separately, we removed 15 Pages, Groups and accounts for engaging in coordinated inauthentic behavior on Facebook and Instagram in India. A small number of Page admins and account owners used a combination of authentic and fake accounts to share their content across a variety of Pages. They posted about local news and political events, including topics like the Indian government, the upcoming elections, the BJP and alleged misconduct of political opponents including the INC. Although the people behind this activity attempted to conceal their identities, our investigation found that this activity was linked to individuals associated with an Indian IT firm.
+
+Presence on Facebook and Instagram: 1 Page, 12 Facebook accounts, 1 Group and 1 Instagram account.
+
+1 Page, 12 Facebook accounts, 1 Group and 1 Instagram account. Followers: About 2.6 million accounts followed this Page, about 15,000 accounts joined this Group, and around 30,000 accounts followed this Instagram account.
+
+About 2.6 million accounts followed this Page, about 15,000 accounts joined this Group, and around 30,000 accounts followed this Instagram account. Advertising: Around $70,000 USD in spending for ads on Facebook, paid for in Indian rupees. The first ad ran in June 2014 and the most recent ad ran in Feb 2019.
+
+Below is a sample of the content posted by some of these Pages:
+
+Removing Additional Pages and Accounts that Violate our Spam and Misrepresentation Policies in India
+
+We also removed 227 Pages and 94 accounts in India for violating our policies against spam and misrepresentation. These policies, outlined in Facebook’s Community Standards, are designed to help make sure people can trust the connections they make on Facebook and are not misled about the content they are seeing. These Pages and accounts were engaging in behaviors that expressly violate our policies. This included using fake accounts or multiple accounts with the same names; impersonating someone else; posting links to malware; and posting massive amounts of content across a network of Groups and Pages in order to drive traffic to websites they are affiliated with in order to make money. Unlike the takedowns for coordinated inauthentic behavior, this activity was not part of one coordinated operation.
+
+We routinely remove accounts and Pages that engage in this type of harmful, often financially-motivated, behavior — like ads for fraudulent products or fake weight loss “remedies.” The people behind this behavior create Pages using fake accounts or multiple accounts with the same names. They post clickbait posts on these Pages to drive people to websites that are entirely separate from Facebook and seem legitimate, but are actually ad farms. The people behind the activity also post the same clickbait posts in dozens of Facebook Groups, often hundreds of times in a short period, to drum up traffic for their websites. And they often use their fake accounts to generate fake likes and shares. This artificially inflates engagement for their inauthentic Pages and the posts they share, misleading people about their popularity and improving their ranking in News Feed.
+
+This activity goes against what people expect on Facebook and it violates our policies. This is why we continue to invest in people and resources to improve the technology we use to detect this type of harmful behavior, and we will continue to take action on an ongoing basis to address it.

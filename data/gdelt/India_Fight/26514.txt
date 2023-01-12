@@ -1,0 +1,15 @@
+Spectrum auction need to be commenced for 5G roll out: Tech Mahindra
+
+Manish Vyas, President of Communications Business and Chief Executive Officer of Network Services, Tech Mahindra said 4G is yet to touch all parts of the country, and while that happens on a massive scale, there are some “definite green-shoots” of 5G trials.
+
+The Department of Telecomm need to commence the auction of 5G spectrum in India as the regulators in some countries have already formulated policies and initiated spectrum auctions for the 5G roll out in their respective nations, a senior official of the IT giant Tech Mahindra has said. Manish Vyas, President of Communications Business and Chief Executive Officer of Network Services, Tech Mahindra said 4G is yet to touch all parts of the country, and while that happens on a massive scale, there are some “definite green-shoots” of 5G trials. More than technology however, the bigger impediment could be the regulatory body’s policy on 5G spectrum. The experimental license by DoT will need modifications, and till that happens, the sector is in for a “waiting game,” he said.
+
+“US, Australia, Italy, Switzerland, Saudi Arabia and more (have started 5G spectrum auctions). Spectrum is the life blood of any wireless network. For 5G, globally regulators have been licensing mid-band (3.5GHz) and in some countries mmWave (millimeter Wave) spectrum bands as well. For 5G to be rolled out in India, the first necessary step is for the regulator to auction the 5G spectrum. Everything else will be gated on spectrum,” he told PTI in an email.
+
+India’s largest telecom operator Vodafone Idea Ltd recently said the auction of 5G spectrum should not be held before 2020 as the industry needs time to develop India-specific use cases for the next-generation technology. A DoT official in December last year said the government expects to complete processes for 5G spectrum auction by August, 2019.
+
+Read Also| Singapore, Canada seek to join WTO consultations over India’s ICT products tariff
+
+TechM established a strategic partnership with Intel on a wide range of topics spanning across Virtualisation of RAN ( radio access network) , Cloud native 5G Core and on Edge Computing, Vyas said. “Intel brings best in class technology for 5G infrastructure and will form the foundation of 5G networks. We are collaborating with Intel to maximise the benefits of their technology for 5G networks and we are also working on developing 5G use cases for specific industry verticals in the CoE,” he said.
+
+Though Tech Mahindra is currently not working any Indian telecomm operator on 5G, it is engaged in detailed Boardroom discussions with all top Telcos in the nation. The IT firm is working with many Telcos across North America, UK, Germany, Asia-pacific Australia New Zealand and North Asia regions on 5G launch and digitalisation programs, he explained.

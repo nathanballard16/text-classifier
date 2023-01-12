@@ -1,0 +1,45 @@
+Google Stadia is here. Content and connectivity are still huge issues
+
+Trucks are lined up at the Port of Los Angeles on November 24, 2021 in San Pedro, California. The Ports of Los Angeles and Long Beach have suspended a plan to charge shippers fees for shipping container storage as a backlog of empty containers at the ports has decreased since last month.
+
+This Texas startup is 3D printing a neighborhood. Is it the future of housing?
+
+BERLIN, GERMANY - SEPTEMBER 16: A visitor tries out an Apple iPhone 7 on the first day of sales of the new phone at the Berlin Apple store on September 16, 2016 in Berlin, Germany. The new phone comes in two sizes, one with a 4.7 inch display, the other with a 5.5 inch display. (Photo by Sean Gallup/Getty Images)
+
+Here's what it was like in the courtroom for the Elizabeth Holmes verdict
+
+Here's what you need to know about 5G
+
+Apple CEO Tim Cook during a visit to an Apple Store at The Grove Friday, Nov. 19, 2021, in Los Angeles.
+
+New York CNN —
+
+Just days before Google (GOOG) launched its long-awaited video game service, the company announced it would nearly double the number of titles available to play on day one. But even that last-minute move won’t be enough to guarantee it succeeds in the increasingly competitive gaming market.
+
+Stadia, Google’s new cloud gaming service, officially launched on Tuesday, with some likening it to the Netflix (NFLX) of video games. With Stadia, users can stream and play games via smartphones, web browsers or wirelessly through a Chromecast.
+
+A subscription runs $129.99 and comes with a Stadia controller, a Chromecast dongle, three months of usage and a free pass so a friend can also play. Next year, Google will release another streaming subscription option called Stadia Pro, which will cost $9.99 a month and include a rotating free game as well as a free-to-play version of Stadia with a lower resolution.
+
+Stadia succeeds in delivering a console-quality experience without clunky, space-consuming hardware. You also don’t have to wait and install games, saving hours of typical downloading time for serious gamers. In tests ran by CNN Business, Stadia showed minimal lag, thanks to the cloud, and the graphics loaded seamlessly on mobile, even in particularly intense battle scenes — as long as the internet connection was strong.
+
+Indeed, Stadia’s reliance on Wi-Fi is both one of its biggest drawbacks and also a positive. This makes it easier to play anywhere — at a friend’s house, in a hotel room or anywhere with Wi-Fi — but you’ll need a strong connection to keep things running (good luck in the subway). So while you save money on buying a console and hard copies of games, you’re sacrificing the typically smooth, offline experience you’d normally get on a console.
+
+All of this could make Google’s first big attempt to break into the industry that much harder. Google is decades late to gaming, a market that’s long been dominated by Nintendo (NTDOF), Microsoft (MSFT) and Sony. With only 22 Stadia games available at launch — including “Red Dead Redemption 2,” released last year, and “Final Fantasy XV,” from 2016 — it’s well behind rivals such as Playstation Now’s rich library of 800 games.
+
+“It’s a rolling release more than a blockbuster moment,” said Joost van Dreunen, managing director at SuperData, a Nielsen company that analyzes the video game industry. He also suspects that the buzz around other subscription services may “prevent people from immediately committing to Stadia out the gate.”
+
+Google joins a growing list of competitors who are betting on cloud gaming. Sony launched its PlayStation Now streaming service in 2014 to some success, but some users continue to complain about lag time on social media. Gaming hardware company Nvidia is already in the space with GeForce Now. Microsoft started testing its cloud gaming service, Project xCloud, publicly in October and plans to bring it to PCs next year. Amazon is rumored to be looking into its own cloud gaming service.
+
+Some of Google’s competitors aren’t exactly hiding their doubts about Stadia. When asked about Google’s late entry into the market, Kareem Choudhry, corporate VP of Microsoft’s Project xCloud, stressed his company’s long history of building content, a sense of community and cloud infrastructure.
+
+“Any company that doesn’t have history in any one of those pillars — they have a lot of catching up to do,” he said.
+
+Yet, each of these companies face certain limitations in pushing forward with cloud gaming due to current networks. Experts believe 5G, the next generation, much faster version of connectivity that’s slowly starting to roll out in the US, will be able to better support cloud gaming. Stadia head Phil Harrison told CNN Business Google is already looking into it.
+
+“These things are often about timing,” he said. “It requires the level of technical investment and data center complexity of a company like Google to really deliver on the promise of cloud gaming.”
+
+Microsoft agrees. “In many of these underserved markets, quite frankly even in the US, and especially in places like India, Southeast Asia, and the continent of Africa, 5G is going to be the solution to that last mile connectivity issue,” Choudry said.
+
+Both Google and Microsoft also said they want to go after the 2.5 billion gamers worldwide, but many people who live in developing areas largely still don’t have the infrastructure to support cloud gaming.
+
+For now, many companies are just focused on getting their cloud gaming platforms off the ground.

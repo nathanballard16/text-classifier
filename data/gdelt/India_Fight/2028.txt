@@ -1,0 +1,17 @@
+Samsung Galaxy S10 Variants Allegedly Certified in China, Galaxy S10 Plus Spotted on Geekbench
+
+Samsung's Galaxy S10 lineup of smartphones continues to dominate the tech news with new leaks hitting the Web every day. The Galaxy S10 phones, which are scheduled to be unveiled on February 20, have now been certified in China and spotted as a part of a new set of leaked renders. Additionally, the Galaxy S10+ has appeared in the database of benchmarking website Geekbench with middling scores. Samsung is rumoured to be bringing a total of four Galaxy S10-series phones, including the regular Galaxy S10, Galaxy S10+, and a 'Lite' variant.
+
+According to a report in MySmartPrice, China Certification Centre For Automotive Products Ltd has certified two variants of the Samsung Galaxy S10 - SM-G9730 and the SM-G9750. There is no word on certification of other rumoured models like the Galaxy S10 X, which is the 5G version of the Galaxy S10, and Galaxy S10 E (aka Galaxy S10 lite) that is supposed to be a smaller-size version.
+
+The Chinese CCC certifications itself don't reveal any details about the upcoming phones, however they do seem to indicate that Samsung will ship its EP-TA200 Adaptive Fast Chargers with the Galaxy S10 phones. This charger has the same power rating as Quick Charge 2.0 and tops out at 15W. Even though the Chinese smartphone makers have started bundling 40W or 50W chargers with their phones, Samsung, it seems, doesn't want to jump on the bandwagon just yet.
+
+Additionally, the Galaxy S10, Galaxy S10+, and Galaxy S10 E cases and screen protectors have been listed by accessories maker Azuri on its website. The case renders don't offer any information and have several inaccuracies.
+
+Photo Credit: Azuri
+
+Lastly, as per a post on Slashleaks, the Galaxy S10+ has been listed in the database of Geekbench. The model benchmarked by Geekbench carries the model number SM-G975U and has been powered by Qualcomm Snapdragon 855. The phone scored 3413 in single core performance and 10256 in multi-core performance. In comparison, Apple's A12 Bionic in iPhone XS scores around 4797 in single core performance and 11264 in multi-core performance on Geekbench. Clearly, Samsung needs to do a lot more optimisations (at least on Snapdragon 855 models) before the final release to make sure the phone is comparable to the latest iPhone models in benchmarks. The Geekbench scores of the Exynos 9820 variant - expected to be launched in most regions including India - haven't been revealed so far.
+
+As we mentioned earlier, Samsung is hosting a press event on February 20 (February 21 in some time zones) to unveil the new Galaxy S phones. The company is expected to announce the new Galaxy S10, Galaxy S10+ and Galaxy S10 E (or lite) models. There have also been reports that we might see the introduction of Galaxy S10 X 5G model and Galaxy F foldable phone at the event.
+
+Affiliate links may be automatically generated - see our ethics statement for details.

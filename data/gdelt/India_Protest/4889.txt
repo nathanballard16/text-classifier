@@ -1,0 +1,45 @@
+Election commission may want to enforce Model Code of Conduct on social media – but it won’t be easy
+
+On March 12, the Election Commission of India directed Facebook to delete two posts shared by a Bharatiya Janata Party legislator that contained pictures of the Indian Air Force pilot Abhinandan Varthaman.
+
+The commission had received a complaint about the posts through its cVIGIL mobile phone app, created to help police violations of the Model Code of Conduct, which will be in place until the end of voting in May. On Sunday, the commission had prohibited political parties from using pictures of defence personnel in campaign material.
+
+Though both the election commission and Facebook acted with speed to remove the BJP legislator’s posts, the episode highlighted the scale of the challenge the poll body faces in enforcing the model code in the age of social media.
+
+Model code
+
+The Model Code of Conduct is a set of guidelines issued by the election commission that political parties have to follow while campaigning. In India, the first model code was devised by the Kerala government in 1960. The success of the experiment meant that by 1974 the election commission had adopted it.
+
+A major part of the code is aimed at limiting the incumbent government from misusing its position of power: new policies cannot be announced and official machinery is barred from being used for campaign work.
+
+Social media
+
+The code is not a legal document. It is more a gentleman’s agreement between political parties to maintain certain standards while canvassing for votes. The mechanism has been fairly successful so far, but will it hold in the tumultuous world of social media where every voter is also a content creator?
+
+That the election commission is not thinking natively about the internet is apparent from the fact that the cVIGIL app to log violations of the model code has no provision for submitting URLs of a page. Neither does it allow users to upload photos or videos that are not shot directly from the app. So if a user receives, say, a fake picture or video on WhatsApp, there is no way to upload it to cVIGIL. The app is essentially geared towards logging violations of the model code in the real world, not on social media.
+
+Supporters of the BJP and its affiliated Hindutva groups protest outside the Twitter office in Delhi claiming the social media platform is biased against them. Photo via Twitter
+
+Internet election
+
+This does not mean the poll body has not thought about social media at all. Chief Election Commissioner Sunil Arora on Sunday specified guidelines for the use of social media during the impending elections. All candidates are required to provide details of their social media accounts to the commission and take prior approval for all political advertisements on social media. Moreover, the model code will apply to all social media content.
+
+The commission has also set up media certification and monitoring committees in every district to counter paid news and media-related violations of the model code. Facebook, Twitter, Google and YouTube have to ensure that all political ads on their platforms are pre-certified by these committees, each of which will include a social media expert.
+
+Facebook – under fire in the West for allowing election malpractice – has already taken steps to clean up political content in India ahead of the elections. The Mint reported on Monday that the social media giant has set up an operations centre in Delhi to monitor election content. This is the first such centre Facebook has set up outside the United States. The company will constantly coordinate with the election commission.
+
+Not enough
+
+In spite of all these measures, there are many gaps that political actors are likely to exploit.
+
+For one, closed systems such as WhatsApp, where users connect individually, are not covered by the election commission’s guidelines. This despite WhatsApp being one of the country’s largest social media platforms, bigger than even Facebook. Moreover, it is extensively used by major political parties such as the BJP to campaign.
+
+Similarly, there appears to be no way to apply the guidelines to Tik Tok even though it is widely used to share ideologically charged content, particularly by the proponents of Hindutva. The Chinese video app is in the same top tier of influential social media platforms in India as WhatsApp and YouTube, with 25 crore downloads and growing (in contrast, the number of Indians with a high school or higher secondary education is a little more than 10 crore).
+
+That is not all. As Factor Daily notes, India has no guidelines for issue-based advertising, which means promoting political issues that could influence people to vote for a particular party. In India, for example, ads that endorse a hard military line on Kashmir could easily push voters towards the BJP given the party has pushed exactly this line in its five years in office. In America, entities issuing ads about hot-button political matters are required to register as political advertisers.
+
+It is no secret the election commission’s curbs on campaign funding are flouted with impunity. With the explosion of social media in India, is the model code in danger of going the same way?
+
+Also read: The Daily Fix: Indians need to be vigilant about social media disinformation at election time
+
+Pro-BJP pages account for 70% of ad spending made public by Facebook, analysis shows

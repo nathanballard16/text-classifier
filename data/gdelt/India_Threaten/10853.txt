@@ -1,0 +1,43 @@
+New cars increasingly vulnerable to hackers that could leave thousands dead: Report
+
+A fleet-wide hack at rush hour could leave about 3,000 people dead, according to a group of car industry technologists and experts.
+
+A consumer advocacy group has warned that automakers are rolling out new vehicles increasingly vulnerable to hackers, which could result in thousands of deaths in the event of a mass cyberattack.
+
+In a new report entitled "Kill Switch: Why Connected Cars Can Be Killing Machines And How To Turn Them Off," Los Angeles-based Consumer Watchdog said cars connected to the internet are quickly becoming the norm but constitute a national security threat.
+
+"The troubling issue for industry technologies is that these vehicles' safety-critical systems are being linked to the internet without adequate security and with no way to disconnect them in the event of a fleet-wide hack," the report said.
+
+It said industry executives were aware of the risk but were nonetheless pushing ahead in deploying the technology in new vehicles, putting corporate profit ahead of safety.
+
+The report was based on a five-month study with the help of more than 20 whistleblowers from within the car industry.
+
+The group of car industry technologists and experts speculated that a fleet-wide hack at rush hour could leave about 3,000 people dead.
+
+ALSO READ: Waymo, DeepMind to work together to improve self-driving cars
+
+'Dangerous design'
+
+"You can control all sorts of aspects of your car from your smartphone, including starting the engine, starting the air conditioning, checking on its location," said one of the whistleblowers, who were not identified.
+
+"Well, if you can do it with your smartphone anybody else can over the internet."
+
+The report recommends all connected vehicles be equipped with an internet kill switch and that all new designs should completely isolate safety-critical systems from internet-connected infotainment systems or other networks.
+
+"Connecting safety-critical systems to the internet is inherently dangerous design," said Jamie Court, president of Consumer Watchdog.
+
+"American car makers need to end the practice or Congress must step in to protect our transportation system and our national security."
+
+Representatives from several of the car companies mentioned in the report, including GM, Toyota and Ford, could not immediately be reached for comment.
+
+But Gloria Bergquist, a spokeswoman for the Alliance of Automobile Manufacturers, the leading advocacy group for the auto industry, suggested the report was aimed at creating hype ahead of a cybersecurity event in Las Vegas.
+
+ALSO READ: Password stealing malware attacks increase 60%, India among most affected nations
+
+"Today, cybersecurity is a priority to every industry using computer systems, including automobiles," she said in a statement to AFP.
+
+"Automakers are taking many protective actions, including designing vehicles from the start with security features and adding cybersecurity measures to new and redesigned models."
+
+Bergquist added that consumers must also be vigilant to avoid falling prey to hackers.
+
+"Consumers should exercise good cyber hygiene in all they do, including properly pairing a phone to a car, deleting phone data from rental cars (if paired), and being active in doing the maintenance and updates as requested for phones and vehicles," she said.

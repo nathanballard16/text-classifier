@@ -1,0 +1,95 @@
+Nokia 4.2 Review
+
+Nokia 4.2 is HMD Global's latest offering in India, and it aims to leave a mark in probably the most hotly contested segment of the smartphone market. The new Nokia phone inherits its curved dual-glass design from its siblings in the current Nokia lineup, and offers a stock Android experience. Additionally, the Nokia 4.2 comes equipped with a dedicated Google Assistant button and a power button that doubles as a notification light.
+
+But can good build quality and pure Android software help the Nokia 4.2 rise above its competition, especially when budget offerings from the likes of Xiaomi, Realme, and Asus offer better hardware and more features at lower prices? The on-paper specifications of the Nokia 4.2 are clearly a notch below what you could get from competing brands, which means it has a few challenges ahead of it. We review the Nokia 4.2 to find out if this new smartphone can prove to be a capable device that's still worth your money.
+
+Nokia 4.2 design
+
+The most striking aspect of the Nokia 4.2 is its design, which borrows elements from the Nokia 6.1 Plus (Review) and Nokia 5.1 Plus (Review], and looks appealing. The overall aesthetic profile is clean and understated, especially the black variant of the phone that we're reviewing (the phone's also available in Gloss Pink). The curved 2.5D glass on the front and back give the Nokia 4.2 a premium look, and we prefer this to the gradient finishes we are seeing on an increasing number of phones these days.
+
+There is a vertically aligned dual camera module that sits almost flush with the rear panel, and the fingerprint sensor sits below it. The rim of this phone also has a glossy finish with a curved profile, blending smoothly into the rear and front panels. The Nokia 4.2 definitely looks more premium than what its price would suggest, and this might as well be a key criterion for people who would like a good-looking phone without having to shell out a lot of money.
+
+The premium design of the Nokia 4.2 extends to its in-hand feel, which is also great. At 148.95x71.30x8.39mm, the Nokia 4.2 has a relatively small profile and is comfortable to hold and use. You don't have to adjust the phone in your hands and stretch your thumbs to reach for content at the far corners of the screen. The build quality of the Nokia 4.2 is excellent, and this phone should definitely be on buyers' lists if ergonomics and design are important deciding factors for them.
+
+The phone features a dedicated Google Assistant button on the left, which might come in handy for people who use the virtual assistant regularly. Unfortunately, the Google Assistant button cannot be remapped to perform any other task. A single press will bring up Google's AI assistant, while a double press will bring up a page that provides contextual information and suggestions based on user activity and location.
+
+The sunlight legibility and viewing angles of the Nokia 4.2's display are underwhelming
+
+The power button also doubles as a notification light, thanks to a LED strip around it that creates a halo of breathing light when a notification arrives. The volume rocker sits above it. All the buttons provide satisfactory tactile feedback.
+
+The left of this phone also houses the SIM tray, which has three slots to accommodate two Nano-SIM cards and a microSD card of up to 400GB simultaneously. At the top sits the 3.5mm headphone jack and a microphone, while the Micro-USB port, speaker, and another microphone can be found at the bottom.
+
+The Nokia 4.2 certainly looks and feels premium, but that also comes with a downside. The glass rear panel quickly picks up fingerprint marks and dust particles, and this was particularly highlighted on our black review unit. Nokia does not ship a protective case in the retail package, so you'll have to buy one separately, or be ready to wipe smudges every now and then for the phone to look squeaky clean.
+
+Overall, the Nokia 4.2 is one of the best looking phones in its price bracket. As for the variants and pricing, this phone is available in a single configuration with 3GB of RAM and 32GB of storage, priced at Rs. 10,990.
+
+Nokia 4.2 specifications and features
+
+While the Nokia 4.2 brings premium looks and build quality to the table, it is quite unexciting in terms of specifications. The phone packs a 5.71-inch HD+ (720x1520 pixels) display with a waterdrop notch, 19:9 aspect ratio, and a pixel density of 270ppi.
+
+The phone is powered by the octa-core 12nm Qualcomm Snapdragon 439 processor with four Cortex-A53 cores clocked at 2GHz, paired with 3GB of RAM. This choice of processor is a letdown, considering the fact that other phones which cost the same or even less, boast of much more powerful options such as the Snapdragon 660 and MediaTek Helio P70 SoCs.
+
+You can even get phones powered by the Snapdragon 675 or Snapdragon 710 processors for just a little bit more. The underpowered processor reflects in the day-to-day performance of the Nokia 4.2, but more on that later.
+
+The Nokia 4.2 looks premium, but the glossy rear panel attracts smudges quickly
+
+The Nokia 4.2's imaging hardware consists of a 13-megapixel primary camera with an f/2.2 aperture on the back, assisted by a 2-megapixel depth sensor with an f/2.2 aperture. On the front is an 8-megapixel camera with an f/2.0 aperture. Except for bokeh mode, panorama, and time-lapse, there are no interesting camera features here. The Nokia 4.2's default camera app misses out on bells and whistles such as AR stickers, slo-mo video recording, and a night mode, among others.
+
+On the software side, the Nokia 4.2 is a part of Google's Android One programme and runs Android 9 Pie. Our review unit was stuck on the February 2019 security patch, even though the May 2019 security patch has supposedly been rolled out.
+
+Since the phone runs a stock version of Android Pie, you get access to features such as Digital Wellbeing, Adaptive Battery, Adaptive Brightness, and navigation gestures, to name a few. Ambient Display is another handy feature that shows notifications for incoming messages, calls, and alarms without waking the screen.
+
+The phone also supports face recognition, but it is not particularly quick or reliable, even in well-lit surroundings. The fingerprint sensor, on the other hand, works just fine and unlocks the phone within a second. The sensor can also be used to pull down the notification shade with a downward swipe.
+
+The Nokia 4.2 is bloatware-free, and we also did not have to see any annoying ads. A major advantage that the Nokia 4.2 holds over its rivals is assured OS updates, with both Android Q and Android R promised to be rolled out for this phone, along with security updates for three years.
+
+Nokia 4.2 performance, cameras, and battery life
+
+Talking about this phone's day-to-day performance, let's start with the display. The Nokia 4.2's 5.71-inch HD+ display renders slightly washed-out colours and has sub-par viewing angles. While text appears sharp and video content looked decent, the reflectiveness posed an issue for us while using this phone outdoors during the day. Sunlight legibility was acceptable for reading, provided the brightness was cranked all the way up. However, viewing photos and videos with dark backgrounds was difficult.
+
+Looking over to the competition, one can find phones that offer better displays with higher resolutions and wider viewing angles. On the positive side, there is Adaptive Brightness for automatic brightness adjustment, and the Night Light mode can be enabled for a more comfortable screen viewing experience at night.
+
+The Nokia 4.2, despite running stock Android, felt sluggish right out of the box. We expected its performance to be zippy, but on the contrary, things were slow from the get-go. Apps took their own sweet time to load, switching between them felt a little jittery, and even some in-app functions were slow to execute. For example, the keyboard took some time to open in WhatsApp and Twitter when other apps were running in the background.
+
+The Snapdragon 439 processor doesn't have a lot of muscle to flex when it comes to gaming, but we still went ahead and tried a few games to check how it fares. Casual games such as Temple Run and Candy Crush ran smoothly, but heavy games including PUBG Mobile only ran with the graphics at their lowest level, and also took a while to load.
+
+The camera struggles with locking focus and is plagued by a slow shutter speed
+
+While playing Asphalt 9: Legends, we noticed occasional stutters and input lag. We have seen equivalently priced phones including the Redmi Note 7 (Review) and Realme 3 (Review) perform much better when it comes to gaming. One thing is clear — if you want to play games regularly, the Nokia 4.2 is not for you.
+
+As far as benchmarks go, the Nokia 4.2 scored 79,142 in AnTuTu and managed 896 and 3,289 points respectively in Geekbench 4's single-core and multi-core tests. In 3DMark Slingshot Extreme and Ice Storm Extreme tests, the phone scored 439 and 7,752 respectively. Coming to the Nokia 4.2's camera performance, photos shot in daylight generally turned out decent, with natural colours and minimal visible processing. However, sharpness and edge details were lacking.
+
+Photos captured under natural light looked crisp and had above-average dynamic range, but we did notice some washed-out colours in long-range shots captured outdoors under daylight. Macros turned out good with punchy colours, but there wasn't much in the way of surface details upon zooming in to the images on a large screen. Gradients looked good, but we've seen better results from the Realme 3 and the Redmi Note 7. The camera struggled indoors under fluorescent light, and as a result, images had a hazy, washed out appearance with reduced sharpness.
+
+Also, if you are into playing with features like AR stickers, scene modes, and artistic bokeh or lighting effects, the Nokia 4.2 will disappoint you with their absence. This phone also lacks a low-light mode, so it was not surprising that photos captured in the dark had a lot of noise and grainy textures.
+
+As for the front camera, the images captured by it looked natural. There was no skin smoothening or whitening by default, which is always welcome. The phone's algorithms did a decent job of separating subjects from their backgrounds and applying a blur effect. However, sharpness took a backseat again here, and some softening could be seen too. You can adjust the intensity of the bokeh effect while capturing an image and after it has been saved as well.
+
+There is an optional beautification filter that tweaks the appearance of faces by lightening skin colour, enlarging eyes, thinning jawlines, and smoothening skin. These changes are applied collectively by adjusting the intensity on a slider, with no individual controls for each. The integrated Google Lens function did a good job of identifying objects in the frame and pulling up relevant information. Even though identification was quite slow, the results were mostly accurate.
+
+When it comes to videos, both the front and rear cameras can record videos at full-HD and HD resolutions, but there is no way to adjust the frame rate or aspect ratio. As for the quality, the videos we recorded turned out to be average at best. While colours looked fine, there were apparent struggles with locking the focus. Thanks to the lack of any form of stabilisation, there was too much jerkiness in videos as well.
+
+Tap to see full-sized Nokia 4.2 camera samples
+
+There are two major issues with the Nokia 4.2 and its cameras that will frustrate users. The phone struggles with locking focus, which takes a toll on the quality of the final output. Be it macros or regular shots, it was annoying to repeatedly see the camera hunt for focus and underexpose the subject, even after we had manually tapped on the screen to focus.
+
+Due to this erratic behaviour, parts of our subjects often turned out to be blurred while taking portrait shots. Needless to say, we often had to take multiple shots – particularly in the case of portrait images – to ensure that at least one of them turned out good with the correct background blur effect.
+
+The other major annoyance was shutter lag. We often had to wait for a couple of seconds and had to tap the shutter button multiple times before the camera would try to lock focus again and let us take our next photo. The issue persisted when using the front as well as the rear cameras, and proved to be quite annoying.
+
+To check whether these issues were caused by our review unit running older software, we ran our tests again on another Nokia 4.2 unit running the May 2019 security patch, but we faced the same focus lock and shutter lag problems.
+
+The Nokia 4.2 packs a relatively small 3,000mAh battery, which barely managed to last us through a full day of usage. We made some phone calls, used social media apps, browsed the Web a bit, watched some videos on YouTube, and played games for around 30 minutes, besides using productivity apps. The battery capacity is definitely on the lower side.
+
+In our HD video battery loop test, the phone lasted for a mere 10 hours and 13 minutes. As for charging speed, the bundled charger takes over two and a half hours to fully charge the phone. Needless to say, we sorely missed support for fast charging on the Nokia 4.2.
+
+As for endurance, a roughly 30-minute gaming session consumed 10-15 percent of battery power. The Nokia 4.2 also got a bit warm, but the rise in temperature was mostly localised to the area around the camera bump and it did not become uncomfortable to hold the phone.
+
+Verdict
+
+The Nokia 4.2 aims to build on the momentum created by some of its well-received siblings such as the Nokia 6.1 Plus (Review) and the Nokia 7 Plus (Review), but fails on multiple grounds. The phone definitely looks and feels good, and many people will appreciate the stock Android experience. The inclusion of the notification LED around the power button is also clever, but that's the end of this phone's advantages.
+
+The Nokia 4.2 is held back by an underpowered processor as well as cameras that struggle with performance and lack features that buyers might like to have. To put it simply, the asking price of Rs. 10,990 is too steep for this phone.
+
+Compared to lower-priced rivals such as the Redmi Note 7 (Review) and the Realme 3 (Review), the Nokia 4.2 is quite underwhelming, both in terms of hardware specifications and the overall experience. One can also look at phones such as the Asus ZenFone Max Pro M2 (Review), Realme 3 Pro (Review), and Redmi Note 7 Pro (Review), which offer much better value for money than the Nokia 4.2.

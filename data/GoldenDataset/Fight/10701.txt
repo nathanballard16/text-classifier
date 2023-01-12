@@ -1,0 +1,33 @@
+Big Govt. Won’t Stop Demanding Access to Your Private Data
+
+Toggle Dark Mode
+
+The struggle between law enforcement entities and technology companies over user data privacy is intensifying.
+
+Across the globe, technology firms are being faced with increased government efforts to create policies and pass legislation that make it easier to access user data, according to The Wall Street Journal. That includes a recent law in Australia that could have profound effects everywhere else.
+
+There has long been a back-and-forth struggle between the technology industry and government officials. In the U.S., that famously peaked during a dustup between Apple and the FBI over a request to create an iPhone backdoor.
+
+While law enforcement entities want access to user data to catch criminals and monitor threats, technology firms are worried that those measures could be used to hack devices and pose security and privacy risks to users.
+
+Among government officials, the problem is called the “going-dark issue,” the WSJ reports. And according to FBI Executive Assistant Director Amy Hess, that problem “infects law enforcement and the intelligence community more and more so every day.”
+
+Hess, who previously headed the FBI’s science and technology arm, testified to Congress during Apple’s clash with the Bureau in 2016.
+
+The U.K. passed a law in 2016 that made it easier for law enforcement entities to force tech companies to hand over user data. India is considering similar measures, while the U.S. hasn’t given up on its efforts by any means.
+
+But it’s the recent law in Australia that all eyes are upon. Australia is part of the Five Eyes intelligence network, along with the U.S., U.K., Canada and New Zealand. There’s evidence that the Australian law is being seen as a “test case.”
+
+The law only says that tech firms must help governments gain access to encrypted messages, but is vague about the scope or definition of that “help.”
+
+Because of its ambiguity, how it’s interpreted by government officials could set a precedent for other governments and their own data privacy laws.
+
+According to the WSJ, Hess said that the FBI is “very curious” to see how the Australian law goes down. And Fergus Hanson, a cyber policy specialist at an Australian think tank, said that “what happens here will ricochet everywhere.”
+
+On the other hand, technology firms aren’t easing up their fight, either. Last week, a coalition of advocacy groups, trade associations, and tech companies like Apple filed comments with the Australian government warning that the recent law could create backdoors that would threaten user privacy.
+
+Apple, for its part, wrote that Australia’s recent legislation — passed in December — is vague and broad enough to threaten user privacy and encryption if a future government interpreted it differently.
+
+The encryption built into everyday technology products, like iPhones, is often so strong that even Apple can’t bypass it (let alone police). Messaging services like WhatsApp and iMessage are also end-to-end encrypted, meaning that only the sender and recipient of a message can see its contents.
+
+So while the Five Eyes intelligence network has said that “privacy is not an absolute” and that encryption should be “rare,” tech companies appear to be taking the exact opposite stance. That’s bound to cause even more problems in the future.

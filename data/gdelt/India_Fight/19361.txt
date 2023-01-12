@@ -1,0 +1,31 @@
+Space Station covered in as much bacteria, fungi as gyms, hospitals on Earth: NASA- Technology News, Firstpost
+
+Press Trust of India
+
+NASA scientists, including one of Indian origin, have found that the International Space Station (ISS) is teeming with bacteria and fungi, creating a microbial environment in the orbital laboratory similar to gyms and hospitals on Earth and putting astronauts at health risk.
+
+Scientists created a comprehensive catalogue of the bacteria and fungi found on surfaces inside the ISS.
+
+Knowledge of the composition of the microbial and fungal communities on the ISS can be used to develop safety measures for NASA for long-term space travel or living in space, the US space agency said in a statement.
+
+"Specific microbes in indoor spaces on Earth have been shown to impact human health. This is even more important for astronauts during spaceflight, as they have altered immunity and do not have access to the sophisticated medical interventions available on Earth," said Kasthuri Venkateswaran, from the NASA Jet Propulsion Laboratory (JPL) in the US.
+
+"In light of possible future long-duration missions, it is important to identify the types of microorganisms that can accumulate in the unique, closed environments associated with spaceflight, how long they survive and their impact on human health and spacecraft infrastructure," said Venkateswaran, corresponding author of the study published in the journal Microbiome.
+
+The researchers found that microbes on the ISS were mostly human-associated. The most prominent bacteria were Staphylococcus (26 percent of total isolates), Pantoea (23 percent) and Bacillus (11 percent). They included organisms that are considered opportunistic pathogens on Earth, such as Staphylococcus aureus (10 percent of total isolates identified), which is commonly found on the skin and in the nasal passage, and Enterobacter, which is associated with the human gastrointestinal tract.
+
+On Earth, they are predominant in gyms, offices, and hospitals, which suggests that the ISS is similar to other built environments where the microbiome is shaped by human occupation.
+
+"Whether these opportunistic bacteria could cause disease in astronauts on the ISS is unknown. This would depend on a number of factors, including the health status of each individual and how these organisms function while in the space environment," said Aleksandra Checinska Sielaff, from JPL.
+
+"Regardless, the detection of possible disease-causing organisms highlights the importance of further studies to examine how these ISS microbes function in space," said Aleksandra Checinska Sielaff, from JPL.
+
+"Regardless, the detection of possible disease-causing organisms highlights the importance of further studies to examine how these ISS microbes function in space," said Checinska Sielaff.
+
+Some of the microorganisms identified on the ISS have also been implicated in microbial induced corrosion on Earth. However, the role they play in corrosion aboard the ISS remains to be determined, the researchers said.
+
+They used traditional culture techniques and gene sequencing methods to analyse surface samples collected in eight locations on the ISS, including the viewing window, toilet, exercise platform, dining table and sleeping quarters, during three flights across 14 months.
+
+This allowed them to examine if and how the microbial and fungal populations differed between locations and over time.
+
+Researchers found that while fungal communities were stable, microbial communities were similar across locations but changed over time.

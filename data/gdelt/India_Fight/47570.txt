@@ -1,0 +1,23 @@
+Fake mobile app fraud tripled in first half of 2019
+
+In Q2 2019, RSA Security identified 57,406 total fraud attacks worldwide. Of these, phishing attacks were the most prevalent (37%), followed by fake mobile apps (usually apps posing as those of popular brands).
+
+But while phishing went up by just 6 percent when the numbers from 1H 2019 are compared to those from 2H 2018, attacks via financial malware and rogue mobile apps have increased significantly (80 and 191 percent, respectively).
+
+“The fact that fraud via fake mobile applications tripled in the first half of 2019 is testament to how perpetrators will constantly seek out weak points. Here, they are exploiting consumers’ growing trust in mobile apps as a means to interact with brands and make purchases,” Daniel Cohen, Director of the Fraud and Risk Intelligence Unit at RSA Security, noted.
+
+Global fraud trends
+
+Other global fraud trends that can be singled out from the company’s latest fraud report include:
+
+A significant increase in overall attack volume in India (54%) and South Africa (almost 200%) in Q2 2019
+
+For the first time in three years, fraud in the web channel outpaced the mobile channel (though it might be an anomaly)
+
+E-commerce payment fraud attempts originating from a “trusted” account (i.e., one known to the RSA fraud system for 90+ days) but a “new” device increased from 20% to 80% of total e-commerce fraud, as perpetrators double-down on account takeovers as a means to evade fraud detection
+
+The Ramnit banking Trojan continues to be a considerable threat, focusing on the banking industry in North America, Europe, and (newly) Japan.
+
+“To keep pace with constantly evolving tactics, banks need to take a layered approach to proactively manage the risk of fraud across all channels. It’s also essential that, as consumers, we all stay vigilant of new digital risks and there are several simple steps we can follow,” Cohen noted.
+
+“Firstly, avoid clicking on links in text messages or emails from unfamiliar senders as this lowers the chance of having your bank details stolen, or malware being installed on your device,” he advised. “It’s also important to keep track of bank transactions; often, fraudsters will start with smaller purchases to test the water, so monitoring bank accounts closely is vital to catch fraudsters early. Finally, in light of the rise in fake mobile apps, download new applications with caution, make sure to verify the publisher and pay close attention to what data permissions each app requests.”

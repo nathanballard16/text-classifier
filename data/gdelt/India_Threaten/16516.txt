@@ -1,0 +1,41 @@
+Pointers to check cyber security in your child’s school
+
+By Beas Dev Ralhan
+
+One of the decisive factors for parents in determining a school for admitting their child is the presence of a robust security system. With concerns over child safety rising, schools are also compelled to institute stringent safety measures. Since parents are as important as other K-12 stakeholders, it goes without saying that they play a proactive role in ensuring that security measures are strictly adhered to.
+
+Problems faced by schools in changing times
+
+In the academic sphere, schools have made great strides in creating an effective teaching-learning environment. However, the same is not reflected in the administrative domain and much of the work is still done manually. Especially when it comes to data privacy, manual processes are considered quite insufficient and weak. Considering the increasing rate of cybercrimes, schools need to be well-prepared to deal with any kind of crisis.
+
+Cybercrimes
+
+Cybercrimes, also called computer crimes, involve the use of telecommunication networks, such as the internet and mobile phones, to commit offences. They are committed against individuals or a group of individuals with an intention to cause physical or mental harm. In recent years, schools are increasingly becoming the target of malicious cyber attacks. Phishing, identity theft, ransomware, etc, are a few of the common cyber security threats schools have to deal with nowadays.
+
+Let us now understand about each of these problems.
+
+Phishing: Phishing is an unlawful attempt to lure people into sharing personal or confidential information, such as passwords, credit card numbers and bank account details.
+
+Identity theft: This is the fraudulent practice of using someone else’s identity and personal information for nefarious purposes.
+
+Ransomware: A ransomware attack is one in which cyber criminals hold critical information hostage, using malware until a ransom is paid.
+
+Such instances of cybercrime calls for the implementation of robust technological measures. Not only do the existing security measures have to be bolstered but the school administrators have to develop an administrative tool with advanced data encryption features to prevent cybercrimes of any kind. One way to deal with this issue, which is currently being analysed globally, is to localise data storage in specific locations within an institution and/or country. However, data localisation and maintenance is a tedious process. Not all educational institutions in a country like India have the technical know-how, expertise and financial viability to establish such expensive hardware. Therefore, until it becomes more cost-effective, Enterprise Resource Planning or ERP systems with cloud storage facilities are the next best resource available for school security.
+
+In fact, with the growing acceptance of ERP systems in schools, malpractices that result in the pilfering of information have been taken care of to a great extent.
+
+Major advantages offered by ERP’s data security features
+
+1. ERP’s security enhancement feature maps the entire layout of a school, from planning visitor entry, authenticating it via credentials to tracking personnel via CCTV and keeping an audit trail for each visitor.
+
+2. It allows encryption of all personal and confidential files and documents of parents, students, staff and teachers. This means that the actual information is translated into a random combination of numbers and characters that is undecipherable to a person or organisation without authorised access. This helps to prevent phishing and ransomware incidents.
+
+3. It facilitates storing of applications and databases in virtual cloud networks. This enables the user to access data from anywhere with the help of an Internet connection. Since infrastructure failure is minimal, the likelihood of data getting lost is reduced considerably.
+
+4. ERP has a role-based access system. This means that roles are assigned by the school administrators to different users with permissions set on them. Every role has a set of pre-defined actions that a user is expected to perform at the discretion of the school administrator.
+
+5. ERP has strong access control policies. For instance, if a parent wants to access any information concerning their child’s academic performance, they have to verify their identity by either entering their child’s date of birth or any other specific information the system asks for. This averts risks that can result in identity theft.
+
+A few decades ago, data security threats were not on the radar of most schools due to non-availability of advanced solutions. But, today, with the advancement of technology on the one hand and threats to child safety on the other, data security is given the highest priority by school administrators. In light of numerous incidents involving security breaches, investment in security solutions has become the need of the hour for most schools.
+
+(The writer is Co-founder and CEO, Next Education India Pvt. Ltd.)

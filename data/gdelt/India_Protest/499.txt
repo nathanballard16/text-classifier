@@ -1,0 +1,37 @@
+Hurt by WhatsApp curbs in polls, parties seek way forward
+
+“We don’t do any kind of spamming. We reach out to those persons who have given us their explicit consent. We haven’t seen any takedowns of our numbers. If our content is accurate and credible, it will just fly on its own, independent of the medium,” a BJP IT department worker. (Illustration: Mithun)
+
+With the WhatsApp forwards limit for India and a crackdown on spamming hitting political parties in the recent Assembly elections, many of them are recalibrating their WhatsApp strategy in the run-up to the general election — from using international SIMs to ramping up technological workarounds in an ongoing cat-and-mouse game with the social media platform.
+
+To limit the spread of fake news following a series of incidents of lynching, WhatsApp in July announced an India-only experiment, limiting forwards to five chats at a time.
+
+Representatives of several political parties told The Indian Express that they felt the impact of the platform’s changes during the just-concluded Assembly elections. Sources aware of the platform’s inner workings say WhatsApp forwards have declined in India since the change.
+
+Vaibhav Walia, National-in-Charge of Social Media of the India Youth Congress (IYC), said the forwards limit “demolished the infrastructure” of the organisation’s social media strategy, including blocking the official IYC phone number in the middle of campaigning.
+
+Similarly, in September, WhatsApp blocked an official Aam Aadmi Party helpline number and reinstated it only in December, “after numerous email applications” from the party, said AAP social media strategist Ankit Lal.
+
+Kapil Parmar, National In-charge of Social Media and IT for the BJP’s Youth Wing, said he had heard from ground workers that their ability to send mass messages was being curtailed, though the party’s national headquarters felt it would help the party focus on genuine followers.
+
+Sources say WhatsApp noticed an increase in spamming in recent months, especially by political parties.
+
+A WhatsApp spokesperson said, “WhatsApp has best-in-class spam detection technology that works around the clock to spot accounts engaging in abnormal behaviour so they can’t be used to spread spam or misinformation. We also rely on user reports to take action against accounts sending automated unwanted messages. In the run-up to the national election, we will continue to take steps to educate users about misinformation and curb abuse of WhatsApp.”
+
+The Youth Congress’s Walia said he had heard from volunteers, party workers and state units that more than a hundred of their numbers have been blocked by WhatsApp. He calls the blocking unjustified because many of these numbers — such as the official IYC number — are published online and in pamphlets, so it’s possible that the messages are going out to those who signed up voluntarily for party content.
+
+After Walia emailed WhatsApp for support on September 15 regarding one of the blocked numbers, the platform responded two days later, saying the number had “violated our Terms of Service”. The email also said the number’s owner should “only communicate with users you know and those who wish to receive messages from you” and to “ask your friends to save your phone number in their address book”.
+
+“We expect them to be fair. You didn’t have this in the last elections when (Narendra) Modi was winning the states. Now, you want to curb independence when the wind is blowing in the other direction,” Walia said.
+
+However, parties also confessed that a way around is being found. “With the limit, it’s now more effort for less reach. But whenever you want to limit or make a change, people come up with hacks. While the quantity of forwards has come down, it has not stopped,” said a consultant who works with the Congress.
+
+A third-party digital strategist who works with the BJP said his agency had adapted their automated WhatsApp messaging systems to work around the platform’s anti-spam efforts. The strategist, whose company has worked with several other parties in the past, explained that he pays big-time vendors roughly one to 10 paisa per number procured from SIM card shops. He said they have roughly five to eight crore such numbers. With a custom-made software, the agency randomly generates phone numbers from this purchased database to send mass messages.
+
+While the process has been going on for years, the strategist said, WhatsApp’s recent efforts have led to new workarounds such as messaging without URLs.
+
+A BJP IT department worker who leads digital communication at the national level said, “We don’t do any kind of spamming. We reach out to those persons who have given us their explicit consent. We haven’t seen any takedowns of our numbers. If our content is accurate and credible, it will just fly on its own, independent of the medium.”
+
+Walia said that in response to the blocked numbers, the party’s social media team has added teams of 20 WhatsApp-focused coordinators in Assembly seats where there used to be one. In addition, the team has shifted its focus to Facebook and call centres. From four call centres now, the party plans to have one for every state ahead of the general election.
+
+“These features are intended to stop political use of messages and they are definitely a dampener,” said one Congress strategist. “But WhatsApp saturation has set in, irrespective of these features.”

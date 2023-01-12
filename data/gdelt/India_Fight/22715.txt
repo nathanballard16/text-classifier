@@ -1,0 +1,89 @@
+Cyber-Security: The Vulnerability Of Medical Institutions To Cyber-Attacks
+
+ARTICLE
+
+To print this article, all you need is to be registered or login on Mondaq.com.
+
+McAfee researchers were able to modify the vital sign data in real time providing false information to medical personnel by switching the heartbeat records from 80 beats a second to zero within five seconds. You would have woken up to news that Medstar patient records database was subject to ransom ware cyber-attack and was asked to pay bitcoins. Unfortunately, the hospital did not have backup of medical records and in some cases, they had to turn away the patients. These incidents, unfortunately, are not stray incidents.
+
+There are various technologies converging and a rapid increase in machine to machine communications.
+
+It is predicted that by 2025, most hospitals will have the ability to network connect more than 90% of their devices.
+
+However, many hospitals are yet to make their data security systems extremely robust. Data privacy and data security are the two important pillars that needs urgent consideration. Just as financial data is loved by the cyber criminals, so is health data becoming a gold-mine with the cyber offenders. Specially so when the hospitals are run on legacy systems or no dedicated framework or surveillance on its own data.
+
+Personally identifiable data is an indicator of an individual, such as name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person;[i]
+
+A number of cyber-attacks on medical institutions are initiated to extract the electronic health records (EHRs). These EHRs may contain personal health information of the patients, their medical history, diagnosis codes, billing information, etc. which can be exploited by the cyber offenders in various manners, for instance to get ransom from the medical institutions or to create fake IDs to buy medical equipment(s) or medication which can be resold or only sold on prescription.
+
+Take this example. On 12 May 2017 a global ransomware attack, known as WannaCry, affected more than 200,000 computers in at least 100 countries. The ransomware attack also affected 80 out of 236 trusts (medical institutions under NHS) further 603 primary care and other National Health Service ("NHS") organisations were infected with the ransomware virus including 595 general practitioners. The trusts which were affected with WannaCry ransomware faced issues like patient appointments being cancelled, computer being locked out, diversion of patients from accidents and emergency departments etc.
+
+As reported in the investigation report on the WannaCry ransomware attack on NHS, published by the National Audit Office ("NAO", an independent parliamentary body in the United Kingdom), all NHS organisations infected with the WannaCry virus had unpatched or unsupported Windows operating systems. NHS Digital (a national provider of information, data and IT systems for commissioners, analysts and clinicians in health and social care in England) informed the NAO that the ransomware spread via the internet, including through the N3 network (the broadband network connecting all NHS sites in England), though there were no instances of the ransomware spreading via NHS mail (the NHS email system).
+
+In India, as reported by multiple news agencies, last year in the month of June Mahatma Gandhi Memorial (a trust run hospital) hospital, Mumbai (MGM Hospital) was affected by a similar cyber-attack where the hospital administrators found their systems locked, and noticed an encrypted message by the attackers demanding ransom in Bitcoins to unlock it. It was reported that the MGM Hospital had lost 15 days' data related to billing and patients' history, though the hospital didn't face any financial loss.
+
+Once these cyber offenders have access to the EHRs, they hold the systems of the medical institutions hostage for ransom, by encrypting all the systems completely inaccessible and unusable for the victimised medical institutions. The vulnerability to such cyber-attacks arises due to many reasons, outdated digital infrastructure or medical personnel not being aware or not trained about cyber-attacks. Cyber offenders may gain access to medical institutions' systems through various ways and sometimes as simple as (a) using a USB drive; (b) exploiting vulnerable or expired software, (c) stealing medical personnel's mobile devices, (d) hacking emails, or (e) phishing etc. It is time that our healthcare providers upgrade their technologies, networks, understanding on this subject.
+
+Regulatory bodies across the world have suggested / adopted guidelines and standards to ensure necessary cybersecurity processes and controls which helps medical institutions to mitigate cyber risks and vulnerabilities. For the purpose of this article we will be primarily focusing on various safeguards and standards put in place by European Union and India to deal with such cyber-attacks.
+
+Position in Europe
+
+As a part of the EU cybersecurity strategy, the European Commission adopted the EU Network and Information Security Directive ("NIS Directive") on 6 July 2016 and the same came into force in August 2016. As the NIS Directive is an EU directive every member state had to adopt a national legislation which would transpose the NIS Directive by 9 May 2018 and identify operators of essential services under the transposed law by 9 November 2018.
+
+The NIS Directive has three major parts to it (i) national capabilities, (ii) cross-border collaborations and (iii) national supervision of the critical sectors including health.
+
+National Capabilities: The NIS Directive mandates every member state of the EU to have certain cybersecurity capabilities, e.g. it is a mandate for every member state to have a national Computer Security Incident Response Team ("CSIRT"). Cross Border collaborations: The NIS Directive encourages collaborations between EU member states like the EU CSIRT network, the NIS cooperation group, ENISA etc. National Supervision of critical sectors: As per the NIS Directive every member state shall supervise the cybersecurity of critical market sectors in their respective country including health sector.
+
+Further, as a part of the NIS Directive the NIS cooperation group through ENISA has developed guidelines regarding (i) identification criteria of cyber-attacks, (ii) incident notification, (iii) security requirements for Digital Signal Processors (DSPs), (iii) mapping of operators of essential services (OES) security requirements for specific sectors including health and (iv) audit and self-assessment frameworks for OESs and DSPs.
+
+With a view to prescribe certain standards of safety and quality, three recognised EU standards organisations namely (a) the European Committee for Standardisation (CEN), (b) the European Committee for Electro-technical Standardization (CENELEC) and, (c) the European Telecommunications Standards Institute (ETSI) were set up. By setting common standards across EU, CEN. ETSI and CENELEC ensures protection of consumers, facilitates cross-border trade, ensures interoperability of goods/products, encourages innovation and technological development, and includes environmental protection and enables businesses to grow.[ii]
+
+The General Data Protection Regulations ("GDPR")[iii] specifically defines 'data concerning health', 'genetic data' and 'bio metric data' and regards them as 'special category of data', this means that parties who are processing special category of data shall comply with additional higher safeguards and process it legitimately. Recital 53 of the GDPR states that special categories of personal data which merit higher protection should be processed for health-related purposes only.
+
+Position in India
+
+Personal medical/health information in India is regarded as sensitive personal information as per the Information Technology (Reasonable Security Practices and Procedures and Sensitive Personal data or Information) Rules, 2011 ("Rules").
+
+The Indian legislature took an important step for addressing issues relating to cyber security when it amended the Information Technology Act, 2000 in 2008, through which they established an Indian Computer Emergency Response Team (CERT), a national agency for incident response. CERT is primarily responsible for handling cyber security incidents occurring in India and analysing information related to cyber-crimes, but among other things CERT is also indulged in issuing guidelines, advisories, vulnerability notes and white papers relating to information security practices, procedures, prevention, response and reporting of cyber incident[iv].
+
+CERT-India has been entrusted with performing the following main functions (a) collecting, analysing and disseminating of information on cyber incidents, (b) forecasting and giving alerts on cyber security incidents, (c) laying down emergency measures for handling cyber security incidents, (d) coordinating cyber incident response activities, (e) issuing guidelines, advisories, vulnerability notes and whitepapers relating to information security practices, procedures, prevention, response and reporting of cyber incidents, and (f) performing any other functions relating to cyber security as may be prescribed[v].
+
+CERT-India in the last five years or so has focused on making various institutions who are highly dependent on cyber/digital networks 'cyber resilient'. Being cyber resilient allows these institutions which is nothing but a process of effectively anticipating the various threats and the mechanism of dealing with the cyber-attacks. Anticipate, withstand, contain and recover are the 4 main contours of being cyber resilient[vi]:
+
+Anticipate: Maintain a state of informed preparedness in order to forestall compromises of mission/ business functions from adversary attacks
+
+Withstand: Continue essential mission/business functions despite successful execution of an attack by an adversary
+
+Contain: Localize containment of crisis and isolate trusted systems from untrusted systems to continue essential business operations in the event of cyber attacks
+
+Recover: Restore mission/business functions to the maximum extent possible subsequent to successful execution of an attack by an adversary
+
+Evolve: To change missions/business functions and/or the supporting cyber capabilities, so as to minimize adverse impacts from actual or predicted adversary attacks
+
+To strengthen the framework and to ensure that reasonable security practices and procedures are followed, the Department of Information Technology introduced certain Rules. The Rules requires each and every body corporate including medical institutions who are collecting such sensitive personal information to have security measures as documented in their security policy/programme which is considered to be a reasonable security practice keeping in mind the nature of their business and considering the fact that they are collecting sensitive personal information. One such international standard as recommended under the Rules is the IS/ISO/IEC 27001.
+
+Taking a step further, the Ministry of Health and Welfare has introduced a draft bill for Digital Information Security in Healthcare Act ("DISHA"). One of the key purposes of DISHA is to ensure reliability, data privacy, confidentiality and security of digital health data. DISHA prescribes that the storage of digital health data so collected would be held in trust for the owner and the holder of such data would be considered as the custodian of data thereby making such holder responsible to protect privacy, confidentiality and security of data.
+
+To bring it all together:
+
+Majority of the cyber-attacks reported worldwide are caused due to reasons which sometimes are trivial and perhaps ignored more often, such as out-dated Windows operating system patch, lack of proper anti-virus or reasons such as phishing, lack of awareness among the people about cyber security etc.
+
+EU, through GDPR has made data security an integral part of law and India is taking strong steps have a robust data protection and data security law. Various regulations, programmes, codes, standards etc. discussed in this article are some indicate steps that can be implemented.
+
+Law is just one part to solve the issue. The real question is who is responsible for safety of our personal data, commercial data, data assets etc.? We secure our houses with a lock, burglar alarms, video cams because the house owner wants to protect it. Similarly, individuals, organizations, healthcare personnel, hospitals and other institutions who collect health data for multiple reasons should be aware of various cyber-threats and has to take steps to safeguard its networks and systems from such threats.
+
+Footnotes
+
+[i] Article 4.1 General Data Protection Regulations (GDPR).
+
+[ii]CENELEC, Marketing Standards for Europe, available at: https://www.cencenelec.eu/aboutus/Pages/default.aspx
+
+[iii] GDPR (2016/679) is a regulation in EU law on data protection and privacy for all individuals within the European Union and the European Economic Area
+
+[iv] Section 70B (4) of the Information Technology Act, 2000
+
+[v] Supra footnote 1
+
+[vi] CERT- In, Cyber Crisis Management Plan for Countering Cyber Attacks and Cyber Terrorism
+
+The content of this article is intended to provide a general guide to the subject matter. Specialist advice should be sought about your specific circumstances.

@@ -1,0 +1,51 @@
+Amazon, Microsoft wage war over the Pentagon’s ‘war cloud’
+
+Amazon and Microsoft are battling it out over a $10 billion opportunity to build the U.S. military its first “war cloud” computing system. But Amazon’s early hopes of a shock-and-awe victory may be slipping away.
+
+Formally called the Joint Enterprise Defense Infrastructure plan, or JEDI, the military’s computing project would store and process vast amounts of classified data, allowing the Pentagon to use artificial intelligence to speed up its war planning and fighting capabilities. The Defense Department hopes to award the winner-take-all contract as soon as August. Oracle and IBM were eliminated at an earlier round of the contract competition.
+
+But that’s only if the project isn’t derailed first. It faces a legal challenge by Oracle and growing congressional concerns about alleged Pentagon favoritism toward Amazon. Military officials hope to get started soon on what will be a decade-long business partnership they describe as vital to national security.
+
+“This is not your grandfather’s internet,” said Daniel Goure, vice president of the Lexington Institute, a defense-oriented think tank. “You’re talking about a cloud where you can go from the Pentagon literally to the soldier on the battlefield carrying classified information.”
+
+Amazon was considered an early favorite when the Pentagon began detailing its cloud needs in 2017, but its candidacy has been marred by an Oracle allegation that Amazon executives and the Pentagon have been overly cozy. Oracle has a final chance to make its case against Amazon — and the integrity of the government’s bidding process — in a court hearing Wednesday.
+
+“This is really the cloud sweepstakes, which is why there are such fierce lawsuits,” said Wedbush Securities analyst Daniel Ives.
+
+Ives said an opportunity that was a “no brainer” for Amazon a year ago now seems just as likely to go to Microsoft, which has spent the past year burnishing its credentials to meet the government’s security requirements.
+
+For years, Amazon Web Services has been the industry leader in moving businesses and other institutions onto its cloud — a term used to describe banks of servers in remote data centers that can be accessed from almost anywhere. But Microsoft’s Azure cloud platform has been steadily catching up, as have other providers such as Google, in both corporate and government settings.
+
+With an acronym evoking Star Wars and a price tag of up to $10 billion over the next decade, JEDI has attracted more attention than most cloud deals. A cloud strategy document unveiled by the Defense Department last year calls for replacing the military’s “disjointed and stove-piped information systems” with a commercial cloud service “that will empower the warfighter with data and is critical to maintaining our military’s technological advantage.”
+
+In a court filing last month, Lt. Gen. Bradford Shwedo said further delays in the Oracle case will “hamper our critical efforts in AI” as the U.S. tries to maintain its advantage over adversaries who are “weaponizing their use of data.” Shwedo said JEDI’s computing capabilities could help the U.S. analyze data collected from surveillance aircraft, predict when equipment needs maintenance and speed up communications if fiber and satellite connections go down.
+
+Amazon was considered an early front-runner for the project in part because of its existing high-security cloud contract with the Central Intelligence Agency. It beat out IBM for that deal in 2013.
+
+Worried that the Pentagon’s bid seemed tailor-made for Amazon, rivals Oracle and IBM lodged formal protests last year arguing against the decision to award it to a single vendor.
+
+In an October blog post , IBM executive Sam Gordy wrote that a single-cloud approach went against industry trends and “would give bad actors just one target to focus on should they want to undermine the military’s IT backbone.”
+
+The Government Accountability Office later dismissed those protests, but Oracle persisted by taking its case to the Court of Federal Claims, where it has pointed to emails and other documents that it says show conflicts of interest between Amazon and the government. Oral arguments in that case are scheduled for Wednesday. The case has delayed the procurement process, though the Pentagon says it hopes to award the contract as early as Aug. 23.
+
+Oracle’s argument is centered on the activities of a Defense Department official who later went to work for Amazon. Amazon says Oracle has exaggerated that employee’s role in the procurement using “tabloid sensationalism.”
+
+Some defense-contracting experts say the conflict allegations are troubling.
+
+“No one seems to deny that these were actual conflicts and the players affirmatively attempted to conceal them,” said Steven Schooner, a professor of government procurement law at George Washington University. “That simply cannot be tolerated.”
+
+But Goure, whose think tank gets funding from Amazon but not from its cloud rivals Microsoft, Oracle or IBM, said the criticism is “coming from the also-rans.” He says rivals like Oracle “missed the boat” in cloud technology and are trying to make up lost ground through legal maneuvers.
+
+The Pentagon has repeatedly defended its bidding process, though the concerns have trickled into Congress and onto prime-time TV. Fox News host Tucker Carlson devoted a segment last month to the cloud contract that questioned an Amazon executive’s 2017 meeting with then-Defense Secretary Jim Mattis. Carlson also aired concerns by Republican Rep. Mark Meadows, who said “the allegations are incredible” and should be investigated.
+
+A Wall Street Journal report on Sunday further detailed government emails about that meeting and another one between Mattis and Amazon CEO Jeff Bezos later that year. Sen. Chuck Grassley, an Iowa Republican, said in an emailed statement Tuesday that there are so many questions that the Pentagon should “restart the whole process” and wait until its inspector general can thoroughly review for potential conflicts.
+
+Amazon said in a statement Tuesday the meetings “had nothing to do with the JEDI procurement” and blamed “misinformed or disappointed competitors” for trying to imply otherwise.
+
+Pentagon spokeswoman Elissa Smith said while military leaders are expected to engage with industry, no one in the defense secretary’s “front office” participated in drafting the contract requirements or soliciting bids.
+
+Ives said it remains to be seen how much the conflict allegations will hurt Amazon or help Microsoft. Microsoft has largely stayed quiet during the dispute. In a statement, it focused on highlighting its 40-year partnership supplying the military with services such as email.
+
+Credit : Associated Press (AP) | Photo Credit : (AP)
+
+Like this: Like Loading...

@@ -1,0 +1,27 @@
+Aadhar card status online: How to check aadhar card status online by mobile number and name
+
+Aadhaar number is a 12-digit random number issued by the Unique Identification Authority Of India (UIDAI) to the people of India. Even though some of the provisions in the Aadhaar Act 2016 were struck down by the Supreme Court, it still is a constitutionally valid proof across the country in larger interest.
+
+How can you check if your Aadhaar is generated:
+
+STEP 1: Open https://uidai.gov.in/ and under the ‘My Aadhaar’ drop-down, select ‘Check Aadhaar Status’ option.
+
+STEP 2: On the redirected page, enter the enrolment ID sent to you via SMS and enter the security code given in the adjacent box.
+
+STEP 3: Once done, click on the ‘Check Status’ box and it will show the status of your Aadhaar card.
+
+How can you retrieve your lost Aadhaar card through name and mobile number:
+
+STEP 1: On the UIDAI homepage, click on the ‘My Aadhaar’ drop-down and click on the ‘Retrive Lost or Forgotten EID/UID’ option. You will be directed to a page where you have to fill your specifications.
+
+STEP 2: Fill in your personal details asked on the page like Name, Mobile number, email ID and enter the security code given in the box. Click on the ‘Send OTP’ option.
+
+STEP 3: Fill in the OTP which will come on your given mobile number. Click on ‘Verify OTP’. You will receive your Aadhaar card number or Enrolment number on your mobile via SMS.
+
+STEP 4: Open the eaadhaar.uidai.gov.in page and under the ‘I have’ drop-down select ‘Enrollment ID’ or ‘Aadhaar’.
+
+STEP 5: Enter the Aadhar card number/Enrolment number, name, PIN code, mobile number and security text. Click on ‘Get OTP’ once you have filled your details.
+
+STEP 6: Fill in the OTP that you recieve in the box and click on ‘Validate and Download’ option.
+
+STEP 7: You have downloaded your e-Aadhaar card. Punch in the PIN code as your password to open the document and print.

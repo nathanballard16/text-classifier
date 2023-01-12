@@ -1,0 +1,97 @@
+Cow Protection Furor: Can The NSA Be Invoked?
+
+These words of Sardar Patel although uttered over 70 years ago, assume extreme significance today. At a time when the country is witnessing a rise in hate crimes and gross human rights violations, India is witnessing the re-emergence of the majority religion's veneration of the 'holy cow'.
+
+
+
+This veneration has turned extremely violent. According to a study, the country has witnessed over 120 cases of violence caused on mere allegations of cows being slaughtered or their transport. This paranoia finds further expression with our elected representatives having introduced a Bill seeking death penalty for individuals who indulge in slaughtering of cows and a High Court Judge calling for declaring the 'holy cow' as our National Animal.
+
+This paranoia is also evidenced by the demand of several state governments to invoke the National Security Act, 1980 ['NSA'] for investigating the cases of cow slaughter. The recent incident being in Madhya Pradesh, where the Chief Minister has invoked the NSA against three individuals accused of cow slaughtering. This move by the CM is illegal and goes against the essentials of the Act and their judicial interpretation. In this post, I aim to address the reasons behind such an observation.
+
+The post shall begin by first providing a brief overview of NSA. This shall be followed by analyzing the invocation of the Act against acts of cow slaughter.
+
+At the outset, I wish to state that I respect the sentiments of the Hindu community and their veneration of the holy cow. However, living in a country, where the Constitution embodies the principles of secularism and personal liberty, I believe one's religious beliefs should not be the cause of curtailing the liberty of others, so as to end up taking their lives, at times.
+
+I.What is the National Security, Act?
+
+In 1980, the Parliament of India enacted the National Security Act, to legalize preventive detention i.e. detaining someone to prevent the commission of a crime. The Act was the successor to the draconian Maintenance of Internal Security Act, which was used to detain thousands during the infamous Emergency in India.
+
+The Act allows the central government or the state governments to detain an individual if they are satisfied that he/she may act in a manner which shall be prejudicial to defence of India, relations with a foreign power, security of India, security of state or maintenance of public order [§ 3] [collectively 'grounds'].
+
+The NSA is considered a draconian legislation as it allows the government to detain a person for a maximum period of 1 year on mere apprehension [§ 13]. As per the Act, the detenue (person detained) has the limited remedy of challenging his detention before the Advisory Board created under the Act, where a personal representation has to be made, as a legal representative cannot be hired by the detenue [§ 10]. However, the Courts have entertained petitions against the detention orders under Article 32/226 of the Constitution, since detention violates one's liberty which is a fundamental right.
+
+Constitutionality of NSA-
+
+As discussed in a previous post, the Seventh Schedule of the Constitution of India demarcates the subject matter on which the Parliament, the State Legislature, or both, can make laws respectively. The NSA was enacted to provide for 'preventive detention' . The above item falls under the ambit of Entry 3 of the Concurrent List titled 'preventive detention for reasons connected with security of State, maintenance of public order…'.
+
+The entry therefore, empowers both the central government and state government to enact a law on the subject matter. However, if both the governments enacted a statute, the central law would prevail, as per our constitutional setup.
+
+The Supreme Court of India in A.K. Roy v. Union of India,
+
+has upheld the constitutionality of the Act, despite admitting that by its very nature it generally violates several basic rights of an individual.
+
+II. Cow Slaughter and NSA:
+
+Coming to the burning question of whether NSA can be invoked against the offence of cow slaughter. The answer in my opinion is a partly yes which depends on: (a) whether the particular incident of slaughtering meets the public order threshold and (b) whether there exist compelling reasons to order detention.
+
+a.The public order threshold:
+
+As discussed above, for an individual to be detained under the NSA the government should be satisfied that he/she may commit an act prejudicial to defence of India, relations with a foreign power, security of India, security of state or
+
+maintenance of public order.
+
+prejudicially affecting maintenance of public order'. An act is considered to disturb the maintenance of public order, if it leads to the disturbance of the even tempo of life of a community or a specified locality. On the contrary, where law and order' and not 'public order'. The ground used to issue detention orders in cases of cow slaughter is ''. An act is considered to disturb the maintenance of public order, if it leads to the disturbance of the even tempo of life of a community or a specified locality. On the contrary, where merely few individuals are affected , it amounts to disturbance of '' and not ''.
+
+Courts have consistently differentiated between these two phrases and allowed detention only in cases of a possible breach of public order.
+
+To reach this conclusion, the Courts assess whether the possible act has the reach, effect and potentiality to disturb public tranquility by creating terror and panic in the society.
+
+In cases of cow slaughter, Courts have considered 'public order' to be prejudicially affected, only where slaughtering happened in public gaze, resulting in communal riots or where police intervention was required to restore normalcy.
+
+However, where slaughtering happened away from public eye in a clandestine manner, the Courts have not found the situation to attract the ground of public order. The Allahabad High Court, reached this conclusion in Saeed v. State of UP, [2006 SCC Online All 195] where certain individuals were charged for slaughtering cows in their private homes without creating any communal unrest.
+
+The Court in Saeed, succinctly summarized the law on this issue. It held:
+
+'19. We do not think that a few men clandestinely slaughtering a cow in the security of their home away from the public eye in the dark hours, perhaps for survival or for consuming the meat can come in the category of actions which intrinsically disturb public order or are intended to strike terror in the minds of the public.
+
+It is thus, a matter of quality and degree whether the act has been done in public gaze and in an aggressive manner with scant regard to the sentiments of the other community or whether it has been done in a concealed manner, which can resolve the question whether the case is one involving public order, or is only a matter affecting law and order'
+
+b.Compelling reasons for detention:
+
+The Courts have consistently held that detention under the NSA should be punitive and not preventive. This means that the Act should be used to prevent commission of certain crimes and not punish the wrongdoers. The government should have compelling reasons for detention, especially when the offender is already in police custody (as is the case in M.P.).
+
+An analysis of court decisions points out, that detention has been granted only where the possibility of the alleged crime being repeated is high
+
+The conclusion has been reached by relying on criminal antecedents of the accused.
+
+While some Courts (especially the Allahabad High Court) have taken a strict view towards detention in such cases,
+
+the others have been lenient. For instance, the Madhya Pradesh High Court has shown faith in the possibility that the detenue shall not repeat his crime and hence, should not be detained. The Court in a case has held:
+
+The detenu may after releasing, follow the legal way and would restrain himself from such activities. In that case how there could be possibility of danger to public peace and order, endangering a communal riot.'[Pappu Shafiuddin v. State of MP, 1997 SCC Online MP 106]
+
+III.NSA and Madhya Pradesh:
+
+The recent invocation of the NSA in Madhya Pradesh, came about when three individuals were arrested for allegedly committing the offence of cow slaughter. This invocation falls foul of both the above listed factors i.e. not meeting the public order threshold and lack of compelling reasons.
+
+First, as per media reports, the slaughtering happened in private and no communal unrest was observed. Allegedly, the accused persons were not caught red-handed while doing the act and also did not indulge in overt acts which disturb the tranquility of the locality. Hence as per law, the act of slaughtering does not meet the 'public order' requirement.
+
+Second, there exist no compelling reasons for further detention of the accused, despite their arrest. Only one accused person is a repeated offender and therefore, detention of all instead of one, is illegal.
+
+Concluding Remarks:
+
+Despite there being several deterring provisions in our statute books which make cow slaughtering an offence,
+
+governments have often resorted to invoking draconian laws, especially the NSA.
+
+The purpose for invoking the NSA, is often to instill fear, since, the Act legalizes detention on a mere apprehension. As of late this has also taken a communal turn and is being used to curb the religious ideologies of minorities, which may not agree with what the majority wants. The problem with this approach is its inconformity with our Constitution, which is a counter majoritarian document, aiming to protect our minorities and their rights from the imposition of majority's will.
+
+It is the fundamental duty of every Indian citizen to have compassion for living creatures as much as much as it is their duty to promote harmony and the spirit of common brotherhood amongst the people of India. Religion undoubtedly forms a part of an individual's core, but for it overpower the tolerance a society wishes to exhibit is a deeply disturbing compromise to make.
+
+I am reminded of the words of Justice Saran of the Allahabad High Court, who had cautioned and hoped that the administrative authorities do not give in to these communal demands.
+
+He said, "It is important that administrative authorities act with objectivity and balance and do not rush to detain a person under a preventive law only because the moral sense of some individuals or groups is outraged.
+
+Groups or individual with motivated political or communal ideologies often raise inordinate hue and cry for the slightest incident. We witness today a rampant growth in intolerance. It is regrettable that the media instead of advocating restraint often adds fuel to the fire by vociferously pandering to misguided, over sensitive, intolerant groups." [Saeed v. State of UP, [2006 SCC Online All 195]
+
+What holds of his words today, is a question to ponder.

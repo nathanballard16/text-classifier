@@ -1,0 +1,55 @@
+After Messaging Campaign, Candidates Facing Murder Charges See 12% Decline In Votes, 3-Percentage-Point Decline In Vote Share
+
+Bengaluru: A study that sent four voter information messages on the mobile phones of randomly-selected voters in more than 3,800 villages in Uttar Pradesh in the run up to the 2017 assembly elections found a drop of 12% in votes cast for candidates facing criminal charges, which amounted to a 3-percentage-point decline in their vote-share.
+
+This decline in vote-share is significant because in nearly 20% of the seats contested across UP in 2017, the winner was decided by a margin of 3 percentage points or less, the study, Coordinating Voters against Criminal Politicians: Evidence from a Mobile Experiment in India, released in November 2018, said.
+
+Uttar Pradesh has the largest proportion of candidates with criminal charges fielded by major political parties such as the Samajwadi Party, Bharatiya Janata Party, Congress and Bahujan Samaj Party, IndiaSpend reported on March 10, 2017.
+
+The Election Commission of India made it compulsory for candidates to advertise their criminal antecedents on TV and in newspapers at least thrice during electioneering, NDTV reported on October 11, 2018.
+
+The study shows the potential of mobile phone-based information campaigns in helping voters make informed choices.
+
+In the 2017 UP assembly elections, the proportion of candidates with serious criminal cases almost doubled to 15% and of candidates with criminal cases dropped one percentage point to 18% over the previous election in 2012, according to data from the Association of Democratic Reforms, an NGO.
+
+In the 2018 assembly elections in the Hindi heartland states of Rajasthan, Madhya Pradesh and Chhattisgarh (in the second phase of elections), nearly 9%, 11% and 9% of candidates, respectively, had serious criminal charges against them.
+
+Four types of messages before polls
+
+The present study ran randomised control trials in 3,800 villages. Control villages received no messages, while for villages in which messages were sent, the recipients were chosen randomly. In all, 450,000 people received at least one voice message and one text message two days before the election.
+
+The messages were any of the following four:
+
+Basic information message: These urged recipients to get to know their candidates and think carefully before casting their vote, and additionally provided recipients with information on the number and type of criminal charges, if any, against all of their major party candidates. Information plus coordination message: These basic information messages were accompanied by content informing voters that many other residents of their area had received the same message. Information plus ethnic-voting message: In these messages, voters were provided criminality information and additionally urged to break the habit of voting along caste lines. Women’s mobilisation message: These contained the same request that recipients must get to know their candidates and think carefully before voting, plus a message to encourage higher female turnout.
+
+Message Sent Through Service Provider Under Each Type Type Message Basic Information “This message is from an unbiased, non-political NGO, Center for Governance and Development. Get to know your candidates correctly, and on Election Day, give your vote only after thinking carefully! In your area: 1. Madhusudan Kushwaha from BSP (elephant party) has 1 criminal case, with attempt to murder charges. 2. Prakash Dwivedi from BJP (lotus party) has no criminal cases. 3. Vivek Kumar Singh from Congress (hand party) has 3 criminal cases, but has no violent charges.” Information plus coordination message “This message is from an unbiased non-political NGO, Center for Governance and Development, and many people in your area have already received it. Get to know your candidates correctly, and on Election Day, give your vote only after thinking carefully! In your area: <>. Now you can elect the right candidate with the people in your area.” Information plus ethnic voting message “This message is from an unbiased, non-political NGO, Center for Governance and Development. Don’t follow your old habits and vote only on the basis of caste or religion. Get to know your candidates correctly, and on Election Day, give your vote only after thinking carefully! In your area: << Criminality Information of Candidates>>.” Women’s mobilization message “This message is from an unbiased, non-political NGO, Center for Governance and Development. Women across the country are voting in record numbers. When all household members vote, your family’s power increases. So definitely encourage all women to vote! Get to know your candidates correctly, and on Election Day, give your vote only after thinking carefully!”
+
+Source: Coordinating Voters against Criminal Politicians: Evidence from a Mobile Experiment in India (November, 2018)
+
+The study chose villages with a population greater than 150 and less than 5,150 and “excluded villages in the bottom percentile in terms of village-level population share covered as Vodafone+Idea subscribers (corresponding to roughly a 10.6% coverage rate or lower)”.
+
+The study was supported by J-PAL Governance Initiative, the Harvard Lab for Economic Applications and Policy, and the Watson Institute for International and Public Affairs. They partnered with three Indian telecom companies--Idea, Airtel and Vodafone.
+
+Candidates with murder charges lost vote share
+
+The study found that among those with murder charges, there was an overall decrease in votes of 12%. Those with attempted-murder charges saw a smaller decline in votes of 5%, and those with non-murder-related charges saw almost no difference in votes.
+
+In a set of polling stations in constituencies where at least one candidate had a murder-related charge, the total votes across all candidates without any criminal charge increased by an average of 6.7% and votes for candidates with murder-related charges dropped by 7.7%. “These effects, together with a statistically insignificant increase in votes for candidates with only non-murder-related criminal charges, yield a combined increase in total turnout of 1.6%,” the study noted.
+
+The experiment found that in polling stations where no candidates had a murder-related charge, the positive impact on votes for “clean” candidates disappeared. This showed that “having the reference point of a competing candidate with a severe criminal charge is needed for the information treatment to increase votes for non-criminally-charged candidates”, the study noted.
+
+There is no bar on candidates charged in criminal cases from contesting elections in India. The Supreme Court refused to bar candidates facing criminal charges from contesting elections, leaving the matter in the hands of parliament, Livemint reported on September 25, 2018.
+
+Earlier, in November 2017, the Supreme Court had asked the government to devise a scheme to set up special courts for trying criminal cases against legislators, Live Law reported on December 14, 2017. The central government had informed the court that special courts would dispose of all 1,581 criminal cases pending against politicians in one year, the report added.
+
+Impact of coordination
+
+The impact on “clean” candidates was different with a coordination message, relative to only basic information.
+
+There was a 0.8-percentage-point decline in the vote share of candidates with murder-related charges in polling stations that received the basic information treatment, and a 1.5-percentage-point decline for stations that received the ethnic-voting message, the study noted. However, the vote share of those candidates at polling stations that received coordination messages declined by a larger 2.5 percentage points.
+
+Overall, those facing murder charges experienced a 12% decline in the number of votes they received, leading to a 3-percentage-point decline in their vote share. “This is a non-trivial magnitude when we consider the winning margins of the election we targeted with this campaign. Of the 403 races held across UP in 2017, roughly 20% were determined by a margin of 3 percentage points or less,” the study noted.
+
+(Paliath is an analyst with IndiaSpend.)
+
+We welcome feedback. Please write to respond@indiaspend.org. We reserve the right to edit responses for language and grammar.

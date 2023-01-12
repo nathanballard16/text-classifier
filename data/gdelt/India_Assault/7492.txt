@@ -1,0 +1,17 @@
+Telangana, Andhra state power utilities hacked
+
+Telangana and Andhra Pradesh state power utilities had been hacked for which the hackers had demanded six Bitcoins (nearly Rs 20 lakh) in ransom to give description key to restore the sites, which they decoded with a password. Following the ransom attack, all computers went down, said the police on Friday.
+
+T Srinivas, Director (Projects and IT), Southern Power Distribution Company Limited (SPDCL), said the sites had been restored and a probe had been initiated.
+
+“They demanded six Bitcoins. Normally the attackers leave a link for paying ransom. In this case the websites were restored to normalcy even before they sent the link. We are investigating.”
+
+Hackers struck the website on April 29 following which web services like online payments were affected, said Telangana authorities. A case has been lodged by the cyber crime police under relevant sections of the Information Technology Act.
+
+The southern and northern power distribution companies of Telangana at Hyderabad and Warangal and southern and eastern power distribution companies of Andhra Pradesh at Tirupati and Visakhapatnam took the hit.
+
+The ransom ware attacks originated from Central Europe and some African nations, said police. The websites and systems are managed by TCS and experts from the IT giant were flown in to restore them.
+
+K Vijayanand, Chairman of Transmission Corporation of Andhra Pradesh Limited said there was no impact on the billing activities.
+
+Like this: Like Loading...

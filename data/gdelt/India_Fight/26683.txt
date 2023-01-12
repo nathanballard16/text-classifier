@@ -1,0 +1,41 @@
+Honor 20 Pro First Impressions: A camera-focussed all-rounder that could upset the OnePlus 7- Technology News, Firstpost
+
+Shomik Sen Bhattacharjee
+
+Huawei and in-turn its sub-brand Honor have had a turbulent few days after restrictions placed by the US government forced Google to sever the company's access to Android. However, the Chinese company, as a show of strength perhaps, decided to go ahead with a rather grand global launch of the Honor 20 Series, featuring its newest flagship — the Honor 20 Pro.
+
+Now, the Honor 20 Pro isn't a shiny, feature packed premium flagship like the Huawei P30 Pro (Review) or the OnePlus 7 Pro (review). But, as has been the case with Honor's flagships in the past, the company's tried to strike a balance between style and sheer hardware prowess, which pits it against the OnePlus 7 and Google Pixel 3a (review).
+
+While the Honor 20 Series is expected to launch in India on 11 June, the phone's been priced at €599 (approximately Rs 46,500) in Europe. Well, Honor's India team decided to give us a small preview of the device before it's formal introduction and here are my initial impressions of the phone.
+
+Honor 20 Pro: Design, Build and Display
+
+Honor had us beat when it comes to looks with the View 20 earlier this year and the Honor 20 looks and feels just as good. The fancy light refractions have been given a miss this time for a more understated look. Honor fancily calls this "Dynamic Holographic Design" and I'm sure a lot of people will really like the two colours on offer.
+
+Pick the phone up and there's definitely some heft here. What you get is glass-sandwich design with curved edges to help you grip the phone better. Turn the phone and you'll see a back flaunting the colour and the new Honor logo at the bottom. What did catch my eye though is the shiny new quad-camera housing with a considerable camera bump.
+
+Wondering where the fingerprint scanner went? You'll find that on the side, doubling up as the power button — just like it is on the Samsung Galaxy S10e (review).
+
+The Honor 20 Pro also mimics the Honor View 20 and the Galaxy S10e with its use of a punch-hole style display. Talking about the display itself, we get a 6.2-inch LCD screen here running at a resolution of 2,340 x 1,080 pixels and a screen-to-body ratio of a whopping 91 percent. I didn't spend a considerable amount with the phone, but from what I could tell, the display looked pleasant while scrolling through apps and browsing through web-pages.
+
+Honor 20 Pro: Chipset, RAM and software
+
+Just like the View 20 earlier this year, Honor's thrown in its flagship Kirin 980 chipset inside the Honor 20 Pro. This is also the same 7 nm chipset that powers the flagship Mate 20 Pro and P30 Pro. There's no shortage of RAM either. I'm not sure whether we'll see different storage and RAM variants in India but the unit I fiddled around with packed in 8 GB of RAM which should be more than enough for power users as well.
+
+On the software end of things, the Honor 20 Pro runs Honor's MagicUI based on Android 9.0 Pie. While this may sound like a new software overlay, in my short time with the phone, I noticed nothing different from Huawei's usual EMUI. Honor says that there are 'minor additions' to the software here, but I guess we'll have to dig a little deeper to find them.
+
+At this point, we're also not quite sure about an upgrade to Android Q, given Google's current stance on the matter with Huawei.
+
+Honor 20 Pro: Camera and battery
+
+That unmissable camera bump I spoke out earlier houses three of the phone's four rear cameras — yes, like the Huawei P30 Pro (review), there are four cameras here as well, but the setup is considerably different.
+
+There's a main 48 MP f/1.4 camera with 4-axis optical image stabilisation, a 117-degree wide-angle 16 MP f/2.2 camera and an 8 MP f/2.4 telephoto camera (capable of 3X optical zoom), also with OIS. It's a similar setup to what you'll find on the OnePlus 7 Pro or Samsung's Galaxy S10. There's also a fourth 2 MP f/2.4 macro camera on their back and a 32 MP f/2.0 selfie shooter in the 4.5 mm hole-punch on the front.
+
+The camera UI packs in all the different modes we'd seen on the Huawei P30 Pro, including a dedicated mode to shoot the moon.
+
+As far as the battery's concerned, the Honor 20 Pro comes equipped with a 4,000 mAh battery, along with a 22.5W charging adapter in the box. We would have loved to see the inclusion of Huawei's 40W Super Charge adapter here but a 22.5W should still juice the phone up quite fast.
+
+Conclusion
+
+The little time I spent with the Honor 20 Pro was enough to tell me that the phone is quite capable of taking down the upcoming OnePlus 7 and also the ASUS Zenfone 6. But the success of the phone will largely narrow down to its camera prowess (and how it compares to the Pixel 3a) and what happens of Huawei's relationship with Google. Honor did not announce which Android OS the Honor 20 series would be coming in with at the launch yesterday. But considering there is a 90-day cooling off period, it is safe to assume that it will have Google-supported Android OS for now. It's a difficult time for Huawei and Honor and we will have to see how the on-going US-China trade war will play out.

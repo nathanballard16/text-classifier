@@ -1,0 +1,433 @@
+Terrorism on the Teardrop Island: Understanding the Easter 2019 Attacks in Sri Lanka
+
+Abstract: Over the course of Easter Sunday 2019, eight bombs went off in popular hotels and historical churches across Colombo, the capital city of Sri Lanka; other coastal cities in the west; and towns in the east of the country, killing hundreds. The Islamic State-claimed attack stunned terrorism analysts because there had been no known history of jihadi violence in the country. Several of the attackers were well educated, and two were the scions of a very wealthy family, providing the cell with advantages in its plotting. There were indications, however, from as early as January 2017 that individuals associated with the National Tawheed Jamaat were becoming increasingly supportive of the Islamic State and mobilizing to violence that was missed by local law enforcement. The Sri Lanka attacks may be early evidence that the Islamic State is taking an important and renewed interest in South Asia, following losses in Syria and Iraq.
+
+In the space of 20 minutes from 8:45 AM local time on Easter Sunday April 21, 2019, in Sri Lanka, there were a series of seven coordinated suicide bomb attacks in popular hotels and historical churches across the capital city of Colombo, other coastal cities in the west, and towns in the east of the country, killing hundreds as they gathered for Easter. Hundreds more were injured.1 The bombers’ devices were packed with iron nails, ball bearings, and TATP, an explosive previously used in Islamic State terrorist attacks in Paris and Brussels.2
+
+Among the attackers, who were all Sri Lankan and who communicated via an encrypted messenger service,3 was the cell’s suspected leader, Zahran Hashim, a 34-year-old radical preacher who, according to Sri Lankan police, was one of two suicide bombers who blew themselves up at the Shangri-La hotel. (See Table 1.) The other bomber at the Shangri-La was identified by Sri Lankan officials as Ilham Ibrahim,4 the 31-year-old son of one of Sri Lanka’s richest spice traders.5 He is believed to have been a driving force behind the organization of the attacks.6 Ilham’s elder brother Inshaf Ibrahim, whose father had set him up with a copper pipe factory, blew himself up at the Cinnamon Grand hotel.7 Some investigators believe their wealth possibly financed the entire plot.8 In Negombo, 20 miles north of the capital, Achchi Muhammadu Mohamed Hasthun, who is suspected of being one of the bomb makers, detonated his suicide device at St. Sebastian’s Church.a
+
+Around five hours later, another bomb went off at a hotel in the Colombo suburb of Dehiwala, killing two. The bomber was named as Abdul Lathief Jameel Mohamed,9 who studied for a time in Australia and the United Kingdom before returning to Sri Lanka.10 His original target was apparently the five-star Taj Samudra hotel in Colombo, but it appears that after his bomb failed to detonate, he made his way 10 miles south of the center of Colombo to a guesthouse in Dehiwela.11 He checked in around 9:30 AM, likely visited a nearby mosque, and then returned to the guesthouse several hours later. At 1:20 PM, the bomb went off, perhaps as he was trying to fix whatever had malfunctioned.12
+
+At 2:25 PM, the eighth explosion occurred at a housing complex in the Colombo suburb of Dematagoda after the Special Task Force (STF) stormed the premises. According to Sri Lankan police, Fatima Ibrahim, the wife of Inshaf Ibrahim (the Cinnamon Grand bomber), blew herself up, killing three STF officers. The blast also killed her three young sons, as well as herself and her unborn child.13
+
+More than 250 were killed in the Easter attacks, making it one of the deadliest terrorist atrocities ever anywhere.14There was a sense of shock in Sri Lanka and around the world compounded by the fact that the attacks had seemed to come out of the blue. While Sri Lanka had suffered acutely from terrorist incidents until the military defeat of the Tamil Tigers in 2009, the country had had no history of deadly jihadi violence. The day after the attack, though, some Sri Lankan politicians admitted that there were precise warnings given by Indian intelligence several times in early April 2019, which were either ignored or failed to land on the desk of appropriate individuals in government. The warnings were precise enough to not only name Zahran Hashim but also noted that he was planning to attack “popular Catholic Churches and the Indian High Commission.”15 This lapse in security is an ongoing point of debate and controversy as the country moves toward its presidential election in late 2019.
+
+Two days later, the Islamic State claimed the attacks via its Amaq news agency, stating the attackers were “Islamic State fighters” and had “targeted citizens of coalition states and Christians in Sri Lanka.”16 The group quickly followed up with a statement in which it provided the purported kunya (fighting name) of seven attackers and the locations of their attacks.17 (See Table 1.) Then came a release of a picture of the attackers standing in a row18 and a 59-second video release (see Figure 1) from the Islamic State purporting to show the attack cell pledging allegiance to Islamic State leader Abu Bakr al-Baghdadi.19 Eight individuals rather than seven were shown in the picture and video,b with the suspected ringleader Zahran Hashim identified by Sri Lankan investigators as standing at the center of the group because he was the only one not wearing a mask.20 (See Figure 1.)
+
+
+
+In its communiques, the Islamic State named the Dematagoda bomber as “Abu Abdullah”21—an unknown male—and failed to mention the presence of Fatima Ibrahim.22 Reuters reported that according to “a source close to the family,” it was Ilham Ibrahim who detonated the bomb that killed his wife and his children. This contradicted the official Sri Lankan version of events but meshed with the Islamic State version, as the group did not provide a kunya for a second bomber at the Shangri-La hotel.23 (See Table 1.) Given The New York Times reported that “CCTV footage from the Shangri-La shows Ilham stepping into the elevator and later into the Table One restaurant with another man who has now been identified as Zaharan Hashim,”24 it seems likely the Islamic State made a mistake in its official releases.c
+
+One thing is clear. The Islamic State, after losing all its territory in Syria and Iraq, viewed the Sri Lanka attacks as a significant breakthrough in its attempts to reset the narrative about its decline. On April 29, 2019, the Islamic State released a video of Abu Bakr al-Baghdadi in which he presented the Easter attacks as vengeance for the Islamic State’s March 2019 defeat in Baghuz (the last territory the group held in Syria) and thanked the attackers for their pledge of allegiance.d
+
+Table 1. Real names of attackers and location of attacks in comparison with the kunyas of the attackers at each location provided by the Islamic State. The details on timings are taken from a Criminal Investigation Department (CID) document dated May 7, 2019, obtained by the author.
+
+Time Place of attack Real name of attacker(s) (according to authorities) Kunyas corresponding to location of attacker(s) given in Islamic State releases 8:45 AM Shrine of St. Anthony Church (Colombo) Alwudeen Ahamed Muaath Abu Hamzah al-Ceyloni 8:47 AM Kingsbury hotel (Colombo) Mohamed Azaam Mohamed Mubarak Abu Mukhtar al-Ceyloni 8:47 AM St.Sebastian’s Church (Negombo) Achchi Mohammdu Mohammadu Hasthun Abu Khalil al-Ceyloni 8:54 AM Shangri-La hotel (Colombo) Zahran Hashim; Ilham Ibrahim Abu Ubaydah al-Ceyloni (referring to Zahran Hashim) 9:00 AM Cinnamon Grand hotel (Colombo) Inshaf Ibrahim Abu al-Bara 9:05 AM Zion Church (Batticaloa) Mohamad Nazar Mohamed Aazath Abu Mohammed al-Ceyloni 1:20 PM Tropical Inn Guesthouse (Dehiwala suburb of Colombo) Abdul Lathief Jameel Mohamed No mention by Islamic State 2:25 PM Dematagoda Housing complex (Colombo suburb) Fatima Ibrahim (wife of Ilham Ibrahim) Abu Abdullah (no mention of a female suicide bomber)
+
+With the investigation still in its early stages, much remains unknown about the genesis of the Sri Lanka attacks. According to an internal report on the attacks written by the Criminal Investigation Department (CID), dated May 7, 2019, and given to the author by a local journalist, investigators have taken 56 people into custody. As the report states, “they are being currently grilled at the CID.” Interestingly, the CID report also states that an individual named Mohamed Ibrahim Mohamed Naufer is among those currently in custody and that he is thought “to have been appointed to succeed the leader of the group who perished during the suicide attack at Shangri-La hotel.”25
+
+This article, based on a thorough mining of open-source and media reports on the attack as well as several interviews with religious leaders and activists in the affected areas, attempts to outline what is known so far about the terrorist network that carried out the attack and its links to the Islamic State, and what it might say about the Islamic State’s shifting strategies outside of Syria and Iraq after the fall of the so-called caliphate. Before delving into the terrorist network itself, though, it is important to briefly unpack the history of anti-Muslim violence in Sri Lanka and the broader context of ethno-religious relations that formed the backdrop to the attack and that will inevitably color what happens next on the island.26
+
+Anti-Muslim Violence and the Historical Context of the Easter Attacks
+
+In order to fully grasp the Easter Sunday bombings in Sri Lanka and the radicalization of individuals like Zahran Hashim—the purported mastermind of the attacks—it is necessary to briefly unpack the broader context of anti-Muslim violence in the country, going back as far as the riots of 1915.27 Particularly since independence from the British in 1948, anti-Muslim sentiment in Sri Lanka has not been colored by some of the kind of animus seen in the Western world. It is not a discussion, for example, about how Muslims hate democracy or how Islam is antithetical to Western liberalism. Rather, in Sri Lanka, the place of the Muslim community has existed between competing nationalisms—Tamil and Sinhalese—and the purging of Muslim identity has been used to establish the “purity” of either the sought-after independent Tamil state or the majoritarian Sinhala state.28
+
+Muslims, even dating back to the 19th century, have been seen by some in the Sinhalese community as having “entered the country as invaders” and lacking indigenous origin. The Tamil community, for its part, has sometimes sought to label the Muslims as ethnically, culturally, and linguistically Tamil, only to have Muslim leaders disagree and point to “their Arab origins as a means to gain separate Muslim representation in the political sphere.”29 In a country where demographic positionality is intricately linked to political opportunity, ethnic and religious identities become deeply contentious.30 The Muslim community in Sri Lanka itself is profoundly religiously diverse, existing across a wide spectrum of religious interpretation—from Sufi to salafi—and also divided across socio-economic and rural/urban divides.31
+
+As the military conflict between the LTTE and the Sri Lankan government heated up in the late 1980s, the Muslim community in the northern and eastern provinces of Sri Lanka—which constituted the separate state envisioned by the Tigers—came under suspicion. In the Northern Province, the LTTE argued that there were too many spies in the Muslim community and that they posed a security threat. In the Eastern Province, the LTTE and the Tamil community generally faced violence at the hands of Muslim “home guards,” a civil defense force mobilized by the Sri Lankan government to protect the “borders” between areas of LTTE and government control.32 Based on both of these reasons, the LTTE launched a merciless campaign against the Muslim community, the effects of which are still being felt today.
+
+On August 3, 1990, the LTTE massacred 140 Muslims praying at a mosque in Kattankudy and, nine days later, killed another 122 Muslims at a mosque in Eravur, both in the Eastern Province. The bullet holes remain in the walls of the mosques almost 30 years later, “left there, performing as markers of Muslim vulnerability.”33 Then in October 1990, the LTTE, in the span of two weeks, forcibly expelled close to 75,000 Muslims from the Northern Province without any of their belongings.34 As Sharika Thiranagama writes, “Muslims are the absent but pregnant emptiness in the heart of Tamil nationalism. The north, easily assumed to be a mono-ethnic Tamil space, was only created as such after … the expulsion of Muslims.”35 As a former leader in the LTTE similarly told this author, “millionaires became paupers overnight. And these are people who had only known Jaffna. Born in Jaffna, lived in Jaffna. What the LTTE did was very wrong.”36
+
+Over 20 years later, with the war in Sri Lanka between the LTTE and the Sri Lankan government over, the Muslims would once again become victims to another nationalism. This time, Sinhala-Buddhist extremist groups, like the Bodu Bala Sena (BBS) and its supporters, aided by social media conspiratorialism, turned on the Muslim community and began to see them as demographic and economic threats to the Sinhalese community, resulting in several years of sporadic riots, destruction of mosques, and killings.
+
+In September 2011, a 300-year-old Muslim shrine in Anuradhapura was destroyed by a mob of 100 people, led by Buddhist religious leaders, who argued that the shrine was “on land given to Sinhala Buddhists 2000 years ago.”37In April 2012, thousands of people forcibly entered a mosque in Dambulla and destroyed everything inside. The then Prime Minister, to the shock of many, ordered that the mosque be moved to another part of town since the area it was currently located was considered “sacred to Buddhists.”38 These attacks against the Muslim community by the BBS escalated in subsequent years and peaked around two events in 2014 and 2018. These events, interviews conducted by the author suggest, were important in radicalizing some young men in the country.39
+
+In June 2014, the towns of Aluthgama, Dharga Town, Valipanna, and Beruwela—cities on the southwestern coast of Sri Lanka—saw several days of communal violence.40 The violence seems to have been sparked by a local altercation between three Muslim youth and a Buddhist monk. As the situation grew tense, meetings between the police and religious leaders were convened to try and establish calm. On June 15, 2014, the BBS held a meeting in Aluthgama laced with racism, hate speech, and suggestions of violence. Crowds streamed out of the meeting and started confronting Muslims they saw on the streets. Both sides started to throw stones. Violence began in surrounding villages as well, and several businesses and homes where attacked and burned. The result is that to this day the relationship between the Sinhalese and Muslim communities in Aluthgama remains strained.41
+
+While the role of social media in spreading misinformation and conspiracy theories in Sri Lanka, which often spurred on this kind of communal violence, has been well documented,42 platforms like Facebook and WhatsApp played a particularly destructive role in subsequent violent episodes in the country.43 Bizarre rumors have long existed online and have played into Sinhala nationalist fears of losing their majority status on the island. The 2013 violence against Muslim-owned businesses like Fashion Bug, for instance, were spurred on by rumors that Muslims were selling Sinhalese women underwear laced with sterilization cream.44 A similar rumor in late February 2018 would lead to another major episode of anti-Muslim violence in Sri Lanka, one that, some locals say, had a particularly strong impact on Zahran Hashim, the mastermind of the Easter attacks.45
+
+In late February 2018, an altercation started in Ampara, a small town in the Eastern province, when a Sinhala patron began berating a Muslim restaurant owner about something he found in his meal.46 Prior to this encounter, conspiracy theories had been circulating on Facebook that 23,000 sterilization pills had been seized from a Muslim pharmacist. The viral rumor seemed to confirm long-running fears among some in the Sinhalese community that Muslims were secretly plotting to demographically supplant them in the country. In a shaky cell phone video, the customer yells at the store owner in Sinhala, “You put in sterilization medicine, didn’t you?” The store owner, who does not understand Sinhala, just nods in agreement to the questions being shouted at him.47 The crowd that had gathered then beat the store owner and set fire to a nearby mosque. As Amanda Taub and Max Fisher rightly point out, “in an earlier time, this might have ended in Ampara,” but as the cellphone video was posted to Facebook and spread, communal tensions started to simmer.48
+
+The anger around the sterilization rumors would converge with the death of a Sinhalese man, who had been beaten by several Muslim youth after a traffic dispute, in Kandy on March 3, 2018. The violence began in Kandy and surrounding areas on March 4 and would finally cease on March 9, 2018. At the end of the violence, two people lay dead and around 20 mosques, 224 houses, and 119 businesses were either damaged or destroyed.49 The government, like it would after the Easter bombings, temporarily blocked social media platforms in order to prevent further attack planning and spreading of disinformation.50
+
+The Muslim community in Sri Lanka, which had been facing waves of anti-Muslim violence since the end of the war against the LTTE in 2009, rarely put up any coordinated resistance, but researchers who have conducted fieldwork in these communities note that Muslims were worried this was just going to continue indefinitely, whenever it was politically expedient to rile up the Sinhala nationalist base—and they would eventually need to stand up for themselves.51 Given the level of anti-Muslim violence, though, it is perhaps surprising that the country did not witness some level of militant Islamist—let alone jihadi—mobilization in all these years. While reports suggest that around 32 individuals left Sri Lanka to join the Islamic State since 2013, there has been no evidence of local plots in Sri Lanka until 2019.52
+
+The Tawheed Movement in Sri Lanka
+
+A few days after the Easter 2019 attacks, the author phoned a contact—who he will call Riyaz—in the Ceylon Tawheed Jamaat (CTJ) to get a sense of how the Muslim community was feeling and what was known locally about Zahran Hashim, the purported mastermind of the Easter attacks, and the organization he had started, the National Tawheed Jamaat (NTJ). “They have taken away the peace and freedom of the Muslims,” Riyaz told the author. “The trust others had in Muslims, the relationship of a 1,000 years has been taken away in a single day.”53 Riyaz spoke eloquently in Tamil about the history of the Tawheed Jamaat movement in Sri Lanka and the way in which the various organizations under the tawheed (oneness, in Islam) label sought to unify Muslims in Sri Lanka and re-educate worshippers on the foundations of the faith.
+
+The earliest Tawheed organizations in Sri Lanka—largely salafi in outlook—date back to the mid-1950s. They started to preach to communities, but also began to provide social services. The funding started to come in from the Saudi Arabian government and other donors locally and abroad.54 As money started to roll in, divisions also started within these early organizations. As Riyaz says, “it’s because they didn’t focus on the religion that other organizations, with different names, started cropping up.” One of these was the All Ceylon Tawheed Jamaat (ACTJ), which was created in 1998.55 More disagreements about funding sources and overall direction led to the formation in 2005 of the Sri Lankan Tawheed Jamaat (SLTJ).56 As Riyaz told the author, “the decision we made is that we will not take any funding from foreign organizations or foreign governments. We will only work with the financial support of the Sri Lankan people.” The SLTJ, though, formed a partnership with its counterpart in the Indian province of Tamil Nadu and worked closely with them.
+
+It is around this time that Zahran Hashim was finishing his theological studies at Jamiathul Falah Arabic College in Kattankudy, a traditional madrassa in Sri Lanka established in 1955.57 Upon leaving the madrassa, Zahran along with some people he knew in Kattankudy founded an organization called Darul Athar (the abode of tradition) in 2007.58 This organization, according to locals, had nothing to do with the SLTJ, and they often disagreed with each other on various theological issues. In 2012, some members of Darul Athar called Zahran in for an “investigation” into his thinking and religious beliefs. After failing to assuage their doubts and concerns, Darul Athar decided to ban him from the organization. Zahran then, in 2012, created the National Tawheed Jamaat (NTJ).59
+
+What is clear from the above, then, is that while there were some fears of extremist preachers and some sense that segments of the community were becoming conservative, the idea that some in the Muslim community would mobilize, or had mobilized, to the extent of carrying out attacks was simply not conceivable.60
+
+The Radicalization of Zahran Hashim
+
+The National Tawheed Jamaat, according to Riyaz, began simply as an organization made up of Zahran Hashim and his close and extended family.61 In the beginning, the NTJ also sought to preach and provide social services to the community. There was no immediate concern among those in Kattankudy that Zahran was radicalizing young people or was planning an attack locally.62 Locals thought his beliefs were a bit unorthodox, and becoming extreme, but did not consider Zahran to be a security threat.63 As Riyaz told the author, for reasons that remain unclear, Zahran’s beliefs started to become more extreme after 2016. His talks were increasingly supportive of global jihad and suicide bombings, and his online videos became more popular.
+
+Around this time, Zahran also came into conflict with the SLTJ. The two organizations were planning to organize a public debate around religious ethics and theological disagreements that existed between them.64 Zahran refused to take part unless he was given all the topics and questions beforehand.65 Some members of the SLTJ, during this period, had tipped off Sri Lankan intelligence that Zahran was preaching extreme messages and that he was someone the government should watch closely.66 What happened next shocked Riyaz: “I got a call soon after from Zahran’s followers asking me if I provided information about Zahran to intelligence. You see how they function? We pass on information for the good of the country, and it comes back to bite us. Zahran was furious with us after that.”67
+
+Starting in late 2016, Zahran’s public speeches were more and more openly extreme and supportive of the Islamic State.68 Sometime in January or February 2017, Zahran rented out a public space in Kattankudy and gave a controversial speech, for over 90 minutes, fully in support of the Islamic State and urging Sri Lankan Muslims to support the Islamic State in Syria. As one community activist told the author, “it was a full house. Everyone was there, including law enforcement and Sri Lankan government intelligence officials. Everyone came.”69 The community in Kattankudy responded by staging its own event on February 3, 2017.70 (See Figure 2.) The flyer for the event reads: “A conference to raise awareness about the terrorist group ISIS, that terrorizes the world.” In hindsight, and based on interviews by the author, it is astonishing just how early Zahran’s pro-Islamic State talks began, how swift and punishing the community response was, and how little law enforcement agencies had paid attention to what the community was telling them.71 Indeed, a recent New York Times report quotes former Sri Lankan army chief Daya Ratnayake, stating that the Muslim community had sounded the alarm a few years ago and had been told to try to bring the radicals back in the mainstream and not “isolate them.”72
+
+One of the pivotal events that precipitated Zahran Hashim’s radicalization to violence, happened on March 10, 2017, in direct response to the community backlash he began to receive after his public pro-Islamic State preaching.73 There had at times been historical tensions between Sufi practice, particularly dargah (shrine) worship, and more conservative salafi beliefs in Sri Lanka, which occasionally resulted in violence and persecution of Sufi communities.74 On March 10, 2017, Zahran organized another public meeting near the Badhriyyah Jummah mosque of Sufi Moulavi (scholar) Abdul Rauf. According to Abdul Rauf’s supporters, Zahran and his entourage did not show up simply to debate, but had brought swords, rods, and petrol bombs.75 A fight erupted, which became known as the Aliyar junction clash, and police arrived on the scene. Several NTJ members, including Zahran’s father and brother, were arrested.76 Zahran and his other brother Rilwan, who would later be seen in an Islamic State photo with an injury to his eye and missing several fingers, managed to escape.77 Rumors began to circulate that they had fled to the Maldives, which the Maldivian government has rejected,78 or to Tamil Nadu. Sri Lankan police put out a warrant for Zahran’s immediate arrest.79 It is also possible, some say, based on the videos he continued to release while in hiding that he was still in Sri Lanka for the most part.80 One of the videos released by Zahran during his time in hiding argued that he would never surrender to police because he only recognizes the laws of Allah, not the Sri Lankan state.81 A report in The Wall Street Journal suggested that during this period of hiding, Zahran may, in India, have made contact with veteran Islamic State fighters.82
+
+Other members of the NTJ, who had become worried about Zahran’s pro-Islamic State stance and the violence he was arousing, decided, upon his disappearance, to ban him from the organization.83 This letter by the NTJ to Zahran, sent to the author by several local journalists, is dated December 29, 2017, and reads:
+
+Over many years, our (NTJ) Jamath’s campaigner, a person who held many responsibilities in our organization, Moulavi MCM Zahran,e for some months has been conducting activities unrelated to our Jamath, and against our religious laws. Our organization has irrevocably decided to relieve Moulavi MCM Zahran of all responsibilities related to the Jamath. Therefore, we would like to state that the Jamath is not responsible for any of the actions and opinions of Moulavi MCM Zahran.f
+
+The Muslim community in Kattankudy carried on as normal, assuming Zahran and his associates had permanently gone into hiding. Then, the March 2018 Kandy riots took place. Zahran Hashim released a video that same month in which he called for the killing of non-Muslims in Sri Lanka, argued that police officers should be attacked, and that bombs should be set off all over the country.84 Shocked, Riyaz and other members of Muslim organizations handed over the video to Sri Lankan police.85
+
+Early Warning Signs of a Terrorist Cell
+
+In subsequent months in Kattankudy and nearby cities, a variety of seemingly disconnected events started to occur, which have been—only in hindsight and through law enforcement investigation, as illustrated below—linked to Zahran and his close associates. The first was a brutal killing of two police officers in Vavunathivu, a town near Batticaloa in the Eastern Province, on November 30, 2018. One of the officers was stabbed 25 times in the chest and head before being wrestled to the ground and shot dead.86 The other officer was also stabbed numerous times before being shot to death at close range. The guns used in the killings belonged to the two police officers themselves and had gone missing after the brutal murders.87 Law enforcement officials had initially blamed Tamil Tiger supporters for the murders and two former LTTE cadres were arrested.88 The true perpetrators of the attack would remain a mystery until after the Easter attacks (see below).
+
+On December 26, 2018, several youth on motorcycles damaged a few Buddha statues in and around Mawanella, a town just west of Kandy.89 Two of the alleged ring leaders, the brothers Mohammad Sadik Abdul-haq and Mohammad Shaheed Abdul-haq, managed to steer clear of the law enforcement dragnet for a time. They would eventually be arrested hiding in their uncle’s shoe store a week after the Easter bombings.90 Their father, Rasheed Mohamed Ibrahim (no apparent relation to two of the Easter Sunday attackers), had been arrested on January 22, 2019, on suspicion of involvement.91 After the Easter bombings, locals in Mawanella suggested that the individuals who carried out the desecration of the Buddha statues were radicalized by Zahran Hashim and that Hashim had been living in Mawanella for some months in 2018 as well.92
+
+The subsequent police investigation into the Mawanella incident led to the arrest and interrogation of at least 13 other youth.93 One of these youth tipped off Sri Lankan law enforcement to a stash of weapons and explosives on a coconut estate in Wanathawilluwa in the northwest of the country.94 On January 17, 2019, police arrested four suspects at this estate for possessing nearly 100 kilos of explosives, detonators, 20 liters of nitric acid, wire cords, firearms, and a stock of ammunition.95 While many politicians and journalists wondered out loud, at the time, why someone would be stockpiling weapons at this scale, the connections were not made in time to prevent the Easter bombings.96 After the Easter attacks, one of the individuals arrested was Zahran Hashim’s driver, Muhammad Sharif Adam Lebbe. He would prove to be quite valuable. Lebbe admitted that he and members of the NTJ were responsible for the killings of the two police officers in Vavunathivu in November 2018, and his information led law enforcement officials back to the same coconut estate in Wanathawilluwa where they found a second stash of weapons along with the two missing revolvers that belonged to the murdered policemen. These finds further cemented the links between Zahran Hashim and all of these seemingly disconnected events.97
+
+After the flurry of law enforcement activity following the killing of the two police officers, the Mawanella desecration of the Buddhist statues, and the recovery of a weapons cache in Wanathawilluwa, things were relatively calm until the Easter attacks.
+
+The Islamic State Connection
+
+While the precise role of the Islamic State in either inspiring or directing the Easter attacks are still being pieced together, some evidence has emerged. For one, the sheer fact that the photos of the attackers and the oath of allegiance video were released through official Islamic State channels on Telegram suggests at the very least that one of the attackers was plugged in with the Islamic State media network. The question remains whether there was something more, whether some of the attackers had traveled to join the Islamic State in Syria or to its Khorasan Province (Afghanistan, Pakistan, and “nearby lands”98), whether they had received training or finances, and whether they had some outside help in making explosives.
+
+At the time of writing, answers to most of these questions remain fuzzy. In the week after the attacks, for instance, both The New York Times and The Wall Street Journal wrote about the Islamic State connection and came to conflicting conclusions.99 Investigators, journalists, and researchers, though, are zeroing in on particular individuals to try and unpack these potential connections with Islamic State central.
+
+One of these potential connections seems to lie in a series of investigations by the Indian National Investigation Agency (NIA) into foreign fighters and Islamic State supporters in Kerala and Tamil Nadu.100 In June 2016, Indian media reported that 16 Muslim youth from Kerala had “disappeared” and that family members feared they had left to join jihadi groups in Syria.101 It was later reported that many of the individuals leaving from Kerala were not only heading to Iraq and Syria, but were also being encouraged to join the Islamic State’s Khorasan Province (ISKP). In the middle of 2018, three of these individuals returned to India and were arrested. One of those arrested, known only as “Basit,” revealed the presence of an Islamic State cell in Coimbatore to Indian officials.102
+
+On September 2, 2018, the NIA raided several locations in Kerala and Tamil Nadu based on tips from Basit. Several individuals were arrested, and charged with plotting to assassinate Hindu leaders in Coimbatore.103 Some links were discovered between the Coimbatore cell and Zahran Hashim. A “huge haul of data” was seized during these raids.104 The Coimbatore cell had copies of Zahran’s speeches, and phone records showed that Zahran had been in contact with Islamic State fighters in Bangladesh and Afghanistan.105 It is not clear at the time of writing (late May 2019) whether Zahran was influenced by these connections or whether, given the fact that they had copies of his speeches, Zahran was the influential voice.
+
+CNN reporting, though, suggests that an Islamic State suspect, who is not named, revealed to Indian interrogators that he trained Zahran and played a role in his radicalization.106 This dovetails with the Wall Street Journal reporting cited above suggesting Zahran may have made contact in India with veteran Islamic State fighters.107
+
+In addition to the Indian angle, some initial reporting on the profiles of some of the attackers suggests that there may be an Islamic State connection. According to The Australian, Abdul Lathief Jameel Mohamed, the Taj Samudra attacker whose explosive device malfunctioned, was investigated during his postgraduate studies in Australia after “intelligence emerged” linking him to Islamic State fighter Neil Prakash (Abu Khalid al-Cambodi), currently in prison in Turkey.108 Mohamed and Prakash likely did not know each other while the two were in Australia, but Prakash was very active online and encouraged plots all over the world.109 Mohamed studied aerospace engineering at Kingston University in southwest London from 2006 to 2007, before arriving in Melbourne for a postgraduate degree. According to his sister, he was radicalized in Australia and came back to Sri Lanka in 2013 a completely changed man.110 The question of whether Mohamed traveled to Syria and joined the Islamic State also seems unclear, with some reports suggesting that he only got as far as Turkey, and others stating that he entered Syria and may have engaged in training.111
+
+Another intriguing connection has emerged. Reuters reported that “a Sri Lankan software engineer suspected by authorities in Sri Lanka of having provided technical and logistical support to the Easter Sunday suicide bombers was monitored by Indian intelligence agencies three years ago for links with Islamic State suspects.”112 This individual, 24-year-old Aadhil Ameez who is in police custody but who has not as of late May 2019 been charged, is also alleged to be the link between the National Tawheed Jamaat (NTJ) and the Jamathei Millathu Ibrahim (JMI), whose members included, according to Reuters reporting, Inshaf and Ilham Ibrahim, the Cinnamon Grand and Shangri-La hotel bombers.113 It suggests an intriguing answer to the initial mystery of how two wealthy businessmen from the capital came into a trusted relationship with an extremist preacher from the east of the island. It is suspected that Aadhil Ameez, Zahran Hashim, and Ilham and Inshaf Ibrahim are the ones who leased the Wanathawilluwa coconut estate discussed above, which was meant to be used as a training camp before it was discovered by law enforcement officials in January 2019.114 More details are still emerging about the precise nature of this network, and missing pieces are likely to be filled in as the investigation continues.
+
+Emerging profiles of some of the attackers has once again brought to focus an old debate in terrorism studies: the role of socio-economic status and education in promoting violent extremism.115 While the stereotypical profile of a terrorist is someone who is poor, aggrieved, and unemployed, decades of research has shown this to be far more nuanced.116 A similar debate arose after the July 2016 attack on the Holey Artisan Bakery in Dhaka, Bangladesh,117 as it became clear that several of the attackers were highly educated and middle class.118 Indeed, at least with the Ibrahim brothers, it was likely that their wealth and business prominence119 protected them from any kind of outside suspicion, while they slowly helped plot the attack.
+
+Aftermath of the Attacks
+
+By the morning after the attack, over 20 suspects had been arrested,120 and the number would only grow throughout the week. While some of these individuals may have been connected to the attacks in some way, others were likely vacuumed up to not only show the public that something was being done, but also to ensure that no stone was left unturned after it became apparent that the government had received several warnings in the weeks leading up to the bombings.121
+
+Some in the Muslim community hoped122 that the Islamic State claim on April 23, 2019, would make clear to the larger Sri Lankan population that this was a clear indication that their youth were recruited “from abroad,” that it had nothing to do with their mosques, their religious leaders, or their beliefs—that this was not entirely homegrown. They hoped that they would not experience another Aluthgama, another Kandy.
+
+Three days later, in the evening of April 26, 2019, police raided a house in Sammanthurai in Ampara District in Sri Lanka’s Eastern Province.123 The information reportedly again came from Muhammad Sharif Adam Lebbe, Zahran Hashim’s captured driver.124 In the house, police recovered a drone, bomb-making materials, suicide vests, as well as the Islamic State flag and clothing worn by the bombers in the pledge of allegiance video.125 Sri Lankan authorities videotaped the seizure and broadcast it on television.g
+
+Meanwhile, a separate safe house in Kalmunai, around five kilometers north of Sammanthurai, began arousing the suspicion of neighbors.126 They noticed that new people had moved in and rented a house in their town. They went to say hello and were rebuffed. They went a second time, this time accompanied by a local police officer. A youth met them at the door and fired several rounds at them. The police officer managed to escape and informed the military and the STF.127 Then all hell broke loose. At the end of the raid, 15 people lay dead, including six children—all family members of Zahran Hashim.128 Sometime before they died during the raid, Zahran’s father and his two brothers, Rilwan and Zainee, recorded a shaky cell phone video, which later made the rounds on Telegram channels run by Islamic State supporters. In it, Rilwan, one eye damaged and missing several fingers, declares that they are currently “surrounded by dogs,” signaling that their hideout had been discovered, and says that they will teach the country a lesson for “oppressing the Muslims.”129 The next day, the Islamic State claimed the Kalmunai raid and released a photo of Zahran Hashim standing beside his brother Rilwan. The claim, however, mistakenly noted that 17 Sri Lankan police officers were killed in an Islamic State ambush. In fact, there were no law enforcement casualties.130
+
+Conclusion
+
+A month after the Easter bombings, two questions remain heavily debated in Sri Lanka and among terrorism analysts: first, with so many warnings from various intelligence agencies abroad, the many raids and arrests discussed above and the local community calling for the banning of the NTJ since early 2017, why was nothing done? And second, what can the attacks in Sri Lanka tell us about the Islamic State’s strategy going forward, after its loss of territory in Syria and Iraq? Answers to both of these questions, which are fundamentally important for understanding what happened and the road ahead, remain wanting.
+
+The day after the attacks, cabinet minister and government spokesman Rajitha Senaratne went public to confirm rumors that “information about possible suicide attacks at Christian places of worship and tourist areas had been shared prior to the attacks by foreign intelligence and local intelligence.”131 The intelligence had been shared on three separate occasions—two weeks before the attacks, four days prior, and even 10 minutes before the bombs went off. The warnings went the extraordinary distance of identifying the NTJ, possible locations, as well as the names of some of the attack network.132 Both the State Minister for Defence, Ruwan Wijewardena, and the Prime Minister, Ranil Wickremasinghe, stated that they had not been informed of the threat beforehand. In an interview with India’s NDTV, Wickremasinghe stated that “India gave us the intelligence but there was a lapse on how we acted on that. Intelligence was not conveyed down the line.”133 President Maithripala Sirisena similarly said that both the national police chief and the defense secretary had received warnings of imminent attacks, but had not informed him. They both resigned at his request.134
+
+Part of the problem was that both Sirisena and Wickremasinghe had a turbulent personal relationship, and had allowed national security to be politicized. In October 2018, President Sirisena fired Wickremasinghe and his cabinet and installed former President Mahinda Rajapaksa as the new Prime Minister. Wickremasinghe refused to leave, leading the country into a full-blown constitutional crisis, with two individuals claiming to be Prime Minister.135 The Supreme Court overturned the move, and forced Sirisena to reinstate Wickremasinghe. At the time of writing (late May 2019), the precise details around who knew what, and when, and why nothing was done about it remains debated with all sides pointing fingers at one another. It will be some time before more precise details emerge with respect to what went wrong.
+
+With respect to what the Sri Lanka attacks may reveal about the Islamic State’s strategy going forward, two factors are important. First, the author has been asked many times since the attack why the Islamic State would go out of its way to target a small island like Sri Lanka. This is largely the wrong question. As has been seen in Dhaka, Quetta, and other places that have experienced recent attacks, it is not so much that the Islamic State is targeting these countries as it is accepting allegiances by local groups who want to bridge localized grievances with a more transnational brand. As such, it is not that the Islamic State targeted Sri Lanka, but that groups like the NTJ are aligning their cause with international terrorist groups. This goes a long way to explaining, for example, the targeting of Christians and tourists in Sri Lanka, which fits more the modus operandi of the Islamic State, rather than being in line with historical ethno-religious faultlines on the island.136
+
+Second, over the last two months, the Islamic State has been, quite intriguingly, picking apart its Khorasan Province and declaring each subsection to be its own wilayah (province). On May 10, 2019, it declared Wilayah Hind (Indian province),137 and on May 15, 2019, it declared Wilayah Pakistan (Pakistan Province)138—both of which were historically part of Khorasan Province (ISKP). This sort of trend affecting ISKP is interesting because last year saw the exact opposite phenomenon with respect to its provinces in Syria and Iraq. In July 2018, the Islamic State restructured its over 20 provinces in Syria and Iraq. As the researchers at BBC Monitoring noted, the Islamic State stopped referring to its provinces in Raqqa, Kirkuk, Northern Baghdad, and other places as separate entities, and instead grouped them under the Wilayah of Iraq and the Wilayah of Sham (Syria).139 At least one reason for breaking apart larger conglomerates is, as Syria analyst Hassan Hassan noted, to insulate cells from each other in order to “minimize infiltration and maximize agility.”140 Whether this trend means that the world will witness increased attacks in parts of South Asia remains to be seen. CTC
+
+Amarnath Amarasingam is a senior research fellow at the London-based Institute for Strategic Dialogue. He is the author of Pain, Pride, and Politics: Social Movement Activism and the Sri Lankan Tamil Diaspora in Canadaand the co-editor of Sri Lanka: The Struggle for Peace in the Aftermath of War. Follow @AmarAmarasingam
+
+The author thanks the many journalists and friends in Sri Lanka who graciously took the time to answer his questions as he pieced together this article.
+
+Substantive Notes
+
+[a] According to The New York Times, “investigators said that they had found bomb-making manuals on [Hasthun’s] computer and that he may have trained in Turkey.” The newspaper reported that according to a senior Sri Lankan official, Hasthun “built 11 TATP bombs in a garage in a suburb south of the capital, Colombo, using ordinary household materials, including huge bottles of glue.” According to sources quoted by The Wall Street Journal, Hasthun built the devices with Rilwan Hashim, the brother of the cell’s ringleader Zahran Hashim. The newspaper reported that investigators believe Rilwan Hashim traveled to Turkey, “where he may have received training,” and had previously been in contact with a Sri Lankan in Syria who died in 2017. The newspaper reported: “The [Hashim] brothers’ preparations for a bomb attack began as long ago as early 2018, when Rilwan lost several fingers and injured his eye in an accident involving explosives, people familiar with the investigation said. He continued to experiment with explosives, using designs from Islamic State-related sites on the internet.” Rilwan died in an explosion during a police raid on April 26, 2019, in eastern Sri Lanka. Jeffrey Gettleman, Dharisha Bastians, and Hannah Beech, “‘We Knew What Was Coming’: Sri Lanka Sees ISIS’ Hand in Attacks,” New York Times, May 3, 2019; Saeed Shah and Bill Spindle, “Sri Lanka Bombers Blew Up Motorcycles, Lost Fingers Honing Deadly Skills,” Wall Street Journal, May 5, 2019; Alasdair Pal and Shri Navaratnam, “Father, two brothers of suspected Sri Lanka bombings mastermind killed in gun battle,” Reuters, April 28, 2019.
+
+[b] It is not clear why the Islamic State showed eight attackers but only named seven.
+
+[c] But if the Islamic State information and the information provided to Reuters was accurate, then under this scenario Zahran Hashim (Abu Ubayda) was the sole bomber who somehow set off two explosions at the Shangri-La hotel, and Ilham Ibrahim was, in fact, Abu Abdullah from the Dematagoda clash with STF officers.
+
+[d] Abu Bakr al-Baghdadi’s remarks regarding the Sri Lanka attacks were in an audio segment of the tape. “IS Leader Abu Bakr al-Baghdadi Appears in Video, Acknowledges End of Baghuz Battle and Sri Lanka Attack,” SITE Intelligence Group, April 29, 2019.
+
+[e] The letter references his full name Mohamed Cassim Mohamed (MCM) Zahran.
+
+[f] There was some suspicion that this letter was actually written after the attacks and backdated, but according to most of the author’s sources on the ground in Sri Lanka, it seems to be legitimate.
+
+[g] At the site of the raid, police also found white dresses often worn by Buddhist women during prayers. As The Hindu noted, “This has sparked doubts of whether the attacks were planned for the Buddhist festival of Vesak – May 18-19 – or for the July Kandy Perahara, known for its procession of traditional dancers and parades of elephants.” Indeed, it is quite possible that the initial plot was against Sinhala-Buddhist sites or gatherings, and was later changed due to the urging of the Islamic State. The choice of target, one that does not make much sense within the local Sri Lankan context, is one of the ongoing mysteries of the attack. Meera Srinivasan, “The inside story of the 9 suicide bombers behind Sri Lanka’s savage Easter attacks,” Hindu, May 25, 2019.
+
+Citations
+
+[1] “Sri Lanka bombings leave more than 200 dead, hundreds injured after explosions at churches and hotels, “ ABC News Australia, April 21, 2019.
+
+[2] Jeffrey Gettleman, Dharisha Bastians, and Hannah Beech, “‘We Knew What Was Coming’: Sri Lanka Sees ISIS’ Hand in Attacks,” New York Times, May 3, 2019; Ben Doherty, “Manchester bomb used same explosive as Paris and Brussels attacks, says US lawmaker,” Guardian, May 25, 2017.
+
+[3] Gettleman, Bastians, and Beech; Meera Srinivasan, “The inside story of the 9 suicide bombers behind Sri Lanka’s savage Easter attacks,” Hindu, May 25, 2019.
+
+[4] “Sri Lanka DNA tests confirm Easter attacks ringleader was hotel bomber,” Channel News Asia, May 21, 2019.
+
+[5] Jeffrey Gettleman, Kai Schultz, Mujib Mashal, and Russell Goldman, “Two Super-Rich Families Ended Up on Opposite Sides of Easter Attacks,” New York Times, April 27, 2019.
+
+[6] Saeed Shah and Bill Spindle, “Sri Lanka Bombers Blew Up Motorcycles, Lost Fingers Honing Deadly Skills,” Wall Street Journal, May 5, 2019.
+
+[7] Ibid.
+
+[8] Gettleman, Bastians, and Beech; Shah and Spindle; “Threat subsides, Sri Lanka Easter bombers home-grown: investigators,” Economy Next, May 23, 2019.
+
+[9] Deborah Haynes, “Sri Lanka attacks: Could this photo be evidence of failed mission by bomber with UK links?” Sky News, April 26, 2019.
+
+[10] Ibid.
+
+[11] Ibid.
+
+[12] Ibid.; Criminal Investigation Department (CID) document dated May 7, 2019, obtained by the author.
+
+[13] Praveen Swami, “Fatima Ibrahim identified as one of the suicide bombers; wife of SL millionaire blew self up with unborn child,” FirstPost, May 8, 2019; “Sri Lanka DNA tests confirm Easter attacks ringleader was hotel bomber;” Haynes; Criminal Investigation Department (CID) document dated May 7, 2019, obtained by the author.
+
+[14] “Sri Lanka attacks: Death toll revised down by ‘about 100,’” BBC, April 26, 2019.
+
+[15] Praveen Swami, “Sri Lanka bomb blasts: Precision intelligence warnings on Colombo were ignored, documents show,” FirstPost, April 22, 2019.
+
+[16] “Breaking: IS Claims Sri Lanka Bombings,” SITE Intelligence Group, April 23, 2019.
+
+[17] “IS Issues Formal Communique for Sri Lanka Bombings, Claims 1,000 Casualties,” SITE Intelligence Group, April 23, 2019. The group later released another communique. See “IS Features Infographic on Sri Lanka Bombings in Naba 179, Names Zahran Hashim and Provides Additional Details,” SITE Intelligence Group, April 25, 2019.
+
+[18] “Amaq Publishes Photo of Sri Lanka Attackers in Report on Operation,” SITE Intelligence Group, April 23, 2019.
+
+[19] “Amaq Video Shows Sri Lanka Attackers Pledging to IS Leader,” SITE Intelligence Group, April 23, 2019.
+
+[20] James Griffiths and Swati Gupta, “ISIS suspect gave advance warning of Sri Lanka bombings, source says,” CNN, April 23, 2019.
+
+[21] “Islamic State publishes photo it says shows the 8 Sri Lanka bombers,” Times of Israel, April 23, 2019.
+
+[22] Swami, “Fatima Ibrahim identified as one of the suicide bombers.”
+
+[23] Joe Brock, Shihar Aneez, and Ranga Sirilal, “Blood brothers: the wealthy family behind Sri Lanka’s suicide attacks,” Reuters, April 24, 2019.
+
+[24] Gettleman, Schultz, Mashal, and Goldman.
+
+[25] Criminal Investigation Department (CID) document dated May 7, 2019, obtained by the author.
+
+[26] John Clifford Hold eds., Buddhist Extremists and Muslim Minorities: Religious Conflict in Contemporary Sri Lanka (New York: Oxford University Press, 2016).
+
+[27] Amarnath Amarasingam and Lisa Fuller, “Sri Lanka is Burning – Again.” Washington Post, May 17, 2019.
+
+[28] Shobana Xavier and Amarnath Amarasingam, “Caught Between Rebels and Armies: Competing Nationalisms and Anti-Muslim Violence in Sri Lanka,” Islamophobia Studies Yearbook, 2016, p. 23.
+
+[29] Ibid., p. 29.
+
+[30] Dennis McGilvray and Mirak Raheem, “Muslim Perspectives on the Sri Lankan Conflict,” East-West Center Policy Studies 41 (2007): p. 9.
+
+[31] Victor De Munck, “Sufi, Reformist and National Modes of Identity: The History of Muslim Village Festival in Sri Lanka,” Indian Sociology 28:2 (2005): p. 402.
+
+[32] Kalinga Tudor Silva, “Home Guards in Sri Lanka: Guardians of Peace or Threat to Human Security?” Economic and Political Weekly 45:36 (2010): pp. 31-33.
+
+[33] Shahul Hasbullah and Benedikt Korf, “Muslim geographies, violence and the antinomies of community in Eastern Sri Lanka,” Geographical Journal 179:1 (2013): p. 32.
+
+[34] “The Quest for Redemption: The Story of the Northern Muslims. Final Report of the Citizens’ Commission on the Expulsion of Muslims from the Northern Province by the LTTE in October 1990,” Law and Society Trust, 2011.
+
+[35] Sharika Thiranagama, In My Mother’s House: Civil War in Sri Lanka (Philadelphia: University of Pennsylvania Press, 2011), p. 108.
+
+[36] Author interview, former member of the LTTE, May 2019.
+
+[37] “Attacks on Places of Religious Worship in Post-War Sri Lanka,” Centre for Policy Alternatives, CPA Policy Briefs, 2013.
+
+[38] Athambawa Sarjoon, Mohammad Agus Yusoff, and Nordin Hussin, “Anti-Muslim Sentiments and Violence: A Major Threat to Ethnic Reconciliation and Ethnic Harmony in Post-War Sri Lanka,” Religions 7:10 (2016): p. 5.
+
+[39] For example, author interview, community activist in Kattankudy, May 2019; author interview, member of the Ceylon Tawheed Jamaat, April 2019.
+
+[40] Farzana Haniffa, Harini Amarasuriya, Vishakha Wijenayake, and Gehan Gunatilleke, “Where Have all the Neighbors Gone? Aluthgama Riots and its Aftermath,” Law and Society Trust, 2014.
+
+[41] Raisa Wickrematunge, “Aluthgama Three Years On,” Groundviews, June 21, 2017.
+
+[42] Shilpa Samaratunge and Sanjana Hattotuwa, “Liking Violence: A Study of Hate Speech on Facebook in Sri Lanka,” Centre for Policy Alternatives Report, September 24, 2014.
+
+[43] Megha Rajagopalan and Aisha Nazim, “‘We Had To stop Facebook’: When Anti-Muslim Violence Goes Viral,” Buzzfeed, April 7, 2018.
+
+[44] Krishnan Francis, “New Fears in Sri Lanka amid anti-Muslim Campaign,” Associated Press, April 7, 2013.
+
+[45] Author interview, community activist in Kattankudy, May 2019.
+
+[46] Maneshka Borham and Dimuthu Attanayake, “Tension in Ampara after fake ‘sterilization pills’ controversy,” Sunday Observer, March 4, 2018.
+
+[47] Amanda Taub and Max Fisher, “Where Countries are Tinderboxes and Facebook is a Match,” New York Times, April 21, 2018.
+
+[48] Ibid.
+
+[49] L. Zubair, C. Malge, F. Shakira, T. Hadgie, S. Rameez, and A. Nijamdeen, “Is the state grossly underestimating the losses from the mob violence in Kandy?” Groundviews, June 24, 2018.
+
+[50] Michael Safi and Amantha Perera, “Sri Lanka blocks social media as deadly violence continues,” Guardian, March 7, 2018.
+
+[51] Author communication, Farzana Haniffa, May 2019.
+
+[52] Shihar Aneez, “Sri Lanka says 32 ‘elite’ Muslims have joined Islamic State in Syria,” Reuters, November 18, 2016.
+
+[53] Author interview, member of Ceylon Tawheed Jamaat, April 2019.
+
+[54] Ibid.
+
+[55] Ibid.
+
+[56] Ibid.
+
+[57] Ameen Izzadeen and Abdullah Shahnawaz, “Lightning, Thunder and a blast: on the trail of terror leader,” Sunday Times, April 28, 2019.
+
+[58] Author interview, member of the Ceylon Tawheed Jamaat, April 2019.
+
+[59] Ibid.
+
+[60] Author interview, community activist in Kattankudy, May 2019.
+
+[61] Author Interview, member of the Ceylon Tawheed Jamaat, April 2019.
+
+[62] Ibid.
+
+[63] Ibid.
+
+[64] Ibid.
+
+[65] Ibid.
+
+[66] Ibid.
+
+[67] Ibid.
+
+[68] Author interview, community activist in Kattankudy, May 2019.
+
+[69] Ibid.
+
+[70] Ibid.
+
+[71] Garikaalan, “Kaatankudi/Batti residents staged protest today condemning violent clash;urged Govt to ban Thawheed Jamaat for instigating fundamentalism1/2,” Twitter, March 13, 2017.
+
+[72] Gettleman, Bastians, and Beech.
+
+[73] Author interview, member of the Ceylon Tawheed Jamaat, April 2019.
+
+[74] Hannah Beech, “Sri Lanka Attacks: Hometown of Accused Mastermind was Fertile Ground for Extremism,” New York Times, April 28, 2019.
+
+[75] Author interview, member of the Ceylon Tawheed Jamaat, April 2019. See also “Nation of Tawheed Jamath’s Deadly Leader Zahran Hashim alias ‘Abu Ubaida,’” D.B.S. Jeyaraj, May 5, 2019.
+
+[76] Ibid.
+
+[77] Ibid.
+
+[78] “Reports alleging that a terrorist involved in Easter Sunday attack visited Maldives is incorrect,” Maldives Immigration, April 24, 2019; Amarnath Amarasingam, “ISIS just claimed Friday night’s raid in Kalmunai as well. Equipped with photos,” Twitter, April 27, 2019.
+
+[79] Author interview, member of the Ceylon Tawheed Jamaat, April 2019
+
+[80] Author interview, community activist in Kattankudy, May 2019.
+
+[81] Ibid.
+
+[82] Gettleman, Bastians, and Beech.
+
+[83] Author interview, community activist in Kattankudy, May 2019.
+
+[84] Author interview, member of the Ceylon Tawheed Jamaat, April 2019.
+
+[85] Ibid.
+
+[86] Author communication, local journalist who requested anonymity, May 2019.
+
+[87] Piyumi Fonseka, “Who killed two policemen on duty in Vavunativu,” Daily Mirror, December 12, 2018. See also Shamindra Ferdinando, “How bungling police blamed LTTE for NTJ killings in Batticaloa,” Island, May 2, 2019; D.B.S. Jeyaraj, “Anti – Terrorist Action Must Not Become a Witch Hunt Against Sri Lankan Muslims,” Daily Mirror (Sri Lanka), May 4, 2019.
+
+[88] “Sri Lanka police trace 2018 mystery killings to Islamist suicide group,” Economy Next, April 28, 2019;author communication, local journalist who requested anonymity, May 2019.
+
+[89] “‘Group of Extremists’ behind Mawanella Incidents,” Sri Lanka Mirror, December 28, 2018.
+
+[90] “Easter Terror suspects Sadik and Shaheed arrested in 24 hour operation,” News First, April 28, 2019.
+
+[91] “Damage to Buddha Statues and Explosives in Vanathavilli: search for two suspects,” BBC Sinhala Service, January 24, 2019.
+
+[92] Michael Safi, “‘Mawanella was the start’: Sri Lankan town reels from bombing links,” Guardian, April 26, 2019.
+
+[93] Ibid.
+
+[94] Chamara Amarasuriya, “Wanathavilluwa explosives haul: extremist group involved?” Ceylon Today, January 21, 2019.
+
+[95] Srinath Prasanna Jayasuriya, “Damaging Buddhis Statues: Father of the two accused arrested,” Daily Mirror, January 23, 2019.
+
+[96] “What was the Wanathavilluwa explosives for?” Sri Lanka Mirror, January 18, 2019.
+
+[97] Hiran Priyankara Jayasinghe, “Firearms found in Wanathavilluwa,” Daily Mirror, April 29, 2019; Asiri Fernando, “Zahran’s driver arrested, police hope to unravel terror network,” Sunday Times (Sri Lanka), April 28, 2019; Jeyaraj, “Anti – Terrorist Action Must Not Become a Witch Hunt.”
+
+[98] BBC Monitoring, “Islamic State (IS) group casually announces new India branch,” Twitter, May 10, 2019.
+
+[99] See Gettleman, Bastians, and Beech; Shah and Spindle.
+
+[100] Griffiths and Gupta.
+
+[101] Ramesh Babu, “16 Kerala Muslim youth missing, relatives fear they went to Iraq, Syria,” Hindustan Times, July 8, 2016.
+
+[102] Saikat Datta and Kris Thomas, “Sri Lankan bombers unmasked amid ‘intel fiasco,’” Asia Times, April 24, 2019.
+
+[103] “NIA files charge sheet against alleged ISIS sympathizers,” Hindustan Times, February 26, 2019.
+
+[104] Jason Burke and Michael Safi, “Sri Lanka told of extremist network months before blasts,” Guardian, April 24, 2019.
+
+[105] Datta and Thomas.
+
+[106] Griffiths and Gupta.
+
+[107] Shah and Spindle.
+
+[108] Paul Maley and Primrose Riordin, “Sri Lankan bomber in Aussie terror net,” Australian, April 26, 2019.
+
+[109] Jessica Elgot, “UK schoolboy given life sentence for Australia terror plot,” Guardian, October 2, 2015.
+
+[110] Megan Palin, “Sri Lanka bomber ‘radicalized in Australia’, says sister,” News.com.au, April 26, 2019.
+
+[111] See Niharika Mandhana, Rob Taylor, and Saeed Shah, “Sri Lanka Bomber Trained in Syria with Islamic State,” Wall Street Journal, April 29, 2019; Alasdair Pal and Shihar Aneez, “The western-educated bomber who botched Sri Lanka hotel attack,” Reuters, April 26, 2019.
+
+[112] Aneez Shihar, Shri Navaratnam, and Sanjeev Miglani, “Sri Lankan software engineer, under Indian surveillance, key in Easter attack,” Reuters, May 14, 2019.
+
+[113] Ibid. See also Aneez Shihar, Shri Navaratnam, and Sanjeev Miglani, “A network of extremism expands,” Reuters, May 14, 2019.
+
+[114] Ibid.
+
+[115] James A. Piazza, “Poverty, minority economic discrimination, and domestic terrorism,” Journal of Peace Research 48:3 (2011): pp. 339-353.
+
+[116] Thomas Hegghammer, “Revisiting the poverty-terrorism link in European jihadism,” talk at Society for Terrorism Research Annual Conference, November 8, 2016.
+
+[117] Amarnath Amarasingam, “Why the Holey Attack is the work of ISIS,” Dhaka Tribune, July 17, 2016.
+
+[118] Amarnath Amarasingam, “One of the attackers in #Dhaka has been named as Nibras Islam, once a student at North South University. #Bangladesh,” Twitter, July 2, 2016.
+
+[119] Anbarasan Ethirajan, “Sri Lanka attacks: the family networks behind the bombings,” BBC, May 11, 2019.
+
+[120] “Easter Sunday Attacks: Key updates,” Groundviews, April 21, 2019.
+
+[121] Ibid.
+
+[122] Author interview, community activist in Kattankudy, May 2019.
+
+[123] Amali Mallawaarachchi, “Killing of Policemen at checkpoint; two arrested,” Daily News Sri Lanka, April 29, 2019; “Sri Lanka police find explosives at ISIS video location,” Defense Post, April 26, 2019; Jeyaraj, “Anti – Terrorist Action Must Not Become a Witch Hunt.”
+
+[124] Ibid.
+
+[125] Ibid.
+
+[126] Joanna Slater, “A Sri Lankan town grew suspicious of the newcomers. Then came mayhem as police closed in,” Washington Post, April 27, 2019.
+
+[127] D.B.S. Jeyaraj, “Zahran’s family members dead in Sainthamaruthu skirmish between security forces and Islamic state terrorists,” Daily Mirror (Sri Lanka), May 2, 2019.
+
+[128] Ibid.
+
+[129] Amarnath Amarasingam, “Rough translation from the Tamil: ‘we will kill all the kuffar and spill their blood all over this country. For oppressing the Muslims in this country, we will teach them a major lesson,” Twitter, April 27, 2019; Alasdair Pal and Shri Navaratnam, “Father, two brothers of suspected Sri Lanka bombings mastermind killed in gun battle,” Reuters, April 28, 2019.
+
+[130] “ISIS just claimed Friday night’s raid in Kalmunai as well. Equipped with photos.”
+
+[131] “Easter Sunday Attacks: Key Updates.”
+
+[132] “Police Warned that Sri Lanka Churches were Targets,” New York Times, April 21, 2019; Jeffrey Gettleman, Mujib Mashal, and Dharisha Bastians, “Sri Lanka Was Warned of Possible Attacks. Why Didn’t It Stop Them?” New York Times, April 22, 2019.
+
+[133] Uma Sudhir, “Sri Lanka PM Ranil Wickremasinghe to NDTV: ‘India gave us intelligence, but there was a lapse,” NDTV, April 23, 2019.
+
+[134] Pamela Constable and Amantha Perera, “Sri Lanka’s president says intelligence lapse allowed Easter bombings to take place,” Washington Post, April 26, 2019.
+
+[135] Bharatha Mallawarachi, “Sri Lanka president sacks prime minister, appoints strongman,” Associated Press, October 26, 2018.
+
+[136] Aymenn Jawad Al-Tamimi, “The Sri Lanka attacks and Islamic State Logic: A Look at al-Naba,” aymennjawad.org, April 25, 2019.
+
+[137] “Islamic State (IS) group casually announces new India branch.”
+
+[138] Mina Al-Lami, “Restructuring? #ISIS has just claimed two separate attacks in Pakistan under the name ‘Wilayah of Pakistan’ (Pakistan Province),” Twitter, May 15, 2019.
+
+[139] “IS restructures regional branches in Syria and Iraq after 2017 losses,” BBC Monitoring, July 22, 2018.
+
+[140] Hassan Hassan, “Good thread on an interesting development. Just to add on why centralizing the Syria & Iraq wilayat while breaking down Khorassan Wilayah, this could be a way to insulate cells from each other after consolidation by IS Central,” Twitter, May 15, 2019.
+
+via:

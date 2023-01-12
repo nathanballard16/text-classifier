@@ -1,0 +1,51 @@
+Is The Consent Of Accused Required For Taking Blood Samples?
+
+This question has arisen in the context of a road accident which occurred in Thiruvananthapuram during the wee hours of Saturday, which was allegedly caused by Sriram Venkatraman, an IAS officer in the service of Kerala government. K Muhammed Basheer, a journalist, was killed when his bike was hit by a car, which was allegedly driven by the IAS officer. There are reports that the...
+
+This question has arisen in the context of a road accident which occurred in Thiruvananthapuram during the wee hours of Saturday, which was allegedly caused by Sriram Venkatraman, an IAS officer in the service of Kerala government. K Muhammed Basheer, a journalist, was killed when his bike was hit by a car, which was allegedly driven by the IAS officer.
+
+There are reports that the police chose not to take the blood samples of Venkatraman, although there were eye witness accounts that he was visibly drunk. The police has reportedly told media that blood samples cannot be taken as per law without the consent of Sriram Venkatram.
+
+This is not a legally sustainable stand. The police has power under law to compel an accused to give blood samples against his wish for the purposes of investigation.
+
+This is clear from Section 53 of the Code of Criminal Procedure, which expressly says that "reasonable force" can be used for the medical examination of an accused by a police officer. The explanation to that provision states that "examination will include examination of blood, blood stains, semen, swabs in case of sexual offences, sputum and sweat, hair samples and finger nail clippings etc".
+
+In a case of drunken driving, blood sample is a crucial evidence for determining the level of drunkenness. Section 204 of the Motor Vehicles Act 1988 speaks of the power of police to ask a person suspected of the offence of drunken driving to provide blood samples.
+
+Therefore, the law is very clear that police can compel the accused to provide blood samples.
+
+Will it violate right against self-incrimination?
+
+An argument is seen raised by some that compulsory taking of bodily objects will violate the fundamental right against self-incrimination as provided under Article 20(3) of the Constitution.
+
+Though seemingly an invasive process, the compulsory extraction of bodily substances for criminal investigation will not amount to violation of Article 20(3).
+
+This has been settled way back in 1961 by a 11-judges bench in the decision State of Bombay vs Kathi Kalu Oghad which held that taking of thumb impressions, finger prints, specimen handwritings of an accused will not violate Article 20(3). The protection of Article 20(3) is available to matters within the subjective consciousness of a person and not to his physical features, the Court reasoned. Such physical objects did not amount to "testimony" and one cannot be said to have been forced "to be a witness against oneself" in those cases.
+
+"The giving of finger impression or of specimen signature or of handwriting, strictly speaking, is not 'to be a witness'. 'To be a witness' means imparting knowledge in respect of relevant fact, by means of oral statements or statements in writing, by a person who has personal knowledge of the facts to be communicated to a court or to a person holding an enquiry or investigation. A person is said 'to be a witness' to a certain state of facts which has to be determined by a court or authority authorised to come to a decision, by testifying to what he has seen, or something he has heard which is capable of being heard and is not hit by the rule excluding hearsay or giving his opinion, as an expert, in respect of matters in controversy", the Court said.
+
+This was later explained by in the 2010 decision of the Supreme Court in Selvi v State. The Court here drew distinction between investigative techniques such as narco-analysis, brain mapping, poly graph test etc, and compulsory taking of bodily substances.
+
+Proceeding on the basis of distinction drawn between "matters of mind" and "matters of body", the Court held that compelling a person to undergo narco-analysis, brain mapping and poly graph resulted in violation of Article 20(3).
+
+However, the compulsory drawing of bodily substances will not be hit by Article 20(3), added the Court.
+
+Referring to several decisions from US, UK, Australia etc on this issue, the Court observed :
+
+"the compelled extraction of blood samples in the course of a medical examination does not amount to 'conduct that shocks the conscience'. There is also an endorsement of the view that the use of 'force as may be reasonably necessary' is mandated by law and hence it meets the threshold of 'procedure established by law'.", observed the Court.
+
+In Sanjeev Nanda vs State of NCT of Delhi(2007 CriLJ 3786), a single bench of Justice Ravindra Bhat (presently Chief Justice, Rajasthan High Court) held that a judicial magistrate can order the accused to give blood samples during the course of inquiry or trial. Though S.53 of the Code refers to examination of the accused by a medical practitioner, at the request of a police officer, there is no reason why the Court should not have a wider power for the purpose of doing justice in criminal cases by issuing a direction to the police officer to collect blood sample from the accused, said the Court in that case.
+
+A 2015 judgment of the Andhra Pradesh High Court in Kodi Satish Naidu v State of AP is on the point.
+
+The points for determination in that case were :
+
+
+
+(i) Whether Art.20 (3) of the Constitution of India, which protects a person accused of an offence from being compelled to be a witness against himself, extends to protecting such an accused from being compelled to give his blood or other sample stated in S.53 of the CrPC during the course of investigation into an offence?
+
+(ii) Assuming that there is no violation of Art.20(3) of the Constitution of India, whether the order of the Magistrate directing to serve summons upon the accused for the purpose of securing his blood sample for the purpose of DNA finger print test / DNA profiling is liable to be set aside?
+
+Referring to Kathi Kalu Ogadu and Selvi, the Court in that case held that Article 20(3) of the Constitution does not extend to protecting an accused from being compelled to give blood samples in accordance with Section 53 CrPC. It was held by Justice M Seetharama Murthi as follows :
+
+"this Court finds that Art.20 (3) of the Constitution of India, which protects a person accused of an offence from being compelled to be a witness against himself, does not extend to protecting such an accused from being compelled to give his sample of blood etcetera for the purposes mentioned in S.53 of the CrPC during the course of investigation into an offence. Therefore, I find no infirmity in the order impugned "

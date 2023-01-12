@@ -1,0 +1,41 @@
+What’s changing in NIA: Wider jurisdiction, more offences, faster trial
+
+ON MONDAY, Lok Sabha passed the NIA Act Amendment Bill, which gives more powers to the National Investigation Agency and extends its jurisdiction beyond India’s borders. The Bill was hotly debated, with the Opposition accusing the government of misusing the agency for political vendetta and turning India into a police state.
+
+Home Minister Amit Shah assured the House that the Act would never be misused, but would be used to finish terrorism, irrespective of the terrorist’s religion.
+
+The NIA Act
+
+The NIA Act, 2008, governs the functioning of India’s premier counterterror agency. It was introduced by then Home Minister P Chidambaram in the wake of the 26/11 Mumbai terrorist attacks, and was passed with very little opposition.
+
+The Act makes NIA the only truly federal agency in the country, along the lines of the FBI in the United States, and more powerful than the CBI. The CBI has to seek the permission of a state government before investigating a case against a central government employee in that state. If a crime is committed in a state, it has to wait for that state government or a court to call it in to investigate.
+
+The NIA Act, on the other hand, gives the NIA powers to take suo motu cognisance of terrorist activity in any part of India and to register a case, to enter any state without needing permission from its government, and to investigate and arrest people.
+
+The NIA can, however, only investigate cases which are listed in the Act’s schedule, which largely deal with the security and integrity of the country. This means the NIA cannot probe murder and rape cases, which come under the Indian Penal Code (IPC).
+
+Now beyond borders
+
+The new Bill makes three broad additions to the NIA Act. It gives NIA extra-territorial jurisdiction; adds four more scheduled offences to the list of eight offences in the original Act; and gives powers to the government to designate sessions courts as special courts for trial of NIA cases.
+
+In giving NIA extra-terrorial jurisdiction, the Bill allows the agency to register a case when Indians living abroad or India’s assets based in a foreign country come under attack from terrorists.
+
+“All major countries have this provision for their concerned agencies. The US was able to prosecute David Coleman Headley in the 26/11 attacks because they had powers to register a case in a terror attack that had happened in a foreign country. Their nationals had been killed in the attack, and they took cognisance of the case. NIA does not have such powers,” former NIA special director N R Wasan, who had prepared the proposal for the Bill, said.
+
+This lacuna was a reason why the case against the Italian Marines who had shot dead an Indian fisherman off the coast of Kerala in 2012 hit an initial spot of rough weather. The accused argued that the offence had taken place in international waters, and thus NIA had no jurisdiction. It was after India proved that the offence had taken place in Indian waters that the case could proceed.
+
+The new provision will allow the NIA to register cases if an Indian embassy comes under attack abroad, or if Indian underwater cables of communication in international waters are sabotaged. While the outcome of such cases will continue to depend on how much diplomatic leverage India has with that country, the Bill empowers it to begin the process.
+
+The IPC does have provisions of extra-territorial jurisdiction, but it is limited to Indians committing crime abroad.
+
+Special courts, new offences
+
+Earlier, setting up special courts in any state would take six to nine months since a proposal had to be made, High Courts’ concurrence had to be obtained, a judge had to be nominated, and a court had to be set up. With existing sessions courts allowed to function as special courts, trial can start immediately.
+
+The offences added to the NIA Act Schedule are human trafficking (Sections 370, 370A of IPC, 1860); manufacture or sale of prohibited arms (Section 25[1AA] of Arms Act, 1959); cyber crimes (Section 66F of IT Act 2000); Explosive Substances Act, 2000. So far, the NIA can apply these sections to an accused only if the principal offence is part of its Schedule. Now, it can prosecute people in standalone cases under these Acts. For example, a person being prosecuted under UAPA could be slapped with Arms Act sections, but the NIA so far could not prosecute him under the Arms Act alone.
+
+What has not changed
+
+Not all NIA’s suggestions have been accepted. A key proposal was to include the Ranbir Penal Code, applicable in J&K, as a special provision under the Schedule of the Act. The NIA believes that while prosecuting people from Kashmir for offences committed in that state (it is probing alleged terror funding and organised stone-pelting), it could face challenges of jurisdiction.
+
+The Ranbir CrPC varies slightly from the CrPC. A statement recorded under Section 161 of the CrPC is not signed. Under RCrPC, it is. Such procedural differences can impact a prosecution case in court.

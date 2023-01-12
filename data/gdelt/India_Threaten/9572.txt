@@ -1,0 +1,33 @@
+SC Rejects Tik Tok's Plea For Transferring The Case From Madras HC
+
+The Supreme Court on Thursday refused to allow the plea of Bytedance Technology- the Indian operator and marketer of the TikTok app- to transfer the case pending against it in the Madras High Court to itself. After the bench headed by Chief Justice Ranjan Gogoi was of the view that all questions including that pertaining to the freedom of speech and expression can be answered by the...
+
+The Supreme Court on Thursday refused to allow the plea of Bytedance Technology- the Indian operator and marketer of the TikTok app- to transfer the case pending against it in the Madras High Court to itself.
+
+After the bench headed by Chief Justice Ranjan Gogoi was of the view that all questions including that pertaining to the freedom of speech and expression can be answered by the High Court, liberty was sought to withdraw the petition.
+
+It was on 3rd April, the Madurai bench of Madras High Court passed an ex-parte order directing the Government to ban the popular application. It observed that the application is dangerous for children in view of inappropriate contents including language and pornography being posted in the application. The order was passed in a PIL seeking its ban.
+
+Later, Bytedance (India) Technology Pvt. Ltd., which owns the mobile application, filed a special leave petition against the Madurai bench order directing the Government to ban the application.
+
+Refusing to stay the order, the Apex Court bench had directed the Madras High Court to consider tomorrow the objections against the ex-parte order. In the hearing conducted pursuant to Apex Court order, the High Court refused to lift the ban. In the meanwhile, Google blocked access to 'TikTok' in its play store based on the HC order.
+
+This made Bytedance to make another plea before the apex court. Responding to this, the Supreme Court bench said that if the Madras High Court fails to decide on the plea of TikTok app against the ban by April 24, then its ban order will stand automatically lifted.
+
+The Madras High Court had on April 24 vacated its earlier order that had directed prohibition of downloading TikTok Mobile Application. The bench comprising of Justice N. Kirubakaran and Justice SS Sundar said that it is concerned only about the crimes against children.
+
+The Madras High Court had then on May 5 warned the TikTok management that if it violates its undertakings to filter negative and inappropriate or obscene materials, it can amount to contempt of court.
+
+The division bench had vacated the order after considering the affidavit filed by TikTok highlighting the safety features deployed by them. It was submitted that there are automated tools that are industry standard that can detect pornography content that might be posted and immediately remove the same.
+
+It has proactively take-down mechanisms including as artificial intelligence powered algorithms that detect illegal content, including such content that is violative of any law, such as Section 354C of the Indian Penal Code, 1860 and Section 66E of the IT Act, 2000, and remove/disable them instantly, the company had said in its affidavit.
+
+Referring to these statements, the bench said that after the order passed by it on 3rd April, the Company is said to have erased six million videos, the contents of which are doubtful. The bench observed:
+
+"Though it is admitted that this possible mischief and irreparable damage that may be caused to innocent children and women cannot be ruled out, taking note of the safety features projected by the 9th respondent and the statutory protection and remedies available under the Statute, the interim order granted by this Court on 03.04.2019 is vacated"
+
+Though the Bytedance raised the issue of fundamental right of speech and expression, the court opined that the rights of intermediary, the creator of a platform for users for commercial purpose may not take shelter under Article 19(1)(a) of Constitution of India.
+
+While vacating the order, the HC said that its endeavour is to safeguard the people using cyber space becoming victims, especially woman and children. Any technological innovation should be utilised for constructive activities and not be used for commission of offences violating rights of the people, the court added. The bench further said:
+
+"This Court is concerned about several incidents of women and children using cyber space becoming victims reported in newspapers and social media. This Court is also aware of the fact that the millions of users are denied their right to have access to the said platform which also promises several good things."

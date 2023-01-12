@@ -1,0 +1,13 @@
+Hang some clothes and light a bulb!
+
+Kolkata: Now you can generate electricity from drying clothes and that too in a natural ambience, if researchers at Indian Institute of Technology Kharagpur (IIT-KGP) are to be believed. That’s not all. The electricity generation can be up-scaled by systematically drying a set of regular garments under the sun-light. This, IIT KGP researchers believe, can turn into a source of low-cost power in extreme rural settings.
+
+The whole process, or mechanism, is actually simple yet unique. The wall of any channel has some charges inbuilt in it. If saline water, or similar water-based solution, is passed through the wall, it creates voltage through capillary action. In this case the regular cellulose-based wearable textile acts as a wall to develop voltage. That voltage is then stored.
+
+By utilising tiny channels, or the so-called nanochannels, in the cellulose-based fabric network, electrical power generation is made, through guided movement of saline water amidst continuous evaporation, very much like water transport across the parts of a living plant.
+
+“The regular cellulose-based wearable textile, in this case, acts as a medium for the motion of salt ions through the interlace fibrous nano-scale network by capillary action, inducing an electric potential in the process”, said Prof Suman Chakraborty from the Mechanical Engineer-ing Department, who is also a lead researcher of the group. Their device design inherently exploits a large transpiration surface for achieving a sustainable motion of salt ions, through natural evaporation phenomenon.
+
+The researchers have also demonstrated up-scaling of this entire process by using a large number of (around 50 in number, with a surface area of 3,000 square metre) clothes being dried in tandem by washermen in a remote village.
+
+Connected to a commercial super-capacitor, in the process, the researchers were able to reliably charge up to around 10 Volt in almost 24 hours. This stored energy is enough to glow a white LED for more than 1 hour, they said. The point, Prof Chakra-borty says, is that as compared to existing methods of energy harvesting from complex resources, the electricity generation occurs in natural ambience.

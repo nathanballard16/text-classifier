@@ -1,0 +1,13 @@
+Canara Bank becomes the first public sector bank in India to meet RBI’s EMV mandate
+
+live bse live
+
+nse live Volume Todays L/H More ×
+
+ACI Worldwide, a global provider of realtime electronic payment and banking solutions, announced that Canara Bank has successfully rolled out major new functionality to support EMV card acquiring across its ATM network and Aadhaar Authentication, leveraging ACI’s UP Retail Payments solution to achieve market firsts.
+
+Canara Bank, one of India’s largest public sector banks with nearly 6,300 branches and a network of more than 10,000 ATMs, is the first public sector bank to shift to EMV chip and PIN for card present transactions across the country’s vast ATM network. The EMV shift, as in other major global markets, is aimed at reducing lost and stolen card fraud and making counterfeit card fraud more difficult. The Reserve Bank of India (RBI) had set a deadline of December 31, 2018 for the switch, mandating use of an embedded chip to replace the traditional magnetic stripe card.
+
+The bank has tapped into the extensive functionality of ACI’s UP Retail Payments solution, which they have been relying upon as their core payments processing engine for 12 years, to be the first public sector bank in India to meet RBI’s EMV mandate. This is a major achievement for the bank as it offers its retail banking customers improved authentication for card-present transactions at the ATM, thus ensuring even greater security and risk mitigation. In addition, functionality developed by ACI and Canara Bank also speeds up the process of Aadhaar number linking, which eases KYC compliance at the bank’s branches.
+
+“ACI has played a central role in driving EMV rollouts across numerous countries over the years. That, coupled with our long and extensive footprint within India, enables us to effectively drive key initiatives for innovative banks like Canara Bank, a long-time ACI customer,” said Kaushik Roy, Vice President – South Asia, ACI Worldwide. “Canara Bank’s successful rollout of EMV acquiring across its ATM network, and its implementation of biometric ID based on the 12-digit Aadhaar number, demonstrates that even the largest public sector companies can adopt a more agile approach and benefit from working with vendors such as ACI, which offer flexible, scalable payments technology.”

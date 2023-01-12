@@ -1,0 +1,19 @@
+Court sides with insurer in disputed marine cargo claim
+
+A large Canadian manufacturing multinational has lost a legal battle, although not necessarily the war, with Chubb Insurance Company of Canada over a marine coverage dispute.
+
+It started in 2013 when Cambridge, Ont.-based ATS Automation Tooling Systems Inc. sold machinery to Dr. Reddy’s Laboratories Ltd. in India. ATS’s subsidiary, IWK (Thailand) Ltd., shipped a tube-filling and crimping machine to India from Thailand. Dr. Reddy’s said the goods were damaged on arrival. ATS tried to make a claim under an open marine cargo policy with Chubb, which denied coverage, arguing the shipment was damaged when transported by road.
+
+In ATS Automation Tooling Systems Inc. v. Chubb Insurance Co., released Aug. 30, Justice Sandra Nishikawa upheld a 2018 ruling by Case Management Master Donald Short against ATS. The ruling this past Friday does not mean the legal war is over. What ATS wanted to do was temporarily delay a lawsuit against Chubb that ATS filed earlier in Ontario.
+
+Short’s 2018 ruling denied ATS’s request for a stay in the proceedings, paving the way for the court to rule on Chubb’s request to have the lawsuit dismissed. Justice Nishikawa’s ruling Aug. 30, 2019 means that Chubb can proceed with its motion to throw the case out of court – if necessary.
+
+ATS asked in 2018 for a stay in proceedings because ATS wanted to wait for the outcome of a possible arbitration in India. But at a case management conference in August 2019, lawyers confirmed that no arbitration had actually started in India, Justice Nishikawa wrote.
+
+IWK shipped the goods to the port of Chennai and then by road about 2,500 kilometres to Dr. Reddy’s. Chubb says the goods got damaged during the road leg of the journey and its open marine cargo policy only provides first-party coverage for damage at sea, not liability for damage during the ground leg.
+
+Chubb says ATS subsidiary IWK arranged for and paid to ship the cargo to Chennai and also arranged for a certificate of insurance to be issued under a policy for ocean carriage from Thailand to India. Chubb says IWK did not arrange for insurance coverage with Chubb for transportation from Chennai to Baddi, India, where it was delivered to the customer.
+
+ATS requested a stay in proceedings in Ontario on the grounds that both an Ontario court and an arbitrator in India would consider the question of where the goods actually were damaged; if they did so at the same time, this could lead to inconsistent results.
+
+Master Short found there was no hearing scheduled at the time in India. Even if a hearing were to be held, Short found, Chubb would not be a party at that hearing. The arbitration would be over a dispute between the customer and the vendor as to whether the vendor was liable for the damaged goods.

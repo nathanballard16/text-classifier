@@ -1,0 +1,45 @@
+Brand New Material Could Lead To Cheaper Solar Cells
+
+Scientists may have found a pathway to designing interfaces of hybrid materials that are capable of turning light into electrical currents with high efficiency—a breakthrough that could potentially boost the performance of solar cells and slash their manufacturing costs.
+
+In one of the latest scientific research into novel materials and technologies to boost solar cell performance, scientists at the University of Kansas said this week that a breakthrough material combining organic semiconductors with a recently discovered two-dimensional (2D) semiconductor could overcome the current limitations of generating free electrons and charges from organic semiconductors.
+
+Organic semiconductors, a type of carbon-based materials with optical and electronic properties, currently have significant limitations in generating free charges, which prevents them from being used on a wide scale, the University of Kansas says.
+
+But two physics research groups at the university have recently managed to generate free electrons by combining organic semiconductors with a single atomic layer of molybdenum disulfide (MoS2)—a recently discovered two-dimensional (2D) semiconductor.
+
+Commenting on the properties of organic semiconductors themselves, Wai-Lun Chan, associate professor of physics & astronomy at the University of Kansas and leader of one of the research groups, said:
+
+“So-called ‘free electrons,’ which wander freely in the material and conduct electricity, are rare and can’t be generated readily by light absorption. This impedes the use of these organic materials in applications like solar panels because panels built with these materials often have poor performance.”
+
+The KU researchers therefore focused on “freeing the electrons” as a potential breakthrough in developing organic semiconductors for solar cells, light sensors, and many other optoelectronic applications. By adding the 2D layer, researchers allow the electrons to “to escape from “holes” and move freely,” they say. Related: The Biggest Challenges Facing America’s Nuclear Sector
+
+The findings of the groups led by Chan and Hui Zhao, professor of physics & astronomy, “will help develop general principles of how to design the ‘landscape’ to free the electrons in such hybrid materials,” the University of Kansas said.
+
+The KU research is the latest discovery that could, in the future, lead to much higher solar cell performance than previously thought.
+
+Recent research and experiments have led to discoveries in both organic semiconductors and conventional silicon-based solar cells.
+
+Earlier this month, physicists from the Dresden Integrated Center for Applied Physics and Photonic Materials (IAPP) and the Center for Advancing Electronics Dresden (cfaed) at the TU Dresden—together with researchers from Tübingen, Potsdam, and Mainz—were able to demonstrate how electronic energies in organic semiconductor films can be tuned by electrostatic forces.
+
+At MIT, researchers have shown through experiments that a photon in the silicon cell could be ‘turbocharged’ in order “to kick out two electrons instead of one, opening the door for a new kind of solar cell with greater efficiency than was thought possible.”
+
+These ‘turbocharged’ silicon cells could potentially raise the power produced by the solar cell — from a current theoretical maximum of 29.1 percent, up to a maximum of about 35 percent, according to a paper published earlier this month by graduate student Markus Einzinger, professor of chemistry Moungi Bawendi, professor of electrical engineering and computer science Marc Baldo, and eight others at MIT and at Princeton University.
+
+At Penn State, researchers have found that 2D perovskite materials have unique, conductive edge states.
+
+“Researchers said the findings could boost performance of solar cells and LED technology by providing additional charge pathways within the devices,” Penn State said in a news release this week. Related: Colombia’s Push To Triple Proven Oil & Gas Reserves
+
+Last year, researchers at Penn State found that the properties of an inexpensive and quick-to-produce class of materials known as halide perovskites could lead to more efficient PV materials to replace traditional silicon solar cells.
+
+Chinese researchers said in October 2018 they had developed a new technique to make solar cells that could allow them to avoid high-temperature processes, thus making those solar cells lower-cost and more efficient.
+
+Also last year, researchers from Helmholtz-Zentrum Berlin (HZB) said that they had experimented with increasing the efficiency of silicon solar cells by incorporating layers of organic molecules into the solar cell. This could potentially abolish the 29.3 percent theoretical efficiency limit for silicon solar cells due to their physical material properties, they say.
+
+Falling costs have already made unsubsidized onshore wind and solar the cheapest sources of electricity generation in nearly all major economies in the world, including India and China, BloombergNEF said in a report late last year.
+
+If just one or two of the recent breakthroughs were to turn into a viable way to boost solar cell performance on a large scale, solar power and renewable energy generation could become even cheaper and more widespread.
+
+By Tsvetana Paraskova for Oilprice.com
+
+More Top Reads From Oilprice.com:

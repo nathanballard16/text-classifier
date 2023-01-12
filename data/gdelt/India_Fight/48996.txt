@@ -1,0 +1,199 @@
+iPhone 11 Pro vs Samsung Galaxy Note 10+ Camera Comparison: Which Is the Best Camera Phone You Can Buy?
+
+All major companies have launched their respective 2019 flagship smartphones in the market, and this can only mean one thing — it's time for another flagship camera comparison. Most years, our tests involve an iPhone, a Samsung Galaxy model, and a Google Pixel device. This year though, we're going to have to make it a two-way fight between the iPhone 11 Pro and the Samsung Galaxy Note 10+ (Review) since the Google Pixel 4 isn't coming to India. The main reason for this seems to be with a licensing issue with the 60GHz frequency band in India, which is used by the Soli radar chip that enables new motion-sensing gestures.
+
+This leaves us with the iPhone 11 Pro and the Samsung Galaxy Note 10+ — two of the most premium smartphones one can currently buy in India. For this generation of the iPhone, Apple has finally caught up with its Android competition, and has added a much-needed wide-angle camera as well as Night Mode. There's also a new selfie camera this time around. The Samsung Galaxy Note 10+ uses a similar camera setup as the Galaxy S10+ (Review) but with a few tweaks, such as the addition of a depth sensor. Before we look at how they perform in the real world, let's start with a quick overview of all the main camera specifications of both phones.
+
+iPhone 11 Pro Galaxy Note 10+ Primary Camera Resolution 12-megapixels 12-megapixels Aperture f/1.8 f/1.5 or f/2.4 Stabilisation Optical Optical Wide-angle Camera Resolution 12-megapixels 16-megapixels Aperture f/2.4 f/2.2 Field of View 120 degree 123 degree Telephoto Camera Resolution 12-megapixels 12-megapixels Aperture f/2 f/2.1 Zoom level 2x 2x Stabilisation Optical Optical Depth Camera No Yes Selfie Camera Resolution 12-megapixels 10-megapixels Aperture f/2.2 f/2.2
+
+
+
+A quick glance at the specs shows that both phones are pretty evenly matched, at least as far as hardware goes. However, that's just one part of the story, as software plays an equally important role when it comes to the final output.
+
+For this comparison, we left all the camera settings at their default values on both phones. We took at least a couple of samples for each test, whenever possible, and picked the best one for each phone. The iPhone 11 Pro was tested using iOS 13.1.3, while the Samsung Galaxy Note 10+ was tested on firmware N975FXXU1ASIC, which had the October security patch.
+
+Let's see how they fared.
+
+iPhone 11 Pro vs Samsung Galaxy Note 10+ cameras: Daylight landscapes
+
+In our first landscape shot in daylight, the iPhone 11 Pro and the Samsung Galaxy Note 10+ did very good jobs with white balance, and got the exposure right. Samsung Galaxy Note 10+ boosted the blue in the sky a bit, to make the scene look more dramatic. The iPhone 11 Pro produced more realistic colours, and the clouds also had much better definition compared to the Samsung Galaxy Note 10+'s shot.
+
+Zooming in all the way, it's the iPhone 11 Pro that managed the better details. Finer details and textures such as the train tracks or walls of the smaller houses in the foreground had better definition. The same details looked blotchy in the shot taken by the Samsung Galaxy Note 10+.
+
+Tap to see full-sized image
+
+Winner — iPhone 11 Pro
+
+In our second shot, it's the Samsung Samsung Galaxy Note 10+ which did a slightly better job with white balance while the iPhone 11 Pro produced a more realistic colour tone for the scene. With our subject this close, both phones captured details well. We could go with either one here, so we'll call this a tie.
+
+Tap to see full-sized image
+
+Winner — Tie
+
+iPhone 11 Pro vs Samsung Galaxy Note 10+ cameras: Daylight closeups
+
+Our first closeup test showed how Samsung's dual aperture system can come in handy. Here, the Samsung Galaxy Note 10+ automatically narrowed the aperture from f/1.5 to f/2.4 since there was ample light, and in return, the objects at the sides of the frame were in sharp focus. The iPhone 11 Pro's f/1.8 aperture resulted in a more pronounced depth of field, which meant that the objects at the sides were a bit blurred.
+
+In terms of colours and exposure, we preferred the natural warm look of the iPhone 11 Pro, compared to the cooler tone of the Samsung Galaxy Note 10+. The latter also sharpened objects a bit too much for our liking.
+
+Tap to see full-sized image
+
+Winner — iPhone 11 Pro
+
+In the second scene, it's a very close call between the two. Both produced nearly the same colour tone and colour saturation. The Samsung Galaxy Note 10+ once again used the f/2.4 aperture in the primary camera, which is why more of the plant is in focus. Zooming in really close on the flowers shows that the Samsung Galaxy Note 10+ captured sharper edges, slightly better detail, and better colours.
+
+Tap to see full-sized image
+
+Winner — Samsung Galaxy Note 10+
+
+iPhone 11 Pro vs Samsung Galaxy Note 10+ cameras: Low-light landscapes
+
+Shooting a landscape scene at night, without Night mode, the iPhone 11 Pro had a slightly cleaner-looking shot with less visible noise, but the Samsung Galaxy Note 10+ captured sharper details and exposed the lit-up windows of the building better. For this shot, we had to manually turn Night mode off on the iPhone 11 Pro, since it's engaged automatically, whereas Samsung has implemented a separate Night shooting mode.
+
+When using Night mode on both phones, the iPhone 11 Pro still had the more pleasing result, although details in the trees in the foreground weren't very visible. With a longer exposure, details were better. One nice feature of the new camera iOS app is that it enables Night mode automatically, without you having to switch shooting modes. The Samsung Galaxy Note 10+ produced a brighter image, but with a mild halo effect around the edges of the building.
+
+Tap to see full-sized image
+
+Winner — iPhone 11 Pro
+
+In our second low-light scene without Night mode, Samsung Galaxy Note 10+ straight-up had the better-looking shot. Everything was sharper and clearer, with better colours and detail. With Night mode turned on, the Samsung Galaxy Note 10+ still really shone. The blue sky that it produced was a little unrealistic but the details, colours, and sharpness were unmatched here. The iPhone 11 Pro produced a slightly blurry photo as it dropped the exposure time all the way down to half a second in order to get a brighter shot.
+
+Tap to see full-sized image
+
+Winner — Samsung Galaxy Note 10+
+
+iPhone 11 Pro vs Samsung Galaxy Note 10+ cameras: Low-light closeups
+
+Shooting closeups indoors, under artificial light, we found that the Samsung Galaxy Note 10+ captured a more neutral tone compared to the iPhone 11 Pro, which produced a yellowish tone thanks to the indoor lighting. The difference is subtle, but depending on your style of shooting, you might prefer one over the other. We liked the warmer tone produced by the iPhone, as it best captured the lighting and mood of the scene.
+
+In terms of detail, the Samsung Galaxy Note 10+ had a clear lead in this case. Edges had much better definition, especially the edge of the table in the background, but that was only visible in a 100 percent crop. Oddly, the iPhone 11 Pro's shot exhibited much better detail on the figurine of the St. Bernard, compared to the Samsung Galaxy Note 10+. This one also deserves to be a tie, as it's very close.
+
+Tap to see full-sized image
+
+Winner — Tie
+
+In the second test, with incandescent light overhead, both phones managed to get the colour of the scooter spot on. Details were also equally good. The only difference is that the Samsung Galaxy Note 10+ lifted the shadows a notch above the iPhone 11 Pro, revealing a bit more detail in the shadowy areas. However, we quite liked the more strongly defined shadows in the iPhone's shot too. We're going to have to call this one a tie as well.
+
+Tap to see full-sized image
+
+Winner — Tie
+
+iPhone 11 Pro vs Samsung Galaxy Note 10+ cameras: Portraits
+
+Both phones have Portrait modes and let you adjust the level of background blur before and after you've taken a shot. Both cameras also offer you the option to use either the primary camera (for a wider view) or the telephoto camera (for a more intimate shot) in this mode.
+
+In our first sample, the iPhone 11 Pro had the better white balance. Details on our subject's face and body were also better than what the Samsung Galaxy Note 10+ captured. As far as edge detection goes, both phones messed up the edges around our subject's face, either blurring parts of their hair or failing to blur out parts of the background. Switching to the telephoto cameras, the iPhone 11 Pro continued to struggle a bit with detecting edges correctly, though it did produce much better details and skin tones on our subject's face.
+
+Tap to see full-sized image
+
+Winner — iPhone 11 Pro
+
+When shooting non-human subjects, the Samsung Galaxy Note 10+ refused to focus correctly on the figuring in the foreground, despite multiple tries. The iPhone 11 Pro didn't have this issue and delivered a pleasing background blur. Even with its telephoto lens, the Samsung Galaxy Note 10+ continued to struggle to lock focus where we wanted it, while the iPhone 11 Pro, once again, had no trouble. The blur was also progressive as distance increased in the iPhone 11 Pro's shots, making them look somewhat more natural.
+
+Tap to see full-sized image
+
+Winner — iPhone 11 Pro
+
+Even in our second test of shooting an object, the iPhone 11 Pro delivered punchier colours, much better detail, and a more natural level of blur with its primary as well as telephoto lenses.
+
+Tap to see full-sized image
+
+Winner — iPhone 11 Pro
+
+iPhone 11 Pro vs Samsung Galaxy Note 10+ cameras: Selfies
+
+In daylight, the iPhone 11 Pro captured better-looking selfies. Exposure was more balanced, skin tones looked more natural, and the details on our face and clothes were spot on. The Samsung Galaxy Note 10+ overexposed this scene a bit, which resulted in a loss of some of the details on our clothes and in the background. The textures of our skin were smoothened quite a bit, making it look unnatural. With Portrait mode, it's pretty much the same story, but both phones did manage to get edge detection right.
+
+Tap to see full-sized image
+
+Winner — iPhone 11 Pro
+
+In this heavily backlit scene, the iPhone 11 Pro continued to impress us with very good skin tones and details on our face, while still preserving the exposure, colours, and details of the background. The Samsung Galaxy Note 10+ did a good job exposing the background but the selfie looked underexposed on the whole, and we were left with dark spots on our face.
+
+Tap to see full-sized image
+
+Winner — iPhone 11 Pro
+
+As good as the iPhone 11 Pro was during the day, it struggled to keep up in low light. Skin tones still looked more natural but there was quite a bit of noise in the photo. The Samsung Galaxy Note 10+ offered a brighter and cleaner image. This was improved further when using Night mode, which the iPhone 11 Pro's front camera can't do. The Samsung Galaxy Note 10+ also has a brighter screen flash compared to the iPhone 11 Pro, which helped illuminate our face and parts of the surroundings better.
+
+Tap to see full-sized image
+
+Tap to see full-sized image
+
+Winner — Samsung Galaxy Note 10+
+
+iPhone 11 Pro vs Samsung Galaxy Note 10+ cameras: Wide-angle
+
+Coming to the wide-angle cameras, the iPhone 11 Pro captured a more natural colour tone, whereas the Samsung Galaxy Note 10+ boosted the blues a little. We had the ‘Ultra wide shape correction' feature enabled on the Samsung Galaxy Note 10+, which is why the edge of the building on the right look straight compared to the slight curve in the iPhone 11 Pro's photo. However, a side effect of this is that it skewed some objects on the other side of the image slightly. In terms of detail, the Samsung Galaxy Note 10+ edged out the iPhone 11 Pro as distant objects looked sharper.
+
+Even in the second shot, both wide-angle cameras offered very cool perspectives, but once again, details were slightly better from the Samsung Galaxy Note 10+.
+
+Tap to see full-sized image
+
+Tap to see full-sized image
+
+Winner — Samsung Galaxy Note 10+
+
+In low light, the wider aperture of the Samsung Galaxy Note 10+ helped it capture more details and a brighter image. You can also use Night mode with the wide-angle camera, which makes it a lot more useful in low light. This is not possible on the iPhone 11 Pro's wide-angle camera.
+
+Tap to see full-sized image
+
+Tap to see full-sized image
+
+Winner — Samsung Galaxy Note 10+
+
+iPhone 11 Pro vs Samsung Galaxy Note 10+ cameras: Telephoto
+
+Both telephoto cameras offer 2x optical zoom, which isn't much, especially after using the 5x zoom on the Huawei P30 Pro (Review). With nearly the same apertures on both phones, both captured very similar levels of detail on the watch. The colour tone was slightly different (warmer on the iPhone, cooler on the Galaxy) but sharpness and colours were very similar.
+
+Tap to see full-sized image
+
+Winner — Tie
+
+With people, in an outdoor setting under good light (above), it's the iPhone 11 Pro that captured better skin tones. The Samsung Galaxy Note 10+ produced a reddish hue on the subject's skin, which we didn't quite like. Details were similar across both phones though.
+
+Winner — iPhone 11 Pro
+
+In low light, both phones will only let you switch to their telephoto cameras as long as the subject is well lit. In the first shot of the lanterns, both phones managed to capture good colours. The Samsung Galaxy Note 10+ didn't expose the background as well as the iPhone 11 Pro, but it did a better job with the other lanterns.
+
+Tap to see full-sized image
+
+Winner — Tie
+
+In a slightly different setting (above), in rapidly fading light, the iPhone 11 Pro managed better details and colours. The Samsung Galaxy Note 10+ cheated here by simply digitally zooming in using the main camera, and as a result, finer details weren't as good.
+
+Winner — iPhone 11 Pro
+
+iPhone 11 Pro vs Samsung Galaxy Note 10+ cameras: Panoramas
+
+The iPhone 11 Pro lets you use any of its three cameras to capture a panorama, while the Samsung Galaxy Note 10+ only lets you choose between the primary or wide-angle ones. With the latter, you can get a lot more of a scene in one frame but the final image looks a bit squashed. Its main camera gave us a good perspective, but both phones faltered a little when it came to capturing the railing in front of us. Between the two shots, we preferred the colour tone that the iPhone 11 Pro captured.
+
+Tap to see full-sized image
+
+Winner — iPhone 11 Pro
+
+iPhone 11 Pro vs Samsung Galaxy Note 10+ cameras: Videos
+
+So far, iPhones have generally been the gold standard for video recording, and with this new generation of iPhones, Apple has dialled it all the way up to eleven (pun intended). All three cameras have the ability to shoot video at 4K and at up to 60fps, which is impressive. The Samsung Galaxy Note 10+ can also shoot at 4K 60fps, but only using the primary camera.
+
+At 4K 30fps, the iPhone 11 Pro and the Samsung Galaxy Note 10+ both did excellent jobs with stabilisation and capturing detail. The iPhone 11 Pro showed more natural-looking colours though, while the Samsung Galaxy Note 10+ tended to boost them, especially blues. We also found the iPhone 11 Pro to have much better continuous autofocus, compared to the slightly finicky performance of the Samsung Galaxy Note 10+. The iPhone also did a much better job with HDR and was quicker at adapting to changing exposure conditions compared to the Samsung Galaxy Note 10+.
+
+Switching to 4K 60fps, the iPhone continued to deliver more natural colours, whereas the Samsung Galaxy Note 10+ generally used a higher exposure. In low light, the iPhone 11 Pro's video had mild grain in the shadow regions but colours were sober and there was barely any visible distortion when moving about. The Samsung Galaxy Note 10+ captured richer colours and its footage was a little cleaner, but colours were boosted and there was more jitter when panning or moving about.
+
+Dropping the resolution to 1080p, the iPhone 11 Pro continued to deliver solid performance, with good image quality and colours in daylight. Stabilisation was also handled well, with little to no hunting or distortion. The Samsung Galaxy Note 10+ also did a good job with stabilisation and image quality but we noticed a bit of wobble around the edges of the frame, and continuous autofocus was hit-or-miss in this test. At night, the iPhone 11 Pro once again showed mild grain and the footage looked a little soft overall, compared to the clearer video from the Samsung Galaxy Note 10+. Neither of the phones had any major issues with distortion when we moved about.
+
+We also tested video captured with the wide-angle cameras of both phones. During the day, the iPhone 11 Pro produced good details and colours in 4K but there wasn't any stabilisation. The Samsung Galaxy Note 10+ had equally good details but stabilisation is supported, which made the footage more pleasing. In low light and at 1080p, it's the Samsung Galaxy Note 10+ that offered better-looking footage. Video had less noise, and colours and details were better.
+
+When shooting selfie videos at 4K, the iPhone 11 Pro produced more neutral colours. There's no stabilisation but image quality was good. The Samsung Galaxy Note 10+ stabilised videos electronically but the colours were a bit too warm, giving our face a reddish hue. The Samsung Galaxy Note 10+ delivered better quality footage in low light. Grain wasn't very visible and colours were much better compared to what the iPhone 11 Pro managed. Plus, there's stabilisation too, which is missing on the iPhone 11 Pro.
+
+Winner (daylight) — iPhone 11 Pro
+
+Winner (low-light) — Samsung Galaxy Note 10+
+
+The iPhone 11 Pro is good with selfies and portraits but the Samsung Galaxy Note 10+ excels in low-light stills and video
+
+Verdict
+
+The iPhone 11 Pro and the Samsung Galaxy Note 10+ (Review) have both proven to have excellent camera sensors, lenses, and software. The iPhone 11 Pro managed to rack up more wins (12), which makes it the winner of this comparison, and of course it still did very well in all the tests that were tied (5). We found its cameras to generally produce a more natural colour tone, which more closely resembled the lighting and mood of the scenes we were shooting. It really excelled at portraits and selfies, and the new Night mode looks very promising. Videos shot in the daytime had excellent detail and natural-looking colours, and the fact that you can shoot at up to 4K 60fps across all cameras is a big feather in its cap.
+
+The Samsung Galaxy Note 10+ might not have won the majority of tests (6), but in most instances, it was very close behind the iPhone 11 Pro. Samsung's post-processing leaned towards delivering more vivid and striking colours. Performance in Night mode stood out especially, edging out the iPhone 11 Pro at times. The fact that this can be used with the wide-angle camera too is a big bonus. Speaking of which, the Samsung Galaxy Note 10+'s wide-angle camera offered better details, and in low light, its video performance was ahead of what the iPhone 11 Pro produced.

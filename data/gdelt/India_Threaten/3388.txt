@@ -1,0 +1,35 @@
+Soor Is a Beautiful New App for Apple Music That's Made in India
+
+The Music app on iOS does a decent job as the default app for Apple Music, but there are a lot of areas where it could use some improvements. Since it shows songs that you purchased via iTunes and the songs available via Apple Music, it feels like the Music app isn't doing a great job of highlighting either thing. We've often felt that the Music app could do with a revamp to focus more on music discovery via Apple Music. Enter Soor, an iOS app made in India, which does several things that Music should by default.
+
+Soor is an app designed from the ground up to focus on Apple Music. It uses a single-page interface that puts the focus entirely on music discovery. There are no separate tabs for search or discovery — everything is on one page and you can rearrange the order to put certain elements at the top. It uses a clever variation of the pull-to-refresh gesture seen in many iOS apps. Soor lets you pull to search and pull further to quickly open app settings. This feels intuitive and is a nice alternative to tapping the search icon. It also features a dark mode.
+
+Soor has been developed by one person — Mumbai-based iOS developer Tanmay Sonawane, who's also developed apps such as VeroSMS and Wdgts. Sonawane told Gadgets 360 that Apple Music opening the Library page by default was one of the biggest issues he faced with the stock app.
+
+“A major issue with Apple Music for me was I was finding difficult to discover new music. What used to happen is it showed songs in your library by default when you open the app. I ended up playing whatever was on the home screen,” Sonawane said.
+
+Soor has three themes - light, dark, and black
+
+Apple Music's “For You” and “Browse” tabs focus on music discovery, but the default tab that opens whenever you open the app is Library, which highlights recently added songs. This is at the heart of Soor. “As soon as you open Soor, you are shown the new stuff (Apple Music curator picks). The discoverability function is much faster now.”
+
+Sonawane chose not to do music curation by himself as it would require him to gather users' listening history or hire editors to curate music, something he feels Apple is better placed to handle. Instead, he chose to focus on adding features to Soor. Another neat feature is the ability to select multiple songs and quickly add them to a playlist, like them all, or share them with your friends. If you've ever created a playlist on the stock Music app, you know that the app doesn't yet allow you to add multiple songs to a playlist and that it takes a few seconds to add each song to a playlist. With Soor, this is much faster.
+
+Sonawane said Soor has been in development for a year and that the custom navigation bar and the pull-to-search feature alone took around two months to implement. However, the development period was full of challenges. Soor was built on MusicKit, which Sonawane said wasn't exactly designed to allow people to build third-party music apps on top of Apple Music.
+
+“What happened is that Apple has rejected it many times — around 9 rejections in two months. The MusicKit API, its intention was to be used in fitness apps (to let you listen to Apple Music songs while working out). What Apple was thinking was: ‘Why is someone using this to make a music player?'” he said. “The developer relations team has been working with me and they finally took a decision that this is technically allowed after speaking to legal teams,” Sonawane added.
+
+This opens up the window for other Apple Music apps to show up on the App Store but for now, Soor has an advantage. One of the challenges of working with APIs that weren't designed for third-party apps is that quite a few common features are not easily accessible on Soor. Beats 1 Radio, Apple's live radio station, isn't available via the app for this reason.
+
+Soor is focused on music discovery via Apple Music
+
+You also can't remove songs from your library, rename, remove or re-arrange songs in a playlist, see friends' feeds, or prevent unavailable songs from showing up in search. Sonawane said that the way to overcome these limitations is to file a radar with Apple (which means you need to report it as a bug), but he conceded that fixing these is likely to be low-priority for the company since Soor is probably the first app to use the APIs for a full-fledged music app.
+
+Soor's pricing is another challenge for Sonawane. He wanted to build a subscription-based app, but he said Apple rules require that the app should have certain features if the subscription expires. Soor was built as a subscription-based app, but for now it will be paid up-front. Soor is priced at $10 (Rs. 800 in India). While he wants to offer the app at a lower price in India, he says at the moment the App Store doesn't support regional pricing at higher price tiers.
+
+“Even now I am making a mistake by going for a paid up-front app,” Sonawane said, adding that he eventually he plans to move Soor to a subscription-based model as it's sustainable. Moving from a paid up-front model to subscriptions is more complicated than it sounds, but the developer is busy figuring out a workaround to implement this.
+
+Sonawane said he's targeting the US and Europe primarily and that he doesn't expect the app to succeed in India. This is completely understandable given iOS' low market share in India. “India is a country where people think 10 times before buying an app. I don't think India is even going to be a market. Buying a $10 app in India…” he said, laughing.
+
+Post-launch, an iPad app for Soor is on the horizon, along with Last.fm integration, Sonawane told Gadgets 360.
+
+Soor is out now on the App Store. You need an Apple Music subscription to use the app.

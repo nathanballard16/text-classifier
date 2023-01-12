@@ -1,0 +1,15 @@
+Here is why Netflix is tracking some physical activity of some Android users
+
+Netflix, like all other tech companies, collects a lot of data pertaining to its users to improve the quality of content and the features that it offers. But now, word is that the video streaming giant, apart from tracking all other parameters that it usually does, is also tracking the physical activity of some Android users.
+
+In case you are wondering if the company is planning to move into the fitness wearables territory, then let me assure you, it's not. The company is testing a way to offer its services better when its users are on a move.
+
+The feature was first spotted by a security researcher last week who took to Twitter to share a screenshot of his Android phone wherein the Netflix app was asking for permission to track his physical activity. The feature was then confirmed by The Next Web.
+
+"We are continually testing ways to give our members a better experience. This was part of a test to see how we can improve video playback quality when a member is on the go. Only some accounts are in the test, and we don't currently have plans to roll it out," a Netflix spokesperson told the publication.
+
+It seems that Netflix is taking advantage of an Android Q feature that allows developers to track users' physical activity as they use their apps. "Android Q introduces a new ACTIVITY_RECOGNITION runtime permission for apps that need to detect the user's step count or classify the user's physical activity, such as walking, biking, or moving in a vehicle. This is designed to give users visibility of how device sensor data is used in Settings," Google wrote on the Android developer page explaining the feature.
+
+As far as the feature is concerned, it makes sense for Netflix to roll out this feature given that a lot of people watch videos while commuting in the public transport vehicles. This would allow the company to optimise the video streaming experience as the users travel through areas of varying internet connectivity.
+
+Separately, Netflix introduced a new Rs 199 mobile only plan in India earlier this month. The plan offers SD streaming quality and is limited to India.

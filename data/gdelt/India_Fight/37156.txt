@@ -1,0 +1,79 @@
+The scary trend of internet shutdowns – Poynter
+
+In July of 2016, the young militant commander Burhan Wani was shot dead by government forces in the northern Indian state of Jammu and Kashmir.
+
+Wani belonged to the separatist group Hizbul Mujahideen, a pro-Pakistani militant organization that has been designated a terrorist group by India, the United States and the European Union.
+
+His funeral was attended by thousands of people, as Wani’s prolific social media presence had made him tremendously popular amongst Kashmiri youth. As news of the death spread, violent protests broke out across the state, and the local government responded by suspending mobile and landline telephone services, as well as blocking cable TV and newspaper distribution.
+
+The information blackout lasted 203 days. The violence and protests, however, continued for years.
+
+Around the world, governments have been turning to network shutdowns with increasing frequency to quell unrest and suppress the spread of rumors and fake news. But there is no empirical evidence that proves this tactic is effective, and activists and journalists alike have raised concerns over the catastrophic side effects these shutdowns often have on communities.
+
+“The official justification given by governments and the impact (of these shutdowns) on the ground rarely match,” said Berhan Taye, the leader of Access Now’s #KeepItOn campaign. Access Now is an international non-profit that advocates for a free and open internet around the world, and the #KeepItOn campaign has been documenting and verifying instances of internet shutdowns since 2016.
+
+In 2018, the campaign identified 196 instances of internet shutdowns around the world. That’s almost twice the number from 2017, and nearly three times the count from 2016.
+
+“Shutdowns are being normalized, as if they’re expected to happen,” Taye told the IFCN. “(There’s the sense) amongst journalists, activists and others that shutdowns during 2020 elections are going to happen, so we need to prepare.”
+
+Shutdowns in India: Popularly used, questionably effective
+
+Africa and Asia are the two continents most affected by internet shutdowns, and India is by far the greatest perpetrator: 67% of #KeepItOn’s documented shutdowns in 2018 have taken place in India, with 134 incidents.
+
+Within the country, 47% of these have occurred in Jammu and Kashmir, according to a recent study done at Stanford University.
+
+“Shutdowns (occur) not specifically because of fake news, but if the government fears or anticipates violence,” said Uzair Rizvi, a journalist working for AFP Fact Check in India and South Asia, in an interview with the IFCN.
+
+As opposed to African countries where shutdowns are enforced nationally by presidents or prime ministers, in India they are administered by local governments in specific states, so they vary in severity and nature.
+
+Rizvi explained that while in Kashmir, the shutdowns are effective in curbing “all sorts of information, be it true or false,” authorities in other cities like Srinagar simply downgrade mobile internet speed, so nothing changes except the speed with which information is shared.
+
+“In other parts of the country, the internet shutdowns are usually enforced late, after a (piece of) mis/disinformation has been spread widely,” Rizvi added. “Then (the government) realizes and blocks the Internet and sometimes all communication, which is far from effective.”
+
+The Stanford study found that mass mobilization in India can occur even in the absence of social media and digital platforms.
+
+In fact, removing these tools “can turn a predictable situation into one that is highly volatile … Rumors and disinformation continue to spread with or without access to digital communication networks, whose primary role is that of accelerators of information diffusion.”
+
+A flawed approach to preventing fake news
+
+Taye of the #KeepItOn campaign warned that while 33 of the shutdowns that occurred in 2018 were justified by governments claiming they wanted to curb mis/disinformation, “The spread of fake news did not start with Facebook. The issue of disinformation did not start with Facebook.”
+
+“The problem we have now is the speed at which it’s being shared… But when you cut people off from being able to access information, the only access they have is to previous misinformation.”
+
+In April, the IFCN reported on the Sri Lankan government’s shutdown of all social media platforms following the Easter suicide bombings, which killed at least 290 and wounded nearly 500 people.
+
+Despite the shutdown, fake news was rampant after the attacks; AFP reported that Sanjana Hattotuwa, who monitors social media for fake news at the Centre for Policy Alternatives in Colombo, had even seen an increase in false reports on Facebook from the area.
+
+Rizvi explained that since the shutdown had only targeted social media, “people were able to use the internet, and they routed social media access through VPNs.”
+
+Taye added that another side effect of the shutdown in Sri Lanka was that “people were not able to find their loved ones, not able to share information, and there was no one providing what the actual correct narrative is, and what’s happening on the ground.”
+
+An internet shutdown also means that fact-checkers and journalists are incapable of doing their work, and news consumers are unable to access alternative sites where they could potentially verify claims and seek out accurate information.
+
+Alphonce Shiundu, a Kenya editor at Africa Check, told the IFCN that “the cure for misinformation is to shine light on it, confront it with the truth, the facts, and have those spreading it correct the false information.”
+
+Kenya has yet to experience a shutdown, but at least 11 African countries have, according to #KeepItOn’s 2018 data.
+
+“People will still talk, make calls, share text messages, watch TV, listen to the radio, gossip at marketplaces and in pubs,” Shiundu said. “It is much better if they can do all these while having access to readily available internet-based tools to help them vet questionable claims and sort fact from fiction.”
+
+So what do internet shutdowns actually do?
+
+In a report from 2016, Deloitte, an accounting and professional services network, calculated that internet shutdowns could result in a loss of at least .4% and at most 1.9% of any country’s daily GDP, depending on the country’s population, connectivity and broadband penetration.
+
+In a country like Ethiopia, which has suffered from a handful of shutdowns between 2018 and 2019, this means a loss of $4.5 million for every day spent offline.
+
+And these estimates don’t even include the informal sector, Taye said, which includes small businesses that often operate exclusively on WhatsApp to sell their products and communicate with customers.
+
+Depending on the context, internet shutdowns can also mean that human rights violations go unnoticed and unaccounted for.
+
+“In Sudan, no one really knows how many people died on June 3, because the internet was shut off,” Taye said. Sudan has been embroiled in a violent conflict since April, when dictator Omar al-Bashir was overthrown after months of protests. In early June, security forces fired on a major protest camp outside military headquarters.
+
+The government’s blackout of almost all internet and phone services during that time was understood by many as a tactic to get away with state-imposed violence and killings.
+
+“If it’s a protest, that means that people are not able to document the violations, they’re not able to share that information,” Taye said.
+
+She added that, while there’s little research on what the implications of an internet shutdown are on healthcare services, doctors and ambulances certainly have a harder time communicating with people on the ground.
+
+“(There’s no way of knowing) how many casualties are coming to the hospital; there are problems with documenting and stocking medicine,” she explained.
+
+“There’s a vacuum of information.”

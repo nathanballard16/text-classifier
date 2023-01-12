@@ -1,0 +1,53 @@
+US widens blacklist to include China's top AI startups ahead of trade talks
+
+The U.S. government expanded its trade blacklist to include some of China's top artificial intelligence startups, punishing Beijing for its treatment of Muslim minorities and ratcheting up tensions ahead of high-level trade talks in Washington this week.
+
+The decision, almost certain to draw a sharp response from Beijing, targets 20 Chinese public security bureaus and eight companies including video surveillance firm Hikvision , as well as leaders in facial recognition technology SenseTime Group Ltd and Megvii Technology Ltd.
+
+The action bars the firms from buying components from U.S. companies without U.S. government approval - a potentially crippling move. It follows the same blueprint used by Washington in its attempt to limit the influence of Huawei Technologies Co Ltd [HWT.UL] for what it says are national security reasons.
+
+U.S. officials said the action was not tied to this week's resumption of trade talks with China, but it signals no let-up in U.S. President Donald Trump's hard-line stance as the world's two biggest economies seek to end their 15-month trade war.
+
+The Commerce Department said in a filing the "entities have been implicated in human rights violations and abuses in the implementation of China's campaign of repression, mass arbitrary detention, and high-technology surveillance against Uighurs, Kazakhs, and other members of Muslim minority groups."
+
+"The U.S. Government and Department of Commerce cannot and will not tolerate the brutal suppression of ethnic minorities within China," said Secretary of Commerce Wilbur Ross.
+
+China's commerce ministry did not immediately respond to a Reuters request for comment.
+
+Hikvision, with a market value of about $42 billion, calls itself the world's largest maker of video surveillance gear.
+
+SenseTime, valued at around $4.5 billion in a May 2018 fundraising, is one of the world's most valuable AI unicorns while Megvii, backed by e-commerce giant Alibaba , is valued at around $4 billion and is preparing an IPO to raise at least $500 million in Hong Kong.
+
+The other companies on the list are speech recognition firm iFlytek Co , surveillance equipment maker Zhejiang Dahua Technology , digital data forensics products maker Xiamen Meiya Pico Information Co and Yixin Science and Technology Co.
+
+OVERSEAS REVENUE
+
+A U.S. Hikvision spokesman said the company "strongly opposes" the decision and noted that in January it retained a human rights expert and former U.S. ambassador to advise the company on human rights compliance.
+
+"Punishing Hikvision, despite these engagements, will deter global companies from communicating with the U.S. government, hurt Hikvision's U.S. businesses partners and negatively impact the U.S. economy," the company added.
+
+John Honovich, founder of surveillance video research company IPVM, said Hikvision and Dahua both use Intel Corp , Nvidia Corp , Ambarella Inc , Western Digital and Seagate Technology as suppliers and that the impact on the Chinese companies would be "devastating".
+
+The blacklisting of Huawei has hurt many of its U.S. suppliers that depended on the world's largest telecommunications company for revenue and made it difficult for Huawei to sell new products.
+
+Reuters reported in August Hikvision receives nearly 30% of its 50 billion yuan ($7 billion) in revenue from overseas.
+
+SenseTime said in a statement it was deeply disappointed by the U.S. move, that it abides by all relevant laws of the jurisdictions in which its operates and that it has been actively developing an AI code of ethics to ensure its technologies are used responsibly.
+
+IFlytek said its placement on the blacklist would not affect its daily operations. "We have already anticipated this situation and will continue to provide excellent products and services for our customers," it said.
+
+Xiamen Meiya said its overseas revenue was less than 1% of total revenue and that most of its suppliers were domestic companies.
+
+Hikvision and Xiamen Meiya were each down a relatively mild 1.6% in Tuesday trade. Shares in U.S. supplier Ambarella fell 12% in after-hours trading on the news.
+
+China faces growing condemnation from Western capitals and rights groups for setting up facilities that U.N. experts describe as mass detention centers holding more than 1 million ethnic Uighurs and other Muslims.
+
+In April, a bipartisan group of U.S. lawmakers urged the move against Chinese companies it called "complicit in human rights abuses" and specifically cited Hikvision and Dahua.
+
+U.S. Secretary of State Mike Pompeo said last week at the Vatican that "when the state rules absolutely, it demands its citizens worship government, not God. That's why China has put more than one million Uighur Muslims ... in internment camps and is why it throws Christian pastors in jail."
+
+In August, the Trump administration released an interim rule banning federal purchases of telecommunications equipment from five Chinese companies, including Huawei and Hikvision.
+
+The ban was included in the National Defense Authorization Act passed last year, and restricted the use of federal money to purchase telecommunications equipment and services and video surveillance equipment from "covered" telecommunications companies, citing national security concerns.
+
+Huawei has repeatedly denied it is controlled by the Chinese government, military or intelligence services and has filed a lawsuit against the U.S. government's restrictions.

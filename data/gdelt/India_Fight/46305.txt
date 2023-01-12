@@ -1,0 +1,71 @@
+Motorola One Action review: Purely for Android purists and GoPro enthusiasts
+
+Back in July, Motorola came out with the One Vision, and just over a month later, its cheaper sibling, One Action, has been unleashed in the market.
+
+The ‘Action’ in One Action refers to the third camera: A dedicated ultra-wide-angle lens with a 117-degree field of view. Motorola put it there to target those who like to shoot with a GoPro.
+
+Motorola has made sure that when one holds the One Action vertically, the smartphone records the video horizontally (and vice-versa). There’s also a software-side feature called “Enhanced Video Stabilization” that helps reduce the shakiness when shooting videos.
+
+Will the action camera, along with a 21:9 CinemaVision display, help the Motorola One Action stand out in the crowded budget market?
+
+Before we take a deep dive, let me just appraise you of all the specifications.
+
+Specifications
+
+The One Action comes with 6.3-inch FHD+ punch-hole display (2520x1080 resolution and 21:9 aspect ratio). It’s powered by Samsung’s Octa-core Exynos 9609 chipset and comes with 4GB RAM + 128GB of internal storage and a 3,500 mAh battery with 10W charging. There are triple - 12-megapixel primary lens + 5-megapixel (depth sensor) lens and a 16-megapixel ultra-wide-angle lens - cameras on the back and a hole-punch cutout for a 12-megapixel camera.
+
+There is a USB-C port on the bottom along with a headphone jack at the top. The One Action is an Android One phone (clean minimalist look along with superfast updates) running Android 9 Pie out of the box, with an update to Android 10 coming soon.
+
+One Action vs One Vision
+
+While the One Vision and One Action are nearly identical, the One Vision doesn’t justify the higher price - by Rs 6,000 - of the two. There are subtle differences that aren’t noticeable at first but it quickly becomes evident that Motorola has cut corners - a plastic body, 10W charging, no Optical Image Stabilisation (OIS), and IPX2 instead of IP52 rating - to bring the One Action to the market at such an affordable price.
+
+With the One Action, Motorola has decided to address a specific need - videos - rather than making a phone that is above average in many different areas.
+
+Where the One Action excels
+
+The One Action comes with a dedicated wide-angle action camera and a 21:9 CinemaVision display at just Rs 13,999. The display, design, and especially the action camera give the One Action the upper hand in the below Rs 15,000 segment.
+
+Stay Updated Get stories of change makers and innovators from the startup ecosystem in your inbox Please fill in this field. {{#error}} {{error}} {{/error}} {{^error}} Something went wrong. Try again later {{/error}} Welcome Onboard ! You have been successfully registered for our daily newsletter.
+
+Watching videos on the One Action is a treat for the eyes. That is if you can find videos shot natively in the 21:9 format. It was a struggle to find many such videos on any of the OTT platforms and Motorola is hoping 21:9 video library improves in the near future.
+
+The One Action looks quite good from afar and has a solid build quality to it with an excellent grip. I accidentally dropped it a few times with absolutely no damage. In my two weeks of usage, it never felt like it would fall out of my hands.
+
+The One Action also has the upper hand in the camera department. It’s Motorola’s first smartphone with three rear cameras (good on them for finally catching up with the competition). There’s a 12-megapixel primary camera along with a 5-megapixel depth sensor.
+
+For video enthusiasts, this is where things get very exciting. There’s a 16-megapixel ultra-wide-angle ‘Action Camera’ with a 117-degree field of view.
+
+The One Action lets you shoot not just in ultra-wide mode but also in portrait mode and this is one of the handiest features of this smartphone. One can shoot a video vertically and have it played back horizontally. The quality of the video was impressive - keeping in mind the price tag of the smartphone - especially when the lighting was good.
+
+The 12-megapixel front-facing camera took some impressive selfies. Over a cup of coffee, two of my friends had taken the smartphone and were happily snapping selfie after selfie. They were quick to comment that they liked the photos that came out. Indeed, the day-time selfies were impressive as they looked vibrant and sharp.
+
+Where the camera faulted was when taking low-light photos. Unlike the One Vision, the One Action lacks a dedicated low-light mode, and that puts a dampener on what could have otherwise been a solid camera at this price point.
+
+Where the One Action falters
+
+The rear panel of the One Action attracts smudges, which is always a downside on any smartphone. The triple-camera setup also bulges ever so slightly, making it sit unevenly when kept atop a flat surface like a table. The punch-hole camera on the display has a thick black outline and this makes it hard for one to ignore.
+
+The One Action, with its 3,500 mAh battery, delivers strictly average battery life - barely lasting a day - with no support for fast charging. The polycarbonate back, while looking good from afar, doesn’t deliver the same premium feel like the One Vision.
+
+The One Action is powered by Samsung’s Exynos 9609 processor and is coupled with 4GB of RAM and 128GB of storage (there is only one variant). It reveals a similar performance to the One Vision but feels laggy as compared to the Xiaomi’s and Realme’s, despite an uncluttered stock Android experience.
+
+On a day-to-day basis, you won’t notice any significant stuttering, but if you load a lot of apps, webpages and games, then the phone can slow down to a point where one would get really annoyed.
+
+Last but not least, the One Action lacks any sort of waterproofing.
+
+A crowded budget segment
+
+India is a price-conscious market. With that in mind, the sub-Rs 15,000 segment is the most crowded out there. The likes of Xiaomi Redmi Note 7 Pro, Realme 3 Pro, Asus Zenfone Max Pro M2, Vivo Z1 Pro and Xiaomi Mi A3, have been selling pretty well, and none of the manufacturers can complain.
+
+With the One Action being added to the mix, Motorola is pitching the smartphone as an alternative to the Xiaomi’s and Realme’s with it’s two USPs - 21:9 CinemaVision display and the ultra-wide-angle ‘action camera’. While these features help it stand out vis-a-vis the competitive landscape, it is the regular smartphone features - primary camera (disappointing low-light photo), battery life (lasting under a day) and performance (stuttering quite a bit with heavy usage) that make the One Action a hard sell.
+
+The Redmi Note 7 has a 48-megapixel camera that takes much better photos, the Realme 3 Pro and Vivo Z1 Pro look classier, and the Mi A3 is faster in day-to-day usage, with all four of them lasting longer on a single charge.
+
+Is this phone worth it?
+
+The Motorola One Action is a hard sell. One can easily recommend the One Action over the One Vision. Can the One Action stand apart from its competitors? That answer would be no.
+
+Motorola, for what it’s worth, has got the pricing bang on for its feature set and knows how to stand out of the crowd. Only time will tell whether this ‘limited targeting’ will be a successful strategy.
+
+In a nutshell, it’s a phone for vloggers Android purists.

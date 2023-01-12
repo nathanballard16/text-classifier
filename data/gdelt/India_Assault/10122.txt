@@ -1,0 +1,31 @@
+WhatsApp maintains its stand on India's message traceability call
+
+Facebook-owned WhatsApp on Tuesday said it has nothing fresh to add to the Indian government's demand to trace the origin of messages on its platform as it "undermined the privacy of the people".
+
+Reacting to an ET story that claimed government officials have asked WhatsApp to digitally fingerprint every message, without breaking its end-to-end encryption, so that the origin of an inauthentic or fake message can be traced, WhatsApp told IANS: "We have nothing new to add to what we have previously said on this."
+
+Last December, the Ministry of Electronics and Information Technology proposed changes to Section 79 of the Information Technology (IT) Act, 2000.
+
+The proposed regulations require a company to "enable tracing out of originators of information on its platform as required by legally authorised government agencies".
+
+The end-to-end encryption feature in WhatsApp makes it difficult for law enforcement authorities to find out the culprit behind a misinformation campaign.
+
+The mobile messaging platform has already called the proposed changes "overbroad", saying it undermined the privacy of the people.
+
+"Attributing messages on WhatsApp would undermine the end-to-end encryption, and its private nature, leading to possibilities of being misused. Our focus is to improve WhatsApp, and working closely with others in society to help keep people safe," a company spokesperson had earlier said.
+
+A top company executive in February stressed that some of the proposed government regulations for social media companies operating in India are threatening the very existence of WhatsApp in its current form.
+
+"Of the proposed regulations, the one which concerns us the most is the emphasis on traceability of messages," Carl Woog, WhatsApp's Head of Communications, had told IANS.
+
+The Facebook-owned messaging app offers end-to-end encryption by default which means only the sender and the recipient can see the texts in circulation - not even WhatsApp.
+
+Without this feature, Woog explained, WhatsApp will be a completely new product.
+
+With over 200 million monthly active users, India is WhatsApp's biggest market in the world. Globally, the platform has over 1.5 billion users.
+
+--IANS
+
+na/ksk
+
+(This story has not been edited by Business Standard staff and is auto-generated from a syndicated feed.)

@@ -1,0 +1,55 @@
+How economic theories of incentives can improve your life
+
+Incentives are part of our daily life and can affect everything from what we eat to how we parent our children to how we perform at work.
+
+Many everyday incentive behavior is rooted in economic theories.
+
+Discover Nobel Perspectives, which explores the questions that shape our world with Nobel award-winning economists.
+
+Incentives lie at the heart of many world-changing economic theories. From saving money, to weight loss, to career advancement, to parenting, there are countless goals we can achieve in our own lives by applying groundbreaking economic theories based on incentives. Promoting the wider application of economic theory is one reason the Nobel in economic sciences was first awarded 50 years ago this fall. And now UBS is putting a spotlight on a half century's worth of award-winning economists with Nobel Perspectives, the largest online repository of interviews with Nobel Laureates.
+
+Perhaps what's most interesting about economic theories is that examples can be found in even the most ordinary life events.
+
+For example, anyone who has children — or can remember what it was like to be a child — knows the dilemma of dividing one cupcake among two children. No matter how hard you try to divide that cupcake evenly, the kids will insist one piece is bigger, resulting in cries of "unfair!" and maybe even tears.
+
+But whether you faced this dilemma as a parent or hungry child, you know the answer: Have one child divide the treat and let the other choose who gets which piece. That way, the child doing the cutting is encouraged to divide the cupcake as evenly as possible, knowing that the other child will act in self-interest and choose the bigger piece.
+
+This scenario is the simplest expression of mechanism design, an economic theory that deals with incentivizing organizations to act in the public good even when it may not serve their self-interest (or when they don't have enough information to be sure). The theory — for which Harvard professor of economics Eric Maskin shared a Nobel award in 2007— helped the British government develop restrictions on CO2 emissions to meet its obligations under the Kyoto Protocol and could one day change how elections are decided in America.
+
+How incentives make a difference
+
+"Mechanism design, it seemed to me, could help improve the world and affect many people's lives," Maskin says. He uses the cupcake story as an example of how mechanism design can make a difference in everyday situations.
+
+One of the great lessons of incentives is that many of the beliefs we hold are arbitrary and we are easily persuaded to act contrary to those beliefs. Esther Duflo, the 2019 joint winner of the Nobel Award in Economics — the youngest-ever winner and only the second woman — and professor of economics at MIT and cofounder of the poverty-solutions lab J-PAL, helped demonstrate this principle with J-PAL's work in rural India. Stubbornly low vaccination rates in the region led many health officials to conclude that parents there held strong cultural objections to vaccinations that could take generations to overcome.
+
+But J-PAL dramatically increased vaccination rates quickly by offering parents small incentives for vaccinating their children, such as a bag of lentils or a set of plates. Such items were hardly enough to overcome deeply held cultural objections, Duflo says. But the incentives offset the minor inconvenience of having to visit the clinic, strongly suggesting that the parents were indifferent — not hostile — to vaccinations.
+
+It's an insight we should all remember when trying to effect change in our own lives, she says.
+
+"We tend to think people have views and they act as a function of these views," she says. "Understanding that, in fact, those views themselves have a certain amount of arbitrariness is pretty important when you think about issues like bigotry and racism but also climate change."
+
+When incentives go wrong
+
+Unfortunately, this principle cuts both ways. Under the right conditions, incentives can persuade well-intentioned people to perform heinous acts, particularly when the incentives are too large or improperly applied.
+
+Bengt Holmström, also a professor of economics at MIT, a Nobel Laureate awarded in 2016 for his work on contract design warns that pay-for-performance arrangements can be dangerous because they often incentivize the wrong outcomes. As an example, he cites the 2016 scandal at Wells Fargo. "Monetary incentives were powerful but misaligned and led some managers to sell phony accounts to enhance their bonuses," he says.
+
+The problem, Holmström says, is that their compensation was tied to the wrong thing — how many accounts they could open — because it was easy to measure. As a result, the firm's reputation, which is far more important but difficult to measure, took a near-fatal hit.
+
+The lesson, he says, is to resist incentivizing something simply because it's easy to measure, because you never know which ancillary behavior you are inadvertently promoting.
+
+"There are very concrete, easy-to-measure tasks which can take attention away from reputation," Holmström says. "But if you have something that's so important and don't have a way of putting a number to it, then it may be better not to incentivize the easy-to-measure tasks — or to mute incentives as opposed to creating strong ones."
+
+In other words, sometimes the best incentive is no incentive at all.
+
+For more insights on how economics is integrated into everything in life, visit UBS's Nobel Perspectives, where you'll find the stories of the brightest economic thinkers of our time.
+
+This post was created by Insider Studios in partnership with UBS.
+
+This article is for informational and educational purposes only and should not be relied upon as investment advice or the basis for making any investment decisions. The views and opinions expressed may not be those of UBS Financial Services Inc. UBS Financial Services Inc. does not verify and does not guarantee the accuracy or completeness of the information presented.
+
+In providing wealth management services to clients, UBS offers both investment advisory and brokerage services which are separate and distinct and differ in material ways. For information, including the different laws and contracts that govern, visit ubs.com/workingwithus.
+
+Business Insider and UBS Financial Services Inc. are not affiliated.
+
+© UBS 2019. All rights reserved. UBS Financial Services Inc. is a subsidiary of UBS AG. Member FINRA/SIPC.

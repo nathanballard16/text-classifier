@@ -1,0 +1,25 @@
+Why India’s fledgling FinTech industry needs better regulations
+
+Rapid advancements in cloud computing, AI and blockchain, along with faster and cheaper internet connectivity have fuelled the rise of FinTech start-ups.
+
+Over the last few years, India has been bracing for a FinTech revolution. Tech-savvy start-ups and established firms are expected to pull millions of unbanked and underbanked individuals into the formal financial sector and change the way banking are done in the country. This revolution seemed especially imminent in the days after demonetization in late 2016, when digital payments, e-wallets, and other offerings really took off. However, that momentum seems to have been frittered away, with businesses largely finding themselves at the receiving end of regulatory volleys from multiple quarters.
+
+FinTech in India
+
+India still has the second-largest unbanked population in the world. Over 190 million Indian adults don’t have an account with any financial institution. However, rapid advancements in cloud computing, AI and blockchain, along with faster and cheaper internet connectivity have fuelled the rise of FinTech start-ups. The rapid progress of these recent entrants spurred innovation even among incumbent firms, resulting in improved, customer-centric solutions for payments, peer-to-peer lending, instant consumer credit and micro-investments.
+
+No industry can truly evolve without the support and direction of government institutions and regulators. This is where things seem to have hit a few speed bumps in the Indian context. In a landmark 2018 judgment, the Supreme Court ruled that private firms could not use Aadhaar for their e-verification processes. This feature was popular among service providers as it drastically cut down the time required to authenticate users compared to conventional methods. The verdict was a blow to the FinTech ecosystem, with companies having to devote time and money to more cumbersome customer onboarding processes.
+
+Meanwhile, the Reserve Bank of India (RBI), while acknowledging the importance of FinTech in ensuring better financial inclusion, has opted for a conservative regulatory approach. For instance, it imposed a cap of Rs 10 lakh on the maximum exposure that lenders on P2P platforms can have at any point in time. This resulted in larger institutions, HNIs and family offices losing interest in the business. The RBI has also adopted a restrictive stance against cryptocurrencies—the most visible part of the blockchain ecosystem—deeming them “harmful”. This is sure to have an adverse impact on the adoption of new and progressive technologies for financial transactions.
+
+The government is also in the process of bringing the Data Protection Bill to Parliament which places additional restrictions on organizations in the way they handle customer data. In this case, India’s regulations are mostly in line with global best-practices like the EU’s GDPR, and the concerns of Indian and global regulators are valid to a large extent. Numerous breaches and lack of transparency regarding data ownership and storage have had an impact on trust, and regulators are rightly placing a premium on data security.
+
+We believe a regulatory environment that is more open and collaborative, however, is the need of the hour and there seem to be some encouraging signs. The RBI is reportedly setting up a regulatory sandbox for FinTech and a Data Sciences lab to keep pace with technological changes. The Finance Ministry has appointed a committee to make regulations governing FinTech more flexible and to enable financial inclusion. These are definitely welcome moves and in the coming months and years, we can expect to see more conducive policy announcements. However, companies will need to remember that the regulators will probably err on the side of caution as the RBI did with the cap on P2P lending.
+
+Resilient FinTech
+
+The potential of the Indian FinTech ecosystem is too great to ignore. The industry is home to a wide variety of firms that are solving challenging, real-world customer problems. Despite recent setbacks, they continue to develop products and solutions that make finance and banking more accessible to everyone. It is vital that the industry and regulators work together to enact policies that protect consumer interests while encouraging innovation. This will allow millions of Indians, underserved by India’s traditional financial sector, to benefit from progressive and inclusive policies of the system.
+
+(By Pramod Singh, Chief Analytics Officer & Vice President of Data Sciences and Analytics at Envestnet | Yodlee)
+
+(Disclosure: The information, analysis, and opinions expressed herein are for informational purposes only and represent the views of the author, not necessarily the views of Envestnet. Nothing contained in this piece is intended to constitute legal, tax, accounting, securities, or investment advice, nor an opinion regarding the appropriateness of any investment, nor a solicitation of any type.)

@@ -1,0 +1,69 @@
+YSRCP, TDP accuse each other of gaming AP voter list: Whose democracy is it anyway?
+
+YSRCP, TDP accuse each other of gaming AP voter list: Whose democracy is it anyway?
+
+In Andhra, the two biggest parties have both been accused of election malpractice – by profiling and removing voters who are inconvenient.
+
+news Politics
+
+The summer heat was cooking the YSRCP state office at Vijayawada on a slow Thursday noon, and the few office rooms with air conditioners were occupied by party workers waiting for the party’s legal head for advice. With state elections around the corner, many of the party workers find themselves being called in for questioning by the Andhra Pradesh police, in relation to the mass filing of voter deletion forms – or Form-7s.
+
+The party has admitted to filing these forms, in what they claim is an attempt to get rid of ‘bogus voters’ – people who are either registered in Andhra but actually live in Telangana, or are otherwise registered multiple times in the electoral roll. According to Jagan Mohan Reddy’s party, there are 59 lakh bogus voters in the 369 lakh electorate in the state, and of them, 20 lakh are from Telangana. They claim to have arrived at this number by using software developed by their Voter Analysis and Strategy Team. And the man behind YSRCP’s ‘bogus voter software’ is Lokeswara Reddy – the data analyst who filed a complaint against IT Grids, a company hired by rival TDP to make their party’s ‘Seva Mitra’ app.
+
+An app, that the YSRCP claims, is being used by the ruling party to profile voters in the state and delete names that are inconvenient to the TDP.
+
+Not surprisingly, this is the same allegation that the TDP has made against the YSRCP, as the opposition party mass filed Form-7s with the Election Commission.
+
+Tech vs tech
+
+The Seva Mitra app is a TDP party app, that, they say, facilitates help for their 75 lakh party workers in the state. TDP leader N Vijay Kumar told TNM, "The Seva Mitra app is designed in-house by a firm hired by TDP to collect and validate information from people if they are recipients of any state pensions, schemes, benefits etc. We can also know where they live and their voting preferences in the upcoming election.”
+
+But considering the app collects caste data, Aadhaar number, Voter ID numbers and other such details, the TDP has been accused of profiling voters and not just collecting party cadre details for the organisation. "This sort of information has been collected by TRS using their Telangana Mission app, by BJP using their panna pramukh and Namo app. Every political party is doing it, not just TDP. Don't we need to approach people? Earlier we did this the traditional way by approaching the voters door to door. You should be happy that a political party is approaching people in a technical way using tech at our disposal," Kumar added.
+
+The party has also been accused of stealing government data using these details, with the help of IT Grids – a private company that designed the Seva Mitra app.
+
+“The TDP is making use of this data to analyse who are for and who are against the government, and based on this analysis, they have deleted hundreds and thousands of names of voters,” Lokeshwar Reddy had earlier alleged.
+
+Since IT Grids is registered in Hyderabad, the Telangana police raided their office earlier this month, kicking off a massive controversy. The ruling party in Telangana, the TRS, has promised support to the YSRCP in Andhra, and the TDP has accused the two parties of being in cahoots to target them. In an interview to Yunus L Lasania for LiveMint, Andhra IT Minister and Chief Minister Chandrababu Naidu’s son Nara Lokesh said, “This is a well-planned game to demotivate, demoralize and also deactivate our app.”
+
+Meanwhile, the YSRCP is also accused of using technology to sort through voter data – which, the TDP claims, is voter profiling. TDP alleges that like the TRS and BJP, the YSRCP has sought the services of Prashant Kishore and his organisation, Indian Political Action Committee (I-PAC). The YSRCP is tight-lipped about if they are using software for voter profiling. When the question was posed to two YSRCP leaders, neither of them confirmed or denied using data to profile voters. The party only admits to using electoral rolls data sourced from EC to weed out bogus and duplicate voters using in-house software.
+
+EC sees red
+
+As the two parties blame each other of gaming the voter list, the Chief Electoral Officer for Andhra, Gopalkrishna Dwivedi, says he’s forced to play referee. Flooded with voter deletion forms – or Form-7s – and finding that 95% of the forms pertain to genuine voters and not bogus ones, the CEO tells TNM that he has had to take some tough measures against voter deletion ‘mischief’ in the state.
+
+“For me, every party is equal and if someone does something wrong I have to give a yellow or a red card,” the CEO tells TNM.
+
+And FIRs, he says, are red cards. He has directed District Collectors to file over 45 FIRs against meeseva (government help kiosk) operators and YSRCP workers. The EC is considering the mass filing of voter deletion forms as "mischief" to increase to the EC’s workload ahead of state elections.
+
+The Commission has approached Centre for Development of Advanced Computing (C-DAC) to present them with the IP addresses from where the Form-7s were filed. They are confident the mischief makers will be apprehended.
+
+The EC’s action has the YSRCP on the backfoot. The party has been able to grab voter attention, but their ground operations to keep the campaigns move forward in full momentum has been affected.
+
+YSRCP prepares for legal defence
+
+At the Vijayawada state YSRCP office, most of the party leaders have left to their respective constituencies for campaign preparations and the office is relatively less crowded than usual. But those who are here are worried about arrests.
+
+Kotamraju Venkatesh Sarma, the party’s legal head, tells TNM, "In Krishna district alone nearly 450 booth committee people have been randomly called to the police stations and made to wait; their time gets wasted and they are unable to focus on party work.”
+
+“In the meantime, TDP takes advantage by manipulating the Form-7s," he alleges. The legal head maintains that the party has done no wrong in filing mass online Form-7s, and instead accuses the TDP of using state machinery to inflate the number of forms they have actually filed, to derail their efforts to rid of bogus and duplicate voters.
+
+"What the TDP is doing is that if a YSRCP worker files 10 Form-7 applications, they are adding another 50 applications taking the count to 60 applications. There will be no signatures or nothing on the declaration, the municipal commission doesn’t collect ID proof of the person who files the forms, nor do they collect the data on how many Form-7s are being filed by a person," says Venkatesh Sarma.
+
+"By misuse of power with police, Booth Level Officers (BLOs) and Mandal Revenue Officers (MROs) are adding extra Form-7s and are in turn alleging that all the forms were being added by YSRCP persons. By making these allegations, they want to restrict our active cadre working in the booth committee level for the upcoming elections, so that they do not come out and work for the party," he alleges.
+
+"This claim of the YSRCP is false," says Kumar who said that out of the eight lakh voter deletion forms received by EC, "nearly 98% of them were filed online.”
+
+“Obviously, there is proof in the form of IP addresses from where these forms were uploaded. The C-DAC was able to find these computer IDs, and the bulk has come from Bihar, Karnataka, Uttar Pradesh, Andhra Pradesh and Hyderabad. The report has been given to the EC this week," he adds.
+
+Meanwhile, the EC claims to have deleted around 40,000 duplicate and bogus voters based on ground verification after receiving the forms. "Our de-duplication software is showing that there are only 1.55 lakh duplicate voters in the state," the CEO says, and not 59 lakh as claimed by the YSRCP.
+
+"What the political parties are claiming are exaggerated as their counting the duplicate and bogus voters in the wrong manner," says Gopalkrishna Dwivedi, "For instance, when there is one voter's name appearing three times in the electoral roll of a constituency, the political parties will count this as three instances of bogus votes while the EC will count it as one instance.”
+
+“Even if bogus voters are there, it's our responsibility to delete and we are doing that,” he adds.
+
+The AP CEO tells TNM that of the eight lakh Form-7s received, the EC has verified 5.5 lakh voters and found 95% of them to be genuine voters.
+
+And on the issue of ‘missing voters’, the CEO appeals, “This is the right time to get enrolled in the voter list. If they make a hue and cry after one month, the EC can't do anything. Verify if you are still in the electoral rolls by visiting nvsp.in and calling 1950. Every citizen in a democracy should be aware if he has a voter id card."
+
+Also Read: Over 95% of 5.5 lakh voter deletion forms filed are false: Andhra CEO to TNM

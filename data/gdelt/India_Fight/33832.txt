@@ -1,0 +1,25 @@
+Telangana govt creates citizen data tracking tool, raises privacy concerns [Mint, New Delhi]
+
+Jul. 10–HYDERABAD — In what may be a unique initiative to integrate and utilise entire datasets available, the Telangana government has managed to create its own software, which senior officials say is a “search tool”, to identify citizen details for various government services. The project, ‘Samagra Vedika’, allows the state to seamlessly integrate and cross check citizen data among all its departments without relying on Aadhaar, especially with regard to welfare schemes.
+
+The move has, however, not gone down well with independent researchers and privacy experts who have cautioned against its usage saying that linking all the databases was done very quietly and to avoid raising any suspicion.
+
+‘Samagra Vedika’, created in 2017, allows the state to verify or check citizen data from about 25 departments. A person’s name, father’s name and residential address are used to cross-check details, which officials say is done with about 95% accuracy. The software was created before the Supreme Court in 2017 disallowed use of Aadhaar for any such purpose, informed a senior state government official. The software has also been praised in the 2018-19 Economic Survey report.
+
+“Every department maintains a data base, for example the GHMC (Greater Hyderabad Municipal Corporation) maintains a data of property tax payers, the water board maintains information of consumers, etc. The IT department has created a tool that can search all these databases, and individual departments will not have access to each other’s information. In terms of technology this is a great achievement,” said Jayesh Ranjan, principal secretary (Information Technology), Government of Telangana.
+
+Claiming that there is a “wrong impression created by many”, Ranjan said there is no collation of data or creation of a mega database. “The datasets remain where they are. The software is devoid of Aadhaar. The Government has all the rights to do these kinds of verifications in the legitimate discharge of its duty. We are doing this for the better targeting of government services,” Ranjan told Mint, and added that the software’s functioning is within the purview of the law.
+
+Supreme Court lawyer and cyber law expert Nappinai N.S. said the threat or risks that arise from linking of data ets, is the very basis on which it was struck down by the Supreme Court (in the Puttaswamy judgement). “It violates the privacy of an individual. Without this tech you could not have had this level of surveillance of an individual. The first Puttuswamy (Aadhaar) judgment defined privacy rights,” she added.
+
+Nappinai pointed out that while earlier it was only envisaged that there was a threat (to privacy of an individual). “Today you can see a state entity doing this, and it is no longer merely a threat,” she told Mint.
+
+The ‘Samagra Vedika’ software, however, is not for all departments to use or access each other’s data. A team undertakes the task, based on request from a particular department, to verify details when required. Ranjan said those running it have their backgrounds verified and that everything was built in-house, and nothing was outsourced.
+
+However, an independent researcher and data analyst from Hyderabad, who did not want to be quoted, questioned the ethics behind the whole idea, and pointed out that the software was created without informing the public. “Nobody talked about it, why were they so silent on it? Telangana announces every single thing it creates on tech, so why not this?” he asked.
+
+(c)2019 the Mint (New Delhi)
+
+Visit the Mint (New Delhi) at www.livemint.com
+
+Distributed by Tribune Content Agency, LLC.

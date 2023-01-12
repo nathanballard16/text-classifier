@@ -1,0 +1,67 @@
+Misinformation Is Endangering India’s Election
+
+NEW DELHI—In the days following a suicide bombing against Indian security forces in Kashmir this year, a message began circulating in WhatsApp groups across the country. It claimed that a leader of the Congress Party, the national opposition, had promised a large sum of money to the attacker’s family, and to free other “terrorists” and “stone pelters” from prison, if the state voted for Congress in upcoming parliamentary elections.
+
+The message was posted to dozens of WhatsApp groups that appeared to promote Prime Minister Narendra Modi’s governing Bharatiya Janata Party, and seemed aimed at painting the BJP’s main national challenger as being soft on militancy in Kashmir, which remains contested between India and Pakistan, just as the two countries seemed to be on the brink of war.
+
+The claim, however, was fake. No member of Congress, at either a national or a state level, had made any such statement. Yet delivered in the run-up to the election, and having spread with remarkable speed, that message offered a window into a worsening problem here.
+
+India is facing information wars of an unprecedented nature and scale. Indians are bombarded with fake news and divisive propaganda on a near-constant basis from a wide range of sources, from television news to global platforms like Facebook and WhatsApp. But unlike in the United States, where the focus has been on foreign-backed misinformation campaigns shaping elections and public discourse, the fake news circulating here isn’t manufactured abroad.
+
+Read: India’s lynching epidemic and the problem with blaming tech
+
+Many of India’s misinformation campaigns are developed and run by political parties with nationwide cyberarmies; they target not only political opponents, but also religious minorities and dissenting individuals, with propaganda rooted in domestic divisions and prejudices. The consequences of such targeted misinformation are extreme, from death threats to actual murders—in the past year, more than two dozen people have been lynched by mobs spurred by nothing more than rumors sent over WhatsApp.
+
+Elections beginning this month will stoke those tensions, and containing fake news will be one of India’s biggest challenges. It won’t be easy.
+
+Traditional media continue to be the dominant source of information for Indians. Among those aged 15 to 34, 57 percent watch TV news a few days a week, 53 percent read newspapers at the same frequency, and about 18 percent consume their news on the internet, according to a 2016 study by the Centre for the Study of Developing Societies, a think tank based in New Delhi.
+
+But social media is playing a growing role. As many as 230 million Indians use WhatsApp, making the country the messaging platform’s biggest market. One-sixth of them are members of chat groups started by political parties, according to another CSDS study. These groups, ostensibly used to organize rallies, recruit volunteers, or disseminate campaign news, are capped at 256 members. In 2018, “horrified by terrible acts of violence,” WhatsApp limited the number of chats that messages could be forwarded to in India from 256 users to five, and made it harder to forward images, audio clips, and videos. (Some of these restrictions have since been rolled out worldwide.)
+
+These restrictions are, however, somewhat countered by forming many more groups, which is largely what has happened. A WhatsApp spokesperson said in an emailed response to our questions that the company bans accounts “engaging in bulk or automated messaging” and encourages users to report groups for “a range of potential issues.”
+
+Many political groups use WhatsApp to distribute pure propaganda. Consider the description of BJP Cyber Army 400+, a WhatsApp group whose five administrators include Amit Malviya, the head of the BJP’s information-technology division: “This Group is Nationalists Group With Hindu Warriors Working To Save Nation From Break India forces Led politically by congress, communist And religiously by Islam and Christianity [sic].”
+
+Modi has campaigned on promoting good governance, but Hindu-Muslim polarization is also central to the BJP’s election strategy. The party’s messaging aims to consolidate the support of Hindus, who make up 80 percent of India’s electorate, by presenting opposition parties as pro-Muslim. For example, in the southern state of Telangana, several pro-BJP groups picked parts of Congress’s manifesto that promised government benefits to Muslims, such as free electricity to mosques and scholarships for Muslim students, and presented them as the party’s exclusive offerings. Such efforts are widespread. Based on research published in the Hindustan Times, eight of the 10 most shared misleading images in pro-BJP WhatsApp groups ahead of last year’s state elections were about the Telangana manifesto, and the claims that Congress favored only Muslims.
+
+Though other parties use similar tactics, the BJP has built the largest social-media system. Malviya, who did not respond to requests for comment for this story, has said that about 1.2 million volunteers will help run the party’s social-media campaign for the national elections. In Uttar Pradesh, India’s most populous state, the BJP’s IT department has a six-tier hierarchical structure covering the capital city of Lucknow down to the most remote village. At what is known as the booth level, the last point of contact with voters, each party worker has been directed to create a WhatsApp group with at least 50 users, Brajesh Mani Mishra, the 39-year-old in charge of the party’s media and IT division in Gorakhpur, in Uttar Pradesh, told us.
+
+A woman downloads Narendra Modi's smartphone app. (Manish Swarup / AP)
+
+The strategy extends beyond WhatsApp. Another BJP staffer in Gorakhpur, Nitin Sonkar, told us how he was charged with, among other things, promoting downloads of Modi’s own smartphone app, known as NaMo. The app—which came preloaded in free Android phones distributed by at least two BJP-led state governments and in low-cost phones sold by Reliance Jio, a domestic cellphone operator—has been installed by more than 10 million people. It is used to promote the prime minister, and has a built-in social network with Twitter-like features. But it, too, is vulnerable to misinformation.
+
+Read: Disinformation is spreading on WhatsApp in India—and it’s getting dangerous
+
+For instance, after February’s Kashmir attack, a promoted post on the app suggested that Pakistan’s prime minister, Imran Khan, was crying on television after receiving a warning from the “56-inch,” a reference to a boast of Modi’s regarding the size of his chest, an apparent effort to show his strength. The claim about Khan, however, was wrong; he had not cried. This wasn’t a one-off case, either. The app’s news feed promotes posts from repeat fake-news offenders, and users aren’t given the option to unfollow these accounts.
+
+The BJP’s IT department has previously said it is aware of the problem. Malviya has previously admitted to us that there is “some scope for misinformation” on the app, adding that “content moderation is managed by volunteers” and “multiple posts have been taken down.” Still, the party’s ground staff has been tasked with increasing the NaMo app’s use, Mishra said. “Even if five people at every booth install the NaMo app,” he told us, “Modi will be PM for the next 25 years.”
+
+The BJP is not the only political player whose supporters are manipulating facts. In November 2016, Abhishek Mishra was detained in the central state of Madhya Pradesh for posting derogatory content on social media about Madhya Pradesh’s former chief minister. Mishra, who is reportedly close to Congress leaders, published fabricated stories, including claims that the governor of India’s central bank had called Modi the most corrupt prime minister in India’s modern history, and that the head of a policing body had declared Modi to be “useless.”
+
+Then, in January, police in New Delhi arrested him based on a woman’s complaint that he had posted “inflammatory” content online. Since his release from police custody, his website, Viral in India, has been shut down, but Mishra reportedly receives police protection in Madhya Pradesh, where a Congress government is in power. He now runs Viral in India as a Facebook page, where he has upwards of 1 million followers and posts and shares anti-BJP updates, some of which appear, again, to be fake. Mishra did not respond to a request for comment.
+
+Other hyper-partisan political pages and groups have similarly sprouted up on Facebook, which has 270 million users in India. Another Facebook page, The India Eye, for example, has more than 2 million followers, but at least six of the 20 most shared posts on its Facebook page from September to November 2018 were misleading or inaccurate. One post, which was shared more than 19,000 times, claims that Sonia Gandhi, the ex-president of Congress and the wife of a former prime minister, is the fourth-richest woman in the world, which is not true. Completing the circle of misinformation, The India Eye is also a promoted account on the NaMo app.
+
+Facebook and WhatsApp are not the only social networks where this battle is playing out. Smaller platforms such as ShareChat, which has 40 million monthly active users, and Helo, which has about 25 million, operate in 14 Indian languages and target first-time internet users. Both are rife with a litany of false claims and misinformation.
+
+In response to our questions, Facebook pointed us to a press release from the Internet and Mobile Association of India, detailing how it was one of several social-media platforms, along with ShareChat, to adopt a voluntary code of ethics for the election. NaMo did not respond to a request for comment, but WhatsApp (which is owned by Facebook), ShareChat and Helo offered statements, largely echoing one another: They take misinformation seriously, remove posts on a regular basis, and use artificial-intelligence tools as well as large content-moderation teams. ShareChat and Helo also said they had partnered with fact-checking organizations to combat fake news.
+
+While Indians are receiving a greater portion of their daily news from Facebook, WhatsApp, and other social-media platforms, misleading stories that bear the stamp of a traditional news outlet still travel most widely. Doctored newspaper clippings and manipulated television-news screengrabs were among the most shared items in political WhatsApp groups ahead of last year’s state elections.
+
+An Indian man reads a newspaper with a full-page ad from WhatsApp meant to counter misinformation on the platform. (Prakash Singh / AFP / Getty)
+
+More difficult to police, however, are the many mainstream news channels that are openly partisan.
+
+Read: Ending the India-Pakistan crisis requires a courageous Narendra Modi
+
+Throughout its 14 years on air, Sudarshan News’s 200-member national team has focused on issues of Hindu interest through its straight-talking, campaign-driven programs, such as its Save the Cow movement. This included purported exposés of New Delhi restaurants that serve beef (a practice that is illegal in the Indian capital), castigations of state governments for not sufficiently policing slaughterhouses, and proposals that the cow, a holy animal in Hinduism, be officially made “mother of the nation,” with killing of the animal punishable by death. As part of that campaign, the channel’s owner and public face, Suresh Chavhanke, urged his audience to act. “At a time like this, cow servants like us will have to take the threatening form of cow protectors,” he said.
+
+“People are ready to kill and die in order to save cows,” Chavhanke told us. “I agree that it’s constitutionally wrong, but it is a part of our tradition.”
+
+Sudarshan News has listed three priorities it will push for in the next government: a Hindu temple on the site where a Mughal-era mosque was razed by Hindu nationalists in 1992; modifications to the history curriculum in Indian textbooks to glorify the country’s Hindu past; and a bill to control India’s population.
+
+The third of those demands is a euphemism for a public campaign against what Sudarshan News has said is the rising population of Muslims in India. This is, however, fearmongering. Though Muslims currently have a higher fertility rate than Hindus nationwide, they are still outnumbered by followers of India’s majority religion. Chavhanke, who was arrested in April 2017 in Uttar Pradesh to prevent him from visiting a town where there had been Hindu-Muslim clashes, says he is secular and not against Islam. His channel, however, is legitimized by politicians, including ministers in the BJP national government and leaders of the Congress Party, who appear on his shows and give him interviews.
+
+The case of Sudarshan News also spotlights the growing links between political parties, traditional news sources, and social-media networks.
+
+A recent message in BJP Cyber Army 400+, the WhatsApp group with BJP staffers as administrators, reminded its members that they “have the right to vote,” before continuing: “We should not vote for any candidate who follows Leftist ideology. They care more about preserving their Muslim vote bank than they care about Hindus, such as the Congress.” The message concluded by listing YouTube channels that Hindus should subscribe to “in order to save their existence.” One is Sudarshan News.

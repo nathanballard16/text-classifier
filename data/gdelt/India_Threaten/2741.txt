@@ -1,0 +1,51 @@
+Hackers Target Fresh Drupal CMS Flaw to Infiltrate Sites
+
+Application Security , Cloud Security , Governance & Risk Management
+
+Hackers Target Fresh Drupal CMS Flaw to Infiltrate Sites
+
+CMS Project Team Patches 'Highly Critical' Remote Code Execution Vulnerability
+
+Patch alert: Some versions of the popular content management system Drupal have a "highly critical" flaw that attackers can exploit to remotely execute code.
+
+See Also: Live Discussion | The Toll of Identity Sprawl in the Complex Enterprise
+
+The vulnerability, designated CVE-2019-6340, exists because "some field types do not properly sanitize data from non-form sources," the open source Drupal project team says in a security alert. "This can lead to arbitrary PHP code execution in some cases."
+
+To patch the problem, Drupal on Wednesday released "critical releases" that update Drupal 8.6.x to Drupal 8.6.10, and Drupal 8.5.x or earlier users to Drupal 8.5.11.
+
+"Be sure to install any available security updates for contributed projects after updating Drupal core," the project team says. "No core update is required for Drupal 7, but several Drupal 7 contributed modules do require updates."
+
+What's at Risk?
+
+Drupal says versions of the CMS are at risk if they meet one of the following conditions:
+
+Drupal 8 Web Services: "A site is only affected by this if one of the following conditions is met: The site has the Drupal 8 core RESTful Web Services (rest) module enabled and allows PATCH or POST requests."
+
+"A site is only affected by this if one of the following conditions is met: The site has the Drupal 8 core RESTful Web Services (rest) module enabled and allows PATCH or POST requests." Other web services modules: "The site has another web services module enabled, like JSON:API in Drupal 8, or Services or RESTful Web Services in Drupal 7."
+
+Drupal says that while Web Services Module version 7 is not at risk, it recommends applying all possible updates regardless.
+
+In lieu of immediately installing updates, Drupal says the flaw can be mitigated by disabling all web services modules or else configuring services to not all PUT, PATCH or POST requests to web services resources. "Note that web services resources may be available on multiple paths depending on the configuration of your server(s)," Drupal warns.
+
+The project team also notes that any versions of Drupal that are 8.5.x or earlier are "end of life" and will see no further security updates.
+
+Independent security researcher Troy Mursch of Bad Packets Report on Friday said attackers have already been scanning sites en masse, looking for Drupal installations vulnerable to CVE-2019-6340.
+
+Currently seeing Drupal-related scans attempting to use the "CHANGELOG.txt" method to locate vulnerable sites due to CVE-2019-6340.
+
+
+
+The correct path for Drupal 8 is /core/CHANGELOG.txt - however you won't find the version the site using. It's just a generic message. pic.twitter.com/AWzhJH8t2l — Bad Packets Report (@bad_packets) February 22, 2019
+
+Popular CMS
+
+Drupal is the world's third most popular content management system, commanding 4 percent market share, after Joomla at 5 percent and CMS heavyweight WordPress, which owns 60 percent of the market, according to W3Techs.com.
+
+More than 1 million websites use Drupal, according to the Drupal project team.
+
+This isn't the first time that a critical flaw in Drupal has been targeted by attackers. Last year, Mursch warned that at least 400 websites had hacked by attackers who exploited a remote-code-execution flaw in Drupal to install code designed to mine for the virtual currency known as monero.
+
+Victims included Lenovo, the India Olympic Association, San Diego Zoo and the Office of Inspector General of the U.S. Equal Employment Opportunity Commission, among many others (see: Cryptocurrency Miners Exploit Widespread Drupal Flaw).
+
+Many administrators of Drupal CMS sites fail to patch their installations in a timely manner. Two months after the Drupal project team patched two "Drupalgeddon" flaws early last year, security firm Malwarebytes reported that it was still finding dozens of sites running vulnerable versions of the CMS (see: Websites Still Under Siege After 'Drupalgeddon' Redux).

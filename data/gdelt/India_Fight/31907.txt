@@ -1,0 +1,57 @@
+Investigators Probe Attacks on At Least 3 Bangladesh Banks
+
+Access Management , Critical Infrastructure Security , Finance & Banking
+
+Investigators Probe Attacks on At Least 3 Bangladesh Banks
+
+ATM Switch Reportedly Targeted With Malware
+
+Authorities in Bangladesh are investigating hacker attacks against at least three banks in that nation last month, the Daily Star, a local newspaper, reports.
+
+See Also: Case Study: The Road to Zero Trust
+
+Dutch Bangla Bank Ltd. lost as much as $1.4 million at the result of an attack, according to the news report. The two other targeted banks, Prime Bank Ltd. and NCC Bank, claimed they were able to avert financial losses, the publication reports.
+
+The hackers apparently planted malware in Dutch Bangla Banks’ ATM switch about three months ago and made a replica of the switch, which the bank could not detect, the Daily Star reports. When hackers made transactions last month, the shadow switch gave instructions to release funds, keeping the bank completely in the dark, according to the report.
+
+Some security experts say the attack appears to have some aspects in common with the 2016 Bangladesh Bank heist in which hackers made off with $81 million by using malware to issue fraudulent messages via the SWIFT inter-bank messaging system.
+
+“In both cases, there is a vulnerability in the card switch that connects the CBS [core banking solutions] to the external payment network,” says Sriram Natarajan, president and COO at Quatrro Processing, a global services company offering business and knowledge processing services. “It is the same switch that connects to SWIFT as well as Visa, MasterCard and local ATM/POS domestic network.”
+
+Vulnerable ATM Switch
+
+The theft of funds from Dutch Bangla Bank seems to indicate a lack of security controls for its ATM switch, some security experts say.
+
+Prakash Kumar Ranjan, information and communications technology, security, risk and compliance manager for APAC at CNH Industrial, a Netherlands-based capital goods company, says: “The fact that the malware was able to reach the ATM switch shows there was a big security loophole. Clearly the affected bank in Bangladesh did not have privilege identity management and privilege access management in place.”
+
+Ram Rastogi, a consultant for digital payments and financial inclusion at the Consultative Group to Assist the Poor, a World Bank organization, notes: “Regulators do not seem to have much clue on what security procedures are followed in banks, and clearly banks have not been audited for security by regulators.”
+
+Assessing ATM Switch
+
+According to various news reports, hackers siphoned off money from Dutch Bangla Bank between May 1 and 3 using ATMs in Cyprus, Russia and Ukraine. Hackers used credit cards and personal identification numbers of bank customers to steal the money, the Daily Star reports.
+
+The bank was not aware of the fraud until Visa, the global payment card company, asked it to settle payments for transactions made by the bank’s “clients” in Cyprus, the report says.
+
+When payment card transactions take place, the ATM system connects to a switch, which, in turn, connects to a banking server. The switch is mutually authenticated with banking servers.
+
+In the attack on Dutch Bangla Bank, attackers apparently deployed malware on the ATM switch, and then replicated it as a genuine switch and routed all transactions through the illegitimate or replicated switch, Natarajan says. Using such a parallel proxy switch, the hackers self-approved the transactions to siphon out money. Dutch Bangla Bank could not immediately identify the falsified transactions because the rogue switch functioned like a genuine switch, according to news reports.
+
+“In today's world, where real-time payments transfers are happening across borders, no bank can afford to have any gaps in their switch management system,” Natarajan says. “ISO 20022 is the latest standard which banks across the world are now hopping on to make sure their customers can do secure payment transfers.
+
+“Many banks in emerging markets invest millions on their core banking system, but go light on the switch, often opting for home-grown systems which claim to be compliant. As banks and other institutions adopt APIs as a norm for exchange of messages, it is imperative to have strong, resilient switching systems to address the vulnerabilities of API based messages.”
+
+Similar to Cosmos Attack
+
+Cosmos Bank, a cooperative bank in India, suffered a similar attack last year when hackers stole $13.4 million.
+
+In that case, like in the latest Bangladesh incident, hackers created a proxy switch and all fraudulent payment approvals were passed by this proxy switching system. Researchers say that multiple targeted malware infections were used to compromise the bank's internal and ATM infrastructure.
+
+Shortcomings in Security
+
+Ranjan suggests that the latest Bangladesh online heist might have been avoided if the bank had the right anti-APT solutions in place.
+
+An anti-APT solution generally works in three steps. First, a hash of malicious files is compared with the signature from the security solutions’ on-premises deployment. If nothing is found then, the hash of the malicious file is compared with the signature available in the cloud infrastructure of the security solution, Ranjan explains. “The malicious file is then sent to the sandbox environment. If any malicious activity is detected, then the anti-APT solution will block it,” he adds.
+
+Some security experts also question whether the bank had a reliable reconciliation process in place.
+
+“The transactions happened in between May 1 and May 3, but the bank came to know when Visa asked for settlement of transactions. It shows there is no strict and streamlined reconciliation process for the accounts,” Rastogi says.

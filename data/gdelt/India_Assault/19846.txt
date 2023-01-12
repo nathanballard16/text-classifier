@@ -1,0 +1,31 @@
+When Can Statutory Alternative Remedy Be Allowed To Be Bypassed For Invoking Writ Jurisdiction Under Article 226? SC Explains
+
+The Supreme Court has observed that distinction between the lack of jurisdiction and the wrongful exercise of the available jurisdiction, by an administrative authority/tribunal or a court of law should be taken into account by High Courts, when its writ jurisdiction under Article 226 of the Constitution of India is sought to be invoked bypassing a statutory alternative remedy provided by...
+
+The Supreme Court has observed that distinction between the lack of jurisdiction and the wrongful exercise of the available jurisdiction, by an administrative authority/tribunal or a court of law should be taken into account by High Courts, when its writ jurisdiction under Article 226 of the Constitution of India is sought to be invoked bypassing a statutory alternative remedy provided by a special statute.
+
+In M/s Embassy Property Developments Pvt. Ltd. vs. State of Karnataka, the bench of Justice Rohinton Fali Nariman, Justice Aniruddha Bose and Justice V. Ramasubramanian was considering the issue whether the High Court ought to have interfered, under Article 226/227 of the Constitution, with an Order passed by the National Company Law Tribunal in a proceeding under the Insolvency and Bankruptcy Code, 2016, ignoring the availability of a statutory remedy of appeal to the National Company Law Appellate Tribunal.
+
+The Court noted that the English courts maintained a distinction between cases where a statutory/quasi-judicial authority exercised a jurisdiction not vested in it in law and cases where there was a wrongful exercise of the available jurisdiction until the majority judgment in Anisminic Ltd. vs. Foreign Compensation Commission. In Anisminic, it was held that the real question was not whether an authority made a wrong decision but whether they enquired into and decided a matter which they had no right to consider.
+
+The court also noted that, just four days before the Anisminic was decided, the Supreme Court of India delivered the judgment in Official Trustee, West Bengal vs. Sachindra Nath Chatterjee, in which it held thus: "Before a court can be held to have jurisdiction to decide a particular matter it must not only have jurisdiction to try the suit brought, but must also have the authority to pass the orders sought for." It was pointed out that it is not sufficient that it has some jurisdiction in relation to the subject matter of the suit, but its jurisdiction must include (1) the power to hear and decide the questions at issue and (2) the power to grant the relief asked for."
+
+The Court then observed that both Official Trustee and Anisminic were mostly in the context of the power of the superior court to interfere with the decisions of subordinate courts/tribunals or administrative authorities. Most of these decisions were not in the context of the exercise of jurisdiction despite the availability of alternative remedy. Thus, the bench observed:
+
+Therefore the question whether the error committed by an administrative authority/tribunal or a court of law went to jurisdiction or whether it was within jurisdiction may still be relevant to test whether a statutory alternative remedy should be allowed to be bypassed or not.
+
+Therefore in so far as the question of exercise of the power conferred by Article 226, despite the availability of a statutory alternative remedy, is concerned, Anisminic cannot be relied upon. The distinction between the lack of jurisdiction and the wrongful exercise of the available jurisdiction, should certainly be taken into account by High Courts, when Article 226 is sought to be invoked bypassing a statutory alternative remedy provided by a special statute.
+
+In the instant case, the court found that NCLT did not have jurisdiction to entertain an application against the Government of Karnataka for a direction to execute Supplemental Lease Deeds for the extension of the mining lease. Therefore, since NCLT chose to exercise a jurisdiction not vested in it in law, it was held that the High Court of Karnataka was justified in entertaining the writ petition, on the basis that NCLT was coram non judice.
+
+
+
+
+
+Click here to Read/Download Judgment
+
+
+
+
+
+

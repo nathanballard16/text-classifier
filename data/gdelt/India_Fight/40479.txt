@@ -1,0 +1,81 @@
+On Madras Day, here are seven startups from Chennai to watch out for
+
+Bengaluru may be India’s startup hub, but Chennai is the SaaS capital of India. No surprises there with companies like FreshWorks (previously Freshdesk), Zoho, and Indix taking the limelight. But, over the years, the city has seen the birth of numerous startups across sectors such as manufacturing, fintech, and others.
+
+The potential of Chennai’s startup ecosystem has led to the creation of several active mentor organisations like The Indus Entrepreneurs (TiE), CII Startupreneurs, IIT Alumni Clubs, and Nasscom’s Million Dollar startup programme. It is estimated that Tamil Nadu alone has over 30 incubators with a fraction of them present in college campuses of IIT, VIT, etc.
+
+We take a look at some of the other startups from Chennai, startups other than legacy brands like Bharat Matrimony or SaaS giants like Freshworks and Zoho.
+
+Startups in Chennai
+
+Intain
+
+Founded in 2018 by people with an extensive experience in the finance and technology space, this startup is building a blockchain platform that can help the finance industry avoid meltdowns like the one that took place in 2008. It hopes to bring banks, securitisation companies, and hedge funds on to a single platform to track trades, contracts, and loan repayments to which securitised trades are pegged.
+
+“Once data is out there, the ecosystem will know when to stop trading. The ecosystem can then reduce losses rather than shut down operations like how many banks did a decade ago. Blockchain and AI will make a lot of impact,” said Siddhartha S, Founder, Intain, in an earlier conversation with YourStory.
+
+Intain is built on the open-source hyperledger fabric and records all securitised contracts. The company took an year to ready its technology and currently has a 40-member team.
+
+Nutpum
+
+Nutpam builds virtual reality-driven training content for people working in large corporations and sectors like healthcare and education. Its VR simulators train people to not just learn but also get used to machines.
+
+In 2016, Senthil Sarguru and Karthik Bavanandan, both 28-years-old, set up Nutpam in Mylapore, a suburb in Chennai. Its product uses immersive technologies to train industrial labour, doctors, and students. The team says it uses AR, VR, internet of things (IoT), and artificial intelligence (AI) to bring immersive experiences into the app or even into the physical world.
+
+“We strongly believe that our strength is in content making for immersive experiences. We have been developing VR/AR content in healthcare, enterprise, education, and other immersive experiences based on the client’s requirement,” said Senthil in an earlier conversation with YourStory.
+
+Stay Updated Get stories of change makers and innovators from the startup ecosystem in your inbox Please fill in this field. {{#error}} {{error}} {{/error}} {{^error}} Something went wrong. Try again later {{/error}} Welcome Onboard ! You have been successfully registered for our daily newsletter.
+
+ALSO READ How Chennai-based Nutpam is using virtual reality to upskill professionals
+
+CiniCloud
+
+CiniCloud helps single-screen cinemas and multiplexes manage inventories, seat layouts, scheduling, and ticketing seamlessly over the cloud. But how is the startup building a bridge between cinema and technology?
+
+“If you tell a Rajinikanth fan that he can't do something, he will do it,” says Suresh Kumar G, Founder of the cloud-based theatre management system.
+
+CiniCloud was born out of a problem when MacAppStudio, his other startup, tried building a website for Chennai-based theatre chain AGS Cinemas sometime in 2017. The developers had to connect AGS’ backend to Vista (a decade-old ticketing software), but ended up hitting a roadblock.
+
+CiniCloud serves as an end-to-end integrated platform for theatre management, location management, movie cataloging and scheduling, screen management, seat layout management, parking management, ticketing fulfilment and delivery, and also finance and HR management. It even provides data analytics and insights to admins of cinema chains and single-screen theatres to help them decode cinegoers’ behavioural patterns and preferences across locations.
+
+ALSO READ How Chennai-based CiniCloud can be the Zoho of theatre management systems
+
+Wedding Wishlist
+
+Wedding Wishlist is a wedding gift registry based out of Chennai. Kanika Subbiah started Wedding Wishlist along with Tanvi Saraf and Sathish Subramanian in 2015. The platform offers two services. For the larger part, it is a B2C company that offers wedding technologies (with a focus on gift registries) to engaged couples. Recently, it launched a B2B element to the marketplace model where wedding planners and invitation designers can create storefronts for their products and services.
+
+Couples can sign up for free on the Wedding Wishlist platform. Once they've created an account, the registry builder helps them curate their gift registry step-by-step. They have the option of choosing from home appliances, furniture, kitchenware, tableware, holidays, gift cards, charities, and personal care.
+
+They also have the option of adding gifts, charities, or experiences from any online store that delivers to their city. They can then integrate their registry with their personal wedding website, and share function details, travel information, RSVP, and more with guests.
+
+The platform has completed over 130 gift registries, and sold over 4,000 invites and other tools to date. It is now looking forward to the 2019 wedding season, which will be its first wedding season after hosting value-added services on its platform.
+
+ThoughtBit
+
+This Chennai-based startup allows businesses to file their GST returns, and provides data-driven solutions with the help of its proprietary artificial intelligence (AI) software. IIMA alumni Panneerselvam (Sid Selvam) and Rajeshwaran Venugopal started ThoughtBit in 2017. The startup uses an AI engine, which it claims can parse lakhs of requests in seconds, to help businesses file their returns.
+
+Businesses registered under GST have to file two forms every month. Companies have the option of filing their returns on the government website, but the process can be cumbersome. These companies cannot claim their Input Tax Credit (ITC) until all their suppliers file their taxes.
+
+ThoughtBit is connected to the government system, which allows it to pull data from the official website. The startup provides reports to its clients about suppliers who are non-compliant with GST. Sid adds that the government reviewed the startup's features before giving it a thumbs up.
+
+ALSO READ How this IIM alumni’s startup is using AI to simplify the GST filing process for SMBs
+
+AquaConnect
+
+Started by Rajamanohar Somasundaram, Chennai-based aquaculture startup AquaConnect is organising the hatchery-to-vendor value chain with a tech-based solution and offering improved market access.
+
+Founded in 2017, in a little more than a year, Aqua Connect managed to control about 3,000 aqua farms spread across 1,500 hectares of land in Tamil Nadu and Andhra Pradesh. According to the Coastal Aquaculture Research Institute (CARI), more than 600 farmers have been touched, making it the largest aqua farmers network in South Asia.
+
+It offers a real-time, tech-based farm-monitoring solution, consultations, and aquaculture expertise, and export market access to these coastal farmers. It also organises the entire value chain from hatcheries (that breed shrimps) to ponds to the marketplace. The farmers are also connected with vendors and suppliers, farm input manufacturers (that provide probiotics, water chemicals, manufacture feeds, chemicals, etc.) and exporters.
+
+ALSO READ How Aqua Connect helps shrimp farmers from coastal Tamil Nadu cast their net wide in the export...
+
+Genie
+
+Service app Genie picks up and drops, and even purchases items for customers. The startup also helps expand a business' logistical reach in the city. Genie started off as a personal concierge service, but the founders realised the need to pivot after six months, as they simply couldn't ensure quality control and consumer experience when they were doing several things.
+
+This was when the founders decided to step back and look at different options. Genie decided to cease operations in April 2017 due to its inability to raise funds despite multiple efforts. However, with customer support, they were able to resume operations and even raise a small angel round from a Singapore-based fund.
+
+The Genie for Business (GFB) model is a web dashboard that enables businesses across the city widen their logistical reach by using Genie to deliver products to their customers. Businesses pay Genie an annual subscription for the platform, and get Genie's route planning and load-handling algorithms along with their deliveries.
+
+(Edited by Teja Lele Desai)

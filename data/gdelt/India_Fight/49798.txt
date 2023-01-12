@@ -1,0 +1,51 @@
+Jet Airways CIRP : Need To Adopt UNCITRAL Model Law On Cross Border Insolvency
+
+Jet Airways Case: Background
+
+
+
+The need for the implementation of proper legal framework for Cross Border Insolvency proceedings is triggered in Jet Airways Scenario. District Court in North Holland declared Jet Airways bankrupt on May 22 in response to a complaint filed by two European creditors. A letter was issued by the Dutch trustee (equivalent to insolvency professional in India) appointed by the Dutch Government addressing Ministry of Corporate Affairs and other secured creditors of Jet Airways, including State Bank of India and IDBI Bank, seeking cooperation and permission to access the assets of the Corporation. One of the Creditors in Netherlands seized the Aircraft of the airlines parked in the Schiphol airport of Amsterdam. Lenders of the Airlines Company initiated sale proceedings in April, after it failed to meet its debts.
+
+This case serves as a appropriate reason why there is a need to strengthen the cross border provisions in Insolvency and Bankruptcy Code, 2016 by Implementation of UNCITRAL Model Law on Cross Border Insolvency, 1997.
+
+Cross Border Insolvency
+
+Cross Border Insolvency refers to the situation when a multinational corporation, enterprise or a corporate house which possesses assets and entities in more than one foreign jurisdictions find itself unable to meet its debts resulting into the situation of Insolvency. Globalization has fostered an effective increase in global financial transactions because of which there is a rise in matters pertaining to cross border insolvency. By and large, national insolvency laws, which vary considerably due to differing policies, substantive law, and procedures, have been ill equipped to handle such insolvency matters in an international setting based on transparency, fairness, and predictability. Maxwell Communication Corp, Societe Generale is a watermark case regarding cross border insolvency proceedings. A media company had its headquarters in England with corporate assets in the United Kingdom, the United States and Canada. This case illustrates cooperation between foreign courts on cross border insolvency proceedings.
+
+International Laws on Cross Border Insolvency: Analysis
+
+In the path of attaining Universality in Insolvency Proceedings there are Model Laws that provide appropriate legal framework for cross border insolvency issues:
+
+UNCITRAL Model Law on Cross Border Insolvency, 1997
+
+European Union Regulation on Insolvency Proceedings, 2002
+
+Among these two the UNCITRAL model is more preferable one because provisions of European Union Regulation, 2002 are applicable to the member countries of European Union only. Although, the underlying objective for the enactment of this regulation was to enable efficient and effective commencement of cross border insolvency proceedings and to facilitate co-ordination of the proceedings with regard to debtor's assets. But the regulation consists rules that empower the international jurisdiction of a court in a member state for the opening of insolvency proceedings, the recognition of these proceedings in other member states and the powers of liquidator in other member states and the powers of the liquidator in other member states. The general principle of the Regulation is that "the courts of the member state within the territory of which the center of the debtor's main interests is situated shall have jurisdiction to open insolvency proceedings."[1] Also, regulation states that court of one member state will be able to exercise its jurisdiction only if the assets of the enterprise against which the proceedings is going on is within the territory of that other Member State.[2] It enables automatic recognition of insolvency proceedings in member states only.[3]
+
+Whereas UNCITRAL Model Law is most preferable one because it is more inclined towards attaining universality in insolvency proceedings. It is mainly based on following general principles:
+
+Access: The Model Law enables the foreign representative to appear in local courts. [4]
+
+Recognition: Simplified procedures for recognition of qualifying foreign proceedings and appointing the foreign representative. [5]
+
+Relief: Interim relief is based on the discretion of courts. There will be an automatic stay upon recognition of main proceedings. [6]
+
+Cooperation and Coordination: The model law empowers the cooperation among the courts of states where the debtor's assets are located and coordination of concurrent proceedings concerning that debtor.[7]
+
+The model law is applicable in all the jurisdictions of Insolvency regime. Unlike European Union Regulation, it does not have limitation of applicability to only member states that is why it is adopted by 44 countries in their insolvency laws. The Model Law empowers the attainment of Modified universalism meaning thereby that it seeks the cooperation between local courts and foreign courts for the equal treatment of creditors of both the jurisdictions so insolvency proceedings does not result in being detrimental to any of the jurisdictions.
+
+Cross Border Insolvency: Indian Scenario
+
+In India, Section 234 of the Insolvency and Bankruptcy Code, 2016 empowers Central Government to enter bilateral agreement with countries to resolve situations pertaining to cross border insolvency and Section 235 empowers the Hon'ble Adjudicating Authority to issue letter to the court of such country with whom bilateral agreement has been signed. However, the provisions are not effective considering that being a bilateral agreement only the countries with whom the same have been signed can be enforced under the Code. The need for separate bilateral treaties with foreign governments under the present Code will either become a cumbersome task that will never be completed with respect to all major countries, or it will turn into a nightmare for the judiciary and legal fraternity to keep up with all such agreements.
+
+Doctrine of COMITY: Model Law tends to promote Doctrine of Comity. The doctrine is exception to the principle that Municipal Laws will not have application beyond territorial borders. Comity is regarded as gesture of respect towards the Other Court of Foreign Country. The role of Comity in commerce and cross border transactions has been judicially noted to be grounded in the need to "facilitate the flow of wealth, skill, and people across state lines in a fair and orderly manner", and the principles of order and fairness ensure security of transactions, which necessarily underlie the modern concept of private international law.[8]Doctrine of Comity enables cooperation between courts of two different jurisdictions in which the insolvency proceedings against the same debtor has been initiated. The US Supreme Court elucidated the concept of International Comity in Hilton v. Guyot,[9]
+
+"Comity in legal sense is neither a matter of absolute obligation, on the one hand, nor of mere courtesy and good will, upon the other. But it is the recognition a nation allows within its territory to the legislative, executive or judicial acts of another nation, having regard to both to international duty and convenience, and to the rights of its own citizens or of other persons who are under the protection of its law."
+
+Concluding Look :
+
+
+
+[1] European Union Regulation on Insolvency Proceedings, 2002, art. 3(1) [2] European Union Regulation on Insolvency Proceedings, 2002, art 3(2) [3] European Union Regulation on Insolvency Proceedings, 2002, art 16 [4] UNCITRAL Model Law On Cross Border Insolvency, 1997 art. 9-14 [5] UNCITRAL Model Law On Cross Border Insolvency, 1997 art. 15-24 [6] UNCITRAL Model Law On Cross Border Insolvency, 1997 art. 25-27 [7] UNCITRAL Model Law On Cross Border Insolvency, 1997 art. 28-32 [8] Beals v. Saldanha, (2003) 3 SCR. [9] Hilton v. Guyot, 159 U.S. 113. at pp. 163-64
+
+The reforms in India in the 1990s focused on freedom of entry. It ushered in liberalization, privatization and globalization. India is going in the direction of becoming the world's largest economy, The Central Government of India launched various programmers like Make in India and has entered into agreement with other nation to increase foreign investors, but when it comes to their security India lags behind. In Macquarie Bank v. Shilpi Cable Technologies the apex court held that foreign and domestic creditors are to be kept on equal footing, equivalent treatment of creditors is important to increase their faith regarding investment in the country. Many Countries have already adopted the Model Law in their Bankruptcy Code like United States, Canada, South Africa, Japan and many others, for implementing the principle of modified universalism. But India still does not have the appropriate legal framework for dealing with cross border insolvency proceedings because of which there is turbulence in the insolvency proceedings of cases like Jet Airways. To curb this issue it is necessary to implement the UNCITRAL Model Law on Cross Border Insolvency

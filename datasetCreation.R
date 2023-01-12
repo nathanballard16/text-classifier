@@ -30,7 +30,7 @@ rm(list = ls())
 setwd('D:/Graduate School/text-classifier')
 
 # Path definition of the news archives
-path <- 'D:/Graduate School/text-classifier/data/bbc'
+path <- 'D:/Graduate School/text-classifier/data/gdelt'
 
 # List with the 5 categories
 list_categories <- list.files(path=path)
@@ -69,12 +69,12 @@ df_final <-
 
 # Save dataset: .rda
 # TODO: Rename DATASET/change DATASET location
-save(df_final, file='data/Dataset.rda')
+save(df_final, file='data/Dataset_india.rda')
 
 # Load dataset
 # TODO: if dataset changes above change it here
-load(file='data/Dataset.rda')
+load(file='data/Dataset_india.rda')
 
 # Write csv to import to python
 # TODO: change name of final saved dataset 
-write.csv2(df_final,fileEncoding = 'utf8', "data/News_dataset.csv", row.names = FALSE)
+write.csv2(df_final,fileEncoding = 'utf8', "data/News_India_dataset.csv", row.names = FALSE)

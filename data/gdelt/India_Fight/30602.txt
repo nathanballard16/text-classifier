@@ -1,0 +1,49 @@
+Can the 'One Telangana mobility card' be used to snoop on you? Experts weigh in
+
+Can the 'One Telangana mobility card' be used to snoop on you? Experts weigh in
+
+Mobility cards help a commuter make digital cash payments across transport services. But the data trail could be used to track the commuter and even used by private firms to target advertisements, say experts.
+
+Delve Transportation
+
+Last week in Hong Kong, tens of thousands of protesters flooded the streets protesting against a controversial extradition bill that would allow dissenters to be deported to mainland China. Soon after the police crackdown, when the protestors were returning home, Quartz reporter Mary Hui observed that there was an unusually long queue at the train ticketing machines. The reporter found that protestors were hesitant to recharge their 'Octopus mobility cards' which enables them to use the public transport, fearing they would leave behind a paper trail of having been present at the protest. "We are afraid of having our data tracked," said one female protester to the Quartz reporter who tweeted out her observations in a series of tweets.
+
+Closer home in Telangana, the state government by the end of 2019 would implement the One Telangana common mobility card, which would eventually merge into the National Common Mobility Card (NCMC) project. While activists are careful not to exaggerate, they point out that One Telangana, and the NCMC, lay the path for the government to be able to track the movements of its citizens, enabling large-scale surveillance and possibly breaching our privacy.
+
+The mobility card will help a commuter make digital cash payments across transport services such as buses, metros, monorails, taxis and railways. The cards can also be linked to bank accounts, to make small digital transactions smooth. By extension, the cards will be linked to the KYC forms of the bank. The One Telangana card can hold up to Rs 10,000 a month and be topped up using a Point of Sales machine, the cards can even be used for making minor purchases at where they are accepted, thus leaving behind a trail of transaction data and location data based on the use of public transport of any individual. This data is also gold for any private entity.
+
+Such mobility cards are operational already across cities in India, Hong Kong and other countries and have a similar concept of functioning. In many of these countries, these cards have even helped the police solve murder cases by retracing the movement of the accused.
+
+Privacy and private business: Why transit data is gold
+
+In India, the first mobility card was launched in 2007 at Mumbai but the project had failed due to poor adoption. Then came the NCMC in its present form first launched in Delhi by the then UPA government in 2011, but this initiative too didn't witness much adoption.
+
+NCMC is now operational at Ahmedabad. The plan to set up ticketing machines were stalled at the Bengaluru Metro by the Bangalore Metro Rail Corporation Limited (BMRCL). Meanwhile, the One Telangana card, however, will not be accepted by the Multi-Modal Transport System (MMTS) in Hyderabad operated by the South Central Railway (SCR), while it is unclear at the moment if SCR would adopt NCMC in the long run. "The NCMC as a project is yet to be tested nationally, we still don't know if an NCMC card bought in Delhi would work in the Bengaluru or Chennai metro," says Srikanth L, a contributor for Cashless Consumer, a collective studying digital payments in India. He further added that Hong Kong was the first time anywhere in the world where people have voiced concerns over their movements being tracked through transit data from mobility cards for attending a democratic protest.
+
+But why is the data generated through a person’s transit so valuable? "Common mobility cards like the One Telangana card or the Centre's NCMC would generate transit data of a person's movement across a city and even track the frequency of travel," explains Srikanth. The data could be used for surveillance, even though other forms of tracking such as CCTV cameras pose more invasion into privacy, he pointed out.
+
+The One Telangana mobility card will be technically similar to the NCMC, a pre-paid stored value, touch and pay smart card that would allow the commuter to pay for seamless travel. The Centre has been pushing the states to adopt the NCMC through the Ministry of Electronics and Information Technology.
+
+The data also has other uses. "Over the years the data would reveal details on which part of the city is more economically vibrant if more people are flocking towards that part of town and also if there is a reduction in population density in certain parts of the city as more people are leaving that part of town," points out Srikanth. Further, this data could be used my marketers offering various products to targeted possible customers.
+
+This transit data will help one even predict the feasibility of an upcoming metro line project. "This is helpful in urban governance, but also destructive as the Centre would gain access to this transit data through the NCMC. It would enable the Centre to start dictating which transport or urban projects are feasible, at some level, it will pave way for the taking over of urban governance by the Centre from the state," he warned. An official at Hyderabad Metro Rail Limited (HMRL), however, called this an assumption. "Your assumption seems to be that there is a conflict of interest between the Centre and the states, which is not the case. Both are for encouraging public transport. I won’t respond any further."
+
+But what worries Srikanth more is the use of transit data of state transport units by private entities for commercial gains. The open data on Hyderabad's public transport that is presently publicly available are timetables and frequency of service of the Telangana State Road Transport Corporation (TSRTC). Others states also share their data on their websites that the public can access, this openly available data is mostly used by transport researchers. But this data is also used by taxi aggregators to power their apps algorithms. It helps them find the bus service frequency and expand to localities in the city that are not served by public transport.
+
+"The transit data generated through the mobility cards would not just be in the hands of state, Centre or the transport unit but also with private players who would use the very same public data to identify profitable routes and push for privatised public transport at the policy level," warns Srikanth.
+
+GSR Chaitanya, a transport researcher, also expressed similar fears and is of the view that Telangana is moving to a cashless transport system a little too early. "Am not sure about One Telangana’s rural adoption," said Chaitanya. The researcher says the common mobility card will remove the hassle of carrying change and make travel seamless, at least on the payments side.
+
+Why have KYC for mobility cards?
+
+For better adoption of NCMCs, the Nandan Nilekani-led committee on digital payments had recommended the Reserve Bank of India (RBI) to relax Know Your Customer (KYC) data collection for wallet accounts. The law mandates that any such services have KYC to track transaction data, to monitor any possible money laundering. But it is this KYC form which links the transit data in the card to a particular person, enabling surveillance.
+
+The Centre wants the NCMCs to eventually be made usable at banks and consumer-facing government departments. The push from the Centre is so strong that they even want the metro rails that have already invested on their closed-loop ticketing machines to open loop card systems like the NCMC. The Hyderabad Metro Rail Limited (HMRL) will have to phase out their Nebula card and the compactable ticketing machines while migrating to One Telangana card that is NCMC compliant.
+
+The Nandan Nilekani-led committee even wants the RBI to relax its KYC rules for faster NCMC adoption. But not collecting KYC at the time of issuing NCMC does not mean the Centre won't have access to the transaction data on the mobility card. The committee has suggested the RBI allow banks that have full KYCs of bank account holders to link it with NCMC. With the final draft of the Personal Data Protection Bill 2018 yet to be unveiled, it's still unclear if there will be any oversight on how the data will be used.
+
+The One Telangana card as per their own documents suggests will collect limited KYC of the commuters.
+
+"Limited KYC is One Time Password (OTP) authenticated mobile verification while getting the card, so it's linked to your mobile. If something is limited KYC the data on how much a person has recharged would get shared with the Central government. The state government will also know where all the card has been used, giving options for the state to track a commuter, but again someone can always buy a card and give it to someone thus defeating the purpose," reasons Srikanth.
+
+Chaitanya, on the other hand, is hoping that the RBI accept the Nandan Nilekani-led committee suggestion to waive KYC collection for the NCMC. "The maximum you can load in the One Telangana card is Rs 10,000 a month. People are not indulging in money laundering for such amounts. Privacy concerns aside, not having KYC will help transit authorities issue the cards off the counter reducing commute hassle and faster adoption," he notes.

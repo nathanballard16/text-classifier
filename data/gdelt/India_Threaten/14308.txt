@@ -1,0 +1,39 @@
+Revolutionizing impact: 4IR and humanitarian efforts
+
+The world of work is gearing up for the Fourth Industrial Revolution (4IR), the era of high-speed internet, artificial intelligence (AI), big data analytics, and cloud technology. The impact of these new technologies go far beyond the production line. Experts have been discussing the impact of 4IR on the human workforce, considering aspects such as reskilling and the extent of automation.
+
+While the importance of 4IR in the way we do business is unquestionable, there are other, equally meaningful ways that these new technologies are affecting lives. Institutions have been working on ways to use them for the greater good, coming up with humanitarian applications for various sectors.
+
+A stronger culture
+
+The documentation of human culture and history are constantly threatened by the erosion and destruction of artifacts. For instance, the fire that engulfed the Brazil National Museum in 2018 razed the country’s oldest human fossil and a 5.5-ton meteorite that was almost 300 years old. Through 4IR technologies, both preservative and preventive applications are being developed to protect these priceless treasures.
+
+During the Huawei Asia-Pacific Innovation Day held last September 3, Li Huabiao, director of the data management and analysis center for the National Museum of China discussed their Smart National Museum Project. Using big data, the Internet of Things (IoT), and AI, they are able to create personalized environments for each specimen and even identify potential threats, such as fires, which can cause damage to the infrastructure.
+
+Preservation of written tradition is also underway. For instance, one work being done under the Time Machine project is the digitization of physical manuscripts stored in archives and museums. In 2018, they even developed an algorithm which could outperform humans in transcribing ancient Venetian documents.
+
+These technologies can also be used to build the past– or at least, a comprehensive, intelligent simulation of it. The Venice Time Machine project, a prototype of Time Machine, reconstructed the evolution of the Rialto district over 1000 years, the first of its kind in the world. Time Machine aims to create a simulation of 2000 years of European history.
+
+“Any records that were kept before 2000 basically don’t exist, because we have no means of viewing them,” said Frédéric Kaplan, Director of EPFL’s Digital Humanities Laboratory, in a separate article. “We urgently need to bring our archives into the digital age. We mustn’t lose contact with the past.”
+
+A smarter planet
+
+While these efforts have only demonstrated the need to preserve the past, it is just as important to think about the future. Experts across various industries have been creating solutions for the different ways that the planet is being destroyed.
+
+Take this IoT rain gauge from James Cook University that throws climate data to the cloud. By providing an inexpensive way for farmers to access such information in real time, they are not only guiding them through farming cycles but also preventing harmful chemicals from flowing into the ocean. Fertilizer run-offs often create damage to marine ecosystems such as the Great Barrier Reef, which recently has been showing great signs of deterioration.
+
+In India, the International Union for Conservation of Nature (IUCN) has created a centralized database of run-ins between humans and wild elephants. By analyzing trends such as hotspots and the average time of occurrence, appropriate authorities are able to formulate preventive measures for any more encounters.
+
+“You have an area with many incidents where elephants break houses to get the grain stored in there,” said Dr. Aditya Gangadharan, subregional support officer for the South Asia IUCN, India Country Program. “Now you know that there’s this hotspot for this particular reason, it’s been happening over these years, and so this is where we can focus on improved storage facilities.”
+
+A more hopeful future
+
+4IR tech-driven humanitarian efforts span across different sectors. The Clooney Justice Foundation uses an app in their TrialWatch® project to help monitor for human rights violations in courtrooms all over the world, with the data being collected and analyzed to build a justice rank index.
+
+StorySign analyzes photos of printed text and translates it into sign language through a kid-friendly avatar, helping deaf children develop vital reading skills.
+
+With such powerful technology at our fingertips, the possibilities are truly endless. But ultimately, it is political will that will keep the ball rolling for efforts outside the realm of business.
+
+“Technology is one thing, but it can’t solve everything,” said Professor Xiang Wei, foundation professor and head of discipline of IoT Engineering at James Cook University. “We’ve been using very powerful artificial intelligence and internet of things technology to collect useful information and provide a very powerful predictive engine. But so what?”
+
+“Eventually, it comes down to impact… People like you and me have to take practice.”

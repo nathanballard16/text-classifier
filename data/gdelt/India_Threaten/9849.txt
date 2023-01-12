@@ -1,0 +1,31 @@
+Can India Become an AI Power on Its Own Terms?
+
+India has big plans for AI, but more needs to be done in the area of execution.
+
+Advertisement
+
+The Narendra Modi-led Indian government recently presented its first budget, with ambitious announcements to lay out the roadmap for a $5 trillion economy. The new Union Budget has indicated a policy intention to equip India’s youth with new-age skills for attaining high-value jobs.
+
+With regard to the government’s approach to put this intent into action, Finance Minister Nirmala Sitharaman laid emphasis on the government’s plans to focus on areas like artificial intelligence, big data, and robotics in its skill-enhancement programs so as to develop capacities for the country’s dynamic participation in the so-called fourth industrial revolution. This is consistent with the government’s proposals in the interim-budget presented in February 2019, when the erstwhile Finance Minister Piyush Goyal had announced that the Union Government had envisaged a National AI Program with aim to “take the benefit of the new technology to the common people.” Under this program, a hub of Centers of Excellence, National Center for AI, is envisioned in addition to a National Portal for AI to emphasize nine priority areas including agriculture, health, education, and skill-development.
+
+The Niti Aayog, the government’s policy think tank, had steered the project to lay the roadmap for the gainful leveraging and transformation of economic systems as well as a legal regulatory framework so as to ensure a vibrant AI ecosystem. The Niti Aayog published a discussion paper titled National Strategy for Artificial Intelligence in 2018 where it decided to focus on five sectors: healthcare, agriculture, education, smart cities and infrastructure, and smart mobility and transportation.
+
+While the Niti Aayog’s focus on social inclusion and transformation is significant, India’s policy makers need to be aware of the challenges posed by automation. As stated by the World Bank, 69 percent of all jobs in India are under threat due to automation. A study by EY and Nasscom predicts also that by 2022, around 46 percent of the workforce will be engaged in entirely new jobs that do not exist today, or will be deployed in jobs that have radically changed skill sets.
+
+Diplomat Brief Weekly Newsletter N Get briefed on the story of the week, and developing stories to watch across the Asia-Pacific. Get the Newsletter
+
+These policy developments must be understood in the context of a recent LinkedIn report, where India ranks 3rd in terms of penetration of AI skills among its workforce, followed by Israel and Germany even as the United States and China were the top two countries on the list. Moreover, the global AI market was valued at $16.06 billion in 2017 and is expected to grow to $190.61 billion by 2025, at a CAGR of 36.62 percent. Hence, the growing realization that AI can play a crucial role in key sectors like capacity building, education, health, financial services, and logistics is a positive sign.
+
+Enjoying this article? Click here to subscribe for full access. Just $5 a month.
+
+India’s push to bridge the AI Research and Development gap with China has not been as successful, as India is way behind China in terms of policy vision, execution, and investment in AI. The biggest impediment to India’s success in AI is the highly inadequate budgetary allocation and policy priority given to this sector. This is in stark contrast with China’s situation. China’s State Council has issued a Next-Generation Artificial Intelligence Development Plan in 2017, and the municipal government of Tianjin, near Beijing, has announced a $5 billion fund to support the AI industry. Beijing has adopted a holistic strategy. The Education Ministry in China has directed different levels of government, to allocate a significant percentage of their budget towards digitization of education.
+
+China is set to be the pioneer in AI research even as it aims to surpass the United States to become the world leader in 2030. It has a huge lead over India in terms of high-quality research publications in AI. As an example, the number of‘citable documents’ on AI in peer-reviewed journals between 2013-2017 for India was 12,135, while China had 37,918 documents.
+
+India has started taking cue from China’s efforts to incorporate Artificial Intelligence as a subject at the school level. A similar proposal had been made by a startup platform for students from classes 8-10 in January 2019 in India.
+
+Advertisement
+
+For transition to AI to be successful, it is imperative that New Delhi and state governments work in tandem as has been the case in China, where there has been much better coordination between Beijing and the provinces. This would be important for India and its vast young population to take a plunge into the new-era job and skills market even as India counters growing concerns of underemployment and unemployment. Second, courses introduced should be useful for students and help them in gainful employment. Third, the private sector needs to step up its efforts in research and development as well as incubation and encouragement of promising AI startups. Ultimately, a calibrated policy approach between various stakeholders is the way forward for India to get this right.
+
+Tridivesh Singh Maini is a New Delhi based Strategic Analyst associated with The Jindal School of International Affairs, OP Jindal Global University. Prannv Dhawan is a student of Law and Social Sciences at the National Law School of India University, Bengaluru, India.

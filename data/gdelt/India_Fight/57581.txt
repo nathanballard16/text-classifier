@@ -1,0 +1,77 @@
+Explained: Why NPR isn’t NRC, and yet…
+
+ON TUESDAY, the Union Cabinet approved over Rs 3,900 crore for a National Population Register (NPR). Coming in the backdrop of nationwide protests over the Citizenship Amendment Act (CAA) and the proposed all-India National Register of Citizens (NRC), the NPR is being seen by many as the first step towards the NRC, while the Centre has sought to delink the two. The governments of Kerala and West Bengal have already announced that they will not implement NPR.
+
+What is NPR?
+
+The NPR is a list of “usual residents of the country”. According to the Home Ministry, a “usual resident of the country” is one who has been residing in a local area for at least the last six months or intends to stay in a particular location for the next six months. NPR is not a citizenship enumeration drive, as it would record even a foreign national staying in a locality for more than six months. This makes NPR different from the NRC, which includes only Indian citizens while seeking to identify and exclude non-citizens.
+
+How do I get enrolled in NPR?
+
+The NPR is being prepared under provisions of the Citizenship Act, 1955 and the Citizenship (Registration of Citizens and issue of National Identity Cards) Rules, 2003. It is mandatory for every “usual resident of India” to register in the NPR. Only Assam will not be included (as per a notification by the Registrar General of India in August), given the recently completed NRC in that state.
+
+Read | National Population Register won’t be used for NRC, clarifies Javadekar
+
+NPR will be conducted in conjunction with the house-listing phase, the first phase of the Census, by the Office of Registrar General of India (RGI) for Census 2021. It is conducted at the local, sub-district, district, state and national levels. The RGI has already begun a pilot project in 1,200 villages and 40 towns and cities through 5,218 enumeration blocks where it is collecting various data from people. The final enumeration will begin in April 2020 and end in September 2020.
+
+Is NPR connected to NRC?
+
+The Citizenship Act empowers the government to compulsorily register every citizen and maintain a National Register of Indian Citizens. A nationwide NRC — if undertaken — would flow out of NPR. This does not necessarily mean that an NRC must follow NPR — no such register was compiled after the previous NPR in 2010. After a list of residents is created, a nationwide NRC — if it happens — could go about verifying the citizens from that list.
+
+The Home Ministry issued a statement saying, “There is no proposal at present to conduct a nationwide NRC based on the NPR data.” Home Minister Amit Shah too said in an interview to ANI that the two were not connected and that NPR data would not be used for NRC.
+
+Earlier, Shah had said several times that there would be an NRC across the country and even repeated in Assam. Statements linking the NPR and NRC have been made by the government in Parliament and the Home Ministry’s latest annual report. In November 2014, then Minister of State for Home Kiren Rijiju had told Rajya Sabha, in a written reply to CPI MP Dr T N Seema: “The NPR is the first step towards creation of National Register of Indian Citizens (NRIC) by verifying the citizenship status of every usual residents.”
+
+The 2018-19 Annual Report of the Home Ministry also says the NPR is the first step towards implementation of the NRC. “The National Population Register (NPR) is the first step towards the creation of the National Register of Indian Citizens (NRIC) under the provisions of the aforementioned Statute (Citizenship Act),” the Annual Report said.
+
+What else makes NPR controversial?
+
+Another debate has been about privacy. The NPR intends to collect many details of personal data on residents.
+
+The NPR is among a host of identity databases such as Aadhaar, voter card, passport and more that Home Minister Shah said he would like to see combined into one card. “We will have to end all these separate exercises,” Shah said at the foundation stone laying ceremony for the new Office of Registrar General of India and Census Commissioner on September 24.
+
+If there was a previous NPR, how and when did the idea originate?
+
+At that time, it had clashed with Aadhaar (UIDAI) over which project would be best suited for transferring government benefits to citizens. The Home Ministry then pushed NPR as a better vehicle because it connected every NPR-recorded resident to a household through the Census. The ministry push even put the UIDAI project on the back-burner.
+
+The data for NPR was first collected in 2010 along with the house-listing phase of Census 2011. In 2015, this data was updated by conducting door-to-door surveys.
+
+However, with the NDA government picking out Aadhaar as the key vehicle for transfer of government benefits in 2016 and putting its weight behind it, NPR took a backseat. It was through a notification on August 3 by the RGI that the idea has been revived. The exercise to update the 2015 NPR with additional data has begun. Digitisation of updated information has been completed.
+
+What kind of data will be collected?
+
+The NPR will collect both demographic data and biometric data, although for the latter it will depend upon Aadhaar. In the last NPR in 2010, data were collected on 15 aspects; in the 2020 NPR, there are 21 data points. Again, three of the data points from 2010 (father’s name; mother’s name; spouse’s name) have been clubbed into one in the 2020 exercise, so that, in effect, there are eight new data points, including the contentious “date & place of birth of parents”:
+
+* Aadhaar Number (voluntary)
+
+* Mobile Number
+
+* Date & Place of Birth of Parents
+
+* Place of Last Residence
+
+* Passport Number (if Indian passport holder)
+
+* Voter ID Card Number
+
+* Permanent Account Number
+
+* Driving Licence Number
+
+In the test, the RGI is seeking these details and working to update the Civil Registration System of birth and death certificates.
+
+What if one does not have such details?
+
+According to Home Ministry sources, while registering with NPR is mandatory, furnishing of additional data such as PAN, Aadhaar, driving licence and voter ID is voluntary. “We are reposing trust on citizens,” Union minister Prakash Javadekar said on Tuesday while announcing the Cabinet decision. The ministry has also floated the option of residents updating details for NPR online.
+
+Why does the government want so much data?
+
+While there are concerns about privacy, the government position is based on two grounds. One is that every country must have a comprehensive identity database of its residents with demographic details. In its statement issued after Cabinet approval to NPR, the Home Ministry said the objective of conducting NPR is to “prepare a credible register of every family and individual” living in the country apart from “strengthening security” and “improvement in targeting of beneficiaries under various Central government schemes”.
+
+The second ground, largely to justify the collection of data such as driving licence, voter ID and PAN, is that it will will ease the life of those residing in India by cutting red tape. “It is common to find different dates of birth of a person on different government documents. NPR will help eliminate that. With NPR data, residents will not have to furnish various proofs of age, address and other details in official work. It would also eliminate duplication in voter lists,” an official said.
+
+Officials, however, insist that NPR information is confidential, meaning it will not be shared with third parties. There is as yet no clarity on the mechanism for protection of this vast amount of data that the government plans to collect.
+
+What does one make of the defiance of West Bengal and Kerala?
+
+These Opposition-ruled states are making a political point. Citizenship, aliens and naturalisation are subject matters listed in List 1 of the Seventh Schedule that fall exclusively under the domain of Parliament. Legally, the states have no say in implementing or ruling out NPR. However, given that the manpower is drawn from the states, the defiance could potentially result in a showdown.

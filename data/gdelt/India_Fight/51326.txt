@@ -1,0 +1,13 @@
+Realme XT Update Brings Nightscape Mode for Front Camera, November Security Patch, More
+
+Realme has begun the rollout of a new software update for its first 64-megapixel quad-camera phone – the Realme XT. The latest update, which is currently being rolled out to Realme XT users in India, comes with a host of camera-related optimisations and enhancements such as the addition of nightscape mode for the front camera, and the improvement to the fingerprint recognition system among others. Additionally, the Realme XT has also received the November Android security patch with the latest software update, alongside a fix for multiple issues related to the camera app, display, and connectivity.
+
+The latest Realme XT update carries the build number RMX1921EX_11.A.12 and is 2.84GB in size, however, it is based on Android Pie with Color OS 6.1 on top. Realme has promised an Android 10 upgrade for the phone in the first quarter of 2020. As for the update's changelog, the most notable one is the arrival of nightscape for the front camera, which means Realme XT users can now click brighter selfies in low-light scenarios.
+
+In addition to it, Realme has also made necessary optimisations to improve photo clarity while using WhatsApp's in-app camera interface as well the quality of videos recorded by the wide-angle camera. Additionally, the company has optimised the camera algorithms to minimise noise in the photos shot in dark environments. Moreover, the update claims to have worked upon the clarity of photos captured at the full 64-megapixel resolution by the Realme XT's main camera.
+
+Aside from camera optimisations and quality improvements, the update has also fixed a host of issues. The fresh Realme XT update claims to have resolved a bug that caused the camera app to crash when switching to the dedicated 64-megapixel mode. It has also improved the fingerprint recognition probability and has fixed the partial display issue as well as another bug that caused registration problems with a VoWi-Fi network to the partial carrier.
+
+You can check for the Realme XT's November update by going to the software update section in the phone's Settings app, or alternatively, you can manually download the update file from Realme's official update support page here.
+
+Affiliate links may be automatically generated - see our ethics statement for details.

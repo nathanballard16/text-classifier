@@ -1,0 +1,107 @@
+Immigration Considerations for Construction Industry Employers
+
+Construction companies seek to employ talented professionals, such as engineers, architects and project managers, to ensure their construction projects, large and small alike, are completed on time and on budget while maintaining the highest quality and safety standards. Talented candidates come from all over the world. As such, construction companies must understand the employment-based immigration factors that affect their U.S. workforce to be as competitive as possible in recruiting, hiring and retaining top-level talent.
+
+This primer provides fundamental information on immigration topics, options and compliance considerations for construction companies and their professional workforce. Please contact the authors for questions regarding non-professional positions that may qualify for a nonimmigrant visa, such as the H-2B, or an immigrant visa.
+
+Employment-Based Nonimmigrant (Temporary) Visa Categories
+
+H-1B – Specialty Occupation
+
+The H-1B visa is one of the most common professional visas for businesses that need to hire professional, qualified non-U.S. citizen talent. The H-1B visa classification is for specialty occupations, which are occupations that require: (1) theoretical and practical application of a body of highly specialized knowledge; and (2) attainment of a bachelor’s or higher degree in the specific specialty (or its equivalent) as a minimum requirement for entry into the occupation in the United States. The foreign national employee must meet the requirements for the position, including having a bachelor’s degree (or its equivalent based on years of work experience) or higher in a field related to the occupation. The employer must also demonstrate that it is offering the prevailing wage for the occupation in the proposed labor market.
+
+For many construction companies, architects, engineers and project managers are typical H-1B-eligible positions. Professional engineering positions may or may not require licensure. Trade workers, such as electricians and plumbers, do not qualify for H-1B status. Understanding the limitations of this visa category and its applicability to a construction workforce is key for a construction company when developing its workforce.
+
+A significant challenge for employers seeking to sponsor an H-1B worker is the annual limit on the number of H-1B visas available. The annual cap is 65,000 new H-1B visas, plus an additional 20,000 H-1B visas for individuals who have graduated with a master’s degree or above from a U.S. university. In recent years, U.S. Citizenship and Immigration Services (USCIS) has imposed a random lottery on all new petitions as a method to fairly determine which petitions get reviewed, as more petition were submitted than there were available visas. In other words, there is no guarantee that an employer will be able to secure an H-1B visa for a qualified employee.
+
+If a candidate for a professional position is already working in the U.S. in H-1B status, the new employer may submit an H-1B petition on his or her behalf at any time, bypassing lottery. Foreign national employees have a maximum of six years of H-1B status available to them, although that maximum can be exceeded if the employee has begun the green card process. Where possible, employers seeking to hire individuals who already hold H-1B status should determine how many years of H-1B status remain so they can factor strategies regarding the timing of starting the green card process into the hiring decision.
+
+As stated above, an employer must demonstrate that it is offering the prevailing wage in the proposed labor market for the occupation. Therefore, when an H-1B employee moves to a new position or work location, the employer may be required to file an amended H-1B petition. An amended H-1B petition must be filed prior to the employee changing positions or work locations. When such a proposed change arises, the employer should contact immigration counsel to determine the consequences of the change regarding the employee’s immigration status.
+
+Scrutiny on H-1B petitions has increased dramatically since 2017. Requests for Evidence (RFEs) and even denials have been issued by USCIS at an unprecedented rate, causing processing delays and headaches for businesses that require H-1B visas for professional staff. As of June 2019, the RFE rate on H-1B petitions (whether for first-time or extension petitions) is above 60%.
+
+TN – Mexican and Canadian Professionals
+
+The TN is a visa option for Mexican and Canadian professionals in certain occupational categories that allows for U.S. work authorization. For construction companies, common TN occupational categories include Engineer and Architect.
+
+To qualify in the TN categories of Engineer or Architect, the beneficiary must:
+
+Be a citizen of Canada or Mexico.
+
+Hold a degree in a field related to the category or a state/provincial license, i.e. any document issued by a state, provincial, or federal government or under its authority (but not by a local government) that permits a person to engage in a regulated activity or profession.
+
+Have a job offer from a U.S. employer.
+
+Note that while the TN occupational category of Scientific Technician/Technologist may seem applicable to certain positions within a construction company, individuals working in the construction trades will not be admitted under this category.
+
+The initial period of stay in the U.S. in TN status is up to three years. Individuals who wish to remain in the U.S. beyond the initial three-year period must either file for an extension of stay with USCIS or depart from the U.S. and reapply for TN status. TN extensions of stay are usually granted in three-year increments.
+
+There is no limit on the number of years one can work in TN status, although individuals may receive further questioning from immigration authorities when multiple extensions are filed. There are no limits on the number of new TN visas available in a given fiscal year.
+
+L-1 Visa – Intracompany Transfer
+
+The L-1 visa category is intended for individuals working in either a specialized knowledge or managerial/executive capacity abroad for at least 12 months in the previous three years to come to the U.S. to work for an affiliated entity in either a specialized knowledge or managerial/executive capacity.
+
+Construction companies must demonstrate their employee possesses specialized knowledge and/or sophistication with proprietary processes, systems or applications to qualify for an L-1B specialized knowledge visa. Like H-1Bs, this category has come under scrutiny in recent years.
+
+There are no numerical limits on L-1 visas. For L-1A managers and executives, the total period of authorized employment is seven years (three years of initial validity plus two two-year extensions). For L-1B workers, that total period of authorized employment is five years (three years of initial validity plus one two-year extension).
+
+E-3 – Australian Professional
+
+Australian citizen professionals who otherwise qualify under the H-1B standards described above may seek E-3 status. Although not used as frequently as the H-1B category, employers should keep the E-3 visa category in mind for potential Australian hires.
+
+H-1B1 – Chile and Singapore Professionals
+
+Employees who are citizens of Chile and Singapore who otherwise qualify under the H-1B standards described above may seek H-1B1 status. Although infrequently used, employers should keep the H-1B1 category in mind for potential Chilean and Singaporean candidates.
+
+F-1 – International Students
+
+Most foreign students in the United States have F-1 student visas. F-1 students are allowed to work only in very narrow circumstances. F-1 students are generally allowed to work for one year after graduation in Optional Practical Training (OPT). They may work for any employer in OPT as long as the work is closely related to his or her field of study. Currently, students in STEM fields may seek additional OPT work authorization for an additional 24 months if the employer uses the E-Verify employment verification system.
+
+B-1 Visa – Business Travel
+
+The B-1 visa is available to foreign nationals for temporary business visits to the United States. The B-1 visa is available for business travel for a specific and limited period of time. Permissible business activities include, but are not limited to, consulting with business associates, participating in short-term training, attending professional conventions or conferences, or negotiating a contract. The maximum amount of time permitted in B-1 status on any one trip is one year. The B-1 visitor is prohibited from engaging in any hands-on, productive work. Individuals from certain countries may be eligible to enter the U.S. without a visa. In recent years, B-1 business visitors have come under scrutiny when seeking admission to the U.S. Customs and Border Protection. Officials are now seeking additional information to demonstrate that the nature of the visit complies with B-1 rules and may request meeting agendas, calendar appointments and other evidence to prove the reason for the visit.
+
+Permanent Residency (Green Card) Process
+
+All of the above nonimmigrant visa categories are temporary. An employee in one of these visa categories may be allowed to work for a few years in the United States; however, if the company wishes to employ the individual beyond the time limit of the nonimmigrant visa category, it must sponsor the employee for permanent residency, commonly known as a green card. Permanent resident status authorizes a foreign national to reside and work in the United States permanently.
+
+The permanent residency process usually takes at least a few years and can take much longer if the employee was born in India or China. Given the limited amount of time of certain temporary visas as discussed above, employers should be mindful of this timing, as well as the timing to start the permanent residency process. Additionally, some temporary visa categories, such as TN, do not provide a good platform to seek permanent residency, so it is often necessary to first change the employee’s status to another visa category that that serves as a more effective platform, such as H-1B.
+
+There are generally three steps to the permanent residency process: (1) PERM labor certification, (2) I-140 immigrant visa petition and (3) I-485 adjustment of status application.
+
+The PERM labor certification process requires the employer to advertise and conduct a good faith recruitment effort to see if there are more qualified U.S. applicants available for the position. The employer must also demonstrate that it is offering the prevailing wage for the occupation in the proposed geographic location. The advertising and recruitment must be conducted according to strict requirements.
+
+If PERM is approved, the employer then files an I-140 petition. The I-140 petition process confirms that the foreign national meets the requirements for the position and that the employer can pay the required salary.
+
+After I-140 approval, depending on the foreign national’s country of birth, it may take time for a green card quota number to become available. The wait can be as short as a few months or extend to a few years or more. Once a quota number is available, I-485 adjustment of status applications are filed for the foreign national and immediate family members. Permanent resident status is granted, and green cards are issued upon approval of the I-485 applications.
+
+A very limited number of foreign nationals employed in the construction industry are eligible to skip the PERM labor certification step. Their green card cases start with an I-140 petition, most likely in the multinational executive/manager category. For this category, the foreign national must have been or currently be employed abroad in executive/managerial capacity for at least one of the past three years (or if in the U.S., for at least one year in the three-year period before initially coming to the U.S.) and seek to enter the U.S. to provide executive/managerial service to the same employer or to a subsidiary, parent, branch or affiliate. This can be a good option for construction executives and managers.
+
+Hiring, Work Authorization and I-9 Compliance
+
+Hiring the most qualified employees is critical to growing any business. During interviews, construction companies may be eager to identify key skills and attributes to ascertain “fit.” However, certain questions may run afoul to federal and state antidiscrimination provisions, including questions focused on nationality or immigration status.
+
+According to the Department of Justice’s Immigrant and Employee Rights section, employers may ask the following two questions on job applications and during interviews (and should ask these questions uniformly of all applicants, regardless of citizenship):
+
+Are you legally authorized to work in the United States?
+
+Will you now or in the future require sponsorship for employment visa status (e.g., H-1B visa status)?
+
+Work authorization and immigration questions beyond these two questions run the risk of violating the antidiscrimination provisions of the Immigration and Nationality Act. Employers should seek experienced counsel if sponsorship or other work authorization issues arise during an interview or other hiring conversation.
+
+The two questions mentioned above are applicable in the interviewing context. Once an individual has accepted an offer of employment, an employer must verify his or her identity and U.S. work authorization. All U.S. employers have an obligation to confirm the work authorization and identity of all employees hired after November 6, 1986 by properly completing and retaining a Form I-9.
+
+All U.S. employers have three primary obligations when completing a Form I-9 (for any employee, not just employees who are not U.S. citizens or permanent residents):
+
+Ensure that the I-9 is completed accurately and thoroughly, including ensuring that the employee properly completed Section 1.
+
+Ensure that the documents presented by the employee relate to that employee.
+
+Ensure that the documents look reasonably genuine on their face.
+
+In many cases, completing the Form I-9 is a straightforward process. However, even sophisticated employers can get tripped up when employees present expiring work authorization documents or documents that have unique auto-extension rules. Failure to have an accurate, up-to-date and verified Form I-9 on file for every employee can be very costly in the event of an audit.
+
+Construction companies, especially those with remote workers, workers hired at temporary worksites, hourly employees or employees with temporary work authorization, can face steep fines for failure to follow I-9 regulations. Ensuring that the person or team that handles I-9s completes regular I-9 training and has access to outside counsel for questions is critical. Even the most established construction companies face challenges in complying with I-9 rules. Employers must not solely rely on a sophisticated electronic I-9 system to solve compliance challenges — the human factor in reviewing and completing I-9s can never be completely automated. Ongoing training, self-audits and staying up-to-date with Form I-9 (and, where applicable, E-Verify) rules are essential for compliance.
+
+Securing approval to employ foreign nationals in the United States is becoming more difficult. However, with some forethought in recruiting and upfront strategizing about appropriate immigration options, U.S. construction companies may continue to employ a diverse and talented workforce from around the world.

@@ -1,0 +1,49 @@
+BS VI Norms: A Complete Lowdown
+
+BS VI norms will come into effect next year | Photo Credit: BCCL
+
+Bharat Stage emission norms, first announced nearly two decades ago, are the benchmarks aimed at regulating release of air pollutants from automobiles. Based on European emission norms, every Bharat Stage iteration ushers in more stringent restrictions on emissions. The Central Pollution Control Board under the Union Ministry of Environment, Forests, and Climate Change introduces BS-I in 2000, followed by BS-II in 2005, BS-III in 2010, and BS-IV in 2017. Unfortunately, the deteriorating state of pollution in India prompted the government to undertake far-reaching measures, one of them being the decision to skip BS V and jump straight to BS VI.
+
+What is BS VI?
+
+BS VI refers to the sixth stage of the Bharat Stage emission norms. One of the most consequential differences between the current BS IV and the upcoming BS VI norms is sulphur content in fuel. BS IV-compliant fuel contains 50 ppm (parts per million) sulphur, while BS VI fuel has just 10 ppm sulphur. Furthermore, compared to BS IV, NOx (oxides of nitrogen) emission limits are cut down by 68 per cent for light duty diesel vehicles, while that for light-duty petrol vehicles are reduced by 25 per cent.
+
+For light-duty diesel vehicles, BS VI also includes heightened particulate matter (PM) emission standard and a particle number (PN) emission limit of 6×1011/km. The BS VI proposal also institutes PM and PN emission limits for
+
+light-duty gasoline vehicles though they are applicable only for vehicles that get direct injection engines.
+
+BS VI also includes a crucial change in vehicle type approval procedures for light-duty vehicles. It mandates the use of portable emissions measurement systems (PEMS) for in-service conformity testing. This, in turn, will help make sure that the emissions performance observed during in laboratory-based emissions testing is maintained in real world driving conditions as well.
+
+When will BS VI come into effect in India?
+
+Last year in October, the Supreme Court banned the sale of BS IV vehicles from 1 April, 2020 and also refused to give any grace period to automobile manufacturers for the sale of vehicles not in compliance with BS VI after the the aforementioned deadline. Simply put, the BS 6 norms come into effect from 1 April, 2020.
+
+How will this affect automakers and buyers?
+
+For automobile manufacurers, the implementation of BS VI norms will translate into a jump in investments in technology that will enable them to upgrade the vehicles they already have in stock and making new vehicles that are compliant with the regulations.
+
+And for buyers, it means they will be spending a tad more. This is because the additional cost required to manufacture BS VI-compliant vehicles will be invariably be passed on to buyers. Besides that, vehicle owners will also pay more for BS 6-compliant fuel. For now, state-run oil companies don’t intend to recover the increased cost involved in the production of the higher quality BS VI fuel from customers, but they are expected to do so after April 2020.
+
+And to further allay any confusions, we have also compiled a list of the cars that will most likely be phased out in 2020 once the BS VI norms are enforced:
+
+
+
+Mahindra Novosport
+
+Fiat Linea (Diesel)
+
+Fiat Punto (Diesel)
+
+Fiat Avventura (Diesel)
+
+Tata Indigo eCS
+
+Tata Sumo
+
+Tata Zest
+
+Tata Bolt
+
+Tata Nano
+
+While some may be inclined to describe the leapfrog to BS VI as too little, too late, the truth is that it is a commendable step -- one that will play a crucial role in dealing with India's air pollution.

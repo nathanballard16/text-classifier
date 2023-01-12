@@ -1,0 +1,171 @@
+From iPhone X to that MacBook keyboard: Tim Cook's hits and misses
+
+WWDC 2021
+
+The day before he was set to address thousands of developers, Apple CEO Tim Cook walked into a cavernous conference space at the San Jose McEnery Convention Center. The room was empty except for a few reporters, some Apple execs and about a dozen students who'd won scholarships to attend the company's annual Worldwide Developers Conference.
+
+Cook was there to surprise the students -- and that he did. He worked the room, talking to the burgeoning developers and getting quick demos of projects they'd developed using Apple's Swift coding tools. And he posed for selfies. So many selfies.
+
+"He's really cool," said Kirill Averianov, a 17-year-old developer who's been writing iOS apps in his native Russia for nine years. "It was quite an experience," added Will Bishop, also 17, who'd journeyed from Australia. "I've only ever seen him on stage. They didn't tell us he'd be here."
+
+Now playing: Watch this: Everything Apple announced from its WWDC 2019 keynote
+
+Cook is part of a cadre of executives with rock star status in the tech industry. But he's not like Facebook's hoodie-wearing Mark Zuckerberg or Tesla's big-talking, big-tweeting Elon Musk. Instead of pushing grandiose or hyperdisruptive visions for the future, Cook is more grounded. He's expanded Apple's product lineup, moving into new categories like smartwatches and smart speakers, but he also shows restraint when it comes to jumping into markets. That long-rumored Apple car? No sight of it.
+
+Perhaps nowhere is Cook more of a cult figure than at WWDC.
+
+Apple Report All the latest Apple news delivered to your inbox. It's FREE!
+
+The annual confab, which ends Friday, is where Apple sells developers on the next generation of its software for iPhones, iPads, Apple Watches and Macs. While some of the news from the conference is pretty technical (like updates to its programming language), Apple's also persuading consumers to wait for its upcoming devices. It's saying, why buy the new Galaxy S10 or OnePlus 7 Pro, when Apple will introduce new gadgets -- and give old devices a facelift with software updates -- in a few months?
+
+The man behind all of that is Cook. He took over as permanent CEO of Apple on Aug. 24, 2011, as Steve Jobs reached the end of his battle with pancreatic cancer. In Cook's nearly eight years as CEO, Apple became the US' first trillion-dollar company but only a few months later saw its value slide below that of rivals like Microsoft. It's sold about 2 billion iPhones, but is facing pressure from a slowdown in the overall smartphone market. It's released new products in new categories but hasn't yet introduced anything as life-changing as the iPhone.
+
+This year at WWDC, Apple displayed Cook's vision for the next era of Apple, one in which it isn't all about the iPhone. And it comes at a time Apple's moved on from being beholden to a figurehead.
+
+"Apple is no longer a one-man band," Creative Strategies analyst Carolina Milanesi said. "Apple is a different company than it used to be."
+
+Apple didn't have anything to add to comments Cook made at WWDC and in an interview with CBS.
+
+Hits
+
+iPhone
+
+By every measure, the iPhone has been a success. Cook wasn't CEO when the first model hit the market in 2007, but he did oversee Apple's push to expand the lineup, both in screen size and market availability.
+
+In 2014, Apple introduced its first big-screen iPhones -- the 6 and 6 Plus -- after years of saying it didn't want to boost the display dimensions much above the 4 inches of the iPhone 5S. In 2017, the company ditched the home button in favor of Face ID and a bigger, edge-to-edge screen in the iPhone X.
+
+Cook struck a deal with China Mobile in late 2013 to bring the iPhone to the world's largest carrier in one of the world's largest markets. And he's expanded into India and various other areas where Apple previously didn't have a formal presence.
+
+He's also succeeded in getting us to spend more money on our iPhones (and other Apple devices) than before. When Apple launched its iPhone X, some wondered if the $999 price tag would scare away consumers. Instead, the iPhone X became Apple's best-selling device up to the time.
+
+James Martin/CNET
+
+All of those moves during Cook's tenure have helped Apple become one of the world's richest companies.
+
+But the iPhone is also one of Apple's biggest challenges going forward. Fewer people are upgrading as frequently as before. iPhone sales fell for the first time ever in 2016, and in January of this year, Apple issued a rare warning -- its first in nearly 17 years -- that its fiscal first-quarter financial results wouldn't be as strong as it had anticipated.
+
+Apple, which has long generated about two-thirds of its revenue from the iPhone, has worked to diversify its operations beyond its popular phone, but there's nothing that's yet close to the size of the iPhone business.
+
+At WWDC this week, though, Apple made several announcements that "spoke to a company moving forward," as Stratechery's Ben Thompson put it. That included the death of iTunes, the introduction of a new operating system specifically for iPads (called iPadOS) and the unveiling of an App Store on the Apple Watch.
+
+"It is a statement from Apple that the non-iPhone parts of its business still matter," Thompson wrote. "There is more urgency than there may have been even six months ago, and that is a great thing: better urgency than complacency."
+
+Services
+
+Cook sees services as its next big opportunity. The area, which includes the App Store and Apple Music, has soared thanks to all of us who own the 1.4 billion active Apple devices out there.
+
+In March, Apple hosted its first services-focused event, where it unveiled its first TV streaming service. Along with jumping into TV and music streaming, Apple introduced a gaming service called Apple Arcade and launched news subscriptions. It even plans to offer its own credit card, the Apple Card, this summer. Whether these services will be successful remains a question until they actually launch.
+
+The biggest part of Apple's services business remains the App Store, which has been facing scrutiny in over the last few months. In May, the Supreme Court ruled that iPhone owners can sue Apple for allegedly operating a monopoly through its App Store, which is the only way you can add apps to your iPhone and iPad. The day after Apple's WWDC keynote, a group of developers sued the company, saying Apple's practices hurt competition. Amazon, Netflix, Spotify and other heavyweights that aren't involved in the suit have also criticized Apple's App Store model.
+
+There also has been an outcry from parental control app makers that Apple unfairly banned their software because their apps compete with Apple's own software. Apple ultimately reversed its decision and reinstated the apps earlier this week. The company ahead of WWDC published an explainer page outlining its App Store policies.
+
+To continue growing Apple's services business, Cook also has to find a way to keep both regulators and developers happy. For the latter group, WWDC plays a key role.
+
+Cook, talking with Norah O'Donnell on CBS News earlier this week said Apple is not a monopoly. "If you look at any kind of measure about is Apple a monopoly or not, I don't think anybody reasonable is going to come to the conclusion that Apple's a monopoly," he said. "Our share is much more modest. We don't have a dominant position in any market."
+
+(Disclosure: CBS News is owned by CBS, the parent company of CNET.)
+
+Equality and the environment
+
+Under Jobs, Apple largely avoided weighing in on social or cultural issues. But that's changed with Cook as CEO. He came out as gay in October 2014, giving a boost to the lesbian, gay, bisexual and transgender movement, and he's pushed for more diversity at the company. Cook has been a proponent for more equality and has made Apple more charitable, eschewing Jobs' belief that the company didn't need to donate money because it paid enough in taxes.
+
+Apple has also moved to make itself greener. Last year, it said that all of its facilities around the world now run on 100 percent clean energy. That includes the company's retail stores, offices, data centers and co-located facilities in 43 countries. It also has gotten some of its suppliers to vow to run on all renewable energy.
+
+During a shareholder meeting in 2014, Cook told a conservative finance group that Apple doesn't "consider the bloody [return on investment]" when it comes to things like accessibility, environmental issues and worker safety. "We want to leave the world better than we found it," he said.
+
+I'm worried that we're all losing the humanity of this, and getting lost in numbers and politics. Tim Cook
+
+Cook hasn't been shy about politics and working with President Donald Trump. Last year, Cook called for an end to the "inhumane" separation of immigrant families and has pressed the administration to find a way to let Dreamers -- people who were brought to the US as young children -- stay in the country.
+
+"I'm worried that we're all losing the humanity of this, and getting lost in numbers and politics," Cook said to CBS. "These folks that we have in Apple, and I believe they're largely representative of the total Dreamer population. We have 300-plus. They are every bit of as a US citizen as I am. And I just can't conceive why anyone would spend 30 seconds in thinking they're not."
+
+Privacy and security
+
+One of the biggest initiatives by Cook has been Apple's emphasis on privacy and security. The company makes money from selling hardware and from services, not from selling user data for things like targeted advertising. Cook has vowed time and again to maintain customer privacy for features such as the company's mobile payments service, Apple Pay. The company has been positioning itself as the counter to Facebook and Google, which have faced scrutiny over their data collection practices.
+
+"We see privacy as a fundamental human right," Cook told CBS News. "And we're very worried that the place that we're all in right now is a place that has dire consequences."
+
+At its WWDC keynote on Monday, Apple announced new protections to keep your data for your eyes only. That included new restrictions on location tracking and a "Sign in With Apple" tool that can be used to privately authenticate your login credentials.
+
+"The last few years, Apple spent a lot of time and energy doing things to earn the trust of their customers and be seen as a company who is on a mission to protect their privacy not just from Apple but from others as well," Creative Strategies analyst Ben Bajarin said.
+
+Apple Watch and AirPods
+
+It took only two years for the Apple Watch to become the best-selling watch in the world.
+
+At WWDC this year, Apple said the Apple Watch is getting its own App Store, somewhat breaking from the Bluetooth tether of the main iPhone app. It's one step closer to becoming a truly independent device.
+
+Then there are AirPods. The white, wireless earbuds, which start at $159, became a meme and a runaway hit after they launched in late 2016.
+
+"When walking in New York, I couldn't see anybody not wearing AirPods," Milanesi said. "They have become the old white headset with a wire. They transcend gender and status and everything."
+
+And misses
+
+Siri and artificial intelligence
+
+Apple bought Siri technology in early 2010 and launched the service on the iPhone 4S in October 2011, at the start of Cook's tenure as CEO. By simply holding down the "Home" button on the iPhone or saying "Hey Siri," users could issue voice commands to do things such as check the weather, set alarms, launch apps and search the Web.
+
+Apple was the first to introduce a digital voice assistant, but it was slow to capitalize on that lead. While Apple has updated Siri over the years, it's generally viewed to be not as helpful or intelligent as digital assistants from rivals like Amazon and Google. That may be because Apple initially saw Siri as a feature, not as a platform that could be accessed by third-party developers and run on a multitude of devices.
+
+"One area Apple has done poorly under Tim Cook's watch is in AI," Techsponential analyst Avi Greengart said.
+
+At WWDC this year, Apple unveiled some improvements to Siri. For one, Apple's new Neural Text to Speech will use a new software-based approach to make Siri sound more natural, particularly while reading long sentences. Siri also will be more proactive with suggestions, and Siri Shortcuts has become more conversational and easy to use.
+
+Smart home tech
+
+Similar to Siri, Apple made its move into the smart home early with HomeKit but let Amazon and Google surpass it.
+
+Apple first talked about HomeKit at its developer conference in 2014. The feature allows developers to integrate controls for door locking, light dimming, and other home automation gadgets and features in iOS apps for the iPhone and iPad.
+
+Apple signed up many initial HomeKit partners, including thermostat maker Honeywell, lightbulb maker Phillips and smart lock-maker August. But HomeKit has been slower to take off than originally anticipated, and Google and Amazon ended up buying some of the biggest smart home device makers. Then the Apple-made device many people expected to be the company's entree into the smart home -- HomePod -- struggled.
+
+James Martin/CNET
+
+Apple launched the $350 device in January 2018, positioned as a music experience rather than a smart-home hub.
+
+HomePod has largely been considered a flop. Last year, the device made up only 6 percent of the US smart speaker market, according to a study by Consumer Intelligence Research partners. CNET editor Megan Wollerton, in her review of the HomePod, said that "Siri and HomeKit lack the polish and device compatibility of Alexa and Google Assistant."
+
+While Apple hasn't released a new version or HomePod -- or a cheaper model -- the company has made some HomePod improvements since its launch, and it also updated the smart speaker's capabilities at WWDC. A hand-off feature lets users transfer calls, podcasts and music from their iPhone to their HomePod by bringing their phone near it. And HomePod now has multiuser support, recognizing who is speaking and responding with personalized recommendations for music, messages, reminders and more.
+
+Apple also unveiled new HomeKit features at WWDC. That included HomeKit Secure Video for security cameras. Video captured by a camera is analyzed locally on the resident iPad, HomePod or AppleTV and then encrypted and send to iCloud where no one (not even Apple) can see it. And new HomeKit-enabled routers from companies like Linksys and Eero will automatically firewall off each of your smart home accessories to protect them even if your network is compromised.
+
+Forgetting creatives
+
+Power users, like graphic designers, have long been some of Apple's most loyal customers. But in recent years, they've largely felt neglected. While Apple had updated its laptops and iMac computers over the years, its true workhorse, the Mac Pro, hadn't seen big changes since 2013.
+
+Even though Apple was slow to update the Mac Pro, it had been listening to user feedback and even set up a "pro workflow team" to learn more about how users are using their computers. Some of the team members presented demos at WWDC.
+
+WWDC also is where we finally got to see a new Mac Pro with a design that some compared to a cheese grater. The $5,999 entry-level configuration features an eight-core Xeon processor, 32GB of RAM, a Radeon Pro 580X graphics card and a 256GB SSD, and will start shipping in the fall. The accompanying new 6K Pro Display XDR, the first new monitor from Apple since 2016, costs an additional $5,000 for the display and $1,000 for its stand.
+
+"The pro area is very important to us," Cook said at a shareholder meeting in 2018.
+
+Sticking with a sticky keyboard
+
+It's not just the Mac Pro that's been ignored. Apple's other computers have taken years before seeing significant updates. One of the changes the company made during its computer revamp in 2015 -- a new butterfly switch keyboard design -- has become one of its most-criticized innovations.
+
+"Tim Cook is an excellent operational CEO who looks at the growth opportunities … and doubles down on them," Bajarin said. "Other products weren't as high a priority or wouldn't get as much attention as they'd get with more a product-centric type of CEO. I'd throw the Mac into that."
+
+The redesign was part of an effort to make laptops thinner and lighter than in the past. The butterfly switch replaced the traditional "scissor" mechanism below each key and was meant to be more stable, responsive and comfortable.
+
+But almost immediately, users complained about the feel of the new keyboards and said they could be easily damaged by specks of dust. In response, Apple a year ago said it would replace "a small percentage of the keyboards in certain MacBook and MacBook Pro models" whose letters or characters repeated unexpectedly, whose letters or characters didn't appear, or whose keys felt "sticky" or didn't respond consistently.
+
+Last month, Apple extended its MacBook keyboard replacement program to all Macs with the butterfly switch and sped up the repair process. It also changed the material used in its keyboards in hopes it would prevent the issues -- but it didn't go so far as to revamping the design entirely.
+
+Challenges and opportunities
+
+Cook's biggest challenges are likely ahead of him. He will have to deal with the slowdown in iPhone sales and regulatory scrutiny over Apple's App Store -- which makes up the biggest chunk of its growing services business. Apple also could be impacted by the US trade war with China, the location where Apple's devices are built. And a slowdown in China has hurt Apple's iPhone sales.
+
+Apple also is facing a changing tech market. Companies like Samsung and Huawei are experimenting with foldable displays and new smartphone technology, and nearly every major handset maker -- except for Apple -- will have a 5G phone this year. Because of Apple's two-year battle with 5G chipmaker Qualcomm, it won't have a 5G iPhone until 2020, at best.
+
+Apple also could be facing some of its biggest opportunities. It's expanding into health care and has barely gotten started with augmented reality. Apple also has been reviving the iPad (sales have been growing in recent quarters after falling for years) and making it into more of a work machine, while at the same time bringing its devices even closer together. Project Catalyst will let developers bring iOS apps to the Mac, and Sidecar, announced at WWDC, lets people use an iPads as a second display for a Mac.
+
+Navigating through all of that will be Cook's challenge. But for now, at WWDC, he can focus on what his developer community -- particularly that youngest generation of programmers -- can accomplish with Apple's tools.
+
+"Your dreams and your passion and dedication to fulfill those dreams comes across so clearly in the apps you create," Cook said as he kicked off Apple's WWDC keynote on Monday. "You make the world a better place, and that is why we're here this morning."
+
+CNET's Connie Guglielmo contributed to this report.
+
+The story originally published at 5 a.m. PT.
+
+Update, 6:50 a.m. PT: With additional background.

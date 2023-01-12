@@ -1,0 +1,19 @@
+Chennai continues to be most vulnerable city to cyber attacks among metros, says study
+
+Despite a 2% dip in the ‘infection rate’, Chennai recorded the highest rate of cyber attacks at 46%, the study found
+
+Chennai continues to be the most vulnerable city among metros for cyber attacks for the second quarter of 2019 (August-October period), according to the findings of ‘Cyber Threat Monitor’ by K7 Computing.
+
+Among metro cities, cyber attacks in Delhi ballooned in the second quarter with a 6% increase in the quarter-on-quarter infection rate, according to the report. Despite a 2% decrease in the infection rate from the last quarter, Chennai still remains the most vulnerable at 46%, it said.
+
+The infection rate in ‘Cyber City’ Hyderabad is 41% from 39% recorded last quarter, while Bengaluru and Pune experienced 39% and 35% of cyber attacks, similar to the previous quarter, it said.
+
+According to the study, Patna registered the highest percentile of cyber attacks at 47% compared to the rest of the Tier-2 cities covered in the study, and higher than any Tier-1 city.
+
+Guwahati, Lucknow, Bhubaneswar, and Jaipur witnessed a massive 45%, 44%, 43% and 40% of cyber users coming under attack, it added.
+
+The study states that approximately three out of every 10 Indian cyber users encountered one or more cyber attacks, while metro cities have experienced a similar number of cyber attacks when compared to the previous quarter.
+
+“As we get set to enter the New Year 2020, I think it is important that companies, across sizes and geographies, start shifting from awareness to implementation in their approach towards cyber security. And this is not just applicable to enterprises but also to each and every cyber user in the country, including those in government departments. Awareness, implementation, and keeping it all up-to-date are very critical to remaining cyber safe in this fast-growing and sophisticated cyber threat-infused world,” Kesavardhanan, Founder & CTO of K7 Computing said in a statement.
+
+As part of this process, K7 Computing’s real-world telemetry data from almost 7 million unique devices and K7 Labs’ security incident investigation data were studied. The report tracks all critical cyber security areas, such as Enterprise, Mobile, Mac, Windows and IoT, pan India covering 20 Indian cities including metros and Tier-1 and Tier-2 regions, as well as State capitals and high-user Union Territories.

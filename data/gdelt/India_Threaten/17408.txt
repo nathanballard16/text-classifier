@@ -1,0 +1,31 @@
+SBI customers could lose all their money just by doing this: Bank issues warning
+
+India's largest bank, the State Bank of India, has issued a warning to all of its customers about the potential risk of charging your phones at public charging stations. According to the bank's notice, hackers could steal all your money by infecting phones kept on charge at free mobile charging stations.
+
+With the increasing use of mobile banking and smartphone use, hackers are finding new ways to steal from unsuspecting users. While free mobile charging stations are a common sight in public places like airports, shopping malls, restaurants, etc, hackers are using a new technique to infect smartphones via these charging stations with malware.
+
+Once infected, hackers can get hold of highly confidential information such as your banking usernames and password. With this, they can easily drain your bank accounts empty. This particular trick is not uncommon and it is called Juice Jacking.
+
+How does Juice Jacking work?
+
+When the smartphone or laptop shows the low battery sign, it is our first instinct to find a charging point. With the easily available free charging stations in public places, which are installed by brands for promotion, we head straight to one without thinking twice. But it looks like running out of juice could be better than charging at one of these free stations.
+
+Hackers modify the ports at these charging stations with sophisticated USB port-like gadgets, which don't seem out of the ordinary for most. As soon as the user plugs in the phone to one of these malicious ports, the device will bypass the phone's security to steal contents of the phone, including banking credentials, emails, messages, photos and private videos, by injecting a malware.
+
+Think twice before you plug in your phone at charging stations. Malware could find a way in and infect your phone, giving hackers a way to steal your passwords and export your data.#SBI #Malware #CyberAttack #CustomerAwareness #Cybercrime #SafeBanking #JuiceJacking pic.twitter.com/xzSMNNNv4U — State Bank of India (@TheOfficialSBI) December 7, 2019
+
+Juice Jacking isn't new as the trick is popular among hackers and widely in use. In 2012, the NSA had warned people to avoid using a public kiosk for charging their gadgets and a weeks ago, the California Los Angeles County District Attorney department also alerted people to avoid charging gadgets at public stations. SBI is the latest one to issue a warning in this regard, but it is not limited to SBI customers as anyone who does mobile banking is at high risk from this type of attack.
+
+How to protect yourself from Juice Jacking?
+
+According to SBI, there are four main tips that can help you identify Juice Jacking to keep you from falling victim to hacker's trick.
+
+Users should always check for an electrical socket behind the charging station
+
+Users must always charge directly from an electrical outlet
+
+Users must carry their own charging cables
+
+Users must buy portable batteries from known vendors
+
+While it is a good practice to charge your phones to full if you think it might run out of juice mid-way, users can also carry their personal power bank to make sure there's no need to look for a charging point. Mobile banking or online banking customers must change their passwords regularly, avoid banking using public computers, check for last log in date and time, register your phone number to receive alerts in case of any activities and go through bank statements for suspicious transactions.

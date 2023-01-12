@@ -1,0 +1,95 @@
+2019: a critical year for biometrics and digital ID in the Global South
+
+While Europe and the U.S. have seen steady progress with incremental improvements and plenty of new regulation alongside the growing need for identity verification (SCA, IDV, GDPR, California Consumer Privacy Act), the Global South has pursued mega projects and seen entire biometric ecosystems forming with local and global participants alike.
+
+Looking ahead, a recent report from 360iResearch predicts the global biometric market will grow from $14.9 billion in 2018 to $42.9 billion by 2025. Biometrics will play an increasingly important role in development. The Gates Foundation has called the technology one of the ‘pillars’ of the tech trinity for digital inclusion.
+
+But the Global South could be where we see the greatest potential for abuse. “With spectacularly ill timing, the Myanmar government were receiving proposals for an system that collects and stores the biometrics of millions of people while Aung San Suu Kyi was in The Hague defending accusations of genocide against the Rohingya people. This alone should be enough for biometric companies to run a mile,” Lucy Purdon, Senior Policy Officer at Privacy International told Biometric Update in an email.
+
+Despite the market growth, legislation falls short almost everywhere. “At the start of 2019, over 120 countries had adopted data protection laws. So there are still many more to go. Privacy International believes that in most countries’ national laws do not adequately regulate the use and sharing of biometric data,” says Purdon, “They fall short of applicable international human rights law and they fail to effectively address the security risks arising from misuse of biometric data, especially at scale.”
+
+Southeast Asia
+
+Biometric integration in banking and fintech is growing, but the standout stories for 2019 in Southeast Asia are the large government projects to establish national ID schemes, and also to pioneer at the national level to tackle specific issues such as online identities.
+
+Philippines: The central bank and national statistics bureau are preparing to roll out a national biometric ID scheme with 23 million cards expected to be issued in 2020 after a pilot with 100 million covered by the end of the current administration in 2022.
+
+Bangladesh: Vaccination appointments are going to double up as an opportunity to create a digital identity in Bangladesh with a new project based on a partnership including the government and vaccine alliance Gavi. The project was launched by the ID2020 Alliance, following the formation of a partnership in June between NEC, Simprints and Gavi to tackle vaccination and biometrics globally.
+
+Myanmar: The country is embarking on a national database via compulsory biometric capture for mobile phone services, beyond the previous requirement simply to show and register traditional ID. It is not clear whether this will link to the overarching e-ID plan and humanitarian organizations criticize the lack of data privacy, particularly around biometrics, and the potential for government-led abuse.
+
+The tender system is still open, but human rights campaigners Privacy International are calling on suppliers not to participate, given Myanmar’s history of abusing the rights of its citizens and deteriorating current situation.
+
+In a statement to Biometric Update, Lucy Purdon, Senior Policy Officer at Privacy International said: “If it goes ahead, the project would be operating in a legal void, as Myanmar has no data protection law or laws that regulate the use of surveillance. This means that information collected as part of registration today could be kept for an indefinite amount of time and used for different purposes in the future.
+
+“This is a very concerning prospect in a country which systematically persecutes minorities and where the legacy of a surveillance state is still fresh in the memory. Do biometric companies really want their fingerprints all over human rights abuses in Myanmar?”
+
+Malaysia: The new national biometric digital ID system will allow 32 million citizens to conduct online transactions safely and without the need for tokens. It is intended to remove the need for having to keep track of passwords and usernames. The system does not replace the national ID card system, MyKad.
+
+Regional: Across Southeast Asia, firms such as Nodeflux in Indonesia and Thailand’s mobile-only bank TMRW are deploying biometric verification for eKYC in banking to increase customer base while tackling fraud. The fintech sector is booming in general.
+
+Looking ahead: Alongside national projects which could allow for greater future integration with other schemes both public and private, a real growth area in the near-term is the integration of biometrics for payments and fintech generally in Southeast Asia.
+
+Latin America
+
+Latin America has pursued a slightly different path to other regions in 2019 as there has been a greater emphasis on private integration for biometrics, rather than national, government-led schemes. One large ID scheme that is underway, Brazil’s, is delayed. While for banking, smart city surveillance and consumer spending, biometrics are seeing strong growth – triple figures in some areas.
+
+Mexico: Deployment for the joint $10 million smart city project for VSBLTY and lighting specialists Energetika began in November 2019, providing crowd analytics and facial recognition in Mexico City. This followed the two partners establishing a three-year relationship in September.
+
+Smart city projects in general are seeing expansion as other players scale up their activity.
+
+Panama: FacePhi has been signing up new Panamanian clients for its secure digital onboarding services, with the latest being an integration of its SelphID system into Banesco Panama’s mobile and online banking functions. FacePhi secured two other clients in Panama in 2019 plus contracts with banks in Uruguay, Argentina, Ecuador and Peru.
+
+Brazil: Just as Brazil was about to start issuing credentials for its new scheme, the project was put on hold due to no deal being reached with the electoral authority to access is biometric database. The scheme passed its registration goal of 110 million Brazilians in 2019, but it is no longer certain whether it will be fully operational in 2020 as planned.
+
+Regional: Millennials in Latin America and the Caribbean are demonstrating a strong preference for biometrics for online payment verification, according to a paper from MasterCard. Between 63 and 83 percent of consumers, country by country, would prefer biometrics as the region experiences e-commerce growth rates above 20 percent.
+
+Looking ahead: Strong growth is predicted to continue for the region. Authentication firm Jumio has opened a new sales office in Brazil to serve the growing Latin American fintech sector and predicted triple digit growth for 2019. Biometrics software developer Innovatrics also expects strong growth and an increased market share as public sector and banking demand increases, and Arteco Global opened its first branch in Mexico to build on its growth in North America.
+
+Africa
+
+Of all the regions of the Global South, Africa has probably had the most dynamic year in terms of digital ID and biometrics. From pan-African debates on data protection to biometric access for healthcare and military pay to schemes to tackle ghost pensioners.
+
+Kenya: Africa’s most persistently controversial ID scheme in 2019 has been Kenya’s Huduma Namba, from registration teething trouble to changes which made it virtually compulsory despite previous civil society wins at the High Court.
+
+The scheme then ended up back at the High Court over whether it was constitutional and how hackable it is and finally a data protection bill was passed, many months after the scheme became operational. Despite its controversies, the idea around it of the ‘single source of truth’ is now echoed in other schemes across the continent operating multi-purpose ID systems. The story may have quietened down towards the end of 2019, but with Kenya’s strong civil rights sector, we can expect an eventful 2020 too.
+
+SIM card registration: Ever more African nations are requiring biometric registration for SIM card access. Liberia is just the latest to draft a bill to require registration, while Tanzania is finding implementation so difficult it has decided not to deactivate numbers after the December 31 deadline, while roping in social media stars to try and encourage a final flurry of signups.
+
+Healthcare access: Biometric verification for healthcare access has spread swiftly in 2019. Senegal introduced universal healthcare with biometric verification with Credence ID systems. Côte d’Ivoire recently launched a biometrically verified universal healthcare system then a few days later confusingly launched its ‘one number for everything’ refreshed national ID system. Meanwhile in Kenya, a project to biometrically register all HIV patients reported a successful pilot scheme in a bid to secure ongoing U.S. aid, despite the potential privacy issues.
+
+SDGs & ID4Africa: If biometrics and digital ID have enjoyed more of a sense of a movement in Africa than elsewhere, it is partly thanks to the impetus of the Sustainable Development Goals and ID4Africa alliance, whose 2019 summit was held in Johannesburg. Key discussion areas included open platform vs proprietary systems with the danger of vendor lock-in, data privacy and data protection commissions, to delicate areas such as infant biometrics as countries aim to increase birth registrations and cradle-to-grave ID systems.
+
+But beyond these themes, a growing pan-African sense of community and consensus concerning digital ID and biometrics was established with the help of organizations such as Omidyar Network and the African Union. Agencies such as UNECA are trying to keep up the momentum by calling for an acceleration of the issuing ID.
+
+Ghost workers: A recurrent theme in 2019 has been using biometrics as a tool to checking public sector payrolls to spot and remove fraudulent, non-existent, retired or even deceased staff. This in itself is not new and ghost workers have been returning to some posts, but the breadth of implementation has grown. From Ghanaian teachers, attempts at registering Nigerian lecturers and Kenyan police, while in Ghana, pensioners have been targeted. January 31, 2020 is the deadline for biometric capture and re-registration in that project. Failing that, pensioners will be cut off.
+
+Limitations: Despite all the progress, various setback have arisen which threaten not just biometric schemes but the ideas sold by the industry and commissioning governments that biometrics and secure digital ID can cure all woes. The Malawi election resulted in a scandal that while not actually related to the biometric voter ID system has definitely been associated with it. Plans to sidestep corruption in the Somali military have not been as successful as hoped and issues of double registration for refugees in Kenya is making lives miserable for many.
+
+Looking ahead: Development-led agendas at national, regional and continental levels will continue apace (look out for Good ID and the 2020 ID4Africa meeting in Marrakech), but alongside that we can expect a more active discussion of data privacy with flashpoints, including user data such as the Kenya example above, and the use of data and ID issuance policy for elections such as in Niger, Côte d’Ivoire and Ghana. We can also expect further biometric surveillance projects across the continent, many dressed as smart city projects, and a potential backlash against these.
+
+India
+
+It is full steam ahead for Aadhaar. After previous setbacks involving the Supreme Court’s decision on private use and the current crisis and protests over nationality in India, the national ID mega project has reached 95 percent of the population and settled into its stride in 2019.
+
+Aadhaar successes: The Unique Identification Authority of India (UIDAI) is making money from Aadhaar. Its use for eKYC and verification is earning it over $1 million a month in fees.
+
+10 years since its launch, the ID scheme has now reached 95 percent of the population among home it holds a 92 percent satisfaction rate according to a survey by Omidyar Network. Despite errors generated by the scheme, respondents revealed high levels of trust in the system. There are low levels of registration among the homeless and transgender people, however.
+
+Aadhaar integrations: An area of steady development for Aadhaar in 2019 was the growing number of integrations with third-party providers. Digital ID startup Syntizen Technologies received pre-Series A funding from Mastercard and ACPL, a biometrics provider. The startup’s solutions facilitate onboarding and ID verification for bodies integrating with Aadhaar such as state governments. The funding will accelerate expansion first in India and then beyond.
+
+India Post Payments Bank followed others to include the Aadhaar-Enabled Payment Services (AePS), an interbank service to allow customers to use biometric authentication for bank transactions regardless of which bank their account is with. AePS is intended to boost social inclusion as it integrates with the state’s Jan Dhan financial inclusion program from increasing access to financial services. As of July there were 200 million transactions a month using AePS.
+
+Other social welfare applications for Aadhaar include agriculture. Pilots launched during the autumn harvest sought to test a way to use Aadhaar biometrics to prevent middlemen skimming off funds from benefits intended for farmers.
+
+Looking ahead: India already has the world’s largest biometric ID system and the Indian biometrics industry is predicted to double by 2024 reaching $3.8 billion. This is attracting international solutions providers as well as encouraging the domestic industry. HID is to target India in 2020 after presenting its wares at the Smart Cards Expo 2019 in Delhi.
+
+It will not all be plain sailing in India. The government has both extended and delayed its tender for a facial recognition surveillance contract in 2019. The centralized National Automatic Facial Recognition System is the National Crime Records Bureau’s scheme to purportedly simply automate police procedures. Campaign groups have raised privacy and permissions concerns while participants have failed to meet the tender’s requirements. The scheme cannot have been helped by an online leak of the Tamil Nadu state’s police facial recognition database.
+
+Aadhar itself could continue to expand in different ways. The creation in 2019 of the world’s first facial recognition-based Biometric Seafarers’ Identity Document raises questions as to whether the future of Aadhaar will see widespread facial recognition through public infrastructure.
+
+Check out the rest of our year-end coverage including most read, top guest posts, popular feature interviews, as well as industry predictions for 2020 as we wrap up the past 12 months, and look ahead to another year of growth and change.
+
+Article Topics
+
+Africa | biometrics | data protection | digital identity | fintech | Gates Foundation | government services | identity management | India | Latin America | national identity | Omidyar Network | Southeast Asia

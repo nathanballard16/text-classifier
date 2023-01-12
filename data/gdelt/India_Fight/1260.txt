@@ -1,0 +1,53 @@
+Rokit Has the Wildest Phone Lineup at CES
+
+LAS VEGAS—Where to start? The 3D smartphone screens are the most mundane things about Rokit Mobile's phone lineup here at CES. The new phone maker, founded by a hair care and liquor entrepreneur, is hitting a grab-bag of American needs: cheaper prescription drugs, ID theft protection, and even little inexpensive feature phones for the kids.
+
+Oh, and abroad, they're looking to dethrone India's most popular phone, the 4G Jio Phone.
+
+I'm honestly reeling from Rokit's ambition, but the company is determined. It's backed by Jean Paul DeJoria, a billionaire best known for founding Paul Mitchell hair care and Patron tequila. Another branch of the company, ROK Drinks, makes beer, whiskey, gin, and vodka.
+
+ROK started as a virtual wireless carrier about five years ago, reselling service on Verizon's network and adding a streaming music service on top. But carrier price wars have made it a lot harder to resell service profitably, Rokit CMO Clinton Ehrlich says, so the company pivoted to offering devices with a package of services it thinks appeal to "transitional" Americans—people in between homes, jobs, or opportunities.
+
+That means every Rokit phone will come with a year's worth of Wi-Fi calling. For $10/month, you can add a pharmacy savings plan and the ability to call a doctor. Another $2.99/month gets you a roadside assistance plan. A total of $14.99 a month wraps all those together with ID theft protection, legal services, and some forms of personal insurance.
+
+What do all of these things have in common? Ehrlich says they're all things low-income or younger Americans tend not to have—health insurance or the ability to access legal services, for instance.
+
+"People need access to these things," he says.
+
+Okay, How About the Phones?
+
+Rokit has five phones coming up.
+
+The Rokit One is a $34 candybar phone (above) based on an extremely stripped-down, app-store-less version of Android, which nonetheless has WhatsApp and Facebook.
+
+The $39.99 Rokit F-One is a flip phone; this one is actually running Android One, but still without an app store, because it's a flip phone.
+
+The $89.99 Rokit IO Light is a basic Android phone with a 5-inch screen.
+
+The $169.99 Rokit IO One has a 5.45-inch 3D screen.
+
+The $274.99 Rokit IO Pro 3D, Rokit's "flagship," has a 6-inch screen, dual 8-megapixel cameras, 64GB of storage, and dual rear cameras.
+
+There was a lot of vagueness when I was talking to Rokit about these phones. The company couldn't provide full specs for things like their LTE bands or chipsets, and I don't like it when I can't find those things out. But it insists we'll learn more when the devices launch in February; they go on sale in March.
+
+All the phones are dual SIM, running on the AT&T and T-Mobile networks. "They are all 4G devices," according to Ehrlich. He couldn't confirm whether they'd make VoLTE calls on those networks, which is a big problem in an era when the carriers are reducing 2G and 3G coverage. But he has an alternative: the phones all come with their own VoIP application, Rok Talk, to let you make calls over Wi-Fi or data networks. They also come with WhatsApp and Facebook—even the cheap candybar and flip phones, which don't have downloadable app stores.
+
+Rokit's 3D technology has a ton of depth. Images and videos appear to actually pop out of the screen rather than have a diorama effect, and they pop, like, 6 inches out of the screen. It's pretty intense. But I had serious issues with double vision and focusing on some of the 3D content: it took several seconds of concentrating for my eyes to lock in on some of the more dramatic scenes.
+
+3D also has that content problem. Rokit is approaching it head-on with its own "Rok Flix" app, which will contain custom-produced 3D content shot by Rokit at a studio in France. It's making "an animated version of the Bible in 3D," according to Ehrlich. It's making deals with IMAX. But this seems like a Sisyphean task for Rokit, just as it is for RED with its "4D" Hydrogen One.
+
+The phones have 3D cameras, as well. I took a 3D photo and, well, it was a 3D photo. As with the RED Hydrogen One, the Rokit phones have the problem that you're not altogether sure where else to display the 3D photos. Fortunately, the phones have a lot more going for them than 3D.
+
+The Indian Connection
+
+Rokit's ambitions outside the US are just as fascinating as their US plans.
+
+Over in India, something called the Jio Phone has turned the cell phone market upside down. The Jio Phone is a very low-cost sort of half-smartphone running KaiOS on the new Reliance Jio 4G LTE network, and they've been selling at the rate of 7 million a month.
+
+Jio's success has incensed BSNL, a competing cell-phone carrier that is also India's state-owned telecom. So BSNL signed a deal with a Rokit joint-venture to take Rokit's $34 feature phone and set it up as a Jio Phone competitor, supported by a network of 25,000 Wi-Fi hotspots and a new BSNL LTE network. According to Indian press, the new Wi-Fi network will cover 25 cities and be sold by BSNL's massive retail network in early 2019.
+
+"We're going to put Jio out of business," Ehrlich says.
+
+We'll review Rokit's lineup when they're available.
+
+Check Out the Best Photos From CES 2019

@@ -1,0 +1,25 @@
+Why cyber security is now a machines versus machines combat
+
+Have you watched the movie Real Steel ? I think it takes Darwin’s ‘survival of the fittest’ theory to a whole new level. Applying that analogy to the world of business, the ‘good v/s bad’ machines discussion couldn’t be more apt, given today’s dynamic, complex cyber threat landscape. Because organisations have started realising that humans alone can’t fight the cyber-battle anymore. That’s why autonomous cyber-defence becomes the key.
+
+Four out of five CXOs I met in the last six months have all asked for one thing in common — how to strengthen their organisation’s cyber-security fabric. Cyber-security has now moved to the top of every CEO’s priority list. Per Gartner, global spending on information security is expected to reach $124 billion this year. The entire organisation looks to the CIO/CISO to create a secure business, leading to the CIO being always under constant pressure and scrutiny to deliver what’s expected of the IT function.
+
+Understandably, today’s CIOs operate in a state of intensified awareness. Given their mission-critical systems are increasingly under threat from constantly evolving viruses/hacks, it’s becoming tougher to safeguard data — the lifeblood of any business. Several companies have learnt it the hard way, with major breaches costing them millions in the short term. The long term ramifications could be even larger as these organisations rebuild trust with customers.
+
+Yet, the current state of many enterprises’ security systems leave a lot to be desired. A sizeable number of businesses are still failing to encrypt data. Per another report from Gartner, it’s been noticed that even when an organisation does attempt data encryption, the lack of a proper, comprehensive data security governance and management strategy is evident, increasing the risk of data loss.
+
+Security isn’t easy!
+
+In a nutshell, security is very complex — more so a reflection of how IT itself has evolved as an open environment. Organisations have often approached IT in a piecemeal fashion, having purchased disparate servers, disparate products, disparate databases and disparate operating systems — and then tried to interconnect them, resulting in an unintended complex logjam.
+
+What’s emerged with these disparate corporate systems is a cyberspace battlefield, where everybody is under attack. As IT leaders, the CIO and his team are combatants too, responsible for making the right security choices each day; because if you don't, the future of your business is at risk.
+
+A new era of threats
+
+Hackers manipulate machines to propagate their ulterior motives. At present, many businesses are fighting the battle against malicious robots by putting people on the battlefront. But in the battle of machine versus man, human intervention has proven to be slower and inadequate.
+
+If your business has to stand any chance of winning the cyber-battle and protecting its data, you have to upgrade to an autonomous defence system, which is fully automated.
+
+Businesses are realising the benefits of upgrading to autonomous cyber defence systems, such as the autonomous database for instance, for improved protection. With attacks rising in number, complexity and variety, it’s an opportune time for organisations to rethink their security strategy and deploy machines to lead their cyber-defence to win against the most advanced threats.
+
+The writer is Regional Managing Director, Oracle India

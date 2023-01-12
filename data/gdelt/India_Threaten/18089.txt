@@ -1,0 +1,39 @@
+Power industry in 2020
+
+The power sector is witnessing significant changes. As 2019 draws to a close, Harminder Singh, Director of Power at leading data and analytics company GlobalData, looks at the key trends that will shape the industry in 2020, ranging from electric vehicles to corporate power purchase agreements (PPAs).
+
+Electric vehicles
+
+“The adoption of electric vehicles (EVs) is set to continue on the steep trajectory witnessed in the last few years. The global EV fleet, which stood at over 5.1 million in 2018, is expected to reach around 130 million by 2030 as per International Energy Agency (IEA) forecasts.
+
+“Governments across the world are setting targets for deployments of EVs and these policy signals are encouraging industry stakeholders to invest across the EV supply chain.
+
+“In addition, large power utilities such as EDF, E.ON and Enel in Europe have been investing in EV charging station infrastructure, and this market is witnessing consolidation – a trend that is expected to continue. Increasingly, power utilities are collaborating with EV manufacturers to boost their offerings in areas such as EV charging, vehicle-to-grid (V2G) services, energy storage and renewable energy sources. Oil majors such as Shell, BP and Total are also placing huge bets in this market through acquisitions.”
+
+Digitalization
+
+“Power utilities, which have traditionally been averse to the adoption of new technologies, are now realizing their benefits and offering heavy investment. An emerging technology trends survey conducted by GlobalData reveals that cyber security, big data, cloud computing, robotics and Internet of Things (IoT) are being seen as the top five technologies that will have the maximum impact on the sector over the next three years.
+
+“Cybersecurity is receiving the maximum attention from power companies in order to protect grids from cyber-attacks. Power utilities realize the crippling effect such attacks can have on the grid and are hence willing to invest heavily to protect against them.”
+
+“With ever more data coming out of the customers’ meters, utilities are focusing on data analytics for load forecasting, generation planning, managing peaks and increasing customers’ awareness regarding energy efficiency. Big data and cloud computing are useful tools that are aiding these initiatives. Cloud models are helping utilities to lower their IT capital expenditure (capex) and offer unlimited computing and advanced analytics, while IoT is helping power companies to remotely monitor and manage their assets. Utilities are also able to conduct predictive maintenance of their assets with the assistance of IoT.”
+
+Grid-scale battery storage
+
+“Energy storage installation among end-users (renewable energy generators, grid operators and distributed generation) is projected to witness larger growth due to smart grid development. The battery energy storage system (BESS) market, which is estimated at 4.9 gigawatt (GW) in 2018, is forecast to reach 22.2GW by 2023.
+
+“The economies of energy storage in a wide range of applications, coupled with the falling cost of systems, will likely result in the rapid growth of battery energy storage solutions. Lithium-ion (Li-ion) batteries are emerging as crucial for energy storage, and the increasing growth of EVs has resulted in advancements in lithium-ion technologies and a steady decline in the prices of lithium-based batteries.”
+
+“Several energy storage projects in the pipeline have been accelerated by incentive programs. The deployment is expected to grow, due to a large number of countries opting for storage utilization to support their power sector transformation. The US introduced several bills and policies related to energy storage, and the country has comprehensive incentive programs supporting battery utilization. In the meanwhile, India published a national energy storage mission, outlining the country’s ambition to become a market leader in the manufacture of batteries. Similarly, China and Germany are exploiting opportunities to capitalize on the growing market for batteries.”
+
+Microgrids
+
+“Microgrids will continue to make inroads in the power sector, driven by the need for resiliency, energy security and the electrification of remote areas. This year has seen a number of microgrid projects being announced by companies across the world. Utilities such as Duke Energy, EDF, Engie and AusNet have been involved in the development of microgrid projects, the scale of which has also been increasing with projects as large as the 100MW Armonia Microgrid Project in Palau being developed.
+
+“Policy developments have been encouraging. For example, Hawaii has become the first state to initiate microgrid tariffs. California is also following close behind, trying to enact legislation in this direction.”
+
+Corporate PPAs
+
+“Large corporates are increasingly signing PPAs with generators to meet their power needs. Most of these are signed with renewable energy generators, enabling them to increase the share of renewable energy in their total consumption. Companies such as Google, Amazon, Facebook and Microsoft have continued to sign PPAs during 2019 and this trend is expected to continue in the future due to the expansion of the data centers market increasing their power requirements.
+
+“Retailers such as Tesco and Walmart have also been involved in signing PPAs in 2019. The rise in corporate PPAs is fuelled by the withdrawal of feed-in-tariffs (FITs) and other incentives for wind and solar power coupled with the move towards auction mechanisms. Under these circumstances, corporate PPAs offer an opportunity for developers to sell their power profitably.”

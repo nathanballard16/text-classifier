@@ -1,0 +1,123 @@
+10 trends that will shape the future of Indian fintech in 2019
+
+The year 2018 was a big one for the Indian financial technology and financial services ecosystem. With $2.34 billion being raised across 145 deals, fintech finally unseated ecommerce from the top of the list after years of dominance. The year, also saw multiple regulations that led to shifts in the sector. Among these was the Supreme Court’s judgement on Aadhaar in September. The apex court struck down Section 57 of the Aadhaar Act, which allowed the sharing of citizens’ data with private entities.
+
+Subsequently, UIDAI cut APIs to the industry, and Indian retail payment organisation National Payments Corporation of India (NPCI) suspended the e-sign mandate. Not only did these moves hit the growth rate of Indian fintech startups, it also made the customer onboarding processes more cumbersome and made it difficult for players to collect auto-mandated payments.
+
+Midway through the first quarter of 2019, stakeholders are positive that the impact of this won’t last beyond March.
+
+Upasana Taku, Co-founder of MobiKwik, states, “The landscape will mostly stabilise by the end of March this year. Until then, players are finding their own ways to work around the KYC challenge.”
+
+Apart from that, what are the major trends that will shape the growth of the Indian fintech industry in 2019? Here's what we found.
+
+1. Specialised players may help with offline on-boarding
+
+Looking at the industry-wide impact, many fintechs have turned to offline collection of documents to keep their operations afloat. However, 2019 might well see an interesting trend with the evolution of specialised players who support fintechs by helping them onboard offline customers.
+
+Vivek Belgavi, Fintech Leader at PwC, says, “This year, we will see more specialised players coming up to help on-board offline customers. These could also be your utility companies that will scale up to provide support to the on-boarding ecosystem.”
+
+2. Payment ecosystem coming under the ambit of the RBI
+
+Just a month into 2019, and the Reserve Bank of India’s intention to regulate the digital payments space in the country is becoming increasingly clear. The apex bank has not just formed a digital payments committee with former UIDAI Chairman Nandan Nilekani at the helm, but has also launched an Ombudsman Scheme for Digital Transactions (OSDT) for redressal of complaints regarding digital transactions.
+
+In his Monetary Policy speech, RBI Governor Shaktikanta Das also said they were considering the feasibility of directly regulating payment operators in the country.
+
+Stay Updated Get stories of change makers and innovators from the startup ecosystem in your inbox Please fill in this field. {{#error}} {{error}} {{/error}} {{^error}} Something went wrong. Try again later {{/error}} Welcome Onboard ! You have been successfully registered for our daily newsletter.
+
+3. The narrative around digital payments ‘WILL BE’ on offline
+
+Analysts predict that payments as an industry has come of age, with players doubling their presence in the offline space. Merchant discount rates (MDRs), a charge for facilitating digital transactions, is no longer expected to be the cornerstone of conversation. Neither will it provide any competitive advantage to a given form of payment. In September last year, the Payments Corporation of India (PCI) had raised concerns over non-receipt of reimbursements relating to MDRs.
+
+What’s interesting is that digital payments will grow in a big way among government-owned projects. Says Vivek, "The early groundwork is being laid out for digital payments to be an important aspect of Smart Cities. Hence, we might find some use cases there. Further, highway tolls are an interesting area where we will see more and more digitisation of payments.”
+
+When it comes to infrastructure, Vivek believes that the point-of-sale (PoS) use case will be increasingly challenged this year.
+
+“For smaller merchants with a monthly turnover of less than Rs 25,000, the cost doesn’t allow them to have a PoS device. This will continue to pose a greater challenge for the PoS ecosystem, and reduce usage further, considering the popularity of newer methods of payments.”
+
+Also read: PCI raises concerns over non-receipt of MDR reimbursements for digital payments from banks
+
+4. Voice and vernacular will be the next frontier
+
+Indian payments startups’ major challenge is to grow the pie and focus their services on the next 500 million users. Manish Jain, Partner, Fintech, at KPMG, believes that voice and vernacular will be their vehicle to do so.
+
+“Voice will be big in terms of reaching the next set of users new to the internet. We may see applications of voice in digital payments, which will be further enabled by vernacular (Indian languages). Vernacular continues to be a gap in payments and other financial services.”
+
+Manish says vernacular and voice might also reduce the education gap that exists in the financial ecosystem today.
+
+Even Lizzie Chapman, Co-founder and CEO of ZestMoney, a digital lending startup, shares this vision. She believes that voice recognition will finally make an entry into Indian fintech. "The top 200 million users are the only ones typing in English. So, voice search and recognition is a natural progression. Voice will make experiences more interactive and reach the masses,” she explains.
+
+In 2019, offline is going to be a huge focus for Indian fintech, right from equipping kiranas with financial products to onboarding offline customers. (Image: Pixcy)
+
+5. In wealth management, savings products could be provided as incentives
+
+Last year, payment companies increasingly started morphing into financial service entities. Digital payment majors Paytm and PhonePe stepped into wealth management last year. While Paytm launched its direct mutual funds platform Paytm Money in September, Gurugram-based MobiKwik chose to acquire startup Clearfunds for a faster release to market.
+
+Vivek says, “Payment firms have morphed into financial services companies. Now their edge will lie in the experiences they create for the customer.” He suggests that soon, wealth management will be sold as an ancillary product as opposed to a standalone one. “There might be a trend where investment and saving products are a part of another product or bouquet.”
+
+YourStory believes this would be particularly interesting if firms replace cashbacks with savings products to increase sales.
+
+But Manish of KPMG believes a lot of this will happen once consumers are educated about the importance of good financial behaviour. He says,
+
+“Over the last year there has been a lot of conversation around micro wealth management. And all these products will yield to a good financial behaviour for Indian customers, whose financial awareness continues to be low.”
+
+6. Lending will see small-ticket consolidations; some verticals may die
+
+According to Manish, 75 percent of Indian fintechs are either in lending or payments. In 2018, lending continued to be the hottest sub-sector, mopping up half the equity funding invested in Indian fintech.
+
+However, the last quarter of 2018 saw a liquidity crunch for lending startups due to IL&FS’s defaults. Still, one cannot deny that there has been a ripple effect on smaller NBFCs or fintechs relying on just one capital partner (or NBFC). The liquidity crunch is being perceived as a correction by the rapidly growing digital lending industry. The past few months have not just stunted growth for some but also forced players to look at profitability in their loan books.
+
+Analysts believe this may lead to consolidation in category verticals. Hence, only the most profitable categories will exist for most players.
+
+Vivek says this depends completely on how the market plays out. “There is definitely a market out there for credit. The method is to keep NPA on the books low. Unit economics is the real story here. Some players will go for vertical integration; a few may even opt out of lending.”
+
+Lizzie believes that micro-loans as a segment might not see the light of the day. “There will be some consolidation in the space. The lending business doesn’t make sense for micro-ticket loans. Also, digital lenders need a breakout in technology to help them control costs, along with automation. Smaller companies will have to find innovative ways to raise capital from the markets.”
+
+Meanwhile, Abishek Surendran, Partner, pi Ventures, believes that the challenge is not disbursements but keeping delinquency rates low as startups scale lending. He feels that the ecosystem is yet to see the success of new-age platforms, and is expecting correction in the lending space this year.
+
+“Consolidations will be common for lending startups and more for tech talent. Online lending is a winner-takes-most market and we will see many startups struggling to raise capital. Big ticket consolidations will be less but small acquisitions and acquihires will be rampant.”
+
+Also read: Indian fintech raised $5.4B in equity funding over the last three years, but where is it headed?
+
+7. SME financing will continue to be bigger than consumer, might even birth a ‘unicorn’
+
+It is expected that SME will continue to be the biggest sector for Indian fintech startups. Abishek explains, “Consumer and retail lending startups will find it difficult, but specialised SME lending startups will continue to grow. The focus will shift towards creation of new-age financial instruments like credit cards for corporates, automated bill discounting, treasury management, automated collateral evaluation, specific event-based insurance, AI-based hedge funds, etc. These will see good growth.”
+
+Abishek says tech-based credit risk models have become a commodity and investors expect more financial or tech innovation. Further, startups that have scaled and proved to have a better borrower sourcing capability and low delinquency will see significant funding rounds. It may be possible that the space sees the birth of a “unicorn” (ie a startup valued at over $1 billion).
+
+8. Underwriting will get precise, lead to better products
+
+Analysts also believe that lending will become more robust as a sector, owing to newer data sets and underwriting principles that lenders will leverage.
+
+With GST and other initiatives in place, lenders will be able to better access businesses before providing them loans.
+
+Manish says,
+
+“With newer data sets, underwriting will only get more precise, leading to more targeted products. With companies leveraging satellite, climate, and government data, this precision underwriting will lead to the evolution of lending and insurance spaces.”
+
+9. AI and ML to become more mainstream
+
+Analysts believe that artificial intelligence and machine learning are set to become “even more mainstream” this year for fintech.
+
+Vivek says,
+
+“Some aspects of AI and ML will become mainstream, and the country will leverage them to solve for sparse and uncorrelated data. All this will solve for the convenience of the end user. An individual will no longer have to show tax returns for three years to get a loan.”
+
+Analysts add that AI, along with facial recognition networks, will resolve the onboarding process in backward areas, helping bring more individuals into the financial services arena.
+
+“Today, the onboarding process is more complex, and includes signing in with different user IDs and passwords. This year, we might see AI-based digital identity solutions, which will simplify the experience further for the user,” says Manish.
+
+Lizzie agrees, saying that this might be true as facial recognition is getting cheaper. She says that AI will also bring in personalisation for a user.
+
+10. Personal data protection bill will shake up things for fintechs
+
+2019 should also see a new data protection law being tabled in Parliament, a draft of which was introduced last year. The Personal Data Protection Bill, 2018, states that a private entity must seek user consent before collecting personal data. A user can also choose to remove consent at any point while availing a service.
+
+This is expected to shake up the backend infrastructure of fintechs, who will have to really prove the value for receiving a user’s consent to use their personal data. This means fintechs will need to upgrade their infrastructure from a data privacy and client on-boarding perspective. Vivek believes there is the possibility of an alternative credit bureau. Data privacy and compliance with these regulations is going to become a priority this year. Says Manish,
+
+“Data Privacy and consent based architecture will be there in the time to come, hence companies need to evolve and learn and be data privacy compliant. This also means now fintechs will need to evolve an alternative scoring mechanism and consent-based architecture.”
+
+Where there is some groundwork to be done by startups, certain industry players applaud the effort to focus on consumer data privacy.
+
+Lizzie says, “It is good that the GDPR is pro-consumer. I don’t think it is good idea that any entity can get access to everyone’s personal data. This comforts consumers, and players will have to win their trust, showing them the real value in return for using their personal data.”
+
+And while these trends will affect the way Indian fintech shapes up in 2019, technologies like smart contracts in blockchain, behavioural analytics, and exposure monitoring among others are expected to become more mainstream. Analysts also believe that players in niche technologies like blockchain might even form a consortium to further spread education and seek further application. Clearly, change is afoot – and nowhere more so than in India’s fintech sector.

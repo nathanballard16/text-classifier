@@ -1,0 +1,43 @@
+Google Announces Cheaper Pixel 3a & Pixel 3a XL And Here Are All The Features In The Phones
+
+Google announced the much-awaited Pixel 3a and Pixel 3a XL at I/O today in San Francisco and the smartphone is said to be a cheaper alternative to the flagship variant. The Pixel 3a and Pixel 3a XL come with many features borrowed from the Pixel 3, including computational photography, exclusive software features and other technical specification updates.
+
+Here are all the details announced today at Google I/O:
+
+Design & Specifications
+
+© MensXP_Akshay Bhalla
+
+The Pixel 3a and Pixel 3a XL come with a 5.6" and 6.0” display respectively. The Pixel 3a has a full HD+ screen and a resolution of 2220 x 1080 while the Pixel 3a XL has a resolution of (2160 x 1080. Both smartphones come with what Google calls “gOled” panels and have an aspect ratio of 18.5:9 (Pixel 3a) and 18:9 (Pixel 3a XL). The display also has always-on functionality and can also display identified music playing in the background.
+
+The Pixel 3a comes with 3,000 mAh battery while its larger brother comes with 3,700 mAh battery. Both devices come with fast-charging capabilities and Google claims users can get 7 hours of battery life in a 15-minute charge. These specifications are powered by Qualcomm® Snapdragon™ 670 processor clocked at 2.0GHz and 1.7GHz. The SoC has been paired with 4GB of RAM and comes with Adreno 615 GPU.
+
+In terms of design, both smartphones use a polycarbonate body that looks identical to the Pixel 3 series with minor differences in quality. In terms of audio, the Pixel 3a/3a XL comes with Stereo speakers (1 front firing, 1 bottom firing). Both smartphones come with a 3.5mm headphone jack and a USB Type-C port for charging.
+
+At the back, the Pixel 3a/3a XL has a single camera setup and a fingerprint sensor. As for the front, the Pixel 3a and Pixel 3a XL come with a noticeable top and bottom bezels and does not have a notch design.
+
+Cameras
+
+© MensXP_Akshay Bhalla
+
+The Pixel 3a and 3a XL have a single 12.2MP Dual-Pixel Sony IMX363 primary camera with an aperture of ƒ/1.8. The camera sensor has a field of view of 76° and 1/2.55" Sensor Size. The primary sensor has autofocus with dual pixel phase detection and optical + electronic image stabilisation. As for the selfie camera, the devices have an 8MP with an aperture of f/2.0. It has a field of view of 84° for wider selfie shots.
+
+The marquee feature of a Pixel smartphone is computational photography and the Pixel 3a series comes with the same features as the flagship counterparts. Notable features include Night Sight (Google's night mode), Top Shot, Super Res Zoom, Portrait Mode, HDR+ shots and a new Time Lapse mode. The Time Lapse mode will let users capture an entire sunset in just a few seconds of video that's great for posting on social media.
+
+According to Google “Time Lapse records a video by capturing anywhere from 6 frames per second to one frame every 4 seconds, to create the effect of a sped-up video at 30 frames per second.”
+
+Features
+
+© MensXP_Akshay Bhalla
+
+The Pixel 3a and 3a XL come with exclusive Google Lens features that we have already seen on Pixel smartphones before. With Lens, users can find similar clothing and home decor, copy and translate text, and identify landmarks, plants, and animals in real time from the camera app.
+
+Pixel 3a and 3a XL also come with Active Edge where users can squeeze the sides of the smartphone to launch Google Assistant. It works in addition with “Hey, Google” or “Ok, Google” and is an exclusive feature on the Pixel series. Users can also adjust Active Edge sensitivity when you first activate the feature (the first time you squeeze), or by telling the Assistant to “Increase Active Edge sensitivity”
+
+Pixel 3a and 3a XL also come with unlimited storage for images at high quality however it does not store images of the original quality. You will need to be a paying member of Google Drive in order to store the original file size of gallery images.
+
+India Pricing Details
+
+The Google Pixel 3a and 3a Xl will retail in India for Rs 39,999 and Rs 44,999 respectively. Pixel 3a users will get 3 months of Youtube Music Premium for free that is only valid for new Music/Premium users on Pixel 3a and 3a XL devices activated by September 30, 2019. Both Pixel 3a and Pixel 3a XL will be available in India on Flipkart from 15th May 2019 and will be availabel for registrations on 8th May. The Pixel 3a and 3a XL will be available in three colours i.e. Just Black, Clearly White and Purple-ish.
+
+We've been using the Pixel 3a XL for a few days and will be publishing our initial experience and a full review soon.

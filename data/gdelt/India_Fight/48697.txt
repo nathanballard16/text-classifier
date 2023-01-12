@@ -1,0 +1,21 @@
+Keys to kingdom
+
+In the Supreme Court, a matter that was originally a plea for regulatory parity between internet telephony platforms and OTT communications providers like WhatsApp, has turned into a question of national security and the ostensible threat to democracy posed by social media platforms.
+
+The government’s anxieties about social media date back at least to 2016, when there was a mass exodus of workers from the Northeast from Bengaluru, panicked by rumours that they would be targeted. Recently, the spate of fake news and lynchings across the country has intensified public fears.
+
+Now, the government has told the court that the internet is “a potent tool to cause unimaginable disruption to the democratic polity,” and will publish rules for its regulation in three months.
+
+The perception of the internet has also come full circle, from the democratic force-multiplier of Arab Spring to the foe of democracy — even in the US, where the attorney general has requested Facebook not to deploy software which makes interception impossible.
+
+This turns the spotlight to the two issues in the way of what would seem to be the natural response to illegal actions on the internet, technical and political. Technically, it would mean rolling back or compromising end to end encryption, which would affect the data security of everyone, and not only suspects.
+
+Explained: Why people spread fake news
+
+This would represent a huge step back for privacy, which has now been recognised as a right, and is protected almost as zealously as public safety. Dismantling or bypassing encryption could work in a climate of political probity, in which governments can be relied upon to limit their attentions to legitimate targets. But if governments snoop obsessively and take arbitrary action?
+
+Social media companies have shown a reluctance to diligently police content, and Mark Zuckerberg’s speech at Georgetown University last week spelled it out explicitly. They have opened the door to governments seeking increased access to private communications, in the interest of public safety — and now of democracy.
+
+But governments in India have shown themselves to be incompetent at best, and malignant at worst, by incarcerating harmless citizens arbitrarily for trivial communications, wilfully misreading satire as sedition and weaponising the law.
+
+This has continued even after Section 66A of the Information Technology Act was struck down as unconstitutional by the Supreme Court, on the ground that it offered too much latitude. Governments must demonstrate that they are able guardians of citizens’ data before they demand the security keys.

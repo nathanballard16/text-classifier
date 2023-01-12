@@ -1,0 +1,75 @@
+FoodPanda Breach Exposed Your Address, Number, And More
+
+Bloomberg via Getty Images
+
+JALANDHAR, Punjab—Do you use FoodPanda to order food? Then it’s possible that your personal information such as your name, mobile number, address, and email ID have all been compromised, thanks to lax security on the part of the Ola-owned food delivery platform.
+
+The flaw was identified by Jalandhar-based cyber security researcher Palvinder Singh, who contacted the company and had the bug fixed, but there’s no way of knowing how many people had their data compromised by FoodPanda in this way. In recognition of his helping the company fix the security flaw, Singh was awarded Rs 80,000 and given FoodPanda’s ‘Hall of Fame’ certificate.
+
+Advertisement
+
+HuffPost India verified this on Ola’s website, and mails shared between Singh and FoodPanda. We also reached out to FoodPanda for more details, and will update the text when we receive a response.
+
+UPDATE: FoodPanda has replied with the following statement: “At Foodpanda, we adhere to high standards of privacy and security. There has been no breach of data on the platform. As one of the country’s largest food-tech platforms, we are constantly striving to strengthen the experience for users, and our bug bounty program, the first of its kind in India’s technology ecosystem, is a step ahead in this direction. Through this, we are able to encourage users and technology enthusiasts to share constructive feedback and duly reward such enthusiasm. Such initiatives play a crucial role in establishing highest standards of data privacy and overall security of platforms.”
+
+When this bug was reported, customers were not informed that their data could well have been leaked. And the potential scale is enormous. In September last year, FoodPanda claimed that it had reached the 300,000 daily order mark. The data of any of these customers could have been accessed thanks to a rudimentary flaw.
+
+When a customer registers with FoodPanda, her personal details such as name, mobile number, home address and email address are entered. This information is sent from the user’s device to the Web server, and is typically encrypted—however, FoodPanda was sending this as plain text which would be intercepted and read by anyone.
+
+Advertisement
+
+How was this identified?
+
+“I found the bug last month while ordering food online. I created an account on the FoodPanda website and filled in my details but being a cyber security researcher, I was wondering about the safety of the information travelling from my browser to their Web server,” said Singh, CEO and Founder of Secuneus Technologies, in Jalandhar.
+
+Using a tool called burpsuite, which can be downloaded free and is used to monitor post data parameters for e-commerce websites, Singh found that the information was travelling as plain text only, and not in encrypted form and hence is vulnerable to interception.
+
+“Because of this, anyone could have replaced his email with others (registered or non-registered) and order food online. If you are lucky enough to find an email registered on the FoodPanda website then you can order food online,” he pointed out. But beyond the potential for annoyance through fake orders, there was also a real privacy concern, he pointed out.
+
+Advertisement
+
+“You can even view the personal details of the person including his name, address, contact information,” said Singh.
+
+To begin, Singh replaced his own email in Post Data with one of his friend’s email who was sitting just next to him.
+
+“As I submitted the same, I got an error in the website “Email already exist”, but when I refreshed the website, I got surprised to see that I was having complete access of my friend’s account just by having email,” said Singh.
+
+“Here I got complete access of my friend’s account without knowing any password and mobile OTP. Also it was disclosing personal email ID, phone number, address, last order details. Even it was possible to make order, which could create a huge mess between FoodPanda and its genuine customers,”said Singh.
+
+How serious was the breach?
+
+Terming this as a serious Personally Identifiable Information (PII) breach, Suman Kar, CEO, Banbreach, a Kolkata based cybersecurity research and solution firm said that even though such breaches are common in India, they pose a serious threat to privacy and safety of the customers.
+
+“Such data sells like hot cakes in both white and grey markets. It seems that the food giant has failed to upheld the trust of its customers. The company’s Post method architecture seems to have fallen flat with this breach. The Post data has to travel in encrypted form which did not happen in this case,” said Suman.
+
+He further expressed concerns over the safety of women customers whose contact information and address could have travelled to unidentified people.
+
+“No one except the company taking our order and the vendors authorised by it should have an access to view our personal details. It is a serious privacy breach,” said Kar.
+
+Ritesh Bhatia, a Mumbai based cyber crime investigator feels that such breaches are actually the seed of serious and heinous crimes reported in the country and should be dealt strictly.
+
+Advertisement
+
+“Such lapses by e-commerce companies like Food Panda are the major reason for ‘Man in the Middle attacks (MITM)’ reported in India, where the attacker secretly relays and possibly alters the communication between two parties who believe they are directly communicating with each other. The company showed poor practices both in security and privacy by design,” said Bhatia.
+
+He further raised concern on more such MITM attacks which go unreported everyday.
+
+“Such data sells like hot cakes in both white and grey markets. It seems that the food giant has failed to upheld the trust of its customers.”
+
+“While FoodPanda followed good practice, and awarded the security researcher in their bug bounty programme and even fixed the bug, numerous such breaches goes unreported by other companies who in order to save their image do not even fix the bug,” said Bhatia.
+
+He also added that since majority of the e-commerce websites are getting business majorly through apps, it has become more difficult for customers to identify whether they are submitting information in a secure place or not.
+
+“40% of the audited apps did not validate the authenticity of SSL (Secure Socket Layers) certificates presented. This makes them susceptible to MITM attacks. Also, many apps contain several non-SSl links throughout the application. This further allows a hacker to intercept the traffic and inject arbitrary Java Script/HTML code and can create fake login,” he added.
+
+Not the first breach at FoodPanda
+
+This is not the first breach reported at Food Panda. In 2015 FoodPanda shot into the news when some IIIT-Hyderabad students exploiting a bug in its payment gateway and ordered food worth six lakhs in their hostels.
+
+At the final stage of payment, while the students waited for a while without making the actual payment, they received a message that their order has been replaced.
+
+The news of this bug spread like wildfire around the campus, and students started placing massive amounts of orders online. Dozens of FoodPanda delivery boys queued outside the hostel to deliver the food.
+
+Food Panda on noticing the flaw, immediately removed Hyderabad from its delivery list!
+
+Advertisement

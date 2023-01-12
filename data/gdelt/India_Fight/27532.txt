@@ -1,0 +1,81 @@
+Civil society, industry and government must join hands to protect free speech, curb extreme speech
+
+In the summer of 1964, a Ku Klux Klan leader Clarence Brandenburg in rural Ohio led a public rally in which he decried oppression of whites and called for “revengance” against blacks and Jews. His actions that day were seen as inciting violence and he was later prosecuted and convicted under Ohio law.
+
+Subsequent appeals made it to the US Supreme Court, which overturned his conviction, effectively redrawing the line of protected speech in the US to include calls for violence as long as they did not entail “imminent lawless action”.
+
+This ruling, which still stands today, reinforced and expanded the notion that American democracy was best served not by banning hate speech but instead allowing such objectionable and harmful speech to be addressed by the marketplace of ideas. Two complementary political values motivated this approach: strengthening the line against government intrusion into free speech; and promoting public debate over objectionable and harmful speech as a benefit in its own right.
+
+The same essential question facing the US Supreme Court in the Brandenburg case applies to all countries – where to draw the line between protected and proscribed speech. Countries around the world draw this line differently. Many European countries, for example, have made hate speech a crime.
+
+Regulating harmful speech
+
+The internet has compelled many to reconsider the wisdom of relying so much on “the marketplace of ideas”. Online harassment threatens and intimidates many, preventing equal participation in digital life, and the spread of disinformation, objectionable content, and violent extremism suggests that in the digital, the marketplace of ideas is not functioning as well as the US Supreme Court had hoped.
+
+In response, many governments are pushing for new regulatory mechanisms to combat harmful speech. Indeed, online harassment and hate speech is a large and unresolved problem and there is much to be done both in enforcing existing laws in online spaces and in strengthening the marketplace of ideas. Mixing up these two realms is tempting as the locus of so much activity is on social media platforms, but the logic of separating government regulation from questions best left to the private ordering is as important as ever.
+
+For regulators in most countries, increasing enforcement of existing laws is a sensible step that can be taken up without clamping down on content that is objectionable but legal. This will naturally entail a level of cooperation between governments and platforms. Requiring platforms to build structures to be able to respond rapidly to requests for removing illegal content makes sense. And to protect civil liberties, we need better transparency and accountability mechanisms too.
+
+There is too much potential for governments to skirt legal restrictions by leaning on companies informally to remove politically protected speech that is objectionable, in the sense that it is critical of governments.
+
+Pre-screening not viable
+
+Shifting liability for user content to internet platforms would be a mistake that unnecessarily threatens the viability of these platforms as venues for free and open public conversation.
+
+At the heart of the issue is that pre-screening user posts for the presence of illegal content is beyond the reach of even the best-resourced companies. Even if we thought that full monitoring of user content on social media platforms and perfect enforcement were a good idea, this is impossible.
+
+AI is not now – or likely ever – capable of accurately filtering content without human supervision. Even with the hiring of tens or hundreds of thousands of additional content moderators, they still would not be capable of serving as consistently reliable judges of legality. Making internet companies liable for user conduct, for example, by requiring the proactive filtering of illegal speech, would put them in an untenable situation and also certainly result in a drastic reduction in legitimate public discourse.
+
+Holding internet companies responsible
+
+We should not be letting internet companies off the hook, but defining and enforcing community standards above and beyond definitions of legal speech are an entirely different animal, and is highly contested. This is best left to users, civil society, and companies to work through.
+
+This is a formidable task: trying to determine what is normatively acceptable and not across a broad range of sensitive topics with difficult trade-offs at every corner. For example, protecting the dignity and safety of minority groups against speech that marginalises them is seen by others as infringing upon their right to voice legitimate political opinions about protecting traditional social values.
+
+The current system, which attempts to balance conflicting values is rife with problems and imperfections. One obstacle is that large platforms are trying to define global norms for online conduct that apply to all countries and cultures. In addition to the impossibility of setting normative standards that apply to all, the companies have the latitude to enforce these social norms with little recourse for users, unlike offline spaces where dissent is discouraged but harder to muzzle.
+
+We find ourselves at a point in time where internet platforms have unprecedented power over what can and cannot be shared in a large and vital portion of the public sphere. This is particularly uncomfortable as we are now better able to see a full range of human expression in digital form, a good portion of which is repugnant and intended to inflict pain.
+
+We must also recognise that having governments dictate to companies how to exercise this power would mark a dramatic increase in government regulatory control over speech traditionally left to the marketplace of ideas. A better course of action is to apply more pressure on companies to devote more resources to these problems and to elevate the discourse between civil society and company representatives.
+
+Some workable measures
+
+There are a number of measures that may help that are worthy of serious consideration and experimentation. Allowing users greater control over the content they see may help. This could be done either by developing user-controlled content filters or allowing users to employ third-party curation.
+
+We still do not know the full potential for counter-speech to reduce harmful speech online. It is unlikely to help with more than a modest portion of online vitriol and harm, but is a worthy endeavor that is still poorly understood.
+
+There is so much else to be done.
+
+We still do not yet know how to better limit harmful speech and false information online without undermining and threatening the incalculable benefits of online speech. There are many modest but meaningful experiments to be tried and we must redouble efforts to efforts to monitor and document successes and failures.
+
+This will require more attention from companies, governments, researchers, users, and civil society organisations, and much better collaboration across sectors.
+
+Situation in India
+
+In India, as in the any country, the central role for the government is still to define and enforce what is protected and proscribed speech. Government also serves a role in promoting society-wide responses to harmful speech online and off and in promoting the emergence of media systems that act in the public interest. This will depend not on hard power but on leadership, support for civil society, and persuasion.
+
+While the digital public sphere has revealed so many of the weaknesses of the marketplace of ideas, it remains an essential core element of democratic systems. Our next challenge is to find the mix of tools and approaches that strengthen public discourse that work in the digital age.
+
+Robert Faris is the Research Director for the Berkman Klein Center for Internet and Society, Harvard University, USA.
+
+This is the ninth part of a series on tackling online extreme speech.
+
+Also read:
+
+Can online extreme speech be regulated without curbing free speech? This series finds out
+
+How far can political parties in India be made accountable for their digital propaganda?
+
+Strategies to tackle extreme speech on WhatsApp must bring together socio-political, digital worlds
+
+Extreme speech: A people-centric approach will help hold governments, social media firms accountable
+
+Fact-checking vigilantes in India are a bulwark against the move to a ‘post-truth’ world
+
+To address extreme online content, especially of the political kind, an ecosystem approach is needed
+
+Any regulation of online speech in India must safeguard the rights to free speech and privacy
+
+Debate over regulating right-wing extreme speech online must shift to harms such speech can cause
+
+To protect free speech while choking extreme speech, government policymaking must be collaborative

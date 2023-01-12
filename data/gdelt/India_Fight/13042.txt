@@ -1,0 +1,37 @@
+Amid voter data breach row, Andhra govt assures citizens their personal data is safe
+
+Amid voter data breach row, Andhra govt assures citizens their personal data is safe
+
+The state government said all safeguards were in place for data protection and clarified that the procedures followed for data storage and protection were consistent with prevailing Acts.
+
+news Controversy
+
+Dismissing the allegations of data leakage from the government database, the Andhra Pradesh government on Tuesday said the citizens need not be concerned about the security of their personal data.
+
+It said all safeguards were in place for data protection and clarified that the procedures followed for data storage and protection were consistent with the prevailing Acts.
+
+K Vijayanand, Principal Secretary, Information Technology, Electronics and Communications, made a detailed clarification in the wake of Telangana Police registering a data theft case against IT Grids, a company which provides IT services to Andhra Pradesh's ruling Telugu Desam Party (TDP).
+
+Police claimed that the firm had illegal access to private data of citizens and it was using the same for an app developed for TDP cadres to help them in voter profiling in view of ensuing elections.
+
+Vijayanand, however, said that the government in order to take complete advantage of Aadhaar-based applications for the benefit of its citizens, linked virtual IDs of all households including the socio-economic details and the demographics with the citizens' consent.
+
+The repository of this data is called 'People's Hub' and the process of collecting data is called 'Praja Saadhikara Survey' or 'Smart Pulse Survey' which is an ongoing activity.
+
+He said the entire activity was compliant with Aadhaar Act 2016 and the data was being used only for the purpose informed to the citizens.
+
+He said 'People's Hub' data was not available on Internet and it can be used by the registered government agencies for the specified purposes. The data is encrypted and stored in the servers of State Data Centre (SDC) owned by the state government.
+
+To keep a vigil on any unauthorized attempts to access government servers, the usage of data and monitoring transactions, the government set up AP Cyber Security Operations Centre (APCSOC), said Vijayanand.
+
+"The data cannot be accessed by unauthorized agencies and any usage of data can be traced using the cyber security expertise housed in APCSOC. Nobody can access the data without leaving a trace," he said.
+
+The case booked against IT Grids Pvt Ltd for illegal access to confidential data relating to 3.5 crore voters of Andhra Pradesh has sparked the latest row with Naidu questioning Telangana's locus standi to book a case in a matter relating to data of other state and Telangana defending the action with the argument that cases are booked where an offence has occurred.
+
+Continuing his attack on Telangana's TRS government over the alleged data theft case, Andhra Pradesh Chief Minister N. Chandrababu Naidu on Tuesday said there was no protection to data assets in Hyderabad.
+
+"In such a situation who will store data in Hyderabad," asked Naidu during a video conference with TDP leaders.
+
+Naidu reiterated that the data pertains to the TDP, and not the government as is being claimed by the Telangana Police. He alleged that TRS had hatched a conspiracy and was stealing the TDP data to help the YSRCP in the coming elections.
+
+IANS inputs

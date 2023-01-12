@@ -1,0 +1,27 @@
+Suspended on Indian government request, Open Source intelligence accounts are back on Twitter
+
+Twitter suspended several open source intelligence (OSINT) accounts on the platform, reportedly after requests from India for allegedly spreading misinformation on the platform and violating local laws. One prominent account that was suspended was ElintNews, which has been restored. The account run by a British student was suspended for violation of Indian laws, according to a copy of the Twitter notice shared by ThePrint.
+
+Other OSINT accounts that were suspended and later restored were Intellipus, IntelCrab and an account run by Ryan Barenklau, a student based in Texas. Justin Peden, a 19-year-old student in Tennessee who runs IntelCrab, told The Daily Beast , “I’m interested in global affairs and over the years I have amassed an incredible network of contacts, closed and open source… It’s an irony being famed as a retired Pakistani general.”
+
+According to The Daily Beast, which claims to have seen copies of several Twitter notices that were addressed to these accounts, the request for blocking came from the Indian government. Interestingly, the notice sent to Barenklau and ElintNews, which said the tweets were in violation of Indian laws, highlighted tweets which had nothing to do with India, points out the report.
+
+Peden was suspended for maintaining “multiple accounts with overlapping use cases”. The accounts had also given details of Indian military aircraft on February 26 and 27, which was the day of the Balakot strikes, according to a report on The Print.
+
+The live movements were shown by websites like http://www.flightradar24.com, which provide real-time tracking facilities for all flights in the world. These also showed that Indian Air Force jets were moving.
+
+Last month, a report by the journal Great Game India had claimed these accounts were spreading fake news and alleged that they were run by Pakistan’s intelligence agency ISI. When the accounts were suspended, Great Game India also tweeted out saying that these accounts were now gone.
+
+There was quite a bit of chatter on the suspensions
+
+I decided to make a pinned post about the #OSINT accounts that had been shutdown by @Twitter #censorship as a request from an unknown entity from #India I will update the list if more people come under the attack. We must all defend #FreeSpeech.
+
+We must all defend #OSINT — Bogdan Vasylchenko (@BVasylchenko) June 17, 2019
+
+The tweets by Great Game India, which had earlier labelled some of these accounts as spreading fake news and as Pakistani propaganda handles.
+
+Here are some of the Pakistani propaganda handles suspended recently. The notorious @ELINTNews is also gone. Most importantly a NOTICE has been sent to their HQ #CommandEleven as well. Do let us know if you know of other suspended handles. pic.twitter.com/Rw9T9pXqBS — GreatGameIndia (@GreatGameIndia) June 17, 2019
+
+Dear @sfrantzman Do note the other side of the story. ELINTNews and others were caught peddling subversive propaganda under guise of #OSINT during ongoing India-Pak conflict and hence acted upon by Indian Army. Notice also served to #CommandEleven HQ.https://t.co/EKJ2DOHU0G — GreatGameIndia (@GreatGameIndia) June 17, 2019
+
+Twitter issued this statement to us when we reached out for a comment. “We do not comment on individual accounts for privacy and security reasons. Our policies prohibit running multiple accounts and engaging in spammy behaviour.”

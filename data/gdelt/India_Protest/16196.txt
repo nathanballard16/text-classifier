@@ -1,0 +1,89 @@
+ISRO works with Qualcomm to develop improved geo-location chipset
+
+ISRO works with Qualcomm to develop improved geo-location chipset
+
+
+
+by Staff Writers
+
+
+
+New Delhi (Sputnik) Oct 15, 2019
+
+
+
+In 2013, India launched its first navigation satellite - the IRNSS-1A into space.
+
+India is moving forward towards harnessing space technology for national development and to make it accessible for everyone as they go about their daily lives.
+
+To improve the geo-location capabilities of upcoming mobile phones, automotive and Internet-of-Things (IoT) platforms, Indian Space Research Organisation (ISRO) and US-based chip-maker Qualcomm have developed a new chipset platform.
+
+The platform is meant to support the Indian regional Navigation Satellite System (NavIC) - which is an autonomous regional satellite navigation system that provides accurate real-time positioning and timing services, ISRO announced on Monday.
+
+"ISRO is very happy to work with Qualcomm to enable NavIC on mobile platforms", ISRO chairman K. Sivan said in a statement.
+
+The first-ever NavIC demonstration using Qualcomm's "Snapdragon" mobile platform is expected to be showcased by the chipmaker during the three-day India Mobile Congress (IMC) event that commenced in New Delhi on 14 October.
+
+For original equipment manufacturers (OEMs), the new support for NavIC will be available starting in November 2019 on Qualcomm platforms.
+
+India kick-started the process of developing its own domestic navigation satellite system after the US refused to provide Global Positioning System (GPS) data to the Indian Armed Forces during the Kargil conflict with Pakistan in 1999.
+
+In 2013, India launched its first navigation satellite - the IRNSS-1A into space.
+
+Later, in 2018, ISRO successfully replaced the IRNSS-1A, , whose 3 Rubidium atomic clocks had stopped functioning two years ago, with the IRNSS-1I
+
+Currently, a constellation of seven satellites form the NavIC which provides critical foolproof satellite-based navigation signals for both civilian and military purposes.
+
+Source: Sputnik News
+
+
+
+Related Links
+
+Indian Space Research Organisation
+
+GPS Applications, Technology and Suppliers
+
+
+
+
+
+Thanks for being here;
+
+We need your help. The SpaceDaily news network continues to grow but revenues have never been harder to maintain.
+
+
+
+With the rise of Ad Blockers, and Facebook - our traditional revenue sources via quality network advertising continues to decline. And unlike so many other news sites, we don't have a paywall - with those annoying usernames and passwords.
+
+
+
+Our news coverage takes time and effort to publish 365 days a year.
+
+
+
+If you find our news sites informative and useful then please consider becoming a regular supporter or for now make a one off contribution. SpaceDaily Contributor
+
+$5 Billed Once
+
+
+
+
+
+credit card or paypal
+
+SpaceDaily Monthly Supporter
+
+$5 Billed Monthly
+
+
+
+
+
+paypal only
+
+
+
+Reston VA (SPX) Oct 10, 2019
+
+

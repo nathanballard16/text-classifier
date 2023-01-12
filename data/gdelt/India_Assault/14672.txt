@@ -1,0 +1,75 @@
+Note to Lambda School Clones in India: There is a Much Bigger Opportunity than Cloning
+
+In US, Lambda school is truly disrupting the software engineering education – not just with its ISA model (i.e. income sharing agreement), but the format itself.
+
+Primer: Lambda school doesn’t charge fee, unless the student starts to make money and importantly, the online-classroom model takes care of the operational part, ensuring that students can learn from anywhere.
+
+Sweet.
+
+What’s happening in India? There are at least 30+ Lambda school clones that have launched in India. Most of them are plain copy/paste, though there are some amazing opportunities India provide – so here are some thoughts (I did spend some time in this market) which might help founders make a sustainable / high-growth business in this space.
+
+First of all, will ISA work in India?
+
+Answer: It depends (actually, nobody knows the right answer).
+
+The reality? At scale, it may not work. Because there are no clear regulations around ISAs in India. And we all know great is our legal system when it comes to such cases.
+
+But that’s not the point – the India model will have to be a lot more different and could focus on becoming a marketplace (or plainly speaking, services business) – which will place these trained talent and will (also) make money from HR consulting fee.
+
+Lambda school’s “CORE” is cracking the operations model + community.
+
+Given that Lambda school is an online-only model and the entire cohort runs on Slack, it takes away a lot of inefficiencies (of traditional bootcamps) out of the system.
+
+Especially in US, where rentals are high and moving to a new city for a 6-months course is a painful thought, the online-only model helps students save a lot of money and ensures that the focus is on learning.
+
+In India, the scenario is very different. Online learning fails miserably and pretty much everyone has some relative in cities like Bangalore, Mumbai, Chennai etc to ensure that the rental part is taken care.
+
+That is, an online-only model is debatable piece and I am not really sure whether it will work in India (at scale). Plus, since most of the Indian Lambda school clones are focused on freshers, who, largely are confused and may not even care about attending online-classes, I’d totally recommend not taking the online-only route.
+
+Go online-only, if you are teaching working professionals. Which then begs an important question:
+
+This TG can pay for premium courses, so why are you not charging them? Why are you leaving the money on table? Just for some PR shit? Naah! Pass me whatever you are smoking, please?
+
+There are atleast 20 such companies in India making decent revenue
+
+Yes ! No great surprises here.
+
+While Lambda school is a rage in US, the truth is that there are atleast 20 such companies in India who are making $3mn – $4mn annual revenue.
+
+They take freshers – train them and follow a very simple business model of either:
+
+a) HR consulting company, i.e. train talent and place them. Make money from both sides.
+
+b) Contracting business – i.e. train talent and put them as contractor in companies. Make money on retainer basis.
+
+c) Core services business, i.e. become an OPD play and bill this talent (which is Andela’s model and they have executed better than most – keeping the edutech positioning intact)
+
+Either ways, there is comfortable money with these business models.
+
+FYI: Infosys is the original Lambda school
+
+Infosys Mysore Campus
+
+Yes baby!
+
+What do you think is Infosys doing from its Mysore campus?
+
+Infy takes freshers (from tier-2/3 colleges).
+
+Trains them (for free/absorbs the cost/puts a legal binding),
+
+Even pays them during the training process ; and
+
+Makes money ONLY when the trainee is billed against the customers.
+
+A Lambda school clone from India, at scale will look like Infosys’ Mysore campus !
+
+And there is nothing wrong with it ! Really.
+
+There is still a lot of money, but please do not undermine the market opportunity by cloning the model as-is from US (have seen startups even copying the landing page/income share agreement terms from Lambda school).
+
+What’er you do, do it for the right reason : that is, help a lot of worthy fellas learn engineering and not just because there is a successful model out there and cloning it in India will bring you valuation.
+
+The market is big enough for 100 such companies and if you have your heart in the right place, there is surely a great opportunity to create a very big business in this space.
+
+If you are building one and want to talk, feel free to reach out to me (ashish@nextbigwhat.com).

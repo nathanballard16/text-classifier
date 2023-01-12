@@ -1,0 +1,27 @@
+RBI’s Feb 12 circular: SC ruling doesn’t undermine IBC
+
+All cases which were admitted to IBC, including List 1 and List 2 cases, shall continue uninterrupted. Only IBC proceedings which commenced only because of the operation of the Circular shall be halted
+
+The circular dated February 12, 2018 (Circular) was issued by RBI for (i) overhauling all the earlier restructuring frameworks issued by it in the context of debt resolution such as CDR/JLF/S4A/5:25; and (ii) mandating banks/financial institutions pursue action under the Insolvency and Bankruptcy Code, 2016 (IBC) with respect to accounts in which lenders had an exposure of more than Rs 20 billion and where no resolution plan for such an account was implemented within 180 days from the occurrence of default.
+
+Prior to the Circular, RBI had come up with a first list, comprising of twelve defaulters (List 1) and a second list, comprising of twenty-five defaulters (List 2), against whom banks were mandated to commence proceedings under the IBC. By way of the Circular, RBI, rather than getting into a case- or sector-specific default, set out conditions under which banks were mandatorily required to initiate proceedings under IBC against a corporate debtor.
+
+Also read: India Inc’s caste biases crept in at the cost of future profit and growth
+
+
+
+RBI’s rationale for issuance of the Circular was public interest, interest of the national economy and to drive a behavioural change in the credit system. However, there were practical challenges being faced by the various stakeholders where in certain sectors like power, power producers were reeling under a default situation for reasons beyond their control. The power sector had made representations to the Central government in this regard and the 37th Parliamentary Standing Committee Report, on stressed assets in the electricity sector, was finalised in March 2018. The said report observed the need for synchronisation between the guidelines issued by RBI and resolution of systemic issues faced by the power sector.
+
+The success of the IBC process is determined on the basis of value preservation of the corporate debtor on a going concern basis during the insolvency process and value maximisation for stakeholders at the end of the process. If the Circular were to be implemented, a lot of companies in sectors such as power, shipyard and sugar would be pushed into insolvency under the IBC, resulting in a ‘garage sale’ scenario.
+
+Post the Circular, the prescribed period of 180 days to arrive at a resolution plan with consensus amongst all lenders under a contractual framework was becoming difficult to adhere to, and the resultant initiation of IBC proceedings was looming large in a number of cases. The Circular was thus challenged by corporate debtors across various sectors on the grounds that they were being pushed into the IBC process because of the time bomb set out in the Circular. The Supreme Court tagged all matters on this subject in Dharani Sugar and Chemicals Limited vs Union of India & Ors.
+
+In the Dharani matter, the Supreme Court struck down the Circular as being ultra vires Section 35AA of the Banking Regulation Act, 1949 (BRA) , which empowers RBI to issue directions to banks to initiate IBC proceedings in specific matters basis authorisation from the Central government. However, the two conditions: (i) Central government authorisation; and (ii) the circular being in relation to a specific default, were not adhered to by RBI with relation to the Circular.
+
+By striking down the Circular, the Supreme Court has removed the mandatory requirement of banks/financial institutions to commence IBC proceedings at the end of 180 days from default if no resolution qua a corporate debtor is found. However, banks/financial institutions at their discretion can invoke IBC proceedings against any corporate debtor, with it being a statutory right.
+
+There has been a lot of hue and cry raised in different quarters as to whether the IBC process gets undermined on account of the Dharani matter and whether currently admitted matters to IBC may be ousted. In this regard, it is worth noting that the IBC process has not been undermined, and all cases which were admitted to IBC, including List 1 and List 2 cases, shall continue uninterrupted. Only IBC proceedings which commenced only because of the operation of the Circular shall be halted, and for this to happen, banks/financial institutions will have to confirm that a particular proceeding was initiated only because of the Circular for that proceeding to stop.
+
+The framework with respect to CDR/JLF/S4A/5:25 does not automatically get reinstated on account of the Circular being struck down. Nothing prevents RBI from coming up with other circulars to address stress situations or another list of defaulters against whom IBC proceedings may be commenced, provided that such a list is issued in compliance with Section 35AA of the Banking Regulation Act.
+
+The author is Partner at DSK Legal

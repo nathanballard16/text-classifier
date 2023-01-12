@@ -1,0 +1,71 @@
+Fake news during election time is on everybody’s agenda
+
+Mark true or false for the following statements:
+
+a) Malegaon blast-accused Sadhvi Pragya was acquitted of all charges of unlawful activities before being nominated by the BJP to fight elections from Bhopal.
+
+b) Eighty Muslim houses were demolished for the construction of PM Modi’s ambitious Kashi Vishwanath corridor project.
+
+c) Google CEO Sundar Pichai came all the way to India to cast his vote.
+
+d) Wing Commander Abhinandan Varthaman has openly come out in support of the BJP.
+
+If you answered ‘true’ to any of these, sorry to break it to you, you’re a victim of fake news. It’s election time and Indian voters are in the eye of a misinformation storm.
+
+As Internet penetration surges in India — from 137 million internet users in 2012 to 627 million, or nearly 50 per cent of the population in 2019— more and more people are relying on online platforms such as the messaging service WhatsApp for news. At over 230 million users, India is the largest market for the Facebook-owned app. The Reuters Institute’s 2019 report on digital news has found that 52 per cent of the internet users it surveyed in India got their news from WhatsApp. For most lay users, telling truth from fake news can be near-impossible.
+
+Targeting users
+
+“We believe the next election is going to be fought on WhatsApp,” a member of the Bharatiya Janata Party’s (BJP) IT cell, the party’s social media wing, told journalists earlier this year. Around 9 lakh ‘cell phone pramukhs ’ or social media foot soldiers — one for every polling booth in India — are reported to be driving the BJP’s WhatsApp-based campaigns for the ongoing parliamentary elections.
+
+Word of WhatsApp: A file image of Tarun Sengupta, BJP’s IT cell secretary in Asansol, West Bengal, being produced in court for releasing a fake video in 2017
+
+“We are capable of delivering any message we want to the public, whether sweet or sour, true or fake. We can do this work only because we have 32 lakh people in our WhatsApp groups,” BJP president Amit Shah told the party’s social media volunteers last September.
+
+In February, Carl Woong, WhatsApp’s head of communications, said political parties in India had been seen misusing the app ahead of the 2019 general elections. Woong warned the parties against using it as a bulk messaging or broadcasting platform. On April 1, Facebook removed 687 pages linked to the Congress party for “co-ordinated inauthentic behaviour” or, to put it simply, spam. Pro-BJP Facebook pages — around 200 — were also taken down.
+
+Beyond just the flood of misinformation, the bigger worry is the unethical voter targeting — namely, the use of customised messaging after dissecting the voter population into very specific segments on the basis of caste, religion, ideology, and other factors.
+
+Earlier this month, the Election Commission of India (ECI) received a note titled ‘Safeguarding democracy from digital platforms’, which had 167 signatories, including former election commissioners SY Quraishi and N Gopalaswami, the Delhi-based NGO Common Cause, which is dedicated to championing public issues, Internet Freedom Foundation and others.
+
+Among the concerns raised was the likelihood of a significant swing in results brought about through manipulation of electoral newsfeeds and voter targeting. Pointing to the “extent of cooperation between Facebook and the BJP campaign”, including key personnel who worked in both organisations, the dedicated apps of various parties that are reportedly indulging in data gathering for voter profiling and targeting, the letter called for regulatory oversight by the ECI.
+
+“Parties with the capacity to spend may even use, for example, WhatsApp Business Application Program Interfaces to deliver messages to very specific demographics, further dividing the electorate,” the letter said.
+
+The vulnerables
+
+“Today, we realise the potency of misinformation and how it can create lasting narratives,” Pratik Sinha, founder of Alt News, a website seeking to combat fake news, tells BL ink over the phone from Ahmedabad.
+
+In the firing zone: Pratik Sinha, founder of Alt News, busts up to six fake news items every day
+
+He cites the swirl of fake news that followed the recent airstrikes by the Indian Air Force on terror camps at Balakot in Pakistan. The government stated there were 200-300 casualties, as evidence of the airstrike’s success. Sinha’s team managed to prove that a purported image of the attack circulating online was, in fact, related to deaths from a heat wave in Pakistan 10 years ago. Despite the debunking, the image continues to be circulated and finds many takers.
+
+“When we started in 2017, we would post a fake news story once every few days; today we publish up to six stories a day,” says Sinha.
+
+Why do so many people forward fake news without any verification? Last year, BBC India examined this issue in its report Duty, identity, credibility: ‘Fake News’ and the ordinary citizen in India . It found that certain conditions were necessary for the spread of fake news: Namely, the blurring of lines between all types of news; scepticism about the motivations of the news media; the flood of digital information; becoming source-agnostic; and, finally, the broken link between consumption and sharing — meaning, sharing without first reading/viewing/hearing the news.
+
+There were various motives behind the sharing of fake news, the report found. Some did it to verify the news within their networks and some shared it as a civic duty or nation-building exercise. Such news was also shared as an expression of sociopolitical identity. The motives of nation-building and identity usually peak during elections, with political parties vying to seize the day.
+
+Many forwards about Prime Minister Narendra Modi, for instance, have a common narrative of “the Great Man who is single-handedly leading a nation into a glorious future”, how he is “the first leader to get respect and recognition in the west”, how he “keeps the country safe from terrorism” or is “saving Hinduism from perishing”, the report said. A barrage of usually suspect data and statistics typically accompanies such forwards, to lend them a sheen of authenticity.
+
+Yet another report — released in February by the Internet and Mobile Association of India (IAMAI) and Factly, a fact-checking organisation — found that one of the key motivations for sharing fake news was the belief that it might benefit others and keep them safe. Does this suggest that the spread of fake news is backed by good intentions?
+
+“For the 1,200-odd people we reached out to for the survey, yes. Most victims of fake news don’t know it’s fake,” Rakesh Dubbudu of Factly tells BL ink . But WhatsApp forwards have a role in shaping opinions and deepening prejudices, he adds.
+
+Rural India is seeing a flood of fake news in regional languages, targeting the religious identities of a large swathe of illiterate voters. Anti-Muslim messages promoting the concept of a Hindu nation and manipulated videos of people who appear to be Muslim are some of the usual tropes used to target voters along religious lines, says Shalini Joshi, co-founder of Khabar Lahariya, a grassroots media organisation in Uttar Pradesh.
+
+During an election, the specific targets of such fake news are the swing voters, who have no allegiance to any particular party and form 20 per cent of the voter base, says Dubbudu.
+
+Among the groups most susceptible to fake news are those aged below 20 and above 50, according to the findings of the IAMAI-Factly report. For both these age groups, it is usually their first smartphone, and the excitement of sharing, that too for free on a platform such as WhatsApp, proves irresistible. Ironically, there is an undercurrent of trust, too. “The logic is, this message is coming from a friend I trust. Why would he/she send me something untrue,” says Dubbudu.
+
+Underlining the extent to which most Indians remain oblivious to the perils of fake news, the BBC report observed, “To be absolutely clear, Indians at this moment are not themselves articulating any kind of anxiety about dealing with the flood of information in their phones. If anything, they only see the positives of social media.”
+
+Finding solutions
+
+There is a growing clamour for enforceable checks and balances to stem the tide of fake news. In the aftermath of the Cambridge Analytica scandal — the revelation that the British political consulting firm had harvested the personal data of millions of Facebook users without their consent for political purposes — digital social media monopolies and governments are attempting to regulate ad spending. In India, the ECI’s consultations with digital platforms resulted in the adoption of a Voluntary Code of Ethics, effective from March 20. It entails ensuring transparency in political ads, a mechanism for handling complaints of misuse, and enforcing the 48-hour silence on social media before a constituency goes to polls.
+
+Many, like Apar Gupta from the Internet Freedom Foundation, call this too little, too late. “The Code was drafted consulting no expert advisers, and, importantly, it is not legally binding. This is why you see Namo TV (a channel running without a broadcast licence since March 31, featuring the PM’s speeches and content related to the BJP) still influencing voters on poll days,” he says.
+
+WhatsApp’s CheckPoint, a ‘fact-checking service’ released on April 2, appears to barely graze the surface. “Do you suspect it to be misinformation related to the Indian General Elections 2019? To say ‘yes’ please reply with ‘1’. Any other response will end our conversation,” is the response you get on forwarding a news link for verification. Twenty-four hours later, all you get is a message that your request could not be resolved. A day after the service’s launch, the company issued a statement that the service was purely for research and there would be no responses to queries from users.
+
+Dubbudu believes there is no easy answer to the epidemic of fake news. “Fact-checkers, digital companies, media, government and civil society are all in this together,” he says. A handful of people create misinformation, while the vast majority spreads it unknowingly, with no intent to cause public harm. “Our focus should be on bringing about behavioural changes in the latter,” he says. This includes mass outreach to inculcate the habit of fact checking, reverse image checking, and other verification techniques before hitting that ‘share’ button. All alert, in short.

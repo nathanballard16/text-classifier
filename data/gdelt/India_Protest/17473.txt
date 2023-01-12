@@ -1,0 +1,23 @@
+Engineering Offshoring In The Defense Industry
+
+SUCCESS FACTORS OF ENGINEERING OFFSHORING
+
+The defense sector is a unique industry, standing at the intersection of cutting-edge technologies, innovation, national ambition, military strategy and secrets, and the highest technical standards and oversight. The combination of factors adds to the costs and demands placed on the engineering function at companies. To overcome these challenges and stay in the race, Oliver Wyman has identified eight key actions to accelerate and succeed in engineering offshoring:
+
+First, define and establish clear guidelines to ensure collaborators adhere fully to the transfer of activities. Stressing positive motivations – such as additional growth through market proximity, competitiveness, and access to new expertise – is likely to get a better and more constructive reception than an emphasis on competitiveness.
+
+Second, screen your R&D activities to identify which ones to transfer. Build a long-term roadmap: Initially, focus on discrete, non-core engineering activities, such as unit testing or software code development, to build trust. Gradually, however, bigger chunks of development work should be moved offshore, to promote competitiveness and motivate local teams.
+
+Third, create specifications for transferring work early in the process, and make offshore-supplier-management training a must.
+
+Fourth, design a robust local organization and operating model to guarantee quality control of local development. Early on, recruit a local technical leader and a human resource manager.
+
+Fifth, set up strategic partnerships in the target country with engineering services providers to rapidly access trained resources for a quick ramp-up.
+
+Sixth, define the IT architecture that will support the development between the different countries, either through a shared workplace and engineering environment or through data transfers. Cybersecurity and export-control restrictions need to be embedded in the IT architecture.
+
+Seventh, manage cultural differences and domain onboarding by organizing training sessions in Western countries for key local people. Prepare future local managers by pairing them with expatriate managers.
+
+Finally, address the issue of export control licenses early on by involving the Ministry of Defense and sharing the activity transfer roadmap.
+
+Offshoring engineering activities is an opportunity for defense players to benefit from flourishing export markets and take the lead in the talent war. It is also an opportunity for a step change in the engineering processes. The eight key success factors aim at ensuring the sustainability of an outsourcing project and achieving impact in defense projects.

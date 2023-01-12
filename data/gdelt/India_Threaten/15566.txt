@@ -1,0 +1,155 @@
+Enforcement And Claiming Damages & Indemnity
+
+ARTICLE
+
+To print this article, all you need is to be registered or login on Mondaq.com.
+
+An Introduction to Put Options
+
+Options are instruments which derive their validity from an underlying asset. Contracts which have an options clause provide the holder of the option ("Option Holder") the opportunity to buy or sell the underlying asset at an agreed upon price and date. While an options clause in a contract confers a right on the Option Holder to buy or sell its assets, it simultaneously imposes the reverse obligation on the other party to the option contract ("Option Writer") to compulsorily sell or buy the assets of the Option Holder at the pre-determined rate. A put option gives the Option Holder the right to "put" the asset back into the market, i.e. sell the asset at a pre-set price within a specific duration of time to the Option Writer.
+
+Put options have increasingly become popular in commercial practice and commonly feature in various agreements such as share subscription agreements and shareholders agreements as an exit option provided to investors. These options are usually exercised by an investor when they wish to liquidate their investment, either in order to reduce the risk of loss of capital or to book gains.
+
+Even though put options have become commonplace globally, they have faced various regulatory obstacles in India. While considered illegal by Indian regulatory authorities till early 2013, substantial changes in law coupled with progressive judicial interpretation has made it easier to enforce put options in India.
+
+Obstacles to Enforcement of Put Options under the Securities and Contract (Regulation) Act, 1956
+
+The Prohibition Years
+
+The preamble to the Securities and Contract (Regulation) Act, 1956 ("SCRA") states that it was enacted to prevent undesirable transactions in securities. Section 20 of the SCRA, which was subsequently repealed, specifically prohibited all forms of options in securities. In categorical terms, it stated that notwithstanding anything contained in the SCRA or in any other law for the time being in force, all options in securities entered into after the commencement of the SCRA shall be illegal. It went to add that any option in securities entered into before commencement of the SCRA and which remained to be performed, whether wholly or in part, after such commencement, would, to that extent, become void.
+
+In 1969, a notification 1 ("1969 Notification") issued under the SCRA provided that all contracts for sale or purchase of securities other than spot delivery contracts or contracts settled through the stock exchange were illegal and void.
+
+The abovementioned absolute prohibition on all kinds of options, including put options, remained in force until 1995 when section 20 of the SCRA was repealed. In 2000, the 1969 Notification was also repealed. However, almost simultaneously, the Securities and Exchange Board of India ("SEBI") issued a notification dated March 1, 2000 2 ("SEBI 2000 Notification") containing provisions similar to those in the 1969 Notification, which in effect negated the effect of the repeal of the 1969 Notification. An informal guidance was issued by SEBI in 2011 3, wherein it reiterated that since a call or a put option did not constitute a spot delivery contract, the same was not valid in the eyes of law. Thus, SEBI considered options to be in the nature of either forward contracts or derivatives under the SCRA which could not be enforced.
+
+Opening the door to option contracts
+
+In the year 2013, SEBI issued a notification dated October 3, 2013 4 ("SEBI 2013 Notification") which rescinded the SEBI 2000 Notification and expanded the scope of permissible contracts under the SCRA to include option contracts within its ambit. As per the SEBI 2013 Notification, option contracts could be incorporated in shareholders agreements and in the articles of association of companies/body corporates for purchase or sale of securities subject to the following:
+
+the title and ownership of the underlying securities should be held continuously by the selling party for a minimum period of 1 (one) year from the date of entering into the contract; the price or consideration payable for the sale or purchase of the underlying securities pursuant to exercise of any option contained therein should be in compliance with all the laws for the time being in force as applicable; and the contract should be settled by way of actual delivery of the underlying securities. Moreover, these contracts have to comply with the provisions of the Foreign Exchange and Management Act, 1999 ("FEMA") and its corresponding rules and regulations.
+
+The SEBI 2013 Notification additionally explained that section 18A of the SCRA read with section 23(1)(d) of the SCRA, which provides for "contracts in derivatives", would not be applicable to contracts containing option clauses; decidedly excluding option contracts from the purview of contracts in derivatives. As per section 18A of the SCRA, contracts in derivatives will be legal and valid if they are (i) traded on a recognised stock exchange or (ii) settled on the clearing house of the recognised stock exchange, in accordance with the rules and bye-laws of such stock exchange.
+
+The SEBI 2013 Notification stated in express terms that it did not have retrospective effect. It provided that the notification would not affect or validate any contract entered into prior to the date of the notification.
+
+Industry practice
+
+Despite the regulatory obstacles mentioned above, even prior to 2013, put and call option clauses formed part and parcel of many shareholder agreements and related documents. Industry always took the view, backed by legal opinions that, put and call options were contingent contracts and hence not affected by the proscription against off-market contracts which were not spot delivery contracts.
+
+Restrictions on Enforcement of Put Options under the FEMA
+
+The issue and transfer of securities between residents and non-residents was governed by the Foreign Exchange Management (Transfer or Issue of Security by a Person Resident Outside India) Regulations, 2000 ("TISPRO Regulations") which has now been superseded by the Foreign Exchange Management (Transfer or Issue of Security by a Person Resident Outside India) Regulations, 2017 ("FEMA 20(R)"). Historically, the Reserve Bank of India ("RBI") had viewed options allowing companies to receive funds from foreign entities at fixed returns to be a debt investment rather than an equity investment, leading to hindrances in the enforcement of such contracts. However, pursuant to the changes brought about by SEBI through the SEBI 2013 Notification, the RBI issued notifications and circulars dated November 12, 2013 5 ("RBI 2013 Notification"), January 9, 2014 6 ("RBI Jan 2014 Circular") and July 15, 2014 7 ("RBI July 2014 Circular", (together the "RBI 2014 Circulars")) to partially open the door to option contracts involving non-residents. The RBI also introduced several changes to the rules regarding the pricing of securities issued or transferred under the TISPRO Regulations.
+
+RBI's Notification dated November 12, 2013:
+
+The RBI 2013 Notification amended the TISPRO Regulations to expand the ambit of "eligible instruments" which could be issued by an Indian company to non-residents under regulation 5(1)(i). This was done by including in the definition of "eligible instruments" shares or convertible debentures containing an optionality clause but without any option/right to exit at an assured price. Regulation 9(1) of the TISPRO Regulations which dealt with the transfer of permissible securities of an Indian company by a non-resident, underwent significant change to now permit the transfer of shares or debentures containing an optionality clause by a non-resident holding shares or debentures of an Indian company. As per the RBI 2013 Notification, subject to the completion of a minimum lock-in period of 1 (one) year or as prescribed under Annex-B of Schedule 1 (whichever is higher), a non-resident holding the shares or debentures of an Indian company containing an optionality clause and exercising the option/right, could exit without any assured return, subject to the following conditions:
+
+For listed companies: at the market price determined on the floor of the recognised stock exchanges; For equity shares of unlisted companies: at a price not exceeding that arrived on the basis of return on equity as per latest audited balance sheet. The RBI 2013 Notification also provided that any agreement permitting return linked to equity would not be treated as a violation of Foreign Direct Investment ("FDI") policy; For preference shares or debentures: at a price worked out as per any internationally accepted pricing methodology at the time of exit, duly certified by a Chartered Accountant or a SEBI registered Merchant Banker.
+
+The modified regulation 9(1) of the TISPRO Regulations ensured that the non-resident investor was not guaranteed any assured exit price at the time of making such investment/agreements and had to exit at the price prevailing at the time of exit, subject to lock-in period requirement.
+
+RBI's Circular dated January 9, 2014:
+
+The RBI Jan 2014 Circular further widened the scope of eligible instruments, as provided under the RBI 2013 Notification, to allow optionality clauses in equity shares and compulsorily and mandatorily convertible preference shares/debentures to be issued by a resident to a non-resident under the FDI scheme (the eligible instruments together hereinafter referred to as "permissible securities"). It clarified that the optionality clause would oblige the buy-back of permissible securities from the investors at the prevailing price at the time of exercise of the option to enable the investor to exit without any assured return.
+
+RBI's Circular dated July 15, 2014:
+
+The RBI July 2014 Circular brought in significant changes to the pricing guidelines with respect to the issue or transfer of shares or convertible debentures of unlisted companies by non-residents to residents under the TISPRO Regulations. It provided that the exit price given to non-residents on exercising an option could not exceed the price arrived at as per any internationally accepted pricing methodology on arm's length basis, thus removing the concept of return on equity which was introduced through the earlier circulars. This change was seen as the RBI further cementing its stance on disallowing foreign investors from getting any assured returns. The RBI July 2014 Circular also made a slight deviation with regards to transfer of convertible securities having optionality clause, stating that the transfer price could not exceed the price arrived at as per any internationally accepted pricing methodology on arm's length basis, while the RBI Jan 2014 Circular stated that the transfer price had to be worked out as per any internationally accepted pricing methodology on arm's length basis.
+
+Change in the calculation of fair value of shares pursuant to the RBI 2014 Circulars:
+
+The RBI through various notifications and circulars has formulated certain pricing guidelines for the transfer and issue of securities between residents and non-residents under the TISPRO Regulations. Before the introduction of the RBI 2014 Circulars, the price of permissible securities issued/transferred by residents to non-residents in case of unlisted companies could not be less than the fair value of shares at the time of issuing the securities, calculated as per the discounted free cash flow method ("DCF"); and the price of permissible securities issued/transferred by non-residents to residents could not be more than the fair value of shares calculated as per the DCF. However, post the changes introduced by the RBI 2014 Circulars, the fair value has to be calculated based on any internationally accepted pricing methodology for valuation of shares on arm's length basis and the DCF method has been done away with. It is pertinent to note that the caps on the price of permissible securities with respect to fair value still remain the same. The RBI 2014 Circulars did not bring any change in the price calculation for listed companies under the TISPRO Regulations and they are still calculated as per the relevant SEBI guidelines.
+
+Position under FEMA 20(R):
+
+At present, the provisions of the FEMA 20(R) and the Master Direction on Foreign Investment in India 8 ("Master Direction") are aligned with the provisions of the RBI 2014 Circulars with respect to transfer of capital instruments containing an optionality clause by a non-resident. Capital Instruments under the FEMA 20 (R) can contain an optionality clause subject to the higher of a minimum lock-in period of 1 (one) year or as prescribed for the specific sector, but without any option or right to exit at an assured price. Both the Master Direction and the FEMA 20 (R) provide that a non-resident holding capital instruments of an Indian company containing an optionality clause and exercising the option/ right can exit without any assured return, subject to the pricing guidelines prescribed under the FEMA 20(R) and a minimum lock-in period of 1 (one) year or that as prescribed under FEMA 20(R), whichever is higher.
+
+Thus, post 2013, with the introduction of the SEBI 2013 Notification and subsequent amendments made to the foreign exchange regulations and pricing guidelines by the RBI, the law governing options in India (including put option) has provided some clarity to prospective investors to enter into option contracts.
+
+Judicial decisions on the nature of put options
+
+The interpretation with regards to the nature of put options has been subject to much judicial scrutiny by the Bombay High Court. In one of its earliest interpretation on the validity of contingent contracts, the Bombay High Court in the case of Jethalal C. Thakkar v. R.N. Kapur 9 considered whether contingent contracts fell within the ambit of 'ready delivery contracts', which were legal and enforceable under the Bombay Securities Contracts Control Act, 1925 ("Bombay Act"). While analysing the scope of a ready delivery contract under the Bombay Act, it held that there was no time specified for the performance of such contracts and they needed to be performed immediately or within a reasonable period of time. Thus, it concluded that in cases of contracts for purchase or sale of shares where there existed no present obligation and the obligation arose due to some condition being complied with or the occurrence of any contingency, the same would be valid and enforceable and such contracts fell within the ambit of ready delivery contracts.
+
+On the basis of the ruling in Jethalal C. Thakkar v. R.N. Kapur, due to the similarity between a ready delivery contract and a put option (which would also be performed on a spot delivery basis), it was assumed that a put option would also be enforceable in law.
+
+However, in Nishkalp Investments and Trading Company Limited v. Hinduja TMT Limited 10, the Bombay High Court rejected the principle laid down in the case of Jethalal C. Thakkar v. R.N. Kapur from applying to spot delivery contracts as envisaged under the SCRA. The Bombay High Court interpreted the provisions of a spot delivery contract under the SCRA to be different from the provisions of ready delivery contract as provided under the Bombay Act. Accordingly, it held a contingent contract for an arrangement of buy back of shares to be invalid in law, as it did not fall within the ambit of a spot delivery contract as envisaged under the provisions of the SCRA.
+
+Some amount of clarity regarding the treatment of option contracts under the SCRA was brought in by the Bombay High Court in MCX Stock Exchange Limited v. Securities and Exchange Board of India 11, wherein it was contended that option contracts, being in the nature of 'forward contracts' were prohibited under the SCRA. In this case, an impugned order was passed by SEBI where it considered a buy back agreement entered into between MCX Stock Exchange Limited and one of its investors as being in the nature of a 'forward contract' and thus violative of section 16 of the SCRA and therefore illegal. Negating the contention, the Bombay High Court held that a buyback agreement confers an option on the promisee and no contract for the sale or purchase of securities is concluded until such option is exercised by the party holding the option. If such option is not exercised by the Option Holder, no contract for sale or purchase of securities would come into existence and the Option Writer cannot compel performance of the contract. Only when the option is exercised, will a valid contract come into effect, through performance on a spot delivery basis and such contract is lawful. The Bombay High Court further distinguished an 'option contract' from a 'forward contract' stating that while the latter involves a contract for the purchase and sale of securities in the future at a specified price, the nature of an option is that of a privilege and a contract to purchase and sell securities can only be concluded by exercising the option, and thus the two could not be equated.
+
+The view taken by the Bombay High Court in MCX Stock Exchange Limited v. Securities and Exchange Board of India was further cemented by its recent decision in March 2019 in the case of Edelweiss Financial Services Limited v. Percept Finserve Private Limited 12 wherein it upheld the validity of the decision rendered in the MCX Stock Exchange judgement, holding that a put option clause in a contract entered into prior to 2013 did not fall within the purview of a 'forward contract' under the SCRA, as option contracts, unlike forward contracts, were performed on a spot delivery basis on the day they came into existence. According to the Bombay High Court, the fact that the promoter in this case was given some time to repurchase the shares after the exercise of the put option did not by that reason itself, make it a forward contract, as there was nothing to suggest that there existed any time gap between payment and delivery of shares.
+
+The Bombay High Court also delved into the question of whether contracts containing put option clauses were in the nature of a 'contract in derivatives', and found that contracts with put option clauses were not prohibited from being traded under section 18A of the SCRA, as section 18A does not forbid entering into a put option per se but only regulates trading or dealing in such option as a security. It was concluded that merely because a contract contained a put option in respect of securities, the contract could not be termed as a contract in derivatives.
+
+Dishonouring Put Options – Damages and Indemnity
+
+The ever-changing legal scenario on the enforceability of put options in India has not prevented parties from incorporating such optionality clauses into their agreements. Normally, any circumstance preventing the enforcement of such optionality clauses are counter balanced with damages and indemnity clauses for breach thereof.
+
+Further, a legal right to damages for breach of a contract arises from section 73 of the Indian Contract Act, 1872 which provides that " When a contract has been broken, the party who suffers by such breach is entitled to receive, from the party who has broken the contract, compensation for any loss or damage caused to him thereby, which naturally arose in the usual course of things from such breach, or which the parties knew, when they made the contract, to be likely to result from the breach of it." (emphasis supplied)
+
+Therefore, the question arising for consideration is whether courts may validly award damages for the breach of unenforceable optionality clauses or allow enforcement of any indemnity clause enshrined therein.
+
+The Delhi High Court has dealt with and upheld the award of damages for the breach of optionality clauses in NTT Docomo Inc. v. Tata Sons Limited 13.
+
+In the aforesaid case, clause 5.7 of the shareholder agreement ("SHA") executed between NTT Docomo Inc. ("Docomo") and Tata Sons Limited ("Tata") guaranteed an exit to Docomo, in the event that certain performance parameters were breached, by requiring Tata to find a buyer for Docomo's shares in Tata Teleservices Limited at the higher of, the fair value of those shares as on March 31, 2014 or 50% (fifty percent) of the price ("Specified Price") at which Docomo purchased the shares. Alternatively, the SHA required Tata to purchase the shares at the Specified Price in the event that a willing buyer was not found by them. A dispute arose and reference to arbitration was made when Tata failed to find a willing buyer of Docomo's shares or purchase the shares themselves, as per clause 5.7 of the SHA.
+
+The arbitral tribunal was called upon to, inter alia, decide whether Tata's actions constituted a breach of the SHA and whether an award of damages would be in violation of the FEMA guidelines. The Delhi High Court held that Tata's primary obligation under clause 5.7 of the SHA was to find a buyer of the shares, which it had breached. Therefore, it opined that Docomo was entitled to the damages for breach of the primary obligation of Tata which would not amount to payment of sale price under the SHA and would not amount to circumvention of relevant foreign exchange regulations.
+
+The Delhi High Court upheld such arbitral award by holding that, " What was awarded to Docomo were damages and not the price of the shares. ". Therefore, the put option was not enforced and the damages awarded could not be challenged for violation of any law. In any event, according to the Delhi High Court, if the buyer of Docomo's shares was a non-resident purchaser or a resident purchased such shares at fair value, special permission of RBI under regulation 9 of TISPRO Regulations would not be required. Further, clause 5.7 of the SHA was interpreted to be in the nature of a downside protection and was not an assured return on its investment. Thus, the provisions of the SHA were not void or contrary to any law including the foreign exchange regulations.
+
+Similarly, in Shakti Nath v. Alpha Tiger Cyprus Investments 14, the Delhi High Court decided on a challenge to an award of damages for the breach of a shareholder agreement containing a put option which gave foreign investors a post-tax return of 19% (nineteen percent). The ground of challenge in this case was that the award indirectly enforced the put option and thus violated RBI 2014 Circulars by awarding a non-resident investor an assured exit price. The Delhi High Court, however, rejected this argument on the ground that damages had been awarded to the non-resident investor under section 73 of the Indian Contract Act, 1872 and thus did not violate the RBI 2014 Circulars.
+
+In fact, in Cruz City I Mauritius Holdings v. Unitech Limited 15, the Delhi High Court has expressly held that RBI 2014 Circulars may not be applicable to cases where a foreign investor based its claim on breach of contract. It was held that "... Plainly, if an investment is made on representations which are breached, the investor would be entitled to its remedies including in damages...". (emphasis supplied)
+
+Further, the Delhi High Court elaborated "122. E ven if it is accepted that the Keepwell Agreement was designed to induce Cruz City to make investments by offering assured returns, Unitech cannot escape its liability to Cruz City. Cruz City had invested in Kerrush on the assurances held out by Unitech and notwithstanding that Unitech may be liable to be proceeded against for violation of provisions of FEMA, the enforcement of the Award cannot be declined." (emphasis supplied)
+
+Accordingly, it upheld the award of damages to Cruz City I Mauritius Holdings equal to the return provided in the put option clause prescribed in the agreement between the parties.
+
+Such observation had also been made in Rajib Saha v. Paul Berkowitz 16 wherein the Delhi High Court had observed that " The guidelines do not bind an Arbitral Tribunal in determining compensation in lieu of shares and (the) Tribunal was free to determine value of share on the basis of evidence adduced. Where an individual had entered into a share transfer agreement and failed to fulfill its obligations the valuation of shares in terms of RBI guidelines would not be relevant." (emphasis supplied)
+
+It is clear from the aforementioned decisions that the recent judicial trend has noted the paradigm shift in the country's exchange control policy, and the fact that the previously existing regulatory approach has now shifted to more permissible environment. Having said that, it must not be lost sight of the fact that Courts have mostly awarded damages based on the fact that there was no open- ended assured exit option in those case, and what was being enforced and/or awarded was for breach of a contractual promise, rather than a loss of an "assured return". There is but a thin line of difference. In such a situation, it may be doubtful whether an investor will be able to successfully exercise its right under these contracts. In any event, any breach is likely to face a long-drawn arbitration proceeding and a heavily contested enforcement mechanism before any actual recovery is made. Nonetheless, it is heartening to see the recent judicial trend, which may definitely be termed to be a step in the right direction.
+
+Conclusion
+
+The validity of put options has for long been a point of serious concern for investors in India. However, the amendments introduced by Indian regulators since 2013, as well as recent judicial pronouncements, have resulted in providing substantial relief to investors, both domestic and foreign. Nevertheless, it is imperative that investment agreements and shareholders agreements containing put options are drafted carefully to ensure that they are in compliance with all applicable laws.
+
+The principles for drafting a put option clause in the safest possible manner may be summarised as follows: If all parties to the put option contract are residents, the put option clause needs to merely ensure that it is a spot delivery contract when performance under the contract takes place. If the Option Holder is a non-resident, the sale price should not exceed the fair market value. Further, a 1 (one) year lock-in period needs to be provided for in the contract.
+
+If an Option Holder who is a non-resident wishes to sell at a pre-agreed price, irrespective of fair market value at the time of enforcement of the put option clause, the put option clause could be coupled with a 'strategic sale clause', whereby if the put option cannot be enforced for any reason, including a failure by the Option Writer to obtain regulatory consent, the Option Writer has a duty to ensure that the securities which are the subject of the put option are purchased by a third party at the pre-agreed price. Failure to comply with the terms of both the put option clause and the 'strategic sale clause' would give rise to a claim for damages by the Option Holder as per the Delhi High Court's ruling in NTT Docomo Inc. v. Tata Sons Limited. However, it needs to be emphasised that the possibility of the ruling in the NTT Docomo case being set aside by a larger bench of the Delhi High Court or by the Supreme Court cannot be ruled out entirely.
+
+Footnotes
+
+1 Notification No.S.O.2561 dated June 27, 1969.
+
+2 Notification S.O. 184 (E) dated March 1, 2000.
+
+3 SEBI Informal Guidance in the matter of Vulcan Engineers Limited dated May 23, 2011.
+
+4 Notification No. LAD-NRO/GN/2013-14/26/6667 dated October 3, 2013.
+
+5 Notification No. FEMA. 294/2013-RB dated November 12, 2013 vide G.S.R. No. 805(E) dated December 30, 2013.
+
+6 RBI/2013-2014/436 A.P. (DIR Series) Circular No. 86 dated January 9, 2014.
+
+7 RBI/2014-15/129 A. P. (DIR Series) Circular No. 4 dated July 15, 2014.
+
+8 RBI/FED/2017-18/60 FED Master Direction No.11/2017-18.
+
+9 Jethalal C. Thakkar v. R.N. Kapur, AIR 1956 Bom 74.
+
+10 Nishkalp Investments and Trading Company Limited v. Hinduja TMT Limited, 2008 143 Comp Cas 204 (Bom).
+
+11 MCX Stock Exchange Limited v. Securities and Exchange Board of India, 2012(114) Bom LR 1002.
+
+12 Edelweiss Financial Services Limited v. Percept Finserve Private Limited, Arbitration Petition No. 220 of 2014 decided on 27 March 2019.
+
+13 NTT Docomo Inc. v. Tata Sons Limited, O.M.P.(EFA)(COMM.) 7/2016 and IAs 14897/2016, 2585/2017, decided on April 28, 2017.
+
+14 Shakti Nath v. Alpha Tiger Cyprus Investments No.3 Limited, (2017) SCC OnLine Del 6894 (SJ).
+
+15 Cruz City I Mauritius Holdings v. Unitech Limited, (2017) 239 DLT 649.
+
+16 Rajib Saha v. Paul Berkowitz, 2009 (112) DRJ 579.
+
+11th September, 2019
+
+The content of this article is intended to provide a general guide to the subject matter. Specialist advice should be sought about your specific circumstances.

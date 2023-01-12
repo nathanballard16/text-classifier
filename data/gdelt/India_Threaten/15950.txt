@@ -1,0 +1,21 @@
+Indian Railways is proposing to implement facial recognition to identify criminals
+
+Audio player loading…
+
+Indian Railways plans to introduce facial recognition at train stations, and use it with existing criminal databases to identify criminals at scale.
+
+The Railway Protection Force (RPF), which takes care of security around national transport, has proposed to link the Facial Recognition Systems (FRS) with criminal databases from the Crime and Criminal Tracking Network and Systems (CCTNS) to identify criminals who may be using the railways.
+
+This would be a complete overhaul of the security standards at railway stations and should help nab criminals thanks to a smart, AI-backed facial recognition system. This system keeps improving as it learns about 1 lakh new faces every day. It should be able to recognize people even if the database has a ten-year-old photo of the person.
+
+However, Internet Freedom activists explained how there is no privacy protection law in place in India, which renders this entire proposal illegal. “There is no legal authority or framework for any such projects which are being tested as well as already deployed in India. Such a legislative framework is necessary as per the Supreme Court’s right to privacy judgment. Even certain airports which are testing and have deployed facial recognition software under specific rules of the Airports Authority of India Act lack legislative framework and are hence questionable,” said Apar Gupta, executive director of the Internet Freedom Foundation.
+
+This security plan was drafted after the 26/11 terrorist attacks in Mumbai, which targeted the city’s iconic Chhatrapati Shivaji Terminus. Thousands of patrons use railways daily in India, and a security haul of this stature will be a “huge security breakthrough, in terms of preventive policing,” an RPF official added.
+
+RPF’s director-general Arun Kumar explained how they started their pilot run at the Bangalore station and was successful after five months of testing. The contactless, non-invasive FRS covered more than 2,00,000 passengers each day, even through constraints such as sunglasses, hoodies, rush-hour crowds, etc.
+
+Initially, the system was tested around 6-7 years ago, but it was not very efficient, there was a fair bit of delay in the recognition, and many false alarms were raised. The systems were not accustomed to handling the kind of throughput Indian rail stations would require. The following period was used to fine-tune the system for local conditions. Once Bangalore station is covered, they will look to nearby stations such as Yeshwantpur. The next wave will include metros such as Delhi and Mumbai, before expanding to the suburban rail network of Mumbai, Chennai, and Kolkata.
+
+The system is also being trained to recognize suspicious behavior to stay a step ahead of the miscreants. These include people that look visibly worried, have shady movement patterns, people traveling long-distance routes without luggage, etc.
+
+(Via- Hindustan Times)

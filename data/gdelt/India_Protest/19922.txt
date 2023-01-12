@@ -1,0 +1,19 @@
+WhatsApp won’t work on these phones from 2020: Check if your phone is there
+
+WhatsApp has already ended service for some Blackberry and Nokia phones back in the year 2016. A year later, in 2017, the messaging platform stopped service for select Android, Windows, and iPhones running on an older version of the operating system. With 2019 almost coming to an end WhatsApp is ending service for all phones running Windows OS and also some iPhones and Android phones running on old OS versions.
+
+According to an official blog posted by WhatsApp, the messaging platform will stop working for all Windows phone operating systems after December 31, 2019. This means people who still use Nokia Lumia phones and other devices that run on Windows OS will not be able to use WhatsApp after December 31 that is just a few days away.
+
+The blog also mentions that WhatsApp will stop working on all Android phones running on 2.3.7 and older versions and iPhones running on iOS 7 and older versions after February 1, 2020.
+
+Why will WhatsApp stop working on these phones?
+
+WhatsApp is stopping service for phones running on older Android and iOS versions because they don’t offer the kind of capabilities the company requires to expand the app’s features in the future. “If you use one of these affected mobile devices, we recommend upgrading to a newer Android, iPhone, or Windows Phone before the end of 2016 to continue using WhatsApp,” the Facebook-owned messaging platform said in the blog post.
+
+WhatsApp will stop working on these phones instantly after service ends?
+
+No, WhatsApp will not instantly stop working. But the app will not receive any further updates which will eventually end the service. “We will no longer actively develop for these platforms, some features may stop functioning at any time,” WhatsApp said.
+
+Recollecting the days when it all started WhatsApp said, “When we started WhatsApp in 2009, people’s use of mobile devices looked very different from today. The Apple App Store was only a few months old. About 70 percent of smartphones sold at the time had operating systems offered by BlackBerry and Nokia. Mobile operating systems offered by Google, Apple, and Microsoft – which account for 99.5 percent of sales today – were on less than 25 percent of mobile devices sold at the time.”
+
+Today, the scenario is completely different with most people either using Android or iPhones running on the latest OS. To deliver a much-enhanced experience to the users, WhatsApp wants to focus on the mobile platforms that most people use today.

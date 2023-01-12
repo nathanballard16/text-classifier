@@ -1,0 +1,95 @@
+Killer drones: how many are there and who do they target?
+
+What is a drone?
+
+Drones – remotely piloted craft – first appeared in the 1990s when they were used for military surveillance by the US. Familiar advances in miniaturisation and cost mean they are now used for all kinds of purposes – for recreation, filming, monitoring conservation or to deliver vital medicines in remote areas.
+
+Military technology has also advanced, albeit more slowly, and the principal drones used now are evolutions of the technology first deployed to spot hidden Serbian positions during the 1999 Kosovo war. Weapons on drones were first deployed almost immediately after 9/11, their usage since has been bound up with the so-called “war on terror”.
+
+How many military drones are out there?
+
+The vast majority of the many thousands of military drones are used for surveillance, and defence experts predict that will continue. Analysts at information group Jane’s estimate that more than 80,000 surveillance drones and almost 2,000 attack drones will be purchased around the world in the next 10 years.
+
+Weaponised drones are not cheap: experts say the starting price for the technology is about $15m (£12m) per unit, with more for add-ons, on top of the training and the crews needed to pilot them.
+
+It is a world in which the UK is a relatively small but still influential power. The RAF operates nine missile-bearing Reaper drones, one of which is in repair; it plans to buy 16 next-generation Protector drones by 2023 at an initial cost of £415m.
+
+In 2019 alone, Jane’s experts expect the world’s 10 biggest drone powers to spend some $8bn on units.
+
+“The wide variety in types of UAV [unmanned aerial vehicles] makes them suitable for both surveillance and combat missions, with low-cost models able to conduct surveillance operations, opening up the capability for militaries with a smaller budget,” says Greg Murray, a senior analyst at Jane’s.
+
+Which countries are the main users of drones?
+
+The first phase of drone warfare was dominated by three countries: the US, the UK and Israel. The US and UK rely on Predator and latterly Reaper drones made by General Atomics, a Californian company owned by billionaire brothers Neal and Linden Blue. Israel develops its own technology.
+
+Drones rapidly proliferated in a second wave over the past five years, with Pakistan and Turkey developing their own programmes. Since 2016, Turkey has used drones heavily, against the separatist Kurdish PKK in its own country, in northern Iraq and more recently against Kurdish groups in Syria.
+
+China, meanwhile, has begun supplying a range of countries with its Wing Loong and CH series drones, including to the UAE – where they have been used in a string of deadly strikes in Libya – as well as Egypt Nigeria, Saudi Arabia and Iraq, although not every country has been able to deploy what it has bought.
+
+Iran was blamed for an attack on Saudi oil installations in September believed to have involved drones as well as missiles. Proliferation is expected to continue, not least because Russia and India are running behind.
+
+When did drones turn into weapons?
+
+Weaponisation came almost immediately after 9/11. Predator drones had already observed Osama bin Laden, the al-Qaida leader, from the skies. But the first strike, in October 2001, missed its intended target, Taliban leader Mullah Omar. Some of his bodyguards were killed in a vehicle outside the leader’s compound instead. But this failure did not deter the US.
+
+Predator and Reaper drones have since been deployed by the US in Afghanistan and the northern, tribal areas of Pakistan in various iterations of the “war on terror”, as well as in Iraq, Somalia, Yemen, Libya and Syria.
+
+British statistics give some idea of the frequency of contemporary drone strikes (the US does not release equivalent data). In four years of war against Isis in Iraq and Syria from 2014-2018, Reaper drones were deployed on more than 2,400 missions – almost two a day.
+
+Drones account for 42% all UK aerial missions against Isis, and 23% of weapon strikes, according to statistics collected by UK website Drone Wars via freedom of information requests.
+
+Who pilots them?
+
+RAF Reaper drones are piloted from RAF Waddington in Lincolnshire and by UK personnel from Creech air force base in Nevada, where crews operate in three-hour shifts, although the drones themselves are based in the Middle East, almost certainly at an air base in Kuwait.
+
+Pilots on rotation control devices that are able to loiter in a conflict zone for about 16 to 20 hours – and able in theory to hit a target the size of a household pane of glass. Justin Bronk, from military thinktank the Royal United Services Institute, says “drones are five to six times more efficient than conventional air missions”.
+
+SSgt Christopher DeLucia checks a Predator drone at Creech Air Force Base in Indian Springs, Nevada. Photograph: Christian Science Monitor/Getty Images
+
+But Professor Peter Lee, a drones expert at Portsmouth University, says “drones are a lot more analogue than people think. Reapers still need human piloting to take off and land”.
+
+Is drone use legal? Ethical?
+
+Drone usage consistently tests legal norms. They have been deployed by Washington in countries with which the US is not technically at war, using the broad justification that such strikes are part of a “war on terror”.
+
+That relies on a controversial law passed a week after 9/11. Critics say the Authorisation for Use of Military Force permits “perpetual war” but despite Democrat opposition, a Republican majority in the US senate help prevent its repeal. For the US, such drone strikes have become commonplace.
+
+Satellite image of Aramco’s Abqaiq oil processing facility in Buqyaq, Saudi Arabia after a missile and drone strike on the kingdom’s oil industry. Photograph: AP
+
+The practice began under George W Bush, was expanded under Barack Obama and appears to have increased further still under Donald Trump, although in March he made analysis harder by signing an executive order banning reporting of drone casualty details.
+
+In Obama’s first two years in office, 2009 and 2010, 186 drone strikes were launched in Pakistan, Syria and Yemen, according figures supplied to the Bureau of Investigative Journalism. In Trump’s first year and 11 months in office 238 drone strikes were launched.
+
+How accurate are the strikes?
+
+The reality is that civilians have been hit in strike after strike as targets are misidentified. Precise figures, however, are hard to establish as much of the information is classified.
+
+In a rare piece of disclosure, the US said 473 air strikes (from both drones and planes, the figures are not separated out) had been made against targets outside Afghanistan, Iraq and Syria between January 2009 and December 2015. It acknowledged there had been as many as 116 civilian deaths as a result of those strikes, 4% of the reported casualties.
+
+But Jennifer Gibson at human rights group Reprieve says the organisation has tracked a high rate of errors. Research conducted by Reprieve in 2014 “found that in attempts to kill 41 individuals, the US killed as many as 1,147 other people and that on average the high value targets died three times”.
+
+A 12-year-old boy in Jalalabad Hospital after he survived a US drone strike that killed his father. The US military claims it was targeting Isis fighters in Nangarhar province, Afghanistan. Photograph: Andrew Quilty/The Guardian
+
+Some disclosures stretch credibility to the limit. The UK says only one civilian was killed or injured from British drone and air raids in Syria and Iraq, between September 2014 and January 2019. In the those same raids, Britain said 4,315 fighters were killed.
+
+Press reports tell a different story. Over the past 12 months, a US drone strike was believed to have killed 30 farm workers in Afghanistan; up to 11 civilians were killed in a US drone strike in the south of Libya.
+
+What were the most egregious uses of drones?
+
+The US operates a policy of signature or pattern targeting, in which strikes are launched at places where targets are believed to gather, although this can easily lead to mistakes. Leaked documents revealed that a secret US programme, Skynet, had used “metadata” to identify suspicious individuals in Pakistan: top of its list was in fact a journalist – al-Jazeera’s Pakistani bureau chief, Ahmad Zaidan.
+
+It has also used “double tap” targeting, where a site is hit twice or even three times to target first responders considered connected with those already attacked. That idea appears to be spreading: the UAE is accused of operating a double tap strike in Libya this August, which killed 45 people including guests from a nearby wedding who had come over to help.
+
+Politicians, militaries and intelligence agencies in drone-using countries have drawn up “kill lists” on which named individuals are intended to be, in effect, assassinated by drone or in other air strikes, a policy only occasionally publicly acknowledged.
+
+Reyaad Khan, a British citizen fighting for Isis who was killed in an RAF drone attack in Syria. Photograph: YouTube/PA
+
+Reyaad Khan, a British Isis fighter from Cardiff, was killed in Syria aged 21, in an RAF drone strike. The UK was not at war in Syria at the time, but then-prime minister David Cameron asserted he had the power to make the decision to target him. “I am not going to contract out our counterterrorism policy to someone else,” he said.
+
+How will drones change war?
+
+Drones have already changed warfare, providing a more efficient – from the military’s point of view – alternative to conventional aerial missions. But analysts worry that they make it easier for countries to embark on wars and undeclared “shadow wars”, and put non-combatants at greater risk. “Simply put, they transfer risk from combatants to civilians,” says Chris Cole, director of Drone Wars.
+
+The long term question is whether humans will be removed from the loop – the science fiction nightmare where AI-powered drones will select and lock on to targets with no human oversight. There is no shortage of speculation about the topic and concern about the idea, but as yet little evidence of the use of drones, particularly lethal drones, being governed solely by computer.
+
+Nevertheless, the medium-term risk remains, and there is a campaign – Stop Killer Robots – hoping to halt their development with a global treaty, that is opposed by the US, Russia and China. Experts now hope to introduce rules for autonomous warfare, but as with drone technology itself, there is no serious attempt to halt development – or proliferation.

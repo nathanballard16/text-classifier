@@ -1,0 +1,3 @@
+WhatsApp flaw 'puts words in your mouth'
+
+In particular, the encryption technology used by WhatsApp made it extremely difficult - perhaps impossible - for the company to monitor and verify the authenticity of messages being sent by users. Other potential measures to stop the problems highlighted could result in trade-offs in the usability of the app, researchers were told.

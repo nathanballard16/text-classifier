@@ -1,0 +1,37 @@
+Online payment of bills: Four-fold surge in rural and semi-urban India
+
+(Some services with smaller numbers are making significant strides, such as insurance policies to 11 lakh, IRCTC tickets to 20 lakh, and labour registrations to 25 lakh. (Express photo by Ravi Kanoijia)
+
+With Common Service Centres (CSC) replacing pre-mobile era PCO booths, government data show a surge in electricity bill payments and insurance premium renewals, which have emerged as some of the fastest growing non-banking services across rural and semi-urban India over the last five years.
+
+CSC data from 2014 to 2019 analysed by The Indian Express show that customers of CSCs have paid for almost Rs 2,000 crore worth online electricity bills over the last five years, rising from 25 lakh transactions in financial year 2014-15 to almost 1 crore in the last fiscal — a four-fold increase.
+
+Similarly, insurance premium renewals have brought in Rs 1,600 crore, with transactions growing more than six-fold from 2.6 lakh to 17.34 lakh over the past five years.
+
+The total value of CSC transactions that include banking, PAN and passport applications, insurance policies, IRCTC tickets, air and bus purchases, electricity and water bills and mobile recharges since 2014 is Rs 64,400 crore. Data also show a four-fold increase in the number of transactions through CSCs since 2014.
+
+Over the last five years, CSC’s have been used mostly for banking services, but the next largest transaction group with almost three crore payments, mobile e-recharges, has dipped by more than half in the past two years, giving way to electricity bill payments.
+
+Then, public services take the subsequent shares, with district-led government services under the “e-district” project seeing steady growth to 2.5 crore transactions. A total of 2 crore PAN cards, 1.3 crore digital literacy registrations under PMG DISHA, 1.2 crore EPIC cards, and 1 crore PVC cards have also been generated in the past five years.
+
+Electricity bills make up the next share of transactions at six per cent over the last five years. (representational) Electricity bills make up the next share of transactions at six per cent over the last five years. (representational)
+
+Launched in 2006, the IT Ministry’s WiFi-enabled CSC shops act as physical access points to avail government and business services online in almost all the 2.5 lakh gram panchayats.
+
+Under Prime Minister Narendra Modi’s first term, the CSC Special Purpose Vehicles (SPV) entered CSC 2.0, expanding into private partnerships to sustain financial viability. Within the government’s “Digital India” project, they also became a cornerstone in the “DigiGaon” project with six pilot villages in May 2018.
+
+The goal was 700 digital villages to be completed by 2018-end, but only the beginning stages of village identification and surveying have seen the most progress, with less than 40,000 total beneficiaries availing any service. The cost is estimated to be roughly Rs 10 lakh per village, said CSC CEO Dinesh Tyagi.
+
+The Interim Budget in February called for one lakh new digital villages over the next five years. The budget did not allocate specific funds for the new benchmark, but Tyagi estimates Rs 3 lakh will be needed for each village in the next phase. There are roughly 6 lakh villages in India.
+
+The villages are networked through “Wifi-Choupal” — the CSC’s low-cost Internet connectivity scheme in rural India through BharatNet endpoints. Deployed in a little over 33,000 gram panchayats, a total of 47,000 GB of data has been consumed so far through this project.
+
+The WiFi connection provides mostly for banking services in the CSCs. With about 42 banks on offer, the 16 crore transactions with banking correspondents (BC) amount to more than a third of total payments. Transactions on CSC’s own Aadhaar-Enabled DigiPay application saw the steepest growth, collecting 12 crore transactions that make up a little over a quarter of total transactions through the CSCs.
+
+Electricity bills make up the next share of transactions at six per cent over the last five years. The other high grossing transaction, mobile e-charge payments dipped in the past year.
+
+Some services with smaller numbers are making significant strides, such as insurance policies to 11 lakh, IRCTC tickets to 20 lakh, and labour registrations to 25 lakh.
+
+The CSC system will pilot 50 water filtration systems in villages in the next three months as well as start work towards agricultural demonstration plots in the 700 chosen digital villages funded by IFFCO.
+
+“In the past five years, we have been able to excite entrepreneurs in rural India using digital technology,” Tyagi told the Indian Express. “Now, can I make a sustainable commercial model to make safe drinking water?” Tyagi also wants to work with other ministries to streamline government data collection under CSCs.

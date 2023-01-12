@@ -1,0 +1,61 @@
+India’s elections are right around the corner — and the fake news problem is not going away
+
+By GV South Asia
+
+With general elections drawing near and digital disinformation running rampant across multiple online platforms in the country, India’s democracy may soon reach an inflection point.
+
+In 2018, mob lynchings triggered by disinformation spread on WhatsApp claimed more than 30 lives. In the early months of 2019, falsified statistics from the India-Pakistan conflict spread on multiple platforms, leading to mass attacks on Kashmiri students across the country.
+
+In a highly-publicized effort to counter these trends, the Indian government led by Bharatiya Janata Party (BJP) has pressured leading technology companies — mainly Facebook and Twitter — to tackle fake news and prevent the spread of information that could lead to electoral interference.
+
+But experts have found that many of India’s most insidious disinformation campaigns arise from political parties themselves, with their social media cells attacking journalists and activists. On top of this, fact-checking efforts organized by Facebook have had mixed and in some cases harmful results.
+
+With 900 million voters registered across 29 states for the election cycle that will begin in April 2019 and rising levels of political and social tension under the leadership of sitting Prime Minister Narendra Modi, there is a lot riding on this election for Asia’s third-largest economy. Indian citizens will need to be able to find trustworthy news sources online that they can depend on as they make their choices at the ballot box. But this may be easier said than done.
+
+Fact-checking for Facebook
+
+Following a series of allegations and accusations concerning the spread of disinformation on Facebook and WhatsApp (which is owned by Facebook), the parent company has partnered with several local news platforms in India to counter fake news ahead of the biggest democratic elections on earth.
+
+The company identified media platforms, certified by third-party fact-checking programmes, to identify and take action against various types of misinformation. These platforms include India Today, Vishvas News, Newsmobile and Fact Crescendo. Previous members include Boom and international news wire Agence France-Presse(AFP). The coalition platform said it would vet and rate stories for misinformation in various local languages including Hindi, Bengali, Telugu, Malayalam, and Marathi.
+
+In a February 11 statement to Reuters, Facebook’s former India News Partnership Head Manish Khanduri said:
+
+We are committed to fighting the spread of false news on Facebook, especially ahead of the 2019 General Election campaign season. And one way to do that is by growing our partnership with third-party fact-checkers. We now have seven partners across the country covering six languages, who will review and rate the accuracy of stories on Facebook.
+
+The partners have been working to vet information and rate stories and posts, in an effort to reduce their proliferation across the social media platforms and groups.
+
+But following the February 14 terrorist attack in Kashmir that killed 40 people, some of Facebook’s fact-checking partners were found to be sharing unverified information on their platforms.
+
+Dainik Jagran, Newsmobile and India Today were all found to have misreported events and spread distorted information as India and Pakistan reached military confrontation in Pakistan’s Balakot area.
+
+Independent fact-check platform AltNews (which does not participate in Facebook’s partnership program) reported that India Today published four unverified articles relating to Pulwama attack and Balakot strikes. The same group also reported that Dainik Jagran and Newsmobile carried unverified information.
+
+It is not clear what led Facebook’s fact-checking partners to share these unverified reports. Like many people, they may have been caught up in the chaotic online aftermath of the attacks, in which disinformation seemed to be at an all-time high.
+
+AltNews explained that while the partnership initiative may have seemed well-intended, the results of their work appeared to be contributing to the problem at hand:
+
+With a booming industry of misinformation on Facebook, the platform partnering with fact-checking websites is appreciated. However, when such partners are found to be contributors to misinformation, the question arises – is Facebook sincere in its efforts to curb fake news?
+
+The question raised by AltNews is not a new one in the fact-checking world. In an interview with The Guardian, Brooke Binkowski, the former managing editor of the US-based fact-checking website Snopes explained that the group’s partnership with Facebook fell apart when they began doubting Facebook’s intentions.
+
+“They’ve (Facebook) essentially used us for crisis PR,” she said. “They’re not taking anything seriously. They are more interested in making themselves look good and passing the buck…They clearly don’t care.”
+
+What about WhatsApp?
+
+Facebook has also made efforts to counter disinformation spread on WhatsApp, where Indian users make up the largest proportion of its market — there are 200 million WhatsApp users in India, out of a total of 1.5 billion worldwide. Angry mobs killed more than 20 people accused of child kidnapping and bovine smuggling in viral, widely-circulated WhatsApp messages across different states including Rajasthan and Maharashtra.
+
+Curbing the spread of such rumors is a more complex challenge on WhatsApp than on Facebook’s signature platform, given that the content of all messages sent on WhatsApp is encrypted and not readable for the company.
+
+In response to pressure from the Indian government, the company deployed a technical change to the app, reducing the number of users to whom a message can be forwarded to just five. Previously, users could forward any given message up to 20 times on the app. This change was first rolled out in India alone, and then later replicated for the rest of the world.
+
+While technical changes may help to reduce some of the flow of disinformation, a well-resourced and professionally executed disinformation campaign is likely to find a way to circumvent this problem. In the case of India, where many say that party politics and political manipulation are driving the weaponization of WhatsApp, simple technical adjustments may not be enough to solve the problem.
+
+According to a survey from the non-profit Internet and Mobile Association of India and data journalism portal Factly, only 2.7 percent of Indians believe what they read on social media and mostly rely on news media including newspapers.
+
+While the problem of fake news is enormous for South Asia and India, many news platforms are adding to the information chaos by repeating unverified reports, which gain traction on social media. With India’s press freedom ranking in decline, journalists and civil society groups are facing attacks on social media, and restrictions offline, in the form of policies limiting their ability to report the news and work in the public interest.
+
+As they watch the face-off play out between current Prime Minister Narendra Modi and Indian National Congress’ chief Rahul Gandhi, Indians will have to grapple with this increasingly complex information environment where trustworthy news is hard to find and identify.
+
+At the global level, these developments are also contributing to India’s declining protections for media and civil society. According to international civil society group CIVICUS Monitor, India now sits in the “obstructed” category, alongside Brazil, Kenya, Morocco and other countries with mixed records in this area. Venezuela, Turkey, Saudi Arabia, and Iran are in the next level down, which is known as “blocked”.
+
+The report highlights how disinformation campaigns and authoritarian regimes are targeting civil society protests and activism globally, and fake news is an integral part of the problem. India’s approaching election cycle may become a case study in this rapidly developing area.

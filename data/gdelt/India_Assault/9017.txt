@@ -1,0 +1,67 @@
+Knocking off gender inequity to water inaccessibility: How two women-led social impact startups are working towards building a equitable world
+
+YourStory is the outreach partner for SheLeadsTech from Facebook
+
+India’s social sector is probably the silent lifeline in India’s economy. The sector, which addresses key issues – from education, health, access to water, sanitation, poverty alleviation, gender equality -- has played a key role in catalysing social infrastructure and development. And today, the sector plays a bigger role in India’s growth story than ever before, by positively impacting the quality of life at the grassroots and furthering innovation across the social spectrum. And, constituting this social sector are entrepreneurs, development professionals, social activities, impact funds, philanthropists and the private and government bodies. A common factor that unites different players of India’s social sector is their passion for social equality, a sense of purpose and their belief in the promise of tech to improve lives.
+
+We spoke to two such entrepreneurs creating an impact in India’s social sector through their ventures and tech initiatives.
+
+From left: Vibha Tripathi, Swajal; Kirthi Jayakumar, Red Elephant Foundation
+
+Kirthi Jayakumar, Red Elephant Foundation
+
+On December 15, 2012, Kirthi Jayakumar, a young corporate lawyer-turned-development professional turned 25. The very next day, the brutal gang-rape in New Delhi shook the country.
+
+“On December 17, I was at the US Consulate General at Chennai, receiving award for my work with the US-based NGO, Delta Women, which worked for the rights of women in the US and in Nigeria and the right to education for children in Nigeria. It was ironic. It also made me feel like a hypocrite, because here I was, receiving an award when a girl was battling for life, because we as a community sacrificed her at the altar of patriarchy, misogyny, toxic and hegemonic masculinity, and inaction on the part of a civilian populace.”
+
+It was also then that a dissociated memory of her facing gender-based bulling and violence as a child resurfaced.
+
+While Kirthi had been working towards gender awareness, she decided to streamline her efforts into an initiative of her own. That led to her founding The Red Elephant Foundation in June 2013.
+
+Initially, the work at foundation began with Kirthi sharing her story and opening up the space for others to do to the same. Then, she started getting into legal and policy research, hosting interactive and educational workshops to make the youth and the parents community internalise gender equality as the norm. Today, the foundation has two key offerings among others, Saahas and Saruki. Saahas provides support to survivors of gender-based violence and fosters a culture of bystander intervention across 196 countries through 11 particular verticals where help is offered. It is available as a mobile app, a Facebook messenger ChatBot and a web app in six languages. It has comprehensive libraries that offer survivors and bystanders legal, medical and DIY information in addressing gender-based violence. Saruki is a Facebook chatbot that spreads peace by engaging the users in a 50-day peace challenge and sharing a Compassion Footprint Audit, helping users assess their behaviour and determine how to become more peaceful.
+
+Stay Updated Get stories of change makers and innovators from the startup ecosystem in your inbox Please fill in this field. {{#error}} {{error}} {{/error}} {{^error}} Something went wrong. Try again later {{/error}} Welcome Onboard ! You have been successfully registered for our daily newsletter.
+
+“When I began telling my story, I saw it made a huge difference to parents and to-be parents, who began to be vigilant about the vulnerability of their children and helped them have open conversations about staying safe. But when I realised people were beginning to talk openly about issues that were otherwise covert, I realised we needed to also offer solutions. That how’s we navigated into policy and research. And, to put those learnings into action, the workshops were conceptualised. It was during this journey that I realised that while the effort we were putting would help to create ripple effects in the future, there was a desperate need to address the current state of violence against women and that thought led to Saahas and Saruki. Today, the Foundation is focusing on scaling our training workshops and the app. “We are hoping to expand the app into more countries and to make it available in more languages.”
+
+As someone working at the grassroots, Kirthi says her challenges have centered around funding and community buy-in.
+
+“Funding is usually hard to come by when your work involves asking uncomfortable questions and making people see how they've been buying into views that are not ideal. Community buy-in is a big challenge for the same reason - you're swimming against the tide to make change happen. The key has been in understanding that we can facilitate change by working alongside, rather than against.”
+
+Vibha Tripathi, Swajal
+
+After leaving her job at the Electrical Engineering department at the Indian Institute of Technology, Kanpur, Vibha Tripathi joined her US-returned son Advait Kumar, a Penn State alumnus and former JP Morgan employee, to solve problems at grass roots level using technology. The mother-son team co-founded Swajal, a social impact watertech venture with a B2G and B2B model, in 2014. Gurugram-based Swajal designs, manufactures and assembles point-of-use water vending machines or ‘WaterATMs’. The water vending machines provide pure mineral water at an affordable price. “We have a technology-agnostic point-of-use water system that runs on solar energy and has cloud-based remote monitoring capabilities using our proprietary platform,” says Vibha. In less than five years, Swajal now impacts more than 5 lakh people every day across 17 states in India.
+
+“The most integral part of our offering is our core tech platform. While we are a social impact startup, we have continued to push on innovation and technology. We built an entire IT ecosystem for our machines ourselves. We have a DSIR accredited lab and a dedicated team for R&D.”
+
+Further, by encouraging the users to get to their own utensils or reusable bottles to fill, Swajal has been able to reduce usage of single-use plastic.
+
+The founder believes that with water becoming a scarcer resource, they have a vast potential of touching millions of technology-agnostic people. “In addition, our focus on data and process, gives us the confidence that we will be able to scale up our system and deploy it in different regions while aligning to their unique requirements. We have already raised $1.2 million in funding so far. In next two years we plan to raise $5 million and impact 20 million people through clean drinking water.”
+
+Sharing the challenges of working at the grassroots, Vibha says, “Like many social enterprises, we have to work closely with the government. But sometimes, the processes become so opaque and get tiresome. If social enterprises need to really get empowered, we need a complete overhaul in things like tenders, CSR selection, among others.”
+
+Answering the question whether capital is a key challenge, she says,
+
+“Capital is what greases the engine of innovation. As a social impact startup, we have had significant challenge in scaling up with minimal capital. Every decision we make has had to be frugal to create a tight and lean company.”
+
+Startup programmes and what it means for them
+
+With increasing number of startups playing a key role in addressing social challenges in India, Kirthi says the trend is encouraging. “You get to see plenty of powerful startups that are making change happen and are successful in implementing change. But then, limitations and challenge arise because there is silo mentality at play, and they tend to compete rather than collaborate - which keeps change fragmented.”
+
+That said, Kirti believes there is a lot of support.
+
+“SheLeadsTech is a great example where a number tech and learning resources are available. Coming from a legal background, I knew nothing about tech or marketing. For me, the programme opened up a lot of avenues through its AMAs, weekly updates, FB Start, peer mentorship, and unconditional guidance. Also, the mentorship they offer us is unconditional and encouraging. They don't tell us what to do or dismiss our ideas, but rather, allow us to make mistakes and pitch in to help when we fall.”
+
+Talking about the FbStart, a programme that entrepreneurs get access to as part of SheLeadsTech, she says,
+
+“It gave me the muscle I needed to put my marketing together. It's been extremely interesting to identify tools to make marketing material easily, such as Animoto and FB ad credits, and then reach wider audiences through that.”
+
+SheLeadsTech is an initiative by Facebook that focuses on helping women entrepreneurs and women-founded startups go further in the startup journey by providing access to mentors, connect them to fellow entrepreneurs and give them access to tools, technologies and knowledge.
+
+Swajal, too leverages many startups programmes, including SheLeadsTech, to catalyse their development efforts. Sharing the impact that the programme has had for Swajal, she shares, “For instance, right after attending the first event of SheLeadsTech I met a few mentors who helped me out in areas where I really needed help. I believe that mentorship and guidance are time-tested ways to ensure that you’re at the top of your game and that is how She Leads Tech has been very helpful.” Further, she adds,
+
+“Also, a programme like SheLeadsTech is unique because it has a strong focus on building a community, a community of women-led startups. Sometimes, as a founder, especially a woman founder, the endeavour to build and grow a business can be isolating. So when you meet like-minded people at such programmes, it boosts your emotional health and also builds a harmonious relationship that increases chances of success.”
+
+The entrepreneur believes that in addition to startup programmes impact investing will play a critical role in scaling up the approaches that will improve millions of lives. “Social impact startups are growing at a rate of 20 percent in India. This shows that investors are finding investable business models and enterprises in sectors that were previously considered unattractive from a scale or returns perspective. With a combination of high social needs with robust market forces, impact investors in India can make a strong case for growth.”
+
+Watch this video to get a glimpse into what SheLeadsTech offers.

@@ -1,0 +1,23 @@
+LIC warns customers against spurious calls; Know how you can be tricked and how to avoid it
+
+Most time, scammers send customers a mail which looks like it is from their insurance company or bank. Frauds like phishing, email spoofing, cyber extortion, cyberstalking, identity theft, loss from IT theft, and malware attack have become very common.
+
+With the government’s push on financial digitization, there has been an increase in an unwanted byproduct – a rise in cybercrime. Frauds like phishing, email spoofing, cyber extortion, cyberstalking, identity theft, loss from IT theft, and malware attack have become very common in the country these days. To keep its customers safe from the like of frauds, lenders like the State Bank of India (SBI), HDFC Bank and ICICI Bank keep warning their customers from time to time. Not only banks, but insurance companies like Life Insurance Company (LIC), HDFC Life, and SBI Life, have been sending out warning messages and emails to their customers. Some of these companies have also introduced various measures and guidance, that account holders/policyholders must follow to avoid such frauds.
+
+How do these scammers lure you?
+
+Most times, scammers send customers a mail which looks like it is from their insurance company or bank. These emails tell people that they are facing some technical issues in their computer, and hence, ask the customer to re-submit their account information or credit card details. Some also lure customers with emails of discounts or information either to swindle people directly or to defraud them under other person’s name whom the customer knows.
+
+LIC has now warned its customers through SMS, ‘Beware of spurious calls offering alluring benefits. Never share any policy details with unknown callers’. On its website, SBI explains ‘Phishing’ as a common form of Internet piracy. It is used to steal customers’ confidential and personal information. For instance, details like credit card numbers, personal identity details, bank account numbers, net banking passwords, etc. This information is later used by the perpetrators for running up bills on the victim’s credit cards or for siphoning money from the victim’s account. HDFC Life has warned its customers by sending them an e-mail informing about such frauds. ‘Criminals pose as employees of life insurance companies/ IRDAI and contact you through phone calls, SMS or emails. They may trick you with opportunities to earn bonus or benefits on your policy.’
+
+Identify fraud
+
+To verify the URL of the webpage, see that there is the ‘s’ at the end of ‘https://’. ‘S’ stands for ‘secure’ – meaning the page is secured with encryption, as most fake web addresses start with ‘http://’. These are the type of websites you should be aware of. You should also look for the padlock symbol (lock sign) at the right bottom of the browser to know it is a genuine website.
+
+What can you do?
+
+If you feel that there is something wrong with your account or unknowingly you have provided personal information where you should not have, or find out that you have been phished, then report to the bank or the company immediately. Meanwhile, change your password, check your account statement to ensure that it is correct in every respect. Visit the banking or the company website to use other compensatory controls provided by them.
+
+Many banks state that, if you receive an e-mail claiming to be from that respective bank regarding updating sensitive account information like PIN, password, account number, customers should let the bank know by forwarding the e-mail to their respective mail IDs. For instance, ICICI’s fraud reporting mail id – antiphishing@icicibank.com, HDFC life’s service@hdfclife.com.
+
+Things you should avoid doing at all cost:

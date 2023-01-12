@@ -1,0 +1,65 @@
+Aadhaar Amendment Bill: Is Expanding the Use of UID Legally Sustainable?
+
+After a significant amount of debate, both houses of parliament passed the Aadhaar (Amendment) Bill, 2019 last week. While some of the amendments made are in consonance with the directions of the apex court in the Puttuswamy judgment, some of the amendments seek to significantly expand the use of Aadhaar.
+
+This expansion has been done in two ways. Firstly, the scope of some of the amendments significantly exceeds the ambit of Aadhaar prescribed under Section 7 of the Aadhaar Act, 2016 (“the 2016 Act”), which was interpreted by the apex court.
+
+Secondly, the bill permits private entities to use Aadhaar authentication as a means of verifying an individual’s identity, even though Section 57 of the original Act (which enabled private parties to use Aadhaar authentication) was struck down by the Supreme Court.
+
+SC interpretation
+
+Before referring to Section 7 of the 2016 Act, it is instructive to refer to the meaning and purpose of ‘Aadhaar-based authentication’. Under Section 2(c) of the 2016 Act, ‘authentication’ refers to the process by which the Aadhaar number of an individual along with her biometric and demographic information is submitted to the central Aadhaar database (known as the Central Identities Data Repository) for verification of the individual’s identity.
+
+The individual’s identity is verified by checking whether her Aadhaar number and/or biometric information (fingerprint and iris scans) matches with the records present in the Central Identities Data Repository.
+
+Under Section 7 of the original Act, Aadhaar authentication can be used to establish the identity of an individual, for grant of ‘subsidies, benefits and services’, whose expenditure is incurred from the Consolidated Fund of India (CFI). The scope of Aadhaar-based authentication is also highlighted in the Preamble of the 2016 Act, which states that the Act seeks to provide unique identity numbers to individuals for effective delivery of ‘subsidies, benefits and services, whose expenditure is incurred from the CFI’.
+
+Also read: Will the Aadhaar Amendment Bill Pass Judicial Scrutiny?
+
+This scope and definition of Aadhaar – as a tool for effective delivery of welfare schemes and programs whose expenditure is incurred solely from the CFI, was the primary justification behind introducing the legislation as a money bill in the Lok Sabha. It is instructive to recall here that prior to 2016, the Aadhaar project had no legal sanction, and was functioning solely on the basis of an executive notification. Hence, the Aadhaar project derives legal sanction from the 2016 Act, which clearly restricts its use as a tool for establishing identity only for subsidies, benefits and services, whose expenditure is incurred from the CFI.
+
+In his majority opinion in the Puttuswamy judgment, Justice Sikri laid down the exact scope of the terms ‘benefits and services’, as laid down in Section 7. He held that these terms cannot be given an expansive interpretation, and must be interpreted ejusdem generis with the word subsidies. In other words, the terms ‘benefits and services’ should be akin to some form of subsidies, i.e. welfare schemes of the Government where benefits are granted to a certain deprived class, whose expenditure is incurred from the CFI (para 322).
+
+On the basis of this interpretation, it was held that notifications issued by state agencies such as CBSE or the UGC (which made Aadhaar mandatory for giving entrance exams, receiving scholarships etc) were invalid. Furthermore, it was also reiterated that Aadhaar cannot be made a mandatory pre-condition before an individual can take the benefit of government welfare schemes, and that alternative forms of identification should be provided.
+
+The 2019 Amendment Bill does not in any way change the wording of Section 7 or the Preamble of the 2016 Act. However, the bill seeks to amend Section 4 of the 2016 Act, to permit an ‘entity’ to perform Aadhaar authentication if: (i) if it is compliant with privacy and security standards; and (ii) it is permitted to offer authentication services under any other law made by Parliament. An entity may also be permitted to perform authentication if the Central Government and the UIDAI prescribe the same ‘in the interests of the State’ (clause 5(4)).
+
+The term ‘entity’ has not been defined, and can hence be deemed to include any non-State agency, which can be permitted to conduct Aadhaar authentication for any purpose in the future. Furthermore, the Amendment Bill permits mandatory Aadhaar authentication for receipt of any ‘service’, if this is prescribed by another law made by Parliament (clause 5(7)). Hence, this amendment enables Aadhaar to be made mandatory in future for a particular service or function, through another law enacted by Parliament for that purpose.
+
+These changes have been made without, in any way, altering the scope of the terms ‘subsidies, benefits and services, whose expenditure is incurred from the CFI’ as interpreted by the Supreme Court. Hence, permitting the use of Aadhaar authentication for any other purpose, as prescribed through a law enacted by Parliament goes far beyond the restriction placed by the Supreme Court’s interpretation of Section 7.
+
+Also Read: Why Amend the Aadhaar Act Without First Passing a Data Protection Bill?
+
+All that it would now take to bypass this restriction is a law passed by Parliament, which permits the use of Aadhaar for any other purpose. For instance, despite the restriction placed by the Apex Court, the UGC may make Aadhaar mandatory for receiving scholarships by suitably amending the UGC Act, or the CBSE may make Aadhaar mandatory for entrance exams, through a suitable law that prescribes the same.
+
+The amendment hence renders the restrictions placed under Section 7 nugatory. It is significant to recall here that the primary justification for pushing the 2016 Act as a money bill was that Aadhaar was to be used solely for the purposes enunciated by Section 7. The legal sanction for collection of biometric information and authentication, therefore, should ideally be limited to what is prescribed in Section 7.
+
+The Amendment Bill does not in any way alter the Supreme Court’s interpretation of Section 7, which limited its scope to government welfare schemes whose expenditure is incurred from the CFI. Hence, until Parliament alters the scope of Section 7, it is not legally sustainable to expand the scope of Aadhaar for any other purpose that is prescribed by another law enacted by Parliament.
+
+While replying to the debate on the Amendment Bill, Law and IT Minister Ravi Shankar Prasad stated that Parliament has the authority to alter the basis of a judgment of the apex court. While there is no fault in this proposition, allowing the use of Aadhaar authentication to expand (through other laws made by Parliament in future) without amending Section 7 is not legally sustainable for the reasons mentioned above.
+
+Another aspect to be noted here is a contradiction in Justice Sikri’s majority opinion. While on the one hand the use of Aadhaar was limited to government welfare schemes whose expenditure is incurred from the CFI, on the other hand, Justice Sikri upheld the constitutional validity of Section 139AA of the Income Tax Act, 1961 – which made it mandatory for an individual to link his Aadhaar details with his PAN card. The constitutionality of Section 139AA was upheld on the ground that Section 139AA sought to achieve a ‘legitimate state objective’ that was backed by law and satisfied the test of proportionality.
+
+While Justice Sikri on the one hand limits the scope of Aadhaar to government welfare schemes, he simultaneously expanded its scope for any other purpose which sought to achieve a ‘legitimate state objective’. This indirectly permits the expansion of Aadhaar beyond what is prescribed in Section 7, and can be considered as a contradiction in Justice Sikri’s judgment.
+
+This, in my opinion, is one ground on which the majority judgment upholding the constitutional validity of Aadhaar can be reviewed by a future Supreme Court bench.
+
+Scope granted to private entities to use Aadhaar authentication
+
+Under Section 57 of the 2016 Act, private entities were allowed to conduct Aadhaar authentication, pursuant to any law or any contract to that effect. This omnibus provision was struck down by the Supreme Court as it failed to satisfy the test of proportionality.
+
+While the Amendment Bill deletes Section 57, it provides indirect access for private parties by making amendments to the Prevention of Money Laundering Act, 2002 and the Indian Telegraph Act, 1885. This enables telecom service providers and banks to accept Aadhaar as a means of authentication if an individual volunteers to use his Aadhaar details.
+
+Also read: Six Reasons Why the Aadhaar Amendment Ordinance Undermines Democracy
+
+As pointed out here by Vrinda Bhandari, a holistic reading of Justice Sikri’s majority opinion would reveal that by striking down Section 57, the Court struck down the use of Aadhaar by private entities even on a voluntary basis. The use of Aadhaar for any purpose was struck down as unconstitutional for failing to meet the test of proportionality. Hence, the use of Aadhaar by private entities as a means of authentication cannot be indirectly revived through amendments to other legislations.
+
+On this ground, all amendments that permit the use of Aadhaar authentication by private entities can be struck down as unconstitutional.
+
+The road ahead
+
+In all likelihood, the amendments made shall be challenged before the Supreme Court. This shall provide the court with an opportunity to determine whether it is permissible to expand the scope of Aadhaar authentication beyond the restrictions placed through the apex court’s interpretation of Section 7.
+
+The court shall also get an opportunity to decide whether the use of Aadhaar authentication by private entities for any purpose is unconstitutional.
+
+Varun Kannan is a final year student at the West Bengal National University of Juridical Sciences (WBNUJS), Kolkata.

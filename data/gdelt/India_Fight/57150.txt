@@ -1,0 +1,85 @@
+Can an AI Fact-Checker Solve India’s Fake News Problem?
+
+When a group of five men offered a cookie to a young girl in a village in the western Indian state of Maharashtra last July, they didn’t know the gesture would cost them their lives. Across the country, rumours of kidnappers had been circulating on the free messaging service WhatsApp, and when villagers saw the unfamiliar men speaking to the child, they assumed foul play. The five men were accosted, questioned, and then dragged more than half a mile to the neighbouring village of Rainpada — while being beaten with sticks, stones, bricks, and footwear.
+
+By the time police arrived, the men were surrounded by more than 3,000 people, but the crowd wouldn’t let the officers help the victims, said Raju N. Bhujbal, additional superintendent of police for Dhule, the district where the incident took place. “Until sufficient staff arrived, it was a little impossible to control the situation,” he said. “The mob was so angry that they weren’t allowing our officials to take the bodies away. They wanted to burn them at that spot.”
+
+According to Bhujbal, the five men belonged to the Nath Panthi Davari Gosavi tribal community — wanderers who travel from village to village, living off alms. Since they don’t have a fixed address or mobile phones, Undark couldn’t establish contact with the families.
+
+The five men died and the incident led to a furore in the South Asian country. Devendra Fadnavis, then Maharashtra’s chief minister, expressed grief over the killings saying, “Modern means of communication are for sharing information and knowledge, and ought to be used judiciously. It is indeed sad that five people lost their lives only because of rumours.” He also called on social media platforms to better monitor the spread of false information.
+
+Also read: What to Believe — And Not Believe — About Fake News in India
+
+The Rainpada incident is not the only one where misinformation claimed innocent lives in India. According to a BBC News analysis, the country reported at least 31 murders in 2017 and 2018, triggered by disinformation on social media platforms. Many other individuals were left injured.
+
+False words, phony videos, doctored photos, and violent content are regular features on the online ecosystem worldwide. India is no exception, where such content, which often attracts millions of views, has led to grave crimes and even communal and political unrest.
+
+With more than half a billion Indians online, the Indian government and social media platforms like Facebook, Twitter, and WhatsApp now struggle to contain the misinformation and disinformation epidemics. MetaFact, a local start-up, says it has found solutions in a type of artificial intelligence called natural language processing, which combines linguistics and computer science. The goal of the technology is to teach computers how to understand how human, or natural, language works by showing it many examples.
+
+MetaFact’s fact-checking tool, the company says, uses natural language processing, sometimes called NLP, to help detect, monitor, and counter phony stories. The tool is meant to extend to newsrooms “the power to detect and monitor fake news in real time, sifting through all the data cacophony that is generated online,” Sagar Kaul, MetaFact’s founder, wrote in an email to Undark.
+
+The company started with a core team of seven members — three from a technical background, three journalists, and one researcher “to strike an effective balance between journalism and technology.” Other groups have similar online fact-checking tools that use NLP, including Factmata in the United Kingdom. Academics are also experimenting with different forms of artificial intelligence to curb digital disinformation, including the University of Michigan and the Reporters’ Lab at Duke University.
+
+But reactions to tools like MetaFact have been mixed. “Unfortunately, what happens is that a lot of these young startup companies, in order to market themselves, they use all the fancy keywords — AI-powered and this and that,” said Pratik Sinha, founder of the fact-checking website Alt News.
+
+Jency Jacob, managing editor of Boom, a fact-checking site that is working with Facebook in India to combat the spread of false news, noted his skepticism of AI tools as well.
+
+While he hadn’t heard of MetaFact specifically, he wrote in an email to Undark that not all stories are simply true or false. “Many of them are nuanced,” he wrote, “and need an editor’s intervention [to decide] how that story has to be rated. Sometimes we may choose to call a story partly true, partly false, or misleading. We are yet to see any advanced tools that can do the job of a journalist well enough to catch such nuance, and reply in an automated form.”
+
+§
+
+The MetaFact fact-checker works by analysing the context of sentences in news stories, blogs, and social media posts. The tool then flags misinformation and bias by identifying contentious sentences through their tone — interrogative, declarative, and others. Next, the filtered content goes to journalists to bust false and fabricated claims. “Our main focus for training the tool is through making the tool understand context of the sentence rather than the wording itself,” explained Kaul.
+
+But in order to be able to detect misinformation and bias, the MetaFact fact-checker has to be trained, which involves feeding it many, many written examples. So far, all of that training material has been written in English. This may help with the disinformation campaigns flooding much of the internet. But in India, disinformation doesn’t just spread in English, but also in Hindi and other local languages, said Sinha. According to a report from Google and the accounting firm KPMG, in 2016 India had 234 million people who surfed the internet in eight Indian languages, compared to 175 million English users. The gap is predicted to widen, with nine of 10 new users in the country expected to use the internet in Indian languages by 2021.
+
+“We are yet to see any advanced tools that can do the job of a journalist well enough to catch such nuance, and reply in an automated form.”
+
+Sinha said he isn’t “a big supporter of using NLP in the Indian context,” since it doesn’t yet work for local Indian languages. “This limitation would be true for MetaFact as well,” he added, because creating the necessary training datasets in Indian languages “is a huge undertaking.”
+
+Kaul admitted to the gap. “With India, the problem is much bigger as there are many regional languages that are spoken and written here with no available clean data sets,” he said. The government think tank NITI Aayog, he added, “is working on providing clean data sets for eight major [Indian] languages. Our hope is to start the training on our tool on those eight languages.”
+
+Adding to the issue, Jacob pointed out that “what may have been shared in one language with the right intention may become false in another language.” While a journalist who speaks multiple languages can catch these translation errors, he added, current AI tools likely won’t.
+
+Fake videos and photos, the biggest concerns in India, pose additional challenges for fact-checkers like MetaFact. According to P.N. Vasanti, director of the Center for Media Studies, a Delhi-based not-for-profit think tank, different formats — including text-only, audio-only, and video — affect the credibility and believability of fake news in different ways. Vasanti recently concluded a WhatsApp-funded study on misinformation in India with S. Shyam Sundar, co-director of the Media Effects Research Laboratory at Pennsylvania State University. The study, due to publish next year, concluded that video is the most powerful modality in spreading fake news in India.
+
+Vasanti said there is a psychological difference when it comes to the consumption of fake news in different formats. “People tend to believe video more,” she said, “that that is a real thing that has happened, not fake at all.” Her research, she added, showed that “people who see more videos tend to believe in its credibility and share it with larger audiences.”
+
+Adding to Vasanti’s findings, Sinha explained that NLP works well with long stretches of text, but the nature of misinformation in India is not that. “The NLP-based approach will not work [in India] because the amount of text you usually have, especially when the misinformation is centred around an image or a video — the amount of text is only two or three lines.”
+
+Also read: Mob Lynchings: What Kind of WhatsApp Users and Groups Spread Fake News?
+
+Another problem is that unlike other countries, the prime distributor of fake news in India is WhatsApp, not Facebook or Twitter, noted Aasita Bali, a social scientist at Christ University in Bengaluru (formerly Bangalore) who has published on fake news and social media in India. “WhatsApp is very convenient to use,” said Bali, so misinformation can spread faster than it would on a platform like Facebook, which some find less user-friendly. (Bali added that her views do not necessarily reflect those of her employer.)
+
+MetaFact, too, is struggling with the disinformation epidemic on WhatsApp, which has 400 million users in India — “one of the hardest parts of fighting online disinformation,” said Kaul. In response, the company is developing a community of volunteer “Metafixers” who report disinformation to MetaFact. Close to 90 percent of the content that Metafixers share is from WhatsApp — in the form of text, images, and videos.
+
+“We chose fixer as the last part of the name because our members are trying to solve a problem,” Kaul wrote in an email. “By building these communities and keeping them engaged, we develop a bulwark against the flood of false information that dark social [like WhatsApp, Telegram, etc.] propagates.”
+
+Other prominent social media websites in India like Facebook (nearly 270 million Indian users) and Twitter (34 million Indian users) are relatively less complicated for MetaFact, as they are open to data-mining. (WhatsApp encrypts messages between users.) “This is where our AI tool can really come into its own,” said Kaul. Using NLP, “we are able to rapidly detect content that is misleading, biased, clickbait.”
+
+§
+
+While misinformation in general poses a big problem in India, the biggest threat is political propaganda, said Sinha. And most political propaganda campaigns on social media are built around political parties and elections, said Samantha Bradshaw, a researcher on the Computational Propaganda Project at Oxford University, which investigates the use of computer-based approaches to spread misleading information in public life.
+
+“During the 2019 elections, political parties worked with a wide-range of actors, including private firms, volunteer networks, and social media influencers to shape public opinion over social media,” Bradshaw wrote in an email interview. “They also made use of digital advertising, data analytics and automation on platforms such as WhatsApp, Facebook, and Twitter. There was also evidence of computational propaganda on [Prime Minister Narendra] Modi’s own app, NaMo.”
+
+Bradshaw added that part of the problem “has to do with the business model of social media platforms, and the ways in which they prioritise content that makes people angry, fearful, or suspicious because this kind of content — highly emotive content — is what keeps people clicking, scrolling, and connected to the platforms.”
+
+Emotion-based themes like nationalism and nation-building are common in propaganda in India, said Bali. Even cases of mob killing have elements of political disinformation, and the lack of knowledge at the user’s end worsens the crisis. Bali points to the digital divide in India: Although India had more than 468 million smartphone users as of 2017, just having a smartphone might not get “ translated into using it for communication for change.”
+
+While India does have some laws governing information technology, they don’t cover the realm of fake news, said Bali. In order to contain the misinformation crisis, self-regulation by social media platforms should be accompanied by other measures like “legal injunction to cover fake news, law implementation, and constitution remedy,” Bali noted in her study. “Addressing an issue of communication cannot just be technology-based,” she added.
+
+Bradshaw, however, said that AI-based solutions like MetaFact are an important part of the solution to disinformation. The scale and pace at which disinformation spreads on social media requires tools that can automatically detect and remove the content, she said.
+
+Still, “technical solutions alone will not be enough to address the problem,” she added. “We already know that bad actors learn to subvert these systems over time, so they will have to be constantly adapting to the new strategies and techniques of disinformation.”
+
+Also read: During General Elections, WhatsApp Groups Saw More Automated, Spam-Like Behaviour
+
+Kaul agreed. Since MetaFact started working on the issue, he said they have “seen a tremendous mutation” in the way misinformation and disinformation work. “With every new case study and research that comes in this domain, we see a drastic change in how [this content] is created and distributed,” he said. “The other side is also keeping themselves updated on the new tools/ideas being created to fight the fake news problem and they adapt and work accordingly. So as of now, they are always a step ahead of us.”
+
+Bhujbal, meanwhile, said that the police are doing their part to keep false content from claiming more lives. He said that 28 men have been arrested in connection with the killing of the five men who offered a cookie to a young girl in Maharashtra. And even a year and a half after the murders, Bhujbal said the police act on WhatsApp messages that have the potential to cause harm. As soon as officers spot rumours, they prepare and circulate counter-messages to debunk the claims. He said awareness campaigns and announcements over loudspeakers in villages have also become a regular feature of law enforcement in the district.
+
+“The village, where the incident took place — it’s a tribal area. People have mobile phones, but the literacy is low, maturity is low,” said Bhujbal. “No one had imagined that such a heinous crime could take place over some messages. Nothing can be worse than this; it’s a disadvantage of social media.”
+
+Puja Changoiwala is an award-winning independent journalist and author based in Mumbai. She writes about the intersections of gender, crime, human rights, social justice, and development in India.
+
+This article was originally published on Undark. Read the original article.

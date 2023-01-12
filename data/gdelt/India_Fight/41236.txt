@@ -1,0 +1,51 @@
+High-tech weather forecasting aims to bring new hope to Indian farmers facing the devastation of climate change
+
+Shanker Katekar, a 46-year-old farmer in the Indian state of Maharashtra, was discovered lying next to an empty well in the middle of 12 acres (5 hectares) of parched agricultural land. Next to him was a bottle of pesticide and a container he had used to drink it. Declared dead on arrival at a local government hospital, Katekar was one of 14,207 farmers who killed themselves in India in 2011, driven to take his own life by debt and drought.
+
+Katekar’s widow, Anjana Katekar, later described to author Kota Neelima how the well had been his last hope after years of deficient rains. When it finally ran dry, as had others on farms across the state, all he had left was loans he saw no way to repay.
+
+All told, the National Crime Records Bureau of India recorded 296,438 farmer suicides between 1995 and 2016. A major contributor was crop loss, which in turn has been attributed at least in part to the inability to forecast increasing erratic weather in an accurate and timely way.
+
+In response, a private company, Skymet Weather Services, has built one of the world’s largest networks of automated weather stations at extraordinary speed and enlisted corporate clients and public-private partnerships to help farmers predict and prepare for extreme weather. Although it will take some time for awareness and cellphone adoption to spread widely enough to get everyone on board, early signs show great promise for improving rural resilience in the face of a changing climate.
+
+“ We’re coming up with apps, we’re doing a lot of video content and we’re going to push agri-advisories and medium term weather forecasts for the individual farmer. Jatin Singh, founder and managing director, Skymet
+
+Preserve and prepare
+
+Around the world, stronger El Niño weather patterns and climate change are bringing harsher and more frequent droughts — and already-dry India has been particularly hard hit.
+
+The acute water shortage has devastated villagers’ agriculture-based livelihoods. Lacking an ability to anticipate changing weather patterns, farmers have continued traditional practices related to crop choice and timing that evolved under former conditions. As a result, crops have died, leaving livestock starving and thirsty. Major crops, including maize, soya, cotton, sweet lime, pulses and groundnuts have withered. And scientists predict that as temperatures continue to rise and populations keep growing, the region will see harsher water shortages.
+
+Improved weather forecasting could improve farmers’ ability to adapt to these challenging circumstances. By getting accurate information about a delayed monsoon or expected drought into farmers’ hands, weather predictions could help farmers preserve resources and prepare as best as they can, tell them which crops will be best suited to the coming conditions, and provide guidance on when to plant and harvest.
+
+But the scale of the challenge is daunting. Some 60 per cent of India’s more than 1.3 billion people earn a living from agriculture. Beyond the sheer numbers, India’s geographic diversity increases the complexity of accurately forecasting weather and conveying to farmers which crops will best suit their particular circumstances.
+
+Village-to-village level
+
+Jatin Singh, founder and managing director of Skymet, says he persuaded investors to help him set up a network of weather stations across India after severe droughts struck in 2003 and 2009. He recognised a fresh desire from the government to improve the nation’s weather forecasting but was aware of the challenges of a state-run system.
+
+“I started investing [in weather forecasting infrastructure] in such a way that it would be comfortable for [the] government,” he says. “We bear the capital cost at our end, and the government pays us a rental over a long period of time.”
+
+In 2012 there was just one government-run automated weather station in all of India. Today, Skymet owns and runs network of more than 6,500 automatic weather stations spreading across 20 of the country’s 29 states and funded through long-term contracts with state governments.
+
+The weather stations use an array of sensors to monitor temperature, wind velocity and direction, humidity, atmospheric pressure, rainfall, air quality, fog density, and soil water content and chemical composition. The readings are uploaded and fed into a system that generates individual forecasts for each location based on a variety of forecasting models, including comparing the readings with historical data and generating a big-picture model of weather patterns based on the multitude of sensors spread around the country. These artificial intelligence (AI)-generated forecasts are constantly improving their forecasts by fine-tuning based on past performance.
+
+“On a village-to-village level, each farmer will get forecasts and [advice] a fortnight in advance,” Singh says. “This is something they’ve never had.”
+
+With improved forecasting, Singh hopes to be able to help farmers make informed choices about which crops to plant, when. For example, they might choose to switch from water-guzzling sugarcane to growing maize when drought is predicted.
+
+“Or they’ll just not sow,” he says. “Why take the burden of debt? Look for some other kind of work.”
+
+Ambition for the future
+
+Skymet is only just starting to have enough automated weather stations on a village-to-village level to be able to offer hyperlocalised forecasting, so for most of the country this remains an ambition rather than reality. The ability to suggest specific crops to individual farmers based on soil data combined with weather data is also an ambition for the future.
+
+Some farmers are using the weather station network now. However, the penetration rate is still relatively low, largely because many farmers are not aware that it’s available or have not been educated how to use it. There’s still a long way to go until everyone is covered.
+
+Singh envisions a day when every farmer in the country will receive personalised alerts about upcoming weather conditions.
+
+“I am going to get to the individual farmer,” he says from his office on the outskirts of Delhi. “So we’re coming up with apps, we’re doing a lot of video content and we’re going to push agri-advisories and medium term weather forecasts for the individual farmer.”
+
+While improved weather forecasting can’t prevent droughts or floods, there is renewed hope that advances in digital technology and artificial AI can help farmers mitigate the most severe impacts of climate change and so find hope instead of despair in the future.
+
+This story was written by Sam Relph and published with permission from Ensia.com

@@ -1,0 +1,75 @@
+Prominent scientists warn that 5G could pose health hazards
+
+Several eminent scientists in the country have begun a crusade to caution the Government against rushing into auctioning of spectrum for the industry to roll-out 5G technology based services in the country.
+
+These scientists are campaigning, writing letters to Government and Parliamentarians and other opinion makers.
+
+The list of such concerned scientists includes well-known names such as:
+
+1. Prof V S Ramamurthy, former Secretary of the Department of Science and Technology
+
+2. Dr T Ramasami, also a former Secretary of DST and a former Director-General of CSIR
+
+3. Prof Girish Kumar, Deparment of Electronics, Indian Institute of Technology (IIT)-Bombay, who has written a book on EMF radiation hazards
+
+4. Dr L V Krishnan, former Director of Safety Research and Health Physics Programmes at the Indira Gandhi Centre for Atomic Research, Kalpakkam
+
+5. Dr P C Kesavan, a noted radiobiologist and a former Dean, School of Life Sciences, Jawaharlal Nehru University (JNU), Delhi
+
+6. Dr R S Sharma of Indian Council for Medical Research, Delhi, who has studied RF radiation effects on rats
+
+7. Dr Mahadevan Srinivasan, a former atomic scientist at Baba Atomic Research Centre (BARC)
+
+BusinessLine spoke to many of them. Their message is simple: look before you leap. They fear that as the Government prepares to auction the airwaves to raise an estimated Rs 6 lakh crore, commercial interests might override, even overrule, prudence.
+
+These scientists could have taken a cue from a similar campaign of scientists in Europe, who have started a web-based “5G appeal” -- so far, 244 scientists have joined the appeal. The website,
+
+More
+
+A quick look at the 5G appeal
+
+, lists out their names.
+
+The appeal states:
+
+“We the undersigned, scientists and doctors, recommend a moratorium on the roll-out of the fifth generation, 5G, for telecommunication until potential hazards for human health and the environment have been fully investigated by scientists independent from industry.”
+
+After describing in detail how 5G could be harmful, the appeal “urges” the governments of the EU countries to take all reasonable measures to halt the 5G RF-EMF expansion until independent scientists can assure that 5G and the total radiation levels caused by RF-EMF (5G together with 2G, 3G, 4G, and WiFi) will not be harmful for EU-citizens, especially infants, children and pregnant women, as well as the environment.
+
+The public domain today abounds with videos on ill-effects of 5G. Dr Martin Pall, Professor Emeritus of Biochemistry and Basic Medical Sciences at the Washington State University, USA,says that “putting in tens of millions of 5G antennae without a single biological test of safety has got to be the stupidest idea anyone has had in the history of the world.”
+
+Now, Indian scientists have begun to lend their support in favour of comprehensive studies on possible deleterious effects of 5G on health of humans and environment.
+
+What is 5G and why could it be harmful?
+
+Beginning in the early 1990s, successive generations—or ‘G’s—of wireless technological advancement have improved communications in the world.
+
+Wireless technology works by sending signals that are transmitted as energy waves. One established way of expressing the nature of waves is in terms of how many ‘crests’ and ‘troughs’ are generated per second, or frequency—this is expressed as ‘hertz’.
+
+Now, while technologies from 2G in 1991 to 4G in 2008 have used waves of progressively increasing frequencies up to 2.5 Gigahertz (GHz). Then comes 5G, where the frequencies go up to 90 GHz.
+
+Data riding on such fast waves get transmitted quickly—that is why you should be able to download a full 3D movie in half a minute, play video games better and link-up all the appliances in your house to your mobile – so that you can, for instance, switch on your AC from your mobile ten minutes before you arrive home.
+
+But the question that is being raised is - how would it affect a person’s health and well-being?
+
+For sure, such questions have come up before, even in the context of 3G and 4G, but this time around the voices are shriller because the risks could be significantly higher.
+
+Dr L V Krishnan cautions that beam 5G radiations on some rats or humans is not enough. Ill effects of radiation often shows up after a time lag. Even if humans are shown to be safe, the effects on flora and fauna must be comprehensively studied, he says.
+
+Krishnan and others point out that there are many instances where birds and animals have died where 5G experiments have been conducted. The connection between the deaths and 5G has not been proved, but has not been disproved either.
+
+A need for comprehensive studies
+
+“There must be a road map, and the roll-out could be done guardedly, in phases,” Krishnan told BusinessLine .
+
+Radiation is of two types—ionizing and non-ionizing. Gamma rays and X-rays are ionizing, they are so energetic that they rip break atoms in our body and cause cancer. Sunlight and waves from TV sets are non-ionizing, they are okay.
+
+Defenders of 5G point out that the 5G radiation is non-ionizing, hence safe. “That is rubbish,” says Dr Kesavan, pointing out that even UV rays from the sun are non-ionizing, but they do cause cancer.
+
+One video on 5G’s harmful effects wonders if the recorded fall in sperm count in males has something to do with cell phones kept in pockets. “We bathe our genitals in radiation all the time,” it says.
+
+The scientists are at pains to stress that they are not alarmists, nor anti-technology Luddites.
+
+“We have to convince the powers that be in India that during test phase prior to introducing 5G as a regular technology, government, medical commission-monitored cell biology measurements must be mandatory, says Dr Mahadevan Srinivasan.
+
+“I am all for giving people the benefit of technology,” say Dr T Ramasami, “but we must do comprehensive studies to ensure that people are not harmed.”

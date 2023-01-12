@@ -1,0 +1,47 @@
+Apple asked to hand over location data of Kuldeep Sengar in Unnao rape case: What it means
+
+Sengar has cited call detail records to claim he was almost 50 km away from the scene of the alleged crime.
+
+A Delhi district court has asked Apple to hand over location data from the iPhone of expelled BJP MLA Kuldeep Singh Sengar, who is an accused in the alleged rape of a minor girl from Unnao.
+
+The rape allegedly took place in 2017, though Sengar has denied the allegation and claimed he was not at his house in Makhi village, when the alleged rape took place. In his defense, Sengar has cited call detail records to claim he was almost 50 km away from the scene of the alleged crime.
+
+So what exactly has the court asked Apple to hand over? What is Apple’s response?
+
+The Delhi district court wants the exact location data from the iPhone in order to determine Sengar’s location. This could help determine whether the alibi is correct or not. According to PTI, Apple told the court that the company would need to “seek instructions regarding the availability of the data because as of now it is not known whether the data is stored, and if yes, where and if it was stored at all”.
+
+Further, Apple’s counsel said the company would have to decide in which format the data will be made available to the trial court, if at all it is present. The court, meanwhile, wants the data by October 9 and said that it should be furnished along with an affidavit containing a certificate from the system analyst or the authorised person of the company.
+
+Does Apple actually have access to location data of an iPhone?
+
+Apple’s ‘Legal Process Guidelines’ for government and law enforcement, mentioned on the company’s website, outlines the kind of requests that the company accepts and the information that is available from it. The list of information available from Apple includes, device registration, customer service records, iTunes information, Apple retail store transaction and Apple online store purchases, along with gift cards, iClouds, Find My iPhone.
+
+Information from Games Center, info regarding iOS device activation, My Apple ID, iForgot Logs, FaceTime and iMessage are all mentioned in this list. Location is not explicitly mentioned as one of the data points available.
+
+Apple’s support page for ‘Location Services’ says when these are turned on, the iPhone “will periodically send the geo-tagged locations of nearby Wi-Fi hotspots and cell towers (where supported by a device) in an anonymous and encrypted form to Apple”. The company says this is done to augment crowd-sourced database of Wi-Fi hotspot and cell tower locations.
+
+In Apple’s privacy policy, the paragraph on Location services says services such as maps “may collect, use, and share precise location data, including the real-time geographic location of your Apple computer or device”. It adds, “unless you provide consent, this location data is collected anonymously in a form that does not personally identify you and is used by Apple and our partners and licensees to provide and improve location-based products and services.”
+
+What Apple is saying is that this location data cannot be used to identify a particular user. But remember there are third-party apps like Google Maps, etc which are also collecting user data, including location data as well and this information is usually linked to an individual’s account.
+
+Does Apple share data with law enforcement agencies?
+
+Yes, Apple does comply with law enforcement agency requests in India and other parts of the world. Apple’s transparency report for July-December 2018, showed that it received 49 device related requests, 28 requests for financial identifiers, 18 requests for accounts and 8 emergency requests. It said it complied with 23 of the device requests, 16 related to financial identifiers, 11 account requests and six of the emergency requests. It has not revealed the exact nature of the requests.
+
+Device requests typically includes demands received from a government agency seeking data related to device identifiers, which could include serial number or IMEI number, for accounts this could be information such as email address or Apple ID. Account requests also seek other customer content data, such as photos, email, iOS device backups, contacts or calendars, according to Apple’s transparency report page. In India, Apple has not provided content-related data in any of the account requests.
+
+Why about the Find Me feature on iPhone and the location data it collects?
+
+The Find Me (previously Find My iPhone) feature is mentioned in the list of information available with Apple for law enforcement agencies. It is designed to work for users who have lost their Apple device and helps pinpoint the last location where an iPhone or any other Apple device was lost.
+
+In order for this to work, it needs to be activated on that specific device before the iPhone is lost. The feature can also be used to remotely lock or erase an iPhone if it is lost. Apple’s support page says that when it comes to “device location services information” it is stored on each individual device and the company cannot retrieve this information from any specific device.
+
+“Location services information for a device located through the Find My iPhone feature is user facing and Apple does not have content of maps or alerts transmitted through the service,” adds the page. Further connection logs from the Find My iPhone feature are only “available for a period of approximately 30 days.” Apple says if this data is available it “may be obtained with the appropriate legally valid request for the requestor’s country.”
+
+Don’t miss from Explained: In row over HC ban on animal sacrifice, echoes of Tripura’s past
+
+Does Apple push user data to the cloud?
+
+Going by its support page, it does not look like Apple has access to location data, given it is stored on the iPhone. Apple’s philosophy with regard to data processing has been to ensure the device is capable enough to carry out most tasks on the device itself, rather than having everything sent back to the services, which would also explain why it does not have a lot of user content data. And when it comes to users’ iCloud accounts, the data is encrypted and Apple says it “retains the encryption keys in its US data centres”.
+
+Regarding data extraction from an iPhone, Apple’s support page says “it is unable to perform an iOS device data extraction as the data typically sought by law enforcement is encrypted, and Apple does not possess the encryption key”. This applies to all devices from iPhone 6 and later on, which are on iOS 8 or a later version of iOS.

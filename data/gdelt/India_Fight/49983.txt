@@ -1,0 +1,25 @@
+Customers of Golix Exchange Can’t Access Funds
+
+A cryptocurrency exchange in Zimbabwe known as Golix is under fire after its CEO allegedly lost the private keys to the company wallet, thereby preventing customers from withdrawing their funds.
+
+What’s the Trouble with Golix?
+
+Twanda Kembo, the founder and primary executive of the Golix exchange, says he lost the password to the company’s cold storage unit in May of last year. Wow… So, it didn’t occur to you to inform your customers six months ago when this happened? You decide to wait until November to inform your customers?
+
+Two additional sources have confirmed that the password is nowhere to be found, leaving $300,000 in BTC unavailable or “lost.”
+
+In addition, the disappearance of the password comes at a time when the Zimbabwean government issued an order requiring that the exchange shut down its operations. The Reserve Bank of Zimbabwe (RBZ) initiated a ban on bitcoin trading late last year, thereby requiring that all customers of Golix either sell or withdraw their funds prior to the start of the ban.
+
+This means that not only can customers not access their funds, but they are not even eligible to receive refunds given that transactions regarding bitcoin would be illegal. The company has not bothered to even update its social media pages over the past several months to inform customers of the status of their money or the exchange itself.
+
+Kembo, surprisingly, doesn’t appear all that perturbed by the situation. He says that the inability to withdraw funds only applies to a very small percentage of the exchange’s customers, and that while the company isn’t very “profitable right now,” he’s confident there’s enough in Golix’s reserves to keep it steady for the next few years.
+
+In a way, the scenario sounds eerily similar with that of Quadriga CX, the now infamous cryptocurrency exchange situated in Canada. The only difference is that one head executive passed away, thereby causing problems for the exchange, whereas in the case of Golix, the man in charge doesn’t seem to care.
+
+Quadriga CX stirred heavy controversy late last year when its head honcho Gerald Cotten reportedly passed away from Crohn’s disease while working in India. As the only person with access to the company’s private wallet keys, all the money stored away in Quadriga CX became inaccessible to the company’s clients, leaving many people angry and panic-stricken.
+
+This Sounds Familiar
+
+News later emerged suggesting that Cotten had potentially embezzled user funds before he passed away. The company is now involved in a class-action lawsuit.
+
+Kembo claims that the people having difficulty accessing their accounts are new to crypto and “don’t know how” to use it. In addition, he claims that the RBZ has been after Golix for years, claiming it represents a huge threat to the country’s financial infrastructure and that it’s likely freezing accounts.

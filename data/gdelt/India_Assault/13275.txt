@@ -1,0 +1,75 @@
+Tracing The History Of Sedition In India
+
+ARTICLE
+
+To print this article, all you need is to be registered or login on Mondaq.com.
+
+On July 03, 2019, the Ministry of Home Affairs through a written statement informed the Rajya Sabha that the present Government has no plans on amending the laws on sedition in the country so as to ensure that the Government has effective means to combat anti-national, secessionist and terrorist elements. In an election, where national security was a huge factor for the political parties, a stance that was taken by certain political parties was that they would like to amend the present sedition laws in our country1, whereas, the ruling party's stand was that they would like to toughen the existing sedition laws.2
+
+What is Sedition?
+
+Sedition has broadly been understood by many as an offence against public tranquility and being connected in some way or the other with public disorder3. Sedition, as per the law is defined as any words, either spoken or written, or by signs, or by visible representation, that could bring or attempt to bring either hatred, or contempt, or excite or bring to excite any disaffection (including disloyalty or any feeling of enmity) towards the Government established by law4. Sedition is a criminal offence under Section 124A of the Indian Penal Code, 1860 (hereinafter referred to as the "IPC") which could attract either imprisonment up to three (3) years or even imprisonment for life. The law not only allows for imprisonment but also grants the courts the discretion of levying a fine along with imprisonment.
+
+However, any comments that show disapproval of any actions or steps or administrative actions taken by the Government, which have been made with an intent to ensure the Government alters the steps taken by it would not be considered as sedition provided that such statements do not excite or attempt to excite hatred, contempt or disaffection towards the Government.
+
+Section 124A: Constitutional or Unconstitutional
+
+The 1950's witnessed three important decisions with regards to Sedition laws. These were Tara Singh Gopi Chand v The State5(hereinafter referred to as the "Tara Singh Decision"), Sabir Raza v. The State6(hereinafter referred to as the "Sabir Raza Decision") and Ram Nandan v. State7, (hereinafter referred to as the "Ram Nandan Decision").
+
+The Courts in the Tara Singh Decision and in the Sabir Raza Decision were of the opinion that Section 124A of the IPC had become void on the enforcement of the Constitution.
+
+It was in the Ram Nandan Decision, that the Allahabad High Court had to decide the constitutional validity of Section 124A of the IPC. The High Court declared Section 124A of the IPC void by holding that the ministers who formed a part of the Government, were men who frame important questions of policy and need a strong opposition in Parliament. The Court remarked that the Government apart from the opposition is also subject to popular approval/disapproval. The Court held that for the possibility of working of our democratic system, it was essential for criticism of policies and execution of policies and "if such criticism without having any tendency in it to bring about public disorder, can be caught within the mischief of Section 124-A of the Indian Penal Code, then that Section must be invalidated because it restricts freedom of speech in disregard of whether the interest of public order or the security of the State is involved, and is capable of striking at the very root of the Constitution which is free speech (subject of limited control under Article 19(2) )."8
+
+This judgment of the Allahabad High Court was overruled by the Supreme Court in 1962 by the Supreme Court in Kedar Nath Singh v. State of Bihar9. The Supreme Court upheld the constitutionality of Section 124A of the IPC and differentiated between disloyalty to the Government and commenting upon the measures of the Government without inciting public disorder through acts of violence. The Supreme Court held that the expression "Government established by law" was considered as the visible symbol of the State, which was different from a person who was engaged in carrying out administration. The need for Section 124A was highlighted by the fact that if the visible symbol of the State, which is an essential condition of stability of the State is subverted then the very existence of the State would be in jeopardy. This was the rationale for having characterized Section 124A as an offence against the State. The Court was of the view that any act within the meaning of Sedition under Section 124A which could have the effect of subverting the Government would be a crime as the feeling of disloyalty towards the "Government established by law" would import the idea of public disorder by the use of actual violence. Therefore, any words which has the idea of subverting the Government by violence means even implicitly is an offence. The Supreme Court did however clarify that the Section has been carefully worded to "indicate clearly that strong words used to express disapprobation of the measures of Government with a view to their improvement or alteration by lawful means would not come within the section. Similarly, comments,however strongly worded, expressing disapprobation of actions of the Government,without exciting those feelings which generate the inclination to cause public disorder by acts of violence, would not be penal. In other words, disloyalty to Government established by law is not the same thing as commenting in strong terms upon the measures or acts of Government, or its agencies, so as to ameliorate the condition of the people or to secure the cancellation or alteration of those acts or measures by lawful means, that is to say, without exciting those feelings of enmity and disloyalty which imply excitement to public disorder or the use of violence."10
+
+The Supreme Court being the custodian of fundamental rights has the duty to strike down any legislation that violates any fundamental rights, including those that affect freedom of speech and expression which is an essential condition of a democratic Government. However, freedom of speech and expression does have certain restrictions. A citizen can use his freedom of expression to criticize the Government, as long as the citizen does not incite people to violence against the Government, which is considered as a reasonable restriction imposed. Upon a reading of Article 19(1) and 19(2) the Supreme Court concluded that there could be no doubt that had Article 19(2) not been existent, Section 124A would be unconstitutional, however, the expression "in the interest of.. public order" had to be given great amplitude as it is far more comprehensive.
+
+Interpretation of Sedition
+
+The courts have been categorical in stating that criticism of the Government is integral for the functioning of democracy and every criticism of the Government would not be considered as Sedition. The object of sedition is understood to having induced discontent and insurrection and stir up opposition to the Government by inciting the public to rebellion11.
+
+For examining whether a speech or words, etc. are seditious in nature, the real intent of those words, speech, etc. has to be considered. The Delhi High Court in the case of Pankaj Butalia v. Central Board of Film Certification and Ors.12 reiterated the fact that while examining any offence under Section 124A, the intention with which the language of the seditious statement is made has to be looked at holistically and fairly without focusing on isolated passages.
+
+The Supreme Court in the case of Balwant Singh and Ors v. State of Punjab13 was faced with a scenario where the appellants before the Court on the day former Prime Minster Indira Gandhi was assassinated had shouted the slogans "Khalistan Zindabad, Raj Karega Khalsa, and Hinduan Nun Punjab Chon Kadh Ke Chhadange, Hun Mauka Aya Hai Raj Kayam Karan Da." Upon analyzing the prosecution evidence on record it was found that the appellants had only shouted those slogans a couple of times and the slogans had not received any response from any other person. Had the appellants raised slogans with the intention to incite people or create disorder, or had the slogans resulted in any other law and order problem, Section 124A would have been applicable.
+
+The Bombay High Court in Sanskar Marathe v State of Maharashtra and Ors.14 examined whether Mr. Assem Trivedi, a political cartoonist and social activist, through his cartoons, had committed the offence of sedition as through his cartoons, he had allegedly to spread hatred and disrespect against the Government. The matter was dismissed after the State submitted an undertaking to issue guidelines as a circular to police personnel across the state to ensure that when evaluating whether a speech, words, cartoons etc. would be seditious "(i) The words, signs or representations must bring the Government(Central or State) into hatred or contempt or must cause or attempt to cause disaffection, enmity or disloyalty to the Government and the words/signs/representation must also be an incitement to violence or must be intended or tend to create public disorder or a reasonable apprehension of public disorder; (ii) Words, signs or representations against politicians or public servants by themselves do not fall in this category unless the words/signs/representations show them as representative of the Government; (iii) Comments expressing disapproval or criticism of the Government with a view to obtaining a change of government by lawful means without any of the above are not seditious under Section 124A; (iv) Obscenity or vulgarity by itself should not be taken into account as a factor or consideration for deciding whether a case falls within the purview of Section 124A of IPC, for they are covered under other sections of law; (v) A legal opinion in writing which gives reasons addressing the aforesaid must be obtained from Law Officer of the District followed within two weeks by a legal opinion in writing from Public Prosecutor of the State."
+
+The Allahabad High Court in the case of Arun Jaitley v. State of U.P.15had a chance to examine whether an article criticizing the judgment of the Supreme Court on National Judicial Appointment Commission would amount to sedition or not. It was held that for an offence to be constituted under Section 124A of the IPC, the words written or spoken would have to qualify as having a "pernicious tendency of creating public disorder or disturbance of law and order."
+
+Conclusion
+
+As discussed above, there are certain essential elements that are required for a statement, words, cartoons etc. to be considered as seditious, without which an offence of sedition cannot be made out. It has been made clear through judicial interpretation over the past 50 years that Section 124A of the IPC is constitutional and is required to ensure stability of the State and give the Government the tools to effectively combat anti-national, secessionist terrorist elements. However, there is a difference of understanding between the principles laid down by the Apex Court and actual implementation of Section 124A of the IPC which has seen many call for an amendment to the Section and terming Section 124A of the IPC as draconian. However, given the focus on national security, we might only see the law on sedition being made stronger.
+
+Footnotes
+
+1 https://www.indiatoday.in/elections/lok-sabha-2019/story/congress-manifesto-sedition-law-section-124a-1492013-2019-04-02
+
+2 https://www.indiatoday.in/india/story/sedition-law-modi-govt-retain-provision-anti-national-elements-1560982-2019-07-03
+
+3 Brij Bhushan and Anr. v. The State Of Delhi, 1950 Supp SCR 245.
+
+4 Section 124A of the Indian Penal Code, 1860
+
+5 1951 Cri LJ 449
+
+6 Cri App No. 1434 of 1955, D/- 11-2-1958
+
+7 AIR 1959 All 101
+
+8 Ram Nandan v. State, (AIR 1959 All 101)
+
+9 1962 AIR 955
+
+10 ]Kedar Nath Singh v. State of Bihar, (1962 AIR 955)
+
+11 Nazir Khan v. State of Delhi (2003) 8 SCC 4611
+
+12 2015 (151) DRJ 37
+
+13 (1995) 3 SCC 214
+
+14 2015 (2) RCR (Criminal) 351
+
+15 2016 (1) ACR 890
+
+The content of this article is intended to provide a general guide to the subject matter. Specialist advice should be sought about your specific circumstances.

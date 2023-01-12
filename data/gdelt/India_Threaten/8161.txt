@@ -1,0 +1,87 @@
+Should I Wear My Patriotism On My Sleeve? Analysing The Law On Sedition In India And The Demand For Its Stricter Enforcement
+
+One's patriotism and feelings of nationalism have always been a personal sentiment. One need not show their love for the country by explicit gestures as long as the sentiment is genuine from within. Recent times in India show otherwise, as the citizens are expected to wear their patriotism on their sleeve and even by mistake not criticize government institutions. If they do, they are termed an 'anti-national' and booked under the draconian Section 124-A of the Indian Penal Code which contains the offence of sedition.
+
+
+
+The offence of sedition has always been at the center of controversy, given its impact on freedom of speech. However, during this election season the debate was given a new angle, with the Home Minister Shri Raj Nath Singh and the BJP President Shri Amit Shah promising to make the offence more stringent. On the other hand, the Congress in its election manifesto had promised to scrap the section from the statute books. I aim to answer the above controversy (i.e. whether the law on sedition should be made more stringent or scrapped?) in the present post.
+
+
+
+
+
+The post shall first explain Section 124-A ('Section') and how the Courts have interpreted it. This shall be followed by a discussion on the actual implementation of the section by the government machinery. The article shall conclude by discussing whether the provision should be made more stringent or not.
+
+What is Sedition?
+
+The offence of sedition is defined in Section 124-A as the expression by words (spoken or written) or visible representations that excites disaffection or generates hatred against a government established by law . The punishment for the offence ranges between three years to life imprisonment.
+
+The Supreme Court of India laid down the test for the application of the Section in the locus classicus of Kedar Nath Singh v. State of Bihar [A.I.R. 1962 S.C. 955 (India)]. The Court held that the Section is applicable when:
+
+An individual commits an act which creates disaffection/hatred against the government established by law; and
+
+The act is committed with the intention to create public disorder by violence or cause incitement to violence.
+
+The exception to the above is a bona fide criticism of government actions, without exciting or attempting to excite hatred [Explanation 2, § 124-A].
+
+These phrases are explained below.
+
+Government established by law:
+
+The phrase government established by law means either the central government or the state government. It does not include the persons who for the time being are engaged in carrying on the government machinery.
+
+For instance, if an individual criticizes and raises slogans against the army, she/he cannot be booked under the Section as the 'army' does not constitute a 'government established by law' but is only engaged in carrying on the government machinery [Bilal Ahmed v. State of Andhra Pradesh, (1997) 7 SCC 431; Balbir Singh Saini v. State of Haryana, 1988 SCC Online P& H 616].
+
+Similarly, an individual cannot be booked under the section for criticizing the Prime Minister or her/his actions. The Court in Javed Habib v. Govt. of NCT Delhi [2007 SCC Online Del. 891], dealing with such a challenge remarked,
+
+"Where the leader of a political party becomes the head of the government, any criticism of the person and his policies as head of the political party or Government cannot be viewed as sedition." (¶5)
+
+Intention to create public disorder by violence or cause incitement to violence:
+
+The second requirement of the Section is that the alleged act is committed with the intention to create public disorder or cause incitement to violence. The Court's threshold of incitement to violence and creating public disorder is very high. In cases where an individual merely utters certain provocative statements, without eliciting any violence or response, the Section is not attracted.
+
+For instance, on the eve of Mrs. Indira Gandhi's assassination by her Sikh bodyguards, two individuals raised slogans such as 'Khalistan Zindabad' and 'Raj Karega Khalsa'. The Court here held that the individuals could not be booked under the Section as their acts were mere 'casual raising' of some slogans without the intention to incite people to create disorder [Balwant Singh v. State of Punjab, AIR 1995 SC 1785].
+
+On the contrary, where an individual commits visibly violent acts which make clear her/his intention to create public disorder the Section is attracted. For instance, the Section was applicable where the accused kidnapped several hostages with a view to secure the release of his associate, who had been detained for the offence of Hijacking an Air Craft, killing of innocent passengers and collection of Arms and Ammunition [Nazir Khan v. State of Delhi, (2003) 8 SCC 461]. Similarly, the Section was attracted when an individual in a poem titled 'Srujuna' called for violence and overthrowing of government with arms [P. Hemalata v. Govt. of AP, 1976 SCC Online AP 197].
+
+Given the rise of social media, the Courts have started looking at online activities of the accused individuals i.e. Facebook messages, statuses etc. to identify whether the accused had an intention to cause public disorder and incite violence [Arvinder Singh v. State of Punjab, 2018 SCC Online P&H 762 at par. 11].
+
+Bona fide criticism of the Government:
+
+The Section itself allows for bona fide criticism of the government action and policies. Therefore, strong words used by an individual to express disapprobation of the government actions, for ameliorating the conditions of the people, would not attract the Section. The only caveat is that such criticism should not result in incitement of public disorder or use of violence.
+
+Interestingly, renowned politician Mr. Arun Jaitely was charged under the Section for criticizing the Supreme Court's verdict in the National Judicial Appointment's case. Quashing the charges, the Court held,
+
+"A citizen had a right to say or write whatever he likes about the Government or its measures by way of criticism or comments so long as he did not incite people to resort to violence against the Government established by law or with the intention of creating public disorder." [Arun Jaitley v. State of Uttar Pradesh, (2015) SCC Online All 6013].
+
+The bottom line is, as long as one indulges in 'advocacy' of an idea even if critical of the government, she/he is protected. However, once the advocacy calls for or results in incitement to violence, the protection is lost and the individual can be charged under the Section. The likelihood of incitement should be real and not remote. Mere use of words like 'fight' or 'war' does not automatically attract the application of the Section.
+
+Actual Implementation of Sedition Law-
+
+As discussed above, the Section is attracted only where an act is committed with the intention to cause public disorder or incitement to violence. The threshold for proving the same is very high, making sedition an exceptional offence. However, in practice the government bodies apply the provision in the ordinary course.
+
+For instance, as per a study by The Hindu, in Kashmir a lecturer was booked under the Section because he added questions on the unrest in the Kashmir Valley in an examination. Similarly, a Times of India editor was booked under the Section for questioning the competence of police officials and their alleged links with the mafia. In the above cases, none of the requirements of the Section were attracted but the arrests were still made.
+
+The reason for such blatantly illegal arrests is to stifle criticism of the government authorities by arresting the dissidents and putting them through a cumbersome legal process. Even if the dissidents are ultimately freed later, the long legal process acts as a punishment and a deterrent. Statistics back the above statement as well. According to the National Crime Records Bureau, between 2014-16, 179 people were arrested under the Section and no charge sheet was filed till the year end. In 2016 alone, 34 individuals were booked under the Section and only one was convicted.
+
+Need for a stringent Sedition Law?
+
+BJP President Shri Amit Shah during the election season had remarked that we need a stronger sedition law, otherwise how will we send 'tukde-tukde' gang members to jail. I humbly disagree with the above statement.
+
+First, our Penal Law has several provisions which provide for punishment if an individual commits an offence against the state i.e. waging war against the government or abetting the act of waging war (§ 121, IPC), conspiring to wage war against the government (§ 121A) etc. Furthermore, the Unlawful Activities (Prevention) Act, 1967 criminalizes acts which support claims of secession or question the territorial integrity of India.
+
+Second, the existing law on sedition in India achieves the perfect balance between the right to freedom of speech and that of a stable government. By making the laws more stringent, dissent would be stifled and citizens would be mere yes-men to government actions. Any scope of amelioration by dialogue would be nipped in the bud.
+
+Concluding Remarks:
+
+Sedition as an offence was created by the British government in its colonies to curb dissent. During our freedom struggle leaders like Bal Gangadhar Tilak, Mahatma Gandhi and Annie Besant were all booked under this law. While other former British colonies have abolished the law, India continues to have it in the statute books. During the framing of our Constitution, several members of the Constituent Assembly had called for scrapping the law, including Pt. Nehru and Mahatma Gandhi.
+
+However, these calls were not paid heed to and the law continues to exist. Interestingly, our colonial master i.e. UK which enacted this law has itself scrapped it in 2010 stating that it stifles free speech and has a chilling effect.
+
+Even if scrapping seems to be an extreme step given the peculiar nature of India and its conditions, at least the status quo on the interpretation of sedition should be maintained. Making the law more stringent would although create a facade of nationalism where nobody says anything against the government, the growth of the Indian democracy will be crushed.
+
+Justice Menon in Aravindan v. State of Kerala [1983 SCC Online Ker 26] succinctly explained the need for a balanced approach to the Section. He opined,
+
+'9. A Government which keeps quiet when public peace is endangered from whichever quarter is really abdicating its duties. However, it is also necessary to remember that no opinion or ideas could be suppressed by imprisoning those who hold them. Political advocacy that criticized Government or urged unorthodox ideas, if forcefully presented, would create some possibility that it would lead to undesired action. But then what would be the result of suppressing such political advocacy. Apart from the fact that such suppression of ideas may merely divert public opinion from serious social problems which need to be heeded, cutting off opportunity for expression is likely to intensify hostility, drive opposition underground, and prevent the solution of problems by reason rather than by force… Groups which advance anti-democratic ideas do not operate in a political vacuum. They are often motivated by fears, grievances or other conditions which the society should understand and confront. All the more in a country like India where the gap between the rich and the poor is so wide and where a large percentage of the population live below poverty line.'
+
+Recently, a Member of Parliament called the killer of Mahatma Gandhi a 'true patriot'. The statement reminds me of Voltaire's famous words that 'I may not agree with what you say, but I shall defend to death your right to say so.' Such an approach should be the bedrock of a modern progressive democracy which India aims to be. Therefore, while the statement of the MP is shocking and I condemn it, I disagree with the demands that she should be booked under the Section. The MP had the right to say what she said, even if the majority does not agree with her statement.

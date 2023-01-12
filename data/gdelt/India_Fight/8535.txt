@@ -1,0 +1,103 @@
+Aftermath of Pulwama attack shows WhatsApp’s India strategy to contain fake news is flawed- Technology News, Firstpost
+
+Nimish Sawant
+
+14 February 2019 at 3:30 PM IST: A convoy of 78 vehicles were transporting around 2,500 Central Reserve Police Force (CRPF) jawans from Jammu to Srinagar on National Highway 44. An SUV which is said to have been loaded with 350 kg of explosives, driven by jihadist Adil Ahmed Dar, drove a VBIED (vehicle-based improvised explosive device) into the middle of the convoy and blew himself up, killing around 40 jawans on the spot. The death toll has now risen to 49. The attack was followed by a video released by terrorist outfit Jaish-e-Mohammed claiming responsibility for the dastardly attack.
+
+Casualties of this magnitude, especially ones involving terrorist organisations based in Pakistan, are hot button topics in India. No sooner had the country come to terms with the colossal loss of the lives of our jawans than calls of war-mongering started to be heard on many news media outlets as well as on social media platforms.
+
+On 15 February, I received a forward which showed a photo of Congress president Rahul Gandhi standing beside what looked like an obviously photoshopped image of the Pulwama attack bomber Adil Ahmed Dar. I promptly pointed that out and after a quick Google search, sent this link on the group to tell the members that this was fake news. Then another day, there was some video that was shared in another group which claimed to show CCTV footage from the Pulwama attack. Again a quick Google search revealed that this was a car bomb attack in Syria. These forwards were followed by patriotic spiels of how we must call for war on Pakistan.
+
+Of course, such hyper-nationalist messages are also being shared on Twitter and Facebook, but one social media platform which is ubiquitous, where these kind of messages are getting the maximum shares and is again in the news for all the wrong reasons is WhatsApp.
+
+It’s not even been a year since we came to learn how the spread of fake news on WhatsApp could have played an instrumental role in the lynching of innocent citizens. Of course, the mob lynching was more of a law and enforcement problem than merely that of WhatsApp being used to spread the fake messages, but the messaging platform was definitely weaponised in a way during those mob lynchings. WhatsApp announced scores of measures since then, yet here we are again.
+
+What’s happening on WhatsApp
+
+Journalist Kunal Purohit in his investigative news story on Firstpost spoke about the kind of messages being generated within closed groups for circulation on WhatsApp.
+
+“An investigation reveals that political WhatsApp groups, run by sympathisers and workers of political parties, saw a flood of disinformation within hours of the attack. From systematic warmongering through similar messages in multiple groups calling for nuclear strikes to circulating fake videos of Congress workers chanting ‘Pakistan zindabad’, WhatsApp groups are abuzz with hyper-nationalistic text, videos, photos and memes,” says Purohit in the story.
+
+But how easy is it, really, to get into these politically motivated groups whose only mission is to bombard the WhatsApp universe with fake propaganda?
+
+Purohit said that getting into these WhatsApp groups can happen in multiple ways. “You can either get invited to be part of these groups. Sometimes you may get links to join other groups within one group or the admin himself may share links to other like-minded groups,” said Purohit, thereby ensuring more people are privy to the propaganda machinery.
+
+Purohit said that a lot of political parties even ask their ground level cadre to make groups of people who are within their localities so that WhatsApp forwards can be easily disseminated. Some even have a dedicated party member at the local party office to only make new WhatsApp groups with new members.
+
+Dr Shakuntala Banaji and Ramnath Bhat of the London School of Economics who are working on the WhatsApp Vigilantes project team have also discovered certain peculiarities of the system under which such groups operate. According to their preliminary findings, irrespective of the forwarding limit, those making and circulating hateful misinformation and propaganda in India have not been curbed.
+
+“There are organised circuits of fake news. Although some of these are by unaffiliated citizens, most come with affiliation to the positions of the Indian far right, groups within groups, who are finding creative ways of getting their fake images and hate-speech out to a wider, willing audience made credulous by strong ideological leanings towards the ruling party and its political views,” says Banaji.
+
+A quick run through such forwards will bring forth aspects of hyper-nationalism, patriotism, showing hate towards the minority communities and the deafening calls for going to war with Pakistan.
+
+“It’s not just limited to WhatsApp. Sometimes you see the same material showing up on Twitter or Facebook and that’s when you know a concerted effort is being put to make a message go viral,” said Purohit.
+
+The messages aren’t limited to the English language either. A lot of the groups Purohit used for his investigation had people communicating in Hindi as a majority of these groups were run by political sympathisers or leaders. And thanks to WhatsApp being the medium of choice to stay in touch with your loved ones abroad, the hate is being shared among the NRI community as well.
+
+On 16 February, I got a message from a friend based in the US featuring CCTV footage of vehicles going on a highway and after 10 secs, a bomb blows up. The video was framed within a box which read “Pulwama Martyrs” on top with a crying emoji. My friend told me this was a message being circulated among his Indian friends' group in the US. While the video was real, the place wasn’t Pulwama but Iraq. You can clearly see a desert landscape, but anyone who hasn’t read enough about the Pulwama attacks could have easily fallen for it.
+
+What should I do if I get fake WhatsApp forwards?
+
+Every group we are part of has some or the other member who will be sharing these kinds of messages without verification. It’s not like such messages are forwarded by people who wouldn’t know any better. Most of the time, our well-educated friends and relatives also get emotionally charged and think that sending such forwards amounts to showing their patriotic side.
+
+So long as the admin of the group does not kick out such members, the only way to stop the spread of any message which is inciting hatred or misinformation is to either (a) call out the member for sharing what looks like fake information, with maybe a link to an article online busting the so-called ‘patriotic forward’ or (b) block that member or (c) just leave the group.
+
+Being an Indian, you will most likely be part of a couple of ‘Family groups’ at least. Leaving those groups comes with its own set of headaches and a lot of elderly family members also fall into this trap of being hyper-patriotic. What’s the way out, then?
+
+For starters, we can at least start a dialogue with said family members. Want some help in how to go about it? Well, WhatsApp itself is promoting advertisements (which are a first globally) which try to explain the harm of forwarding misinformation. It may not be easy in a public group, but with family and friends, one can at least try.
+
+But we are all part of some groups where we may know only some people on that group, and may or may not know the admin. For whatever reasons, you may not want to exit these groups but at the same time are sick and tired of fake news being shared here. It’s as though some members on these groups have an agenda to spread hate. Is there a legal way out of this?
+
+According to Section 79 of the IT Act, intermediaries such as WhatsApp have to remove illegal content from their platforms within 36 hours of being informed of the same by a court order. If there is no court order, WhatsApp may take its own time to take action. The safe harbour protection under the intermediary liability laws exempts WhatsApp from being held accountable for content generated by its users. For now. But in the case of most WhatsApp groups, getting a court order isn’t practical.
+
+Cyberlaw expert Asheeta Regidi says, “For a person receiving or viewing such content on WhatsApp, he or she should inform the group administrator (since in some jurisdictions they are being held liable if they do not act); and depending on the severity of the content, also file a complaint with the nearest police station.”
+
+Yes, if a message or forward is inciting hate, spreading fake news, inciting violent actions or trying to defame someone, it can also be brought to the notice of the police who can then act on it depending on the nature of the offence, says Regidi. If you are planning to go down that route, ensure you have the screenshots of the discriminatory content which can act as evidence in the later stage of investigations.
+
+Is the WhatsApp limit on the number of forwards helping matters?
+
+Short answer: Not really.
+
+WhatsApp has limited the number of people you can forward the message to, at a time, five people or groups. But that clearly does not seem to be working if the instant spread of propaganda-ridden forwards, which were being circulated within a few hours of the terror attack in Kashmir, are any indication. So, even if someone forwarded a fake message to five groups — which can have around 256 members each — that forward could theoretically reach around 1280 people.
+
+Still, there is no doubt that WhatsApp has done us all a favour by limiting the number of forwards one can send at a time to five. This policy which WhatsApp started in India last year, has now been applied globally.
+
+Mishi Chaudhary, co-founder of SFLC and managing partner at Mishi Chaudhary & Associates feels that WhatsApp and its parent Facebook need to do a lot more to contain the spread of misinformation.
+
+“There needs to be an infusion of serious effort and resources. Flagging of content, removal of reported content must become easier and swifter. Having said that, we as users must also be careful in believing what is forwarded to us and not let emotions guide our thinking,” said Chaudhary.
+
+According to New Delhi-based policy and technology columnist Prasanto K Roy, while it does slow down the velocity of the replication of messages, there is no material difference to the spread of messages, fake or otherwise.
+
+“As for slowing down political parties or other organised entities, there is very little impact, because such organisations also create, use and leverage WhatsApp groups to the hilt. Typically, a political party would have hundreds of WhatsApp groups, each with 200+ people, and with 10-20 groups given to each individual — who can easily spread a message to 20 groups, five at a time, within a minute or two. Those groups, in turn, spread to other groups, and within an hour you have the message reaching several million people in geometric progression,” said Roy.
+
+Roy feels that policies to tackle or slow down fake news on WhatsApp have not really been effective, but he acknowledges that it’s a difficult problem to solve and platforms such as WhatsApp need to study these problems and find solutions even though WhatsApp has safe harbour protection.
+
+Digital Empowerment Foundation (DEF) is one of the institutions in India which has partnered with WhatsApp to train community leaders on using the platform correctly and to not fall for misinformation. According to deputy manager of communications at DEF, Udita Chaturvedi, the 5-forward limit is working to some extent in curbing the spread of misinformation.
+
+Among the participants that DEF has trained in its workshops, Chaturvedi says that around 40.4 percent of the participants on whom data has been collected feel that the forwarding limit has restricted the messages they send or receive. According to DEF, the issues arise in smaller towns where digital literacy is needed as police officers do not understand encryption and there is little understanding of how one can profit from misinformation and fake news.
+
+“WhatsApp has to understand that spreading disinformation works in different ways. Especially in the Indian context where certain messages are engineered to engage you emotionally,” said Purohit. He spoke of how some messages had call-to-action requests such as ‘Make #BoycottKashmir trend’ or other such instructions.
+
+“At times you may be asked to change your display photo on WhatsApp to show solidarity. These requests may seem harmless on the surface, but it’s an intelligent way to subtly perpetrate a false narrative,” says Purohit.
+
+According to a WhatsApp India spokesperson, its efforts to limit forwards are working in India.
+
+“We care deeply about the safety of our users. To help keep WhatsApp safe, we deploy advanced machine learning technology to ban accounts attempting to send bulk or automated messages, including those that send misinformation or other politically motivated content. You can read more in our white paper. We also make it easy to block or report a user in just one tap and use that feedback to ban accounts engaging in abuse,” said the WhatsApp India spokesperson.
+
+The price to pay: Loss of encryption
+
+WhatsApp is a versatile messaging platform that has certainly been revolutionary as far as private communication goes. In an age when we were paying heavy SMS fees to communicate with our loved ones, WhatsApp came as a breath of fresh air, letting us do away with SMSing altogether. Over the years, it has added more features such as audio and video calling. Having 200 million odd users in India is no mean feat, and this makes it all the more difficult to leave this platform as most of your family and friends are here.
+
+But when WhatsApp’s popularity is used for spreading hate and violence, it just makes the case stronger for those who are demanding its end-to-end encryption (e-2-e) be taken off. As it is, there have been demands from MeiTY to hold the platforms responsible for incorporating pro-active measures to prevent the spread of misinformation. WhatsApp, which offers e-2-e encryption, has no way of knowing the content of messages shared by its users. The sub-text then for apps such as WhatsApp or Telegram, which use e-2-e encryption, is this: get rid of the encryption. This would be a disaster for user privacy.
+
+“If e-2-e is broken then WhatsApp will most likely exit India because that would destroy their credibility as a messaging platform and moreover, it is the end for WhatsApp as a fintech service – the main revenue model for which they are awaiting a license. It also sets a precedent for governments to ask for and get more access to other encrypted platforms. In general, it would be a body blow to privacy,” says Bhat.
+
+We have many precedents of surveillance systems from history – East Germany, for one. In the current scenario one just has to look at China and how online surveillance is par for the course there with every major technology company mandated to provide the Chinese government a back door entry.
+
+The argument by our government for breaking encryption, which revolves around preventing terrorist attacks and protecting national security, also doesn’t mean much when we see how much hate is spewed on platforms such as Facebook or Twitter, which are open to the public. So many users on Twitter are openly threatening women, but we don’t see any action being taken against them. Recently, journalist Barkha Dutt tweeted her experience of how she has been hounded by miscreants on Twitter and WhatsApp, and instead of helping her, Twitter blocked her account.
+
+I had close to 1000 abusive messages and calls in a Cordinated and violent mob attack. These included a message to shoot me, a nude photo, many sexually abusive messages. I outed the men who did this. Twitter locked me till many of the details were taken down. I wroe this to them pic.twitter.com/XRyx9xbjcV — barkha dutt (@BDUTT) February 19, 2019
+
+“It really is worth asking, “How much has the government cracked down on fake news or misinformation given that they can see exactly which accounts are up to mischief?” In India, we feel the answer is clear: almost the only accounts which are being censored are those that appear to be critical of the government or of its allies,” says Banaji.
+
+The aftermath of the Pulwama terror attacks has again punched holes in WhatsApp’s defences on its India strategy working. While it’s not the only platform which is being used to spread falsities, it is one that has the most active user base. With the general elections coming up in two months, it will be another trial by fire for beleaguered WhatsApp and its parent Facebook.

@@ -1,0 +1,25 @@
+cVIGIL app: Here's how Indian citizens can help curb violations during Lok Sabha 2019 election
+
+Election Commission (EC) of India has its task cut out for the upcoming Lok Sabha 2019 election, which is touted to be the world's biggest democratic exercise. More than 900 million registered citizens are ready to cast their vote to choose the next prime minister of the country.
+
+The general election is being conducted in seven phases and is slated to kick off on April 11 and continue till May 19 and finally, the counting of votes is scheduled to be held on May 23. India, being a vast country, EC has its limitations in terms of manpower to track thousands of candidates and make them abide by the model code of conduct during the two-month long Lok Sabha 2019 elections.
+
+Some candidates, in a bid to get woo voters (mostly illiterates), try to appease them with freebies like saris to women, clothes, money and liquor to men. Also, some spread rumours of there opponents or make hate speech, indulge in hate mongering and other illegal practices. There are even cases of a corrupt candidate taking local voters for pilgrimage and make them swear in front of a deity to cast their vote to him/her.
+
+Well, you the honest citizen can help the EC through a mobile app cVIGIL to track and file a complaint against local candidate indulging in malpractices.
+
+"The new cVIGIL app launched by Election Commission of India is expected to fill in all these gaps and create a fast-track complaint reception and redressal system. 'cVIGIL' stands for Vigilant Citizen and emphasizes the proactive and responsible role citizens can play in the conduct of free and fair elections," says the Election Commission.
+
+The cVIGIL provide time-stamped evidentiary proof of model code of conduct / Expenditure Violation, having live photo/video with auto location data.
+
+The newly added GIS-based dashboard provides strong decision tool to drop and dispose of frivolous and unrelated cases even before they are acted upon, thereby reducing the workload of election machinery on ghost complaints.
+
+Users are advised not to misuse the very important tool such as cVIGIL to file false cases against innocent Member of Parliament (MP) candidate and also waste EC officials' valuable time, thereby hampering their duty.
+
+Here's how to use cVIGIL on your mobile:
+
+Download cVIGIL for Android (here) or for Apple iOS (here) and once installed, you will ask to fill important information such as mobile number (get One-Time-Password), name, address, local assembly constituency name, Lok Sabha constituency.
+
+Once down, you will be taken to the home page, and there you will find big icons a camera and video recorder for taking an image or capture the video, respectively. It will be automatically uploaded to the EC server and will be looked by the officials in the control centre. There is also an anonymous option for users to hide their identity. Rest assured, action will be taken against the candidate if he/she violates the model code of conduct.
+
+Citizens can also file complaints on ECI main website or call the National Contact Centre at 1800111950 or State Contact Centre at 1950 for other complaints.

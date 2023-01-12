@@ -1,0 +1,51 @@
+Small Indian company makes waves among navies
+
+C2C DB Systems is tightly integrated into India's warship production eco-system.
+
+Ajai Shukla reports.
+
+Photograph: Kind courtesy C2C DB Systems
+
+Last Monday, the royal Malaysian navy cleared a combat management system that a small, but cutting-edge, Indian electronics company has developed for two of its frontline warships -- the British-origin RMN frigates, KD Leiku and KD Jebat.
+
+A warship's CMS is the brain of its combat capability.
+
+The CMS continuously interacts with all the ship's sensors and weapons -- including radar, sonar, missiles, rockets and torpedoes -- and assesses the threats that they detect.
+
+Then, the CMS suggests weapons to neutralise the threat; and it fires and controls those weapons.
+
+In addition, the sophisticated CMS software collaborates with friendly warships's command systems over a real time datalink.
+
+This develops a 'common operating picture' for fleet operations.
+
+Validating the truism that high-technology is mostly developed by micro, small and medium enterprises, C2C DB Systems is the only Indian firm that has developed a complete CMS, including tactical datalink capability and warfighting modules (which navies guard zealously).
+
+For example, the Indian Navy's warfighting modules are developed secretly by an in-house department called the weapon and electronics engineering establishment.
+
+The CMS's supporting modules are developed by companies like Bharat Electronics Ltd and Tata Power (strategic engineering division).
+
+C2C DB Systems is based in Bengaluru and has a total strength of 50, including senior management, hardware and software engineers and mechanical design engineers.
+
+Its annual turnover is around Rs 25 crore (Rs 250 million).
+
+Yet, this small firm partnered with a Malaysian firm, Marine Crest Technologies, to wrest the tightly contested RMN contract from global competitors such as Thales of France, SAAB of Sweden and UK-headquartered BAE Systems.
+
+RMN placed the order for the two CMSs and tactical datalink systems in April 2018, stipulating a delivery period of just nine months for the first system.
+
+Typically, developing a similar system in India takes about two years.
+
+With C2C DB demonstrating the complete functionality of the CMS and datalink during 'factory acceptance trials' in January 2019, and the system shipped to Malaysia the next month, C2C DB Systems became the only Indian entity to have developed a complete CMS, along with a tactical datalink.
+
+It is also the only Indian entity to have exported such a system.
+
+The complete system was installed on board the first RMN frigate in March, after being fully integrated with the warship's weapons and sensors.
+
+'Harbour acceptance trials' of the tactical datalink were unconditionally cleared on Monday, while CMS trials are under way.
+
+Next will come 'sea acceptance trials' at the end of this month.
+
+C2C DB Systems is tightly integrated into India's warship production eco-system.
+
+It has worked with WESEE to develop the complete front-end software for the CMS of India's first indigenous aircraft carrier, INS Vikrant.
+
+It has also done classified work for the nuclear missile submarine, INS Arihant.

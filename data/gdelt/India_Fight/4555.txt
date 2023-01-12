@@ -1,0 +1,23 @@
+Internet advocacy firms raise concerns over proposed changes in IT rules
+
+Indian internet advocacy firms along with others has voiced concerns over the proposed changes in IT rules for social media and messaging apps, alleging that the draft amendments include vague terminologies and can be a big threat to privacy.
+
+Internet advocacy firms and professionals have shot off a joint letter to Information Technology Secretary Ajay Prakash Sawhney, appealing for a "less invasive" means of regulating internet.
+
+"The draft rules require intermediaries to include a traceability feature to assist law enforcement agencies. Such a traceability requirement could lead to breaking of encryption on apps such as WhatsApp...and this will be a major threat to the privacy rights of citizens," the letter dated January 31 said.
+
+It said the draft rules, despite being targeted on social media platforms and messaging applications, would apply equally to all intermediaries involved in transmission and facilitating service of internet which will lead to disproportionate use of government regulation.
+
+Citing a Supreme Court order which struck down Section 66A of the IT Act 2000 for vagueness of terms like offensive, menacing and dangerous, among other reasons, the letter said similar vague terms as grossly, harmful, harassing and hateful exist in the draft amendments as well.
+
+The letter said as per the draft, intermediaries are required to deploy deeply automated tools for proactively filtering unlawful content on their platforms.
+
+This would result in pre-censorship regime, violating the right to free speech and expression, where artificial intelligence would crawl through social media to filter and remove content which it deems 'unlawful', the letter said.
+
+"While being cognizant of national security interests, we appeal for less invasive and proportional means of regulation of the internet," it said.
+
+The letter was signed by entities like Digital Empowerment Foundation, Free Software Foundation Tamil Nadu, Free Software Movement of India, Internet Democracy Project, Software Freedom Law Centre, India , IT for Change, besides bloggers, online journalists and academicians.
+
+The draft rules have been now closed for public comments but counter comments can be given till February 14.
+
+(This story has not been edited by Business Standard staff and is auto-generated from a syndicated feed.)

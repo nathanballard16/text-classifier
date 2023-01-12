@@ -1,0 +1,19 @@
+Kudankulam cyber attack: North Korean hackers stole technology data, analysts tell The Quint
+
+Suspected North Korean hackers stole technology-related data from the computers at Kudankulam Nuclear Power Plant, The Quint reported on Thursday. The cyber attackers, who deployed a malware designed for data theft, were backed by the North Korean government, said IssueMaker Labs, an expert group of malware analysts based in South Korea.
+
+“We have found that Nuclear Power Plant technology-related data has been taken,” Simon Choi, founder of IssueMaker Labs, told The Quint.
+
+The government-run Nuclear Power Corporation of India had admitted to the presence of malware in one of the computers of the plant on October 30, but claimed that none of the systems were affected due to the attack. This came a day after the plant information officer categorically denied that a cyber attack was possible. The attack came to light on October 30, when a Twitter user alleged that the Russian-built reactors’ domain controller-level access could have been compromised.
+
+IssueMakers Lab said there was more than one group of North Korean hackers who worked together to first conduct reconnaissance and then deploy the malware. “There are approximately seven hacker groups in North Korea,” said Choi. “Generally we call the group which had attacked South Korea’s government website in 2009 and Sony Pictures in 2014 as ‘Group A’, which is more commonly referred to as ‘Lazarus Group’.”
+
+Choi added: “And there is ‘Group B’ which generally attacks the Korean Army and have attacked Korean banks and networks in 2013. This group is the one that attacked KKNPP of India this time. This group is normally known as ‘Dark Seoul’ or ‘Operation Troy’ to people.”
+
+There is also a third group that attacked Korea Hydro and Nuclear Power Co Ltd in 2014. “This Group C started attacking India’s nuclear power plant-related persons from last year,” Choi added. He said Group B and C carried out this attack together.
+
+The South Korean malware analysts had earlier said that one of the hackers was using a North Korean self-branded computer produced and used only in the North Korea. The IP address used by one of the hackers was traced to Pyongyang.
+
+Choi said they found evidence that the hackers of North Korea were disguised as employees of Atomic Energy Regulatory Board and Bhabha Atomic Research Centre of India, and sent hacking mails. “It looks like the KKNPP attack was not intended to cause destruction, only to extort the confidential data and reconnaissance,” he told The Quint.
+
+Cyber intelligence specialist Pukhraj Singh, who had notified the National Cyber Security Coordinator on September 3 about the attack, agreed with Choi. “The remit of the actor was technology theft, but a motivated adversary hell-bent on power projection would have just waltzed in too,” he told The Quint.

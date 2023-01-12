@@ -1,0 +1,35 @@
+Reliance Jio turns to fintech, launches PoS device for merchants
+
+Merchants have to pay a deposit of Rs 3,000 to get hold of Reliance Jio's PoS device that accepts cards and wallet payments from BHIM and Jio Money.
+
+After disrupting India’s telecom industry, Reliance Jio is now moving into fintech, one of the fastest-growing sectors of the Indian economy.
+
+The Mukesh Ambani-owned firm is planning to get into the point-of-sale (PoS) devices space, and has launched pilots with merchants in Mumbai, Delhi, Bengaluru, Hyderabad, Chennai and Pune, The Economic Times reported.
+
+Merchants have to deposit Rs 3,000 to get hold of the device. This is similar to the model Reliance adopted with the JioPhone, wherein users had to pay a “security deposit” of Rs 1,500 (refundable after three years) to get the handset.
+
+For debit/credit transactions of up to Rs 2,000, Jio will offer a merchant discount rate of zero. At present, the PoS device accepts cards and wallet payments from JioMoney and BHIM. Customers simply have to scan a QR code to pay for their purchases. Reliance has reportedly partnered with India’s largest FMCG company HUL to increase adoption of the devices among retail and kirana stores.
+
+When YourStory reached out to Reliance Jio for comment on the development, a spokesperson said, "Nothing to add now".
+
+Mukesh Ambani, Chairman, Reliance Industries Limited
+
+The big opportunity in PoS
+
+Reliance Jio’s move comes at a time when card transactions in India are at a peak. According to RBI data, debit card transactions increased 76 percent at the end of October 2018. There were close to a billion debit cards and about 43 million credit cards in 2018. Even though mobile wallets are growing, cards - more than cash - have emerged as their biggest competition, at least in the big cities.
+
+YourStory spoke to Benow, a Mumbai-based digital payments enabler for small merchants, and one of Jio’s potential competitors in the PoS business. Interestingly, the PoS device offered by Benow to small offline merchants is priced at Rs 2,200, slightly cheaper than Jio’s device.
+
+Benow Founder-CEO Sudhakar Ram explains,
+
+“PoS is the next big opportunity in fintech. Because UPI caught on in a big way for peer-to-peer payments. But in peer-to-merchant, its growth has not been as expected. And in urban areas, cashless means cards, not so much e-wallets.”
+
+At present, there are close to 3.5 million PoS machines in the country, and it “can be scaled up 10X,” reckons Benow.
+
+According to a Global Market Insights study, India’s PoS terminals are poised for a 10 percent growth until 2024. At present, the sector is worth $3 billion, and has witnessed significant growth following demonetisation in 2016.
+
+Stay Updated Get stories of change makers and innovators from the startup ecosystem in your inbox Please fill in this field. {{#error}} {{error}} {{/error}} {{^error}} Something went wrong. Try again later {{/error}} Welcome Onboard ! You have been successfully registered for our daily newsletter.
+
+The report states, “The Indian government encouraged banks to deploy over one million terminals after demonetisation... State Bank of India (SBI), the major public-sector bank, has prepared a proposal for the procurement of 500,000 machines. Such high demand from the banks is offering huge opportunities for players such as Mswipe, Ezetap, and Pine Labs to establish a strong foothold in the industry by offering competitive systems.”
+
+Enter Jio, and we cannot wait to see what happens!

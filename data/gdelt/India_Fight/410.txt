@@ -1,0 +1,13 @@
+sNEWSi: Some NEWS on the Internet
+
+stream of NEWS on the internet. It's NEW stuff on the internet. Pronounced ssNEWSee.
+
+
+
+No
+
+
+
+Thanks, I got it. sNEWSi is atream ofon thenternet. It's NEW stuff on the internet. Pronounced ssNEWSee.No filter bubbles here. sNEWSi is agnostic.
+
+If you inspect the source code, you won't see resources from any other domains. We place a single cookie on your device to remember your settings. That's it. None of your history is stored in any way.That's great, but WTF is sNEWSi?

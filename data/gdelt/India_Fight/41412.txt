@@ -1,0 +1,49 @@
+What India Can Learn From The World In Adopting Blockchain And Cryptocurrency
+
+Blockchain has been hailed as the technology of the future, and has even made inroads in some industries. Looking at the upsides of the technology, more and more organizations are looking into ways of implementing it.
+
+Despite all of this, blockchain received a guarded welcome by the Indian government and other industry bodies when it was first introduced. Ever since, it has been under scrutiny along with its various applications such as the infamous bitcoins and other cryptocurrency.
+
+reuters
+
+Even in India, while cryptocurrency is banned, the ministry recently proposed a Bill which states that the underlying technology (blockchain) has several potential applications. Globally, we are seeing a great traction for blockchain vis a vis in India owing to reservations in implementing digital currencies.
+
+Fear of losing control of tracking criminal activities, taxation, and lack of knowledge about the blockchain technology are some of the factors that refrains the Indian government to adopt the technology. However, can we pick cues from our global counterparts who have leveraged blockchain to streamline businesses?
+
+Dilemma for regulators
+
+Regulators are put into a difficult position of balancing interests: they have a duty to protect the interests of their citizens and, at the same time, they are, for the most part, incredibly supportive of innovation – and particularly innovation that can improve the lives of their citizens through financial inclusion, more efficient and responsive government, controlling corruption, etc. And while Blockchain is not a panacea, it is providing a platform that can deliver great benefits to society.
+
+reuters
+
+As with any new technology, it’s challenging to find where and how to regulate, and blockchain is no different. By its very nature, it hasn’t been possible for the blockchain industry to self-regulate. For example, there's been a significant number of scam ICOs and other "bad" elements sneaking into the blockchain ecosystem. Given that, it’s natural that regulators had to step in.
+
+Having said that, several country’s legislations were reluctant to approve Bitcoins at first as they feared control by way of taxing, tracing criminal activity and were trying to regularize it, however, the future now looks optimistic as regulators with the help of the industry are finding ways to balance between controlling abuse while at the same time not stifling innovation – or innovative ways of fundraising.
+
+To name a few countries who overhauled their approach towards cryptocurrency, we could look at Indonesia who earlier banned crypto but now recognizes Bitcoin and other digital currencies as a trading commodity.
+
+reuters
+
+Even China banned cryptocurrency when it was first introduced but is now using the technology to develop for their own digital currency which they believe will support their currency’s circulation and internationalization. Closer home, while the ministry supports the cryptocurrency ban, people in India have shown great interest in digital currency.
+
+They are in fact one of the highest users of digital wallets supported by blockchain technology. Companies are increasingly implementing blockchain to simplify processes, enhance security and leverage the host of benefits the technology offers.
+
+The recent interim report proposed by the Indian Government allows research in digital currency, making room for Distributed Ledger Technology (DLT) apps in financial sector, making it easier to identify duplicate transactions, and therefore can be utilised for fraud-detection, processing KYC requirements, and claim management for insurance.
+
+reuters
+
+Further, it can be helpful for removing errors, frauds in land markets, if used for maintaining land records. These are the challenges blockchain technology can address and offers an opportunity to blockchain enthusiasts to stay relevant in the market.
+
+Plight of Blockchain developers
+
+Now, the question is would the developers be protected from falling foul of regulations? Every country determines what parties should be responsible for abuse or harm caused when regulations are broken.
+
+Should one hold gun manufacturers responsible for mass shootings? Should Facebook be held liable for leaking data? Should a cryptocurrency exchange be held liable for tokens stolen in a hack? These are very difficult questions and ones that will be certainly be confronted in the blockchain world moving forward.
+
+reuters
+
+It’s very rare for a country to apply a regulation retroactively. Thus, the questions really underscores three things: first, the need for the blockchain industry to be proactive rather than reactive in ensuring that regulations are reasonable; second, the need for regulatory transparency and clarity so that developers, for example, are aware of the regulatory parameters; and third, the opportunity for the insurance industry in offering coverage for developers.
+
+To the extent possible, it’s important for regulators to understand the concerns that developers have and this is generally best accomplished through industry associations. It will be incumbent on developers to form or join industry associations that can play an important role in educating and, where appropriate, influencing regulators.
+
+About the author: David Ben Kay, Chief Legal Counsel of Pundi X

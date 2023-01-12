@@ -1,0 +1,23 @@
+Data Breach Case: Was Call Data Used For Blackmailing Users?
+
+Hyderabad: As part of the investigation conducted in the case of the alleged data breach involving personal information of more 3.50 Crore voters of the state, more details are pouring in about how the TDP's Seva Mitra App was securing personal information.
+
+The App was developed by a Hyderabad-based firm, IT Grids India Pvt Ltd who in collusion with Vizag-based Blue Frog Mobile Technologies apparently created it specifically for the Telugu Desam Party Cadre. According cyber security professionals, once the app is downloaded on the mobile or desktop, it can access complete details of the phone, its location, personal information and more shockingly the voice calls also can be recorded by the company.
+
+In short , IT Grids could apparently access not just the above mentioned information, they could also access the photos, videos, bank account details and other personal information and could also delete them without the user's knowledge. The Police have also warned that they could use the personal information and blackmail the users.
+
+What happens when you give permissions?
+
+Approximate, precise Location: When you download the app the Location Services is immediately enabled.
+
+Call List access: When you give permission for the app to access your phone call list, they can directly access the call list. They can call the person directly and the amount is added to your phone bill.
+
+Device ID access: Apart from your phone number the app can also access your Device Id no.
+
+Storage System: The app can also access your storage and can either add or delete information without the users' knowledge.
+
+Biggest Cyber sabotage crime - V Vijaysai Reddy , YSRCP Rajya Sabha member
+
+Terming the data breach by Chandrababu Naidu as one of the biggest Cyber sabotage crimes of all time ,YSRCP National Secretary and Rajya Sabha member, V. Vijayasai Reddy took to popular microblogging site, Twitter to express his doubt as to the extent to which this breach of data could have taken place. He said that the stolen personal information of the people of Andhra Pradesh could fall into the hands of cyber criminals and this kind of data compromise by Chandrababu has resulted in a complete collapse of the democratic functioning of the state, he alleged.
+
+Also Read: Rattled Chandrababu Hits Out At Telangana Police In Data Breach Case

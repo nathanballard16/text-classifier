@@ -1,0 +1,17 @@
+'Ransomware' hits TS, AP power utilities
+
+Hyderabad: A malicious software has attacked the computer systems of Telangana and Andhra Pradesh State power utilities, police said Thursday.
+
+All the servers were down, and work has begun to rectify the glitch, which would be restored perhaps by Friday, they said. 'Ransomware' has attacked the systems, police said.
+
+It is a malicious software that enters the victim's computer system, and the attackers threaten to publish the data or block access to it unless a ransom is paid.
+
+Following a complaint, cybercrime wing of the Hyderabad police has commenced a probe.
+
+A staff of the Power Distribution Company of Telangana received a mail from an unknown person and the staff inadvertently clicked on it and the virus attack took over the entire systems, they said.
+
+"We have registered an FIR and are investigating," Additional Deputy Commissioner of Police (Cyber Crimes) KCS Raghu Vir said.
+
+Along with the Telangana systems, the computer systems of power utilities in Andhra Pradesh also came under the malware attack because it is linked with each other, the official said.
+
+Asked if the cyber attackers sought ransom, police said the investigation was at a preliminary stage and they were verifying.

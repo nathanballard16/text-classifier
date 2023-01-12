@@ -1,0 +1,25 @@
+Microsoft continues to stand behind AI
+
+We've just spent the last couple of days at Microsoft India's Bengaluru campus, learning about the things it accomplished this past year and hopes to accomplish in the years to come. Division heads came up on stage to wax proud about a variety of services, challenges, and accomplishments Microsoft saw in 2018 across industries like information technology, health care, agriculture, etc. What's worth noting is that almost every one of the slides they showed during the two days had a mention of that unforgettable new buzzword, 'AI'.
+
+Anant Maheshwari, President of Microsoft India, kicked off the event by asserting the company's belief in the incorporation of AI models in its services. He presented the idea of 'Tech Intensity', a formula that can be derived by raising 'Tech Adoption' to the power of 'Tech Capability'. According to him, Tech Adoption denotes Microsoft's AI-powered services and Tech Capability denotes what Microsoft's customers create with them. To support his formula, he invited representatives from customers like Wipro Technologies, Future Generali, and Apollo Hospitals on stage to understand how they used Microsoft's AI-powered services and what their 'secret sauce' in the execution was. Products discussed included Azure, Power BI, and Teams.
+
+PowerPoint Designer and Excel Ideas
+
+Explaining how its AI technology is gradually being incorporated in many of its offerings, Microsoft demonstrated a couple of recently added features in Office 365, its long-standing suite of productivity tools. The first is called PowerPoint Designer. Appearing as a sidebar within PowerPoint, what it does is suggest design ideas for your current slide after you've thrown in elements like, say, a few images and some text. For example, you could enter 'Leadership Team' in the slide title and drag and drop a couple of images. Designer will rearrange these elements to present slide design ideas that you can readily pick without having to bother with the styling.
+
+As a second example, Microsoft demonstrated Ideas in Excel. Appearing again, as a sidebar within Excel, Ideas suggests relevant actions to perform on user-selected data. For example, you could select a number of rows and columns in the spreadsheet and expect Ideas to suggest possible graphs and charts using the values in the selction. While I found both these features impressive, I didn't see anything new about them since Microsoft introduced them in Office 365 some two years ago.
+
+Microsoft Research India
+
+The Indian Microsoft Research team showcased the GesturePod, a tiny device that clamps to a walking cane to help the blind control their smartphones using gestures they make with their cane. For example, a double tap of the cane on the floor could answer a call, and a clockwise twist of the cane could end it. Powering the tiny low-power add-on is a Bluetooth Low Energy module, an Arduino MK1000 board, and a small rechargeable lithium polymer battery. Apparently, the team had to go with a newly formulated algorithm instead of compression to make the wakeword detection feature less than one kilobyte in size.
+
+Microsoft also demonstrated its Garage-developed smartphone apps like Kaizala, a phone number-based chat app for intra-network coordination, and Seeing AI, an AI-powered accessibility app for those with weak vision. During the demonstration, Seeing AI could tell the phone's camera was pointed at a currency note, whose value was one hundred rupees. Microsoft also demonstrated Soundscape, another AI research project aimed at helping those with low vision. Soundscape gives the user a description of their surroundings using synthesised binaural audio, thereby creating a 3D sound effect.
+
+Microsoft and its partners
+
+According to Microsoft, it has over 9,500 partners in India, out of which one third (or 2,995 of them) are cloud partners. Through a series of presentations, the company stressed on the importance of partnering with Microsoft through the Microsoft Partner Network for building cloud-based applications. It went on to show how its initiatives like ScaleUp, which invovles co-selling of the partners' products, are helping Series A-funded startups to get their products out on the Azure Marketplace. The power of the AI-powered Azure is what Microsoft provides to these startups. Microsoft also talked about M12, its corporate venture capital subsidiary that was originally established in 2016 as Microsoft Ventures.
+
+Summary: Commitment towards responsible AI
+
+Over the course of the two days, Microsoft walked us through many of its services (of which many were enterprise-grade) and presented several ideas for the future, along with a list of challenges they pose. All of them were peppered with the commitment not just to use its AI models for better software but also to use them responsibly. By the time the event ended, we were left feeling a sense of awe towards everything the big American software giant had planned for the future. Will AI really pave the way for an easier and smarter future? Only time will tell.

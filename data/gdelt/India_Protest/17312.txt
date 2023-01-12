@@ -1,0 +1,65 @@
+Pegasus scandal is latest confirmation that you are being spied on and always have been-India News , Firstpost
+
+Faced with the Pegasus cellphone-interception scandal, and a long list of governments mired in allegations that they used it to illegally surveil political opponents, fears have risen across the world for the future of our privacy
+
+Dervishes from Kashgar, a mullah from Daghestan, a beggar from India, a traveller from Sudan, a sheikh from Libya, Tatar clerics, actors, jugglers and illusionists: In the those brief decades when some were tricked into thinking the twilight of the Ottoman Empire was a new dawn, Sultan Abdulhamid II, Prince of the Faithful, Custodian of the Two Holy Mosques, Kayser-i Rûm, built the greatest secret service the world had ever seen. Thirty thousand spies, perhaps more, spread out across his empire, seeking out assassins, insurrectionists and republicans.
+
+He failed: The last of his dynasty to wield effective power, he died a prisoner of his own officers at the Beylerbeyi Palace in the Bosphorus.
+
+Faced with the Pegasus cellphone-interception scandal, and a long list of governments mired in allegations that they used it to illegally surveil political opponents, fears have risen across the world for the future of our privacy.
+
+The question isn’t trival. Technology like Pegasus, moreover, won’t be the preserve of nation-states alone forever — and probably already isn’t. Every email, text message, and stored file is vulnerable not just to spies, but criminals. What might the consequences of this be for our society, and our democracy?
+
+Perhaps, history tells us, not as much as we might imagine.
+
+***
+
+Five hundred years before the Common Era dawned, the tyrant Histiaeus, the scholar JA Richmond records, needed to send a message to his son-in-law, Aristagoras, in Miletus — one that could open the path to great power and fortune, or cost both their heads. A slave was summoned, his head shaved, and a message tattooed on the scalp. The slave was sent to Aristagoras when his hair had grown — and was shaved again. Then, the message was revealed: It was an injunction to revolt against the Emperor.
+
+The contest between secret-keepers and spies has helped shape history. There's only one lesson to be drawn from it: This is a struggle with no final outcome.
+
+Long before Pegasus became an issue, courts across the world have been grappling with variants of the same problem. In the United Kingdom, courts are hearing challenges to laws that permit MI6 and GCHQ to bulk-intercept communication, and scan it for content with national-security implications. That means law-abiding, private citizens are being surveilled in the hunt for terrorists — a practice with obvious room for abuse, in turn hidden behind national-security walls.
+
+Intelligence services in the UK, the litigation alleges, have even ensured vulnerabilities are deliberately built into software to enable interception — vulnerabilities that can be exploited by criminal groups, or private entities.
+
+The Electronic Freedom Foundation has also challenged the United States government’s operations acquire and analyse electronic traffic without specific legal authorisation. The litigation began more than a decade ago, after a whistleblower revealed the country’s National Security Agency was routing all international fibre-optic cable traffic to its servers for analysis.
+
+Large prime-number cryptography, and encryption algorithms, made mass electronic surveillance — relatively easy in the 1970s and 1980s — increasingly hard to pull off. Firms offering means to hack encrypted communications, like Pegasus or HackerTeam and FinFisher, thus proliferated, serving the needs of countries without the scientific resources of the West — and have today become major global businesses.
+
+The Israeli company that designed Pegasus, claims only to work with government agencies. But, in court filings, WhatsApp has alleged its clients include “private entities”. Either way, it’s probable that, with the passage of time, technologies only available to nation-states will become available to corporations and criminals alike — just like encryption, or the internet itself, did.
+
+New Delhi’s reluctance to engage with, and address, concerns about its own mass-interception programmes — for example, the Centre for the Development of Telematics’ Lawful Interception and Monitoring project, and the Defence Research and Development Organisation's NETRA — have raised legitimate suspicions about what the Indian government is doing.
+
+Irrespective of whether Congress leader Priyanka Gandhi’s phone was or wasn’t hacked by the government, though, the fact is the tools to do so now exist — and need legal oversight and regulation.
+
+Governments shy away from legal oversight, afraid of losing a tool politicians treat with the reverence normally reserved for holy idols and magic incantations.
+
+***
+
+Fearful regimes have always laboured under the illusion that mass surveillance will secure their power. East Germany's Ministerium für Staatssicherheit —popularly the Stasi — maintained some 91,015 staff, and 173,081 paid informants, more than two in every 100 citizens, in 1991. The organisation’s gargantuan programme of psychological warfare and mass wiretapping against citizens, however, didn’t stop the Berlin Wall from coming down — and with it, the collapse of the German Democratic Republic.
+
+Beijing’s mass surveillance apparatus in Xinjiang, similarly, has’t demonstrated stellar success in helping its intelligence services pinpoint the roots of Islamist activism — or the country wouldn’t have to be incarcerating hundreds of thousands of people in concentration camps.
+
+Far from high-grade intelligence work undermining potential threats, China has been compelled to spend ever-more on internal security — more than even on defence through the past decade. That suggests Beijing doesn’t believe spying on the population is succeeding in stilling dissent, and wants to keep blunt means ready to hand.
+
+“Everybody began to report on each other”, Ekrem Bugra Ekinci observed of the collapse of the Ottoman surveillance state, in an article which helps understand why mass-spying is counterproductive. “Absurd rumours and even slander began to be reported”. “In time”, he noted, “the value of these reports diminished”. Thousands of unopened missives were discovered when Turkish revolutionaries overthrew the monarchy in 1908.
+
+For centuries before former prime minister Indira Gandhi discovered the Intelligence Bureau couldn’t keep her in power, tyrants repeatedly made the same discovery. “The monarchs of Cyprus have all accepted the breed of noble parasites as useful”, the Spartan mercenary Clearchus wrote in 450-400 BCE, “for their possession is typical of tyrants. No one knows the number or appearance of such men."
+
+Gerginoi, the secret police of the time, Clearchus went on “hold the position of spies and eavesdrop while mixing with people throughout the city, in workshops and markets; each day, they report back what they hear”.
+
+But, the great Plutarch observed, the oppression generated by these activities made tyrants even more hated. “The breed of ears and provocateurs make tyrants, who are obliged to know everything, most detested”. The root problem, he noted, was the insecurity of rulers: “Darius Nothus first employed spies because he had no confidence in himself, and suspected and feared everyone”.
+
+***
+
+Early in 1944, General Walter Schellenberg’s code-breakers in Holland — members of the Nazi intelligence service, the Sicherheitsdienst — listened in, as then British prime minister Winston Churchill and US president Theodore Roosevelt discussed the imminent invasion of Europe: “Well, we’ll do our best — and now I’ll go fishing”, Roosevelt signed off. Schellenberg’s coup was worth nothing: Nazi Germany no longer had the industrial infrastructure or fuel to do anything other than delay its annihilation.
+
+Intelligence is just one of many strategic tools — not a magic bullet, something a culture suffused with pop-film spy-feats rarely understands. Prior information is useful — but doesn’t guarantee any particular outcome.
+
+Large amounts of intelligence was available that Al-Qaeda was plotting 9/11 — but analysts’ eyes didn’t turn the evidence before their eyes into a coherent picture. India’s spies distinguished themselves in the months before the Kargil war broke out; the incompetence of generals sent hundreds of soldiers to their death anyway. And 26/11 happened, even though India received pinpoint warnings from the Federal Bureau of Investigations, via United Kingdom intelligence services bugging the Lashkar-e-Taiba.
+
+Focussed, professional intelligence services focus on national security tasks of real value — not aimless mass surveillance operations that generate data, not real information. And it means politicians eschewing the temptation to spy on their rivals, a practice that corrodes the integrity and independence of the intelligence services themselves.
+
+History has a simple lesson, though: ever since human beings invented front doors, there have been people who have made a living finding ways around the locks. From criminals to companies to governments, the powerful have an interest in knowing what we do, and why we do it. Shift from WhatsApp to Telegram to Signal; there’s a company that’s probably already one step ahead of you.
+
+For those who value their privacy, this one thing we must always assume: To our most intimate, private thoughts someone, somewhere, is, alas, listening.

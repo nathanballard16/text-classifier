@@ -1,0 +1,25 @@
+Taneja's 7 Ways to Tackle Website Bottlenecks and Performance
+
+In 2006, the average online shopper expected a page to load in four seconds; today’s shopper expects a page to load in two seconds or less. Organizations have realized that delivering a consistently high online performance is very difficult to ensure. Even with the advanced hardware and service additions in place, site performance can be mediocre at best due o the inefficiencies in page construction and rendering.
+
+According to a PhoCus Wright research, up to 57 percent of shoppers will abandon a site after waiting three seconds for a page to load, and 8 out of 10 people will not return to a site after a disappointing page load experience. Almost one third of these dissatisfied users will go on to tell others about their disappointing experience. Almost 60 percent of mobile web users expect sites to perform as quickly on their handheld devices as they do on their home computers, and about the same number of mobile users say they would be unlikely to visit a site again after a poor mobile web experience.
+
+Companies that depend on web-based applications to generate revenue soon realize that site performance directly correlates with increased conversions, increased shopping cart size for ecommerce, increased page views for advertising, and higher search rankings. We found that successful companies tackle web performance challenges by following a course of action that directly has a bearing on business metrics:
+
+Recording and analyzing site traffic: Despite the advances in technology and increased bandwidth availability, page rendering on a browser is not possible without making a number of requests—or ‘roundtrips’—to the server. An average web page is a staggering 965k in size and contains 85 objects. This means that it takes dozens of requests to the server to retrieve the pages content, making the overall page load time slower. Web savvy companies identify the need for resource consolidation and caching. They invest in clever systems that detect patterns of resource usage and formulate rules for resource consolidation and caching, grouping resources according to the pages that request them.
+
+1. Modifying site responses in real time: How best can companies quickly gauge audience interests and preferences will determine their strike rate. They know the importance of changing the behavior of web pages without altering their appearance to the user. This helps them in devising fail-proof customer engagement plans.
+
+2. Working towards a higher SEO ranking means more visits: Google and other search engines allocate either a set period of time or a set quantity of data for crawling each site. Increasing the number of crawled pages directly affects rankings and traffic. So by implementing a clever set of site optimization measures, the companies ensure that the Googlebot web crawler covers approximately twice as many pages than other ‘unaccelerated’ sites.
+
+3. Increasing the page speed brings in more people: Eighty percent of performance issues happen at the front end, at the browser level. AOL conducted studies in which they measured site performance and page views. They found that visitors to the top 10 percent best performing sites viewed 50 percent more pages than visitors to sites in the bottom 10 percent.
+
+4. Predicting where visitors are likely to go: Successful companies keep learning about how visitors use the site and predict what pages they would most likely want to see next. Relying less on widgets and snippets: Third-party scripts such as ads, social media widgets, and analytics tags block pages from rendering until all the scripts are loaded. This delay in page loading time affects the overall user experience, leading to low conversion and revenue. Microsoft’s Bing site conducted a study wherein they slowed page load times by 2 seconds. As a result of the slowdown, users ran approximately 2 percent fewer queries and clicked 3.75 percent less often. Conversely, speeding up the site by 2 seconds resulted in a 5 percent revenue increase. Prudent companies make use of expert systems that increase performance by improving the utilization of browser cache.
+
+5. Recognizing that not all browsers are created equal: The days of being able to create websites that are optimized for only one or two browsers are clearly behind us. Each browser type has its own preference as to how it renders pages, how many connections are opened, etc. Techniques that work for one browser type can slow down, or even break, pages in a different browser.
+
+Performance optimization is an essential business driver. Website performance has a direct correlation with revenue in both ecommerce and advertiser-supported applications.
+
+Read More: The Importance of Mobile and Multi-Platform Measurement in India
+
+Lookout for noUI Interfaces - Ashootosh Chand

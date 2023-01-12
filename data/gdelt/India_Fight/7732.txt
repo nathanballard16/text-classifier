@@ -1,0 +1,45 @@
+JPMorgan is building a cloud engineering hub in Seattle minutes away from Amazon and Microsoft, and it's planning to hire 50 staffers this year
+
+JPMorgan is staffing a Seattle engineering hub for cloud security developers thought to be the first of its kind among the largest US banks.
+
+The company hired 50 people last year and has plans to hire another 50 this year.
+
+The bank made the decision to locate the hub in Seattle because of the preponderance of cloud providers and the depth of talent in that market.
+
+Get a daily selection of our top stories based on your reading preferences. Loading Something is loading. Email address By clicking ‘Sign up’, you agree to receive marketing emails from Insider as well as other partner offers and accept our Terms of Service and Privacy Policy
+
+The cloud simply became too important for JPMorgan to ignore.
+
+As the bank began to embrace cloud computing and the idea of housing information at dozens of disparate data centers rather than a few it tightly controlled, execs at the largest US bank knew it would face a growing demand for engineers who knew how to keep its data safe. The challenge? How to attract that talent.
+
+Many of the best engineers in cloud security work for the largest cloud providers — Amazon Web Services, Microsoft's Azure and Google Cloud — in Seattle, where there's a thriving tech scene and a more laid back vibe than in New York. Recruiting those engineers and asking them to move to other locations on the buttoned-up East Coast might have been a tough sell.
+
+So the bank decided to do the next best thing and go to them. Last year, the company began hiring engineers for a new cloud cybersecurity office in Seattle, housed with other JPMorgan employees at an office just blocks from such landmarks as Pike Place Market. Recruiting engineers in their home market made the ramp up easier, said Todd Hrycenko, head of cloud, platform and application security at JPMorgan.
+
+Sign up here for our weekly newsletter Wall Street Insider, a behind-the-scenes look at the stories dominating banking, business, and big deals.
+
+"All of the large cloud providers have made Seattle their home base in North America," he said in an interview. "In fact, the density of this sort of talent doesn’t exist outside of a couple other cloud pockets around the world," he said, naming Dublin and Hyderabad as the others.
+
+In choosing Seattle, JPMorgan placed its office within minutes of the world's three largest cloud providers — the bank has existing partnerships with Amazon and Microsoft — and gave itself a clear advantage in working with those companies and hiring their employees, said Hrycenko, who joined from Salesforce last year to be the office's first employee.
+
+Hrycenko said the proximity helps when scheduling meetings with tech executives, especially around specific projects or partnerships that they're working on together.
+
+Cloud computing refers to the practice of accessing shared applications, processing power or storage on a network of remote servers, as opposed to downloading them onto a computer or using a single data center. The technology is widely considered necessary for the type of techniques that banks are now looking to use such as analyzing large data sets or teaching computers to parse human language.
+
+Read more: Employers are searching high and low for people with Google Cloud skills, says new report
+
+Hrycenko joined JPMorgan in the middle of last year and quickly hired another 50 or so cloud security experts through year-end 2018. He's got plans to hire another 50 this year, with larger ambitions of adding even more. JPMorgan's broader technology division is now studying the idea of hiring more general cloud developers in Seattle, he said.
+
+Not surprisingly, many of the new hires have come from the three largest providers. That's deliberate: in hiring, more so in cloud than other technology efforts like programming, it's critical to get employees who have worked at companies with big cloud offerings, according to Hrycenko.
+
+"The important part is the ability to understand the scale that cloud providers operate at," he said, adding that while banks might be used to having data centers in a few locations, the number could grow to 40 or more when you start using cloud technologies. "It’s hard to acquire that skill set independently."
+
+JPMorgan created its own private cloud in 2016, according to the Wall Street Journal. It finally moved some applications into the public cloud in May 2017 after about two years of study, the newspaper said.
+
+That makes it ones of the industry's pioneers, with many in banking still wary of moving data and key applications into the cloud due to cybersecurity, operational and regulatory fears. But companies and regulators are becoming increasingly comfortable that the security issues can be managed.
+
+In October, JPMorgan hired 23-year Microsoft veteran and principal cybersecurity architect for Azure, Mark Novak. This month, the Puget Sound Business Journal named Novak one of its Innovators of the Year. At JPMorgan, he's working on a strategy to stitch together public cloud providers and JPMorgan's private cloud into what's known as a hybrid cloud, according to his Linkedin profile.
+
+Hassan Sultan joined JPMorgan this month as an executive director after five years at Amazon Web Services, while CJ Keefe joined as an executive director last year after two years at AWS, according to their LinkedIn profiles. Both work in cybersecurity.
+
+On Friday, JPMorgan continued its recruitment effort. It posted a job ad for a "Site Reliability Engineer — Cloud" on its careers website. The location? Seattle.

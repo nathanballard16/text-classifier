@@ -1,0 +1,45 @@
+What the Crime Records Bureau’s data says about conditions in India’s prisons (and what it doesn’t)
+
+What happens inside India’s prisons? Many seek answers to this question.
+
+Prison statistics, despite their limitation of being mere numerical representations of harsh realities, have long been considered an “objective” way of answering the question. They have been an important subject of discussion since the 1855 International Statistics Congress in Paris.
+
+In colonial India, Dr FJ Mouat, surgeon and inspector general of prisons for Bengal, regularly submitted statistics from Bengal’s prisons to international conferences as well as the Royal Statistical Society, of which he was president from 1890 to 1892.
+
+In a 1876 lecture at the Royal Statistical Society, Mouat, who attempted several prison rehabilitation measures, said, “It would be difficult to overestimate the value of such records and their value depends entirely upon the minuteness, care, and accuracy with which they are collected.”
+
+He considered prison statistics to be an important subset of judicial statistics that were “essential to the correct understanding and effective working of all systems of prison discipline”.
+
+In independent India, the Committee on Jail Reforms led by Justice AN Mulla recommended uniform, nationwide collection of prison statistics in 1983. The National Crimes Records Bureau undertook this task and, in 1996, published the first Prison Statistics India, for 1995. Thereafter, the statistics were published without interruption until 2015.
+
+The statistics for 2016, however, were only released in April 2019, with neither an explanation for the long delay nor any indication as to when data for later years will be published.
+
+The National Crime Records Bureau has also failed to publish crime data after 2016, for the first time since undertaking the task in 1953. All this has happened on the watch of a government that is known for being less than forthright about official data.
+
+After the 2016 statistics were released, the media pointed out that they did not contain information about caste, religious and tribal identities of the prison population. The Prison Statistics India 2016 included new data categories, but dropped the key demographic data that had been published since at least 2008 and consistently showed that Muslims, Adivasis and Dalits were overrepresented in India’s prison population. Sudden and unexplained absence of this information leaves room for speculation.
+
+The 2016 statistics, though, contain numbers that show the sorry state of India’s prisons but that have not been sufficiently highlighted in the media so far.
+
+Of the 4,33,033 prisoners in 2016, around 70.35% were either illiterate or had not finished Class 10, pointing to a correlation between the lack of access to education and crime. Yet, only 1,30,443 prisoners across India were offered elementary and higher education or computer and vocational training.
+
+Nearly 34.5% of all staff positions across India’s prisons were vacant in 2016. Shortage of staff means that no matter how committed individual officials are to reforming prisoners, they are overwhelmed by their sheer numbers. Jharkhand fared the worst, with 23 prisoners for every jail official. West Bengal has just 23 medical personnel for its 59 prisons, averaging one personnel for every 999 prisoners. Jharkhand has 24 medical staffers for 29 prisoners, averaging a medical officer per 716 prisoners. Uttar Pradesh and Gujarat each have a single correctional officer, a catch-all designation that includes critical positions such as probation and welfare officers, social workers, psychologists and psychiatrists.
+
+This reality flies in the face a 2017 resolution adopted by the National Conference of Heads of Prisons renaming all prison departments as “correctional institutions” as well as the 2016 Model Prison Manual, which holds “reformation as the ultimate objective”.
+
+Though overcrowding in prisons has marginally reduced nationally, it remains a major concern. Chhattisgarh’s prisons operate at 189.9% of their capacity (holding 18,631 people despite having room for just 9,813) and Uttar Pradesh’s at 164.1% (95,336 prisoners as against the capacity of 58,111). Undertrials make up 67.7% of the prison population. Thus, overcrowding highlights the need not to build expensive new prisons – as some would enthusiastically suggest – but to undertake bail reforms and deploy non-carceral strategies except where absolutely unavoidable.
+
+A silver lining
+
+No matter how faint, the Prison Statistics India 2016 has a silver lining. Its mere publication offers some data to work with. Data about foreign prisoners was not separately available earlier, the heading of “uncategorized deaths” has been eliminated, and accidental deaths, murders by other prisoners and suicide are listed separately. Progressive measures by various states have also been commended.
+
+All this is insufficient, however, to lose sight of the fact that the 2016 statistics paint a grim picture of India’s prisons. While collecting data alone is not enough to tackle the many problems plaguing our prison system, it is an important first step. Considering the opacity of Indian prisons, this data is otherwise incredibly hard to come by. Without radically innovative solutions, the problems will not be resolved.
+
+It is worth considering if the National Crime Records Bureau can publish raw, anonymised data, so that solutions to persistent problems facing our prisons could be thought of at more granular levels by data scientists, former correctional officers, lawyers, think tanks and civil society groups unbounded by stifling bureaucracy. Now that several prisons have begun digitising their records, rather than maintaining them in numerous oversized registers, this should be an easier process.
+
+If the government is serious about addressing the horrific state of India’s prisons as revealed by the 2016 statistics, it must publish more prison data regularly instead of curtailing the release of this information fearing bad press.
+
+Nishant Gokhale studied law at NUJS, Kolkata, and Harvard Law School. The views expressed are personal.
+
+Also read: What the National Crime Records Bureau report does not tell us about cyber crime in India
+
+How the National Crime Records Bureau under-reports crime against women

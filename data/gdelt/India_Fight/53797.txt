@@ -1,0 +1,43 @@
+In India, titans of retail and payments come closer to banking
+
+Paytm and Walmart are each offering credit in India to obtain a competitive advantage in an environment that's typically more welcoming than that of China.
+
+Walmart announced a new B2B credit card in India, while Paytm said it would apply for a banking license. Both companies are battling each other and a gaggle of fintechs, retailers and banks that want to take part in the country's rapid payments digitization.
+
+The next step beyond payments is credit and direct lending. Paytm hopes to take advantage of a recent regulatory change in India that eases the requirements to obtain a banking license, a move the government hopes will bring more small businesses into the financial system.
+
+Indian media widely reports Paytm will seek a small banking license, giving it an entry into the micro lending, consumer, agriculture and small business banking markets (Paytm’s parent company, One97 Communications, did not return a request for comment). It's a play similar to Square, which has attempted to get a banking license in the U.S. to make small business loans.
+
+Advertisement
+
+While India has local data storage regulations that have rankled U.S. card brands such as Visa and Mastercard, the country is much more open to outside companies than China, a similar market in terms of size and upside, but one where regulators often move goal posts for foreign companies.
+
+India's regulatory environment more closely resembles Singapore, which has also opened its banking licensing to a broader set of companies to boost the connection between payment technology and more traditional banking. China's Ant Financial, which operates Alipay, is reportedly seeking a Singapore license; and is affiliated with Alibaba, an investor in Paytm. Paytm has used Alibaba's model in parts of its own business, such as mixing online and offline retail experiences.
+
+Paytm's valuation, driven in part by Ant, just passed $16 billion, creating pressure for it to expand revenue streams and cut losses in the next year.
+
+“All payments app providers are either already a super app, such as Paytm for example, or want to be one,” said Arnav Gupta, an analyst at Forrester.
+
+India's regulatory environment has touched off a proliferation of new lending options. There are more than 30 digital consumer lenders in India, which are well-funded startups focusing on underbanked segments, according to Gupta, adding there are another 9 Reserve Bank of India licensed peer-to-peer lenders and regulations that support consent-based data sharing. “That will be a game changer for the financial services sector,” Gupta said.
+
+The country’s United Payment Interface has grown quickly over the past year, making it easier to enroll new users for mobile payment apps, which in turn can serve as a base to build lending through license or bank partnerships.
+
+Paytm has already built a credit business, albeit with help. It earlier partnered with ICICI Bank to launch Postpaid, which offers interest free short-term digital credit through the Paytm app. And Paytm is responsible for almost 30% of open banking transactions in India through API, according to Celent.
+
+“Paytm Payments Bank has been a remarkable story of financial inclusion,” said Zil Bareisis, a senior analyst at Celent.
+
+Retailers raise the stakes
+
+Walmart will partner with HDFC Bank to issue business credit cards for Walmart's local cash and carry stores, which serve "kirana" stores, or mostly small businesses. Walmart has emerged as one of Paytm's chief outside competitors by acquiring Flipkart, an Indian e-commerce company that offers consumer credit. Walmart also offers mobile B2B payments in India through PhonePe, which is part of Flipkart.
+
+"The tier two and three cities in India need access to financial and payment services," said Felicia McCranie, senior manager of international corporate affairs and global communications at Walmart, adding the HDFC co-branded B2B card will have no interest for up to 50 days.
+
+Walmart has additionally benefited from Flipkart's partnership with Axis Bank to issue 49 million credit cards in India with an addressable market of 220 million, McCranie said. "In many cases these markets are unbanked but are getting more smartphones. Services like PhonePe create an ecosystem to access e-commerce and Flipkart allows them to shop online."
+
+Walmart dueled with Amazon to acquire Flipkart, part of broader rivalry between the two U.S. retailers that includes foreign markets like India. Amazon has invested in payment technology in India, and has linked Indian bank accounts directly to Amazon apps.
+
+“For Walmart to expand into B2B with no interest credit demonstrates the demand for U.S. corporations to move deeper into the market to grab market share. Similar to the U.S. there is a need for B2B loans in small business,” said Krista Tedder, head of payments for Javelin Strategy & Research.
+
+Google has added support for tokenized payment cards in India, opened an AI research hub, and improved security for Google Pay, in addition to adding features for businesses and tie-ins to train ticketing.
+
+“The mother of emerging payments markets, India is a hotbed of payments innovation,” said Eric Grover, a principal at Intrepid Ventures, adding that while traditional card networks like Visa, Mastercard and national champion Rupay are established and expanding, they’re relatively small. “The potential prize is enormous, so alternative payment systems like Paytm, MobiKwik and PhonePe have enjoyed access to abundant and patient capital.”

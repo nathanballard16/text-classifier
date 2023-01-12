@@ -1,0 +1,93 @@
+Hot – Tubbing : A Concurrent Evidence Procedure In Intellectual Property Suits
+
+ARTICLE
+
+To print this article, all you need is to be registered or login on Mondaq.com.
+
+Recently, The Delhi High Court amended its Rules (Original Side) and incorporated 'Hot-tubbing' by substituting Rule 6 in Chapter XI of the Rules1 , in which expert witnesses give evidence simultaneously in each other’s presence and in front of the judge, who puts the same questions to each expert witness.. This is a unique process of examination of expert witnesses, which finds its origin in Australia but is now regularly adopted in international cases.
+
+The submitted documents for the matters upon which the experts agree/disagree serve as the agenda, and the Counsel is able to join in the discussion and can put questions to the experts. The key difference, and a way for identifying the truth behind the conflicting testimonies, is that the experts can pose questions to each other.
+
+History of 'Hot – tubbing' :
+
+Hot-tubbing procedure was first introduced in Australian Trade Practices Tribunal sometime in the 1990s and gained enough popularity to justify its inclusion in the revised Federal Court Rules of 1998 (FCR). The FCR governs the practices of Federal Courts of Australia, in which most federal civil disputes and some minor federal criminal matters are handled.
+
+Australian courts have been the driving force behind the development of hot tubbing and, in particular, Justice Peter McClellan. Concurrent expert evidence seems to have originated in some Australian tribunals and in judicial experiments in the Commercial List (Common Law Division) of the Supreme Court of New South Wales. Commentators generally credit Justice McClellan for bringing concurrent expert evidence “into the mainstream” and for playing a key role in educating the Australian judiciary about the benefits of concurrent expert evidence in articles, papers etc.
+
+Expansion of 'Hot – tubbing' :
+
+Apart from FCR, other Australian jurisdictions also started exploring the Concurrent Examination procedure of hot-tubbing. For instance, in 1999 the NSW Supreme Court of Australia introduced hot-tubbing procedures such as pre-trial conferences and joint report, followed by a concurrent hearing.
+
+Eventually, hot-tubbing found a place in the Supreme Court Rules in the year 2000. Thereafter, the NSW Land and Environment Court followed the Supreme Court and started issuing practice guidelines which included hot-tubbing procedures.
+
+After achieving much popularity over the last few years in various court systems, the hot-tubbing procedure has been successful in seeking attention and appears to be gaining a position even in the ever growing field of commercial suits. In 2003, a report was published by the Australian Institute of Arbitrators and Mediators, which mentioned, “the relaxing qualities of the hot tub are well known, and assuming that the experts are competent, honest and genuine, hot-tubbing will achieve narrowing of the differences between the parties”.
+
+Hot-tubbing procedures have slowly spread to other countries as well. Countries like Canada, Ireland, the US and India has either started considering implementation of this unique way of expert examination, or have actually implemented these features in some of the courts. In the UK, when Lord Justice Jackson reviewed civil litigation costs in December 2009, he suggested hot-tubbing procedures for expert examination as a pilot programme in his report in 2010. Apparently, hot-tubbing is gaining popularity and acceptance on global level while even evolving with each jurisdiction.
+
+Key advantages of Hot – tubbing :
+
+1. Hot tubbing promotes the independence of experts, as it separates their evidence from the factual evidence of the party by whom they have been retained.
+
+2. A greater capacity for witnesses to explore and fully understand the issues about which they are expressing an opinion, by questioning and interacting with other experts.
+
+3. The creation of a less adversarial environment than the traditional procedure. The panel aims to have the feel of a roundtable discussion between colleagues. This makes it less likely that experts will defensively maintain extreme positions or partisan opinions that are not genuinely held, as here too experts may be required to justify these views to their professional peers.
+
+4. Removal of experts from questioning by counsel until after all relevant expert opinions has been espoused. This should make it easier for experts to make concessions where appropriate, without feeling as though they are weakening the case of the party by whom they are retained.
+
+5. The capacity for expert issues to be dealt with on a more advanced level, and in a manner that is more relevant to the question at hand, because panel evidence is led by the experts themselves with little or no interference by counsel.
+
+Procedure during Hot – tubbing :
+
+1. It is necessary that before the beginning of the recording of evidence, the ground rules relating to the “hot tubbing” are made known to the parties.
+
+2. The factual basis of the case needs to be set out first. Each side could call their principal non expert witness, to be examined, cross-examined and re- examined.
+
+3. The respective technical/scientific experts would then depose together. In practice, there are many variations in the approach, but under the court's direction, the basic method is for experts retained by the parties to prepare written reports in the normal way. The reports are exchanged and the experts are required to meet without the parties or their representatives to discuss those reports.
+
+4. The experts prepare a joint statement incorporating a summary of the matters upon which they agree, and identifying the matters upon which they disagree. Before the trial, the parties produce an agreed agenda for taking concurrent evidence based on the joint statement. This contains a numbered list of the issues where the experts disagree and must be provided in sufficient time to enable the judge to consider it properly.
+
+5. At trial/ court hearing, the experts are sworn together and take their place together at the witness table. Using the summary of matters upon which they disagree, the judge chairs a “directed” discussion of the issues about which there is disagreement. The process provides an opportunity for each expert to place his or her view on a particular issue or sub-issue before the court. The experts are encouraged to ask and answer questions of each other. The advocates also may ask questions during the course of the discussion to ensure that an expert's opinion is fully articulated and tested against a contrary opinion. At the end of the discussion, the judge will ask a general question to ensure that all of the experts have had the opportunity to fully explain their positions.
+
+6. The judge- during the above process questions the experts, taking topic by topic, putting the same question to each expert in turn.
+
+7. At the end of the questioning on each topic the judge invites the respective advocates to further question the experts, a variation of cross-examination or re-examination but more of a process of clarifying what has emerged in the judge-expert exchanges.
+
+8. After the judge has finally finished with the experts, the advocates will be invited to further question both experts, principally by way of clarification, but not to introduce entirely new topics.
+
+Micromax Informatics Ltd. vs. Telefonaktiebolget Lm Ericsson2 :
+
+The information filed by Micromax contained allegations of abuse of dominant position which is prohibited under Section 4 of the Indian Competition Act. Micromax, being a major mobile handset manufacturer and supplier in India contended that Ericsson (a telecommunications company), which owns several patents including a great number of Standard Essential Patents in this sector with regard to the GSM standard set by the European Telecommunications Standardisation Institute (ETSI), demanded excessive royalties from Micromax which was in fact a contravention of its FRAND commitment.
+
+According to Micromax, this demand of unfair, discriminatory and excessive royalties was made through notices sent by Ericsson which alleged that Micromax was indulging in SEP infringement. Micromax further alleged that in one of the notices, Ericsson threatened that it would inform the Securities Exchange Board of India (SEBI) which could possibly result in harm to Micromax considering its future plans to make the company public. The royalties which were demanded by Ericsson were based on the Net Selling Price (NSP) of the end product i.e. the mobile handset, and Micromax considered that approach as arbitrary and abusive.
+
+By order dated 4th December, 2017, the Delhi High court had reserved orders on the merits of the appeal. However, was informed that in the meanwhile, by mutual consent, on terms acceptable to both, the parties had settled their disputes. In the circumstances, the court would formally dispose of this appeal, but with certain observations as regards the “hot tubbing” procedure which had been recommended for acceptance by the parties, in the course of the suit.
+
+Apple Inc vs. Samsung Electronics Co Ltd3 :
+
+Apple Inc and Samsung Electronics Co Ltd are embroiled in a high-stakes patent battle in several countries around the world, but only in Australia are they also engaged in "hot tubbing." Australia is one several countries where Apple and Samsung are in battle over patents. Apple has accused Samsung of copying the design and function of some of its tablet and smart phone devices, while Samsung has counter-sued Apple for allegedly breaching patents related to wireless transmission technology.
+
+Proponents argue that the "hot-tubbing" procedure (concurrent evidence) saves time and resources and, importantly, restrains experts hired by litigants from overstating their case as they can immediately be questioned not only by the judge and lawyers, but by their peers. The hot tub approach temporarily switches Australia's adversarial court system into more of an inquisitorial system that is widely followed in Europe and Asia.
+
+The basic theory is that if an expert is in a position like that, they will be more upfront about what they really think and they'll be more willing to discuss the nuances of points. It also tempers the tendency of barristers to be aggressive in questioning.
+
+Conclusion :
+
+As already held by the courts, an opinion of an expert cannot be relied upon unless the expert is examined. Examination of an expert includes cross-examination of such an expert on his/ her experience, domain of knowledge and opinion. Does hot-tubbing take away the vital provision of examination of an expert, the absence of which might even vitiate the entire opinion? Although hot-tubbing deviates from the old-fashioned examination and cross examination of an expert witness, it does not entirely exclude examination of the experts.
+
+As per sub-rules d) and e) of rule 6 of the amended Delhi High Court rules, parties/counsels are allowed to put questions to expert witnesses and thus, it can be safely said that hot-tubbing is not contrary to the law relating to examination of witnesses4 .
+
+The hot-tubbing procedure of expert examination has been identified as an alternative to sequential examination of expert witnesses, which might be flawed due to inherent susceptibility to biasness. Hot-tubbing would certainly help in eliminating bias of experts and would certainly increase comprehension of judges on complex technical issues.
+
+Hot-tubbing in India is in nascent stage and the jurisprudence would evolve with time. It will not be a surprise if it might garner more praise in times to come, especially in the matters that involve issues of highly technical nature such as patents. With increasing popularity of hot-tubbing around the globe, we believe that hot-tubbing in the Indian judicial system would also help in achieving its intended goal of reducing time, cost and stress involved in complex litigation.
+
+Footnotes
+
+Notification available at – http://delhihighcourt.nic.in/writereaddata/upload/Notification/NotificationFile_8BP1BKKNT2G.PDF
+
+Judgement available at – https://indiankanoon.org/doc/31507993/
+
+Judgement available at – https://en.wikipedia.org/wiki/Apple_Inc._v._Samsung_Electronics_Co
+
+Rule no. 6 of Amended Delhi High Court Rules available at – http://delhihighcourt.nic.in/writereaddata/upload/Notification/NotificationFile_8BP1BKKNT2G.PDF
+
+The content of this article is intended to provide a general guide to the subject matter. Specialist advice should be sought about your specific circumstances.

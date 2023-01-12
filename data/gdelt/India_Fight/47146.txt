@@ -1,0 +1,79 @@
+ASPA's Nakul Pasricha: By using an authentication solution, industry can hit counterfeiters hard
+
+The menace of fake parts continues to impact the Indian automotive marketplace and a large number of road accidents are directly attributed to their use. Nakul Pasricha, President of Authentication Solution Providers' Association (ASPA) details the many measures being taken to arrest the problem and offers top tips on how consumers can recognise a fake part
+
+Q: What are the telltale signs to a fake part's packaging?
+
+A: Whenever you are buying spares, whether you are a professional or a novice, it’s always advisable to look into the basics. We would like to suggest a few tips.
+
+First and foremost, if you’re not installing the part yourself, ask the person in charge if you can see the part and the packaging. Assess the packaging carefully — if it appears flimsy, lacks the brand name or logo, or has graphics or a name similar to but not quite the same as those you are used to seeing, it could be counterfeit. Counterfeiters often use colours, artwork and type fonts on their packaging that are similar to the original.
+
+
+
+Tata Motors' genuine products have security enriched packaging stickers and labels as well as the ‘Tata Dhaal’ hologram depicted on the packaging
+
+Secondly, look for informative messaging from brands to identify genuine products. As many brands these days use authentication solutions on their packaging, it is advisable to go through them with care. For example, Tata Motors is using a series of pilfer-proof plastic packaging for gear and differential parts as well as laser marking with the ‘Tata’ logo — there is a slew of security enriched packaging stickers and labels and the ‘Tata Dhaal’ hologram on the packaging.
+
+Lastly and the most important precautionary measure is to get your vehicle serviced from an authorised service centre. In most cases, it is the older cars which are targeted because most are out of warranty. As such, more people start to service their vehicles outside the dealer network, and thus go to independent repairers where there’s more widespread use of non-genuine or counterfeit parts.
+
+Q: What if one misses to check the packaging? How can you then tell if a component is actually genuine or not?
+
+A: There are a wide variety of technologies available today that support brand protection strategies. These technologies are applied in the three main areas of anti-counterfeiting — anti-tampering, and tracking and tracing. All these technologies can be categorised as either overt, covert, forensic or digital.
+
+Overt — These technologies or features are designed to enable the general public (the consumer) to identify if the product is genuine or not. Examples include security holograms, optical variable inks, colour shifting ink, watermark, security thread (commonly used in currencies), overt guilloche pattern and printing-based features such as intaglio.
+
+Semi-covert — These features are not visible to the human eye and can only be seen with the help of tools such as UV lights, magnifiers and lenses. Some examples are covert micro-text, UV fluorescence ink, colour shifting ink, security fibre, taggants and anti-stokes among others.
+
+Covert — These features are viewable with sophisticated hand-held tools that are only available to enforcement authorities. The general public and supply chain members usually do not know about these features.
+
+Forensic — These are reserved for special departments or officials and can only be verified with special tools or laboratories. These features are developed with a combination of DNA and nano-technology-based rare materials.
+
+Today, various brand owners and government authorities are adopting integrated authentication solutions (a combination of physical security and digital tools). The integration provides real-time data intelligence to brand owners as well empowering consumers in the authentication process.
+
+With these solutions, on one hand the consumers can easily verify / check product genuineness via web, mobile app or SMS, and on the other hand, the physical security greatly reduces the chances of counterfeiting or tampering with these products.
+
+Q: What immediate action can a customer take if the shopkeeper is selling a counterfeit product over the counter?
+
+A: If you find or suspect counterfeit products or have any other intellectual property concerns, the first step is to either call the legitimate manufacturer or contact the industry association.
+
+
+
+In August 2018, SKF India, along with the local team of IPRE Division of Chennai police, raided fake bearings dealers and stamping units in Thambu Chetty Street and seized duplicate bearings worth over Rs 50 lakh
+
+According to ACMA, each year it conducts 500 raids on retailers and dealers who stock fakes. The concept of empowering the consumer can be an important element to support due diligence practices and supply-chain integrity because the different categories of consumers can authenticate the goods in different parts of the supply-chain and report the presence of non-compliances (for instance counterfeit products).
+
+Q: ACMA has the Asli- Naqli and Safer Drives campaigns. Does ASPA collaborate with ACMA in dealing with the fake parts menace?
+
+A: We are developing close relationships with ACMA and have started sharing our knowledge base. In most of our conferences, they have provided us valuable support in terms of speakers and delegates. Likewise, ASPA members are also participating in ACMA conferences to increase anti-counterfeiting awareness.
+
+Q: What digital solutions can OEMs and Tier 1s adopt to prevent mocking and reproduction of their products?
+
+A: OEMs are integrating their labeling requirements with digital solutions. The labels incorporate a variety of security features for visual, aided and expert authentication. The better the adoption of a combination of technologies, the better the chance to reduce counterfeits to a low-level.
+
+Digital technologies may either be overt or covert, but all require an electronic means for detection and validation. Digital solutions are increasingly being combined with physical authentication solutions to provide traceability. The examples are RFID tags, serialisation, data matrix et al. These features with mobile and SMS-based applications can instantly verify the product details with one simple scan and message.
+
+Q: The government has now mandated automakers for use of Microdots. How will that work and can it be effective in curbing counterfeiters?
+
+A: The government-recommended size of Microdots is 0.5mm. All the text on every microdot will be legible with equipment that magnifies the text at least 60 times. The microdot supplier may add covert features to the Microdot. The features may be proprietary. Covert features are to be provided and recorded during testing. According to our knowledge, it needs an installation at the assembly line. The government has recommended various positions where these Microdots shall be applied.
+
+
+
+With Microdot tech, thousands of non-toxic micro-polymers are sprayed across an entire vehicle. They can be viewed only under UV light of 250nm wavelength to decipher the embedded VIN and assist vehicle and components traceability
+
+Globally, Microdot technology is used as a covert authentication technology used for vehicle marking. It involves spraying thousands of the small dots laser etched with a vehicle identification number (VIN) throughout the vehicle. The dots, which are less than 1mm across, are carried in an adhesive that fluoresces under UV light. It’s a simple matter then to identify a treated area and recover one of the dots for viewing under a special magnifier, which reveals the dot’s number. Because the dots are spread throughout the vehicle, it is impossible to find and remove every one. This makes it very difficult for a car thief to conceal the vehicle’s true identity. It also allows usually untraceable parts to be linked to a particular vehicle, thereby aiding in the recovery of stolen components.
+
+Several vehicle manufacturers use Microdots to enhance the security of their vehicles. They can also be added later, though the aftermarket system uses a Personal Identity Number rather than the vehicle’s VIN. Microdots are effective against professional car thieves and those stealing to profit from the vehicle. However, to guard against opportunist thieves, a quality vehicle immobiliser should also be fitted.
+
+
+
+In 2017, there were a total of 464,910 road accidents in India, which claimed 147,913 lives and injured 470,975. Counterfeit parts cause a loss of Rs 15,000 crore in revenue to industry and equal measure in taxes to the exchequer
+
+Q: On the regulatory side, what support do you need from the government to curtail the challenging situation?
+
+A: Counterfeit activities are destroying the economy of India. Our industry can help the government in plugging these loopholes. A brand owner who employs an authentication solution is likely to increase his business by cutting down the counterfeiter’s share. This increased business will consequently bring in more revenue to the exchequer in the form of higher collection of taxes and duties. We help the government achieve its social responsibilities, as our solutions enable the common man to identify a genuine product and save him from the perils of a counterfeit product.
+
+The Ministry of Road Transport and Highways, under the leadership of Nitin Gadkari, has taken proactive steps for consumer safety. In the recent amendment to the Motor Vehicle Bill, they have introduced few good measures such as usage of Microdots for vehicle tracking, directive of having colour-coded stickers that indicate the vehicle's fuel type.
+
+We now urge the government to form a dedicated department for strengthening the anti-counterfeiting environment in the country. The problem is not only related to the automotive sector but is widely spread in almost all the sectors. We would be happy to work with the government departments and the Ministry of Consumer Affairs, on creating an awareness program that will educate the people of our country about the perils of counterfeiting.
+
+This interview first appeared in Autocar Professional's September 1, 2019 issue

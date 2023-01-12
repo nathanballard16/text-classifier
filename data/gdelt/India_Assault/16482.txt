@@ -1,0 +1,13 @@
+Tracing the Origins of Air Pollutants in India
+
+At any moment in Delhi, India, a resident might start their car, releasing exhaust that floats into the atmosphere.
+
+At any moment in Delhi, India, a resident might start their car, releasing exhaust that floats into the atmosphere. In northwest India, a farmer might set fire to his field after the wheat harvest to clear it quickly, releasing smoke that’ll be carried by the wind. A small family might burn wood to light their stove, releasing soot into the sky. Delhi, a city which boasts a population of over 28 million residents, bustles with activity at all hours of the day and night. And as it grows — so does its pollution.
+
+The pollution, which sometimes manifests as thick smog, respiratory illness, and disease, is the focus of many who hope to identify and eliminate its sources. But to do that accurately, the pollution must be tracked by research-grade air quality monitors that measure pollutants including particulate matter, sulfur dioxide, nitrogen dioxide, ozone, and more, which can cost upwards of hundreds of thousands of dollars.
+
+Low-cost sensors, which have recently begun to be commercialized, offer scientists, policymakers, and the public the opportunity to detect pollution without high overhead costs — but not without some tradeoffs. Jesse Kroll, a professor in the MIT departments of Civil and Environmental Engineering and Chemical Engineering, researches the instruments and methods used to conduct atmospheric chemistry research. “In terms of nearly every measurement metric — precision, accuracy, sensitivity, interferences, drift, and so on — the low-cost sensors fall far short of what research-grade equipment can deliver,” he says. “This is a major limitation, but it usually isn’t made clear by the sensor manufacturers.”
+
+Read more at Massachusetts Institute of Technology
+
+Photo: A sunset from the rooftop of a building near Connaught Place, where low-cost sensors were co-located with reference instruments for two years. CREDIT: David Hagan

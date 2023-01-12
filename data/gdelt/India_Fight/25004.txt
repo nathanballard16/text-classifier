@@ -1,0 +1,155 @@
+Notable Judgments On Insolvency And Bankruptcy Code, 2016 Part- 2
+
+WHETHER A WINDING UP PETITION CAN BE FILED BY THE SECURED CREDITOR AGAINST A BORROWER EVEN AFTER OBTAINING DECREE FROM THE DEBTS RECOVERY TRIBUNAL?
+
+
+
+[Swaraj Infrastructure Pvt. Ltd. v. Kotak Mahindra Bank Ltd. (Civil Appeal No. 1291 of 2019 Decided on 29.01.2019)]
+
+The Hon'ble Supreme Court maintained the exclusivity of Recovery of Debt and Bankruptcy Act (RDB Act) for recovery of debts and reaffirmed that the winding up process is not an alternate remedy for realization of debts due to a creditor, further it held that a secured creditor can file a winding up petition against the borrower even after obtaining a decree from the Debts Recovery Tribunal (DRT).
+
+WHETHER RBI HAS POWER TO ISSUE DIRECTION UNDER SECTION 35AAOF THE BANKING REGULATION ACT TO BANKS AND FINANCIAL INSTITUTIONS?
+
+[Dharani Sugars & Chemical Ltd Vs. Union of India Transfer Petition (Civil) No. 1399 of 2018 Decided on 02.04.2019]
+
+The Hon'ble Supreme Court analyzed the scope of power of RBI under Section 35 AA of the Banking Regulation Act and held that RBI can direct banking and financial institutions to move under the IBC, if two conditions precedent are specified: (i) the Central Government should authorize RBI to issue direction; and (ii) it should be in respect of specific default. Hence, only Central Government has the power to authorize RBI to issue direction to banking and financial intuitions when it comes to initiate proceeding under IBC in respect of specific defaulters. Therefore, without authorization of the Central Government, the RBI cannot issue such directions. Further the Hon'ble Supreme Court struck down the circular issued by the Reserve Bank of India on February 12, 2018 directing banks to initiate insolvency proceedings against companies having bad debts of Rs 2000 crores or above. The court also held that authorization from Central Government is necessary for RBI to direct insolvency process against stressed assets.
+
+WHETHER THE CIRP UNDER THE IBC CAN CONTINUE WHEN WINDING UP PROCEEDINGS WERE PENDING IN THE HIGH COURT?
+
+[Forech India Ltd vs Edelweiss Asset Reconstruction Co.Ltd, Civil Appeal No. 818 of 2018 Decided on 22.01.2019]
+
+The Hon'ble Supreme Court held that Corporate Insolvency Resolution Process (CIRP) under the Insolvency and Bankruptcy Code (IBC) can continue independent of any pending winding up process against the corporate debtor pending in the High Court under the Companies Act, the bench concluded that CIRP was an independent process. The bench also noted that Section 434 was amended, adding a proviso to enable a party to seek transfer of winding up petition pending in HC to the NCLT. The Court however granted liberty to the appellant to seek transfer of the application in HC to NCLT under Section 434.
+
+WHETHER THE WINDING UP PROCEEEDINGS OF A COMPANY UNDER SECTION 20 OF SICA ACT 1985 WILL CONTINUE IN THE HIGH COURT OR THE NCLT?
+
+[Jaipur Metal and Electricals Employees Organization vs Jaipur Metal and Electricals Ltd, Civil Appeal No. 12023 OF 2018 Decided on 12.12.2018]
+
+The Hon'ble Supreme Court has held that winding up proceedings under the Sick Industrial Companies (Special Provisions) Act, 1985 will continue in the High Court and not the National Company Law Tribunal, until an application for transfer to NCLT is filed by a party under Section 434(1)(c) of the Companies Act 2013.Further it was held that "under the scheme of Section 434 (as amended) and Rule 5 of the 2016 Transfer Rules, all proceedings under Section 20 of the SIC Act pending before the High Court are to continue as such until a party files an application before the High Court for transfer of such proceedings post 17.08.2018(under Section 434(1)(c) of the Companies Act)" The SC however found fault with the portion of the HC order which set aside the NCLT order of admission of application under Section 7 IBC.
+
+WHETHER THE COMPLIANCE WITH SECTION 9(3)(C) OF THE IBC,2016 WAS MANDATORY IN NATURE?
+
+[Macquaire Bank Limited v. Shilpi Cable Technology (2018) 2 SCC 674 Decided on 15.12.2017]
+
+The court held that Section 9(1) contains the conditions precedent for triggering the 2016 code in so far as the operational creditor is concerned. The requisite elements are occurrence of a default and delivery of a demand notice of an unpaid operational debt or invoice demanding payment of the amount involved. The bench concluded that a procedural provision is the handmaid of justice and cannot be mandatory where there is a serious general inconvenience.
+
+WHAT IS THE TIME LIMIT FOR COMPLETION OF THE INSOLVENCY RESOLUTION PROCESS?
+
+[Arcelormittal India Pvt. Ltd. vs. Satish Kumar Gupta &Ors. Civil Appeal no. 9582 of 2018 Decided on 04.10.2018]
+
+The Hon'ble Supreme Court, interpreting Section 29A(c) of the Insolvency and Bankruptcy Code, 2016, has observed the stage of ineligibility attaches when the resolution plan is submitted by a resolution applicant and not at any anterior stage. The bench further held that the time limit for completion of the insolvency resolution process as laid down under Section 12 IBC is mandatory and it cannot be extended beyond 270 days.
+
+WHETHER THE RESOLUTION PLANS SHOULD BE GIVEN TO THE SUSPENDED MEMBERS OF BOARD OF DIRECTORS OF CORPORATE DEBTOR TO ATTEND COC MEETINGS?
+
+[Vijay Kumar Jain vs Standard Chartered Bank and others Civil Appeal No.8430 OF 2018 Decided on 31.01.2019]
+
+The Hon'ble Supreme Court recognized the right of members of the suspended Board of Directors of a corporate debtor to receive insolvency resolution plans submitted before the Resolution Professional, in order to effectively participate in the meetings of Committee of Creditors (CoC).
+
+WHETHER THE PERIOD OF CIRP SHOULD BE EXTENDED IN THE INTEREST OF THE STAKE HOLDERS/HOME BUYERS?
+
+[Chitra Sharma &Ors. v. Union of India and OrsW.P. (C) 744 of 2017. Decided on 09.08.2018]
+
+The Hon'ble Supreme Court used its plenary powers under Article 142 of the Constitution of India which is a power very sparingly exercised and gave the direcion: "In the exercise of the power vested in this Court under Article 142 of the Constitution, we direct that the initial period of 180 days for the conclusion of the CRIP in respect of JIL shall commence from the date of this order. If it becomes necessary to apply for a further extension of 90 days, we permit the NCLT to pass appropriate orders in accordance with the provisions of the IBC."
+
+WHETHER THE INSOLVENCY & BANKRUPTCY CODE WILL OVERRIDE THE PROVISIONS CONTAINED IN ANY OTHER ENACTMENT?
+
+[Pr. Commissioner of Income Tax v. Monnet Ispat and Energy Ltd. 2018 SCC Online 984 Decided on 10.08.2018]
+
+The Hon'ble Supreme Court upheld Section 238 IBC, 2016. Further it was held that the Code will override anything inconsistent contained in any other enactment, including the Income-tax Act. Further the court held that Income-tax dues, being in the nature of Crown debts, do not take precedence even over secured creditors, who are private persons.
+
+DUTY OF DETERMINATION OF AN INSTRUMENT OR A PARTICULAR DOCUMENT OF SPECIFIC NATURE?
+
+[Black Pearl Hotels Pvt. Ltd. v. Planet M. Retail Ltd. (Supreme Court), Civil Appeal 2973-2974 of 2017 Decided on 17.02.2017]
+
+The Hon'ble Supreme Court ruled that the duty of determination of an instrument or, to explicate, to determine when there is a contest to a particular document to be of specific nature, the adjudication has to be done by the judge after hearing the counsel for the parties. It is a part of judicial function and hence, the same cannot be delegated.
+
+WHETHER MERE RECEIPT OF A LOAN CAN BE TREATED TO BE AN OPERATIONAL/ FINANCIAL OR UNSECURED/SECURED DEBT?
+
+[Aditya Enterprises v. Rajratan Exim Pvt. Ltd. [Company Appeal (AT) (Insolvency) No. 335 of 2018] Decided on 06.07.2018]
+
+The NCLAT observed that in absence of any record to show that the loan was borrowed by the "Corporate Debtor" for its business, we cannot consider the amount as financial debt by stating that he had already paid back the dues. In case there being a dispute about debt, the question of default does not arise. There is no evidence placed on record to suggest that any financial debt is due to the appellant.
+
+WHETHER ANY AMOUNT DEPOSITED BY ANY PERSON IN THE ACCOUNT OF CORPORATE DEBTOR AFTER ORDER OF MORATORIUM CAN BE APPROPRIATED BY BANK (FC) TOWARDS ITS OWN DUES DURING THE PERIOD OF MORATORIUM ?
+
+[State Bank of India v. Debashish Nanda [Company Appeal (AT)(Insolvency) NO.49 of 2018] Decided on 27.04.2018]
+
+The NCLAT held that any amount which is deposited by any person in the account of CoCs after the date of order of Moratorium cannot be appropriated by bank towards its own dues during the period of Moratorium. Further, the Appellate Tribunal chose not to interfere with the order of AA but set aside the order whereunder cost of Rs. 25000/- was imposed on the appellant(FC). The Appellate Tribunal further stated that their interim order would continue during the period of moratorium.
+
+WHETHER THE COC ARE LIABLE TO BEAR THE EXPENSES INCURRED BY THE IRP OR NOT?
+
+[State Bank of India v. SKC Retails Ltd. Through IRP &Anr. [Company Appeal (AT) (Insolvency) NO. 08 & 43 of 2018] Decided on 06.03.2018]
+
+The NCLAT held that firstly there was a reference made to Regulation 33 of the IBBI (Insolvency Resolution Process for Corporate Persons) Regulation, 2016 which is related to "cost of the interim resolution professional" where it was stated that the applicant generally proposes the name of the IRP. Such applicant negotiates the fee to be charged and paid to the IRP. The Adjudicating Authority is required to fix the expenses. In such case, the applicant, who has filled the application u/s 7 or 9 of the IBC, is required to bear the expenses which are to be reimbursed by the CoC to the extent the CoC ratifies the same. Secondly in this case, the application was filed by the Respondent u/s 7 of IBC, the names of resolution professional were suggested by the applicant. Therefore, the applicant is liable to incur the expenses of resolution professional and thereafter, the applicant will get the amount reimbursed by the CoC to the extent the amount as is ratified by the Committee.
+
+WHETHER AN APPLICATION U/S 7 OF THE IBC IS MAINTAINABLE WHEN WINDING UP PROCEEDING AGAINST THE CORPORATE DEBTOR HAS ALREADY BEEN INITIATED BY HIGH COURT?
+
+[Indiabulls Housing Finance Ltd. v. Shree Ram Urban Infrastructure Ltd. [Company Appeal (AT) (Insolvency) No. 252 of 2018] Decided on 30.05.2018)]
+
+The NCLAT made a reference to order of this Appellate Tribunal in Innoventive Industries Limited vs. Kumar Motors Private Limited from which it was derived that the word "winding up" mentioned in the Companies Act, 2013 is synonymous to the word "Liquidation" in mentioned in the IBC. It was held that as Bombay High Court had already ordered for "winding up", which is the second stage of the proceeding, initiation of 'CIRP" against the same 'Corporate Debtor' does not arise. Hence the appeal was dismissed.
+
+WHETHER AFTER THE INITIATION OF WINDING UP PROCEEDINGS, ANOTHER APPLICATION U/S 7 OR U/S 9 AGAINST THE SAME CORPORATE DEBTOR IS MAINTAINABLE OR NOT?
+
+[RajitMehra v. Punjab National Bank &Anr. [Company Appeal (AT) (Insolvency) No.83 of 2018] Decided on 22.03.2018)]
+
+The Appellate Tribunal referred to "Innoventive Industries Limited vs. Kumar Motors Pvt. Ltd." where it was held by this Appellate Tribunal that- '…. the High Court has already admitted the winding up proceedings and ordered for winding-up of the Respondent Corporate Debtor, we hold that the question of initiation of CIRP against same Corporate Debtor does not arise." The Appellate Tribunal chose not to interfere with the order of the AA.
+
+WHETHER THE LIMITATION ACT, 1963 APPLY TO THE APPLICATION FOR CIRP UNDER THE IBC?
+
+[Sriram Compounds Pvt. Ltd. v. Shiva Drums Pvt. Lts. &Ors. [Company Appeal (AT) (Insolvency) No. 46 of 2018] Decided on 05.03.2018]
+
+The Appellate Tribunal had already held that the provisions of Limitation Act, 1963 are not applicable to the application for CIRP under the IBC, further, even then if the period as claimed is excluded for the purpose of condonation of delay, this appeal was not allowed since, as per Rule 5, the Appellant was required to serve notice u/s 8(1) of the IBC and to submit all information in terms of Form 5(AAA), but none was done by the Appellant. Thus, the Appellate Tribunal chose not to interfere with the order of the AA.
+
+WHETHER STATUTORY DUES OF INCOME TAX, VALUE ADDED TAX ETC. ARE 'OPERATIONAL DEBTS' UNDER THE INSOLVENCY AND BANKRUPTCY CODE, 2016?
+
+[Pr. Director General of Income Tax (Admn. & TPS) Vs. M/s. Synergies Dooray Automotive Ltd. &Ors. Company Appeal (AT) (Insolvency) No. 205 of 2017 Decided on 20.03.2019]
+
+The NCLAT held that statutory dues of income tax, value added tax etc. are 'operational debts' under the Insolvency and Bankruptcy Code 2016. Consequently, it held that Income Tax Department, Sales Tax Department of states etc., who are entitled to such dues, are 'operational creditors'.
+
+WHETHER THE ADJUDICATING AUTHORITY CAN APPROVE THE AMENDED RESOLUTION PLAN, IF IT IS IN CONSONANCE WITH SECTION 30(2) OF IBC & IS UNANIMOUSLY APPROVED BY COC?
+
+[Tomorrows Sales Agency Pvt. (Successful Resolution Application) v. Rajiv Khurana (Resolution Professional for Power Himalayas Ltd. &Ors.) [Company Appeal (AT) (Insolvency) No.162 of 2018 Decided on 05.07.2018]
+
+The NCLAT held that the original application was wrongly rejected & that the Adjudicating Authority should have amended Resolution Plan. The impugned order of the Adjudicating Authority was set aside, and the amended Resolution Plan was approved.
+
+WHETHER IN TERMS OF SEC.24(3)(C) OF IBC, THE RP IS REQUIRED TO GIVE NOTICE TO OC'S OR THEIR REPRESENTATIVES TO ATTEND THE MEETING OF COC?
+
+[M/s ANG Industries Ltd. v. I. Shah Brothers Ispat Pvt. Ltd. [Company Appeal (AT) (Insolvency) no.109 of 2018 Decided on 24.05.2018]
+
+The NCLAT directed the RP to act in accordance with decision of the Appellate Tribunal in Rajputana Properties Pvt. Ltd V/s Ultra Tech cement Ltd. &Ors. The Appellate Tribunal did not to interfere with the NCLT Order.
+
+WHETHER IN ABSENCE OF GROUND MENTIONED IN SECTION 34, CAN THE ADJUDICATING AUTHORITY REPLACE THE APPELLANT (RESOLUTION PROFESSIONAL) BY ANOTHER LIQUIDATOR?
+
+[M/s Devendra Padamchand Jain (RP of VNR Infrastructures Ltd- Corporate Debtor) v. State Bank of India&Ors [Company Appeal (AT) (Insolvency) No. 177 of 2017] Decided on 31.01.2018)]
+
+The NCLAT held that the AA has jurisdiction to remove the RP if it is not satisfied to remove the functioning of the RP, which amounts to non-compliance of Section 30(2) of IBC.
+
+WHAT CONSTITUTES "EXISTENCE OF A DISPUTE" IN THE CONTEXT OF APPLICATIONS FILED BY OPERATIONAL CREDITORS FOR INITIATION OF CORPORATE INSOLVENCY RESOLUTION PROCESS (CIRP) OF CORPORATE DEBTORS UNDER THE INSOLVENCY AND BANKRUPTCY CODE, 2016 (IBC).
+
+[Mobilox Innovations Private Limited v Kirusa Software Private Limited. CIVIL APPEAL NO. 9405 OF 2017 Decided on 21.09.2017]
+
+Upon review of the entire scheme relating to CIRP applications filed by operational creditors the Supreme Court held that what is important is that the existence of the dispute and/or the suit or arbitration proceeding must be "pre-existing" i.e. it must exist before the receipt of the Demand Notice. Further, the court held that the word "and" occurring in Section 8(2)(a) of the IBC must be read as "or". Also, court clarified what questions the adjudicating authority must decide while examining an application under Section 9.
+
+WHETHER THE LEGAL CLAIMS ARE INCLUDED IN THE CATEGORY OF OPERATIONAL DEBT UNDER SECTION 8(1) OF THE IBC CODE?
+
+[Mitcon Consultancy & Services Pvt. Ltd. v. M/s Vitthal Corporations Ltd. [Company Appeal (AT) (Insolvency) No.101 of 2018 Decided on 05.07.2018]
+
+The Appellate Tribunal set aside the order of the NCLT on wrongly rejecting the legal claim. Further it ruled to remit the case to the Adjudicating Authority and pass order of Moratorium and Interim Resolution professional.
+
+WHETHER ADJUDICATING AUTHORITY CAN REPLACE A PROPOSED RP, IF NAMED AND APPROVED BY THE CREDITOR IN THEIR PETITION IN THE ABSENCE OF PENDENCY OF ANY DISCIPLINARY PROCEEDINGS?
+
+[Shravan Kumar Visnoi v. M/s Crown Alba Writing Instrument Pvt. Ltd. [Company Appeal (AT) (Insolvency) No. 253 of 2018 Decided on 28.05.2018]
+
+The NCLAT observed that there was no illegality committed by the IRP or RP & thus the ground shown in this case by AA were not justified. However, it did not interfere with the order RP was appointed and the IBBI had approved his name.
+
+WHETHER NON ISSUANCE OF NOTICE TO THE CORPORATE DEBTOR BY THE AA BEFORE ADMISSION OF THE APPLICATION U/S 7 WAS IN VIOLATION OF RULES OF NATURAL JUSTICE?
+
+[Chand Khan [Managing Director of CK Infrastructure Ltd.] v. RCI Industries & Technology Ltd. [Company Appeal (AT) (Insolvency) No. 307 of 2017 Decided on 03.01.2018]
+
+The application preferred by the Respondent u/s 7 was dismissed. The Order passed by the AA and any action taken under such order was set aside.
+
+WHETHER THE ORDER PASSED BY THE ADJUDICATING AUTHORITY WITHOUT ISSUING NOTICE UNDER SECTION 8(1) OF THE 'I&B CODE' TO THE CORPORATE DEBTOR IS MAINTAINABLE?
+
+[Kamal Kumar Kandpal sv. Sanghvi Movers Ltd. &Anr. [Company Appeal (AT) (Insolvency) No. 273 of 2018Decided on 31.05.2018]
+
+The NCLAT set aside the order passed by the AA. Corporate Debtor was allowed to function independently through its BOD from immediate effect.
+
+Tariq Khan, is a Senior Associate (Advani & Co.).Byron Sequeira is a 4th year BA LLB student at Lloyd Law College.

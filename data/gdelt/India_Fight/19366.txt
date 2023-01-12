@@ -1,0 +1,13 @@
+Flipkart looking to apply for NBFC licence to start lending to buyers
+
+Flipkart looking to apply for NBFC licence to start lending to buyers
+
+Pending issue of a full-fledged licence, the company has roped in some fintech partners with the objective of lending to the buyers without having to produce a debit or credit card.
+
+Atom E-commerce
+
+One of the challenges the top ecommerce companies have been facing in the Indian context, in trying to scale up their GMV (gross merchandise value), has been the financing of the purchases. In typically developed economies, there is a high proportion of customers holding credit cards. In India, it is reported that the number of credit cards is 45 million as opposed to debit cards which stands at 931 million.
+
+Flipkart appears to have worked around this situation by going in for a NBFC licence from the RBI. And pending issue of a full-fledged licence, the company has roped in some fintech partners with the objective of lending to the buyers on their platform without having to produce a debit or credit card. At least two such fintech startups, Kissht and ZestMoney are already active on the Flipkart site and they lend to customers. While they have developed their own technology-based systems to evaluate the creditworthiness of individual buyers, Flipkart supplements them with its own data on the buyers.
+
+The digital wallets and other banking services online almost came to a standstill after the Supreme Court of India struck down the e-Aadhaar based KYC. Unfortunately, the government or the RBI are yet to come out with a clear guidance on the alternate arrangement. Flipkart has now decided to use a video as the KYC exercise for purposes of these lending programmes. A pilot project involving 10,000 customers is already in place. Flipkart says 1.2 million customers have been lent using this third party fintech partner route. Ultimately, when the company gets the green signal from RBI, it may prefer to handle the entire process on its own. Flipkart has developed a technology where 500 to 1000 data points are captured and the lending model is evolved.

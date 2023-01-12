@@ -1,0 +1,115 @@
+Insolvency and Bankruptcy Code: Paradigm shift and further reform
+
+It has instilleda sense of urgency among stakeholders to resolve bad loans. It should now bring structural change and pave way for a strong banking system
+
+The Inception
+
+The problem of surging NPAs on one hand and the issues of indebted companies on the otherwere the primary reason that gave birth to the Insolvency & Bankruptcy Code (IBC). The IBC sought to repeal the archaic laws and amend several legislations such as the Companies Act 2013, the Sick Industrial Companies (Special Provisions) Act, 1985, the Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002 (SARFAESI Act), the Recovery of Debts due to Banks and Financial Institutions Act (RDDBFI Act), 1993, etc. The IBC lays down a framework which is aimed at providing resolutions to insolvency and bankruptcy in a time-bound and efficient manner. To encapsulate, the IBC truly enforces the concept of ‘creditor in control’ instead of ‘debtor in possession’, and maximises value recovery potential for corporate debtors. This is a paradigm shift in the recovery and resolution process.
+
+
+
+The Growing Years
+
+The Positives: The progress of IBC framework so far is encouraging and has resulted in better recovery as compared to the earlier existing mechanisms such as the SARFAESI Act, Debt Recovery Tribunals (DRTs) and Lok Adalats, indicating the greater need of such a framework. Reflecting this, India’s insolvency resolution score and recovery rate improved substantially in the World Bank’s Ease of Doing Business Index, after the introduction of IBC in 2016.
+
+
+
+
+
+
+
+The enactment of IBC, 2016 and the amendment to the Banking Regulation Act, 1949 in 2017 marked a watershed in the evolution of the regime for resolution of financial stress in India, empowering creditors to deal with troubled financial assets in a transparent, time-bound manner.
+
+
+
+
+
+Source: Release by Ministry of Corporate affairs
+
+
+
+
+
+
+
+Various amendments in the IBC have been introduced since its inception to resolve the teething troubles. The major amendments that have been introduced include:
+
+Giving home buyers the status of financial creditors
+
+Exempting the resolution applicants of micro, small and medium enterprises (MSMEs) from Section 29A (c) and (h) of the IBC to allow the existing promoters of MSMEs to participate in resolution process
+
+Minimum threshold for certain classes of financial creditors including allottees under a real estate project is set as; at least hundred allottees under the same real estate project or 10 percent of total number of allottees under the same real estate project, whichever is less, is required to initiate Corporate Insolvency Resolution Process in order to prevent frivolous triggering of corporate insolvency resolution process (CIRP)
+
+Ring-fencing corporate debtor resolved under the IBC in favour of a successful resolution applicant from criminal proceedings against offences committed by previous management/promoters
+
+Minimum payouts to operational creditors under a resolution plan
+
+The Challenges:
+
+Liquidation vs. Resolution:
+
+By the end of September 2019, about 56.17% of the CIRPs which were closed ended in liquidation as compared to 14.93% ending with a resolution plan. However, it is important to note that 72.86% of the CIRPs ending in liquidation (427 out of 586) were earlier with BIFR and/ or defunct. The economic value in most of these CDs had already eroded before they were admitted into CIRP. However, the higher numbers might be a cause of concern as the main objective of the law was revival of the defaulting companies. Lack of interest from investors is also a reason for liquidation. The fact that a large number of companies are going for liquidation raises concerns regarding erosion of asset value and job losses. It has also been noticed in recent cases that the investors have been pumping funds from the same lenders. Infusion of fresh investments surely needs to be encouraged.
+
+
+
+Delays owing to limitless litigations:
+
+As on September 30, 2019, approximately 37% of the ongoing CIRP’s had crossed 270 days. Even though the NCLT branches have been increased and responsibility on the Adjudicating Authority to record the reasons for not disposing off the application for admission within the timelines has been inducted in the law, the delays in admission of the cases and at the stage of liquidation order remains a matter of concern.
+
+In general, bankers, lawyers and insolvency professionals feel that the delays in resolutions are crippling what promised to be a law with strict time lines.
+
+The above reasons are causing a big hurdle for the resolutions professionals who sometimes have to continue the management even in absence of regular payments.
+
+
+
+
+
+The MSME Factor:
+
+As per the CIRP/ liquidation procedure, MSME suppliers are categorised as ‘Operational Creditors’ which usually leaves them out of the decision making process in CIRP. As per the current law, there is no clear demarcation between MSMEs and other operational creditors who are all clubbed into a single category for payment of the liquidation value. However, there have been cases wherein the liquidation value is negligible and hence MSMEs practically get nothing and continue to operate in a precarious environment despite the IBC.
+
+The large businesses which are undergoing the CIRP process have led to a temporary credit disruption for the MSMEs, which might potentially lead to their liquidation.
+
+Synchronisation of MCA with IBC:
+
+A practical issue being faced by the insolvency professionals in managing the compliances with ROC is that the website forms have not been updated to accommodate the provisions of IBC. For all filings, the digital signatures of a director or KMP is required for final submission. No such option for an insolvency professional (IRP/RP/ Liquidator) has been provided. This poses a challenge especially in cases where the directors are non-cooperative which then leads to a non-compliance of filing. Since the powers of the board stand suspended, in most cases the board meetings also are not conducted.
+
+
+
+Overriding effect of IBC:
+
+Section 238 gives provisions of IBC, an overriding effect over any other inconsistent laws. Even with the clarities available, the investigating agencies and statutory authorities attach the assets of the corporate debtor posing a bottleneck in the process and more litigations.
+
+
+
+The way forward
+
+The apex court’s judgments in the matters of Essar Steel India Limited and Swiss Ribbons have been path-breaking and have helped tie several loose ends. It has put the committee of creditors back in the driver’s seat for distribution under a resolution plan, reinforced the superior position of the secured creditors, and extended the outer limit for completion of CIRP proceedings to 330 days from the insolvency commencement date.
+
+To make the Code more robust, mentioned amendments have been introduced in the recent past:
+
+• The Insolvency and Bankruptcy Code (Second Amendment) Bill, 2019 • The Insolvency and Bankruptcy Code (Amendment) Bill, 2019 • The Insolvency and Bankruptcy (Insolvency and Liquidation Proceedings of Financial Service Providers and Application to Adjudicating Authority) Rules, 2019 • The Insolvency and Bankruptcy (Application to Adjudicating Authority for Insolvency Resolution Process for Personal Guarantors to Corporate Debtors) Rules, 2019 & The Insolvency and Bankruptcy (Application to Adjudicating Authority for Bankruptcy Process for Personal Guarantors to Corporate Guarantors) Rules, 2019.
+
+
+
+Having said that, the following is needed to make IBC more robust and beneficial:
+
+
+
+Strengthen the judicial framework:
+
+Although the benches of the adjudicating authority have been increased in the recent past, the ground picture reflects a slow movement as petitions at various stages including for liquidation are pending even for a hearing at various benches. There is an urgent need to release the ageing of such applications as well in the public domain.
+
+
+
+More power to the insolvency professional:
+
+The interim resolution professional/ resolution professional/ liquidator in the real world is a lone warrior who needs to constantly fight the legal battles, manage the corporate debtors, keep the pace with the regulatory timelines and be answerable to the frequent queries, data requests from the regulators, despite getting no/ irregular payments in most cases. The board needs to go smooth on the insolvency professionals to make the profession more attractive else it may lose its sheen soon.
+
+
+
+To summarise, despite the shortcomings, IBC has instilled a sense of urgency among the stakeholders to resolve the bad loans. With a more powerful infrastructure, close watch on the conclusions and frequent fine-tuning of the regulations, the IBC should bring a good structural change and pave way for a strong banking system. The journey has just started and it will get more fine-tuned and clearer as we proceed further.
+
+
+
+Sethurathnam Ravi isfounder and managing partner at Ravi Rajan & Co. and former chairman of Bombay Stock Exchange.

@@ -1,0 +1,23 @@
+$190 million is in limbo as Cryptocurrency exchange founder takes password to the grave
+
+After the founder of Canada’s biggest cryptocurrency exchange, QuadrigaCX, died unexpectedly, about 115,000 clients have been unable to retrieve $190 million in funds — because the owner was the only one who knew the password to access holdings, the company said.
+
+Gerald Cotten, 30, died of complications from Crohn’s disease while doing philanthropic work in India in early December, according to a post on QuadrigaCX’s Facebook page.
+
+The company didn’t announce Cotten’s death until more than a month after he died. Then, as customers panicked and tried to withdraw their funds, QuadrigaCX’s website went down and the company went off the grid.
+
+When QuadrigaCX broke its silence a week later, it revealed it had filed for creditor protection in the Nova Scotia Supreme Court, according to reporting from CoinDesk. Evidently, Cotten was the sole person responsible for transferring QuadrigaCX funds between the company’s “cold wallet” — secure, offline storage — and its “hot wallet,” or online server, according to court documents. For security purposes, very little cryptocurrency was stored in the hot wallet, according to an affidavit by Cotten’s widow, Jennifer Robertson.
+
+Advertisement
+
+Cotten’s laptop was encrypted, and Robertson and the expert she hired have been unable to access any of its contents, Robertson’s affidavit said. It said the company had no corporate bank accounts and used third-party services to manage payments and withdrawals.
+
+“For the past weeks, we have worked extensively to address our liquidity issues, which include attempting to locate and secure our very significant cryptocurrency reserves held in cold wallets, and that are required to satisfy customer cryptocurrency balances on deposit, as well as sourcing a financial institution to accept the bank drafts that are to be transferred to us,” QuadrigaCX’s board of directors wrote in a Thursday letter to customers. “Unfortunately, these efforts have not been successful.”
+
+The debacle highlights the problems with cryptocurrency’s lack of regulation. It’s not issued by a government or controlled through a centralized financial institution, leaving exchanges such as QuadrigaCX with near-total control over investors’ assets and making them vulnerable to hacking or other problems.
+
+The mysterious circumstances surrounding Cotten’s death have spawned many conspiracy theories, especially on Reddit, where several users have suggested Cotten is faking his death as part of an exit scam. Some Reddit sleuths and cryptocurrency researchers have looked into QuadrigaCX’s holdings and found activity from accounts only Cotten had access to after the company said he died. But Robertson provided the court with a copy of Cotten’s death certificate, court records show, and she said she and QuadrigaCX’s interim chief executive have been hit with threats and “slanderous comments” by angry customers.
+
+QuadrigaCX had been plagued with legal trouble in the last year: In early 2018, the Canadian Imperial Bank of Commerce froze more than $25 million of QuadrigaCX’s assets after noticing “irregularities” in the exchange’s payment processes. The Ontario Superior Court of Justice took control of the funds, Coindesk reported, and they were just returned to the company days before Cotten’s death.
+
+Now the company is looking into selling its operating platform to stay afloat. Robertson has asked the court for a stay of proceedings to protect the company from lawsuits and buy time while QuadrigaCX tries to access the cryptocurrency tied up in its cold wallets. She also asked the court to appoint international accounting firm Ernst & Young to oversee its dealings while QuadrigaCX tries to recover the lost holdings.

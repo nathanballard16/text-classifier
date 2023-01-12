@@ -1,0 +1,101 @@
+Narendra Modi App Has A Fake News Problem
+
+hindustantimes
+
+NEW DELHI - “Of the total 40,000 rape cases in India in the last ten years, 39,000 had a Muslim rapist. Still, Congress and Rahul Gandhi say that Hindus are rapists and terrorists. Shame on Congress and Gandhi family!” read a post shared by Sanjay Gupta in August in a Google Plus group called “Narendra Damodar Das Modi”. What Gupta had shared was fake news: official crime data in India doesn’t document the religion of the criminal, and Congress President Rahul Gandhi never made any such remark.
+
+Gupta is the moderator as well as an active member of this group that has over 2.6 million members. In May, after the results of Karnataka assembly polls were declared, Gupta shared a post attributing BJP’s defeat to lower voter turnout of Hindus. “92% of the Muslims voted in Karnataka elections, 86% Christians voted, but just 58% Hindus. 42% Hindus didn’t even vote.” Yet again, this communally polarising post is based on fictitious data. The Election Commission of India does not record voter turnout data by religion.
+
+Advertisement
+
+What’s common to dozens of posts Gupta circulates on the group every day is the source: the bulk of his content, including the examples listed above, was originally posted on the Narendra Modi app (NaMo app), by its registered users.
+
+NaMo app, a closed Twitter-like ecosystem
+
+The built-in social network of the personal mobile application of the Indian Prime Minister works like Twitter, where any user who signs up on the platform can post any piece of content (images, videos, website links). The visible lack of content moderation leaves the app as vulnerable to communal propaganda and fake news as Facebook, WhatsApp and Twitter.
+
+While the American platforms have come under scrutiny for the presence of misleading and polarising content, the NaMo app has been off the radar. This is especially crucial right now as the Indian government has proposed draft rules to regulate content on social media platforms, a move that was triggered by concerns raised by Rajya Sabha members in July 2018 about the “misuse of social media and propagation of fake news causing unrest and violence”.
+
+Advertisement
+
+The user-generated content is clearly a problem, which makes the problem similar to other platforms. But the NaMo app has another unique aspect: the promoted accounts on the app’s news feed, called “My Network”. The feed, like on every social media platform, allows users to see all posts from people they follow in one place. But this section also promotes posts from a set of accounts. While these accounts share regular political updates on the prime minister’s app, their Facebook pages openly circulate fake news (details below). The promotion of such accounts on the NaMo app makes its millions of users vulnerable to misleading information.
+
+In an email response, Amit Malviya, head of BJP’s IT cell, acknowledged that there is “some scope for misinformation” on the platform and “multiple posts have been taken down”.
+
+Over a million users, promoted by government schemes
+
+The NaMo app was launched in June 2015 to serve many purposes: “brings to you latest information”, “helps you contribute towards various tasks”, “provides a unique opportunity to receive messages and emails directly from the Prime Minister”. People can even buy NaMo merchandise from the app’s e-commerce portal and make micro-donations to the BJP. Users get “activity points” if they invite others to join and share content from the app to other platforms like WhatsApp. Names of “top volunteers” based on the number of points are displayed on a “leaderboard”.
+
+Advertisement
+
+The NaMo app has more than 10 million downloads across various platforms like Android and iOS, Malviya said. In November, the app saw an average of 1.43 million daily active users, he said.
+
+State governments and corporate entities such as mobile phone companies are now bundling the NaMo app into their offerings: the app came pre-installed in free smartphones distributed by the Chhattisgarh government when the BJP was ruling the state (Congress won the recently concluded assembly elections); it comes pre-installed in the low-cost phones made by Reliance Jio Phone.
+
+“This is a remarkable narrowing of the lines between governance, business, and politics since the app is not put forth as a channel to learn about the government but centred on the person himself. The real concern is the effect this has on the ability of parties to have a level playing field on campaign outreach,” said Joyojeet Pal, a professor at the University of Michigan, Ann Arbor, who studies social media and politics. This use of state apparatus to promote the app makes the NaMo app different than privately owned social media companies like Facebook and Twitter.
+
+Content that goes around
+
+On 14 November, Jawahar Lal Nehru’s birth anniversary, Vijeta Malik, a state executive member of BJP Haryana and the fifth most active user of the NaMo app, posted a quote from Nehru admitting that he was “Christian by education”, “Muslim by culture” and “Hindu merely by accident.” Nehru never said this.
+
+This is not the only piece of misleading information posted by Malik on the app. On 9th November, she uploaded a photo that had Rajasthan Congress leader Sachin Pilot saying that India should have helped debt-ridden Pakistan rather than invest money to build a statue of Sardar Patel. Pilot never made this remark.
+
+On 15th November, Malik shared a long hateful post on the app asking Hindus to wake up and awaken others. Written in Hindi, it claimed that the “project to make the world of rid of Hindus (Hindu-mukt) began in 1947. The plan has been half executed already. The other half will be decided soon after conversion and genocide”. It ended with a request: “As far as possible, seek the cooperation of other Hindus to fulfil daily needs: choose a Hindu CA, go to a Hindu doctor, hire a Hindu lawyer.”
+
+Malik did not respond to a request for comment.
+
+From NaMo app to Facebook and other platforms
+
+I found numerous posts shared from the NaMo app to other platforms (Facebook, WhatsApp, ShareChat, Google Plus) that make dubious claims, mostly coloured with a religious slant.
+
+Advertisement
+
+Spotting content shared through the NaMo app is simple: the posts shared through the app are auto-populated with “via MyNt” or “via NaMo app” phrase. It is usual for publishers to use the “via” parameter for source attribution. For example, a news article shared from the Indian Express website on Twitter is appended with “via @IndianExpress”.
+
+One post shared from the NaMo app describes a meeting between Rahul Gandhi and Muslim intellectuals where Gandhi pledged never to wear “Janeu” (a sacred thread worn by Hindus) again. No such meeting ever took place.
+
+Then there is an image of Congress headquarters that shows Rahul Gandhi signing a document in presence of other party leaders. In the backdrop is a framed portrait of Babur, the first emperor of the Mughal dynasty. “The image of Babur behind Rahul in the Congress headquarters is clearly telling the story of Muslim appeasement.” The image, however, has been photoshopped to replace a framed photograph of Mahatma Gandhi’s with Babur’s portrait.
+
+“Volunteer-driven platform”
+
+“My Network on the NaMo App allows volunteers, karyakartas and fans to freely express their feedback, views and opinion on various issues. When such large volume of content is posted freely by volunteers, karyakartas and fans, there remains some scope for misinformation,” Malviya, the BJP IT Cell head, said in an emailed response.
+
+“Be it any platform or even the comments section of a news website, every platform where content is not editorialised faces this risk. Any post which is reported, is evaluated and treated according to our policies. Multiple posts have been taken down from time to time for various reasons,” he explained.
+
+NaMo app is a volunteer-driven platform, Malviya added. “Everything ranging from content posting to content moderation is managed by volunteers.”
+
+“My Network”: accounts promoted share misinformation on other platforms
+
+The “My Network” section of the app functions like a news feed, showing updates from users one follows on the NaMo app. Some accounts are promoted: content from these accounts automatically appear in a user’s news feed even if they have not followed those accounts, like a default feed. Users don’t have an option to unfollow them.
+
+Between October 20 to November 20, there were around 744 posts from 15 accounts in the default feed, an analysis of NaMo app data shows.
+
+Advertisement
+
+12 of the 15 promoted accounts were profiles of BJP leaders and union ministers: Narendra Modi, Prakash Javadekar, Ravi Shankar Prasad, Smriti Irani, among others.
+
+The other three were non-politician accounts: “The India Eye”, “Modi Bharosa” and “Social Tamasha”.
+
+40% of the 744 posts in the default feed came from “The India Eye” alone. Together, these 744 posts have been shared around 84,000 times and 65% of the shared posts were from “The India Eye”.
+
+“The India Eye”
+
+The Facebook page of “The India Eye”, which has 1.9 million followers, regularly shares inaccurate information. At least six of the 20 most shared posts from its Facebook page from September to November 2018 constitute misinformation, I found. Four are outright false and two are misleading.
+
+On the app, The India Eye mostly posts regular updates about the government’s achievements. A fraction of the content falls outside that bracket. Here is an example: The India Eye posted a quote from Sanjay Baru, who was media advisor to Manmohan Singh, as saying: “Sonia Gandhi had made up her mind to hand over the disputed Siachen glacier to Pakistan. Former PM Manmohan Singh was about to sign the deal.” Baru never said this.
+
+An investigation by Alt News, a left-leaning fact-checking website, had established links between “The India Eye” and ‘Silver Touch Technologies Ltd’, the company that had built the NaMo app. Himanshu Jain, a director of the company, had registered the domain name ’theindiaeye.in. The website is also hosted on the company’s servers.
+
+In the financial year 2016–17, 53% of Silver Touch’s work came from government contracts worth approximately 62.5 crores rupees, according to documents reviewed by NDTV. Silver Touch denies any association with the page.
+
+Similarly, “Modi Bharosa”, another account that finds a place in the default news feed, has shared misleading content. An image post from Modi Bharosa on the NaMo app falsely declares that Rahul Gandhi ate meat during the sacred Kailash Yatra, implying that the Congress President “respects traditions of Islam but insults Hinduism”. There is no evidence to back this. I found users who had shared this image from the NaMo app to both Facebook and ShareChat, a regional language social media platform.
+
+Advertisement
+
+“Modi Bharosa” website was registered and managed in the run-up to the 2014 election campaign by Anuj Gupta, who is now Officer on Special Duty (OSD) to Railway Minister Piyush Goyal. Zankrut Oza, the other founder and former CEO, was “leading the communications team of Ministry of Railways” and for “Piyush Goyal”, he wrote on his LinkedIn profile. It’s not clear who runs the website now.
+
+The India Eye, Anuj Gupta, Himanshu Jain and Silver Touch did not respond to a request for comment.
+
+Malviya, the head of BJP’s IT cell, said that My Network’s news feed algorithm “gives a tailored experience to users based on geography, interests and popularity of content. To provide this experience, accounts of BJP leaders and popular user accounts are displayed to people in the corresponding region and interest group.”
+
+NaMo app is an echo chamber, said Pal, the University of Michigan professor. “People who are anyways predisposed to believe this will probably subscribe to the misinformation gladly, but others, including those who buy into the Modi candidature, may be discomforted by the crudeness of some of the messaging.”

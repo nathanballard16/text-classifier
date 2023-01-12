@@ -1,0 +1,99 @@
+RBI Issues Revised Prudential Framework For Resolution Of Stressed Assets
+
+ARTICLE
+
+To print this article, all you need is to be registered or login on Mondaq.com.
+
+The Reserve Bank of India (RBI) issued a revised prudential framework for resolution of stressed assets on 7 June 2019 (Revised Circular) in supersession of the erstwhile circular on Resolution of Stressed Assets dated 12 February 2019 (Feb 12 Circular) which was struck down by the Hon'ble Supreme Court on 2 April 2019.
+
+The Supreme Court had found fault with the Feb 12 Circular primarily on the ground that a universal and mandatory reference of accounts to proceedings under the insolvency code where the aggregate exposure was greater than INR 2000 crores and where the resolution was not implemented within 180 days, was ultra vires the powers of RBI. However, the Court held that such reference of defaulting borrower can be directed by RBI on a case-to-case basis having regard to the specific defaults.
+
+After the Supreme Court judgment, the RBI at the time of issuance of the Revised Circular also issued a press release clarifying that in the purpose clause of the Revised Circular that "Notwithstanding anything contained in this framework (i.e. the Revised Circular), wherever necessary, RBI will issue directions to banks for initiation of insolvency proceedings against borrowers for specific defaults so that the momentum towards effective resolution remains uncompromised."
+
+As such, it is noteworthy that apart from the operation of the Revised Circular (summarized below), the RBI has reserved its power to issue specific directions to banks/financial institutions to refer a defaulting borrower to the resolution process under IBC in terms of Section 35AA of the Banking Regulation Act 1849.
+
+Applicability
+
+The Revised Circular applies to Scheduled Commercial Banks (SCB), All India Term Financial Institutions (AITFI), Small Finance Banks (SFB), NBFC-ND-SI and NBFC-D. It is not applicable to regional rural banks, FCCB holders etc.
+
+Resolution Plan
+
+Lenders are required to adopt a board approved policy for resolution of stressed assets with timelines for resolution. This policy is required to outline the signs of financial difficulty and set out qualitative and quantitative criteria for determination of such financial difficulty.
+
+Pre-emptive measures i.e. active steps to initiate and implement a resolution plan even before a default has actually occurred are expected of lenders. In case a default has occurred, and the lender is a SCB, SFB or AITFI, they are required to undertake a review of the borrower within 30 days of such default (Review Period).
+
+A resolution plan (RP) under the Revised Circular is required to be implemented within 180 days from the end of the Review Period - if the lenders have decided to pursue a restructuring (rather than a reference to insolvency proceedings under the IBC) . A Review Period will commence on the earlier of the reference date (if the Borrower has defaulted on or before the reference date) or on the date of first default after the reference date. The reference dates are as per the below:
+
+Aggregate exposure of the Borrower to SCBs, SFBs and AITFI Reference Date INR 20 billion and above 7 June 2019 INR 15 billion up to INR 20 billion 1 January 2020 Less than INR 15 billion To be announced by RBI
+
+Implementation of RP
+
+For the implementation of a RP, all lenders (including any asset reconstruction companies ) are required to enter into an inter-creditor agreement (ICA) during the Review Period. All decisions under the ICA, when made with the consent of 75% by value of the total outstanding credit facilities (fund based and non-fund based) and 60% of lenders by number will binding all lenders. Any dissenting lenders under the RP are required to be paid at least the amount which they would receive on liquidation.
+
+Several conditions have been stipulated for implementation of a RP. One of the key conditions is an independent credit evaluation (ICE) by credit rating agencies (CRAs) specifically approved by RBI.
+
+A list of ICE symbols and their description has been set out in the Revised Circular for rating the RPs. Only those RPs which have a credit rating of RP4 for the residual debt will be considered for implementation. The onus and cost for appointing CRAs has now been imposed on the lenders.
+
+Aggregate Exposure CRAs INR 5 billion or above 2 ICE INR 1 billion or above 1 ICE
+
+An RP will be deemed to have been implemented, only if the following conditions are met:
+
+where there is no restructuring / change in ownership under the RP: if the borrower has not defaulted with any of its lenders as on the 180th day from the end of the Review Period.
+
+if the borrower has not defaulted with any of its lenders as on the 180th day from the end of the Review Period. where there is a restructuring / change in ownership: (i) when all documents (including as regards security creation and perfection) are duly executed between the parties; (ii) the new capital structure is reflected in the books of both, the lender and the borrower; and (iii) the borrower is not in default with any lenders.
+
+(i) when all documents (including as regards security creation and perfection) are duly executed between the parties; (ii) the new capital structure is reflected in the books of both, the lender and the borrower; and (iii) the borrower is not in default with any lenders. where the RP involves an assignment of exposures / recovery action: the exposure to the borrower is fully extinguished.
+
+Prudential norms
+
+Assets which are classified as "standard", will immediately be downgraded to NPA in case of a restructuring. NPAs will continue to have the same asset classification as they had pre-restructuring. Conditions for upgrade of accounts from NPA to standard have been provided in the Revised Circular. Accounts where lenders have an aggregate exposure of INR 5 billion or more, require at least 2 CRAs providing investment grade credit ratings and for exposures of INR 1 billion and up to INR billion, an investment grade credit rating from at least 1 CRA.
+
+However, concessions have been made for provisioning where insolvency proceedings are initiated under IBC. The Revised Circular provides for a "freeze" on provisioning for the earlier of (i) a period of 6 months from the date of submission of a RP; or (ii) 90 days from the date of approval of the RP under the IBC. During this freeze period, lenders cannot reverse additional provisioning made, but will be required to make additional provisions to the extent of the shortfall. The "freeze" on provisioning will lapse if a RP is rejected. Specific provisioning norms have also been stipulated for additional and interim financing availed by any debtors.
+
+The Revised Circular provides for additional provisioning (capped at 100% provisioning being made) to be made by all lenders for non-implementation of a viable RP, in addition to the provisions already made / required to be made based on the asset classification status of the borrower account.
+
+Timeline for implementation Additional provision 180 days from the end of the Review Period 20% 365 days from the commencement of the Review Period 15% (i.e. a total additional provisioning of 35%)
+
+The above additional provisioning is to be made in all cases where recovery proceedings have been initiated by the lenders but not been fully completed. Further, where (i) the borrower defaults on any of the credit facilities after an upgrade to its asset classification, but before the "specified period" (being the period commencing on the date on which the RP is implemented and until payment of 20% of the outstanding principal debt as per the RP and interest capitalization sanctioned, if any,); or (ii) does not perform satisfactorily in the "monitoring period" (being the period commencing from the date of implementation of the RP up to the date by which at least 10% of the sum of the outstanding principal debt under the RP and interest capitalisation as part of the restructuring, if any, is repaid) then the lenders are required to make an additional provisions of 15% for such accounts at the end of the Review Period.
+
+However, these additional provisions can be reversed, subject to compliance with certain conditions for each type of resolution e.g. payment of overdues / restructuring / change in ownership / IBC / assignment of debt, etc. and depending on whether their asset classification is upgraded. Further, the upgradation of asset classification, specifically, in case of a change in ownership is also subject to conditions such as (i) the acquirer not being disqualified under S. 29A of the IBC; (ii) the new promoter holding at least 26% of the paid up equity share capital and voting rights of the borrower and being its single largest shareholder; (iii) new promoter being in "control", etc.
+
+The Revised Circular also sets out principles for classification of sale and lease back transactions as restructuring.
+
+Income recognition
+
+The mechanism for income recognition as regards interest payments is as set out below:
+
+Interest Income Recognition Restructured Account – Standard Asset Accrual basis Restructured Account – NPA Cash basis Additional Finance – NPA pre-restructuring Cash basis Additional Finance – Restructuring with change in ownership Cash/ Accrual basis
+
+Any unrealized income represented by a funded interest term loan / debt / equity instrument will have a corresponding credit in a specific account created in this regard, being the "sundry liabilities account (interest capitalization)".
+
+Refinancing
+
+Borrowings / export advances availed from lenders who are part of the Indian banking system or with the support of the Indian banking system in the form of guarantees, SBLCs, letters of comfort, etc. which are used for repayment / refinancing of loans denominated in the same or different currency will be considered as "restructuring" under the Revised Circular, if the borrower is in financial difficulty . The determination of whether or not the borrower is in financial difficulty, will be on the basis of the policy approved by the Board of the respective lenders.
+
+Disclosures
+
+Lenders are required to make disclosures in the notes to accounts of their financial statements as regards RPs implemented. Further, the statutory auditors are required to specifically examine, if the valuation of the instruments (debt, quasi debt, equity instruments) subscribed by the lenders adequately reflect the risk of loss associated with such instruments.
+
+Conclusion
+
+The much-awaited Revised Circular has filled the void in the pre-IBC framework for resolution of stressed assets in India which existed after the Supreme Court order on Feb 12 Circular.
+
+The Revised Circular has moved away from the position under Feb 12 Circular by not prescribing for mandatory insolvency on account of failure to implement a resolution plan in a time bound manner. At the same time the Revised Circular requires banks and financial institutions in India to act promptly for resolution of accounts in 'financial difficulty' while leaving the decision making for terms of resolution entirely in the hands of lenders or in the alternate risk making higher provisioning on their accounts. As the universal reference to the IBC in Feb 12 Circular was struck down by the Supreme Court in its entirety, the RBI has cautiously inserted a reference to Section 35AA of the Banking Regulation Act, 1949, clarifying its ability to issue directions for initiation of insolvency proceedings borrowers in specific cases.
+
+A key aspect introduced under the Revised Circular is the governance of all creditor relationships through the ICA. Lenders will be able to develop their own governance framework for tabling proposals, voting mechanisms, rights and duties of majority lenders, protection of rights of minority lenders etc., in restructuring cases. This arrangement would however not cover foreign lenders i.e. ECB lenders, bond holders etc. who would have to agree on a pre-IBC restructuring on a consensual basis. To that extent, the right of foreign lenders to decide on a resolution plan through pre-IBC or through a formal insolvency framework remains unaffected on account of the Revised Circular.
+
+On another key aspect of resolution involving accounting treatment of instruments issued on account of restructuring/ conversion of unsustainable debt i.e. equity shares, preference shares, zero coupon bond etc. a key principle that has been set out by the RBI is that the valuation of instruments should be done on a conservative assessment of the cash flows with appropriate discount rates to reflect the stressed cashflows of the borrower. The impact of these valuation methodologies and the provisioning norms introduced through the Revised Circular on the books of accounts of various lenders will need to be tested over time.
+
+Overall the Revised Circular strikes a fine balance between the requirement to have a framework for prompt corrective action by lenders in accounts facing financial difficulty and providing regulatory disincentives on one hand and on the other leaving the decision making in individual accounts to the joint decision making process amongst lenders who are best placed to determine the value and the stakeholders to deal with. This is a welcome move and is expected to ensure that the momentum towards effective resolution remains uncompromised and at the same time preserves value erosion which can happen on account of mandatory insolvency process.
+
+It is also expected that the additional time available with the lenders on account of the new timelines for resolution would lead to more resolutions of large value accounts without invoking the insolvency process. . This is an indicator of a maturing distressed debt market with a robust insolvency and pre-insolvency asset resolution framework which can create a win-win situation for all the stakeholders involved.
+
+The above being said, there are a few items where the Revised Circular does not optimally fill the gap, and for which careful strategic planning may be required:
+
+It does not address the issue of a lender who wishes to rock the boat and file independent IBC proceedings in the pendency of the implementation period of the restructuring plan (or the Review Period). Perhaps, the solution for this will be via judges applying a common-sense interpretation and imposing a "moratorium" on IBC proceedings – while the lenders try implement a restructuring (assuming they have the requisite majority to push ahead with an ICA). While we certainly expect some litigation in this regard, we do expect (i) courts to facilitate a restructuring under the Revised Circular, and prevent dissenting lenders from frustrating the objectives of the Revised Circular i.e. uphold a sensible time line / process toward a flexible restructuring over an insolvency; and (ii) the standard-form ICAs to appropriately rein in dissenting domestic lenders in India; and
+
+The restructuring of debt of listed companies in terms of the Revised Circular involving issue of equity shares or other convertible instruments in favour of local banks will enjoy certain exemptions from SEBI prescribed pricing on preferential allotment and mandatory tender offer requirements. However, the same benefit in case of issue of new capital / change of control (pursuant to an approved restructuring) will not be made available to other strategic and financial investors.
+
+The content of this document do not necessarily reflect the views/position of Khaitan & Co but remain solely those of the author(s). For any further queries or follow up please contact Khaitan & Co at legalalerts@khaitanco.com

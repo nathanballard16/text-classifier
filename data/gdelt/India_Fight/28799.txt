@@ -1,0 +1,39 @@
+Some good and bad news on antimicrobial resistance
+
+While Indian researchers have found the presence of antibiotic-resistant bacteria in a healthy human gut, British scientists have developed a compound that they say kills super bugs
+
+A study conducted recently in northern India has shown the presence of antimicrobial-resistant (AMR) bacteria in a healthy human gut.
+
+Conducted from August to October 2015, the objective of the research was to find the presence of antibiotic-resistant Enterobacteriaceae in faecal samples.
+
+Before selecting the respondents, the researchers first inquired whether they had any history of chronic ailments. Respondents who confirmed were excluded. The remainder were asked whether they had taken any antibiotics recently, in the past three months. Again, those who confirmed were excluded.
+
+After this, 207 stool samples were collected randomly from the remainder residing in Burail, a semi-urban community in Chandigarh.
+
+Out of the 207 samples, 139 showed the present of AMR belonging to the Enterobacteriaceae family of bacteria. It is a large family that includes Escherichia coli, Klebsiella, Salmonella, Shigella and Yersinia pestis.
+
+The researchers found antimicrobial resistance to bacteria including E. coli (causes diarrhea and enters the body through contaminated water or food), K. pneumonia (enters the body through a cut or a wound), E. cloacae (causes respiratory and urinary infection) and Morganella morganii (occurs in post-operative and other infections such as those of the urinary tract).
+
+The maximum resistance observed was to two classes of antibiotics namely cephalosporins, which are generally prescribed for ear, skin, respiratory and urinary tract infections and fluoroquinolones, that are prescribed for respiratory and urinary tract infections.
+
+The study cited two reasons for the widespread presence of AMR. One is the irrational use of antibiotics as doctors these days prescribe antibiotic doses for all kinds of infection including common cold.
+
+The other reason is self-medication by patients as they buy fixed-drug combinations from healthcare practitioners. This was validated by the results of the study which showed less resistance to carbapenems and aminoglycosides, which are antibiotics mainly limited to hospital use.
+
+Meanwhile, in the United Kingdom, researchers have developed a new compound that kills antibiotic resistant super bugs.
+
+Researchers from the University of Sheffield and Rutherford Appleton Laboratory (RAL) were able to kill antibiotic resistant gram-negative bacteria, including E. coli, during their research period with the compound that visualises the pathogens before killing them.
+
+“As the compound is luminescent, it glows when exposed to light. This means the uptake and effect on bacteria can be followed by the advanced microscope techniques available at RAL,” the study’s lead researcher Jim Thomas from the University of Sheffield, said.
+
+The scientists hope that the compound would be solution for dealing with super bugs as “doctors have not had a new treatment for gram-negative bacteria in the last 50 years, and no potential drugs have entered clinical trials since 2010”.
+
+The study was, published in the journal ACS Nano, on May 28, 2019.
+
+‘Inappropriate use of antibiotics will have to be reduced’ Pallab Ray, who is the co-author of the Burail study and professor in the department of Medical Microbiology, PGIMER, Chandigarh, spoke to Down To Earth about it. Excerpts... Why did your team decide to test the presence of AMR in people who were not sick? In 2013, the Indian Council of Medical Research (ICMR) initiated a National Antimicrobial Resistance Surveillance Network that included four tertiary care centres in north and south India. This study was part of the objectives of the ICMR’s surveillance studies. When did work on this research start and when did it get published? The research was carried out in 2015 and published along with many other ICMR studies in a supplementary issue of the Indian Journal of Medical Research in 2019. What could have been the possible pathway for these AMR to enter the digestive tract? According to a hypothesis, there is extensive exchange of microbial communities between humans, animals and the environment. Organisms, including antibiotic resistant ones in any of the three components, will eventually reach the other two. There are enough number of studies supporting the same. How can we prevent this? Prevention will require reducing inappropriate use of antibiotics, limiting it to where it is definitely indicated and control of transmission and dissemination of these organisms.
+
+Donate Now We are a voice to you; you have been a support to us. Together we build journalism that is independent, credible and fearless. You can further help us by making a donation. This will mean a lot for our ability to bring you news, perspectives and analysis from the ground so that we can make change together.
+
+Related Stories Monitor resistance gene to help combat antimicrobial resistance: scientists
+
+India Environment Portal Resources :

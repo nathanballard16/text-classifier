@@ -1,0 +1,57 @@
+Secured Creditor Entitled To File Winding-Up Petition Even After Having Obtained A Decree From The Debts Recovery Tribunal
+
+ARTICLE
+
+To print this article, all you need is to be registered or login on Mondaq.com.
+
+In a recent decision, Swaraj Infrastructure Pvt. Ltd. v. Kotak Mahindra Bank Ltd.1, the Supreme Court had an occasion to decide whether a secured creditor is entitled to file a winding-up petition under the Companies Act, 1956 ("Companies Act") after the secured creditor has already obtained a decree from the Debts Recovery Tribunal ("DRT") in proceedings under the Recovery of Debts Due to Banks and Financial Institutions Act, 1993 ("RDB Act").
+
+The facts before the Supreme Court were that Kotak Mahindra Bank Ltd. ("Bank") had advanced loans to various companies ("Borrowers"). The borrowers defaulted in repayment and the Bank filed three separate original applications before the DRT, Mumbai to recover the debts. The DRT allowed the applications and delivered three separate judgments. The said judgments attained finality as no appeals were filed by the Borrowers. Subsequently, the Recovery Officer issued recovery certificates under Section 19(19) of the RDB Act. The Bank made attempts to auction the properties held as security, however, these attempts did not yield any results.
+
+The Bank issued statutory notices under Section 433 and 434 of the Companies Act. As no payments were forthcoming, the Bank filed winding-up petitions before a Single Judge of the Bombay High Court. The winding-up petitions were admitted by the Single Judge. The Borrowers challenged this order before a Division Bench of the Bombay High Court. The primary ground for challenge before the Division Bench was that once the Bank has obtained decrees from the DRT and recovery certificates have been issued thereon, the Winding-up Petitions were not maintainable and that the exclusive jurisdiction would vest with the DRT. The Division Bench did not accept the contentions of the Borrowers and dismissed the appeals. The Borrowers challenged the judgment of the Division Bench before the Supreme Court.
+
+Before the Supreme Court, the Borrowers contended that the RDB Act is a special statute created for the recovery of debts due to banks and financial institutions and, once the DRT has been approached under the RDB Act, the necessary corollary is that a winding-up petition under the Companies Act would be barred under Sections 17 and 18 of the RDB Act. The Borrowers further contended that, in any case, a secured creditor is put to an election where it must either relinquish its security and stand in line in the winding-up proceeding or realize its security outside the winding-up proceedings. It was argued that since the Bank had filed a successful action to realize its security outside the winding-up proceeding, the winding-up proceeding filed by the Bank without giving up the mortgaged security would not be maintainable. It was further argued that, in any event, Section 434(1)(b) of the Companies Act would be attracted and not Section 434(1)(a), and that since the security has not yet been realized, the winding up petition dressed up under Section 434(1)(a), but really under Section 434(1)(b), would not be maintainable.
+
+On the other hand, the Bank contended that the winding-up petition was maintainable in the facts of the case. The Bank argued that the election by the secured creditor giving up its security is at the stage of proof of claims, which stage had not arrived. It was further argued that the winding-up petition was filed only on the ground of inability to pay debts, and once the statutory presumption is raised under Section 434(1)(a) of the Companies Act, it was clear that winding-up orders must follow in the absence of payment. The Bank contended that it has gone from pillar to post in an attempt to recover the debts, but, no payments have been made by the Borrowers.
+
+In this background, the Supreme Court examined Section 434, 439, 441 and 529 of the Companies Act and Section 17, 18, 19 and 34 of the RDB Act. The Supreme Court also considered the decision in Allahabad Bank v. Canara Bank2, wherein it was held that the RDB Act is a special statute that would prevail over the Companies Act and that if a winding-up petition is pending, there is no requirement to obtain the leave of the Company Court before initiating action under the RDB Act.
+
+The Supreme Court held that the RDB Act would prevail over the Companies Act to the extent of any inconsistency between the two statutes qua recovery of debts due to banks and financial institutions. The Supreme Court relied upon Amalgamated Commercial Traders (P.) Ltd. v. A.C.K. Krishnaswami and Ors.3, IBA Health (India) Pvt. Ltd. v. Info-Drive Systems Sdn. Bhd.4 and Harinagar Sugar Mills Co. Ltd. v. M.W. Pradhan5 and held that winding-up proceedings are not proceedings that can be referred to as proceedings for realization of debts and would not be covered by the language of Section 17 read with Section 18 of the RDB Act. The Supreme Court further held that since winding-up proceedings under the Companies Act are not proceedings "for recovery of debts" due to banks, the bar contained in Section 18 read with Section 34 of the RDB Act would not apply. The Supreme Court also approved the judgment of the Bombay High Court in Viral Filaments Ltd. v. Indusind Bank Ltd.6, wherein the Bombay High Court had reached the same conclusion. The Supreme Court also held that the decisions in Rajasthan State Financial Corporation v. Official Liquidator7 and Official Liquidator v. Allahabad Bank8 also show that winding-up proceedings and proceedings under the RDB Act can carry on parallelly.
+
+As far as the issue of a secured creditor having to give up the security held by it before filing a winding-up petition is concerned, the Supreme Court held that a secured creditor's winding-up petition is maintainable without the secured creditor giving up or relinquishing its security. In this regard, the Supreme Court referred Section 439, 441(1), 441(2) and 529(1)(c) of the Companies Act and Section 9(2) and 47 of the Provincial Insolvency Act, 1920 as well as the judgments in Hegde & Golay Limited v. State Bank of India9, Asian Power Controls Ltd. v. Bubbles Goyal10 and Jitendra Nath Singh v. Official Liquidator11.
+
+On the argument based on Section 434(1)(b) of the Companies Act, the Supreme Court held that the sub-clauses of Section 434(1) are not mutually exclusive. Section 434(1)(a) is attracted when a company neglects to pay its debts to a creditor for three weeks after receipt of a notice from its creditor. Section 434(1)(b) is attracted if execution or other process issued in respect of a decree of a Court or an order of a Tribunal in favour of a creditor is returned unsatisfied in whole or in part. As such, the Supreme Court held that it is not as if once Section 434(1)(b) applies, Section 434(1)(a) ceases to be applicable.
+
+The Supreme Court also noted that, in the present case, the winding-up petitions were filed before the Recovery Officer had issued the recovery certificates, therefore, the winding-up petitions could not have been filed under Section 434(1)(b). As such, it was held that the winding-up petitions filed under Section 434(1)(a) were maintainable.
+
+As an epilogue, the Supreme Court stated that it is a must to balance the interests of the creditors and borrowers. The Supreme Court stated that it is not open for entities like the Borrower to resist a winding-up petition which is otherwise maintainable without any bona fide defence.
+
+The enactment of the Insolvency and Bankruptcy Code, 2016 ("IBC") and the judgments passed by the Supreme Court on the IBC, such as Swiss Ribbons Pvt. Ltd. & Anr. v. Union of India & Ors.12, wherein the Supreme Court inter alia upheld the constitutional validity of the IBC certainly demonstrate the paradigm shift in the law relating to recovery of debts, insolvency and bankruptcy, particularly by Financial Creditors. It is apparent that the legislature and the judiciary are now adopting a pro-creditor approach to bring out much needed reforms in the Banking Sector.
+
+Footnotes
+
+1. Civil Appeal No. 1291 of 2019 decided on 29th January 2019
+
+2. (2000) 2 SCC 406
+
+3. (1965) 35 Comp Cas 456 (SC)
+
+4. (2010) 10 SCC 553
+
+5. (1966) 3 SCR 948
+
+6. (2001) 3 Mah LJ 552
+
+7. (2005) 8 SCC 190
+
+8. (2013) 4 SCC 381
+
+9. ILR 1987 KAR 2673
+
+10. (2013) 3 Mah LJ 811
+
+11. (2013) 1 SCC 462
+
+12. Writ Petition (Civil) No. 99 of 2018 decided on 25th January 2019
+
+The content of this article is intended to provide a general guide to the subject matter. Specialist advice should be sought about your specific circumstances.

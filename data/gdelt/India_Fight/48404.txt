@@ -1,0 +1,65 @@
+Operation Atalanta: A New Age of Protection
+
+It used to be that the Strait of Malacca sent chills up the spines of merchant seamen. Stories of modern-day pirate raids, swift attack boats filled with gun-wielding gangs and ransoms being paid for cargoes behind closed doors seemed to make the shipping news on a daily basis five to ten years ago.
+
+Though confined mostly to the one strait, the problem had a global effect. Criticism was pointed at the nations patrolling the strait – Indonesia, Malaysia and Singapore – but they had little jurisdiction once a ship attacked by pirates crossed national borders. The US tried to intervene, as did other nations concerned about the increasing risk of terrorism, but interoperability meant blurring control over the territorial waters and in many ways it still does today.
+
+Reports late last year of a string of attacks off the unprotected coastline of Somalia, and then similar attacks off eastern Africa, spurred the global community into action. Every nation involved in global trade wanted to put an end to the attacks and protect their global economic interests.
+
+Since then, the enthusiastic response of forces around the world through Operation Atalanta has done more than increase protection at sea. It has opened up new ways in which naval forces communicate with each other and with merchant ships and cruise liners eager for a safe passage.
+
+Related
+
+Somalia – no amnesty at sea
+
+Data, insights and analysis delivered to you View all newsletters By The Ship Technology team Sign up to our newsletters Sign up here
+
+No central government has operated in Somalia since 1991, allowing piracy to thrive.
+
+"So far this year, pirates off the coast of Somalia carried out 29 successful hijackings and attempted 114 others."
+
+As pirates have become more sophisticated, using their loot to buy faster boats and sophisticated technologies, the threat has taken a turn for the worst. Naval forces found grappling hooks, barrels of fuel and weapons and GPS equipment on a pirate skiff following a thwarted attack on a Greek Bulk Carrier on 26 May this year, just one example of how lucrative the pirate’s activities have become.
+
+So far this year, pirates off the coast of Somalia carried out 29 successful hijackings and attempted 114 others. In the Gulf of Aden, according to the International Maritime Bureau (IMB), 71 attacks have been carried out this year and 43 have occurred elsewhere off Somalia’s east coast.
+
+Recent reports stated that pirates are choosing their targets using onshore intelligence. However, the IMB has discredited this claim, saying the pirates will approach any boat from naval to merchant vessel, as long as they are easy enough to board and in a location that offers strategic advantage.
+
+On 26 April pirates tried to attack a 36,000t Italian cruise liner in the Indian Ocean off Mogadishu and, in March, a German-operated cargo freighter was attacked in the Gulf of Aden. On 13 July, Somali pirates signalled the end of a monsoon hiatus by attacking an Indian dhow carrying livestock and 14 crew.
+
+These are just a small sample of the recent brazen attacks by pirates off the coast of Africa. However, the difference between these and others is that each attack was halted thanks to Operation Atalanta.
+
+Operation Atalanta
+
+Operation Atalanta was launched on 8 December 2008 by the European Union NAVFOR (naval force) in response to the growing need to protect food supplies entering Somalia being delivered as part of the World Food Programme. It was also instigated with the aim of deterring pirates in the region, which also happens to contain valuable offshore oil and gas assets.
+
+Under Rear Admiral Peter Hudson, the UK-based initiative has drawn on the military skills of EU navies, which collectively provide a minimum of six frigates and up to five maritime patrol reconnaissance aircraft. With forces from other continents, including the US, Japan and Australia, Atalanta now offers protection to 25,000 ships travelling through the region each year.
+
+The driving force behind Atalanta, however, is not its naval power. Atalanta draws its strength by opening lines of communication between naval and merchant ships and between navies from each continent. A collaboration tool developed by IT services company Polymorph enables the vessels involved in Operation Atalanta to overcome current IT and communication systems limitations by providing a single secure framework and channel. As a result, the command and control of patrol resources are better prepared and response times are enhanced.
+
+Merchant ships can inform the EU NAVFOR Maritime Security Centre at the Horn of Africa of their destination and course through Somali waters and receive assisted passage. Naval forces can also communicate the location of patrols and distress calls.
+
+It seems like common sense, especially in a day of modern warfare, but for the team behind Atalanta the project posed some pioneering challenges, the outcomes of which could change the way naval forces around the world cooperate.
+
+Escape no longer about luck
+
+Early in March this year, Bloomberg reporter Gregory Viscusi was lucky enough to experience first hand just how effective communications are as a result of the methods and technologies designed for Atalanta.
+
+He watched as three naval vessels and two helicopters from an international force responded to internet chat room alerts using GPS navigation to locate a German-operated cargo freighter in the Gulf of Aden that had come under attack by nine pirates. Both US and European naval forces, previously communicating on completely different military radio frequencies, responded and the attackers were arrested.
+
+The Maritime Security Centre acts as a control room for the EU Navy. Officers from the European forces monitor computer screens showing the position of EU naval and merchant ships spread over a 4,800km radius. A website – www.mschoa.eu – has been set up where the merchant shipping community can log planned routes and naval forces can put out alerts and provide advice to people travelling through dangerous waters.
+
+EU NAVFOR spokesperson Ryan Wallace says this capability has allowed the naval forces to help vulnerable ships travel through the area using intelligence at a level never enjoyed before.
+
+"Atalanta draws its strength by opening lines of communication between naval and merchant ships and between navies from each continent."
+
+Equally important has been the ability to talk to naval forces from around the world. The Royal Navy, as part of EU NAVFOR, has made its satellite communications compatible with other naval forces, including Nata, the US Satcom control in the Indian Ocean, and other forces patrolling the region.
+
+Each force uses different communications ranges – HF, UHF and VHF – that in the past lacked the ability to talk to each other. By ensuring each force has an encryption capability and by setting up a new framework in conjunction with the UK’s current CENTRIXS connection with CTF 150, 151, 158 and 152 content management system, Atalanta has been able to put military commands from forces outside of the coalition in real-time contact with each other through the use of secure internet protocols.
+
+"It is the first time a lot of these countries outside the coalition have ever talked to each other in a military command so we had to draw on a lot of the experience of other forces [to be able to integrate the EU NAVFOR technology] as well to be able to get the system running at their end," Wallace says.
+
+Global naval forces were joining the fight against piracy in Somalia so fast that the team behind Atalanta only had a short timeframe to get its systems up and running. Overall it had three weeks to have its back-end and mainframe working and procure the solution in the first place. "We had a lot of countries coming in to patrol the area very quickly, so we offered this UK Royal Navy tool to the units to use through their own existing communications so that they could communicate directly with us and each other in real-time," Wallace says. "We had used this tool before in operational environments but we had noticed limitations with it."
+
+Using dedicated expertise, the team was able to iron out problems seen in other battlefields to create a seamless line of communication using a simple chat tool that coordinates theatre headquarters with patrolling ships, enabling greater protection for merchant and other operators. The success of the project has since seen naval forces and merchant ships from India, China, Malaysia, Japan and Ukraine take a close interest.
+
+So, with Atalanta in place, what happened to the Indian dhow, Nafeya, that was used to attack the offshore vessel was released? French warship Aconit, closest to the scene, was alerted and a boarding team sent to check the safety of all personnel on board. The ship had been shadowing the dhow since the attack and was able to call in Indian frigate Godavari to assist once the release was confirmed – a modern-day rescue for an age-old problem that can finally boast a solution.

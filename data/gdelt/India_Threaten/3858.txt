@@ -1,0 +1,13 @@
+Companies unable to detect cyber attacks
+
+The survey suggested that many companies do not have the visibility needed to catch attacks.
+
+F-Secure's detection and response solutions detected 15 threats in a single month at a company with 1300 endpoints and 7 threats in a single month at a company with 325 endpoints.
+
+Chennai: Fighting cybersecurity breaches has still a long way to go; a considerable number of companies are not even able to detect an attack.
+
+While cybersecurity provider F-Secure founded a significant increase in cyber attack traffic in the latter half of 2018, a survey of cos painted a different picture. Attack traffic observed by F-Secure's network of decoy honeypots in 2018 increased by 32 per cent over the previous year and increased fourfold in the latter half of 2018 compared with the first half of the year.
+
+However, the survey found that 22 per cent of companies did not detect a single attack in a 12-month period. Another 20 per cent of respondents detected a single attack during that time frame and 31 per cent detected two-five attacks. The survey suggested that many companies do not have the visibility needed to catch attacks.
+
+Meanwhile, F-Secure's detection and response solutions detected 15 threats in a single month at a company with 1300 endpoints and 7 threats in a single month at a company with 325 endpoints.

@@ -1,0 +1,25 @@
+Apple's iCloud services suffer major outage
+
+San Francisco, July 5 : As part of what looks like an app-meltdown phase after Google and Facebook apps, Apple's iCloud services suffered a major outage that troubled users, especially in the US, signing into their accounts.
+
+The outage on Thursday evening affected almost all of Apple's iCloud and other services, but while other services were back up and running earlier, iCloud's Calendars, Contacts and Reminders remained affected for a longer time, 9To5Mac website reported.
+
+As soon as Apple users began encountering issues signing into their accounts, they took to Twitter and collectively shared their own outage experiences.
+
+"@AppleSupport Is iCloud down or something? I am absolutely freaking out, changing my email passwords, trying to log in on every device. I see no sign of being compromised on my end," a user wrote on Twitter.
+
+"iCloud is down in case you haven't lost your mind trying to enter your password already," another person tweeted.
+
+On its support page, the iPhone-maker has enlisted all of the services that suffered the melt-down and has mentioned "Resolved Issue" next to the services that have been restored that covers iCloud account sign-in, Calendar, Contacts, Mail and Backup.
+
+However, Apple Support did not address the issue on Twitter via its official handle, leaving the users confused.
+
+"@AppleSupport can you confirm if iCloud is down ? my phone will send emails but isn't receiving and I get a can't load mail message every time I try and log on through my PC," a tweet read.
+
+According to the report, a user who was trying to get her iPhone fixed at an Apple Store was told that the outage had broken loose across the US, but details on how many regions were actually affected remain unknown as of now.
+
+Other Appler services like Apple Pay, Find My Friends and Find My Phone were also affected by the outage.
+
+Apple's services suffered outage just one day after millions of users worldwide, including in India experienced issues with Facebook and its family of apps including WhatsApp and photo-sharing platform Instagram.
+
+Earlier last week, Google's Calendar refused to work for over nearly three hours for users around the world.

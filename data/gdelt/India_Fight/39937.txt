@@ -1,0 +1,65 @@
+CCI Notifies 7th Set Of Amendments To Merger Regulations: Green Channel Now A Reality!
+
+ARTICLE
+
+To print this article, all you need is to be registered or login on Mondaq.com.
+
+INTRODUCTION
+
+The Competition Commission of India (CCI) has constantly reformed the merger control regulations from 2011. In 2018, the CCI took it upon itself to further streamline the merger control regime to increase the ease of doing business in India. The pro-active effort which the CCI initiated last year has matured as it notified its 7th set of amendments (Amendment Regulations 2019) to the Competition Commission of India (Procedure in regard to the transaction of business relating to combinations) Regulations, 2011 (Combination Regulations). In essence, the Amendment Regulations 2019 appear to be a culmination of enduring deliberations with the Ministry of Corporate Affairs (MCA) over the last few months to further ease the approval process for mergers and acquisitions in India. The Amendment Regulations 2019 will be effective from 15 August 2019.
+
+Given the significant shift brought by the Amendment Regulations 2019 in the merger control regime, this update endeavours to highlight the salient features of the latest amendments, including their practical implications on domestic and foreign clients.
+
+KEY FEATURES OF THE AMENDMENT REGULATIONS 2019 ARE SET OUT BELOW:
+
+Introduction of Green Channel
+
+A green channel mechanism has been introduced which can be optionally utilized by parties to certain types of transactions set out in the newly added Schedule III to the Combination Regulations (discussed below).
+
+Upon receipt of an acknowledgment of a notification filed under the green channel, the transaction will be deemed approved.
+
+The notification, which is designed as an automatic approval channel, will need to be accompanied by a declaration set out in Schedule IV of the Combination Regulations.
+
+Schedule III stipulates that the green channel route will be available to the parties which do not have any horizontal, vertical or complementary overlaps. While determining overlaps, parties are now formally required to consider all plausible alternative relevant market definitions. The overlaps also need to be evaluated vis-à-vis: (i) the parties themselves, (ii) all the group entities for all the parties, (iii) all entities where the parties directly or indirectly hold shares, and (iv) all entities where the parties directly or indirectly exercise control.
+
+If the CCI determines that a transaction does not fall within the scope of Schedule III and the declaration under Schedule IV is found to be incorrect, then the deemed approval shall be void ab initio and the CCI shall deal with the combination in accordance with the provisions of the Competition Act, 2002 (Act).
+
+However, prior to deciding if the notification is void ab initio, the CCI will afford the parties an opportunity of being heard.
+
+Comment:
+
+Practical Implications
+
+The idea of a green channel mechanism is certainly laudable to further the ease of doing business in India. This will permit the CCI to prioritize its resources. However, there is a danger that the mechanism will be rendered ineffective given its narrow scope of applicability and uncertainties surrounding its structure.
+
+Schedule III requires parties to ensure that there are no horizontal, vertical or complementary overlaps in all plausible alterative market definitions. The incorporation of this expression has far reaching ramifications and makes an overlap assessment highly onerous in application. The assessment will now need to be run for all possible alternative market definitions which makes the entire exercise very burdensome and may limit the exercise of this option.
+
+Complementary activity is a newly introduced expression and there is no guidance on the import or interpretation of complementary activities. This again places a heavy burden on parties to determine what constitutes complementary activity and may require the parties to effectively seek the CCI's views through informal consultations, on a case by case basis. Further, given the onus imposed on the parties, even assessing suitable horizontal and vertical overlaps to the CCI's satisfaction may turn out to be challenging.
+
+The overarching language of Schedule III requires ascertaining overlaps between group entities of both acquirer and target (including all entities in which both the parties directly and indirectly hold shares). Given that the target group outside the "true" target (ie, entity, business or asset actually being acquired) will not be part of the post transaction acquirer group, this requirement seems out of place and onerous.
+
+Further in practice, identifying all the entities in which each, the acquirer and the target, have direct or indirect shareholding would be a burdensome task, more specifically for identifying minor shareholding in listed companies. Pure financial investors including private equity funds may be deeply affected by this requirement.
+
+The Amendment Regulations 2019 also do not specify the actions that will follow if the merger notification is declared void ab initio. For example, whether another notification would be required, how would the CCI assess the transaction etc. Under the current framework, when a merger notification is invalidated by the CCI, the Combination Regulations set out the way forward. Given the absence of clarity in the Amendment Regulations 2019, parties may be looking at uncertain consequences for making an involuntary misstep.
+
+Potential legislative issues
+
+The Act does not contemplate a deemed approval mechanism. As such, Section 6(2A) specifically provides that a combination will not come into effect either before the CCI has approved the same by way of an order, or 210 (two hundred and ten) days have passed from the date the notice was filed.
+
+The requirement of an order under Section 31 seems to require the CCI's assessment prior to approval of a transaction. In this regard, risks always remain on whether the deemed approval process will squarely fall under the scope of Section 6(2A).
+
+Given that the Act does not contemplate the possibility of a deemed approval unless it is due to lapse of the prescribed timeframe, the validity of the Amendment Regulations 2019 is prone to a challenge as the Combination Regulations being a delegated legislation ought not to expand the scope of the legislative intent under Section 6(2A), particularly when it would appear to be contrary to the parent enactment.
+
+Amendment to the Structure of Form I
+
+The Amendment Regulations 2019 have restructured Form I to introduce certain additional items. It now requires details of: (i) inter-connected transactions; (ii) rights acquired by the parties to the combination; (iii) foreign investment as a result of the combination; (iv) information on complementary business activities between the parties, etc.; market-facing data (such as, market size, shares and competitor/customer/supplier information) for the last 3 (three) years as against the current practice of the last 1 (one) year; all plausible alternative relevant markets (including explanations for accepting or rejecting a specific definition); and any proceedings before the CCI or other competition authority(ies) to which they are/were a part of in the last 5 (five) years.
+
+Comment: The CCI has further streamlined the structure of Form I based on its learnings over the years. The burden on the parties to choose and justify their choice of relevant market definition is greatly increased. This intent extends to the heavy data-gathering exercise for market information which is now required for the preceding 3 (three) years, regardless of the extent of overlaps. It may be noted that the requisition from the transacting parties for competition law related proceedings for last 5 years is a part of Form II merger notification. The same has now been introduced in the revised Form I and as such, will act as an additional disclosure/ compliance item for the transacting parties. Amendment to the Public Summary Mechanism Previously, a merger notification was required to be accompanied with a long summary and a short summary. The short summary was uploaded on the website of the CCI for public access. The Amendment Regulations 2019 have done away with the requirement of 2 (two) summaries. The parties are now required to submit only 1 (one) summary (below 1000 (one thousand) words) with information on: (i) name of the parties, (ii) nature and purpose of the combination, (iii) products/services or businesses of the parties, and (iv) the markets in which the parties operate. This summary will also be published by the CCI on its website. Comment: This is a welcome step as it simplifies the process of filing the merger notification and eliminates the duplication of effort.
+
+
+
+CONCLUSION
+
+The 7th set of amendments to the merger control regulations have far reaching ramifications. These amendments seek to bring about a major shift in the existing merger control landscape in India. We believe that merger transactions will continue to require deep competition assessment with an interdisciplinary expertise in law and economics.
+
+The content of this document do not necessarily reflect the views/position of Khaitan & Co but remain solely those of the author(s). For any further queries or follow up please contact Khaitan & Co at legalalerts@khaitanco.com

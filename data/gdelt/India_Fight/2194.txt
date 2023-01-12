@@ -1,0 +1,27 @@
+AI to play a crucial role in countering cyberattacks in India
+
+Microsoft
+
+Can cloud prevent modern day cyber attacks? This was one of the main topics of discussion during day two of the Media and Analyst Days at Microsoft's R&D centre in Bengaluru.
+
+On November 27, 2018, Delhi police had raided 16 call centres -- operating out of NCR -- for allegedly running scams. These call centres reportedly defrauded customers for anything between $100 and $500 by offering dubious tech support by posing as Microsoft employees. As many as 50,000 customers had fallen victim to these fraudsters.
+
+However, Microsoft had been working on detecting such fraudulent call centres, and along with Delhi police got these centres busted. Its Digital Crimes Unit fights global malware, reduces digital risk and protects vulnerable populations.
+
+"Microsoft Digital Crimes Unit (DCU) is dedicated to enable a safer digital world. What is powering DCU is cloud [computing]. The intelligence we build on the cloud, the tools we use to detect where these criminals could be hiding, our use of data analytics, machine learning and ascertaining the source of the malware being pushed, we can help law enforcement agencies to narrow down on cybercriminals. Many of our operations have led to criminals being jailed in the US. And if it was not for cloud we would not have been able to visualise data and we would not have been able to identify the control service," said Keshav Dhakad, Group Head and Assistant General Counsel Corporate, External and Legal Affairs (CELA), Microsoft India.
+
+The company has earmarked $1 billion for R&D that is spent on cybersecurity research every year.
+
+According to Dhakad, companies can protect their data with the help of AI- driven cloud. Firms that have realised the need to safeguard data can opt for security solutions like the one Microsoft is ready with. As for startups, many of them already have maximum security in place.
+
+Around 92 percent Indian firms are keen on using AI to enhance cybersecurity as Tech Support Fraud (TSF) originating from India -- pegged at 98 percent -- is giving the country's ITeS industry a bad name.
+
+AI will help protect firms from the growing cyberattacks and companies like Innefu are providing innovative cybersecurity solutions using AI.
+
+Founders of Innefu said that they were using AI to look for patterns in the past to predict future attacks.
+
+AuthShield, built by Innefu Labs, is used by institutions like Defence Research and Development Organisation (DRDO) and National Housing Bank (NHB).
+
+India secures a spot among the top 10 spam-sending countries in the world alongside the US, said a Niti Aayog report by VK Saraswat.
+
+In addition, India was ranked among the top five countries to be affected by cybercrime, according to a 2017 report by online security firm Symantec Corp.

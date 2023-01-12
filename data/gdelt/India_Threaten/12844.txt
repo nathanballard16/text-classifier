@@ -1,0 +1,25 @@
+Defence Talk | Apache helicopters for IAF are good products wrapped up in a bad package
+
+Abhijit Iyer-Mitra
+
+The Induction of the AH-64 Apache to the Indian Air Force (and later into the army) will revolutionise the way India fights. Will it though? Yes and no; the yes lies in the equipment and the no lies in everything that surrounds and feeds into it.
+
+What will the AH-64 change — or rather what's so good about it? For starters, the helicopter is closest an air asset comes to being indestructible. It has a record for flying for almost 30 minutes, gliding to a safe location even after its engine was taken out.
+
+In the publicity images released you see two black ‘whiskers’ sticking out on either side of the cockpit. These are the directed infrared counter measures — essentially a laser gun that takes out optically-guided missiles. This is important because at the low altitude that attack helicopters fly, it is impossible to track them on radar till they're within visual range. Usually the missile used against them are shoulder-fired missiles that use optical/infrared guidance. Firing a laser beam into the seeker of these missiles means they're no longer able to track the helicopter. Russian helicopters in Afghanistan were shot down by exactly these kinds of shoulder-fired missiles, and some of the helicopters we lost during the Kargil War were also brought down by similar missiles.
+
+Clearly, as far as defence of the platform goes, be it armour, or redundancy in being able to fly to safety or take out shoulder-fired infrared missiles, the Apache is top notch.
+
+The second aspect is offence. The normal variant of the Apache came with the optically-guided hellfire missile: a great missile that could cut through clutter and hit a target. However, as infrared defences similar to that the Apache uses to protect itself have started to find their way onto ground targets, the hellfire can easily be confused. Moreover, being visually-guided, it can't be used in heavy fog and or bad weather. This is where the Apache comes in.
+
+Half of the Indian helicopters have the longbow radar — an ovoid construction atop the mast. This interfaces with the optical and infrared sensors on the ‘wart’ on the Apaches chin. What the helicopters computer does is it fuses all the three images: radar, optical and infrared, and cues this to the latest version of the Hellfire L variant, which can be guided by any of these three input methods. This is crucial, because each sensor picks up something the other sensors cannot. In effect, it means the adversary has no place to hide and the countermeasures it deploys can be overcome. For example, an infrared countermeasure can blind optical or infrared missiles, but it cannot blind a radar-guided missile.
+
+The third aspect is how these helicopters will be used. In 2005, Israel saw a bruising debate where proponents of airpower contended that helicopters were obsolete. Their argument was that stealth technology made the need for self-defence redundant, and hence new planes such as the F-35 would not need to fly under the horizon to avoid radar. At the same time, precision munitions, which could detect targets and be fired from great distances, had significantly reduced the need for a slow flying platform like a helicopter.
+
+In India, however, the reality is quite different. We do not have stealth aircraft, leave alone being able to decide on a light single-seat plane, while inducting a ruinously expensive two-seat Rafale, essentially to compensate for the failure of the Sukhoi. In such circumstances, Indian Apaches will have to do what US Apaches did in the opening stages of Operation Desert Storm in 1991, fly under the radar and take out a radar array on the Iraqi side, before going berserk and taking out Iraqi armour.
+
+All up, the Ah-64 is great; the problem, however, is why the Indian Air Force feels it needs four types of attack helicopters. When the Apache is inducted, the Indian Air Force will continue to fly its venerable (and vulnerable) Mi-35 — the Mi-35 is a variant of the Mi-24 which were shot down like flies by the Mujahedeen in Afghanistan. It will also be inducting the Hindustan Aeronautics Limited (HAL)-made Light Combat Helicopter and an armed version of the ALH called Rudra.
+
+Each of these procurements show a fundamentally muddled mind. First that the Indian Air Force doesn’t want to get rid of obsolete old assets; second that Indian aircraft that fulfil the same role simply aren’t good enough, their survivability being abysmal; third that they will not buy a foreign product in high enough quantities to create economies of scale or enable deep technology transfer.
+
+In short, this is a good product wrapped up in a bad package, which simultaneously highlights both the opportunities of new weapons, but also the severe myopia of higher defence planning within the Indian Air Force.

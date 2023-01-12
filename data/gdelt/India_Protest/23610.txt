@@ -1,0 +1,71 @@
+Explained: What connects the NPR, NRIC and Census?
+
+How is the National Population Register compiled? How is it related to citizenship and the decennial census? And, can States refuse cooperation with the NPR process?
+
+The story so far: As protests spread all across the country against the Citizenship (Amendment) Act (CAA), 2019 and the proposed National Register of Indian Citizens (NRIC), West Bengal and Kerala suspended work related to the preparation and update of the National Population Register in their respective States. The NPR, a register of residents of the country with demographic and biometric details, was supposed to be prepared between April 2020 and September 2020 ahead of the Census slated for 2021. Preliminary work on the NPR has begun in several States. In Bengal, civil rights activists had been protesting against the compilation of the NPR alleging that it had nothing to with the Census, but the “first step to initiate the National Register of Citizens” in the State. According to Section 14A of the Citizenship Act, 1955 (which was inserted in 2004), the Central Government may compulsorily register every citizen of India and issue a national identity card to him; and it may maintain a National Register of Indian Citizens.
+
+What is the National Population Register (NPR)?
+
+The NPR is a database containing a list of all usual residents of the country. Its objective is to have a comprehensive identity database of people residing in the country. It is generated through house-to-house enumeration during the “house-listing” phase of the census, which is held once in 10 years. The last census was in 2011, and the next will be done in 2021 (and will be conducted through a mobile phone application, according to the Home Minister, Amit Shah).
+
+A usual resident for the purposes of NPR is a person who has resided in a place for six months or more, and intends to reside there for another six months or more
+
+The census involves a detailed questionnaire — there were 29 items to be filled up in the 2011 census — aimed at eliciting the particulars of every person, including age, sex, marital status, children, occupation, birthplace, mother tongue, religion, disability and whether they belonged to any Scheduled Caste or Scheduled Tribe. On the other hand, the NPR collects basic demographic data and biometric particulars.
+
+Once the basic details of the head of the family are taken by the enumerator, an acknowledgement slip will be issued. This slip may be required for enrolment in NPR, whenever that process begins.
+
+And, once the details are recorded in every local (village or ward), sub-district (tehsil or taluk), district and State level, there will be a population register at each of these levels. Together, they constitute the National Population Register.
+
+What is the legal basis for the NPR?
+
+While the census is legally backed by the Census Act, 1948, the NPR is a mechanism outlined in a set of rules framed under the Citizenship Act, 1955.
+
+Section 14A was inserted in the Citizenship Act, 1955, in 2004, providing for the compulsory registration of every citizen of India and the issue of a “national identity card” to him or her. It also said the Central government may maintain a “National Register of Indian Citizens”.
+
+The Registrar General India shall act as the “National Registration Authority” (and will function as the Registrar General of Citizen Registration). Incidentally, the Registrar General is also the country’s Census Commissioner.
+
+The NPR is the first step towards establishing the NRIC.
+
+Is there any link between the NPR and Aadhaar?
+
+Better targeting and delivery of benefits and services under the government was one of the early objectives of the NPR. During the early days of the NPR enrolment, under the United Progressive Alliance regime, the Unique Identification Authority of India (UIDAI) scheme for issuance of Aadhaar numbers was also concurrently on. There was a conflict between the Union Home Ministry, which administers the NPR, and UIDAI, leaving the impression that there was duplication of work, as both involved gathering personal particulars, including biometric data.
+
+Ultimately, they agreed that both databases will exist with different objectives, and that each will use the other’s biometric data. Those already enrolled for Aadhaar need not give their biometric details again during NPR. At the same time, data captured for NPR would be sent to UIDAI for “de-duplication”. In case of discrepancy between Aadhaar and NPR data, the latter would prevail. The present regime decided to update the NPR originally created after the 2011 Census.
+
+What will happen after the NPR is compiled?
+
+Out of the NPR, a set of all usual residents of India, the government proposes to create a database of “citizens of India”. Thus, the “National Register of Indian Citizens” (NRIC) is a sub-set of the NPR. The NRIC will be prepared at the local, sub-district, district and State levels after verifying the citizenship status of the residents.
+
+The Citizenship (Registration of Citizens and Issue of National Identity Cards) Rules, 2003 spells out the rules for operationalising the idea of registering all citizens and issuing national identity cards to them. However, so far, there has been no decision on introducing a national identity card.
+
+The rules say the particulars of every family and individual found in the Population Register “shall be verified and scrutinized by the Local Registrar ...”. In the process, details of those “whose citizenship is doubtful” will be entered with a comment suggesting further inquiry. The family or individual will be informed about it and given an opportunity of being heard by the Sub-district or Taluk Registrar of Citizen Registration before a final decision is made on excluding them from the NRIC. The decision should be made within 90 days.
+
+Is the NRIC complete after this step?
+
+No. A draft of the Local Register of Indian Citizens shall be published to invite objections or claims for inclusion or corrections.
+
+Any objection or request for inclusion must be made within 30 days of the publication of the draft. The sub-district or taluk registrar shall summarily dispose of the objections within 90 days. Thereafter, the entries in the Local Register will be transferred to the National Registrar.
+
+Any person aggrieved by an exclusion order can appeal to the District Registrar within 30 days, and the appeal should be disposed of within 90 days. In case, the appeal succeeds, the names of those concerned would be added to the NRIC.
+
+What are the documents that would help establish citizenship?
+
+The government is yet to notify a date for generation of the NRIC. It has not yet prescribed rules for the sort of documentary proof that would be required to prove citizenship. The government says any document that shows date of birth or place of birth, or both, will be sufficient. And that common documents will be accepted, and those unable to produce documents may produce witnesses or other proof supported by members of the community.
+
+Many State governments have said the NPR would not be implemented. Is this possible?
+
+As of now, this is a political decision. Kerala and West Bengal have put on hold activities related to NPR work. Most State governments would have, by now, re-issued a Central government notification on the initiation of work to update the NPR.
+
+As the house-to-house enumeration is a part of the Census operation, it is unlikely that the NPR process can go ahead without State governments agreeing to deploy their staff for the purpose. The legal position is that while the Centre is in charge of the census, the State governments are expected to provide staff whenever required.
+
+Section 4A of the Census Act, inserted through a 1994 amendment, says: “Every local authority in a State shall, when so directed by a written order by the Central Government or by an authority appointed by that Government in this behalf, make available to any Director of Census Operations such staff as may be necessary for the performance of any duties in connection with the taking of census.”
+
+Further, Rule 5 of the Citizenship (Registration of Citizens and Issue of National Identity Cards) Rules, 2003, lays down that “Every official of the Central Government, State Government, local bodies or their undertakings shall assist the Registrar General of Citizen Registration or any person authorized by him in this behalf, in preparation of the database relating to each family and every person, and in implementing the provisions of these rules.”
+
+In any case, it is compulsory on the part of every citizen to assist in the preparation of the National Register of Citizens, the rules say.
+
+In practical terms, it may not be possible for the process to be undertaken without the State government’s cooperation at the local level.
+
+What is the relationship between the NPR and the Citizenship (Amendment) Act?
+
+There is no direct link. But remarks by the Home Minister that the CAA would be followed by the NRC has given rise to fears that when people are excluded from the final citizenship register, the CAA may help non-Muslims take the CAA route to apply for citizenship, and leave Muslims with no option. However, the government seeks to allay these fears.

@@ -1,0 +1,23 @@
+Smart drone solutions in focus at Army's Wartech Expo
+
+Hisar : , Sep 25 (IANS) With leveraging digital terrain data capable of one-meter resolution and the latest aerial imagery, the displays presented on smart drone solutions by Terra Drone India, have been at the centrestage at Army's Sapta Shakti Wartech Expo 2019 here on Wednesday.
+
+Terra Drone India is a leading provider of industrial drone solutions and data processing services.
+
+Terra Drone India, an associate company of Japan-based Terra Drone Corporation, the No. 2 drone service provider in the world, in a statement said it is showcasing a range of autonomous geo-intelligent solutions at the two-day Wartech Expo.
+
+The Hyderabad-based startup said it is displaying its abilities to empower the Army with high-accuracy simulations of battlefields. The firm said it offers end-to-end drone solutions, right from manufacturing hardware based on specific project requirements and Unmanned Aerial Vehicle (UAV) data acquisition to image-processing and delivery of analytics-ready data.
+
+The solutions, which utilize defence-grade drones, have been designed with a vision to cater to the Army's growing need of cost-effective, high-precision equipment that make use of emerging technologies in the battlefield, said the firm.
+
+Terra Drone India COO Wing Commander Polu Sreedhar explained how the Army will be able to benefit from digital twins of cross-border areas to make advanced strike plans and tactical strategies.
+
+"These simulations will not only tell what the slope/shape of the terrain is like, but will also identify other on-ground features such as roads, canals, and barrages," Sreedhar said.
+
+To enable better management of battlefield assets on ground and in air, Terra Drone India is proposing a connected solution which would track every activity in restricted areas - right from the movement of aircraft to ground vehicles and soldiers. This solution would allow the military to demarcate restricted micro-airspace (where drones operate) and manage all access to it, said the company.
+
+"Using collision avoidance and real-time flight tracking technologies, the information will be relayed to and from the base station to aircraft. In case of any breach by unidentified elements into the restricted area, a low-cost one-time use drone could be deployed for precision striking." This low-cost UAV, the company said, will allow the armed forces to achieve high-precision strikes over long distances also. "The easily deployable and easy-to-handle drone will be capable of carrying up to 1kg of payload (explosives).
+
+"Explaining about Foliage Penetration, the company said, this smart solution for on-ground operations will use drones equipped with highly-advanced LiDAR (Light Detection and Ranging) sensors.
+
+"With this technology, military personnel will be able to single out hidden features and get a detailed profile of the ground below the tree canopy, even in areas of dense foliage cover." To empower the Indian Army with heavy-duty medical assistance anywhere on the field, Terra Drone India is also developing easily deployable drones that can carry up to 200 kg in emergency medical supplies, the company added.

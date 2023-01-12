@@ -1,0 +1,11 @@
+Xiaomi reveals list of devices eligible for Android 9 Pie update with schedule
+
+A week after publishing a list of upcoming features coming to MIUI 10 and MIUI 11, Xiaomi has now revealed which of its devices will get Google’s latest Android 9 Pie OS. The Chinese smartphone manufacturer has also confirmed the upgrade schedule of the software update.
+
+The news comes from Xiaomi engineer Zhang Guoquan’s Weibo account who confirmed that only the Redmi Note 5 and Redmi S2 (Redmi Y2 in India) will get updates to Android Pie in Q1 of this year. This means the two phones will receive their first taste of Android 9 in the next two weeks.
+
+Xiaomi has also revealed that the Mi Note 3, Mi Mix 2, Mi 6, Redmi 6A and Redmi 6 will also get Android Pie but it’ll be sometime during the second quarter of the year. Besides that, the Mi 9, Mi 6x and the Redmi 6 Pro are currently going through internal testing for Android 9 Pie.
+
+Xiaomi is also working on a system-wide Dark mode, similar to the dark mode on Samsung’s One UI. Future updates to MIUI will also bring new sound effects, Advanced Dolby effects, Screen wake-up using voice, screen activation through voice and the ability to view the lock screen after unlocking the device through Face Unlock without jumping to the home screen. Additionally, users will also get an option to automatically delete APK files, a child mode, stereo Bluetooth audio when playing games and viewing emergency contacts on the lock screen.
+
+The latest Xiaomi phone to receive an update has been the Redmi Note 7 which got a Night mode for better shots in the low light conditions. The new mode is already present in the Pro version and it uses pixel binning to bin four pixels into one large pixel for better details when the light is low.

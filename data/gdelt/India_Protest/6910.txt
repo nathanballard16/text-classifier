@@ -1,0 +1,27 @@
+Perovskites perform well under pressure – Physics World
+
+Despite the potential of piezoelectric nanogenerators (PENGs) as energy harvesting devices, their integration into the human body has been stalled by dependence on highly toxic ceramics such as lead zirconate titanate (PZT). But now that scientists at IIT Bombay have unveiled the origin of ferroelectricity in lead-free hybrid perovskites, there may be a safer alternative. Indeed, PENGs made with their new technology could be perfect for powering self-sustainable devices such as pacemakers, health monitors and microsensors.
+
+Piezoelectricity and ferroelectricity are inextricably linked – when a net polarization exists across the domains of a crystal (ferroelectricity), they are likely to respond to the application of an electric field by expanding or contracting (piezoelectricity). Scientists covet this curious behavior on account of the many associated applications in memory, power generation and sensing.
+
+Within this context little attention has been given to hybrid perovskites such as FASnI 3 (where FA is formamidinium) on account of its centro-symmetric unit cell, which should lead to no spontaneous polarization.
+
+It therefore caused quite a stir when Dinesh Kabra and his student Richa Pandey demonstrated a remarkable piezoelectric response of 38 pm/V in this material, far out-performing the leading non-toxic piezoelectric BaTiO 3 (28 pm/V) and the lead-based hybrid perovskite CH 3 NH 3 PbI 3 (5 pm/V).
+
+Pandey explains that there is more to the FASnI 3 crystal than first meets the eye. “While on paper the FASnI 3 crystal should be cubic, the bulky FA+ ion imposes a strain on the unit cell that breaks the centro-symmetry and induces a net polarization.” But the associated spontaneous polarization is still relatively small (6.1µC/cm2) compared with typical inorganic ferroelectric perovskites e.g. BaTiO 3 (27µC/cm2). So why does FASnI 3 exhibit a much stronger ferroelectric effect?
+
+Soft optical phonons
+
+In order to answer this question, the researchers had to look deeper into the fundamental vibrational structure of the crystal. In particular, they were keen to investigate the behavior of soft optical phonons i.e. the out-of-phase movements of ions in the lattice. “We found that these lattice vibrations are particularly active in FASnI 3 , and therefore the crystal is naturally disposed towards expanding or contracting along an axis that separates ions,” explains Pandey.
+
+After unravelling the ferroelectric mechanism in FASnI 3 , the researchers set about enhancing the effect by incorporating the perovskite into a ferroelectric polymer and by carefully combining these two active components, they were able to further enhance the piezoelectric response to 73 pm/V.
+
+This unprecedented performance led the researchers to consider possible applications. “PENGs create electrical power by squeezing piezoelectric materials. As FASnI 3 produces one volt each time the lattice contracts by 73 pm, it is an ideal candidate for such an application,” explains Pandey. The researchers’ hypothesis was confirmed by developing a device with the novel material and measuring the 23 V generated, an unprecedented high amongst existing lead-free PENGs.
+
+Pandey is quick to mention that device stability remains a significant barrier to future commercialization. “Now that we have presented the potential of FASnI 3 PENGs, we must now focus on improving their lifetime. Work is underway to do this either by manipulating the intrinsic stability of the perovskite, or by protecting the device from oxidation through encapsulation.”
+
+Expanding horizons of PENGs
+
+While this performance has yet to reach that of commercial lead-based PENGs, the lower toxicity opens up a new set of applications. For example, the healthcare industry requires a sustainable way to power biomedical devices. Currently, life-saving machines such as pacemakers rely on batteries that have a finite operational lifetime. But FASnI 3 nanogenerators could pave the way for completely self-sustained biomedical devices powered by the very beating of our hearts.
+
+Further details can be found in ACS Energy Letters.

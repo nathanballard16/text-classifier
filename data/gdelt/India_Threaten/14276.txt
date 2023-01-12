@@ -1,0 +1,33 @@
+Analysis | Banks have a long way to go in reducing NPAs
+
+Shshank Saurav
+
+The CEO of Punjab & Maharashtra Cooperative Bank (PMC Bank) confessed that 73 percent of the bank’s loans were advanced to a single borrower bypassing regulatory guidelines. That it went undetected and unreported for so many years shows the rot in India’s banking system.
+
+The mess at PMC Bank came to light when the non-bank finance (NBFC) sector is plagued with liquidity issues. Multiple NBFCs have defaulted in recent times. The government has promised to capitalise banks, but their additional provisioning requirement for sour loans will erode capital.
+
+A deep dive into the finances of banks shows that the non-performing assets (NPA) crisis is far from over. Indeed, data from the Reserve Bank of India show that the gross NPA ratio for banks declined from 15.52 percent at the end of March 2018 to 12.25 percent a year later.
+
+(Amounts in Rs crore)
+
+
+
+However, the primary reason for this reduction is the huge loans written off during financial year 2018-19, data sourced from the central bank under the Right to Information Act show. Public sector banks collectively wrote off Rs 1.72 lakh crore of bad assets in FY19 compared to Rs 1.24 lakh crore in the previous year. The chart below has the details.
+
+If these write-offs hadn’t taken place, then the gross NPA ratio at the end of March 2019 would have been 14.78 percent, which while slightly lower than the year-ago number is significantly higher to reported numbers. Moreover, the increase in provisions despite the huge write offs suggests that asset quality has worsened for select portfolios. Further the data show that public sector banks’ write-offs in the last three financial years was twice the amount of bad loans recovered during the same period.
+
+It is an accounting exercise to clean up the books. It results in an improved asset quality ratio. Tax deduction could be another reason behind writing off bad loans because there is some restriction under income tax laws over allowance of provision for doubtful debts. A point to note here is that the RBI itself has not issued any guidance to banks on bank loan write-offs. It simply requires banks to take credit-related decisions based on policies approved by their respective boards and within broad regulatory guidelines.
+
+The magnitude of NPA issue can be understood from the fact that RBI has deferred the implementation of Ind-AS (the domestic version of global accounting standard IFRS) twice after receiving representations from banks. A report from Fitch Ratings’ India unit said that state-run lenders would have increased their provisions by as much as Rs 1.12 lakh crore for the quarter ended June 2019 if the new accounting standards were in place. Such a massive amount will erode the capital of banks and it will impact the profitability also.
+
+Of course, with a lot of bank capital stuck in sour loans, quick recovery will help in alleviating the problem. It was to ensure time-bound resolution of bad loans that the Modi government enacted the Insolvency and Bankruptcy Code which it highlighted as a game changer.
+
+However, data show that the resolution through the bankruptcy code is plagued with delays. Out of total 1292 cases pending as on June 30, 2019, there are 445 cases where the statutory time limit of 270 days has passed. The table below has the details.
+
+Moreover, there is a structural gap in the corporate insolvency resolution process. There is no mandatory requirement for a successful bidder to bring the money out of its own resources such as retained earnings and fresh issue of capital.
+
+In the days ahead, more troubles lie on the NPA front. Recently, the government asked banks to follow a RBI circular dated 7 June 2019 and not to declare stressed assets of micro, small and medium enterprises as NPAs till March 2020. Further, the RBI governor has already cautioned banks over end use of Mudra loans. A recent RBI report also highlighted the diversion of agricultural credit for other purposes and this aspect should be taken care appropriately by banks. These are all warning signals.
+
+Credit growth is necessary for economic development. However proper assessment of credit worthiness and monitoring of end use of funds is necessary to ensure that money is given to right person and it has been used for intended purpose.
+
+The writer is a chartered accountant

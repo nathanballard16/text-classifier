@@ -1,0 +1,13 @@
+CCI opens probe into Android dominance abuse claims
+
+India’s competition watchdog is investigating complaints that Google has been abusing the dominance of its Android ecosystem.
+
+Reuters reported that the Competition Commission of India (CCI) opened its investigation six months ago after several individuals collectively filed a complaint over the matter.
+
+The CCI’s move follows a three-year European Commission probe into Google’s affairs which resulted in the search engine giant being fine €4.3 billion in July last year. The investigation concluded that Google’s practice of requiring Android device manufacturers to use its apps was illegal.
+
+“It is on the lines of the EU case, but at a preliminary stage,” reported Reuters, adding that executives from Google have met Indian authorities with regard to the investigation. The decision on whether to continue or scrap the probe rests with the CCI, but it would be difficult to shelve the investigation unless it can show that “the problem has been addressed”, claimed a Reuters source.
+
+After receiving the fine from the EC, Google stated that it would no longer bundle its own apps preinstalled on Android – thereby encouraging their use – and would instead begin charging a standard licensing fee to device makers.
+
+This is not the first time that Google has stood accused of exploiting Android’s prevalence in India, having received a fine of INR1.36 billion ($19.3 million) from the CCI in February 2018 for allegedly abusing the its position in the search engine and advertising markets. Google appealed the penalty on the grounds that it could cause irreversible damage to its reputation.

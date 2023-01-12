@@ -1,0 +1,111 @@
+WhatsApp API: Everything you need to know
+
+With over 200 million users in India, Whatsapp is unsurprisingly now one of the most attractive ways for brands to interact with their customers via chatbot. Although the official launch of the Whatsapp Business API took place in late 2018, the process for acquiring it, as well as the best practices for implementation – at least in India – remains somewhat elusive knowledge.
+
+Keeping this in mind, NextBigWhat spoke to a number of stakeholders & people familiar with the system to share their learnings in successfully integrating Whatsapp APIs.
+
+In this post, I’ve distilled our conversations to give you a clear round-up of what we were able to gather i.e you will learn how to go about getting access to the API as well as what you should ideally do once you have it.
+
+How to access the Whatsapp Business API?
+
+The Whatsapp Business API is available only via certified Commercial Service Providers (CSPs).
+
+Some of the CSPs in India are listed below:
+
+Reach out to any one of the above vendors and initiate the application process. It is advisable to go with the Indian vendors as rates work out the lowest for Indian customers. You must receive Business approval from Whatsapp. No fixed number/Whatsapp account is necessary for this step. This process takes 3-4 weeks on average. Once approval is received, choose a number for your official Whatsapp channel. It is advisable to have two numbers – one for production and the other for staging as testing might get tricky otherwise. There are two main types of messages you need to be aware of:
+
+Template Message & Session Message
+
+Template Message:
+
+Template Message example via GoIbibo Backstage blog
+
+As the name suggests, this is a message that is templated with placeholders for dynamic data. The templates have to be approved by Whatsapp before use, and the approval process takes between 2-3 weeks.
+
+These messages are triggered by user actions outside of Whatsapp i.e a conversation that hasn’t been initiated by the user on Whatsapp. Template messages are chargeable and cost 29 paise/message (as per latest info). They can have upto 4000 characters and support emojis as well as non-English languages. However, images reportedly aren’t supported in the current release.
+
+Session Message:
+
+Example of support from Clickatell’s Whatsapp solution.
+
+Messages initiated by the user are called Session Messages i.e when the user sends ‘hello’ or any other keyword to your Whatsapp number. You have a 24 hour window to respond to the messages and this channel is usually used for support.
+
+
+
+Explicit outbound marketing, healthcare related services, government services, adult content etc. are strictly not allowed currently.
+
+Whatsapp API Messages Pricing
+
+Template Messages are charged at 29p/message in India according to sources. We still haven’t been able to verify the charges for Session Messages, but we are in the process of doing the same and will update this post as and when we receive confirmation.
+
+Things to keep in mind and best practices:
+
+Order of delivery is not guaranteed:
+
+The order in which the messages get delivered may be haphazard – both on the user end as well as the business. You can control this on your end by maintaining a certain gap between multiple messages, however there is little you can do on the user end. Sometimes, the internet connection could be a bit iffy or the user may send messages when he/she is offline and the messages get sent much later when they do get online.
+
+You should be prepared to deal with grasping the context in mixed order messages by building a feature set on top of the Whatsapp API as they do not offer anything of the sort currently.
+
+Differences with traditional chatbots in terms of collecting input:
+
+Unlike traditional chatbots, you have no option to present buttons on Whatsapp. Your flows must incorporate lists (‘Reply with 1 for…’) and keywords (‘Reply with Yes for…’) and be intelligent enough to attach intent to each conversation so as to not lose context.
+
+Be prepared for a variety of responses:
+
+Users may respond to lists with keywords and keywords to lists. They may use sentences, synonyms, emojis or even slang in their replies. You should be aware of this while building your conversational flows. In India, many Whatsapp chatbots reportedly also receive audio messages in response.
+
+Although incorporating NLP via audio may be a bridge too far for most companies, you can however build intuitive flows that are ready to deal with a diversity of text-based responses and scale that approach.
+
+Example from Holidaypirates.
+
+Be creative with your copy:
+
+The last thing that users want to be reminded of while speaking with a chatbot is that they’re speaking with a chatbot. Have folks from your creative team design the copy for your messages which incorporates personality, spacing, bolding, ASCII art, emojis and more. With inspired copy you can reduce your drop off rates and keep users engaged, ensuring that a lot more of your support requests are resolved at the bot level.
+
+Personalize your messages as much as possible:
+
+If you have access to enough data to be able to segment your users by demographic or taste or any other relevant filter, you can personalize your messages to suit them. Hence a ‘Hello Neeraj ji’ to North India based users may elicit a better response than a ‘How’s it going?’ that may be better suited to a younger audience in metros.
+
+You can also personalize by making your system smarter in learning probable causes for contact. If a user reaches out within a few hours of placing an order, it is likely that it is with regards to that particular order, and hence a relevant query can be sent out immediately to confirm if that is the case, before moving forward.
+
+Integrate Indian languages:
+
+With millions of non-English speakers getting online and accessing web-based services, it is unquestionable that companies must incorporate Indian language support within their chatbots – be it on Whatsapp or elsewhere. Due to the pre-eminence of English in India, users may even respond in Indian languages via Roman, with the most prominent example of this being Hinglish. Progress in this space has been slow but it is worth taking into account for any company moving ahead with chatbot integration into their support flow.
+
+Manage threaded replies:
+
+Chatbot messages are saved as regular messages on a Whatsapp user’s device, and a user may choose to quote a message that is a month old and reach out expecting a response. Therefore, while it is important to maintain a threshold to close open conversations, it is worthwhile investing time and effort in building a system to maintain contextual metadata of old messages so as to be prepared for such cases.
+
+Intelligent routing to humans:
+
+Make sure that you’re explicit when it comes to the limitations of the bot to the user. Integrate outs within the flow of the chatbot to route to humans to resolve the problem, as being stuck within an unuseful chatbot flow may be highly frustrating. You can be smarter about the routing by, for example, ensuring that users are routed to geographically relevant support teams in the case of a grocery delivery service or any service where local knowledge may prove useful and so on.
+
+Strategically deploy read receipts:
+
+Regardless of the complexity of a process initiated by a user on chat, he/she sees the message ‘delivered’ and ‘read’ via the two ticks and therefore assumes – on a cognitive level – that the message has been read and expects a response, and fast. To manage this, one could, in certain cases, send a 200 OK status code for ‘delivered’ i.e single tick, and withhold the ‘read’ receipt until a response is ready. UX-wise, this may reduce friction.
+
+Keep it simple stupid:
+
+Do not expect to be able to use – currently, at least – Whatsapp for complex data collection as long forms are inherently unintuitive on the platform. Where the net number of questions are low, it may be worthwhile integrating it on Whatsapp. Be careful not to overwhelm the user with information or requests for information though.
+
+Monitor the conversations for learnings:
+
+Relative to industry-based privacy concerns, monitoring conversations will help you learn which parts of your conversational flows are working and which aren’t. You can then further optimize them and the processes attached to them.
+
+Build dashboards for your teams:
+
+You will need to build dashboards for your business, sales and support teams. Track metrics such as delivery rate, response rate, conversion rate, first response time, average response time, average handling time etc.
+
+Be flexible about your flows:
+
+Your conversational flows will change over time, based on requirement, reports, data and change in business structure, hence be prepared for it on a technical level so as to be able to manage repeated changes smoothly. You must aim to eventually build a system that will allow your marketing and support teams to be able to change the flows on their own without hindrance to the backend.
+
+Key lessons from GoIbibo’s experience with Whatsapp APIs
+
+At a recent ProductGeeks meetup, we had Vikalp Sahni, CTO at one of the pioneers of using Whatsapp APIs in India, GoIbibo, conduct a tell-all session revealing their experience and the lessons they learnt.
+
+
+
+Using the Whatsapp APIs, GoIbibo was able to boost conversions, bookings, feedback and many more key performance metrics and demonstrate a successful integration.
+
+Do share your feedback/comments by tweeting to us @NextBigWhat.

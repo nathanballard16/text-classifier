@@ -1,0 +1,43 @@
+Defaulting promoters may challenge proceedings under banned Feb 12 Circular
+
+Two weeks after the Supreme Court set aside the Reserve Bank of India (RBI)'s controversial February 12 Circular, the bankers now await the future direction from the regulator. While RBI's power remains intact, it can be exercised only against specific defaulters. In an email interview with Anand Adhikari of Business Today, Punit Dutt Tyagi, Executive Partner, Lakshmikumaran and Sridharan explains some of key issues that occupy the top of the minds of stakeholders:
+
+BT: What happens to existing stressed cases (for example, Jet Airways) triggered under February 12 Circular? Does the Supreme Court order put a complete stop to all proceedings under the banned circular?
+
+Punit Dutt Tyagi: As per directions passed by the Supreme Court, proceedings initiated by banks pursuant only to the February 12 Circular will be considered non est i.e. does not exist. In other words, banks are free to withdraw proceedings filed before the NCLT with respect to stressed companies, which remained pending because of the Supreme Court's status quo order.
+
+The impact is only limited to the direction of the RBI to banks to initiate IBC proceedings against a corporate debtor in case of default, which was struck down because of lack of authorisation from the government in terms of Section 35AA of the Banking Regulation Act. However, this does not mean that banks cannot take their own action, including initiation of IBC proceedings. There is, therefore, no impediment as far as banks' decision-making powers are concerned.
+
+Even though the Jet Airways default was squarely covered by the RBI Circular, the State Bank of India-led consortium had not triggered insolvency proceedings against it. They instead attempted a "Bank-led Provisional Resolution Plan" in terms of guidelines laid down by the Circular pertaining to valuation of shares. In other words, banks were trying to restructure the debt of Jet outside the IBC framework. This will not be impacted by the decision of the Supreme Court to strike down the RBI Circular.
+
+BT: Can affected promoters challenge the 'decision already taken under the circular'? For example, in the case of Jet Airways, the promoter is already out as part of the initial resolution worked out by bankers and promoters?
+
+Tyagi: The decision makes it clear that where proceedings had been initiated only because of the RBI Circular, such proceedings will come to a stop. However, banks remain free to initiate proceedings under IBC against a company in default, this discretion being couched in the IBC. The Supreme Court decision, therefore, offers no immunity to defaulting companies where banks want a resolution monitored by the NCLTs.
+
+Though we do not foresee such a situation because the Circular was challenged at a very initial stage and a status quo order was passed by the Supreme Court, it is theoretically possible for promoters to challenge proceedings if the same had been admitted by the NCLT or in the event any adverse order was passed against the promoters pursuant to such proceedings.
+
+Promoters may only be able to challenge proceedings in cases where it is apparent that the proceedings were initiated under the RBI Circular, and yet continue with such proceedings. No ground arises for them to challenge the wisdom of banks to draw up a resolution plan or in the event, banks decide to go for proceedings under the IBC. Therefore, no cause arises for the promoters of Jet to challenge the decision of lenders, as it is part of a restructuring plan that is not part of proceedings under the IBC.
+
+BT: What are some of restructuring options for banks without a February 12 circular -- can they convert their debt into equity?
+
+Tyagi: Without the February Circular, banks can continue a debt restructuring as per their commercial wisdom, whether outside or within the IBC framework. The relevant point to note is that with the Circular having been struck down, banks are no longer required to complete the restructuring process within 180 days of a company being identified as a defaulter, which had been mandated under the Circular.
+
+To convert debt into equity, banks can opt for schemes such as Corporate Debt Restructuring (CDR) and Sustainable Structuring of Stressed Assets (S4A) etc.
+
+BT: Can lenders enforce a sale of assets before invoking the bankruptcy proceedings?
+
+Tyagi: Yes, under the various debt restructuring schemes, it is possible to sell assets in stressed cases even before invoking IBC proceedings. For example, under the SARFAESI Act, a bank may sell assets to recover its dues.
+
+BT: Is there a risk of operational creditors or banks not joining the consortium invoking IBC?
+
+Tyagi: Once a creditor, whether financial or operational, decides to opt for IBC proceedings, it is imperative for all financial as well as operational creditors of the company to submit their claims. This means unless a debt restructuring scheme is adopted that pacifies all lenders, IBC proceedings may be invoked.
+
+As far as operational creditors are concerned, their debts are more likely to be paid in toto in case of a restructuring outside the IBC, as they often only end up being paid the liquidation value, which is almost nil where the company goes through insolvency proceedings.
+
+Therefore, creditors may be open to debt restructuring outside the IBC, provided it is fair to all. In all other cases, it is open for any creditor to initiate proceedings under the IBC. If that happens, it becomes imperative for all creditors to participate in proceedings.
+
+Also Read: Brokerages wait and observe L&T bid for Mindtree
+
+Also read: Jet Airways' temporarily shutdown a setback for Indian aviation: Air India chief Ashwani Lohani
+
+Also read: Jet Airways shutdown: Value of JPMiles 'secure and intact', says Jet Privilege

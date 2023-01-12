@@ -1,0 +1,33 @@
+Opinion | Will Sebi’s bet on physical delivery of equity derivatives backfire?
+
+The stock market in India is among the largest casinos, due to the cash settlement of derivatives trades, D.R. Mehta, a former chairman of Securities and Exchange Board of India (Sebi) told BusinessLine earlier this week. It is a fairly common view, and has evidently found resonance with the markets regulator. In its first major decision this year, Sebi has made physical settlement mandatory for all single-stock derivatives .
+
+But Mehta and other detractors may be soon surprised to find out that the attributes that make them call the equity derivatives market a casino are unlikely to change.
+
+Even with mandatory physical settlement, traders will continue to throng the derivatives markets because of the leverage and flexibility they provide. Besides, as the physically settled markets in centres such as Chicago have demonstrated over the years, fewer than 1% of all contracts actually end in physical settlement.
+
+“Longs and shorts usually eliminate their obligations to take and make delivery by offsetting their contracts before maturity. Their liquidating transactions produce a simple financial (read cash) settlement of gains and losses and, more importantly, avoid the costs and uncertainties of physical delivery," Kenneth D. Garbade and William L. Silber of New York University wrote in a paper published in the Journal of Futures Markets.
+
+Put simply, even in physically settled markets, about 99% of trades end up being cash-settled. Traders either square off positions ahead of a contract’s expiry or choose to roll over positions to a similar contract with a longer duration. Only a minority end up actually taking and making physical delivery of stocks.
+
+If things progress in this way, there may be only temporary blips in volumes of stock derivatives, before they bounce back as market participants adjust to the new processes.
+
+In fact, there may be some positive rub-offs. The shorts that hold positions till expiry will be forced to use the securities lending platform, which may finally get the push it needs to garner decent volumes.
+
+Physical-settlement also generally works better for hedgers and arbitrageurs in that it removes the basis risk, or the price risk on one leg of the hedge/arbitrage position.
+
+Of course, all of this forms the sanguine view. It remains to be seen how the market adapts to the new structure. One can only hope that things don’t backfire. After all, physically settled markets have been known in the past to facilitate manipulative practices such as ‘corners’ and ‘short squeezes’.
+
+If a trader is aware of low availability of an underlying asset, he can attempt to build a large position and insist on delivery on expiry day.
+
+There are ways around this, as Craig Pirrong of the University of Houston points out in this paper related to commodity futures contracts. But who’s to say Sebi will roll out the perfect product design.
+
+The regulator will do well to treat the first set of stocks on which physical settlement will apply as a pilot programme. Depending on the response and its own comfort related to matters such as risk and manipulation, it can then roll out the new structure for other stocks. As things stand, there is a pre-determined time-table for all stocks to be brought within the physically settled ambit.
+
+And while this may be too much to ask of the regulator, given its poor track record, Sebi must become more public with its public discussion process before framing important regulations. The proposal to introduce physical settlement was first mentioned in a bare-bones addendum to its discussion paper on the growth and development of equity derivatives markets in India. It hasn’t bothered to inform the markets what the general response was in this exercise; nor has it given any reasons why it chose to go ahead with physical settlement.
+
+If Sebi is the top-notch regulator it believes itself to be, it should not only do the above, but also provide a cost-benefit analysis of its proposed policies, as the Financial Sector Legislative Reforms Commission (FSLRC) has already recommended.
+
+If Mehta, a former chair at Sebi, can be relied upon as a fair judge of what the regulator is thinking, the attempt appears to be to discourage speculation. On that count, it must be said that Sebi is clearly underestimating the resourcefulness of the speculators’ community.
+
+Subscribe to Mint Newsletters * Enter a valid email * Thank you for subscribing to our newsletter.

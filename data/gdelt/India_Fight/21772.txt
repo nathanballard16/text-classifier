@@ -1,0 +1,23 @@
+Fate Of The Accounts Covered Under The February 2018 Circular Post Supreme Court Judgment
+
+ARTICLE
+
+To print this article, all you need is to be registered or login on Mondaq.com.
+
+The Supreme Court of India in the matter of Dharani Sugars & Chemical Ltd Vs. Union of India struck down Circular dated 12th February 2018 issued by RBI as ultra vires of section 35AA of the Banking Regulation Act, 1949 ("BR Act"). The RBI Circular mandated banks and financial institutions to initiate resolution against defaulting companies with exposure of more than Rs. 2000 crores. If the account is not resolved with a period 180 days of such reference, then banks and financial institutions have to initiate proceeding against these companies under the Insolvency and Bankruptcy Code 2016 ("IBC").
+
+The bone of contention of the matter was whether RBI has power to issue such direction to banks and financial institutions. The Supreme Court analyzed the scope of power of RBI under Section 35 AA of the BR Act and held that RBI can direct banking and financial institutions to move under the IBC, if two conditions precedent are specified: (i) the Central Government should authorize RBI to issue direction; and (ii) it should be in respect of specific default. Hence, only Central Government has the power to authorize RBI to issue direction to banking and financial intuitions when it comes to initiate proceeding under IBC in respect of specific defaulters. Therefore, without authorization of the Central Government, the RBI cannot issue such directions.
+
+In view of the above, the Court held that "the impugned circular is ultra vires, and has no effect in law. Consequently, all actions taken under the said circular, including actions by which the Code has been triggered must fall along with the said circular. As a result, all cases where debtors have been proceeded against by financial creditors under section 7 of the Code, only because of the operation of the impugned circular, are non-est."
+
+This RBI Circular estimated to impact a total debt due of Rs. 3.8 lakh crore across 70 large borrowers of which majority are in power sector. Since the Supreme Court on one stroke invalidated the RBI Circular, uncertainty looms over the fate of IBC proceedings initiated against these borrowers. There are debates that all these proceedings will be dismissed and banks have to initiate the proceeding ab initio.
+
+However, in our opinion the Supreme Court order does not change the status quo at least in respect of the pending proceeding. Instead, the order puts the ball squarely on the court of the banks to decide whether to continue with the proceeding. The order says the Circular is ultra vires and hence, all the IBC proceeding initiated only because of the Circular is non-existent under law. In reality, the Circular is only direction to banks and financial intuitions, and their right to initiate action against these borrowers does not arise from the Circular. Such right arises under the provision of IBC; and as financial creditors, they are entitled to proceed against the defaulters by them selves, even if there was no such direction from RBI. Hence, banks can plead before NCLT that they have initiated action against a particular defaulter under IBC not merely because of the Circular, but by their own account exercising their right under IBC as financial creditors due to default on the part of particular borrower. Further, format for application for initiation of proceeding under IBC does not require applicant to disclose whether application has been filed in pursuance of RBI Circular.
+
+The real impact of the Judgment will be felt upon RBI, as it significantly narrows its power to proceed against stressed accounts and leave such power completely to the control of Central Government. Ideally, the Government should be giving a general direction and RBI, being the financial regulator, should be allowed to take a call on specific accounts to initiate IBC proceeding. The judgment puts RBI completely at the mercy of the Government as it can only act against the cases specified by Government.
+
+This article was originally published in Live Law. For more details visit the below link:
+
+https://www.livelaw.in/law-firms/articles/february-2018-circular-post-supreme-court-judgment-144087
+
+The content of this article is intended to provide a general guide to the subject matter. Specialist advice should be sought about your specific circumstances.

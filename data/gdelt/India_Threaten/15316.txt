@@ -1,0 +1,1359 @@
+Mastech Digital Reports 12% Organic Revenue Growth in Third Quarter 2019
+
+PITTSBURGH, Oct. 29, 2019 /PRNewswire/ -- Mastech Digital, Inc. (NYSE American: MHH), a leading provider of Digital Transformation IT Services, announced today its financial results for the third quarter ended September 30, 2019.
+
+Third Quarter 2019 Highlights:
+
+Total revenues increased 12% to $49.5 million , compared to revenues of $44.3 million in the 2018 third quarter;
+
+, compared to revenues of in the 2018 third quarter; The Company's data and analytics services segment reported record quarterly revenues for the second consecutive quarter; Revenues of $7.1 million , represented 22% growth over the same quarter last year and a 6% sequential increase over Q-2 2019;
+
+, represented 22% growth over the same quarter last year and a 6% sequential increase over Q-2 2019; The IT staffing segment achieved revenue growth of 10% compared to the third quarter of 2018; Consultant headcount increased by 84 consultants, the Company's largest quarterly increase since going public in 2008;
+
+GAAP diluted earnings per share were $0.17 in the third quarter of 2019 versus $0.14 in the 2018 third quarter;
+
+in the third quarter of 2019 versus in the 2018 third quarter; Non-GAAP diluted earnings per share were $0.23 in the third quarter of 2019 versus $0.20 in the 2018 third quarter;
+
+in the third quarter of 2019 versus in the 2018 third quarter; Bank debt was reduced by $5.8 million during the quarter.
+
+Third Quarter Results:
+
+Revenues for the third quarter of 2019 totaled $49.5 million compared to $44.3 million during the corresponding quarter last year. Gross profits in the third quarter of 2019 were $12.3 million, compared to $10.7 million in the same quarter of 2018. GAAP net income for the third quarter of 2019 totaled $1.9 million or $0.17 per diluted share, compared to $1.6 million or $0.14 per diluted share during the same period last year. Non-GAAP net income for the third quarter of 2019 was $2.6 million or $0.23 per diluted share, compared to $2.2 million or $0.20 per diluted share in the third quarter of 2018. Activity levels at both of the Company's business segments were strong during the quarter.
+
+Commenting on the quarterly performance, Vivek Gupta, President and CEO, Mastech Digital, said, "This clearly has been our best quarter in many ways. I am pleased with the performance of both our business units. Our data and analytics segment reported record revenues, with an expanded pipeline and strong gross margins of 46%. Despite investments made to our operating cost structure, we saw a 15% improvement in our year-on-year operating profits. We continue to grow faster than the industry average in our IT staffing business, with a revenue growth of 10%, operating profit growing at 13% and with expanded gross margins, on a year-on-year basis."
+
+Commenting on the Company's financial position, Jack Cronin, Mastech Digital's Chief Financial Officer, stated, "During the quarter, we reduced bank debt by $5.8 million. For the nine months ended September 30, 2019, we lowered bank debt by $11.7 million with cash flows generated from operations. At quarter-end, we had approximately $17.2 million of borrowing capacity available to us under our revolving credit line."
+
+About Mastech Digital, Inc.:
+
+Mastech Digital (NYSE American: MHH) is a leading provider of Digital Transformation IT Services. The Company offers Data Management and Analytics Solutions, Digital Learning, and IT Staffing Services with a Digital First approach. A minority-owned enterprise, Mastech Digital is headquartered in Pittsburgh, PA with offices across the U.S., Canada, and India.
+
+Use of Non-GAAP Measures:
+
+This press release contains non-GAAP financial measures to supplement our financial results presented on a GAAP basis. The presentation of these financial measures is not intended to be considered in isolation or as a substitute for, or superior to, financial information prepared and presented in accordance with GAAP. Investors are cautioned that there are material limitations associated with the use of non-GAAP financial measures as an analytical tool. Reconciliations of these non-GAAP measures to their comparable GAAP measures are included in the attached financial tables.
+
+We believe that providing non-GAAP net income and non-GAAP diluted earnings per share offers investors useful supplemental information about the financial performance of our business, enables comparison of financial results between periods where certain items may vary independent of business performance, and allows for greater transparency with respect to key metrics used by management in operating our business. Additionally, management uses these non-GAAP financial measures in evaluating the Company's performance.
+
+Specifically, the non-GAAP financial measures contained herein exclude the following expense items:
+
+Amortization of acquired intangible assets: We amortize intangible assets acquired in connection with our June 2015 acquisition of Hudson IT and our July 2017 acquisition of the services division of InfoTrellis, Inc. We exclude these amortization expenses in our non-GAAP financial measures because we believe it allows investors to make more meaningful comparisons between our operating results and those of other companies within our industry and facilitates a helpful comparison of our results with other periods.
+
+Stock-based compensation expenses: We incur material recurring expense related to non-cash, stock-based compensation. We exclude these expenses in our non-GAAP financial measures because we believe that it provides investors with meaningful supplemental information regarding operational performance. In particular, because of varying available valuation methodologies, subjective assumptions and the variety of award types that companies can use under ASC 718, we believe that providing non-GAAP financial measures that exclude these expenses allows investors to make more meaningful comparisons between our operating results and those of other companies within our industry and facilitates comparison of our results with other periods.
+
+Acquisition-related transaction expenses: We incurred significant expenses in connection with our acquisition of InfoTrellis, Inc. which we would not have otherwise incurred in the periods presented as part of our continuing operations. These transaction expenses consisted of investment banking fees, legal expenses, audit charges related to our acquired companies and various advisor costs. In the 2018 and 2019 periods, we recorded reductions in acquisition-related transaction expense due to revised estimates of investment banking fees associated with contingent consideration payments. We believe that providing non-GAAP financial measures that exclude these expenses / credits allows investors to make more meaningful comparisons between our operating results and those of other companies within our industry and facilitates a helpful comparison of our results with other periods.
+
+Contingent consideration liability revaluation: In connection with the InfoTrellis acquisition, the Company may have been required to pay future consideration that was contingent upon the achievement of specific earnings before interest and tax objectives ("EBIT"). As of the acquisition date, the Company recorded a contingent consideration liability representing the estimated fair value of such contingent consideration that was expected to be paid. In the second quarter of 2019 and 2018, this contingent consideration liability was reduced by $6.1 million and $9.1 million, respectively, after determining that relevant conditions for payment of such liability were unlikely to be fully satisfied. We believe that providing non-GAAP financial measures that exclude these adjustments to expense are useful for investors to understand the effects of these items on our total operating expenses and facilitate comparison of our results with other periods.
+
+Goodwill impairment: The Company accounts for acquisitions in accordance with guidance found in ASC 805, Business Combinations. Accordingly, excess purchase price over the fair value of net tangible assets and identifiable intangible assets is recorded as goodwill. Goodwill is not amortized but is tested for impairment at least on an annual basis. If impairment is indicated, a write-down to fair value is recorded based on the excess of the carrying value of the asset over its fair market value. As a result of the reductions to contingent consideration related to the InfoTrellis acquisition, we performed a quantitative impairment tests on June 30, 2019 and June 30, 2018. The results of this testing indicated no impairment of goodwill in 2019 and a $7.7 million impairment associated with the carrying value of goodwill in 2018. While it is possible that goodwill impairment could occur in the future, we believe that providing non-GAAP financial measures that exclude impairment expense are useful for investors to understand the effects of these items on our total operating expenses and facilitate comparison of our results with other periods.
+
+Forward-Looking Statements:
+
+Certain statements contained in this release are forward-looking statements based on management's expectations, estimates, projections and assumptions. Words such as "expects," "anticipates," "plans," "believes," "scheduled," "estimates" and variations of these words and similar expressions are intended to identify forward-looking statements, which include but are not limited to (i) projections of revenues, earnings, and cash flow, and (ii) the expected benefits to Mastech Digital from completing the acquisition of the services division of InfoTrellis, Inc. and the PNC credit facility and the expected performance of Mastech Digital following completion of these transactions. These statements are based on information currently available to the Company and it assumes no obligation to update the forward-looking statements as circumstances change. These statements are not guarantees of future performance and involve certain risks and uncertainties, which are difficult to predict. Therefore, actual future results and trends may differ materially from what is forecast in forward-looking statements due to a variety of factors, including, without limitation, the level of market demand for its services, the highly competitive market for the types of services offered by the Company, the impact of competitive factors on profit margins, market conditions that could cause the Company's customers to reduce their spending for its services, and the Company's ability to create, acquire and build new lines of business, to attract and retain qualified personnel, reduce costs and conserve cash, and other risks that are described in more detail in the Company's filings with the Securities and Exchange Commission including its Form 10-K for the year ended December 31, 2018.
+
+MASTECH DIGITAL, INC. CONDENSED CONSOLIDATED BALANCE SHEETS (Amounts in thousands) (Unaudited)
+
+
+
+
+
+
+
+
+
+
+
+September 30,
+
+December 31,
+
+
+
+2019
+
+2018
+
+
+
+
+
+
+
+
+
+ASSETS
+
+
+
+
+
+
+
+Current assets:
+
+
+
+
+
+
+
+Cash and cash equivalents
+
+$ 1,963
+
+$ 1,294 Accounts receivable, net
+
+34,960
+
+38,080 Prepaid and other current assets
+
+1,392
+
+1,321 Total current assets
+
+38,315
+
+40,695
+
+
+
+
+
+
+
+
+
+Equipment, enterprise software and leasehold improvements, net
+
+2,534
+
+2,208
+
+
+
+
+
+
+
+
+
+Operating lease right-of-use assets
+
+4,993
+
+-
+
+
+
+
+
+
+
+
+
+Deferred income taxes
+
+-
+
+297
+
+
+
+
+
+
+
+
+
+Non-current deposits
+
+410
+
+540
+
+
+
+
+
+
+
+
+
+Goodwill, net of impairment
+
+26,106
+
+26,106
+
+
+
+
+
+
+
+
+
+Intangible assets, net
+
+20,721
+
+22,738 Total assets
+
+$ 93,079
+
+$ 92,584
+
+
+
+
+
+
+
+
+
+LIABILITIES AND SHAREHOLDERS' EQUITY
+
+
+
+
+
+
+
+Current liabilities:
+
+
+
+
+
+
+
+Current portion of long-term debt
+
+$ 4,575
+
+$ 4,575 Current portion of operating lease liability
+
+1,407
+
+- Accounts payable
+
+4,359
+
+4,127 Accrued payroll and related costs
+
+9,828
+
+7,728 Other accrued liabilities
+
+1,575
+
+1,476 Total current liabilities
+
+21,744
+
+17,906
+
+
+
+
+
+
+
+
+
+Long-term liabilities:
+
+
+
+
+
+
+
+Long-term debt, less current portion, net
+
+22,547
+
+34,129 Contingent consideration liability
+
+-
+
+6,069 Long-term operating lease liability, less current portion
+
+3,686
+
+- Long-term accrued income taxes
+
+204
+
+204 Deferred income taxes
+
+1,082
+
+- Total liabilities
+
+49,263
+
+58,308
+
+
+
+
+
+
+
+
+
+Shareholders' equity:
+
+
+
+
+
+
+
+Common stock, par value $0.01 per share
+
+127
+
+126 Additional paid-in capital
+
+21,700
+
+20,829 Retained earnings
+
+26,485
+
+17,614 Accumulated other comprehensive income (loss)
+
+(309)
+
+(119) Treasury stock, at cost
+
+(4,187)
+
+(4,174) Total shareholders' equity
+
+43,816
+
+34,276 Total liabilities and shareholders' equity
+
+$ 93,079
+
+$ 92,584
+
+
+
+
+
+
+
+
+
+
+
+MASTECH DIGITAL, INC. CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS (Amounts in thousands, except per share data) (Unaudited)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Three Months ended September 30,
+
+Nine Months ended September 30,
+
+2019
+
+2018
+
+2019
+
+2018
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Revenues $ 49,543
+
+$ 44,292
+
+$ 143,214
+
+$ 132,519
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cost of revenues 37,214
+
+33,582
+
+107,996
+
+100,656
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Gross profit 12,329
+
+10,710
+
+35,218
+
+31,863
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Selling, general and administrative expenses 9,259
+
+8,204
+
+21,699
+
+22,462
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Income from operations 3,070
+
+2,506
+
+13,519
+
+9,401
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Other income/(expense), net (380)
+
+(427)
+
+(1,441)
+
+(1,546)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Income before income taxes 2,690
+
+2,079
+
+12,078
+
+7,855
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Income tax expense 741
+
+459
+
+3,207
+
+2,038 Net income $ 1,949
+
+$ 1,620
+
+$ 8,871
+
+$ 5,817
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Earnings per share:
+
+
+
+
+
+
+
+
+
+
+
+
+
+Basic $ 0.18
+
+$ 0.15
+
+$ 0.80
+
+$ 0.53 Diluted $ 0.17
+
+$ 0.14
+
+$ 0.79
+
+$ 0.52
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Weighted average common shares outstanding:
+
+
+
+
+
+
+
+
+
+
+
+
+
+Basic 11,039
+
+10,966
+
+11,022
+
+10,938 Diluted 11,205
+
+11,217
+
+11,198
+
+11,153
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MASTECH DIGITAL, INC. RECONCILIATION OF GAAP MEASURES TO NON-GAAP MEASURES (Amounts in thousands, except per share data) (Unaudited)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Three Months ended September 30,
+
+Nine Months ended September 30,
+
+
+
+
+
+
+
+2019
+
+2018
+
+2019
+
+2018
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+GAAP Net Income $ 1,949
+
+$ 1,620
+
+$ 8,871
+
+$ 5,817
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Adjustments:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Amortization of acquired intangible assets 673
+
+673
+
+2,017
+
+2,055
+
+
+
+
+
+Stock-based compensation 263
+
+116
+
+766
+
+341
+
+
+
+
+
+Reduction of acquisition transaction expenses (110)
+
+-
+
+(110)
+
+(140)
+
+
+
+
+
+Goodwill impairment -
+
+-
+
+-
+
+7,738
+
+
+
+
+
+Revaluation of contingent consideration liability -
+
+-
+
+(6,069)
+
+(9,106)
+
+
+
+
+
+Income taxes adjustments (225)
+
+(208)
+
+885
+
+(235)
+
+
+
+Non-GAAP Net Income $ 2,550
+
+$ 2,201
+
+$ 6,360
+
+$ 6,470
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+GAAP Diluted Earnings Per Share $ 0.17
+
+$ 0.14
+
+$ 0.79
+
+$ 0.52
+
+
+
+Non-GAAP Diluted Earnings Per Share $ 0.23
+
+$ 0.20
+
+$ 0.57
+
+$ 0.58
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Weighted average common shares outstanding:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+GAAP Diluted Shares 11,205
+
+11,217
+
+11,198
+
+11,153
+
+
+
+Non-GAAP Diluted Shares 11,205
+
+11,217
+
+11,198
+
+11,153
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MASTECH DIGITAL, INC. SUPPLEMENTAL FINANCIAL INFORMATION (Amounts in thousands) (Unaudited)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Three Months ended September 30,
+
+Nine Months ended September 30,
+
+
+
+
+
+2019
+
+2018
+
+2019
+
+2018
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Revenues:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Data and analytics services $ 7,080
+
+$ 5,787
+
+$ 19,502
+
+$ 18,442
+
+IT staffing services 42,463
+
+38,505
+
+123,712
+
+114,077
+
+
+
+Total revenues $ 49,543
+
+$ 44,292
+
+$ 143,214
+
+$ 132,519
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Gross Margin %:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Data and analytics services 45.7%
+
+44.5%
+
+45.8%
+
+43.7%
+
+IT staffing services 21.4%
+
+21.1%
+
+21.3%
+
+20.9%
+
+
+
+Total gross margin % 24.9%
+
+24.2%
+
+24.6%
+
+24.0%
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Segment Operating Income:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Data and analytics services $ 1,530
+
+$ 1,325
+
+$ 3,856
+
+$ 4,511
+
+IT staffing services 2,103
+
+1,854
+
+5,501
+
+5,437
+
+
+
+Subtotal 3,633
+
+3,179
+
+9,357
+
+9,948
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reduction of acquisition transaction expenses 110
+
+-
+
+110
+
+140 Amortization of acquired intangible assets (673)
+
+(673)
+
+(2,017)
+
+(2,055) Goodwill impairment -
+
+-
+
+-
+
+(7,738) Revaluation of contingent consideration liability -
+
+-
+
+6,069
+
+9,106 Interest expense and other, net (380)
+
+(427)
+
+(1,441)
+
+(1,546) Income before income taxes $ 2,690
+
+$ 2,079
+
+$ 12,078
+
+$ 7,855
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+For more information, contact:
+
+Donna Kijowski
+
+Manager, Investor Relations
+
+Mastech Digital, Inc.
+
++1-888-330-5497
+
+SOURCE Mastech Digital, Inc.

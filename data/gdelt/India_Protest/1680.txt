@@ -1,0 +1,3 @@
+In Fortville, a building with re-purpose: Library becomes arts and music center
+
+Changes to the SunCommercial's back end processing means the e-edition is getting a facelift. The biggest change is the e-edition, by default, is now presented in Text view.

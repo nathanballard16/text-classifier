@@ -1,0 +1,21 @@
+Mark Zuckerberg plans to integrate WhatsApp, Instagram and Facebook Messenger: Report
+
+According to a report by the New York Times, the move should allows Facebook’s CEO, mark Zuckerberg to assert his control over the company’s various divisions.
+
+Highlights
+
+Facebook may be planning to integrate WhatsApp, Instagram and Facebook Messenger
+
+The services are said to continue to operate as a stand-alone apps
+
+This will reportedly allow users to communicate across platforms
+
+It looks like Facebook may be planning to integrate WhatsApp, Instagram and Facebook Messenger. According to a report by the New York Times, the move should allow Facebook’s Chief Executive, Mark Zuckerberg to assert his control over his company’s multiple divisions. Sources told the publication that while the services will continue to operate as stand-alone apps,the underlying technical infrastructure will be unified. This will reportedly allow users to communicate across the platforms for the first time.
+
+The report notes that the plan is currently in the early stages with the goal of completion by the end of the this year, or early next year. It also notes that it will require reconfiguration of how WhatsApp, Instagram and Facebook Messenger function at a basic levels. It is further noted that all apps should incorporate end-to-end encryption, which would protect messages from being read by anyone other than the participants.
+
+The New York Times’ report notes that by integrating the apps, Zuckerberg hopes that it increase Facebook’s utility and keep users engaged within the platform itself. This in turn would reduce they need for people to use rival messaging platforms.
+
+However, integrating the services does bring up questions regarding privacy and how data will be shared between the services and Facebook. The report notes that while WhatsApp only uses a phone number, while Facebook and Instagram require users to provide details about their identities. An interesting point that was brought up in the report is how the company plans to combat fake news spreading on the platform, especially since all three platforms will be integrated.
+
+The spread of fake news on WhatsApp is a big problem for Facebook and the company has taken steps to curb the problem. This includes limiting the number of people a certain message can be forwarded to. A feature that was initially exclusive to India, but was recently rolled out globally.

@@ -1,0 +1,81 @@
+Coming soon! AMCA, India's Gen-5 fighter
+
+While its operating radius remains secret, a back-of-the-envelope calculation indicates it can easily strike targets 1,000 kilometres away and return to base.
+
+Ajai Shukla reports.
+
+IMAGE: The Indian Air Force's Light Combat Aircraft Tejas approaches to land at the Hindon air force station on the outskirts of New Delhi. Photograph: Anushree Fadnavis/Reuters
+
+With the Indian Air Force already operating the Tejas Mark 1 fighter, the Aeronautical Development Agency developing the Tejas Mark 2 and Hindustan Aeronautics building the interim Tejas Mark 1A, there have been important breakthroughs in India's most ambitious fighter programme: the futuristic Advanced Medium Combat Aircraft, AMC).
+
+Girish Deodhare, who heads ADA, the Defence R&D Organisation agency that oversees the Tejas and AMCA programmes, briefed me on the capabilities and development of the AMCA -- a stealthy, fifth-generation (5-gen), medium weight fighter that is slated to be a match for any adversary in the skies.
+
+"After eight years of design work, we have completed the stealth shaping of the AMCA. We are now building a full scale model of the fighter, in order to measure its 'radar cross section' (a measure of an object's visibility to radar)," says Deodhare.
+
+The ADA chief said the AMCA's design is now mature and its internal systems are laid out.
+
+That clears the way for its detailed design, followed by metal cutting -- the symbolic start of constructing a flying prototype.
+
+"The AMCA's first flight is targeted for 2024-2025," says Deodhare.
+
+"We plan to build five prototypes for a flight-testing programme that would take about four years. By 2028-2029, we plan to begin series manufacture," adds Deodhare.
+
+A 5-gen fighter is characterised by four advanced capabilities. It is stealthy, or near-invisible to enemy radar; it can 'supercruise', or fly faster than the speed of sound without engaging its engines' fuel-guzzling afterburners; it has advanced avionics and sensors with network centric operations, coupled with artificial intelligence, to enhance the pilot-aircraft interface, allowing a single pilot to fly and fight the aircraft; and it can detect and engage targets from long distances, outranging its adversaries.
+
+Stealth fighters are most crucial in the opening stages of a war, when they take advantage of their invisibility to enter enemy airspace and strike enemy radars, air bases and control centres.
+
+With air superiority thus obtained, 'non-stealthy' fighters like the Sukhoi-30MKI can fly into enemy airspace, without incurring heavy casualties, to strike targets like roads, railways, airfields, depots and ground forces.
+
+To achieve stealth, a 5-gen fighter is shaped to scatter radar waves, rather than reflect them back.
+
+Special materials and paints further reduce radar reflectivity.
+
+In stealth mode, a 5-gen fighter conceals its fuel and weapons in an internal bay, since carrying them under its wings, as conventional fighters do, creates protrusions that reflect radar waves and compromise stealth.
+
+While the AMCA would be a 25-tonne fighter, Deodhare says it would have an "all-up-weight" of just 20 tonnes in stealth mode, when it would carry just one-and-a-half tonnes of weaponry concealed in internal weapon bays.
+
+In "non-stealth mode", another five tonnes of weaponry or fuel could be carried on external stations, under its wings.
+
+The AMCA would be able to carry up to 6.5 tonnes of fuel in internal tanks.
+
+While its operating radius remains secret, a back-of-the-envelope calculation indicates it can easily strike targets 1,000 kilometres away and return to base.
+
+In "non-stealth" mode, it can carry an additional 1,200 to 1,300 litres in its internal bays, with its weapons load mounted on external, under-wing stations, thus operating as a potent long-range bomber.
+
+A key challenge in the AMCA programme is to develop a new engine, powerful enough to permit super-cruising.
+
+For now, AMCA designers are working with twin General Electric F-414 engines -- which is also being used, in a single-engine configuration, to power the Tejas Mark 2.
+
+However, this engine is not powerful enough for super-cruising in all configurations.
+
+"Each F-414 engine generates a maximum thrust of 98 KiloNewtons (KN), and in Indian climatic conditions that effectively reduces to 90 KN. We have calculated that an AMCA, with the configuration the IAF has specified, requires a thrust of about 220 KN (in Indian conditions) for super-cruising," says Deodhare.
+
+"That means we need twin engines, each generating 110 KN thrust in Indian conditions," adds Deodhare.
+
+A clutch of DRDO laboratories, led by the Gas Turbine Research Establishment, Bengaluru, is working to develop the AMCA engine.
+
+With the Kaveri engine, GTRE had managed to generate a maximum thrust of 83 KN.
+
+Now the target is 50 per cent higher.
+
+Then defence minister Manohar Parrikar had estimated the AMCA's development cost at about $4 billion -- a major share of which would go into the engine.
+
+In 2015, India harnessed American expertise by setting up a joint working group to co-develop jet engine technology.
+
+But on October 24, US Under Secretary of Defence Ellen Lord revealed the JWG had been scrapped since US export control laws safeguarded the technology that the DRDO wanted.
+
+There is also an expectation, so far unrealised, that French engine maker, Safran, could assist with developing a suitable jet engine, as a part of its offset obligations relating to the purchase of 36 Rafale fighters.
+
+A key decision in designing the AMCA relates to the trade-off between stealth and manoeuvrability.
+
+"As other stealth fighter designers have discovered earlier, the edge matching of surfaces and incorporation of an internal weapons bay that characterises stealth design also compromise the fighter's aerodynamics, inhibiting its manoeuvrability," says Deodhare.
+
+"The IAF understands that, and has been sitting at the table with ADA in order to arrive at a mutually acceptable blend of performance and stealth," adds Deodhare.
+
+Facilitating this cooperation is the IAF's new leadership, headed by Air Chief Marshal R K S Bhadauria, which includes several officers who have been test pilots for the Tejas programme, and have an in-depth knowledge of the issues. ADA officials point out that, having already mastered a range of aerospace technologies in the Tejas programme, the AMCA team is free to focus tightly on the Gen-5 challenges.
+
+The technologies yielded by the Tejas programme include: "Unstable aerodynamic design" for extra agility; complex control laws and a quadruplex digital flight control system; light composite materials for aero-structures; a glass cockpit with digital instrumentation; an environment control system with an on-board oxygen generating system; and advanced avionics that help the pilot switch quickly between air-to-air and air-to-ground roles.
+
+Also mastered is the ability to do flight testing of fighter aircraft rapidly, without compromising safety.
+
+This experience will help in bringing the AMCA from design to induction without delay.

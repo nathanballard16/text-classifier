@@ -1,0 +1,61 @@
+Cyber warfare attacks: How US have ramped up cyberattacks under Trump
+
+The US has markedly ramped up the number of offensive cyber attacks it launches under the presidency of Donald Trump, including strikes on Iranian targets and malicious code deployed on an electrical power grid in Russia.
+
+Placement of potentially crippling malware code deep inside computer networks vital to core infrastructure of its adversaries allows the US to conduct cyber attacks if a conflict arises.
+
+According to an NBC report which cited unnamed insiders, the US military has launched more cyber operations in the first two years of the Trump administration than it did in eight years under Barack Obama.
+
+An F/A-18 fighter jet taxis on the deck of the USS Abraham Lincoln aircraft carrier in the Arabian Sea. US President Donald Trump last week called off air strikes on Iran, deciding instead to launch cyber attacks on Iranian targets. (AAP)
+
+Greg Austin, professor of cyber security, strategy and diplomacy at the University of New South Wales, told nine.com.au that since 2018 the US had noticeably upped its cyber warfare offensive operations.
+
+Elite cyber units in the NSA now have a mandate to "explicitly punish" countries who attack the US, Professor Austin said. The US had shifted course by making a point of announcing who it had attacked, he added.
+
+"The US has a list of four countries which are the target of this persistent cyber deterrence initiative, Russia, China, North Korea and Iran."
+
+Last week the US declared it had launched cyber strikes on targets in Iran, after Iranian forces allegedly blew up two oil tankers in the Gulf earlier this month. News of the cyber attacks came after Trump called off traditional air strikes in a dramatic last-minute decision.
+
+"The attack in cyberspace will have done more damage to Iranian confidence than a traditional strike using bombs and missiles against hard targets," Professor Austin said.
+
+Russian President Vladimir Putin and leader of the DPRK Kim Jong-un meet during an official reception. Russia and North Korea are known to be key targets of elite US cyber units. (AAP)
+
+Who is in top tier of cyber attackers?
+
+Iran is widely viewed as being part of a global top tier of offensive cyber attackers.
+
+However, Professor Austin said Iran, and even China, was "weak" in defending against attacks. The US has been increasingly keen over the past 18 months to exploit its advantage in this area, he added.
+
+"The US is very strong on defence but not invulnerable.
+
+"The bad news for the world is that defence in cyberspace is very difficult - which is why we have all these breaches."
+
+Professor Austin said Australia, as part of the Five Eyes alliance, had "a much higher standard of cyber defence" than most other countries, who have proven to be highly adept offensively.
+
+Earlier this month The New York Times revealed the US was escalating cyber attacks on Russia's electric power grid and had placed potentially devastating malware inside the Russian system.
+
+In turn, US intelligence officials believe Russia may have capability to turn the lights out on important blocks of the US electrical grid through malware it has silently loaded into American networks.
+
+The US is also known to have launched cyber attacks on North Korea's ballistic missile facilities and is believed to have been responsible for crippling an Iranian nuclear facility in 2010.
+
+Islamic State fighters clash with US-backed Syrian Democratic Forces fighters. Australian cyber units "helped shaped a critical battle" after launching attacks on IS networks. (AAP)
+
+Does Australia have offensive cyber warfare capability?
+
+In 2016, under then Prime Minister Malcom Turnbull, Australia announced it had developed offensive cyber capabilities.
+
+The Australian Signals Directorate (ASD) has conducted cyber strikes against Islamic State in Syria and Iraq, in tandem with the Australian Defence Force.
+
+Mike Burgess, ASD Director-General, said specialised hacking units inside his organisation "helped shaped a critical battle" and "defeat terrorists on the other side of the world".
+
+"Just as the Coalition forces were preparing to attack the terrorists' position, our offensive cyber operators were at their keyboards in Australia ... Daesh (ISIS) communications were degraded within seconds. Terrorist commanders couldn’t connect to the internet and were unable to communicate with each other," Burgess said in his keynote speech at the Lowy Institute.
+
+"While the effect was almost instantaneous, it took weeks of planning by specialist ASD and ADF personnel to make sure it all went exactly to plan."
+
+How much has Australia invested in cyber security?
+
+Burgess also detailed ASD cyber attacks on Islamic State's media unit, with Australian operative penetrating ISIS servers to destroy video and other propaganda assets of the extremist group.
+
+In 2016, the Australian government has pledged $400m over ten years to bolster its cyber capabilities, including a joint ASD-ADF 1000-strong cyber unit by 2026.
+
+But on the back of several high-profile hacks in Australia, believed to have emanated from China and Russia, some critics wonder if Canberra has assigned a large enough war chest to its strategy.

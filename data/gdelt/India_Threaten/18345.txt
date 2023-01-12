@@ -1,0 +1,49 @@
+CAA, Article 370 flavoured up social media platforms this year
+
+The town squares of Twitter, Facebook, and WhatsApp were buzzing this year with people debating issues like Citizenship Amendment Act (CAA) and scrapping of Article 370 with memes going viral, even as these companies battled the menace of fake news, data breaches, and attempts by the government to frame rules to make social media platforms more accountable.
+
+With over 451 million Internet users (at the end of March 2019), India is second only to China in terms of monthly active internet users, as per estimates of industry body Internet and Mobile Association of India (IAMAI).
+
+ALSO READ Easy Way to Protect Your Privacy from Social Media Platforms
+
+Interestingly, about 66 million of these are children aged between 5-11 years, who access internet on devices of their family members, constituting about 15 percent of India's active Internet userbase.
+
+Indians are creating and consuming content on their mobile phones -- right from TikTok videos and Netflix shows to news reports shared by friends and family members on various WhatsApp groups.
+
+A large number of users are now joining the Internet bandwagon and conversing in their local languages. This has spurred the availability of vernacular language content online.
+
+According to ShareChat co-founder and CEO Ankush Sachdeva, more than 90 percent of the next 500-600 million Internet users are expected to come from a non-English background.
+
+"Going forward, user generated content will enjoy a better time share from non-English speaking users in comparison to professionally generated content. Video is also emerging as a significant contributor in the years to come. We have also seen a spike in both creation and consumption of video content on ShareChat, and it contributes more than 30 percent of the entire content creation on the platform," he added.
+
+TikTok, the short video app that is popular among youngsters, was banned for a couple of days in April following a Madras High Court order. While the app was later restored on app stores, TikTok again faced regulatory trouble when the government sent it a notice along with a set of questions regarding the alleged misuse of the platform for "anti-national activities" in India. The company had responded to the notice.
+
+Year 2019 was also critical for social media platforms given that the Lok Sabha polls were held. In the past, Facebook had faced allegations of its platform being misused to influence the elections in the US. The Indian government minced no words and had warned social media companies of strict action against such abuse.
+
+Stay Updated Get stories of change makers and innovators from the startup ecosystem in your inbox Please fill in this field. {{#error}} {{error}} {{/error}} {{^error}} Something went wrong. Try again later {{/error}} Welcome Onboard ! You have been successfully registered for our daily newsletter.
+
+Digital platforms like Google and Facebook vowed they will offer details of political advertisements on their platform to bring in transparency, and took a slew of measures to strengthen efforts around election integrity.
+
+With technologies like artificial intelligence and Big Data analytics, the massive amount of user data from these social media platforms is available for marketers to design newer and more targeted campaigns.
+
+To ensure that user data is not misused, the government had last year sought to amend the IT rules for social media platforms and messaging apps -- or intermediaries as the legal term goes -- which would be required to deploy tools to "identify" and curb unlawful content as well as follow stricter due diligence practices.
+
+Udbhav Tiwari, Policy Advisor at Mozilla (the not-for-profit entity behind Firefox web browser), rued there was a significant push back from the industry and civil society to these rules during the public consultation, but no new draft has been made available in the public domain despite their enactment being imminent.
+
+Another piece of legislature that has the industry and civil society concerned is the Personal Data Protection Bill. Some of the proposals will give investigating agencies unbridled powers to carry out surveillance on private data that has spooked companies and experts who argue that such overarching access is against established principles and is a dramatic step backwards.
+
+While the industry may cry foul at these attempts, these steps were probably not without a reason. After the 2018 debacle where data of about 87 million Facebook users globally and 5.6 lakh in India was compromised, 2019 saw a similar event unfolding at its group company WhatsApp.
+
+In October, WhatsApp sued Israeli surveillance firm NSO Group, accusing it of helping those buying its spyware Pegasus break into the phones of roughly 1,400 users across four continents. The targets of the hacking included diplomats, political dissidents, and journalists, along with military and government officials.
+
+In India, 121 users are believed to have been targeted. India is home to 400 million WhatsApp users and more than 328 million Facebook users.
+
+The Indian government, on its part, had said it wants to conduct an audit of WhatsApp's security systems. It also wants it to allow traceability of messages in the wake of circulation of fake news -- a request that the company has declined arguing that such a move would undermine the end-to-end encryption and the private nature of the platform, creating potential for serious misuse.
+
+The role that traditional media like newspapers played in the yesteryears of coalescing people is now being taken over by social media. Whether it is protests in Chile or New Delhi (against the amended Citizenship Act), it has played an important role in providing a platform to people to air their views.
+
+However, it seemed that the government felt blocking Internet was a solution to curb the dissenting voices. According to reports, Internet has been shut down 95 times in India this year, right from Kashmir to Assam and even the capital. This led to more fury as many millennials believe that Internet is part of their basic rights.
+
+Year 2020 will be important for many reasons. There is no doubt that these platforms will continue to be under scrutiny by the government for a variety of reasons -- be it safety of user data or providing a medium to speak up against the regime. What needs to be seen is whether they can continue to be independent in the years to come.
+
+(Edited by Megha Reddy)

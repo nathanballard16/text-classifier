@@ -1,0 +1,41 @@
+Protection From SARFAESI Act Not Available To 'Tenant-In-Sufferance' : SC Clarifies Interplay Between SARFAESI And Tenancy Laws [Read Judgment]
+
+Clarifying the interplay between laws of tenancy and debt recovery, the Supreme Court has held that protection from recovery proceedings under the SARFAESI Act is not available to a 'tenant-in-sufferance', i.e a tenant who continues to be in possession even after the expiry of the lease period.
+
+"The operation of the Rent Act cannot be extended to a 'tenant ­in sufferance' vis-­a-­vis the SARFAESI Act, due to the operation of Section 13(2) read with Section 13(13) of the SARFAESI Act. A contrary interpretation would violate the intention of the legislature to provide for Section 13(13), which has a valuable role in making the SARFAESI Act a self­executory instrument for debt recovery. Moreover, such an interpretation would also violate the mandate of Section 35, SARFAESI Act which is couched in broad terms.", held the Court.
+
+The bench comprising Justice NV Ramana, Justice Mohan M. Shantanagoudar and Justice Indira Banerjee was considering an appeal against the order of the Chief Metropolitan Magistrate, Esplanade, Mumbai rejecting the application of a tenant seeking to stay the execution of order passed under Section 14 of Securitization and Reconstruction of Financial Assets and Enforcement of Security Interest Act (SARFAESI Act).
+
+The Court upheld the view expressed by the Magistrate that the claim of tenancy was not bonafide. There was no registered instrument supporting the claim of tenancy; the tenancy claim was never raised during the pendency of SARFAESI proceedings. The Court therefore held that it was an attempt to stall the recovery proceedings by the Bank.
+
+As regards the claim of oral agreement of tenancy, the Court held as follows :
+
+"In any case, considering the counterfactual pleaded by the appellant­ tenant himself, that he was a tenant who had entered into an oral agreement, such tenancy impliedly does not carry any covenant for renewal, as provided under Section 65­A of T.P. Act. Therefore, in any case, Section 13 (13) SARFAESI Act bars entering into such tenancy beyond January, 2012. As the notice under Section 13 (2) SARFAESI Act was issued on 30.04.2011, subsequent reckoning of the tenancy is barred. Such person occupying the premises, when the tenancy has been determined, can only be treated as a 'tenant in sufferance'. We should note that such tenants do not have any legal rights and are akin to trespassers "
+
+In the absence of a registered instrument, if the tenant relies on an unregistered instrument or an oral agreement accompanied by delivery of possession, the tenant is not entitled to possession of the secured asset for more than the period prescribed under Section 107 of the T.P. Act, the bench added.
+
+SARFAESI Act Overrides Rent Acts Also?
+
+In Vishal N. Kalsaria v. Bank of India, it was held that even though Section 35 of the SARFAESI Act has a non obstante clause, it will not override the statutory rights of the tenants under the Rent Control Act. The non obstante clause under Section 35 of the SARFAESI Act only applies to laws operating in the same field (of debt recovery), it was observed.
+
+Partly disagreeing with this view, the bench in this case [Bajarang Shyamsunder Agarwal vs. Central Bank Of India], said:
+
+While we agree with the principle laid out in Vishal N. Kalsaria Case (supra) that the tenancy rights under the Rent Act need to be respected in appropriate cases, however, we believe that the holding with respect to the restricted application of the non obstante clause under section 35 of SARFAESI Act, to only apply to the laws operating in the same field is too narrow and such a proposition does not follow from the ruling of this Court in Harshad Govardhan Case (supra).
+
+Interplay Between SARFAESI, TP and Rent Act
+
+The bench examined the interplay between SARFAESI Act, the Transfer of Property Act and the Rent Act and held that the interplay between these Act have to be "reconciled" in the following manner :
+
+If a valid tenancy under law is in existence even prior to the creation of the mortgage, the tenant's possession cannot be disturbed by the secured creditor by taking possession of the property. The lease has to be determined in accordance with Section 111 of the TP Act for determination of leases. As the existence of a prior existing lease inevitably affects the risk undertaken by the bank while providing the loan, it is expected of Banks/Creditors to have conducted a standard due diligence in this regard. Where the bank has proceeded to accept such a property as mortgage, it will be presumed that it has consented to the risk that comes as a consequence of the existing tenancy. In such a situation, the rights of a rightful tenant cannot be compromised under the SARFAESI Act proceedings. If a tenancy under law comes into existence after the creation of a mortgage, but prior to the issuance of notice under Section 13(2) of the SARFAESI Act, it has to satisfy the conditions of Section 65¬A of the T.P. Act. (Sec.65A says, among other things, that tenancy can be created by mortgagor during the period of mortgage only if the mortage deed does not prohibi it.) In any case, if any of the tenants claim that he is entitled to possession of a secured asset for a term of more than a year, it has to be supported by the execution of a registered instrument. In the absence of a registered instrument, if the tenant relies on an unregistered instrument or an oral agreement accompanied by delivery of possession, the tenant is not entitled to possession of the secured asset for more than the period prescribed under Section 107 of the T.P. Act.
+
+The tenant may prove his existing rights by producing other relevant evidence
+
+The Court also recognised the legal position, as laid out in the Vishal N. Kalsaria Case (supra), that in the absence of a written lease deed the tenant may prove his existing rights by producing other relevant evidence before the Magistrate.
+
+However, in this case, it noted that at the time when the SARFAESI Act proceedings were pending, the factum of tenancy was never revealed by the parties and it was only after passing of the order of the Chief Metropolitan Magistrate, that the tenant started agitating his rights before the Small Causes Court based on a completely different fact scenario, without a whisper of the alleged tenancy under the concluded Section 14, SARFAESI Act proceedings. The bench finally dismissed the appeal holding that it is unable to accept the claim of bona fide tenancy of the tenant in this case.
+
+
+
+
+
+Click here to Read/Download Judgment

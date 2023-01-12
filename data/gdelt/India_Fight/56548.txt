@@ -1,0 +1,33 @@
+Counterstriking aerial mean-machines: How neutralising swarm drone attacks will decide future wars
+
+Last year a Chinese designed DJI unmanned aerial vehicle (UAV) with explosives strapped to it was reportedly used in a failed assassination attempt on the president of Venezuela.
+
+By Debajit Sarkar
+
+On 14 September 2019, several drones were used to swarm attack two Saudi Aramco oil processing facilities at Abqaiq and Khurais in eastern Saudi Arabia. The attack caused large fires at the processing facility forcing the authorities to shut them down. Consequently, Saudi Arabia’s oil production, representing about 5% of global oil production fell by half. A few weeks later, in the Indian state of Punjab, law enforcement authorities recovered two drones that flew in from Pakistan and dropped arms and ammunitions inside Indian territory. Last year a Chinese designed DJI unmanned aerial vehicle (UAV) with explosives strapped to it was reportedly used in a failed assassination attempt on the president of Venezuela.
+
+These are just three well documented, recent incidents that highlight the rising threat of massive disruption posed by swarms of cheap, unmanned aerial vehicles. Over the years both state and non-state actors are increasingly using drones to carry out swarm attacks on their adversaries.
+
+How will Swarm drone attack change warfare
+
+The militaries of NATO and China are already testing unified, co-operative drones that can collaborate and work collectively to devastate adversaries. Inexpensive, intelligent and inspired by swarms of insects, these new drones could revolutionize future battles. From swarming the sensors of adversaries with a torrent of targets, to scattering out over huge, massive areas for search-and-rescue operations, they could have a whole gamut of roles on and off the battlefield.
+
+As of now, swarm drones are being directed to their targets by a human controller. However, with the rapid advancement made by artificial intelligence and machine learning algorithms the man in the loop will no longer be required. Instead, these swarm drones will be able to make decisions among themselves.
+
+The Indian scenario
+
+From the point of view of the Government of India, the biggest concern remains Pakistan. Battlefield innovation and adaptation are signatures of Pakistan based terrorist groups. These groups ingeniously convert commercially available stuff into weapons, allowing them to inexpensively wage deadly guerrilla-war campaigns against the more technologically advanced Indian Army. And as the event in Punjab proves, Pakistan is already exploiting the idea of using drones to inflict damage on India.
+
+Countering Swarm drone tactics
+
+To be sure, swarm drones are not that simple. They need to be able to operate together in a group but not get in each other’s way. They need to be smart enough to get a job done but should also be cheap and disposable. To be effective they will need a long flight range otherwise their launch systems could easily be destroyed before they launch their payloads. A small number of vehicles armed with 57mm guns with AHEAD like air burst rounds could critically deplete any massive drone attack very fast as each shell could disperse fragments over a 3 to the 5-meter radius and even slight damage would break a UAV and bring it down. Add to those EMP weapons that simply fry the brains of the drones. Such hard kill plus soft kill solutions will have to be used if swarms of drones are used by an adversary to attack a major Indian city.
+
+To address this growing threat the Indian government is reportedly purchasing Counter UAV (C-UAV) systems from the European Union. However, given the initial success of government programs like Innovations for Defence Excellence or iDEX, it would be nice if the government throws open the challenge of developing an indigenous C-UAV system designed to neutralize swarm drone attacks, to the Indian private sector. Most munitions carried by these swarm drones are not armed until they approach their target to prevent it from being set off by various systems that activate proximity fuses in munitions.
+
+How hard would it be for Indian startups to develop medium-sized drones armed with 40mm grenade launchers equipped with forward-firing fragmentation grenades that auto detonates far from the muzzle of the gun. It would be the airborne counterpart of a claymore mine that throws a cloud of high-speed fragments forward to deal with a range of soft targets over a short distance. Each drone could carry several grenades and could be larger and quicker than these tiny drones and could fly in their own swarms of hundreds of craft individually hunting Indian airspace for drones to shoot down.
+
+Similarly, these drones could also fire an EMP device into a swarm of drones. EMP takes them out en masse. EMP jammer beams and rounds, perhaps artillery sized shells so they pulse away from the target and don’t damage local infrastructure and of course the blatantly obvious, attack the launch platform before these things are released. If the attacker wants to protect the drones from EMP attack they will need to be bigger and heavier, but then they will be less effective.
+
+The thing is that new technology can be applied in defence as well as attack. An Indian swarm of anti-drone drones could be used to take out the adversaries’ swarm drones. Only by adapting to the new reality of the enemy and orienting on the full breadth of the attack strategy will India achieve any lasting success.
+
+(The author is a subject matter expert on competitive intelligence and market research in the aerospace and defence industry. Views expressed are personal.)

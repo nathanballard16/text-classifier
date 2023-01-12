@@ -1,0 +1,7 @@
+Samsung Galaxy A70 gets Night Mode and July security patch with latest update
+
+When Samsung first shipped its Galaxy A70 back in April it was missing a dedicated Night Mode resulting in sub-par low-light shots compared to other midrange devices. Now the company has begun pushing the latest firmware fix for the phone which brings the long-awaited Night mode and also adds the July security update. The A705GMDDU3ASG6 update comes in at 367 MB and is already live in India. It should make its way to other countries in the coming weeks.
+
+In addition to the Night mode function, Samsung has also added a dedicated QR scanner in the camera interface. Other points of focus with the new update include stability improvements and minor bug fixes. Some Indian users reported that the previous firmware update brought in several third-party bloat apps which can be uninstalled but it's still quite unusual. We’ll have to wait and see if the same process repeats this time around.
+
+Via

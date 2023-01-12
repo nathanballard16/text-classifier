@@ -1,0 +1,43 @@
+Swarms Of Indian Drones Being Designed To Take Out Targets Like Balakot
+
+The first ALFA-S drone prototypes are likely to be deployed from Hawk Advanced Jet Trainers
+
+Highlights Each swarm could have dozens of individual drones
+
+Sheer numbers of the swarm would overwhelm enemy defences
+
+ALFA-S swarming drones have two folding wings
+
+In a decade from now, swarms of unmanned Indian-made drones could enter enemy airspace, fly autonomously to their target and use their advanced artificial intelligence algorithms to seek out and launch coordinated attacks on targets such as the Jaish-e-Mohammed terror training camp in Balakot.
+
+Each swarm could have dozens of individual drones. If detected, some of the drones would be shot down, but the sheer numbers of the swarm would overwhelm enemy defences such as surface-to-air missile units to ensure a high probability of mission success.
+
+This isn't science fiction.
+
+A team of engineers and software experts at state-run Hindustan Aeronautics Ltd and NewSpace Research and Technologies, a Bengaluru based start-up looking at next-generation aviation technologies, is working furiously to fly the first Indian swarm drone prototypes in two years. The drones have a name - ALFA-S or Air-Launched Flexible Asset (Swarm).
+
+"This is the future of aerial warfare," said one of the project managers who asked not to be named. "With the increasing maturity of artificial intelligence technology, smart drones, like the ones we are looking at, will be able to at least partially replace pilots in some of the most dangerous missions. The Air Force will not need to sustain unacceptable levels of attrition during combat operations," said the project manager.
+
+The ALFA-S swarm drone project becomes particularly relevant "with the projected enhancement of Pakistan's air defence network" with Chinese HQ-9 surface-to-air missile system
+
+The ALFA-S swarming drones have two folding wings and are between 1 and 2 metres long. Several of the drones are fitted inside canisters mounted under the wings of Indian Air Force aircraft. The pilots fly to a point where they are safe from enemy aircraft and missiles and release the drones. The drones, which then deploy their wings, are powered by a battery which propels them to speeds of over a 100 kilometres per hour. The batteries are designed to last for a couple of hours by which time the drone swarms should be approaching their targets.
+
+The first drone prototypes are likely to be deployed from Hawk Advanced Jet Trainers being built, under licence, at Hindustan Aeronautics. Ultimately though, the drones are meant to be launched from any Indian Air Force aircraft - fighter jets and transports.
+
+"The drones are fully networked with each other through electronic data-links. Using their infrared and electro-optical sensors, they detect targets such as surface-to-air missile units, enemy radars and aircraft on the ground. Each drone is designed to be smart enough to 'learn' about what it detects before targets are assigned to individual drones," said the project manager.
+
+Each drone then carries out a suicide attack - hitting the target using the high-explosive warhead carried onboard.
+
+A lot of the technology being developed in-house presently is not available in the market. The United States, China, Russia and a few European countries are in the process of developing the first elements of their swarm-drone strike packages. "Tests in this domain are going on all across the world and no nation will share the knowledge of swarming technology with someone else," says one of the project designers of the ALFA-S system.
+
+The swarm drone project becomes particularly relevant "with the projected enhancement of Pakistan's air defence network, which may include the acquisition of the Chinese HQ-9 surface-to-air missile system."
+
+The HQ-9 is designed to intercept incoming aircraft after detecting them up to 200 km away. Taking on heavily defended airspace in the near-future "is bound to involve unmanned platforms with stealth features operating in a highly networked environment alongside fewer manned platforms."
+
+The plan to develop indigenous swarming drones is a part of the Combat Air Teaming System project or CATS, which has three distinct elements. In addition to the ALFA-S swarm drones, a robotic wingman, meant to accompany a manned fighter jet into combat is being also being developed.
+
+The final element of CATS is the development of an ultra-high altitude drone meant to remain flying for up to three weeks at a stretch while providing real-time images and video.
+
+The government strongly backs the Combat Air Teaming System initiative as part of the Make in India programme, which encourages Indian defence manufacturers to focus on core research and development projects towards the next-generation requirements of India's armed forces. In 2018, the Defence Ministry set up iDEX, or Innovations for Defence Excellence under the Defence Innovation Organisation, a not-for-profit company meant to provide high level policy guidance for high-tech indigenous ventures working on India's defence and aerospace needs.
+
+"Drones will increasingly define all forms of combat," said one of the project managers. "Our development of these technologies is at par with similar efforts around the world."

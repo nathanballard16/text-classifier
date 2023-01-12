@@ -1,0 +1,49 @@
+India pushes for alternatives to animals in biomedical research
+
+Policy News
+
+India pushes for alternatives to animals in biomedical research
+
+Organs-on-a-chip and other technologies are becoming reliable models for testing drug efficacy and toxicity.
+
+Gayathri Vaidyanathan
+
+doi:10.1038/nindia.2019.135 Published online 1 October 2019
+
+India's drug regulator currently requires new medicines be tested in rodents. © unoL/Shutterstock India has become the latest nation to explore using emerging technologies such as organs-on-a-chip to replace animals in research. Earlier this month, the national regulator for biomedical research recommended fast-tracking investments in technologies that can replace animals. Some Indian scientists have welcomed the plan, but they say that alternatives for drug toxicity and efficacy tests are not yet sufficient to replace animals.
+
+They also note that a move towards alternative technologies will require a substantial and costly overhaul of the drug-approval process in India, which currently requires medicines to be tested in rodents and primates or dogs before people.
+
+Emerging technologies that model complex human physiology — such as organoids and organs-on-a-chip, which are laboratory-grown versions of human tissues — are starting to rival, and in some cases outperform, animals in their ability to model human disease, according to the Indian Council of Medical Research (ICMR).
+
+In a discussion paper published in the Indian Journal of Medical Research1, a team representing the ICMR that includes Soumya Swaminathan, the council’s former director-general and now deputy director-general at the World Health Organization, argue that such technologies, and others including computer models that simulate drug toxicity, are more cost-effective and humane than animal testing. They therefore call for the government to establish centres of excellence for developing such approaches, and to increase funding and international collaborations for alternative technologies.
+
+The United Kingdom and the United States have national road maps for developing non-animal technologies, and in September the US Environmental Protection Agency announced plans to limit the use of animals in toxicity tests. Denmark, Brazil, Germany, Switzerland, Australia, China and Korea also have research programmes for developing alternative technologies.
+
+But only a small number of scientists work on such technologies in India. An ICMR committee formed of independent scientists, ICMR representatives and members of animal-rights groups is now considering a road map for multidisciplinary research into alternative technologies.
+
+Animal models falter
+
+The paper notes that after two decades of drug-discovery research using animals, India has not developed a single novel drug that has made it to market. This is probably in part because molecules that were safe and efficacious in animals were later found to be toxic or ineffective in humans, says Swaminathan.
+
+Some researchers think there are alternative technologies that are good enough to switch away from animal testing, at least for researching toxicity. “The value of animal testing is strongly overestimated,” says Thomas Hartung, director of the Center for Alternatives to Animal Testing at Johns Hopkins University in Baltimore, Maryland. Hartung has developed an algorithm as an alternative to animal testing that has successfully predicted the toxicity of tens of thousands of chemicals in human tissue — and in some cases has outperformed animal tests in terms of reliability. “Whenever an animal test has been systematically evaluated, the outcome was astonishingly poor,” he says.
+
+Technologies aren’t ready
+
+But Addicam Jagannadha Rao, an emeritus biochemist at the Indian Institute of Science in Bangalore, says that studying disease or toxicity in a dish or using organs on a chip does not show how drugs are metabolized in the whole body. “I am for the judicious use of animals,” says Rao.
+
+Amit Misra, a pharmacokinetics researcher at the Central Drug Research Institute (CDRI) in Lucknow, India, acknowledges that animal toxicity studies do not always translate well in humans. But he doesn’t think organs-on-a-chip or disease-in-a-dish models will be any better. Instead, he thinks toxicity studies in a small number of consenting patients should replace animal studies.
+
+But Hartung says new techniques that combine ‘organ chips’ with computational models of human metabolism are approaching a level of complexity that will allow researchers to study toxicity across the whole body.
+
+Before such tests can replace animal models, regulators that currently assess a drug’s toxicity and efficacy based on results in animals will have to validate non-animal models for each drug and disease condition, says Naibedya Chattopadhyay, an endocrinologist at CDRI. “That doesn’t happen overnight,” he says.
+
+Some alternative tests for studying toxicity have been approved by other regulators. The Organisation for Economic Cooperation and Development (OECD) Test Guidelines Programme has already approved a large number of in vitro, human-biology-based assays that member nations use to test drugs for regulatory decision making, says Charu Chandrasekera, executive director of the Canadian Centre for Alternatives to Animal Methods at the University of Windsor in Canada. Although India sets its own drug-testing requirements, they tend to follow international trends.
+
+Swaminathan acknowledges that more evidence is needed for non-animal technologies, but says that progress will come from better investment and guidance from regulators.
+
+The Indian branch of the animal advocacy group Humane Society International has been pushing the ICMR to promote research into alternatives to animal testing since 2016, says Alokparna Sengupta, deputy director of the society in Hyderabad and a member of the ICMR’s expert committee. In 2017, the ICMR and the society set up a committee headed by Swaminathan to consider the state of animal alternatives for research in India.
+
+But Swaminathan says that animal-rights groups were not the main driver behind the ICMR’s position on animal testing. “It was a scientific discussion, they were part of the discussion,” she says.
+
+[This article was first published in Nature.]

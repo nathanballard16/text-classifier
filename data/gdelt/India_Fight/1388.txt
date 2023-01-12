@@ -1,0 +1,27 @@
+The power of IoT
+
+As advancing technologies integrate deeper into the everyday functions of businesses, companies are faced with a paradigm shift towards a more intelligent and connected world.
+
+Amidst the maturing technologies leading Industrial Revolution 4.0 is Internet of Things (IoT), a sustainable ecosystem of connected devices and smart objects that work independently and can be accessed and controlled remotely.
+
+Leveraged optimally, this can help a business accelerate growth with solutions such as real-time monitoring, predictive maintenance, smart spaces, and connected products. It can help them create an environment that is local and global at the same time.
+
+By 2020, companies around the world will be spending $310 billion in IoT every year. Some key IoT trends can be expected to gain further traction.
+
+Centralised systems
+
+Enterprises today host a varying scale of workloads spread across networks that often function in silos. It thus becomes important for them to collect and analyse generated data, and integrate back-end business processes.
+
+Designed to address this need, a centralised IoT system solution can help businesses reduce their go-to-market cycle and increase the speed at which they innovate. It also helps them meet end-to-end security and scalability requirements – a key area of focus for most enterprises today.
+
+Today, IoT solutions often require devices to function in the real world while processing and decision-making happen on the cloud. With enterprises increasingly moving from Intelligent Cloud to Intelligent Edge computing, it is becoming possible for IoT devices to process data and take decisions themselves. This fundamental shift powers businesses to run data analytics directly on IoT devices, as opposed to the centralised cloud storage, allowing quicker processing and decision-making. Further support from Artificial Intelligence (AI) will enable scenarios such as detection of visual defects, objects, and visual anomalies.
+
+The challenge of utilising the true value of an ever-expanding IT infrastructure is becoming increasingly complex. Analytics is thus being used to counter this, by generating actionable, real-time insights, in a rich and intuitive visualised form.
+
+End-to-end security
+
+The network of connected devices is multiplying at a rapid rate. By 2020, this number can be expected to reach 30 billion. This leaves them vulnerable to security threats and makes near-instant provisioning difficult. The growing regulatory and compliance requirements further complicate management. Companies are addressing this with the help of end-to-end protection for IoT engagement — safeguarding the life-cycle of their devices and adding a host of sophisticated security features.
+
+For enterprises operating in the consumer-facing domain, they can add detailed geographical insights to applications, and leverage them to provide customers with superior service. Dynamic and automatically updating information, real-time alerts for incidents such as accidents and road diversions, and specialised routing that accounts for weight, height, and hazardous materials restrictions could be some such capabilities. Focused API improvements, new data source and layering models, data-driven styling of layers, spatial math library, support for geospatially accurate circles, and backward capabilities are some technical advancements that are making this possible.
+
+The writer is with Microsoft Corporation India (Pvt) Ltd.

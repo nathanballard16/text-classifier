@@ -1,0 +1,41 @@
+Beyond technology, CTO today heads business innovation: S Sankaranarayanan
+
+Suresh Sankaranarayanan, CTO of Kotak General Insurance has a remarkable experience of over two decades in Information Technology domain across Insurance, Manufacturing and Software sectors under his belt. He has worked with organizations like SBI General, ICICI Lombard, & Polaris Software Labs before coming on-board with Kotak General Insurance.
+
+In this exclusive interaction with Moneycontrol, Sankaranarayan sheds light on how the role of CTO has changed over the years and how it would evolve further.
+
+Q: How has the role of the CTO changed in the recent years, amidst changing technology and business landscapes?
+
+Sankaranarayanan: Historically, the CTO covered areas of Project Management, Procurement and was a pure technologist. Since then, the CTO’s role has undergone many significant transitions.
+
+In today’s world, most of the business ideas are conceived with the innate understanding that the it will be delivered on a technology platform. The various business problems are resolved by technology intervention only. Organisations are willing to invest in IT since one can derive huge savings in costs due to such investments. This places the technology platform at the centre of the organisation thereby pushing the CTO into a quasi-business role.
+
+CTO are now fully engaged in business and understand the intricacies very well. Responsive organisations and CTO’s have been engaged with the field force and customers to understand the shift in market dynamics.
+
+The CTO therefore wears two hats at the least. One of a Technologist – where he understands the technology and the implementation and second of a leader who understands where the technology will deliver the maximum results for business.
+
+Q: What are the new responsibilities and challenges that come along with this quasi-business role?
+
+Sankaranarayanan: I think one of the biggest challenges for the new CTO is bringing all the business stakeholders as project partners.
+
+Since technology solution cuts across various stakeholders, their management has become an integral part of the CTO’s job definition. It is very important to have all stakeholders on board for any successful implementation. An Implementations can be faster only with an all department buy-in.
+
+Today’s technology platforms are complex and require multiple integrations, therefore, communication management of changes across the rank and file is very important.
+
+Continuous cost reduction is another area of focus. Every organisation looks at cost reduction to enable better pricing and value to be delivered to its customers. Initiatives around cost reduction has to be mostly implemented through technology intervention. So, the question that runs in a CTO’s mind is “How do I achieve the same business outcome at a lower cost”
+
+Q: How does the CTO facilitate innovation and ensure it doesn’t fail?
+
+Sankaranarayanan: Every organisation needs to innovate and innovate smartly i.e. without impacting the current setup and systems. Innovations, by its very nature, are unpredictable as to whether they will meet the desired outcome or not. It’s the responsibility of the CTO to sandbox the innovation so that there is no negative fallout and only the successful ones make it to the main stay of the organisation.
+
+Here one sees the CTO playing the role of an experimenter by embracing Cloud-based solutions and trying the new workloads.
+
+Q: What will be the next wave of technologies that will disrupt the insurance sector in India?
+
+I think Cloud, AI and robotic process automation will continue to drive innovation and disruption in the insurance sector.
+
+Cloud will soon become the preferred destination for infrastructure and platform as a service, as companies move more critical workloads. While the entire Data Centre movement to the cloud could be some time away, I believe that companies will start shifting the new initiatives to the cloud for the following simple reasons – Co-existing with the current production setup, Lower Cost, & Scalability.
+
+Technologies like AI and machine learning will have greater use cases within the insurance sector, especially in eliminating frauds in claims, which is pressing issue currently. There are still multiple processes that require intensive processing through human intervention in insurance companies. RPA will help automate these processes to a large extent in the coming days.
+
+Another emerging trend is the use of IoT data for effectively delivering wellness programs. Wellness requires the integration of people, IoT devices and their health data, with trust being the most critical bonding factor. This is an emerging space and I expect it to mature over the next 3-5 years.

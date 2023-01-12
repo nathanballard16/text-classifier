@@ -1,0 +1,77 @@
+Facebook's Fact-Checking Efforts: Can They Be Effective?
+
+Cyberwarfare / Nation-State Attacks , Fraud Management & Cybercrime , Governance & Risk Management
+
+Facebook's Fact-Checking Efforts: Can They Be Effective?
+
+Sizing Up the Impact of Initiatives to Curb Fake News
+
+
+
+
+
+
+
+
+
+
+
+LinkedIn
+
+LinkedIn
+
+
+
+
+
+Get Permission
+
+
+
+It's far from clear whether Facebook's latest move to curb fake news in India ahead of the upcoming elections by expanding its engagement with third-party fact checkers will have much impact.
+
+See Also: Live Discussion | The Toll of Identity Sprawl in the Complex Enterprise
+
+Five new partners, including the India Today Group, a leading local media house, have been added to Facebook's fact-checker network in India, taking the total number to seven, Facebook says. The program has been broadened to cover services in more Indian languages.
+
+Last year, the social media giant introduced a third-party fact-checking program in India with BOOM Live to combat the spread of "false news" on its platform with a pilot in Karnataka ahead of elections in that state.
+
+But so far, Facebook has failed to offer any hard numbers on the impact the pilot project has had on reducing the spread of fake news. And Facebook did not respond to my request for comment.
+
+Several security practitioners and cyber law experts tell me they see no evidence that Facebook's efforts to fight fake news in India or other countries have been successful (see: Are Facebook's Election-Related Moves in India Meaningful?).
+
+"They have never openly spoken about the technology deployed by these fact checkers to curb fake news," says cybersecurity expert Sanjay Sahay, a senior police officer in Karnataka. "It is a question of intent. If Facebook being a technology company cannot come out with a proper solution for this menace, then it has no business to stay in this space."
+
+'Take More Responsibility'
+
+The fresh effort by Facebook to fight fake news comes after a pledge by its CEO, Mark Zuckerberg, to "take more responsibility" over content shared on the internet platform.
+
+This followed revelations last March that user data had been leaked to Cambridge Analytica, a research company that did work for U.S. President Donald Trump's campaign in 2016.
+
+According to the Nikkei Asian Review, Facebook's efforts to fight the spread of fake news have stirred controversy in the Philippines, where the government of President Rodrigo Duterte has accused the social media company of partnering with parties critical of his administration.
+
+Facebook is extremely popular in the Asia-Pacific region, as the chart below illustrates.
+
+Number of Facebook users in Asia (Source: Statista)
+
+Brooke Binkowski, former managing editor of Snopes, which Facebook used in 2016 for fact checking in the U.S., says in a blog that fact checking for a social media service that is used by a huge chunk of the world's population is no easy task.
+
+"We were given access to a tool that hooked into our personal Facebook accounts and was accessed that way and it spat out a long list of stories that had been flagged for checks," she writes. "We were free to ignore the list, or mark stories as 'true,' 'false' or 'mixture.' But no matter how many times we marked them 'false,' stories would keep resurfacing with nothing more than a word or two changed. This happened often enough to make it clear that our efforts weren't really helping."
+
+Govindraj Ethiraj, BOOM Live founder, did not reply to my request for a description of how how it zeroes in on fake news items.
+
+Last week, Snopes and the Associated Press said they had ended their fact-checking partnerships with Facebook in the U.S. after concluding the effort was not effective. They say that there was little clarity on how Facebook carried out the entire exercise and zero transparency.
+
+What Can Be Done?
+
+The government of India has proposed to put more responsibility on Facebook, WhatsApp and other social networks to cut down on fake news by asking them to remove objectionable content within 24 hours. But some question whether such a move would curb free speech.
+
+"If fake news or sensitive news leads to deaths in the country, what internet freedom are we talking about?" Sahay asks. "How long can Facebook wash its hands of responsibilities? It [must] not take responsibility of content on its website."
+
+Binkowski stresses that the major social media companies need to invest adequate resources to do a thorough job of fact checking that can have a real impact on curtailing the spread of fake news, especially news about the upcoming election.
+
+Jiten Jain, CEO at the India InfoSec Consortium, a group of leading security experts, contends that Facebook's latest move to work with more fact checkers in India is largely a public relations effort.
+
+"Facebook is not doing a favor by taking these steps. This is part of their responsibility," Jain says. "If they can leverage technology to monitor us every minute, I refuse to believe that they don't have the technology to curb the menace of fake news."
+
+And it's important that Facebook provide tangible evidence that its efforts to crack down on fake news in India is having a real impact.

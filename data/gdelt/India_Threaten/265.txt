@@ -1,0 +1,37 @@
+Economist: If the belief were to become widespread that losing one’s
+
+Akela wrote:
+
+Economist: If the belief were to become widespread that losing one’s job is not a sign of personal shortcomings but instead an effect of impersonal social forces (which is surely correct), there would be growth in the societal demand for more government control of the economy to protect individuals from these forces, just as the government now protects them from military invasion. Such extensive government control of the economy would lead to an economic disaster, however.
+
+
+
+The economist’s statements, if true, most strongly support which one of the following?
+
+
+
+(A) Increased knowledge of the causes of job loss could lead to economic disaster.
+
+(B) An individual’s belief in his or her own abilities is the only reliable protection against impersonal social forces.
+
+(C) Governments should never interfere with economic forces.
+
+(D) Societal demand for government control of the economy is growing.
+
+(E) In general, people should feel no more responsible for economic disasters than for military invasions.
+
+
+
+LSAT
+
+This seems ok, because the cause of job loss is "impersonal social forces", which more government control will fight. Hence rephrasing the answer choice, it becomes "more government control could lead to economic disaster". This is exactly what the stimulus says.
+
+This is incorrect, as it simply tries to weaken the premise that more government control is protection against impersonal social forces
+
+This is a very extreme statement. The use of "never" is very strong & generalized. The argument is very specific about a particular case of cause & effect relation. Hence it is incorrect.
+
+Ok this was close. I crossed this one off, because the stimulus says "more government control" & the answer choice says simply "government control". There is big difference between the two, the answer choice implies "there is no government control right now & the demand for it is growing", whereas the stimulus doesn't mention anything like that. Also the stimulus is hypothetical & the answer choice is factual.
+
+This one is irrelevant.
+
+The argument boiled down to specifics states thatImpersonal Social forces are the cause for Job loss. This belief will lead to growth in societal demand for more government control of the economy. Finally, more government control will lead to economic disaster.Hence if there is more government control that will fight Impersonal social forces to protect job loss, then it will lead to economic disaster.So it is a chain of cause & effect relations.Since it is an Inference question, a correct answer will likely be a rephrasing of one of the premises or a combination of the premises.Using POE on the answer choices,(A) Increased knowledge of the causes of job loss could lead to economic disaster. -(B) An individual’s belief in his or her own abilities is the only reliable protection against impersonal social forces. -(C) Governments should never interfere with economic forces. -(D) Societal demand for government control of the economy is growing. -(E) In general, people should feel no more responsible for economic disasters than for military invasions -Answer A.Thanks,GyM_________________

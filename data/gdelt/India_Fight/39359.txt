@@ -1,0 +1,165 @@
+State of the Nation: how these four sectors can turbocharge growth and define India’s future
+
+As India readies to celebrate its 73rd Independence Day, the country stands on the cusp of major change. Despite the political turmoil, Indians, who represent a sixth of humanity, are unanimous in their dream: a desire for growth and progress.
+
+It is clear that we can build shared prosperity for the 1.3 billion population if the government, corporates, and startup ecosystem join hands to leapfrog innovation and growth. The most critical approach is ensuring that the aims and aspirations of all of India – the 56 major urban agglomerations and Bharat - are taken into account.
+
+According to a PWC report titled The Future of India: The Winning Leap, the country, in its seventh decade of Independence, stands “on the cusp of major change: a transformation that could lead to unprecedented economic growth paired with radical improvements in the nation’s Human Development Index (HDI)”.
+
+The report adds that over the past two decades, India’s GDP has risen by more than $1 trillion, transforming millions of its citizens into the emerging middle class. And even as Prime Minister Narendra Modi expresses confidence that as a nation, and that with ‘collective efforts’, India can become a $5 trillion economy in the next five years, that may not be enough.
+
+The PWC report states that “anything less than $10 trillion would not secure India’s future”. And that India needs to create 10-12 million jobs every year in the coming decades to provide quality of life for its growing population.
+
+A nine percent GDP growth rate will boost the quality of life for more than 1.25 billion citizens, it says. But getting to that goal won’t be easy. It will “call for a concerted effort — from businesses, entrepreneurs, investors, and government leaders”.
+
+State of the nation
+
+So how can India do all this? Is the country equipped to handle 1.3 billion aspirations? And is the state of the nation today putting it on the right track for tomorrow?
+
+Mohandas Pai, the Chairman of Aarin Capital, is categorical when he says we have to “urbanise or perish”. He believes that urban development is key to drive India towards growth, adding that keeping India’s population in villages, while being unable to meet their economic needs, has resulted in high inequity.
+
+Entrepreneurs and corporates agree that the present State of the Nation presents several opportunities for businesses - from fintech and agritech to cybersecurity and artificial intelligence (AI) in manufacturing. It is time India taps the way humans and algorithms “come together”, and these four sectors provide fertile ground.
+
+Stay Updated Get stories of change makers and innovators from the startup ecosystem in your inbox Please fill in this field. {{#error}} {{error}} {{/error}} {{^error}} Something went wrong. Try again later {{/error}} Welcome Onboard ! You have been successfully registered for our daily newsletter.
+
+Focus on cybersecurity for National Interest
+
+Even as the Indian government deals with the fallout of scrapping Article 370 in Kashmir on the national and international fronts, it must also face up to a cyberwar.
+
+Bots are having a field day generating fake news that maligns India's national interest. It is well known that “bot farms” are crawling across social media; they’re even on Tinder. These biased bots buy legitimacy with fake names and accounts.
+
+Bot attacks, which aim at massive radicalisation, are not just from Pakistan and Eastern Europe. Indian politicians also use them to influence voters and try and win elections.
+
+A bot is a software programmed to perform certain tasks. In this case, a bot is trained to influence and retweet news as many times as possible, under different names. Content is created by human farms in the Philippines, Russia, and Pakistan; a bot takes over after the content is released and does not stop until it builds public opinion.
+
+The charge of the bot brigade isn't new and cyber experts state that India has to be ready to fight the battle of the bots. A visit to Innefu Labs, a Delhi-based cybersecurity and cyber warfare company, reveals the kind of bots the organisation’s tool is tracking.
+
+“We see bots from Pakistan setting the narrative on several social media platforms. While we have several reports that cannot be made public, I can say is that India is extremely vulnerable to anti-national sentiments and attacks from across the world. Today, different actors are using social media, and there is a propaganda war against the Indian State,” says Tarun Wig, the Co-founder of Innefu Labs.
+
+Their report, titled “Innsight”, is comprehensive, frightening, and reveals the role bots play in creating anti-State narratives.
+
+According to the report, the “Khalistan” and “Free Kashmir” movements are picking up. The report claims the two connected anti-Indian propaganda are being perpetrated by Pakistan-based bots, in a bid to “influence common people and parties”.
+
+Tarun adds that these anti-India narratives, which “sit on Twitter, Facebook, and Instagram”, also emerge from the UK and Canada.
+
+“We see increased malware, botnets, and advanced persistent threats. The biggest group that they are targeting are people under 35 years of age. These bots hashtag legit users and create narratives. People are vulnerable and we have seen that a third of the people on social media believe bot-infused information,” says Rohit Maheshwari, Head of Products at Bengaluru-based Subex, a telecom analytics solutions provider.
+
+Rohit believes that we need regulation to fight bots. “I propose a three-pronged approach. The first one is self-regulation from corporates or social media companies. The second one is for individuals; people must understand that they don’t have to believe all that they see on social media, especially from handles that look dubious. The final one, and perhaps the most important one, is that governments must take this as a policy level situation and pass laws to fight fake bots,” he says.
+
+Independence Day
+
+Apart from national security, small and big businesses are also exploring innovative tools to protect themselves from cyberattacks and threats. A PWC report lists down seven trends likely to drive change in the sector in India:
+
+* There will be a focus on privacy and personal data protection
+
+* Machine learning and AI will be an integral part of security suites
+
+* Internet of Things (IoT) security will emerge as a focus area
+
+* Organisations will spotlight cloud security
+
+* There will be an integrated approach to managing insider threats
+
+* Security testing will be embedded in the development cycle
+
+* Blockchain will be embraced to prevent fraud and data theft
+
+Indian startups must innovate and lead the way to ensure that the country negates all kinds of cybersecurity threats.
+
+The agricultural sector’s tryst with tech
+
+Despite the many tech advancements, India remains a primarily agrarian economy. Agriculture is the primary source of livelihood for about 58 per cent of India’s population, with gross value added by agriculture, forestry and fishing estimated at Rs 18.53 trillion in FY18.
+
+India's gross irrigated crop area is 83 million, but agriculture – despite being the largest employer in the country - contributes only 17.32 percent to the country’s GDP. So what ails the sector? Lack of water, small landholdings, and market efficiencies.
+
+Benjamin Raja, Co-founder of FarmAgain, says technology is the only way forward, along with zero chemical farming. “The old farming methods, especially after the 1970s, wasted water and led to a massive use of fertilisers that damaged soil," he says.
+
+His Coimbatore-based startup is working with over 5,000 farmers on 15,000 acres of farmland across Tamil Nadu, Karnataka and Maharashtra. The end-to-end farm solutions company aims to increase farm yields by combining technology and traditional farming knowledge.
+
+The agritech sector is drawing increasing attention. A recent Nasscom report showed that India currently hosts more than 450 startups in the sector, growing at a rate of 25 percent year on year. The sector received more than $248 million in funding as of June 2019, a massive growth of 300 percent as compared to the previous year.
+
+Data is key to the success of farming, and startups like AIBono, Crofarm, CropIn, and Farmizen are tapping technology to change the way farmers work on their land.
+
+AIBono, a seed-to-fork tech company, is helping farmers understand consumption. It uses IoT to gather farm data, including soil specifics and moisture content, and help farmers increase yields. The startup leased its first farm in the Nilgiris in 2015, and since then, more than 40 farmers have come on board. Today, the startup suggests inputs, and also buys the produce from the farmers and delivers it to 250 retailers.
+
+“Owning the entire ecosystem makes our platform stronger as we can connect consumption and farming. It brings the best produce to homes; farmers learn what cities are consuming,” says Vivek Rajkumar, the Founder of AIBono.
+
+German startup PEAT seeks to make cropping intelligent with its data capture feature that helps farmers mitigate crop damage. It uses image recognition software to see if plants are breathing by understanding photosynthesis. The app identifies plant damage just by taking a picture, helping farmers to save their crop without losing much time.
+
+“Our algorithms train a huge database of 270,000 labelled pictures of plants,” says Simone Strey, Co-founder of PEAT, which is focusing on Telangana and Andhra Pradesh as of now.
+
+India needs many such startups to resolve farm-to-fork efficiencies and feed 1.2 billion (and growing) mouths.
+
+The battle between man versus machine has already begun.
+
+Facilitating human and machine collaboration
+
+The future of the world seems to be in the hands of artificial intelligence (AI). From behemoths like Amazon and Alibaba to small startups in Tier II and III towns of India, every founder is focussing on AI, on algorithms that can help their business impress customers, consumers, and investors. But the mushrooming of AI has also brought about concerns about job security and a "machine takeover".
+
+But Industry 4.0, where digital technologies have made machines smarter, is the only way forward. And a symbiotic man-machine relationship is the need of the hour.
+
+Did you know that 70 percent of the plants globally are human and machine-led? In India, there are 30.4 million workers in manufacturing jobs and tech can change their lives for the better.
+
+To make this case of symbiosis stronger, Drishti Technologies, based in Santa Clara and Bengaluru, is changing the way humans work in manufacturing. Its computer vision product changes the way parts are rejected and replenished at the production centre to minimise human error. The production line does not move until the human assembles the product perfectly.
+
+The startup is the brainchild of Ashish Gupta, Prasad Akella, and Krishnendu Chaudhury, who have four decades of experience in building algorithms and working in global companies.
+
+“One may think that robots are replacing humans in the industry. But 70 percent of the world is still a combination of men and machines, and we intend to make this partnership stronger,” Krishnendu says.
+
+As of now, AI and its applications are not completely understood by all. Interest in the sector will only rise from an understanding of how it can impact lives in India.
+
+Pune-based Fluid Robotics is showing how. The startup makes robot crawlers that clean up clogged drains, making it unnecessary for a human being to enter drains. With Fluid Robotics, the job of the drain worker is that of operating a robot that cleans drains and collects data on clogged pipes for efficient city management.
+
+The field of radiology is also ripe for disruption. An average radiologist scans over 1,000 images a day, making human error a distinct possibility. Bengaluru-based Actify Data Labs is building a platform that can help radiologists use AI to scan over 5,000 images or more a day. Here, AI brings down the cost of healthcare, and can nearly eliminate any human error.
+
+“Only AI can crunch such volumes of text and images. With so much digital data, there is no way a human can comprehend even a percentage of the digital explosion,” says Hindol Basu, Founder of Actify Data Labs.
+
+A report by the International Federation of Robotics states that sales of robot technology went up in 2015 by roughly 15 percent from earlier years. The federation estimates that companies across the world will employ 2.5 million industrial robots by 2019.
+
+Kochi-based Sastra Robotics is one of the many companies hoping to tap this demand and save corporates time and money.
+
+Every year, in any global excellence centre or automobile/aviation R&D centre, hundreds of people spend endless hours testing Human Machine Interfaces (HMI) with advanced touchscreens, alternating between buttons, knobs and toggle switches, voice commands, and hand gesture-feedback testing.
+
+On average, they spend 250 days and 2,500 hours to ready for launch and commercial operations. This is what Sastra Robotics wants to change by reducing the time needed to test the product to 250 hours.
+
+“Our core competency is to build control systems, robot hands, and communication hardware. We are, over the next two years, going to build a neural network interface in a robot with five fingers,” says Aronin P, Co-founder of Sastra Robotics.
+
+But the startup isn’t just a hardware company; it enables engineers to get data on the durability and resilience of the software they build in R&D centres. Their client list includes Honeywell, Bosch, and HCL.
+
+Clearly, it’s time that India woke up to the potential that AI holds and wields it to catapult growth.
+
+Putting healthcare first
+
+Indian healthcare is big business. It is more than a $300 billion opportunity and is expected to hit $372 billion by 2022, according to IBEF. However, it is a fragmented industry with only five percent penetration of insurance.
+
+India's healthcare spend stands at a paltry 1.2 percent of the GDP, according to the Indian Medical Association. The doctor-patient ratio is 0.6 (doctor per 1,000 patients) and there are 0.9 beds per 1,000 patients.
+
+Despite success stories like Narayana Hrudayalaya and Apollo Hospitals, the biggest problem is the affordability of care. Healthcare startups in Tier II and III cities are solving the problem of access and ensuring reliable medical services across the country.
+
+These are addressing various aspects of healthcare, be it helping with diagnostics, critical care equipment, medicine delivery, clinic management, or digitising medical records to make healthcare more effective.
+
+Medtech startup InAccel is changing the way Indian healthcare products are built. The startup, with its subsidiaries Coeo Labs and Sattva Medtech, is building novel medical devices to serve the healthcare needs of India and emerging markets.
+
+Siraj Dhanani, CEO of InnAccel, says, “We have to make medical devices for India and address issues, which will never be taken up by MNCs."
+
+InnAccel has developed two products: Saans, a low-cost, portable breathing support device for babies with respiratory problems, and VAPCare, a critical care device that prevents the risk of ventilator-associated pneumonia, a common cause of death in patients on long-term ventilator care.
+
+Then there is Kolkata-based medtech startup ExeRx, which is building affordable, non-invasive solutions for early diagnosis of chronic diseases. The startup’s IoT-enabled, non-invasive device AJO detects anaemia, liver and lung-related health problems, without requiring you to draw blood and at the cost of less than Re 1.
+
+EzeRX – which stands for “Easy for prescription” – is on a mission to make the adoption of preventive healthcare approach more appealing and accessible for Indians by providing easy, affordable, diagnostic solutions, says Founder and CEO Partha Pratim.
+
+Bugworks Research, a small company tucked away on the University of Agricultural Science campus in Bengaluru is determined to renew the fight against superbugs. For the last four years, it has been engaged in efforts to find a solution to deal with superbug infections.
+
+Santanu Datta, V. Balasubramanian, and Anand Anandkumar are looking for a drug that can fight ESKAPE pathogens. Every year, 60,000 babies are affected by these bugs in hospitals; most cases are fatal. Bugworks is going into clinical trials and plans to release the drug soon.
+
+According to Santanu, Chief Scientific Officer and co-founder at BugWorks Research, “Drugs to fight infections are not a lucrative business for Big Pharma, because they do not win the lifetime value of a patient, whereas other drugs that treat diseases like diabetes and cancer are consumed for life and are therefore more valuable.”
+
+These are just a few of the many startups that are monitoring India’s health with AI, machine learning, and smart apps.
+
+With India's healthcare market poised to grow from $100 billion in 2016 to $280 billion in 2020, there is a huge opportunity for healthcare and healthtech companies and startups.
+
+In his famous “Tryst with Destiny” speech, Jawaharlal Nehru, the country’s first prime minister, said: “The achievement we celebrate today is but a step, an opening of opportunity, to the greater triumphs and achievements that await us. Are we brave enough and wise enough to grasp this opportunity and accept the challenge of the future?”
+
+Are we?
+
+(Edited by Teja Lele Desai)

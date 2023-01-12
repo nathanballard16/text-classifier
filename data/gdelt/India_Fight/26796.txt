@@ -1,0 +1,119 @@
+Nokia 3.2 Review
+
+Nokia 3.2
+
+HMD Global owned Nokia has finally brought its latest budget warrior the Nokia 3.2 to Indian shores. The launch of the Nokia 3.2 comes shortly after the arrival of it's smaller display flaunting sibling, the Nokia 4.2 which was launched in India earlier in the month.
+
+Unlike 2018 when HMD Global aggressively took on the might of established players by launching value for money propositions one after the other, the current year has seen the company launch the Nokia 3.2 in India months after its February global unveil which is surprising for us.
+
+But the delay in the phone's India launch aside, the Nokia 3.2 finding its way to our country is welcome news as it's an interesting offering which brings modest hardware and the promise of Android One all wrapped up in a beautiful shell.
+
+We've had the chance to try the phone for a few days. Read on to see what we think about it in our review of the Nokia 3.2.
+
+Pros
+
+Massive battery
+
+Solid build quality
+
+Stock Android promise
+
+Physical Google Assistant button
+
+Cons
+
+Dated chipset
+
+Average camera performance
+
+Only HD+ display
+
+Nokia 3.2 Review: Design and display
+
+The 3.2 brings with it an exterior which despite flaunting the company's name doesn't appear to follow a design philosophy which is very Nokia-esque. Unlike the Nokia 8 Sirocco inspired glass-metal sandwich designs we've seen on most of the recent phones from the company -- including the Nokia 4.2 which uses glass on the front and back of the device.
+
+Instead, what HMD Global's serves with the Nokia 3.2 is a rather dull design which despite being pretty solid for the price, isn't exactly what we've come to expect from Nokia. The back of the phone features a polycarbonate unibody shell which tries to fool you into believing that its glass because of its glossy finish. However, the plastic eventually gives itself away the moment you hold the phone in your palm. There's a very little visible frame to the phone as this cover itself curves to almost merge into the device's display -- something that we' rarely seen in the other Nokia 8 Sirocco inspired phones.
+
+The only thing that the phone's back has in common with other much more beautifully designed phones such as the Nokia 4.2 is the fact that both sport rear panels which are absolute smudge magnets. This polycarbonate cover is also home to Nokia's branding at the back, along with a rounded shaped fingerprint scanner and a vertically placed single lens and flash camera setup that's placed above it.
+
+On the sides, there are cutouts in the cover through which pop out the Nokia 3.2's volume and power button on the right. This button also doubles up as a LED powered notification indicator -- much like what was seen on the Nokia 4.2. On the left, we have the phone's dedicated Google Assistant button -- making it the most affordable phone to sport such a physical key solution for waking up Google's AI-based assistant. Apart from this, we have slots for the phone's SIM+microSD card tray and Micro-USB port along with a 3.5mm jack on the phone.
+
+Moving to the front, we have a large 6.26-inch dot-notch display that looks bigger than it is because of the slightly thick bezels that surround it. Overall, the big screen sat on an even bigger frame measuring -- 159.44 x 76.24 x 8.60mm and weighing 181 grams -- makes the phone look rather industrial in terms of design -- thereby nullifying the most significant advantage that Nokia phones in the recent past have enjoyed over competing offerings from the likes of Samsung and Xiaomi.
+
+However, this design choice also affords the phone a more sturdy feel making it appear like a device that can withstand a drop or two without breaking a sweat.
+
+Moving on, the display on the Nokia 3.2 is an HD+ panel capable of churning out a maximum resolution of 720x1520 pixels. Despite the low resolution, the display looks quite good. It's plenty bright for use even under sunlight and text, as well as multimedia content looks good on it.
+
+Colour reproduction on this TFT LCD display though isn't as good, with the panel not producing as vibrant and punchy colours as we've gotten used to seeing on more expensive displays. But having said that, for the price, the Nokia 3.2's display does a reasonably decent job, and the points it loses in its quality, it recovers in the size department.
+
+Nokia 3.2 Review: Specifications, performance and features
+
+As a consequence of the price segment it comes fighting in, the Nokia 3.2 brings with it rather modest internals which features a Qualcomm Snapdragon 429 at the heart of things paired to either 2GB/16GB or 3GB/32GB RAM and storage configurations.
+
+Now this may not seem too great on paper, this core hardware tasked to run stock Android 9 Pie -- that's been updated only to February security patch at the time of the review -- ensures that most basic apps run smoothly on the Nokia 3.2. While the device coming in the sub-10k budget segment isn't anyway meant for lifting heavy games and applications, it does well at handling daily use tasks such as browsing the web and social media or watching movies and videos on it.
+
+The phone's expansive display too helps with this as its size helps improve the experience of watching movies or playing not so graphics intensive games on the Nokia 3.2 -- albeit on low to medium settings. However, the Nokia 3.2's biggest drawback on the spec sheet is the 429 SoC and its modest performance that is left exposed when the phone is subjected to benchmarking tests.
+
+During our tests, the Nokia 3.2 managed to rack up a low single-core score of 854 and not so impressive multi-core score of 2,477 points on Geekbench. Antutu's more graphically demanding test gave the phone a score of 64,089 points. If anything, these benchmark scores are an indication that the Nokia 3.2 with its quad-core Snapdragon chipset is a little ill-equipped for the competition in the segment, most of which come sporting much faster octa-core SoCs.
+
+However, the underwhelming spec sheet and benchmark scores aside, the phone does win some points by bringing to the table several interesting features, with one of them even proving to be the first for the segment.
+
+As has been the case with Nokia phones since the brand's reboot under HMD Global, Nokia has heavily relied on the goodness of stock Android and its various features for making their phones successful. And the Nokia 3.2 takes this strategy a notch higher.
+
+The phone comes with a dedicated Google Assistant key which can be used to fire up Android's AI-assistant easily at the press of a button. While other phones bring this functionality with them, there, however, isn't any other in the segment. For those who use the Google Assistant much, this convenience will come in extremely handy. Sadly though, this particular button is not a smart key and can only be used for waking the Google Assistant.
+
+Apart from this, we also get features like face unlock with the Nokia 3.2, which despite being quite accurate proved to a little slow for our taste.
+
+Nokia 3.2 Review: Camera
+
+Under HMD Global, Nokia's found it difficult, and with the Nokia 3.2, this appears to be the case again as the optics performance of the device is arguably its weakest point.
+
+The device brings with it a primary module with a single 13-megapixel f/2.2 camera paired with LED flash. In terms of performance, this setup manages to hold its own as it clicks decent pictures in daylight and well-lit situations. To its credit, the lens does a decent job at capturing enough texture detail to make images look closer to what the scene appears in real life.
+
+
+
+Nokia 3.2 camera sample
+
+However, when you take the camera out in the night, the phone's camera setup starts to falter. Images come out noisy and grainy, and the overall colour reproduction too goes for a toss. While this may have been acceptable for a device in the segment about a year or six months back, it's certainly not something that can be overlooked in 2019.
+
+But that's not all. The camera performance is also curtailed by the bare bones camera app that Nokia's installed on the 3.2. The camera app does not get a Pro mode and instead receives the option to click HDR enabled/disabled stills or videos. There are no fancy photo clicking modes -- except for the ability to click Time Lapse and Panorama stills -- and the company has given even Nokia's Live Bokeh Mode for clicking creamy portrait shots a miss on the 3.2.
+
+The phone also gets a 5-megapixel f/2.2 front camera for clicking selfies. The lens performs well and clicks good images in a good light. However, low light again remains an issue.
+
+Nokia 3.2 Review: Battery
+
+While the phone does little to impress with the cameras, the battery is where the Nokia 3.2 makes a solid argument for itself. The phone promises 2-day battery use on a single charge, and it's a claim which we also found to be true in our time reviewing the phone.
+
+With a 4000mAh rated pack under the hood, the Nokia 3.2 is one of the best phones in the segment when it comes to battery life. On moderate too heavy use we got two days worth of work from the phone while playing games and videos on the device brought this down to under a day.
+
+In both use case scenarios, the performance was more than satisfactory. However, one thing to note is that the device does not provide any fast charging support and uses a 10W charger to top up the massive battery in a little over 2 hours.
+
+Nokia 3.2 Review: Rating
+
+Design: 7/10
+
+Display: 7/10
+
+Performance: 7/10
+
+Cameras: 7/10
+
+Battery: 9/10
+
+Overall: 7/10
+
+Nokia 3.2 Review: Verdict
+
+Despite being launched in an extremely competitive segment, one where there are more than enough buyers to go around for phones from multiple phone makers, the Nokia 3.2 ends up being a device that's only for a select crowd.
+
+To our mind, this is not the usual Nokia phone we've come to expect in the last year and a half. It has a rather boxy, industrial design that favours practicality over appearance. It's classy and much like other Nokia phones exude understated class. Its looks are nothing to write home about.
+
+To its credit, the Nokia 3.2 has a big display that paired with the phone's massive battery looks cut out for multimedia consumption. However, even the panel disappoints a little with its HD+ resolution and the slightly thick bezels that surround it.
+
+Underneath the hood and in terms of the cameras, things don't get too better for the device, as both the 429 SoC and the 13-megapixel camera setup left us wanting more when it came to performance. The Nokia 3.2 charmed us with its stock Android 9 goodness and the convenient physical button for waking the Google Assistant.
+
+While the latter is a convenience that may only appeal to a select audience looking for a phone within the sub-10k price segment, it's the former which brings with it apps such as Google Pay and Lens, along with Pie specific features like gesture-based navigation, Adaptive Brightness, Adaptive Battery and Digital Wellbeing that helps the phone justify its price.
+
+Nokia 3.2 is available in India starting at Rs. 8,990 for the 2GB RAM and 16GB storage model while the 3GB RAM and 32GB storage come at Rs. 10,790.
+
+Overall, the Nokia 3.2 is a good option if you're in the market for an affordable phone that brings stock Android and all its goodness paired to a big battery and display. However, if you're looking for a device which brings great value in terms of cameras or gaming performance to the segment, then the Nokia 3.2 is not for you.

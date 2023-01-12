@@ -1,0 +1,35 @@
+India Bullies Twitter Into Banning Accounts of American, British Students Thousands of Miles Away
+
+Twitter is warning a Texas college student that it might “be obliged to take action” after some of his tweets were ruled a national security threat by the government of India eight thousand miles away.
+
+The notice issued to 21-year-old Ryan Barenklau on Saturday is part of a crackdown on a group of open-source investigators who spend their days sifting through data and imagery to glean insights on regional conflicts around the world. Barenklau’s focus is primarily on Crimea and North Korea, but in May a journal in India wrongly claimed his account was part of a Pakistani disinformation ring.
+
+This month the Indian government formally demanded Twitter block Barenklau and other users named in the report under India’s powerful national security censorship law, according to interviews and copies of several of the Twitter notices shared with The Daily Beast by the recipients. Twitter has since suspended four of the accounts for unrelated violations of the company’s terms of service. The company declined to comment for this story.
+
+“It’s pretty disturbing,” said Danny O’Brien, director of strategy for the Electronic Frontier Foundation. “I think this is a consequence of social media companies responding to requests by governments they’re not in the same jurisdiction as, but also this increasing pressure to have social media platforms be the judges in deciding what is disinformation and what isn’t. They’re a lot quicker to take down original content about controversial or hot topics.”
+
+Bafflingly, the tweets India singled out as fake news are not only not fake, but they don’t concern the subcontinent at all. The five tweets cited in the warning to Barenklau include one commenting on a North Korean missile test, two tweets quoting Secretary of State Mike Pompeo promising tough action against Iran, a video from the street protests in Hong Kong, and a tweet from last April embedded with CBS News footage of the fire then engulfing Paris’ Notre Dame cathedral.
+
+A British student who tweets as “ElintNews” received the same notice on Friday citing his harmless tweets about the Sudan, Syrian and recent developments in the Gulf of Oman. “They had nothing to do with India and Pakistan,” he told The Daily Beast.
+
+The scattershot approach leads Barenklau, who spoke to The Daily Beast by phone, to suspect that India is borrowing a page from the copyright protection industry, using automation to churn out takedown notices in bulk. “What we think is going on is there’s some sort of mass campaign,” said Barenklau, a senior at Texas A&M who runs a small global affairs consultancy called Strategic Sentinel that does open-source research over Twitter. “The Indian government has obviously sent Twitter a list of accounts that they think ought to be banned.”
+
+Section 69A of India’s Information Technology Act gives the government the power to unilaterally order a block on any websites and accounts “in the interest of the defense of the country, its sovereignty and integrity, the security of the State” and for other reasons. According to Twitter’s most recent transparency report, the company received nine 69A demands from India’s technology ministry from July through December 2018, and in response issued regional blocks on 108 accounts and 22 tweets that kept them from being seen within India.
+
+The new crackdown appears to trace back to a report last month by the journal Great Game India that purported to expose a disinformation network buffeting India with fake news. The journal focused on a Pakistani open-source investigator named Faran Jeffery who serves as a deputy director for the British counterterrorism think tank ITCT, and tweets as “NatSecJeff.”
+
+Earlier this year Jeffery spun out a Twitter thread covering reports out of Pakistan's Bahawalpur district that the Indian Air Force had intruded into Pakistani air space and dropped a bomb in the desert outside Fort Abbas. His tweets surfaced local news articles, photos and social media posts from the region and included cautionary notes not typically seen in state-sponsored disinformation ops. “Unless we now get a statement from Pakistani military, it would be a good idea to remain skeptical about these reports since we don't know yet exactly what happened,” he wrote in one tweet.
+
+The Pakistani military later said there’d been no incursion by India. But Great Game India pegged Jeffery as a fake news operative working for Pakistan, citing some of his other tweets, and the fact that he previously worked for a Pakistani institute with military ties. In May, an Indian newspaper aired the journal’s findings under the headline “Retired Pak officers behind 'fake news,’” publishing a list of seven additional Twitter accounts that frequently share Jeffery’s tweets.
+
+The paper, citing Great Game India’s research, claimed all the accounts “have Pakistani roots.”
+
+In addition to a student in Texas and another in the U.K., one of those accounts belongs to Justin Peden, a 19-year-old college student in Tennessee who’s been tweeting about global hotspots for years as IntelCrab. “I’m currently majoring in finance and minoring in business,” Peden told The Daily Beast. “This is just a fun hobby I found. I love all things military. I’m an ROTC cadet. I’m interested in global affairs and over the years I’ve amassed an incredible network of contacts, closed and open source… It’s an irony being famed as a retired Pakistani general.”
+
+Twitter responds to 69A demands by blocking the account from being accessed within India’s borders, but also reviews the reported accounts for terms-of-service violations, and by all evidence applies a zero tolerance policy. Peden was suspended Monday morning on the grounds that he violated Twitter’s rules by maintaining “multiple accounts with overlapping use cases.” After he appealed and agreed to delete his personal-use Twitter account, the company restored IntelCrab later that day. “It was the longest 10 hours of my life,” Peden said.
+
+India’s Ministry of Electronic & Information Technology didn’t respond to an email inquiry for this story. Reached by The Daily Beast over Twitter, the journal that named three students from the U.K., Tennessee and Texas as Pakistani trolls defended its methodology, but admitted it may have made some mistakes. “Yes, it could be possible but we do not know,” a spokesperson for Great Game India wrote.
+
+Despite the mixup, some of the targeted users say they’re looking forward to Twitter banning them in India, as it’s done with previous 69A demands. All of them described being bombarded with hateful tweets after being misidentified as Pakistani disinfo operators.
+
+The U.K.-based student who tweets as ElintNews spoke on condition of anonymity because he’s received death threats. “When you try to work hard and inform people what’s going on in the world you don’t expect to be threatened by random people online,” he said. “If we’re restricted within India it would be kind of a blessing to all of us.”

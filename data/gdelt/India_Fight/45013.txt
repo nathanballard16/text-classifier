@@ -1,0 +1,39 @@
+India wakes up to rogue drone threat after Saudi attack
+
+India wakes up to rogue drone threat after Saudi attack
+
+NEW DELHI, Sep 25: Following the major drone attack on Saudi Arabian oil installations, Indian defence forces and the private sector are taking stock of counter-drone preparedness.
+
+On September 14, Yemen’s rebel Houthis targeted two oil plants operated by Saudi Arabia’s Aramco in the Gulf nation. The strike disrupted half of the kingdom’s oil and gas production and sent global oil prices spiralling.
+
+India’s Border Security Force in New Delhi recently invited some experts to present solutions to track and neutralise drones, a Delhi-based founder of a drone technology company told Business Standard.
+
+Private companies, especially oil refiners, and key government bodies like the Airports Authority of India (AAI) are also said to be reviewing preparedness.
+
+In New Delhi, a newly formed inter-ministerial committee is testing anti-drone solutions and will soon release a formal tender. The committee, under the ministry of civil aviation, has representation from the Directorate General of Civil Aviation, Bureau of Civil Aviation Security, AAI, ministry of home, and the Indian Air Force.
+
+“Nine companies have given live trials of their technology to counter rogue drones in the sky. Two stages of pilot were held. We will soon finalise the contract,” said a government official involved in the process.
+
+According to sources, firms that took part in initial demonstrations included ideaForge Technology, Israel Aerospace Industries, Tractors India, French aerospace major Thales, Israeli defence company Rafael Advanced Defense Systems.
+
+While the Saudi drone strike has put the focus back on anti-drone measures, caution also stems from the fact that India has a number of large oil refining assets close to India-Pakistan border.
+
+These include Reliance’s mega oil plant at Jamnagar, HPCL-Mittal’s refinery in Bhatinda, Nayara Energy’s Vadinar facility, and Indian Oil’s Panipat, Mathura and Koyali.
+
+The physical security at these sites is being managed by the Central Industrial Security Force.
+
+Anti-drone solutions
+
+Counter-drone technology comprises two parts -- detection and neutralisation -- explained Abhishek Burman, director and chief executive officer at General Aeronautics, a Bengaluru-based drone engineering company.
+
+A drone can be detected using traditional radar systems, or radio frequency-based solutions. However, drones flying too low or too fast, or if they are too small, may go undetected. This raises requirement for specialised radar systems.
+
+To neutralise them, the most prevalent solution is a jammer. Drones communicate (with its pilot) typically over 2.4 gigahertz band and a jammer sends high-frequency ‘noise’ in this frequency, causing drone to lose contact and fly astray.
+
+However, jammers may not work with autonomous drones, which are pre-programmed for a specific target location.
+
+In such cases, the counter measure is Global Positioning System (GPS) spoofing, which maliciously infects the GPS on a drone, causing it to lose sight of the target.
+
+According to Burman, a mixture of multiple technologies -- high frequency cameras across the perimeter, multiple radar systems with varied ranges, and the neutralising mechanism -- is needed to ensure complete preparedness.
+
+“If making a drone is 1x technology, anti-drone is 3x,” he said, adding that some of the apparatus is expensive and high-energy consuming.

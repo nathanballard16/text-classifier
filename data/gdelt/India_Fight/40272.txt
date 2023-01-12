@@ -1,0 +1,25 @@
+India Is Getting More Cyber Attacks, After Abrogation Of Article 370, 35A In Jammu & Kashmir
+
+After the abrogation of Article 370 and 35A from Kashmir, various institutions across the nation are witnessing a considerable rise in cyber attacks that's affecting the critical infrastructure of these institutions.
+
+Russian cyber-security company Kaspersky (according to a report by IANS) has notified the institutions to keep a stringent check on its security.
+
+Reuters
+
+The official website of the Bihar Education Department was hacked this Sunday, 18th August by "RootAyyildiz Turkish Hacker", who has also claimed the responsibility for the same. After hacking the website he posted messages like "We Love Pakistan" on the website.
+
+Saurabh Sharma, Senior Security Researcher, Global Research and Analysis Team (GReAT) APAC, Kaspersky, said in a statement to IANS, that they have seen an increase in cyber-attacks on India after the abrogation of Article 370 by the Indian government.
+
+He also reveals that, as per Kaspersky's Cyberthreat World-time Map, India stands 7th among the most attacked countries in the world.
+
+According to Sharma, "We cannot confirm if it originated from Pakistan or it's a group of cyber-attackers targeting India while taking advantage of the current situation and leaving messages that may suggest otherwise."
+
+Just last month, the Indian Computer Emergency Response Team (CERT-In) revealed in the Parliament that until May 2019, hackers had attacked over 24 websites of central ministries, departments and state governments.
+
+Reuters
+
+IT Minister Ravi Shankar Prasad responded stating that attempts have been made by hackers and cyber terrorists to launch cyber-attacks from a number of countries, including China and Pakistan.
+
+Recently, a study by Bangalore-based telecom solutions provider Subex (reported by IANS) revealed that India witnessed a 22 percent jump in cyber attacks via the Internet of Things (IoT) infrastructures. What was worse is the fact that India was the most attacked nation in the IoT space in the previous quarter.
+
+Out of the data gathered from 15 Indian cities, Mumbai, New Delhi and Bengaluru were the most attacked. The researchers tracked 33,450 high-grade attacks, out of which 500 were severe and complex to crack down on.

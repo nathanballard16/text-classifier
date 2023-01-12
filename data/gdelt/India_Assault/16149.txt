@@ -1,0 +1,7 @@
+Delhi Court directs Apple to disclose location data of defendant in India rape case
+
+A Delhi court has ordered Apple to disclose the location data of the accused in a high profile rape case in India. Kuldeep Singh Sengar is an MLA for the Unnao district in India's legislative assembly. The case was brought against Sengar in 2018, and has been marred by controversy following the death of several members of the victim's family in the wake of the accusations.
+
+The news brought by India Today states that in chambers yesterday, District Judge Dharmesh Sharma has directed Apple to give to the court the location details of the accused from the date that the incident is alleged to have taken place. The case was continued meantime and Apple has been given until 28 September to respond to the directive of the court. It's unclear from reports as to what weight the court's ruling at this stage holds, and to what degree Apple could or would be held accountable to if it were not to comply.
+
+Of course, this isn't the first time Apple's data has been discussed by courts pursuing criminal activity. A few years ago Apple became caught up in a dispute with the United States government with regards to creating a backdoor to iOS. It will be interesting to see how Apple responds, if at all to the directive of the court in Delhi with regards to this new request.

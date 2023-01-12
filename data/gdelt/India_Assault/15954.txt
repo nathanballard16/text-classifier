@@ -1,0 +1,33 @@
+Malindo Air says traced data leak to India, suspects ex-staff of e-commerce partner
+
+Malindo Air’s statement today stressed the breach was not due to a vulnerability in its network or on Amazon’s web service. — Bernama pic
+
+Follow us on Instagram and subscribe to our Telegram channel for the latest updates.
+
+KUALA LUMPUR, Sept 23 — A security breach that resulted in millions of Malindo Air customers’ information being leaked online last week was executed by a former staff of e-commerce partner GoQuo (M) Sdn Bhd, the airline said today.
+
+It said the data leak was traced back to the GoQuo’s development centre in India and has been reported to authorities there.
+
+“Malindo Air is pleased to advise that the data exposure has since been contained.
+
+“As a result of the findings, a former employee of its e-commerce service provider, GoQuo (M) Sdn Bhd in their development centre in India had improperly accessed and stole the personal data of our customers,” the airline said in a statement.
+
+This is following reports quoting Malindo Air CEO Chandran Rama Muthy as confirming the data leak.
+
+The breach apparently saw passport numbers with its expiration dates, home addresses, full names, phone numbers, emails of passengers be uploaded and stored in an open Amazon web services bucket, a public cloud storage resource.
+
+Reports by the South China Morning Post (SCMP) detailed a total of four files, among them simply named “Passenger Details” or “Passengers” were dumped online by a user named “Spectre” who is a known operator of a dark-web portal with links for leaked data.
+
+SCMP reported that the data dump was shared on instant messaging service Telegram, as well as on cloud storage and file-hosting services such as mega.nz and openload.cc.
+
+Of the files, two reportedly contained information of Malindo’s passengers, another two with data of passengers of Lion Air, Malindo’s parent company.
+
+The airline’s statement today also stressed the breach was not due to a vulnerability in its network or on Amazon’s web service.
+
+“All its systems are fully secured and none of the payment details of customers were compromised due to the malicious act.
+
+“As a forward proactive measure, data forensics and cyber security experts have been brought in to review all the airline’s existing data infrastructure and processes,” read the statement.
+
+The airline, due to the breach, said the passwords of all its customers on its webpage has been auto-reseted, while warning its customers of any suspicious calls and emails they might receive.
+
+“Customers can reach out to [email protected] for further assistance,” the airline advised.

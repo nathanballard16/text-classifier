@@ -1,0 +1,49 @@
+After Nirbhaya, More Crimes Against Women Reported, But Justice Falters
+
+Mumbai: Women are more likely to report abuse and sexual attacks after the 2012 Delhi gang-rape known as the Nirbhaya case, but there has been little or no impact on arrests and convictions rates, according to a study published in February 2019.
+
+Over two years to 2015, the annual average reporting of rape cases in Delhi was 23% higher compared to the annual average over a decade to 2011, the study showed. The average annual reporting of molestation and sexual harassment during 2013-2015 was 40% higher compared to the annual average before the Nirbhaya case.
+
+On December 16, 2012, a 23-year-old female student was beaten and gang raped by six men in a moving bus passing by a middle-class South Delhi neighbourhood. After the brutal attack, she was thrown out on to the roadside, and 13 days later, succumbed to her injuries. The crime sparked widespread public protests and garnered international attention. As Indian law forbids revealing the identity of the victim, she came to be called ‘Nirbhaya’, the fearless one.
+
+“The Nirbhaya case and the events that followed constitute an exogenous shock,” the authors Akshay Bhatnagar, Aparna Mathur, Abdul Munasib, and Devesh Roy wrote in this Ideas for India article from April 29, 2019. “The unprecedented media coverage, the widespread sympathy the victim evoked, and the scale and intensity of public outcry witnessed in the aftermath of this gruesome crime, may have emboldened victims to come forward and demand justice.”
+
+The case and its effect, the authors said, is similar to the ongoing #MeToo movement against sexual harassment and sexual assault, which caught on globally in October 2017 after several women spoke out against the sexual abuse and harassment meted out to them by Harvey Weinstein, a famous Hollywood producer.
+
+“Our view is that the Nirbhaya case is the spark for the Me Too movement in India,” researcher Aparna Mathur of the American Enterprise Institute told IndiaSpend. “I think India is going through a transformation where women are more emboldened to speak up, more likely to report crimes against them, and more likely to demand justice, as our paper shows.”
+
+But Nirbhaya has not impacted arrests, convictions for crimes against women
+
+While the outrage over the Nirbhaya rape case also prompted legal and administrative policy changes, this had little-to-no impact on arrests and convictions for rape, molestation and sexual harassment in Delhi, the researchers found.
+
+“There has been little change in the conviction rates for crimes against women, suggesting that policing and other changes did not materially affect outcomes beyond reporting,” they wrote.
+
+In fact, the conviction rate for rape crimes has been on a steady decline since 2007 and reached a historic low of 18.9% in 2016 from 27% in 2006, the study observed.
+
+“[B]ut it is important to remember that convictions can take a long time to work out,” Mathur said, adding that increased reporting can create pressure to effect change. “Less than 2% of domestic violence cases get reported to the police but hopefully, with this kind of #MeToo movement in India, those reporting rates can start going up as well, which should lead to more arrests and convictions going forward.”
+
+How the study was conducted
+
+Using data from the National Crime Records Bureau (NCRB), the researchers conducted a “synthetic control method experiment” to understand the impact the 2012 Nirbhaya case had on the reporting of crimes against women in Delhi.
+
+In this, Delhi, where the Nirbhaya case took place, is regarded as a 'treated' unit. For an ideal counter-factual “control” unit, a synthetic Delhi was constructed with the help of weighted average data from all the other states and union territories. This sample of a synthetic Delhi contained various economic, demographic, political, and law and order characteristics that closely resemble the capital city.
+
+To check the robustness of their findings--accommodating for the possibility that the increased reporting is not merely due to a general rise in crime--the researchers tested the impact of the Nirbhaya case on murder and culpable homicide, and found no discernible impact.
+
+They also carried out a falsification test--where a hypothesis, distinct from the one being tested, and unlikely to be related--is tested as a safeguard. For this, they checked the improbable effect of the Nirbhaya case on the reporting of road accidents, and found no effect, thus confirming their findings.
+
+Destigmatisation, greater ease in reporting critical
+
+In India, social and institutional elements collude to suppress reporting of crimes against women and are notably strong and resilient, the study observed.
+
+“Owing to factors like stigmatisation, apathy and foot-dragging of the law enforcement authorities, and fear of retribution for the victims, there is substantial under-reporting of crimes against women,” the researchers said.
+
+The victims are faced with feelings of contamination, of having been defiled or desecrated--exacerbated by cultural judgments that treat raped women as dirty and impure, or as “damaged goods”, the authors noted, referencing several previous studies.
+
+The rise in reporting of crimes against women is an important change because lack of reporting is the most fundamental and common obstruction in addressing crimes against women, the researchers said.
+
+“This is a wonderful change and a wonderful opportunity,” Mathur said. “We hope that this will spark major institutional changes as well in law and order, police, the court system, etc, so that not only does it become easier to report a crime, but it becomes easier to prosecute the perpetrators as well.”
+
+(Saldanha is an associate editor at IndiaSpend.)
+
+We welcome feedback. Please write to respond@indiaspend.org. We reserve the right to edit responses for language and grammar.

@@ -1,0 +1,61 @@
+These 2 brothers from Jaipur built a foodtech business with Rs 45 lakh in less than 6 months
+
+Why wait, when you can just tap (the screen)?
+
+We are living in an app-driven world where technology is taking over a new industry each day and making it simpler, easier, and more convenient. And, yet the various disruptions in the foodtech space are mindboggling.
+
+First, it was the myriad of food delivery services, and now there is a new app around the block that is changing the way you dine out by digitising the entire ordering and checkout process for full-service and self-service restaurants.
+
+With Zoop, brothers Nandit and Gaurang Bindal want to make the process of dining out easier for customers and restaurant managers.
+
+The brainchild of Nandit and Gaurang Bindal, two brothers from Jaipur, Zoop aims to simplify the dining experience for both diners and restaurant managers. It allows customers to place orders directly from their smartphones by simply scanning a QR code placed on their tables in partner restaurants, which in turn, opens the menu on the app.
+
+“This eliminates the endless waiting time and hassles that the customer faces while dining in a restaurant,” the duo says, adding, “Zoop also drastically reduces the turnaround time of each order, driving cost savings and additional revenues for the restaurant.”
+
+ALSO READ How this Mumbai startup achieved a 100 percent MoM revenue growth teaching kids to code
+
+The birth of a billion-dollar idea
+
+“The idea of Zoop was actually born out of frequent frustrating experiences at food courts and QSRs,” say Gaurang and Nandit, who conceived the idea of the app in 2017. The platform, however, was executed in June 2019.
+
+The brothers, passionate about technology and building a scalable and sustainable business, have personally struggled with the long queues at food courts and the hassle of browsing through a sea of menus and waiting for hours for their order. As trivial as it might seem, it is one of those universal problems, which, if addressed, could save precious man-hours and money.
+
+“Not just customers, restaurateurs also face challenges in finding appropriately skilled manpower and retaining them,” the duo says. After all, the restaurant industry is known to face high attrition, which in turn, usually leads to increased spending on training and compromised customer experience.
+
+As the founders explain, “Various redundant processes like getting the menu multiple times, making multiple trips to get the order, or to collect payments lead to increased turnaround time of tables and lost sales during peak hours.”
+
+Stay Updated Get stories of change makers and innovators from the startup ecosystem in your inbox Please fill in this field. {{#error}} {{error}} {{/error}} {{^error}} Something went wrong. Try again later {{/error}} Welcome Onboard ! You have been successfully registered for our daily newsletter.
+
+With Zoop’s end-to-end solutions, these redundancies can be easily eliminated as the customer can order once seated and avail all services from their smartphones.
+
+ALSO READ From Rs 1 lakh to Rs 5 Cr: how 5 college friends are building a posh camping startup
+
+More than an ordering or payments app
+
+Digitising the foodtech or even the restaurant-tech space isn’t a completely novel concept. There are many players in the market solving issues surrounding ordering, feedback, payments, or CRM.
+
+Zoop is breaking ground here by holistically addressing all concerns and providing an entire suite of services. While their core USP is reducing customer efforts by 80 percent in food courts and QSRs, along with the operational challenges faced by the partner outlets, the team is also working towards generating valuable data insights for clients.
+
+“It shows the customer’s dining history, preferences, and recommendations, which helps outlets to offer personalised services to customers, who are, in turn, delighted,” the entrepreneur-duo explains.
+
+In addition to this, Zoop is developing a loyalty programme that will be linked to consumption behaviour of customers. This will solve the problem of deep discounting that the industry retaliated to recently, the founders say. There is also an AI-enabled deal and algorithm-based automated reward management system in the making.
+
+The founders add, “We have started with the dining industry first, but have plans to cater to other sectors such as hotel rooms, theatres, and retail chains.
+
+From Jaipur to across India
+
+“We started in Jaipur as the city’s restaurant market is one of the fastest-growing markets in India today. And since, we are residents of this city, the operations and logistics were easy for us. This helped us quickly onboard pilot sites, analyse usage, and roll out improvements to the products to enhance the usage,” the founders explain.
+
+Bootstrapped with Rs 45 lakh, it has been nearly four months since the inception of the in-restaurant ordering and checkout platform. In this short period, the startup, comprising a team of 11 technical and non-technical employees, has already on-boarded 23 brands. Some of these names include Tea Tradition cafe, Brown Sugar cafe, The Modern Chowpatty (Foodcourt), and Trove cafe.
+
+“For food courts, it was a no-brainer as the outlet owners immediately understood the need for such a system. For cafes and lounges, owners understood the benefits of Zoop and were excited to try this concept as a similar thing had not been executed so far at a significant scale,” the duo says.
+
+Following the successful pilot in Jaipur, Zoop is looking to expand to Tier I cities in India, and also to other international markets with a high labour cost. In the next 18 months, the target will be to onboard 6,000 outlets pan-India, while transacting Rs 60 crore monthly on the platform.
+
+“Our revenue by then would be nearly Rs 4-6 crore monthly,” the founders add.
+
+To cross this milestone, however, would mean pumping in more capital. And, Gaurang and Nandit are well aware of this, as they "are looking to raise funds aggressively”.
+
+In the end, it is all about creating an integrated ecosystem and eliminating the current operational challenges. As the founding duo explains, “as more and more outlets adopt Zoop, the ecosystem will also get trained and the challenges will eventually fade away”.
+
+(Edited by Suman Singh)

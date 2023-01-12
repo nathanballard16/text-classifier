@@ -1,0 +1,11 @@
+A toot for a tweet
+
+Last week, social media in India witnessed a wave of protests against Twitter’s alleged discriminatory practices, after the micro-blogging platform suspended the account of Supreme Court lawyer Sanjay Hegde. Twitter’s take was that Hegde’s posts breached its posting guidelines. Twitter had suspended Hegde’s account twice for breach of terms. The first was on October 26 — for posting what according to Twitter was “hateful imagery”, after Hegde shared the famous image of Augus Landmesser, a German worker who had refused to perform the Nazi salute at a rally during Hitler’s rule — and then on October 27, on similar grounds.
+
+Hundreds of social media users protested the move, calling it a gag on free speech and the protests included a call to boycott Twitter and use open source platforms such as Mastodon for online social networking. Right on cue, thousands from India joined Mastodon, expressing solidarity with Hegde’s cause and highlighting the fact that Twitter has been turning a blind eye to handles that openly spew hate speech.
+
+This is one of the rare instances where such protests have attained a noticeable scale in India. It is promising that the narrative of holding Big Tech accountable is acquiring public appeal. This is important at a time when there is a heated debate on what should be done to creatively control global tech companies such as Facebook, Twitter and Google and make them more accountable to public scrutiny. This entails stopping them from introducing and continuing with discriminatory practises that help vested interests and misinformation campaigns.
+
+The debate now raging in the US — thanks to Senator Elizabeth Warren’s comments on the need for breaking Big Tech up before they become too big to fail — must have its resonance in India as well. These attempts must go beyond symbolism and seek alternative channels of communication. They should take the form of a political campaign for free speech, forcing Big Tech to introduce remedial measures.
+
+The writer is Deputy Editor with BusinessLine

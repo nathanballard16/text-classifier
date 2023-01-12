@@ -1,0 +1,65 @@
+ISRO Needs to Reflect on How It Can Encourage, Not Dismiss, Those Who Can Help
+
+Chandrayaan 2 was India’s third attempt to operate a satellite outside of Earth’s orbit. The first two attempts of similar feats, Chandrayaan 1 and the Mars Orbiter Mission (MOM), were both significantly successful. In fact, MOM advertised ISRO’s and India’s prowess in space exploration beyond the organisation’s highest expectations. It reached Mars and got into orbit around it with textbook precision. It continues to go strong to this day. So ISRO, brimming with confidence, decided to go public with Chandrayaan 2 with a vengeance – and rightly so. It was time that the country and indeed the world shared in yet another spectacle put on by ISRO.
+
+The GSLV Mk III turned ‘Bad Boy’ turned ‘Bahubali’ launched the Chandrayaan 2 mission on July 22 (in a performance that exceeded expectations). After a series of intricate manoeuvres in orbits around Earth and the Moon, the Chandrayaan 2 satellite stack, consisting of an orbiter and the lander, Vikram, completed its initial manoeuvres, and then it was finally time for the big event. Vikram separated from the orbiter and began a controlled descent towards the Moon’s surface, preparing to soft-land on lunar soil. Vikram carried a rover named Pragyan in its belly plus a payload of six instruments.
+
+What happened next?
+
+Rashomon effect
+
+A minister in the Lok Sabha described the sequence of events thus on November 20, 2019, in reply to an unstarred question (edited for grammar):
+
+The lander Vikram was separated, as planned, from the orbiter on 2nd September 2019. After two successful de-orbiting manoeuvres, powered descent of the lander was initiated on 7th September 2019 to achieve soft-landing on the moon’s surface.
+
+The first phase of descent was performed nominally from an altitude of 30 km to 7.4 km above the moon’s surface. The velocity was reduced from 1,683 m/s to 146 m/s. During the second phase of descent, the reduction in velocity was more than the designed value. Due to this deviation, the initial conditions at the start of the fine-braking phase were beyond the designed parameters. As a result, Vikram hard-landed within 500 m of the designated landing site.
+
+Other than this, there have been updates on ISRO’s website as well.
+
+September 7, 2019:
+
+The orbiter camera is the highest resolution camera (0.3m) in any lunar mission so far and shall provide high resolution images which will be immensely useful to the global scientific community. The Vikram lander followed the planned descent trajectory from its orbit of 35 km to just below 2 km above the surface.
+
+September 10, 2019:
+
+Vikram lander has been located by the orbiter of Chandrayaan 2 but no communication with it yet. All possible efforts are being made to establish communication with lander.
+
+September 19, 2019:
+
+National level committee consisting of academicians and ISRO experts are analysing the cause of communication loss with lander.
+
+The website doesn’t have any updates in September after that. There’s one from October 3 but it doesn’t mention of Vikram, as if ISRO had buried it in its mind. However, it’s not so easy to bury an asset paid for by the taxpayer, that too after a big media blitz and promotion by politicians.
+
+On September 30, the Reddit user @piedpipper filed an RTI application with questions about Chandrayaan 2. The reply, which arrived a month later, had a lot in common with the answer provided in the Lok Sabha. It stated that the cameras onboard the orbiter operated according to scientists’ needs but didn’t say how many images it had acquired; that one such camera had photographed the Vikram lander lying on the Moon and that “it is under processing”; and that “the summary of investigative committee conclusions will be made available on public domain as soon as the investigation is completed.”
+
+Who spotted Vikram first?
+
+On December 3, NASA announced that an Indian engineer named Shanmuga Subramanian, in Chennai, had located a part of the Vikram lander in photographs of the Moon’s surface captured by NASA’s Lunar Reconnaissance Orbiter (LRO). Subramanian had tipped off scientists at NASA, who followed up and were able to confirm his discovery.
+
+The NASA announcement praised ISRO and notes that it released LRO camera data for download: “Despite the [lander’s] loss, getting that close to the surface was an amazing achievement. The Lunar Reconnaissance Orbiter Camera team released the first mosaic (acquired September 17) of the site on September 26 and many people have downloaded the mosaic to search for signs of Vikram.”
+
+It’s also noteworthy that NASA didn’t hesitate to acknowledge Subramaniam’s efforts in the same statement.
+
+Also read: What Chandrayaan 2 Taught Us About India’s Media Landscape Today
+
+The LROC consists of two narrow-angle cameras designed to provide 0.5-meter-scale panchromatic images over a 5-km swath and a wide-angle multispectral camera of lower resolution. The Chandrayaan 2 orbiter has a high-resolution camera (OHRC). Each OHRC image covers an area of 12 km x 3 km, with a ground resolution of 0.32 m. That is, ISRO’s OHRC is a shade better than NASA’s LROC. Since it’s quite possible that ISRO used OHRC to find the Vikram lander, why was ISRO unwilling to share the OHRC data?
+
+In fact, an update on October 4 includes some remarkable pictures of the Moon taken by the OHRC. Surely by this time it would also have covered Vikram’s landing site and its environs.
+
+Moreover, compare the open attitude apparent in NASA’s statement with the opacity on display in the reply ISRO gave to the Lok Sabha, to the RTI request and its cavalier dismissal of Subramanian’s efforts. When ISRO chairman K. Sivan was asked about the announcement that an amateur had spotted the lander’s remains, he said, “We don’t want to [say] anything on this one. After the landing date itself, our website had [said] that our own orbiter has located Vikram. We have already declared that on our website. You can go back and see… Our own orbiter has located the site of the lander.” However, “ISRO will not refute the claims made by NASA,” he added.
+
+Time for change
+
+Is this how ISRO wants to encourage India’s budding scientists and other enthusiasts, that too after its outreach efforts ahead of the Chandrayaan 2 mission?
+
+What is the problem? Space is hard and failures are to be expected. There is no shame because we can only learn by failing. Why then this opacity, these attempts to cover up and, worse, the denigration of the industry of a public-spirited individual?
+
+Also read: When ISRO Isn’t Enough, There’s Another Place You Can Go to Find Out More
+
+When @piedpipper asked for information about drop-tests conducted with the lander before launch, the organisation replied with a rude denial: “The Vikram lander was subjected to a series of drop tests and as per qualification test plan. The specifics of the tests cannot be shared.”
+
+ISRO needs reminding that it exists at the pleasure of the Indian public, who have elected to the Parliament people who have a strong commitment, among other things, to spaceflight. Its funds come from taxpayers and it is therefore beholden to them.
+
+It has been a long journey since the first launch of India’s Satellite Launch Vehicle, when the media took Satish Dhawan to town following his statement that it was a partial success. Today, the media is highly supportive, students look up to ISRO and the people – as represented by Subramanian – have become voluntary participants in ISRO’s efforts. The organisation should respect this.
+
+One way ahead is to not act hoity-toity and dismiss help.

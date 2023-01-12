@@ -1,0 +1,35 @@
+IT firm that allegedly helped TDP manipulate Andhra voter data booked in Telangana
+
+IT firm that allegedly helped TDP manipulate Andhra voter data booked in Telangana
+
+Data analyst Lokeswara Reddy filed a complaint, alleging that IT Grids, which developed the Seva Mitra app for TDP, stole data from the government database and processed it without consent.
+
+news Privacy
+
+It was a standoff between Telangana and the Andhra Police at the office of the IT Grids, a company accused of stealing the official database of Andhra Pradesh beneficiaries for alleged voter profiling. The Telangana police raided the office in Hyderabad on Saturday evening based on a complaint filed by a data analyst, T Lokeswara Reddy, at Madhapur Police station.
+
+The management of the IT firm, in response to the complaint, filed another complaint in Hyderabad the same day but with the Andhra police. The company stated that one of their employees, who was taken for questioning by the Cyberabad police were missing. Soon, the Andhra police arrived at the IT Grids office and took control of the premises.
+
+In his complaint, Lokeswara alleged that the company, which developed the Seva Mitra app for the Telugu Desam Party (TDP), stole data of Andhra Pradesh beneficiaries from the state government database and processed the data without consent. The Cyberabad police, along with the cybercrime officials, raided the office, took four people in custody and confiscated computers and other devices.
+
+The firm has been booked for violating provisions of data theft (under the IT Act), cheating and criminal conspiracy.
+
+'TDP finding who is against and for govt'
+
+The complaint was filed after the analyst found that the TDP party cadres were going door to door for data collection using the Seva Mitra app. According to the description on the Google Playstore, the app was developed for the party and can be used only by registered party workers. The app is meant to provide real-time updates to the party cadre by connecting the party workers to the leaders.
+
+However, the app has features that would classify voters based on constituency and booths. The party workers going door to door was expected to identify voters at the booth level and enter their data, including caste, political party preference, rating a party on a scale of one to 10 and other personal details. The app also collected voter data on the number of government schemes a voter avails of and the amount received in state subsidies.
+
+Speaking to Coreena Suares, a reporter with Deccan Chronicle, Lokeswara said, “From what I learnt through Seva Mitra app, the Andhra Pradesh government has utilized the services of Bluefrog Mobile Technologies in Visakhapatnam to implement government schemes and functions. During the course of discharge of work by Bluefrog, it was given access to an enormous amount of official data in respect of the beneficiaries of various government schemes and also private data of individuals.” The data that Bluefrog had access to, through the Andhra government, is now in possession of IT Grids, he added.
+
+Lokeswara told the media that the database of state scheme beneficiaries in the state, contained in the AP Smart Pulse Survey, State Resident Data Hub Praja Sadhikara Vedika (managed by Karvy Data Management Services Ltd., Hyderabad) and IVRS surveys conducted by the Andhra government, were shared with the IT company.
+
+“The TDP is making use of this data to analyse who are for and who are against the government and based on this analysis, they have deleted hundreds and thousands of names of voters,” alleged the analyst.
+
+'Cops targetting firms offering services to TDP'
+
+Opposition parties and researchers have in the past few months raised concerns about the Seva Mitra app and its potential misuse for voter profiling. Earlier, YSRC MP Vijaysai Reddy had also approached the Cyberabad Police, seeking probe into the app and its developers.
+
+Rejecting of allegations, the TDP now accuses the Telangana Rastra Samiti (TRS) of using the Telangana police as a tool to target IT firms that work with the TDP. They also accused the TRS of stealing the data and giving it to YSRC to influence Andhra Pradesh polls.
+
+TDP minister and son of Andhra Pradesh Chief Minister, N Lokesh took to Twitter to express his displeasure with the Telangana police. “Telangana police are used to targetting the IT companies giving services to TDP. Are Modi, Jagan and KCR not ashamed of kidnapping the IT employees of those companies and threatening them,” he tweeted. He also added that only the Election Commission of India was the designated authority to look into the issue.

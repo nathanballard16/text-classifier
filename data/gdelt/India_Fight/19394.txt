@@ -1,0 +1,49 @@
+Why EY’s Purchase Of Pangea3 Should Be A Wake-Up Call For Law Firms - Above the Law
+
+News flash: The legal services landscape is changing. Fast. Maybe faster than you think. And it does not bode well for law firms.
+
+Dramatic evidence of this came last week with the news that Ernst & Young had signed a deal with Thomson Reuters to acquire Pangea3, the legal managed services business that pioneered the outsourcing of legal work to legal professionals in India.
+
+Ernst & Young — which does business as EY — is known worldwide as one of the Big Four accounting firms. But calling EY an accounting firm is like calling Amazon a bookseller. EY is a global professional services firm — actually a network of member firms — that provides a range of consulting and advisory services.
+
+Starting as far back as the 1990s, those services increasingly began to include legal services, particularly within the European market. In 2014, EY was granted an alternative business structure license by the Solicitors Regulation Authority in the UK to provide “integrated, multidisciplinary legal services across England and Wales.” EY reorganized its legal services under a separate entity, EY Law.
+
+Last August, EY furthered its push into legal services with the acquisition of Riverview Law, an innovative UK law firm. “The acquisition will help to enhance and scale the EY Law legal managed services offering and help EY clients to increase efficiency, manage risk, improve service transparency and reduce costs of routine legal activities,” the company said at the time. Last month, EY Law announced a deal to deploy the AI platform Luminance across its global legal network.
+
+A 2017 study of the Big Four in law, conducted by David B. Wilkins and Maria J. Esteban Ferrer of Harvard Law School’s Center on the Legal Profession, found that, as of 2012, EY was promoting legal services in 100 countries. In 79 of those countries, it was promoting services across a full range of tax, business, and employment areas. The other Big Four firms offered similar ranges of coverage.
+
+As that Harvard study said:
+
+In recent years the legal service lines linked to the international accountancy networks have grown significantly in size, scope, and importance. … Moreover, as impressive as their expansion has been over the last decade, we argue that there are good reasons to believe that the Big Four will be even more successful in penetrating the corporate legal services market in the decades to come.
+
+Both EY and Pangea3 represent facets of a fast-expanding segment of the legal market that falls generally under the catch-all “alternative legal service providers.” A January 2019 study of the ALSP market published by Thomson Reuters valued it at $10.7 billion in 2017 revenue, with a growth rate of 12.9 percent. The study described ALSPs collectively as a “dynamic, growing industry” that has “made dramatic progress in the past two years.”
+
+The TR survey further found that growth in corporations’ use of ALSPs is stronger than projected and that expectations for future use are high. Once a corporation begins to use ALSPs, the study said, “it tends to look for new opportunities to leverage the ALSPs’ capabilities.”
+
+One more point from that TR survey — and perhaps the most significant one: Whereas the traditional view of ALSPs is that they primarily provide the types of legal services that are less skilled and more commoditized, the fact is that they “are steadily moving up the legal value chain to offer more sophisticated services.”
+
+ALSPs recognize that their clients – corporations and law firms – regard low pricing and value-for-money as a key component of their competitive advantage. However, as is evident from the variety of reasons why clients use ALSPs in our survey, ALSPs themselves articulate their own unique selling proposition as combining quality talent and technology to offer holistic solutions to customers.
+
+Here in the United States, the Big Four have been throttled in their ability to provide legal services by rules restricting the practice of law and private ownership of legal services providers. Even so, recent years have seen not only greater use of ALSPs within the U.S., but also the emergence here of alternative entities that could be viewed as end runs around the professional conduct rules. One example that I’ve written about here in the past: Atrium, the bifurcated entity that is part law firm, part tech company.
+
+And even as all this is happening, those very rules are undergoing closer scrutiny than ever before. In both California and Utah, serious studies are underway of whether to loosen regulatory restrictions on private corporations and non-lawyers. Mark my words: At least one jurisdiction will drop or significantly loosen the private investment ban within the next five years. Once that happens, the dominos of state regulation will begin to fall.
+
+Once that happens, it will open the floodgates of competition in legal services. And the EYs and ALSPs of the world will have the upper hand. What the Big Four already do better than most firms is combine the Big Three — people, process, and technology — to deliver legal services both effectively and at greater value.
+
+Recently on my LawNext podcast, I interviewed Mark Chandler, vice president and chief legal officer at technology giant Cisco. During that interview, I asked about his use of ALSPs. While he uses them, he said, he dislikes referring to them as “alternative.” For him, they are simply another provider to consider, along with law firms, when shopping for legal services. “They are certainly alternatives, but they all have equal weight when you’re a client looking to accomplish a task.”
+
+So how is all this a wake-up call for law firms? Two reasons account for the success of the ALSP model. One is that they are successful at combining and emphasizing the Big Three I mentioned above — people, process, and technology. As the TR survey said:
+
+Where law firms lead with specialized expertise and highly trained legal judgment, ALSPs may employ contract lawyers for specific time-bound needs, implement rigorous process and project management across massive volumes of work, or deeply integrate technology to gain efficiency.
+
+The other is that ALSPs are sophisticated in their use and development of technology. Again quoting the TR study:
+
+Technology adoption marks another important attribute of ALSPs, and it is often emphasized more strongly in ALSPs than at traditional law firms. Technology-enabled services allow ALSPs to provide higher value and take on different and more complex tasks. Some ALSPs may rely on third-party technology, but others are developing proprietary systems in search of sustainable competitive advantage. Further, the technology being adopted is often state-of-the-art; about a quarter of ALSPs interviewed say their systems use artificial intelligence (AI).
+
+Meanwhile, Wolters Kluwer Legal & Regulatory last week published a report, 2019 Future Ready Lawyer Survey, which concluded that law firms and legal organizations that effectively leverage technology are better prepared to keep pace with the evolving legal market than those that are just beginning to use technology or not doing so at all.
+
+I was one of several outsiders who WK asked to contribute thoughts to the survey, and one comment I made seems pertinent here. WK asked me what advice I had for legal professionals preparing to be ready for the future. “The best way to be future ready,” I said, “is to not wait until the future to prepare.”
+
+The Big Four professional services firms aren’t waiting. They are champing at the bit. Even though they’ve been throttled here in the U.S, the gates will open, sooner or later. Once they do, the Big Four will be ready to gallop. Will firms be able to keep pace?
+
+Robert Ambrogi is a Massachusetts lawyer and journalist who has been covering legal technology and the web for more than 20 years, primarily through his blog LawSites.com. Former editor-in-chief of several legal newspapers, he is a fellow of the College of Law Practice Management and an inaugural Fastcase 50 honoree. He can be reached by email at ambrogi@gmail.com, and you can follow him on Twitter (@BobAmbrogi).

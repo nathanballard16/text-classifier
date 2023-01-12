@@ -1,0 +1,39 @@
+Amazon employees listen to customers through Echo products, report finds
+
+If you have an Amazon Echo product, you aren't the only person privy to your private conversations.
+
+Thousands of people across the globe are employed by Amazon.com to listen to Echo recordings, transcribe and annotate them and feed them back to the software so that Alexa can better grasp human speech, according to a report from Bloomberg.
+
+The employees – ranging from Boston to India – signed nondisclosure agreements barring them to speak publicly about the program. According to Bloomberg, they work nine hours per day, with each reviewer going through as many as 1,000 audio clips per shift.
+
+While some of the recordings are more in the realm of the mundane, such as singing in the shower, others can be more serious. Two employees told Bloomberg they heard something they believed to be a sexual assault.
+
+As the Bloomberg report cites, Amazon has a job opening for a quality assurance manager. The position's description states: "Every day (Alexa) listens to thousands of people talking to her about different topics in different languages, and she needs our help to make sense of it all."
+
+Green tech: Apple wants to prove doing right for the planet is good for business
+
+Store shutdown: Fred's to close 159 stores and start clearance sales at 360 locations
+
+"This is big data handling like you’ve never seen it. We’re creating, labeling, curating and analyzing vast quantities of speech on a daily basis," the description reads. "At any time we have a host of programs running that use that data to launch new languages, build new features and improve Alexa’s understanding of the world."
+
+An Amazon spokesperson responded to USA TODAY with a statement that reads, "By default, Echo devices are designed to detect only your chosen wake word (Alexa, Amazon, Computer or Echo). The device detects the wake word by identifying acoustic patterns that match the wake word. No audio is stored or sent to the cloud unless the device detects the wake word (or Alexa is activated by pressing a button).”
+
+Story continues
+
+Critics of Amazon's Echo products have pointed to potential privacy violations. In 2015, the Electronic Privacy Information Center (EPIC) asked the Federal Trade Commission and the Department of Justice to conduct a “comprehensive investigation" into Alexa and other home-listening devices, according to Marc Rotenberg, president and executive director of EPIC.
+
+"There is an exception in the original wiretap act that allows services providers, such as telephone companies, to listen to calls for the purpose of improving the service, checking for example line impedance," Rotenberg said. "But it was never imagined that a telephone company could have a commercial interest in the contents of a phone call. The world is very different with Amazon because that company is very interested in everything its customers do."
+
+Amazon defends its actions, with a company spokesperson saying that the company takes "security and privacy of our customers’ personal information seriously" and only annotates "an extremely small number of interactions from a random set of customers."
+
+"We have strict technical and operational safeguards, and have a zero tolerance policy for the abuse of our system," the spokesperson said. "Employees do not have direct access to information that can identify the person or account as part of this workflow."
+
+Alexa users can disable the use of their voice recordings for the development of new features in Amazon's privacy settings or delete.
+
+Would you talk money on a first date? Millennials may, a survey suggests
+
+Tax refund debate: Is it better for your wallet to get a tax refund or nothing at all?
+
+Does this change how you feel about voice assistants? Share your thoughts with USA TODAY intern Ben Tobin on Twitter: @TobinBen
+
+This article originally appeared on USA TODAY: Amazon employees listen to customers through Echo products, report finds

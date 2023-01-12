@@ -1,0 +1,143 @@
+The CyberWire Daily Briefing 5.7.19
+
+Selected Reading
+
+Emerging technologies: views from industry and venture capital. ( The CyberWire ) Clouds, supply chains, open source and the problem of malicious commitment, the promise of known good, and what CISOs can bring to VCs.
+
+Cyber Attacks, Threats, and Vulnerabilities
+
+Facebook takes down Russian-linked disinformation targeting Ukraine ( CyberScoop ) Facebook announced it is taking down 97 pages, groups, and accounts emanating from Russia and targeting Ukraine that attempted to conceal who was behind them.
+
+Israel Bombs Building as Retaliation for Hamas Cyber Attack ( BleepingComputer ) The Israel Defense Forces (IDF) announced that a building used by Hamas cyber operatives was bombed on Saturday as part of a joint retaliation operation with the Israel Security Agency (Shin Bet) and Unit 8200 of Military Intelligence, following a failed cyber attack against Israel.
+
+A New Era of Warfare Begins as Cyberattack Leads to Airstrikes ( Gizmodo ) For the first time ever, a government announced publicly that it had used immediate lethal physical force in response to a cyberattack.
+
+Stolen NSA hacking tools were used in the wild 14 months before Shadow Brokers leak ( Ars Technica ) Already criticized for not protecting its exploit arsenal, the NSA has a new lapse.
+
+Chinese spies acquired NSA tools, used them to attack US allies: report ( TheHill ) A leading cybersecurity firm found evidence Chinese intelligence operatives repurposed National Security Agency hacking technology in 2016 to attack American allies and private firms in Europe and Asia,
+
+How Chinese Spies Got the N.S.A.’s Hacking Tools, and Used Them for Attacks ( New York Times ) The latest case of cyberweapons escaping American control raises questions about the United States’ expensive and dangerous digital arsenal.
+
+The Strange Journey of an NSA Zero-Day—Into Multiple Enemies' Hands ( WIRED ) How a "secret" hackable bug found by the NSA was used over by Chinese, North Korean, and Russian hackers to wreak havoc.
+
+Buckeye: Espionage Outfit Used Equation Group Tools Prior to Shadow Brokers Leak ( Symantec ) Windows zero day was exploited by Buckeye alongside Equation Group tools during 2016 attacks. Exploit and tools continued to be used after Buckeye's apparent disappearance in 2017.
+
+The Future Is Here, and It Features Hackers Getting Bombed ( Foreign Policy ) Israeli armed forces responded to a Hamas cyberattack by bombing the group’s hacking headquarters.
+
+Flaw in pre-installed software opens Dell computers to remote hijack ( Help Net Security ) Dell computer owners should update the Dell SupportAssist software as soon as possible to close a high-risk remote code execution vulnerability.
+
+Cyber security firm Malwarebytes explains how hackers attacked Microsoft's GitHub ( International Business Times, Singapore Edition ) Malwarebytes said the skimmer is a hex-encoded piece of JavaScript code that was uploaded to GitHub on April 20.
+
+Criminals are hiding in Telegram – but backdoors are not the answer ( Naked Security ) When it comes to an easy life, the criminals behind the fearful Anubis banking malware have become big fans of Twitter and, increasingly, the secure messaging of Telegram.
+
+Old Scams Getting New Life in the Cloud ( Netskope ) Netskope Threat Research Labs has recently discovered a new technique being used by scammers to reach potential victims: send emails and SMS messages that include links to common services, such as AWS, Azure, Alibaba cloud, and Google Docs. We have seen this technique used for well-known scams, like fake pharmacies, dating sites, and tech support, …
+
+What will phishers do once push-based MFA becomes widely used? ( Help Net Security ) As phishing thrives, investing in anti-phishing technologies should be a no-brainer for most companies. Cofense CEO discusses the future of phishing.
+
+Tron Blockchain Narrowly Escapes Crash Due to DDoS Attack: HackerOne Report ( BitcoinExchangeGuide ) Smart contract and dapp blockchain platform Tron (TRX) would have been history by now, according a report by HackerOne.
+
+Avengers: Endgame Sites Promise Digital Downloads, Deliver Info-Harvesting ( Threapost ) Web scammers are going after Marvel fans as the movie passes the $2.2 billion box-office mark, making it the second-highest grossing film of all time, behind only Avatar.
+
+Who’s Afraid of the Dark? Hype Versus Reality on the Dark Web ( Recorded Future ) We present our findings of a spider specifically for dark web sites in an effort to make an assessment of one precise definition of the term “dark web."
+
+The dark web isn't as big as you think. ( CyberScoop ) According to new research from Recorded Future, the number of dark web marketplaces selling illegal wares is around 100.
+
+Recent cyber-attack proves costly for Calif. school district ( www.SecurityInfoWatch.com ) Modesto schools shelled out more than $475K to eradicate viruses that took down essential services in the district
+
+Security Patches, Mitigations, and Software Updates
+
+High-Severity Bug Leaves Cisco TelePresence Gear Open to Attack ( Threatpost ) Cisco patches two high-severity bugs that could be exploited by remote attackers.
+
+WordPress 5.2 to Come with Supply-Chain Attack Protection ( BleepingComputer ) The WordPress 5.2 build which will be released today will ship with offline digital signatures for all core updates as a defense measure against possible supply-chain attacks, with support for themes, plugins, and translations to be delivered at a later date.
+
+Amazon to Disable S3 Path-Style Access Used to Bypass Censorship ( BleepingComputer ) Amazon announced in a post on the Amazon Simple Storage Service (S3) forum that the company will deprecate path-style API requests (used by many to circumvent censorship) starting with September 30, only keeping support for the virtual-hosted style request format.
+
+Cyber Trends
+
+Why Cybersecurity Matters to Small Businesses ( business.com ) With limited protection against cybercrime, small businesses are at risk.
+
+6 Security Concerns with Office 365 ( Security Boulevard ) As more organizations migrate to the cloud, the popular misconception that the cloud is not safe is slowly going away.
+
+5 Emerging Vectors of Attack and Recommendations for Mitigating the Risks ( Bricata ) DNS manipulation, domain fronting, targeted cloud individual attacks, HTTPS and encryption, and the exploitation of hardware features are among the emerging challenges adversaries can exploit according to cybersecurity experts at SANS.
+
+Why Are Financial Institutions Running into Obstacles When Improving Authentication? ( PaymentsJournal ) Caught within a shifting threat landscape, a tighter regulatory environment and a seismic shift in customers’ banking preferences – and
+
+Cyber threats, cyber opportunities, and collective defense: a view from the Three Seas ( Security Boulevard ) NSA’s Rob Joyce said recently at RSAC 2019 that we’ve seen a shift in the cyber attacks being mounted by nation-states.
+
+Marketplace
+
+Trump creates new cybersecurity competition with a $25,000 award ( Roll Call ) The competition is part of an executive order, signed by Donald Trump, aimed at addressing a shortage of cybersecurity workers across the federal government
+
+Huawei Says Collaboration Key to 5G Security ( Infosecurity Magazine ) Left out of Prague's 5G security talks Huawei says it shares a commitment to cybersecurity.
+
+Exabeam Raises $75 Million to Accelerate Worldwide Displacement of Legacy SIEM Vendors - Exabeam ( Exabeam ) Follows 2018, which saw 76 percent of platform replacement deals edge out legacy vendors IBM, McAfee, RSA, LogRhythm,[...]
+
+Kaseya Buys ID Agent To Strengthen Dark Web Monitoring Muscle ( CRN ) Kaseya has purchased cybersecurity startup ID Agent to add more end user protection to its existing security management and infrastructure protection capabilities.
+
+Dashlane Closes $30 Million in Funding ( Security Baron ) In a recent press release, Dashlane announced that they had closed $30 million in funding, bringing their overall funding to about $100 million.
+
+AIS awarded $93.6M contract ( Uticaod ) Assured Information Security in Rome has been awarded a $93.6 million Indefinite Delivery/Indefinite Quantity contract.This kind of
+
+Rapid Growth and Momentum Continues in 2019 for Hotshot, a Leader in Secure, Compliant Mobile-First Messaging and Collaboration ( Morningstar ) Rapid Growth and Momentum Continues in 2019 for Hotshot, a Leader in Secure, Compliant Mobile-First Messaging and Collaboration, Read most current stock market news, Get stock, fund, etf analyst reports from an independent source you can trust – Morningstar
+
+Products, Services, and Solutions
+
+SolarWinds Expands Security Portfolio with SolarWinds Endpoint Detection and Response Through Partnership with SentinelOne ( AP NEWS ) SolarWinds (NYSE:SWI), a leading provider of powerful and affordable IT management software, today announced that it has expanded its security portfolio with SolarWinds® Endpoint Detection and Response through its partnership with SentinelOne, the autonomous endpoint protection company.
+
+StackRox Kubernetes Security Platform Receives Red Hat Container Certification ( Yahoo ) StackRox Delivers Enhanced Security and Compliance Capabilities via the Red Hat Container Catalog
+
+D3 Security Redefines SOAR by Operationalizing the MITRE ATT&CK Framework ( BusinessWire ) D3 announces that it has operationalized the MITRE ATT&CK framework, advancing its SOAR platform to focus response actions on adversary intent.
+
+Microsoft offers software tools to secure elections ( Fifth Domain ) Dubbed
+
+Protecting democratic elections through secure, verifiable voting - Microsoft on the Issues ( Microsoft on the Issues ) Today, at the Microsoft Build developer conference, CEO Satya Nadella announced ElectionGuard, a free open-source software development kit (SDK) from our Defending Democracy Program. ElectionGuard will make voting secure, more accessible, and more efficient anywhere it’s used in the United States or in democratic nations around the world. ElectionGuard, developed with the assistance of our...
+
+Illusive Networks Has Developed an Ingenious Defense System to Protect Dating Sites & Apps From Hackers - [Dating News] ( DatingNews.com ) In July 2015, a hacking group known as The Impact Team created a nightmare scenario for Avid Life Media, the online dating company that owns Ashley Madison.
+
+Technologies, Techniques, and Standards
+
+As cloud computing lifts off, fog computing remains ( C4ISRNET ) ManTech says it has produced a system that will enable tactical war fighters to process and analyze intelligence in real time.
+
+The Army looks to build up its cyber arsenal ( Fifth Domain ) Could tactical Army cyber units leverage tools from Cyber Command?
+
+What Is Application Shielding? ( WIRED ) Security firms are increasingly touting application shielding as an important layer of defense. But it may be better suited to DRM.
+
+The Overlooked Military Implications of the 5G Debate ( RealClear Defense ) Last week, the U.S. Defense Innovation Board released a report outlining the risks and opportunities for the United States in the global race to develop 5G.
+
+Air Force and Akamai Zero in on Zero Trust ( Meritalk ) While few can pronounce the Air Force CTO's name – zero can spell it – which leads us in nicely to Frank Konieczny's presentation on Zero Trust at Akamai’s event on Tuesday, April 30, “Zero Trust: Moving Beyond Perimeter Security.”
+
+Design and Innovation
+
+Analysis | The Cybersecurity 202: This new Android app aims to tackle cyber insecurity in the developing world ( Washington Post ) The goal is to improve the global cybersecurity ecosystem.
+
+Mark Zuckerberg’s ‘hate ban’ isn’t about safety — it’s about his own ego ( New York Post ) Why is Alex Jones permitted to have a telephone? It’s a serious question. Facebook on Thursday announced that a small assortment of kooks — Alex Jones, Laura Loomer, Milo Yiannopoulos, Paul Joseph …
+
+Algorithms of Suppression ( The American Mind ) Google is punishing the Claremont Institute for our political thought by refusing to let us advertise to our own readers.
+
+Research and Development
+
+Edgewise Networks Receives Approval for Two New Patents; Amasses IP Portfolio for Zero Trust Microsegmentation ( BusinessWire ) Edgewise Networks receives approval for two new patents, further strengthening its IP portfolio for Zero Trust microsegmentation
+
+Researchers working on tools that aim to eliminate computer bugs ( Help Net Security ) Researchers at Stevens Institute of Technology are developing new tools that could eliminate computer bugs with ironclad certainty.
+
+Academia
+
+Air National Guard and UMass Dartmouth join hands to boost cybersecurity ( CISO MAG ) As per the partnership deal, the Airmen of the Air National Guard will offer relevant academic and cybersecurity courses to the university students.
+
+Four Reasons Why The University Of Louisville's IBM Skills Academy Is A Very Smart Move ( Forbes ) The University of Louisville and IBM have partnered to launch an IBM skills academy. It's a smart move that will spur economic growth, attract more students, aid the company's search for talent, and serve the two main motives for college attendance. More universities will soon follow this lead.
+
+Legislation, Policy, and Regulation
+
+China making 'rapid progress' on potency of cyber-operations, Pentagon says - CyberScoop ( CyberScoop ) China’s cyber-theft and cyber-espionage operations are accelerating to the point that they can “degrade core U.S. operational and technological advantages,” according to a congressionally mandated assessment of the Chinese military the Pentagon issued Friday.
+
+US, Russia butt heads over Venezuela ( AFP ) US Secretary of State Mike Pompeo pressed Sunday for Russia to get out of Venezuela, while his Russian counterpart, Sergei Lavrov, called on Washington to "abandon its irresponsible plans" in the crisis-wracked country.
+
+India may reject US demand for outright ban on Huawei ( The Economic Times ) Huawei feels confident that the company will, along with rest of the industry, be allowed to participate in the 5G trials but expects a decision only after the ongoing general elections.
+
+Ireland must take heed of Britain’s cyber woes with Huawei ( The Irish Times ) Cyber security is battlefield on which all states must defend their sovereignty
+
+Litigation, Investigation, and Law Enforcement
+
+Two Israelis arrested in global 'dark' Internet probe ( Reuters ) Two Israelis have been arrested on suspicion of setting up a "dark" In...
+
+Marine colonel commanding cyber operations group fired following drunk driving arrest ( Marine Corps Times ) Col. Douglas Lemott Jr. was the third colonel fired in recent weeks from a key command position.

@@ -1,0 +1,67 @@
+Lithium Battery Developments (OTCMKTS:JMPLF)
+
+Overview
+
+It cannot have escaped anyone’s attention that electric cars are becoming ever more popular. For Tesla, first mover advantage is being eroded as new entrants enter the market with their own version of battery powered vehicles. In many ways, an electric vehicle (EV) is only as good as its battery and this is one aspect where Tesla has been highly praised. However, this dominant feature of Tesla is now being challenged. Since this dominance is being threatened, Tesla (NASDAQ:TSLA) recently telegraphed its intention to break away from their partner Panasonic (OTCPK:PCRFY) and begin serious research into developing their own proprietary battery technology. Naturally, this split from Panasonic will allow Tesla to source the very best components for their battery. Enter stage left, Johnson Matthey PLC. (OTCPK:JMPLF). This little known FTSE 100 company currently produce the best performing cathode material for lithium batteries.
+
+Brief history of lithium batteries
+
+For those unfamiliar with the construction of a lithium battery, I can refer you to the diagram below. As you may note, a lithium battery consists of a carbon anode, an electrolyte and a lithium based cathode. It is in the composition of the cathode where most research and development has taken place.
+
+Infographic courtesy battery university
+
+The initial commercial lithium batteries used a lithium-cobalt-oxide cathode, mostly known simply as a lithium battery or LiCo. Following further research, oxides of nickel, manganese, cobalt, and iron were used. These later batteries took on various acronyms, dependent upon the make-up of the chemical composition of the cathode. Examples of this include names like NMC (Nickel Manganese Cobalt), NCA (Nickel Cobalt Aluminum), or LiFePO (Lithium Iron Phosphorus).
+
+For electric vehicles, various versions on NMC batteries are most commonly used. The first versions of the NMC were also known as NMC 111 to indicate the ratio of each element. Great attempts were made to reduce the cobalt for cost reasons, and now the most modern version is NMC 811. Of course, Tesla claims to have the highest energy density used in any EV and so many commentators are assuming that Tesla has moved to NMC 811. Given the cost of research and building production facilities, it’s safe to assume that NMC 811 will be the gold standard for the next couple of years.
+
+The future
+
+The next generation of cathode materials is on the way. New research has led to an advanced version of NCA (Nickel Cobalt Aluminum), which is claimed to have more rapid charging and energy density characteristics. However, it seems that this material has already been superseded by a compound from Johnson Matthey known as eLNO. From the infographic, one can see the cost benefits of eLNO but the material also displays superior energy density and charging speed.
+
+USD per Kilo Watt Hour per cycle to end of useful life
+
+Chart to scale, indexed with eLNO = 100
+
+Infographic courtesy Johnson Matthey based on independently sourced data
+
+It doesn’t take a marketing degree to understand that the battle ground for EV’s will be fought on figures connected to charge times and distance per charge. The car that charges the fastest and goes the furthest on a single charge will, in my opinion, get the greatest market share. In view of the critical nature of the battery element of a vehicle, Tesla have broadcast the existence of a lab to focus on battery technology. Also in the news has been news of some friction between their long term battery partner, Panasonic.
+
+Having a lab to focus on battery design gives a number of advantages. Foremost among them, is complete control over sourced components. Also, given Tesla’s clear focus on quality and remaining number one, it’s my contention that Johnson Matthey may well be a contender to supply Tesla with its eLNO range of cathode materials.
+
+Johnson Matthey
+
+The company is an underappreciated 200 year old company that provides an array of high-technology compounds and products. In many of the sectors it serves, the company has market leading position. To remain at the forefront of these sectors, the company employs 1,450 people in R&D, which is 12% of its global workforce.
+
+Back in the day when lead acid batteries were the height of science know how, the company was supplying the technology to enable faster battery charge and discharge models. More recently, the company has developed industrial facilities to produce the previously mentioned cathode material LiFePO (Lithium Iron Phosphorus).
+
+A measure of success in marketing their LiFePO offering has been achieved. In the last annual report, a highly respectable increase of 30% in revenue was achieved. Total sales increased from £156 Million ($196 Million) to £206 Million ($259 Million) during the previous financial year. The level of success achieved with LiFePO certainly cements the company’s reputation and know how in cathode materials science; certainly encouraging for investors
+
+Also heartening for investors was the news of a 5 year agreement with Lithium Werks, a leading battery producer, to deliver the eLNO range for the next class of Lithium Werks’ products. This relatively new private company has supplied in excess of 200 million batteries to more than 200 customers since its inception in 2017, which gives you some idea of the scale of the opportunity.
+
+Other products
+
+Back in 1974, JMPLF’s first ever emission control catalyst rolled off the production line. Fast forward 45 years and JMPLF is a world leader in catalytic converters. Despite a decline in the manufacture of gas and diesel driven vehicles last year, there was a step-up of 11% in the revenue for this segment of their business, which surely highlights JMPLF’s market leading position.
+
+One might be forgiven for thinking that with the advent of EV’s, a decline in the use of catalytic converters would be just around the corner. Far from it, the company is investing in new production facilities in China and India to cater for fresh demand. The reason is that clean air legislation is to be enforced in China and India in the very near future.
+
+The catalogue of products and compounds supplied by JMPLF is far too extensive to be covered here, so for those who wish to delve further into JMPLF’s range I suggest they visit their website.
+
+Valuation
+
+Since Johnson Matthey is a member of the FTSE 100 club, lots of investors consider taking a stake in the company. I imagine that upon reviewing their results in recent years, those investors promptly fell asleep. The share price has barely moved and the revenue is slightly less than it was in 2014. However, as outlined, I believe the company’s fortunes are going to buck up quite a bit.
+
+Share price chart courtesy Johnson Matthey
+
+Many companies with high expectations have lofty valuations, but in JMPLF’s case, the commonly used valuation figures are modest indeed. Take the price-to- earnings ratio, at time of writing it is a mere 13.9. Also noteworthy are the profitability ratios, which are very healthy. A favorite of Warren Buffett, the return on equity, is a respectable 16.6%.
+
+Metric Value Dividend Yield 2.6% P/E 13.9 ROE 16.6
+
+Table produced by author
+
+I would argue that for investors who have an eye for the future, the current share price represents good value.
+
+The opportunity
+
+Johnson Matthey is a leading light in lithium battery technology and is charging ahead (Pardon the pun) with plans to exploit their lead. Given the expanding market for batteries, the rewards are likely to be enormous. As of today, the valuation of the company is more than reasonable.
+
+Editor's Note: This article discusses one or more securities that do not trade on a major U.S. exchange. Please be aware of the risks associated with these stocks.

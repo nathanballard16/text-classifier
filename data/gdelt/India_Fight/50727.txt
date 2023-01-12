@@ -1,0 +1,5 @@
+Why users are logging out of Twitter and joining the Mastodon bandwagon
+
+If you are on Twitter, chances are you would have seen #Mastodon trending on the microblogging platform on Friday. If you were wondering what it is, the simple answer is that it is an alternative to Twitter.
+
+Earlier this week, several Twitter users began migrating to the social networking platform after a protest that began with Supreme Court lawyer Sanjay Hegde’s Twitter account suspension, and moved on to a larger conversation about Twitter's policies being allegedly anti-Dalit and certain castes and religion. While it may be trending, Mastodon is a tad more complex than ...

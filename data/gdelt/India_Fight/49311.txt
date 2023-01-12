@@ -1,0 +1,35 @@
+India Looking To Be The Next China, Sends Out Call For Bids On Massive Facial Recognition Program
+
+India Looking To Be The Next China, Sends Out Call For Bids On Massive Facial Recognition Program
+
+from the a-testing-environment-containing-1.3-billion-subjects dept
+
+India must be looking across the border at China and nodding approvingly. India is rolling up the global censorship charts, firing off thousands of takedown demands and court orders to American social media companies. The government also seems overly-concerned with "fake news" and has been abusing its national security laws to make social media posts (and sometimes their posters) disappear into the ether.
+
+Tech advancements are increasing the capabilities of the government's multiple surveillance networks. The most immediate beneficiary has been the country's law enforcement, which has added pre-crime analytics to a tool chest containing thousands of cameras and their biometric add ons.
+
+Citizens are also being saddled with digital IDs based on their fingerprints. The tech doesn't work as well as dozens of sci-fi movies led us to believe. The end result is people being unable to convince the government they are who they say they are, thanks to faulty tech or fingerprints that aren't in perfect enough shape to talk print readers into responding appropriately. This had led to people losing access to public assistance, sending the nation's most vulnerable residents into tailspins they may never recover from.
+
+Since this modernization is all going so well, the Indian government wants to expand its biometric collections. The country is seeking to assemble one of the world's largest facial recognition databases, as well as everything needed to make use of it, including cellphone apps for cops running scans and searches while on patrol.
+
+The daunting scope of the proposed network is laid out in a detailed 172-page document published by the National Crime Records Bureau, which requests bids from companies to build the project. Interested parties had until October 11 to submit their proposal. Currently unnamed, the project would match images from the country's growing network of CCTV cameras against a database encompassing mug shots of criminals, passport photos and images collected by agencies such as the Ministry of Women and Child Development.
+
+It's being done for the children. Or, at least, that's one of the talking points. New Delhi police have been using existing databases to identify and locate some of the country's 300,000 missing children. While this effort is noble and well-intentioned, the expansion of this to encompass pretty much anyone who walks past a government camera is a problem. This isn't about maintaining criminal databases to track suspects who are being sought by the government. It's about adding everyone to the database as quickly as possible and giving law enforcement discretionary access.
+
+According to the bid solicitation document [PDF], this database will be filled with images in bulk from a large number of sources. Here's part of the requested feature list:
+
+Capture face images from CCTV feed and generate alerts if a blacklist match is found. Add photographs obtained from newspapers, raids, sent by people, sketches etc. to the criminal’s repository tagged for sex, age, scars, tattoos, etc. for future searches. The system should have option to upload bulk subject images and generate alerts if any of the subject images matches with the registered faces in the database. The proposed FRS system should have option to input face images in JPEG, PNG etc. image and search and generate face matches with the stored database.
+
+The government wants something it may not be able to have, at least not as soon as it would like it. It wants a database filled with as many photos as it can upload and software that can match faces quickly, even if the person requesting it is a police officer carrying nothing more powerful than a mobile phone in an area with sketchy service. The bid document says the government expects database search results in 3 seconds or less, no matter where the search is performed or what device is being used.
+
+The system shall be able to broadly match a suspect/criminal photograph with database created using photograph images available with Passport, CCTNS, ICJS and Prisons, Ministry of women and child development (KhoyaPaya) State or National Automated Fingerprint Identification System or any other image database available with police/other entity. Match suspected criminal face from pre-recorded video feeds obtained from CCTVs deployed in various critical identified locations, or with the video feeds received from private or other public organization’s video feeds.
+
+The system should also auto-refresh database contents every 30 minutes to ensure anyone using it has access to the latest uploads. The government is also demanding the contractor provide the "latest and the best solution/algorithm of facial configuration."
+
+The Indian government is asking for everything. The winning vendor will have 30 weeks to design and deploy the system. The government wants it live less than eight months after the contract is signed. Given the timetable, it's likely the Indian government will end up with something that doesn't work as well as it wants to, but will involve 1.3 billion beta testers. No worries though. It will only be people's freedom and privacy on the line when the system rolls out, turning India into China 2.0, but with less stress testing and more "we actually care about privacy" talking points.
+
+Thank you for reading this Techdirt post. With so many things competing for everyone’s attention these days, we really appreciate you giving us your time. We work hard every day to put quality content out there for our community. Techdirt is one of the few remaining truly independent media outlets. We do not have a giant corporation behind us, and we rely heavily on our community to support us, in an age when advertisers are increasingly uninterested in sponsoring small, independent sites — especially a site like ours that is unwilling to pull punches in its reporting and analysis. While other websites have resorted to paywalls, registration requirements, and increasingly annoying/intrusive advertising, we have always kept Techdirt open and available to anyone. But in order to continue doing so, we need your support. We offer a variety of ways for our readers to support us, from direct donations to special subscriptions and cool merchandise — and every little bit helps. Thank you.
+
+–The Techdirt Team
+
+Filed Under: facial recognition, india, privacy, surveillance

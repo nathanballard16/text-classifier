@@ -1,0 +1,37 @@
+Time To Take Off
+
+In Uri: The Surgical Strike movie, actor Paresh Rawal, portraying National Security Advisor (NSA) Ajit Doval, goes to the Defence Research and Development Organisation (DRDO) for help in identifying terrorist launch pads near PoK.
+
+Instead of going for advanced unmanned aerial vehicles (UAVs) offered to him, he chooses an untested drone in the form of a bird developed by a DRDO intern in his free time. The bird, the intern claimed, could fly for four hours on single charge, travel up to 12 kms, had GPS, infrared, night-vision, 60-megapixel camera and could hover at one place for take-off and landing.
+
+DRDO scientists told BT some DRDO labs developed a bird with flapping wings, but the project never came to the product level. Why? "A flapping-wing bird is highly inefficient when compared to other drones. It needs a lot of energy," says Alok Mukherjee, a scientist at DRDO.
+
+Whether in fiction or reality, UAVs, or drones, are playing a big role in modern warfare. Drones, used for just reconnaissance till a few years ago, are being increasingly used for communication and combat. While Indian defence forces have a lot of catching up to do with the developed world in use of drones for combat, they have of late taken a host of steps to reduce the gap. "The same [Balakot strikes] could have been done by drones like the US is doing in Afghanistan. The US is using an airfield in this region to carry out precision strikes in Afghanistan, but identification of targets is being done out of Nevada. We are moving towards picking that capability. It is understood that we have a G2G agreement to pick up Heron TPs, the armed version of Heron from Israel," says Commodore Shiv Tewari (Retd), Founder Director, Arista Risk and Corporate Solutions - a firm that matches defence forces' needs with private sector capabilities.
+
+India is also planning to buy combat Predator drones from the US. This is going to be a big leg-up for Indian defence forces. Combat drones have surveillance capabilities, can travel faster and carry payload. "The demand for UAVs in the defence sector is going to grow. The users are coming to an understanding that this technology gives them a huge advantage," says DRDO's Mukherjee.
+
+Navigating the Challenges
+
+In India, the use of drones in defence started in late 1990s, and domestic capabilities - in both defence and private sectors - are largely limited to micro- and mini-drones. For large drones, categorised as MALE (medium-altitude, long endurance) and HALE (high-altitude, long endurance), India is still primarily dependent on foreign countries, particularly Israel.
+
+However, the DRDO and private sector players are making attempts to make large drones which can fly above 20,000 ft. altitude. The DRDO's Rustom programme was the first indigenous MALE-class model built for tactical surveillance; its advanced version - Rustom-II - is an unmanned aerial combat vehicle. Rustom-II is yet to finish all trial evaluations, and is expected to be inducted into the armed forces next year. The Adani Group is building (large) Hermes 900 UAVs in Hyderabad for an order of the Israeli armed forces. E-mail queries to Adani Group were not answered.
+
+The Business Angle
+
+In India, the smaller drones have a big market as they are used for counter-terrorist operations, surveillance and monitoring. Defence forces have been procuring these drones in the past couple of years but the demand has been sporadic. "The defence opportunities are seasonal. The demand spikes after every two-three years and then it lulls. Capital procurements have a long lead time. Smaller procurements come from the revenue budget and have a shorter lead time of 18-24 months," says Ankit Mehta, Founder, ideaForge - a drone manufacturer focussing on micro- and mini-drones.
+
+Besides, the specs keep changing, making things difficult for companies. For instance, if an army command is buying drones with one-hour duration in a particular year, the next year they would take drones with a three-hour duration. Two commands never buy the same product. "Decision-making is the most time-taking process in the government. We have to tweak our products every time," says Mehta.
+
+Increasingly, end users are finding that operational flexibility and ease of use are extremely crucial. Operational flexibility means ability to fly in any terrain. Most global companies have built drones around regular fixed wing aircraft, just like airplanes, which need large space to land and take-off. Most Indian deployment terrains are hilly. Earlier, defence forces felt that fixed-wing products would be relevant. But now they are going for pure vertical take-off and landing systems or for hybrid configuration where the drone takes off like a helicopter but converts into a fixed wing in flight (fixed-wing vehicles consume lesser energy).
+
+Globally, over 200 companies make drones, primarily based in Israel and the US. Anybody can tie up with these companies to make drones for Indian defence forces (100 per cent FDI is allowed in defence, of which up to 49 per cent is under automatic route). In spite of the fact that many players vie for defence contracts, a handful qualify. For instance, if 10-15 companies participate in the tender, two-three come for trials, and 80 per cent of the times only one-two qualify. It's easy to rake up an average solution but customers want cutting-edge solutions at low prices. "It's easy to assemble a drone, even a hobbyist can do it, but is your product fit for military use?" says Arista's Tewari.
+
+The opening up of the civil drone space last December is expected to give a boost to Indian start-ups which will be able to support defence functions. At present, companies operating on the civil side fall short of meeting defence requirement since such products require better technology, higher resilience and operational capabilities.
+
+"How does a company reach that point? Only if it gets supported by civil use cases. The process for defence or paramilitary procurement is long. A start-up cannot sustain in that environment. When a company manufactures for civil use, its production cycle, technology and cash flows improve, and then it can get into the defence sector," says Arista's Tewari.
+
+"A few players have come up in the UAV market. But it will take some time. Supplying equipment to defence or security forces is different from selling in the commercial market. The system has to work in adverse conditions like Pokharan range and Leh Ladakh," says DRDO's Mukherjee.
+
+Militaries across the world are hugely relying on drones for homeland security and defence. A push to both civil and defence UAV development will move India to the next level of defence preparedness.
+
+@manukaushik

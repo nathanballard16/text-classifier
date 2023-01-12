@@ -1,0 +1,11 @@
+Amazon Adds Alexa Announcements Feature to Fire TV Devices, Native YouTube Rollout Now Complete
+
+Amazon Alexa's announcements feature allows users to send a simple voice-based message to Alexa-enabled devices. After introducing the feature on its Echo smart speakers, Amazon added support for all Alexa-powered devices in May this year. The company is now adding Alexa announcements to its Fire TV devices as well. The feature is being rolled out in countries where the Alexa announcements feature is currently available. The feature is useful when you want to broadcast a simple message to your friends or family.
+
+According to a report by The Verge, the one-way messaging feature will be available on all Fire TV devices. In India, Amazon currently offers two variants of the Fire TV Stick. There's a regular Fire TV Stick and another variant with support for 4K output. Both these devices will receive the Alexa announcements feature.
+
+In order to use the feature, users can use an Alexa-powered speaker or the Amazon Alexa app on Android or iOS to broadcast a short voice-based message to Fire TV devices. In case there's some content being played on the TV, it will be paused temporarily while the message is being played. Once the message is over, it will resume the content. Users can record their own announcements.
+
+Besides the new feature, Amazon is also rolling out the native YouTube app across all Fire TV devices. Starting today, the original Fire TV Stick, Fire TV, and other Fire TV devices will be receiving the native YouTube app in the markets where they're currently being sold. Amazon had started rolling out the YouTube app by the end of July.
+
+Earlier in July this year, Amazon and Google decided to end their battle which meant the return of the native YouTube app on Fire TV devices as well as Prime Video support for Chromecast and Android TV.

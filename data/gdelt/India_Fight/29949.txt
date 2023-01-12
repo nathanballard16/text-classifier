@@ -1,0 +1,111 @@
+Digging Deeper | Ladies vs Automation? Women vulnerable to automation in Indian jobs market
+
+Rima M | Rakesh Sharma
+
+“Women workers most vulnerable in unequal Indian jobs market." This was the crux of the report that Oxfam published on the 28 March 2019. The major takeaway from the analysis was that employment opportunities continue to be marked by identities including gender, caste, and class in India. Issues like lack of quality jobs and increasing wage disparity are key markers of inequality in the Indian labour market, reported Oxfam India’s report ‘Mind The Gap – State of Employment in India.’
+
+Factors underlying low women’s participation in the workforce included declining rural jobs, changing urban areas, the burden of unpaid care work, and the continuing prevalence of regressive social norms. And what was Oxfam's recommendation to, mind this gap, so to speak?
+
+The report said and we quote, "We will need to overcome the gender blindness in our perspectives. We must make the right policy choices. The formal social security system in India is accessible to only a small percentage of workers and this access is extremely inequitable across sex, social group, religion, and economic class, mirroring labour market outcomes. This inequality can be addressed both through appropriate labour policy instruments and by an expansion of social security among uncovered workers."
+
+Now, a new report by McKinsey Global Institute says that women are at a great risk of losing their jobs to automation, and that up to 12 million Indian women may lose their jobs to automation by 2030. This goes on to add another layer to the already bleak scenario painted by the Oxfam report and on this edition of Digging Deeper with Moneycontrol, we will address the McKinsey findings.
+
+Automation vs manual labour
+
+Live Mint's Suneera Tandon wrote on June 4, 2019 a piece based on the McKinsey report and elucidated that agriculture, fisheries, transportation and warehousing are among the sectors where job losses from automation will be most acute for India’s female workers, and that future jobseekers will need to upskill themselves and gain secondary education.
+
+Men too could lose roughly up to 44 million jobs to automation in the same period but as the piece points out, in a country marked already by low female labour force participation, factors like robots, artificial intelligence and other forms of automation could spell further job losses for women.
+
+The study on the future of women at work, incidentally, mapped the impact of automation on occupation among women in 10 countries. McKinsey’s research covers six mature economies— Canada, France, Germany, Japan, the UK and US—and four emerging economies of China, India, Mexico and South Africa. These 10 countries account for half of the world’s population and 60% of global GDP. But by 2030, an average of 20% of working women or 107 million female workers in these 10 countries could lose their jobs to automation.
+
+To understand the report from the Indian context, we quote from the piece, "The report comes even as joblessness touches a 45-year high and female labour force participation rate remains a low 27%. Automation has become a threat to workers around the globe, especially in economies that rely heavily on manual labour in manufacturing and services. Worried, companies and governments of the world over are upskilling employees and finding means to prevent workers from being made redundant by robots and artificial intelligence.”
+
+McKinsey noted that "the spread of automation could potentially displace millions of female workers from their current jobs, and many others will need to make radical changes in the way they work. At the same time, shifting population dynamics and growing incomes will drive increased demand for certain jobs."
+
+However, the report added that emerging economies could experience much lower levels of automation by 2030 relative to the size of their employed population than mature economies. And as more jobs are lost, McKinsey also predicts the creation of new jobs, especially in sectors such as manufacturing and construction in India.
+
+As the Live Mint piece deduces from the report, by 2030, India will also add an additional 23 million jobs for its female workforce and 91 million for men. But the threat to jobs will persist.
+
+The vulnerable agricultural sector
+
+Many articles on the McKinsey report have noted how women in the services sector globally will be at risk of losing jobs the most. However, in India, women largely employed in agriculture sector—that employs over two thirds of India’s workforce—face higher risks of job losses.
+
+McKinsey noted, "Agriculture accounts for over 60% of the country’s female working population. As a result, “losses in this occupational category—subsistence agriculture—could account for 28% of jobs lost by women, compared with 16% of jobs lost by men. Four million women employed in agriculture, fisheries and forestry could risk their jobs; in craft and related trade work, job losses for women could be three million, and two million in elementary occupations. Interestingly, most new jobs for women will emerge in manufacturing, followed by construction and healthcare as the contribution of agriculture shrinks.”
+
+A shifting job landscape also implies newer jobs being created that will require newer skill sets. Such “transitioning" jobs, as McKinsey calls them, will require women to move into higher-skilled roles. In India, 1 million to 11 million women will need to transition between their occupation, especially moving from farm to non-farm occupations, said Anu Madgavkar, partner, McKinsey Global Institute.
+
+The future of women at work
+
+Considering that almost 40 million to 160 million women globally may need to transition between occupations by 2030, often into higher-skilled roles, it is important, say the authors, that to weather this disruption, women (and men) become more skilled, mobile, and tech-savvy. Women, notes the report just as Oxfam did, face pervasive barriers and will need targeted support to move forward in the world of work. With adequate transitioning skills, say the authors, they could be on the path to more productive, better-paid work. If they cannot, they could face a growing wage gap or be left further behind when progress toward gender parity in work is already slow.
+
+We quote, "This new research explores potential patterns in “jobs lost” (jobs displaced by automation), “jobs gained” (job creation driven by economic growth, investment, demographic changes, and technological innovation), and “jobs changed” (jobs whose activities and skill requirements change from partial automation) for women by exploring several scenarios of how automation adoption and job creation trends could play out by 2030 for men and women given current gender patterns in the global workforce.
+
+These scenarios are not meant to predict the future; rather, they serve as a tool to understand a range of possible outcomes and identify interventions needed. We use the term jobs as shorthand for full-time-equivalent workers."
+
+But one observation is particularly astute: that women and men face a similar scale of potential job losses and gains, but in different areas. Women's jobs may be more prone to partial automation than being entirely displaced by automation. There is also the matter of men and women tending to cluster in different occupations in both mature and emerging economies, and this then shapes the jobs lost and gained due to automation for each.
+
+We quote, "In the mature economies studied, women account for 15 percent on average of machine operators, but over 70 percent on average of clerical support workers. In the emerging economies in our sample, women make up less than 25 percent of machine operators on average, but over 40 percent of clerical support workers. Over 70 percent of workers in healthcare and social assistance in nine of the ten countries (the exception is India) are women. However, less than 15 percent of construction workers, and only around 30 percent of manufacturing workers, are female in many countries."
+
+In the case of jobs lost, says the report, and we repeat the point made before, women may be only slightly less at risk than men of their job being displaced by automation. In the ten countries, an average of 20 percent of women working today, or 107 million women, could find their jobs displaced by automation, compared with men at 21 percent (163 million) in the period to 2030.
+
+Some activities, and therefore occupations, are more automatable than others. For instance, both routine physical tasks and routine cognitive work are highly automatable, but those requiring more complex cognitive, and social and emotional skills are less so. The report said, “Men predominate in physical roles such as machine operators and craftworkers; therefore, nearly 40 percent of jobs held by men that could be displaced by automation in our 2030 scenario are in these categories. Conversely, women predominate in many occupations with high automation potential due to routine cognitive work, such as clerical support or service worker roles; these occupations account for 52 percent of potential female job displacements.”
+
+In India, as we said before, where so many women work in subsistence agriculture, losses in this occupational category will be high and could account for 28 percent of jobs lost by women, compared with 16 percent of jobs lost by men.
+
+Will there be any gains?
+
+As we mentioned in passing before, the report indicates that there will be job gains, too. We quote, "Even with automation, the demand for work and workers could increase as economies grow, partly fueled by productivity growth enabled by technological progress. Rising incomes and consumption especially in emerging economies, increasing healthcare for aging societies, investment in infrastructure and energy, and other trends will create demand for work that could offset the displacement of workers. Women could be somewhat better placed to capture these potential job gains than men because of the occupations and sectors in which they tend to work; however, this gain assumes that women maintain their share of employment in each sector and occupation from the present day to 2030."
+
+By 2030, says the report, women could gain 20 percent more jobs compared with present levels (171 million jobs gained) vs 19 percent for men (250 million jobs gained). Across the ten countries in the sample, on average 58 percent of gross job gains by women could come from three sectors: healthcare and social assistance, manufacturing, and retail and wholesale trade.
+
+Lasting impact
+
+Even if women remain in their current jobs, deduces the report, the ways in which they work are likely to change as workplaces increasingly adopt new technology, and some of the component activities within women’s occupations are automated, creating “partial automation” of their work. We quote, "In such circumstances, automation technology does not replace a job, but instead changes it in meaningful ways as humans learn to work alongside machines. For instance, the job requirements of secretaries, teachers, and other professionals alike have changed significantly as computers have “automated” several manual tasks in the 21st century, such as basic data collection and processing.
+
+As partial automation becomes more common and other technologies, including digital platforms that enable independent work, for instance, become more prominent, women’s working lives (and men’s) could change in three ways: As machines increasingly handle routine physical and cognitive tasks, women could spend more time managing people, applying expertise, and interacting with stakeholders. In an emergency room in 2030, for instance, health workers could spend less time doing clerical work (due to the adoption of preregistration by mobile phone, computerized checkout and billing, and AI-led diagnostic tools), and physical work, but more time interacting with patients."
+
+Certain skills could become more important, says the report. Time spent using physical and manual skills and basic cognitive skills could decrease as those activities are automated.
+
+We quote again, "More women could work flexibly. Co-location with colleagues is an important part of working lives today, but technology could reduce the need to co-locate as telecommuting becomes more widely adopted, for instance. The rise of these new, more flexible ways of working is particularly helpful to women because they disproportionately carry the “double burden” of working for pay and working unpaid in the home in both mature and emerging economies."
+
+Transition phase
+
+Between 40 million and 160 million women globally may need to transition between occupations, says McKinsey to ensure that they are positioned for shifts in labor demand. For men, the range is comparable at 8 to 28 percent. If women take advantage of transition opportunities; they could maintain their current share of employment; if they cannot, gender inequality in work could worsen as has been pointed out in different contexts before.
+
+We quote to reemphasise an earlier but important point, "In three of the four emerging economies in our sample—China, India, and Mexico—net labor demand could rise strongly for occupations requiring a secondary education for both men and women. This could pose a challenge to women in some emerging economies, where female education rates continue to lag behind men. In India, in particular, low-skill women in the agriculture sector could face a significant need to reskill as labor demand declines for jobs requiring less than a secondary education."
+
+Potential glut of workers in lower-wage jobs, including men displaced from manufacturing, could put downward pressure on wages. Over the longer term, some women could leave the labor market entirely as the economic costs associated with being in the labor force rise.
+
+Echoing Oxfam to some extent, says McKinsey, "Women and men face a period of disruption and change. It will be vital for both to develop (1) the skills that will be in demand; (2) the flexibility and mobility needed to negotiate labor-market transitions successfully; and (3) the access to and knowledge of technology necessary to work with automated systems, including participating in its creation. Unfortunately, women often face long-established and pervasive structural and societal barriers that could hinder them in all three of these areas—and has made progress toward gender equality in work slow. The good news is that the forces of technology and innovation that characterize the automation age can also pave the way for more gender equality in the workforce. There is a huge opportunity for private- and public-sector leaders to enable women to make the necessary transitions."
+
+However, there are still large gender gaps in education, we are warned, and even more so in the skills that women will need. In low- and lower-middle-income countries such as India, says McKinsey, where more than 60 percent of employed women are in agriculture and tend to have a narrow set of skills that may be hard to adapt, transitioning into new occupations and sectors is likely to be highly challenging. More than ever, women need to embrace lifelong learning from school to employment, and throughout their working lives.
+
+We quote, "Labor mobility and flexibility help women and men move across employers, occupations, sectors, and geographies as needed in order to respond to the needs of an evolving labor market. However, women tend to face more structural challenges here than men. Women are less mobile and flexible because they spend so much more time than men on unpaid care work—more than 1.1 trillion hours a year, compared with less than 400 billion hours for men. Technological change, in itself, should help to make women’s working lives more flexible by enabling teleworking, for instance. Nevertheless, a range of flexible work options are even important for women because many more of them take on paid and unpaid work.”
+
+How can things change for the better?
+
+The report advocates governments subsidizing maternity and parental leave and childcare. In 155 out of 173 economies, at least one gender-based legal restriction exists on women’s employment and entrepreneurship.
+
+Another factor limiting women’s mobility, points out McKinsey, is that women—in both mature and emerging economies—face dangers to their physical security when travelling around, potentially limiting where they can find employment. We quote, “India’s IT and business-process outsourcing firms are providing safe transport for women employees using vehicles with tracking devices. In emerging economies, limited access to—and poor safety on—transportation systems is regarded as the greatest obstacle to women’s participation in the labor market, especially in the formal economy.
+
+Persistent gender concentration within occupations and sectors makes it more difficult for women (and men) to cross over into those where they currently are the minority of workers.
+
+Women (and men) may need financial support as they transition into new occupations or sectors including unemployment benefits and insurance. Labor agencies can focus on providing benefits and assistance to the unemployed: serving as job counselors, offering career guidance, and enabling access to potential training and job opportunities for those temporarily out of the workforce."
+
+It goes without saying and the report points out too that women don’t have access to the same extent as men to networks that help them to develop their skills, achieve career progression, and transition into new jobs. Some companies are moving ahead on this front, but more needs to be done to create opportunities for women.
+
+How technology can help
+
+Women need to be more engaged in technology—more access, more skills, and more participation in its creation—to thrive, states McKinsey.
+
+We quote, “Technology can break down many of the barriers facing women, opening up new economic opportunities, helping them to participate in the workforce, and, in the automation age, navigate transitions. For example, women are now working independently in what is popularly known as the gig economy, taking advantage of technology that enables new and more flexible ways of working. Digital work platforms are growing fastest in service roles where women are well represented, including retail and accommodation and food service. Digital platforms, and the flexiblity and low access costs they offer, also help to explain why so many women have become e-commerce entrepreneurs who may find it challenging to make inroads in more traditional supply chains."
+
+It is vital, the report adds, that women participate in the creation of technology, not only because diverse teams have distinct benefits, but also because their contribution can help tackle concerns about inbuilt gender bias in AI algorithms.
+
+However, women continue to lag behind men in their access to technology, the skills to use it, and in employment in tech sectors, and could risk missing out on the potential benefits of technological innovation.
+
+The gender digital divide is a real thing. We quote, "Globally, men are 33 percent more likely than women to have access to the internet; that gap worsens when focusing on women in poor, urban communities. Women also lag behind men in developing tech skills. Globally, women account for only 35 percent of STEM students in higher education, and they tend to study natural sciences more than applied sciences related to information and communication technology (ICT). Women are significantly underrepresented in tech jobs—fewer than 20 percent of tech workers are female in many mature economies. Only 1.4 percent of female workers have jobs developing, maintaining, or operating ICT systems, compared with 5.5 percent of male workers, according to the OECD."
+
+Says the report, women’s access to basic enabling technology, notably internet and mobile technologies, needs to expand alongside a stepping up of development of their digital skills. Barriers to women working in the gig economy, including worries about lack of digital and internet skills and physical safety, need to be addressed, as does the lack of social protection for such workers that may expose women to income insecurity.
+
+A fault line that may expand if not addressed however has been revealed and if we want to tackle the already growing employment distress, the McKinsey report is at least a good place to start negotiating with the looming gender questions that come with inevitable automation and lopsided policies that can be fixed and made more gender sensitive.

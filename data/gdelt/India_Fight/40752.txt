@@ -1,0 +1,23 @@
+How to delete your phone's zombie apps and old online accounts
+
+So while you should be using a password manager to create and store strong passwords (a privacy browser and VPN are also useful), it's worth sifting through some of those old accounts and apps you joined to give your online presence a freshen-up.
+
+Clean out unused apps
+
+There's a pretty high chance that over years of using the same phone or operating system you've acquired a heap of apps that you no longer use – or in some cases even remember. If you're not a stickler for updating your privacy permissions (such as apps' access to location, and contacts) the unused apps on your phone could be operating in the background and hoovering up some precious data.
+
+It's unlikely that apps working behind the scenes will use excessive amounts of data but, if you gave them permission to access your information when they were downloaded, they can still send it back to their motherships.
+
+If you're on Android, the quickest way to check through the apps you do and don't use is in Google's Play Store. Tapping the hamburger menu icon (the three horizontal lines) and navigating to 'My apps and games' allows you to see all the apps installed on your phone – and, crucially, when you last used them. Sort them by last used and scroll down to see the apps you haven't used for a while (or ever). From here you can tap on an app's name and get the option to uninstall it.
+
+For iPhone users, the process is just as simple. In Apple's settings, tap on General and then iPhone Storage. From here you'll be able to see when you last used and app. To delete an app you'll have to remove it from another part of your phone, either through the App Store, or by long-pressing on an app's icon then hitting delete.
+
+Track down your services
+
+Getting rid of apps is just the start. Even though they're gone from your phone, it doesn't necessarily mean that your account with the company behind the software doesn't exist anymore. In fact, in the vast majority of cases you'll still be signed up with them. To really decouple yourself from a service, you're going to need to close your account for good.
+
+This is where things get a bit more time-consuming. For the vast majority of online services, you're going to need to visit their websites to get rid of your account. A good starting place is your email address. This will help you identify which accounts you've previously signed up to. A simple search of "account confirmation" or "new account" are good starting points.
+
+Once you've found the accounts you'll have to manually close them. This can be done through individual apps but is probably best handled through your desktop browser. It's just easier. If you already know the accounts you want to delete then JustDelete.Me is your best friend. It hosts links to the account cancellation pages of a huge amount of services. Click on a link, sign-in, and then you'll be in the process of unsubscribing.
+
+There are more automated ways to unsubscribe from old accounts. The service deseat.me offers to disconnect you and delete you from the online accounts you aren't using. The service's privacy policy says the company will "never disclose" or sell your data to a third party for commercial uses. It also says it also collects user information such as the account details you use to access it and the status of the accounts you have elsewhere.

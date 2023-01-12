@@ -1,0 +1,19 @@
+Malware attacks dip globally, but India witnesses a spike
+
+SonicWall, a US-based cyber security solutions company with research and development presence in India, has said that the country has seen a spurt in malware attacks.
+
+“While the overall global markets saw a reduction in malware attacks, India saw a 25 per cent increase in attacks compared to the previous year,” Debasish Mukherjee, Country Director, SonicWall (India and SAARC), has said.
+
+He was here to release the highlights of the mid-year update of the 2019 SonicWall Cyber Threat Report. The firm collected data from over 10 lakh security sensors located in over 200 countries. While India registered a decline of 62 per cent reported cases of ransomware volume in the first six months of this year, the company registered 2.4 million encrypted attacks, almost eclipsing the 2018 full-year total. “This marks a 76 per cent year-to-date increase,” he said.
+
+In March, findings from the 2019 SonicWall Threat Report was published globally to empower businesses, SMBs, enterprises and government agencies with timely and actionable data to better defend their networks, applications and sensitive information.
+
+To supplement that invaluable threat intelligence, SonicWall offers a complimentary mid-year update to review the attack volume, trends and techniques that defined the narrative in the first half of 2019.
+
+The multi-engine SonicWall Capture Advanced Threat Protection (ATP) cloud sandbox has exposed 1,94,171 new malware variants so far this year. This indicates discovery of 1,078 new variants of malware each day. It also found 74,360 malware variants that were never seen before during the period under survey.
+
+Expansion
+
+Meanwhile, the company is planning to expand its presence in India. The firm, which has 600 employees including research and development staff, would hire more R&D and tech support staff.
+
+“We have not decided yet on the number of people we might hire,” he said. The firm is in talks with telecom companies to provide security protection to consumers as a bundled offering. “We will announce something in this direction soon,” he said.

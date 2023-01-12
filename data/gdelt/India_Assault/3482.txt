@@ -1,0 +1,31 @@
+Cognizant: We Have 'Taken Action' On Facebook Content Moderation Workplace Issues
+
+Solution provider Cognizant said it has taken action and is developing “the next generation of wellness practices” after a report described harsh working conditions and seemingly uncaring management within the company’s content moderation business, where it is fulfilling contract work for Facebook.
+
+In a report published Monday by The Verge, former and current Cognizant employees hired to review posts that are reported for violating Facebook’s community standards told of the crippling mental toll taken on them in jobs where they are paid $15-an-hour to police hundreds of videos per week that depict difficult subject matter such as executions and pornography on the social media platform. The Verge alleged that some of these 1,000 Phoenix, Ariz.-based moderators -- whom are allowed only a small margin of error before they could be fired -- display symptoms akin to post-traumatic stress disorder and turn to on-the-job drug use and in-office sex to help them cope with the anxiety.
+
+Teaneck, N.J.-based Cognizant --- No. 7 on the 2018 CRN Solution Provider 500 – said in a statement provided to CRN that it “is committed to providing a healthy, safe and positive work environment for all of our associates.”
+
+“We have investigated the specific workplace issues raised in a recent report, previously taken action where necessary and have steps in place to continue to address these concerns and any others raised by our employees,” the company said in the statement. “In addition to offering a comprehensive wellness program at Cognizant, including a safe and supportive work culture, 24x7 phone support and onsite counselor support to employees, Cognizant has partnered with leading [human resources] and wellness consultants to develop the next generation of wellness practices.”
+
+Cognizant told CRN that it does not break out revenue from its content moderation business, and the report did not identify the value of Cognizant’s Facebook content moderation contract. LinkedIn lists more than 1,100 people who hold jobs at Cognizant as social media content analysts. LinkedIn also lists 38 open jobs at Cognizant for content analysts.
+
+According to a white paper published by the company in 2012, called “How to De-Risk the Creation and Moderation of User-Generated Content,” Cognizant said that “how a Web site moderates its UGC [user-generated content] is an essential part of its online brand identity. While some Web sites allow an open sharing atmosphere where almost anything goes, others ensure that UGC not only meets the highest standards but also reflects positively on the brand.” In another part of the white paper, Cognizant said that, “Lapses in content regulation can result in costly lawsuits from either original content rights-holders or offended Web site visitors in countries where these laws apply…. Facebook has often been criticized for publishing posts and providing a platform to user groups that are politically or culturally sensitive.”
+
+In addition, Cognizant in the white paper outlined the estimated costs of content moderation. For example, the company says that a six-minute video clip would cost $277 to manually moderate versus $2.61 for “machine moderation.”
+
+“Human moderation, although effective, can be highly inefficient if one has to continue moderating the same UGC in different formats or if multiple moderators must continually track previously moderated UGC,” Cognizant wrote.
+
+The Verge in its report spoke with employees who alleged that Cognizant cares most about meeting the numeric goals it has promised to Facebook, while it ignores the endless parade of graphic violence, sex, and hate that pushes some employees to tears. In-house counselors, one employee told the magazine, are only there to get employees back to work, not to help them process the traumatic images they see.
+
+Cognizant told CRN that it offers many kinds of support to employees.
+
+“Our goal is to ensure that we provide a variety of support options including on-site counselors, a robust wellness program and resources and wellness classes covering a range of disciplines to support the needs of every employee involved in content moderation,” the company said.
+
+The Verge report alleged that some employees have become so traumatized by repeated viewings of graphic violence and other disturbing content that they resort to smoking marijuana at work and having sex inside office stairwells as a form of “trauma bonding.” One former manager described carrying a concealed handgun at work to protect himself from fired employees seeking vengeance, according to the report.
+
+The Verge story comes a week after two of the company’s former executives – its past president and ex-legal counsel – were indicted in federal court for orchestrating a multi-million dollar bribe.
+
+According to an SEC complaint, in 2014 a senior Indian government officials demanded a $2 million bribe from the construction company building Cognizant’s corporate campus in Chennai, India. Cognizant’s ex president Gordon Coburn and former chief legal officer Steven E. Schwartz helped arrange payment of the bribe through the construction company.
+
+Coburn and Schwartz were named last week in a 12-count indictment with one count of conspiracy to violate the FCPA, three counts of violating the FCPA, seven counts of falsifying books and records, and one count of circumventing and failing to implement internal accounting controls.

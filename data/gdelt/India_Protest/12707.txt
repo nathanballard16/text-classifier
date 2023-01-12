@@ -1,0 +1,25 @@
+IIT Madras Faculty works on Breakthrough Technology to derive Power from Estuaries
+
+Chennai: Indian Institute of Technology Madras Assistant Professor Dr. Vishal Nandigana and his team of researchers at the IIT Madras Laboratory are working on a new and promising alternative source of power called ‘Osmotic Power.’
+
+Rapidly dwindling fossil fuel reserves, coupled with concerns of environmental pollution and global warming issues associated with traditional sources of fuel, have led to exploration of alternate source of energy. Solar, wind and biofuels are being actively pursued but newer out-of-the-box ideas are also being explored all over the world. One of these out-of-box sources is osmotic power generation, now being referred to by experts as ‘blue energy.’
+
+A recent review article co-authored by Dr. Nandigana and a team of scientists from Ecole Polytechnique Federale de Lausanne, Switzerland, that describes and demonstrates the superiority of a membrane developed by them, has been published in the prestigious international journal Nature Review Materials in August 2019.
+
+Explaining this area of research, Dr. Vishal Nandigana, Assistant Professor, Fluid Systems Laboratory, Department of Mechanical Engineering, IIT Madras, said, “Osmotic power generation is, as name suggests, based on the osmotic pressure that is generated when a semipermeable membrane separates salt water from fresh water. This pressure can be converted into electricity.”
+
+Dr. Nandigana added, “The benefit of osmotic power generation is that estuaries in which sea water and the fresh water rivers meet can be used to generate power.”
+
+While the moniker ‘blue energy’ was framed in recent past, the concept of osmotic power generation was discovered as early as 1954 by Pattle and demonstrated in the 1970s by Sidney Loeb. The first osmotic powerplant was built in 2009 in Tofte, Norway, and produced 4 kilowatt of power, which, while sufficient to perhaps run a clothes dryer, is inefficient for any large scale use.
+
+In 2016, a breakthrough was achieved by an international team of scientists, that included Dr. Nandigana who was then a PhD student at the University of Illinois, Urbana Champaign, in which membranes made of extremely thin layer of molybdenum di-sulphide were able to generate osmotic power of 1 Megawatt per square metre. This work was published in the prestigious journal Nature in August 2016.
+
+The recent 2019 review in Nature Review Materials by Dr. Nandigana during his current tenure at IIT Madras, takes the research further and presents a detailed discussion of the membrane’s potential with comparisons and pointers to go forward.
+
+Elaborating on the technical aspects of this area of research and the advantages of his membrane, Dr. Nandigana said, “Our molybdenum sulfide membrane produces higher power density than other membranes studied so far and is much better than its nearest competitor boron nitride nanotubes, which have been shown to produce power density of only 1 kW/m2. The increase in power generation compared to earlier studies is because of the use of single atomic layer of molybdenum di-sulphide, which is ion-selective, and the osmotic pressure generated voltage is augmented by the ionic current produced”
+
+The single- layer atomic thickness of the membrane and the surface charge density due to the pores add to the power conversion efficiency.
+
+The 2019 review in Nature Review Materials also focuses on the opportunities and the challenges associated with this technology. One of the challenges is the scalability of the technology. “Our laboratory at IITM is making efforts to grow larger samples of MoS2. The current technology produces MoS2 at micrometer scale,” said Dr. Nandigana.
+
+The IIT Madras team is trying to first produce membranes in the scale of square centimetres rather than square micrometres that are currently possible, with future plans to increase size further. This is based on the calculation that a single membrane, roughly 1 square meter wide would generate enough power to light up 50,000 energy-saving light bulbs.

@@ -1,0 +1,29 @@
+An oasis of PV
+
+Water pumping systems powered by solar energy may help Mauritania reduce water losses across its numerous oases, while also significantly lowering water pumping costs, according to the study Rehabilitation of Mauritanian oasis using an optimal photovoltaic based irrigation system, published on the ScienceDirect website.
+
+The authors of the research found that PV water pumping systems, which are said to have high performance and feasibility in remote desert areas, can help minimize excessive irrigation of fields compared to conventional pumping tools based on manual withdrawal.
+
+The findings are based on a simulation case study irrigation water pumping project comprised of eight submersible pumps totaling 83.5 kW of power, supplied by a 142.8 kW thin-film PV installation at the Tawaz oasis, one of the largest date palm production oases. Located in Atar city in the Adrar plateau of northern-central Mauritania, the site has average solar radiation, or peak daily sun hours of 5.67 kWh per square meter.
+
+The pumps deliver 80% of the available well capacity for eight zones of date palm trees planted at the oasis, while an additional 250 fiberglass storage tanks with capacity of 4 m3 each are also used to ensure the system’s production. The one-year simulation of the proposed system demonstrated it delivering a pumped water cost of $0.2071/m3. The ScienceDirect report stated that figure was “300%” lower than current pumping costs but, as one of our more eagle-eyed readers pointed out, that seems unlikely. pv magazine has been unable to ascertain the non-solar pumping figure in order to establish the correct percentage of the solar saving.
+
+Storage of water or electricity?
+
+The research team also revealed that using an energy storage system at the facility may reduce system’s overall efficiency and increase costs. They also explained that plants are irrigated during low solar intensity periods, in early mornings or late afternoons, as the evapotranspiration is low. If the battery option is excluded, the appropriate selection of storage tanks becomes crucial to provide the used irrigation technique's suitable pressure and volume. “Typically, the storage tank is designed to withstand three days without any solar radiation to meet the required water demand,” they also wrote.
+
+In the case study, the tank’s size was designed to hold 25% of the year's peak water requirement to irrigate 100 date palm trees. “Based on the proposed design, each tank can irrigate 100 date palm trees that distributed over approximately 1 ha.”
+
+Popular content
+
+Improving date palm harvest
+
+According to the research team, solar water pumping can be particularly useful for improving date palm production in the country’s regions of Adrar, Tagant, Assaba, and Hodh. It can also support preventing the ongoing desertification of oases in these areas.
+
+The study also stresses that PV water pumping systems are better than diesel power generator based systems, due to their high maintenance and fuel transportation costs.
+
+The International Renewable Energy Agency (IRENA) and the United Nations Convention to Combat Desertification (UNCCD) have recently signed an agreement to combat desertification with renewable energies. IRENA said renewables can stimulate land restoration and conservation, and can also be used in the agri-food sector to alleviate poverty through rural community development projects. Solar PV is also playing an active role in the roll-out of solar pumps across India.
+
+Another study published last year in the journal Science, showed that solar power plants and wind farms covering large surfaces may be able to contribute to increased rainfall in the Sahara Desert, particularly in the Sahel region, an ecoclimatic and biogeographic zone of transition between the Sahara to the north and the Sudanian Savanna to the south. The researchers said that installations of wind and solar farms with current conversion efficiencies, if carefully planned, may trigger more precipitation in the Sahara Desert, while also enabling these two energy sources to have minimal competition for land surface area against natural and other human land uses, such as agriculture.
+
+This article was amended on 08/10/19 to remove the reference to a 300% cost saving.

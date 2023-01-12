@@ -1,0 +1,15 @@
+How a pioneering Facial Recognition System and a mobile app are improving policing
+
+On October 4, Hyderabad Police was able to crack the murder case of an Isro (Indian Space Research Organisation) employee who was found dead in his flat on October 1. A facial recognition software confirmed that a man seen in a CCTV footage was the one wanted by the police.
+
+Earlier, on May 1, senior Telangana Police officers received a message from Bengaluru Police about a Telugu-speaking girl who was found in Mysuru and appeared to have lost her way. Officials at the Rachakonda Police Commissionerate, which has a large jurisdiction on the outskirts of Hyderabad, ran the photo through the Facial Recognition System (FRS). Within a few minutes, the system correctly tracked the girl and she was reunited with her family the very next day.
+
+On February 9, a 14-year-old mentally-challenged boy who went missing from Ujjain in Madhya Pradesh last June was traced by Telangana Police. The boy’s photo had popped up on “Darpan” — another facial recognition app the Telangana Police is developing to deal with missing children cases.
+
+These are just some of the cases that have been solved by the use of a pioneering Facial Recognition System (FRS) application introduced by Telangana Police since August 2018. “It doesn’t matter if we don’t know an offender’s name, we will certainly get him by his face,’’ says Rachakonda Police Commissioner Mahesh M Bhagwat.
+
+Bhagwat and his team of officers are the force behind FRS. In the last 8 to 10 months, Rachakonda Police has solved over two dozen cases using the FRS, including murder mysteries, missing children, identifying and arresting inter-state dacoits, and serial traffic offenders. Taking a proactive role, the Rachakonda Police used the FRS to access online databases of police records in many states across the country, and the Crime and Criminal Tracking Network and Systems (CCTNS) of National Crime Records Bureau under the Union Ministry of Home Affairs, to solve complex cases.
+
+The FRS was launched by Telangana Police DGP M Mahender Reddy but Rachakonda Police has put it to maximum use.
+
+The FRS gives out a list of possible offenders, in case of a crime, by comparing the suspect’s face with lakhs of photographs stored online, and a list of persons with matching facial features in cases of missing persons.

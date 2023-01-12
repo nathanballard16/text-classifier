@@ -1,0 +1,33 @@
+Chaayos draws flak for use of facial recognition tech
+
+New Delhi, Nov 22 : The use of facial recognition technology by Chaayos at select outlets has sparked anger on social media after some customers alleged that the popular tea cafe chain has deployed the tech without proper notice and an option to opt out.
+
+In stores where the technology is deployed, the message that flashes on the tablet reads, "why put numbers through, when we can identify you?".
+
+But the practice of collecting facial data has not gone down well with many users who raised questions about privacy protection.
+
+"Chaayos wants to sneakily capture your facial aata with your next cup of chai," said one user.
+
+"I decided to boycott @Chaayos the moment they made phone numbers compulsory to order. All of this data IS being sold! I've seen a lot of it on the market from different entities! If there weren't plans to sell it, they wouldn't collect it. They'd just be selling Chai," said data analyst Shivam Shankar Singh.
+
+Software Freedom Law Centre (SFLC.in), a Delhi-based not-for-profit legal services body, said use of the technology by Chaayos' "goes against basic data protection principles".
+
+"The fact that Chaayos is making use of FRT (facial recognition technology) without a proper notice and devoid of an opt-out goes against basic data protection principles. We urge govts. And companies to not use facial recognition technology, more so when India is still deliberating on a data protection law," SFLC.in said in a tweet.
+
+"Whether it's the govt or private companies, making use of facial recognition technology violates the right to privacy of citizens," it added.
+
+Founded in 2012, Chaayos has nearly 70 cafes across Delhi, Noida, Gurgaon, Faridabad, Chandigarh and Mumbai.
+
+In a statement, Chaayos said it was not misusing the data collected through the facial recognition technology.
+
+It claimed that data from the facial recognition feature is encrypted and cannot be accessed by any party, including Chaayos itself except for the purpose of logging-in its customers.
+
+"Since inception, Sunshine Teahouse Pvt Ltd ("Chaayos") has strived to leverage technology to deliver great customer experience. Towards this endeavour, we have recently launched a facial recognition feature at our Point of Sale as an option to eliminate the hassles of OTPs and reduce the overall customer purchase time," said Chaayos.
+
+"The feature is currently in the beta phase at select cafes and will be officially rolled out post thorough testing," it added.
+
+Chaayos also denied that there are no "opt out" options.
+
+"Moreover, customers have the right to not opt in for facial recognition feature and instead use their phone number to enjoy benefits of our loyalty programme," Chaayos said.
+
+"We also provide our customers with a permanent 'opt-out' feature on our website, where-in they can choose to permanently delete their pictures captured by our systems at any point of time," the company added.

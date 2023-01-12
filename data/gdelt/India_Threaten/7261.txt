@@ -1,0 +1,37 @@
+Staged, Complete PCI Beats Culprit Stenting Out to 5 Years in STEMI Patients
+
+Retrospective data back the notion that complete PCI outperforms culprit-only PCI, even over the long haul.
+
+Complete revascularization via staged PCI is linked to better 5-year outcomes compared with culprit-only PCI in STEMI patients with multivessel disease, according to new research out of China. Results from the retrospective cohort study hinted, however, that the benefits of staged PCI may be somewhat attenuated in patients with diabetes, although the numbers were small.
+
+Sripal Bangalore, MD (NYU Langone Medical Center, New York, NY), who was not involved in the analysis, told TCTMD that it’s consistent with earlier randomized studies suggesting an advantage for complete revascularization.
+
+Here, though, the study is limited by its observational design, he said. “It’s real world, so there are a lot of confounders. We don’t know why some of them got complete versus incomplete. . . . There must have been a reason, and that could be the reason we see a difference in outcomes.”
+
+Bangalore added that the study also offers no insights into the ongoing questions over optimal timing of complete PCI.
+
+Match Comparison
+
+Kongyong Cui, MD (Beijing Anzhen Hospital, China), and colleagues outline the findings in a paper published online May 8, 2019, in the American Journal of Cardiology. From 2006 to 2015, their center treated 1,205 STEMI patients with multivessel disease; slightly less than half had staged, complete revascularization and the rest underwent PCI of the infarct-related artery only.
+
+Propensity-score matching produced 415 pairs of patients. Over a mean follow-up of 5 years, complete revascularization was associated with lower risks of MACCE (all-cause death, MI, stroke, or unplanned revascularization) and the composite of cardiac death, MI, and stroke. Patients who had staged procedures also tended, on the whole, to have fewer MIs and unplanned revascularizations.
+
+Propensity-Matched Analysis: Outcomes at 5 Years
+
+Complete Staged PCI (n = 415) Culprit-Only PCI (n = 415) HR (95% CI) MACCE 30.6% 34.5% 0.70 (0.55-0.89) Cardiac Death, MI, and Stroke 11.8% 14.5% 0.66 (0.45-0.97) MI 4.6% 8.0% 0.48 (0.27-0.84) Unplanned Revascularization 18.8% 24.1% 0.66 (0.49-0.88)
+
+Results were consistent across most subgroups, with the exception of patients with diabetes. In this group no reductions were seen for MACCE (HR 0.98; 95% CI 0.65-1.48; P for interaction = 0.09) or unplanned revascularization (HR 1.04; 95% CI 0.63-1.74; P for interaction = 0.08) with the staged, complete-PCI approach versus culprit-only PCI.
+
+Cui et al propose several reasons why this might be the case. “In clinical practice, compared with nondiabetic patients, diabetic patients are always more associated with complex diseases with characteristics of smaller vessel size, longer lesion length, and greater plaque burden. Furthermore, the morbidity and mortality are also higher in diabetic patients undergoing PCI: even with the advent of novel-generation drug-eluting stents, diabetes mellitus remains a risk factor for restenosis and stent thrombosis,” they note, advising that “further large-scale RCTs are warranted to compare immediate versus staged, complete revascularization in this population.”
+
+On the flip side, patients with three-vessel disease appeared to experience a more pronounced benefit from staged PCI when it came to subsequent MI risk (HR 0.16; 0.05-0.54; P for interaction = 0.05) than did the overall multivessel-disease population.
+
+Proceed With Caution
+
+Bangalore cautioned against reading too much into the blunted effect of complete PCI in the diabetes subgroup. “To begin with, the sample sizes are pretty small,” in that only three in 10 patients had diabetes, he explained. “And the interaction P value was only nominally significant at 0.09 [for MACCE]. So I don’t know what to make of it. I would think that it was just a play of chance.”
+
+Practice is still quite varied when it comes to complete versus incomplete revascularization, Bangalore observed, noting that his center leans toward complete. As for the timing of when additional lesions should be treated, “I think typically many people are doing the staged procedure. My practice has been: if anatomically it’s not complex, I try to do it at the same setting if possible. If not, if there’s anything complex [or] we’ve used a lot of dye or radiation, we tend to stage them,” Bangalore said.
+
+In 2017, a meta-analysis led by Bangalore sought to overcome the lack of statistical power seen in many prior studies on the topic of procedure timing by combining data from 11 trials, including DANAMI3-PRIMULTI, CvLPRIT, PRAGUE-13, PRAMI, Compare-Acute, and others. The data came down squarely in favor of complete revascularization—when possible—at the time of the index PCI as compared to staged procedures.
+
+Forthcoming data from the COMPLETE and FULL REVASC trials will hopefully provide additional clarity and also nudge the guidelines toward making more definitive recommendations, Bangalore added.

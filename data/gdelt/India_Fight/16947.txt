@@ -1,0 +1,103 @@
+Advent Of Dawn Raids In India: A Case Of Aggressive Anti-Trust Regime
+
+ARTICLE
+
+To print this article, all you need is to be registered or login on Mondaq.com.
+
+Dawn Raids are referred to the various surprise searches and seizure activities conducted by the Anti-trust Agencies. The purpose of such raids is to catch the suspected organizations off-guard.
+
+The power to conduct dawn raids is derived from Section 41 of the Competition Act, 2002. The Director General (DG), Competition Commission of India (CCI) is required to obtain a warrant from a Magistrate before conducting a raid after satisfying the said Court with material documents and evidences of anti-competitive conduct.
+
+JUDICIAL OPINION VIS-A-VIS DAWN RAIDS IN INDIA
+
+In M/s. Bull Machines Pvt. Ltd. vs. M/s. JCB India Ltd. & Anr.1, the Ld. CCI observed as below:
+
+"14. The entire case of abuse as laid and made by the Informant is predicated upon the alleged bad faith litigation filed by JCB before the Hon'ble High Court of Delhi. It is the case of the Informant that the bad faith litigation initiated by JCB against it alleging infringement of its design rights was totally false and that the said legal proceedings before the Hon'ble High Court of Delhi were only initiated to harass it and prevent the launch of 'Bull Smart', which in effect would have competed with backhoe loaders of JCB in the relevant market. Furthermore, it is the case of the Informant that the injunction was obtained on the basis that the Informant had allegedly infringed the registered designs and copyrights of JCB while manufacturing 'Bull Smart', whose designs / copyrights themselves were obtained fraudulently. 15. The Commission observes that the predation through abuse of judicial processes presents an increasing threat to competition, particularly due to its relatively low anti-trust visibility. 16. In view of the allegations projected in the information and as detailed hereinabove, the Commission is of prima facie opinion that JCB by abusing their dominant position in the relevant market sought to stifle competition in the relevant market by denying market access and foreclosing entry of 'Bull Smart' in contravention of the provisions of Section 4 of the Act. 17. Accordingly, the Commission directs the Director General (DG) to cause an investigation into the matter and to complete the investigation within a period of 60 days from receipt of this order."
+
+PROCEDURE BEFORE CONDUCTING "DAWN RAID"
+
+Due to the nature of Dawn Raids which are inherently invasive in nature, it has been made mandatory for agencies to strictly comply with procedural safeguards enlisted under the law. The essential aspects of the procedure that needs to be taken care of prior to the conduct of any "Dawn Raid" are:
+
+It has been incumbent upon the Director General under the Competition law to assist the Competition Commission of India in complying with the rules and regulation under the Anti-trust law. However, the Director General is required to be impartial while conducting his investigation. The procedure adopted by the Director General and his conclusions regarding the investigations have to be reasoned in order to deal with the arguments of the accused organization. The other safeguard under the prevailing law is that the Director General can commence his investigation only after the conclusion of a "prima facie" case by the Competition Commission of India. However, such conclusion should not affect the nature of investigation by the Director General. On receiving the order to carry out the investigation, the Director General is required to prepare a questionnaire that has to be sent to the accused enterprise/organization. It is pertinent to mention that the Director General is invested with the powers of that of a civil court. Thus, as a matter of prudence, accused organization should furnish the correct details in order to avoid any subsequent liability. The expression "reason to believe" has a wider meaning than that of being satisfied. It must be based on cogent evidence and reasons.
+
+Though the jurisprudence vis-à-vis Director General's power is in its early stage, it can be safely concluded that the DG has to remain fair and impartial and his powers to conduct investigation is not unfettered.
+
+RIGHTS OF A COMPANY SUBJECTED TO DAWN RAID:
+
+The Company may ask the Director General some time to call the in-house counsel or external counsel to arrive. However, it is the discretion of the officer-in-charge whether to provide such time or not. The company can ask for the identity details of the officer conducting dawn raid and also the copy of the order of the Chief Metropolitan Magistrate in order to verify the authenticity of "Dawn Raid". Maintain copies of the record and also to maintain a copy of all the questions and answer given in reply. The enterprise has the right to object to any interference with the privileged documents such as confidential exchange between client and attorney.
+
+Also, the powers of the investigative agency are curtailed to quite an extent. Some of these restrictions are:
+
+It cannot use force against any person It cannot exceed the scope of the reason for which the dawn raid has been conducted It cannot tamper within the scope of legal privilege
+
+OBLIGATIONS OF THE ACCUSED ENTERPRISE
+
+In order to avoid any liability, it is compulsory for any accused enterprise to:
+
+Furnish correct details to the questions asked vis-à-vis the documents recovered and maintain records of all the questions and answers given in reply. Provide the correct details of the location of the documents when asked by the officer in charge. In case the investigator decides to seize the information in soft copy, the investigator has to restrain himself from seizing the information which is "legally privileged" under the law. Thus, when such documents/information is being searched or seized, it is advisable for the representative of the accused enterprise to be present while search and seizure operations are being conducted. It is the responsibility of the accused enterprise not to obstruct the search and seizure operations. Also, it is the responsibility of the accused enterprise not to conceal the documents which are required to be produced by such enterprise. Also, it is incumbent upon such enterprise not to provide false information. Any information provided should be accurate as per the personal knowledge of the representative of the accused enterprise.
+
+RESPONSIBILITY OF THE ACCUSED ENTERPRISE BEFORE THE INVESTIGATING TEAM DEPARTS
+
+It is advisable for the accused enterprise to know if the investigators would return the next day. Maintain a copy of the documents recovered and seized by the investigators. It is further advisable to maintain the minutes of the exercise in order to record the disputes and disagreements that happened during the exercise. It is further advisable to maintain records of the interviews conducted by the Inspector.
+
+RESPONSIBILITY OF THE ACCUSED ENTERPRISE AFTER THE INVESTIGATING TEAM DEPARTS
+
+As a matter of prudence, the accused enterprise should compile the notes, recheck the list of documents seized by the Inspector. Consult the in-house counsel or external counsel to assess the potential issues that might arise and the strategy to deal with the same in future.
+
+It further needs to be noted regarding the dawn raids, that the documents seized by the inspector can be retained by him only for a period which is necessary for the conduct of investigation. After the investigation has been completed, he is bound to return the seize documents to the accused enterprise. Also, the Inspector is required to inform about such seizure to the Chief Metropolitan Magistrate whose permission was taken to conduct "dawn raids".
+
+"DAWN RIDS" UNDER COMPETITION (AMENDMENT) BILL, 2012 ("BILL")
+
+It was introduced in the Lok Sabha on December 07, 2012. The Bill if passed into law would have greater ramifications on the way Dawn Raids are conducted.
+
+The Bill seeks to empower the Chairman of the Competition Commission to empower the Director General to conduct dawn raids if during an investigation, the investigator has a reason to believe that the accused enterprise has omitted to provide or has concealed the relevant documents or if there is a threat that the documents might be destroyed.2 The Bill allows the statutory authorities to use reasonable force to carry out Dawn Raids. The commission may seek aid from the local police authorities to carry out the Dawn Raids under the Act.
+
+The proposed changes will no doubt go a long way in adding teeth to investigating powers of the Director General and prevent the defaulting companies from covering up their tracks.
+
+The Bill itself provides sufficient checks and balances to prevent the arbitrary use of powers by the Director General. The Director General should have a "reason to believe" that the defaulting company has omitted to provide the relevant details or is trying to conceal the documents or any information.
+
+Thus, the requirement of "reason to believe" being a sine-qua-non is of wide ramifications. In Calcutta Discount Company Limited v. Income Tax Officer3, the Hon'ble Supreme Court of India while dealing with the term "reason to believe" observed,
+
+"The expression 'has reason to believe'...does not mean a purely subjective satisfaction of the Income-tax Officer but predicates the existence of reasons on which such belief has to be founded. That belief, therefore, cannot be founded on mere suspicion and must be based on evidence and any question as to the adequacy of such evidence is wholly immaterial at that stage."
+
+It has been felt by various experts of the subject that The commission might undertake fishing activities under the garb of conducting "Dawn Raids"4.
+
+However, the bill is also criticized that it excludes the current scope of judicial check , as once the bill is passed, it will not be required for the Director General to obtain the permission of the Chief Metropolitan Magistrate in order to carry out the Dawn Raids.
+
+DAWN RAIDS OR FISHING EXPEDITIONS
+
+As per the bill, the commission should have "reasonable belief" before ordering Dawn Raids to be conducted by the Director General.
+
+The Commission may take relevant guidance from the European Commission case of Nexans France SAS and Nexans SA v. European Commission5.
+
+The ECJ held that the reasons given for an inspection decision "need not necessarily delimit precisely the relevant market", but the European Commission is required to state in the decision "the essential characteristics of the suspected infringement, indicating inter alia the market thought to be affected". The European Commission must "identify the sectors covered by the alleged infringement with which the investigation is concerned with a degree of precision sufficient to enable the undertaking in question to limit its cooperation to its activities in the sectors in respect of which the Commission has reasonable grounds for suspecting an infringement of the competition rules, justifying interference in the undertaking's sphere of private activity, and to make it possible for the Court of the European Union to determine, if necessary, whether or not those grounds are sufficiently reasonable for those purposes."6
+
+"For example, if two merging firms begin to implement the provisions of their merger documents without first obtaining clearance from the Commission, the Commission may on reasonable belief of such circumstances issue dawn raid orders to investigate such firms to declare such combinations void under section 6(1) of the Act."7
+
+CONCLUSION
+
+It has been observed that the Competition Commission has placed reliance on circumstantial evidence to achieve its objectives. It won't be an exaggeration to say that "Circumstantial Evidence is a Rule and Dawn Raid is an exception".
+
+It is pertinent to mention here that cartels are often established in leniency. Thus, circumstantial evidence is based on a weaker footing as compared to direct evidence. In order to give more powers to the Competition Commission of India and Direct General, the proposed bill seeks to oust the requirement of judicial warrant before conducting Dawn Raids in certain cases.
+
+Till now, there have been only two cases where Dawn Raids have been conducted. It is widely hoped that the proposed bill, if passed will give more powers to the investigative agency. However, the primary need of the hour is that there have to be sufficient guidelines and regulations for the Director General to conduct "Dawn Raids".
+
+These guidelines and regulation will not only serve as a guiding light for the investigative agencies but also empower the enterprises to put an effective mechanism in place. In absence of any guideline or regulation vis-à-vis dawn raids, enough confusion has been created and it needs to be done away with soon. Increased search and seizure activities including Dawn Raids will facilitate the detection and prevention of cartelization.
+
+Footnotes
+
+1. Competition Commission of India, Case no. 105 of 2013
+
+2. Section 14 the Bill
+
+3. 1961 SCR (2) 241
+
+4. Mihir Kamdar, Dawn raids amendment: Small step or giant leap?; India Business Law Journal; February 2013, pp. 59.
+
+5. Case T-135/09
+
+6. Ibid para 44-45
+
+7. Ibid.
+
+The content of this article is intended to provide a general guide to the subject matter. Specialist advice should be sought about your specific circumstances.

@@ -1,0 +1,47 @@
+Google Calendar Settings Gaffes Exposes Users’ Meetings, Company Details
+
+A configuration setting in Google Calendars does not sufficiently warn users that it makes their calendars public to all, a researcher argues.
+
+Google has come under fire for a configuration setting tied to its Google Calendar service, which has left hundreds of calendars inadvertently open to the public – and could potentially expose billions more.
+
+It’s important to note that no actual vulnerability exists in the settings of Google Calendar. What is at issue is the ease of making a privacy blunder when configuring Google Calendar to be shared with others. Researcher Avinash Jain, who detailed the issue in a Tuesday post, asserts that Google’s Calendar settings don’t sufficiently warn users that sharing a Google Calendar with others using a link can expose that calendar to the public – also making the link available to be indexed by Google.
+
+This could lead unsuspecting users to inadvertently expose what they though was a private Google Calendar to the public. The problem is not new to tech. Similar issues have surfaced around data settings for digital tools and social media sites like Facebook and more. The common thread is that even experienced internet users are sometimes guilty of easily overlooking privacy and data sharing settings that may unintentionally leave private data exposed.
+
+The Google Calendar setting in question is for users who want to organize meetings by sharing their calendar with specific users using a specific link. However, what the settings enables is for anyone with the shared link – not just the intended user – to see the shared calendar, according to Jain. What that notification means is that the URL becomes indexed by Google search, meaning that anyone can find the calendar without even knowing the link, he said.
+
+Google does gives users a warning before turning on the setting – “Making your calendar public will make all events visible around the world, including via Google search. Are you Sure?” But users are seemingly ignoring it or not understanding the full privacy implications of the setting, said Jain, who is a security researcher from India working with e-commerce company Grofers, and who has found previous vulnerabilities in platforms like NASA, Google, Jira, Yahoo and more.
+
+“While this is more of an intended setting by the users and intended behavior of the service, the main issue here is that anyone can view anyone public calendar, add anything on it — just by a single search query without being shared the calendar link,” Jain told Threatpost.
+
+“People might have made their calendar to public for some particular org/company/people and intend to share the URL with them only but instead, it gets indexed by Google Search and listed publicly, searchable over the internet and anyone without knowing any link can find it. People who are not made intended to see someone’s calendar can now also access it,” he said. “What makes it more threatening is if the calendar has misconfigured settings that allow users to add events/links into it.”
+
+To test this, using a single Google advanced search query Jain was able to discover all the public Google Calendar users who set their calendar as public.
+
+He found more than 200 public calendars that were indexed by Google’s search engines – some revealing company meeting times, interviews, events, internal information, presentation links, and more. Many of these calendars belonged to employees of the top 500 Alexa companies.
+
+“I was able to access public calendars of various organizations leaking out sensitive details like their email ids, their event name, event details, location, meeting links, zoom meeting links, google hangout links, internal presentation links and much more,” said Jain.
+
+If one had inadvertently set his calendar to public, all a bad actor would need to do was paste the victim’s email address in this URL (https://calendar.google.com/calendar/b/1/r?cid=users_mail_address@gmail.com or https://calendar.google.com/calendar/b/1/r?cid=users_mail_address@company_name.com) and add it to their own calendar.
+
+This method is how a HackerOne bounty hunter (Brandon Nguyen) recently found a Shopify public calendar that had been left inadvertently exposed by an employee who utilized the Google Calendar setting, giving him access to new hire information, internal presentations and Zoom meeting links (Shopify rewarded $1,500 to Nguyen for his discovery).
+
+Google Calendar users can make sure that they don’t accidentally set their calendars to public through going to Google Calendar settings and looking for calendar visibility and sharing options.
+
+From there, they can set the calendars to only say “Free” or “Busy” instead of sharing the entire calendar if anyone wants access to their calendar details. “GSuite admin can also create alerts for when Google docs, presentations, and calendars go public,” said Jain.
+
+A Google spokesperson told Threatpost that Google Calendar sharing is private by default for both G Suite and consumer Calendar users.
+
+“G Suite admins can control the level of detail with which enterprise users can share their calendar externally,” the Google spokesperson stressed. “A G Suite user cannot exceed the level of event details allowed by their admin for external sharing. Calendar sharing is also private by default for all consumer accounts. A consumer user can only share by changing this setting, in which they are notified of how their calendar will become visible to the public.”
+
+Google Calendars came under fire earlier this year when a sophisticated cyberattack was discovered targeting Gmail users through fraudulent, unsolicited Google Calendar notifications. The campaign took advantage of a common default feature for people using Gmail on their smartphone: Calendar invites automatically pop up on phones, prompting users to accept or decline them.
+
+Beyond Google, the issue is indicative of a wider issue across the industry when it comes to misconfigured settings that are built into technology.
+
+“There is always a risk when you setup or deploy any tooling in your infrastructure because you might not know what misconfiguration settings it can have which you are not aware of,” Jain told Threatpost, “The same is happening with Jira filters and dashboards which due to these misconfigured settings end up on disclosing and revealing sensitive data [earlier in August, Jira servers were found to be leaking sensitive NASA details].”
+
+Tim Erlin, VP, product management and strategy at Tripwire told Threatpost that while the industry pays a lot of attention to headline-grabbing vulnerabilities, simple misconfigurations are responsible for a significant number of security and privacy breaches in recent years.
+
+“The rise of cloud and SaaS has exposed misconfigurations that might have had limited impact in the past,” said Erlin. “Any single data point that’s exposed might seem innocuous enough, but the technology to combine those data points into something useful for criminals is out there.”
+
+Interested in the role of artificial intelligence in cybersecurity, for both offense and defense? Don’t miss our free Threatpost webinar, AI and Cybersecurity: Tools, Strategy and Advice, with senior editor Tara Seals and a panel of experts. Click here to register.

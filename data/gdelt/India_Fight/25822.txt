@@ -1,0 +1,37 @@
+Supreme Court Strikes Down The RBI Circular of 12th February 2018
+
+ARTICLE
+
+To print this article, all you need is to be registered or login on Mondaq.com.
+
+The Hon'ble Supreme Court in the matter of Dharani Sugar and Chemicals Ltd. vs. Union of India ("the Judgment") on 2nd April 2019, quashed the much debated Circular of the Reserve Bank of India (RBI) dated 12th February 2018 on "Resolution of Stressed Assets –Revised Framework (the Circular). The Circular was introduced to substitute the existing framework for Revitalizing Distressed Assets in the Economy-Guidelines on Joint Lenders' Forum (JLF) and Corrective Action Plan (CAP) with a more harmonized and simplified generic framework. However, the Supreme Court struck down the entire Circular on the grounds of it being ultra vires to Section 35AA of the Banking Regulation Act, 1949 (BR Act). The authors in this article have analyzed the RBI Circular and the effect of the Supreme Court judgment quashing the circular.
+
+BACKGROUND
+
+The RBI through its Circular of 12th February, 2018 made it mandatory for all banks and financial institutions to initiate corporate insolvency resolution plan (CIRP) against defaulting companies having a significant loan exposure of more than Rs. 2000 crore, if the banks failed to implement a resolution plan within 180 days of the such default . The Circular brought the banks under the obligation to identify and classify stressed assets as Special Mention Account (SMA), immediately on default and that even a single day's default of the repayment schedule would require reporting to the RBI and implementation of Resolution Plan.
+
+The Circular also withdrew the existing loan resolution mechanism such as Corporate debt restructuring scheme (CDR), Flexible structuring of existing long term project loans, Strategic Debt Restructuring Scheme (SDR) and change in ownership outside SDR and Scheme for Sustainable Structuring of Stressed Assets (S4A).
+
+ISSUE WITH THE CIRCULAR
+
+Aggrieved by the one-day default norm brought by the Circular, many petitions were filed before various courts in the country, the petitioners were mainly comprised from the power sector, textile industries and shipbuilding industries which stated that the circular was arbitrary and discriminatory on the ground that a 180-day timeline was imposed by RBI without considering the issues faced by specific sectors of the economy. It was also the contention of the petitioners that the circular derived its power from Section 35AA of BR Act which authorizes RBI to issue directions to "any banking company" or "banking companies" to initiate insolvency resolution process in respect of "a default" under the provisions of Insolvency Code, 2016 and hence the introduction of the Circular under Section 35AA falls beyond the power of the RBI as the prior authorization from the Central Government was not adhered by the apex bank.
+
+JUDGMENT
+
+The Supreme Court while addressing the question of legality of the Circular upheld the regulatory power of the RBI under Section 21 and 35A of the BR Act to issue directions to banking companies which are similar in nature to that of Section 35AA and 35AB and therefore, the said provisions cannot be said to be manifestly arbitrary. However, the Court declared the circular of the RBI to be ultra vires to Section 35 AA as the Section specifically stated that RBI requires to take prior authorization from the Central Government to issue any circular under section 35 AA for issuing any directions to the banking companies to initiate proceedings under the Insolvency and Bankruptcy Code, 2016 (Code) with respect to "debtors generally" and not as to 'specific' defaults by 'specific' debtors as mentioned under Section 35AA.
+
+The Supreme Court declared the Circular to be ultra vires and having no effect in law. In lieu of the judgment all the proceedings filed under Section 7 of the Code based on the Circular would become non-existent from the very inception and the financial creditors are required to withdraw all such proceedings. All the resolutions which had been commenced or was in progress following the Circular was declared to be non-implementable by the Court.
+
+Though the Court has declared the initiation of the insolvency proceedings as per the Circular to be void ab intio, the resolution plans that have already been implemented on consensual basis by the bank will be unaffected by the judgment as the initiation of an insolvency proceedings lie well within the statutory rights of the Bank provided under the Code giving it a discretionary power to approach the National Company Law Tribunal (NCLT) if the assets of the debtor is impaired in the view of the bank.
+
+COMMENTS
+
+The Supreme Court judgment will provide flexibility and time to the banks and the promoters of the defaulting companies to formulate restructuring plans for resolving stressed assets on case to case basis. The availability of a wider timeline would enable the restructuring transactions to be completed in a more realistic timeline without any specified period as prescribed by the Circular which is a relief to the companies going through a complex restructuring transaction.
+
+The ruling of the Court against the Circular was only on the technical grounds of the RBI issuing the circular without the prior authorization of the Central Government as per section 35 AA of the BR Act, however the RBI can issue revised guideline/ circulars for restricting of stressed assets after following the due process under the BR Act. The Circular introduced by RBI with the sole intention of directing the banks to resolve the accounts of non-performing assets (NPAs) in a time bound manner and providing a faster resolution of stressed assets by laying down checks and balances to ensure effective implementation of the circular which would have a had a long term positive effect on the banking sector in the country.
+
+The area of concern which laid post the apex court's ruling was whether the loan resolution mechanism repealed by the RBI Circular will revive after it being declared as void. The order did not change the status quo in respect of the pending proceeding and hence the resolution mechanism available to banks prior to the coming in force of the Circular would revive and be in existence until the same gets repealed by the RBI by a new revised circular. However, these resolution mechanisms have not proved to be effective as the restructuring plan were not implemented in a time-bound manner which again raises the risk of delay in the resolution of financial distress in the industries. The banks can still opt for Project Sashakt as a resolution mechanism for stressed assets apart from the other measures. The Project Sashakt inter-creditor agreement was itself implemented with an intention to speed up the resolution of stressed assets that are under Rs. 500 crore loan bracket. The RBI is in the process of revising the circular on resolution of stressed assets after the above judgment and it is expected that the same would be resultant in reforming the NPA framework into a expeditious and effective resolution of stressed assets.
+
+[The authors recognize the efforts put by Maitry Gandhi, 1st year, GLC Mumbai for the assistance]
+
+The content of this article is intended to provide a general guide to the subject matter. Specialist advice should be sought about your specific circumstances.

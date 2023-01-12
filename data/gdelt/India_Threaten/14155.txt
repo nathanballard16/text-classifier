@@ -1,0 +1,25 @@
+PMC Bank scandal points to larger problems in the system
+
+The problem at PMC Bank only became apparent when the Reserve Bank of India last week banned depositors from taking out more than 1,000 rupees ($14) for six months without offering any explanation.
+
+Just when you think banks in India can’t possibly deliver any more bad news, a near $1 billion scandal drops without warning.
+
+The alleged wrongdoing at Punjab & Maharashtra Co-operative Bank differs from previous Indian banking scams in that savers are on the hook this time around, a situation that can’t be allowed to continue without chilling consequences for an already-stressed financial system.
+
+The problem at PMC Bank only became apparent when the Reserve Bank of India last week banned depositors from taking out more than 1,000 rupees ($14) for six months without offering any explanation. That was a mistake.
+
+Tiny and unlisted as it is, PMC is a popular option for small savers in the state of Maharashtra, whose capital Mumbai is the nation’s financial hub. With public and media pressure building, the RBI relaxed the withdrawal limit to 10,000 rupees. In doing so, the regulator also gave a reason for the withdrawal curbs. These “were necessitated on account of major financial irregularities, failure of internal control and systems of the bank and wrong/under-reporting of its exposure,” it said.
+
+Even so, the extent of irregularities came as a shock on Sunday evening, when Press Trust of India reported that as much as 73% of PMC’s 88 billion rupee loan book – or almost $920 million – was tied to just one borrower group: Housing Development and Infrastructure Ltd., a Mumbai-based shantytown developer that’s facing bankruptcy proceedings. The news agency cited a letter written by the bank’s now-suspended managing director to the RBI. The executive had told BloombergQuint on Friday that about a third of the bank’s loans were given to HDIL.
+
+Whether two-thirds or one-third, the size of the reported advance is far in excess of the bank’s capital. This goes beyond a failure of oversight, and would require top-level complicity. PMC’s annual report shows it to be a profitable lender with a capital adequacy ratio higher than the 12% minimum requirement and a bad-loan ratio of under 4% – almost respectable by the current standards of India’s banking industry. If the news reports are correct, the solidity portrayed by that document is a fiction.
+
+How did PMC’s board, its auditors and the central bank remain clueless for so long? So far nobody has been charged; the entire burden has been placed at the door of depositors, who are innocent victims.
+
+When state-run Punjab National Bank was scammed out of almost $2 billion, it emerged that the lender was incurring liabilities on behalf of an uncle-nephew jeweler duo. It was doing so by sending instructions to overseas branches of other Indian banks over Swift, the global system used by banks to transmit payments. But the liabilities weren’t getting captured in PNB’s internal accounts. By contrast, the PMC saga points to the possibility that the very core of the bank’s operations was rotten.
+
+Ultimately, the RBI will find a way to merge or liquidate PMC and make the depositors whole. But a resolution has to come swiftly. In the case of Madhavpura Mercantile Co-operative Bank, which collapsed in 2001 because of its exposure to a troubled stockbroker, some higher-value depositors were getting their money back as late as last year.
+
+Given the extent of current nervousness in the financial system, it would be a bad idea to let this problem linger for even six months. And while they’re shoring up confidence, authorities also need to raise the 100,000 rupee limit on deposit insurance. The PMC debacle could affect the ability of midsize lender Yes Bank Ltd. to raise or retain deposits, IDFC Securities said in a Sept. 29 note. Yes, too, has concentrated exposure to junk-grade firms, including a property financier. The bank’s shares fell as much as 15% in Monday trading.
+
+The real-estate market in India is a mess. Property developers are leveraged to the hilt, and unable to complete and deliver apartments. Their troubles have, in turn, damaged shadow banks, which are finding it hard to refinance their loans to builders. With the PMC scandal, even deposit-taking institutions run the risk of getting sucked into a vortex of mistrust. The more reliable banks may see a rush of deposits away from second-tier lenders with 9 trillion rupees in deposits. This dislocation in liquidity could open up yet more fault lines at banks perceived to be weaker. PMC Bank is too tiny to pose a systemic threat, but a small, dead canary in a coalmine is still a large warning sign.

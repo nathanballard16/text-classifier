@@ -1,0 +1,55 @@
+Explained: The National Population Register, and the controversy around it
+
+In the backdrop of the National Register of Citizens (NRC) in Assam excluding 19 lakh among the 3.3 crore who had applied, the resurrection of the National Population Register (NPR) project has added to the uncertainty around the idea of citizenship in the country.
+
+Even as issues of privacy associated with Aadhaar continue to be debated in the country, the NPR is on a drive to collect detailed data on residents of India. What has added to the conversation is Home Minister Amit Shah floating the idea of “one nation, one card” and asserting that the NRC would be implemented across the country.
+
+What is the NPR?
+
+The NPR is a list of “usual residents of the country”. According to the Ministry of Home Affairs, a “usual resident of the country” is one who has been residing in a local area for at least the last six months, or intends to stay in a particular location for the next six months. Unlike the NRC, the NPR is not a citizenship enumeration drive, as it would record even a foreigner staying in a locality for more than six months.
+
+The NPR is being prepared under provisions of the Citizenship Act 1955 and the Citizenship (Registration of Citizens and issue of National Identity Cards) Rules, 2003. It is mandatory for every “usual resident of India” to register in the NPR.
+
+It will be conducted in conjunction with the houselisting phase, the first phase of the Census, by the Office of the Registrar General of India (RGI) under the Home Ministry for Census 2021. Only Assam will not be included, given the recently completed NRC.
+
+The NPR exercise is conducted at the local, sub-district, district, state and national levels. The RGI has already begun a pilot project in over 1,200 villages and 40 towns and cities through 5,218 enumeration blocks, where it is collecting various data from people. The final enumeration will begin in April 2020 and end in September 2020.
+
+What is the controversy around it?
+
+It comes in the backdrop of the NRC excluding 19 lakh people in Assam. With the government insisting that the NRC would be implemented across the country, the NPR has raised anxieties around the idea of citizenship in the country. Even as a debate continues on Aadhaar and privacy, the NPR intends to collect a much larger amount of personal data on residents of India.
+
+The idea of conducting a nationwide NRC would only happen on the basis of the upcoming NPR. After a list of residents is created, a nationwide NRC could go about verifying the citizens from that list.
+
+The NPR is also amongst a host of identity databases such as Aadhaar, voter card, passport and more that Amit Shah said he would like to see combined into one card. “We will have to end all these separate exercises,” Shah said at the foundation stone laying ceremony for the new Office of Registrar General of India and Census Commissioner on Tuesday. “If we do a digital census well, then all cards can come into one card. Government has not made this plan yet, but I want to put the potential in front of you to show that a successful digital census is your work and for the benefit of the public,” Shah said.
+
+Is the NPR a new idea?
+
+No. The idea actually dates back to the UPA regime and was put in motion by then Home Minister P Chidambaram in 2009. In fact, at that time it had clashed with Aadhaar (UIDAI) over which project would be best suited for transferring government benefits to citizens. The Home Ministry had then pushed the idea of the NPR being a better vehicle because it connected every NPR-recorded resident to a household through the Census. Back then, the Home Ministry push had even put the UIDAI project on the backburner.
+
+The data for the NPR were first collected in 2010 along with the houselisting phase of Census 2011. In 2015, this data was further updated by conducting a door-to-door survey.
+
+However, with the current government picking out Aadhaar as the key vehicle for transfer of government benefits in 2016 and putting its weight behind it, the NPR took a backseat. Through a notification on August 3 by the RGI, however, the idea has now been revived. The exercise to update the 2015 NPR with additional data has begun and will be completed in 2020. Digitisation of the updated information has been completed.
+
+What kind of data will NPR collect?
+
+The NPR will collect both demographic data and biometric data. There are 15 different categories of demographic data, ranging from name and place of birth to education and occupation, that the RGI is supposed collect in the NPR. For biometric data it will depend on Aadhaar, for which it will seek Aadhaar details of the residents.
+
+Apart from this, in a test run going on across the country, the RGI is seeking details of mobile number, Aadhaar, PAN card, Driving Licence, Voter ID card and passport (in case the resident is Indian). It is also working to update the Civil Registration System of birth and death certificates.
+
+In the 2010 exercise, the RGI had collected only demographic details. In 2015, it updated the data further with the mobile, Aadhaar and ration card numbers of residents. In the 2020 exercise, it has dropped the ration card number but added other categories.
+
+According to Home Ministry sources, while registering with the NPR is mandatory, furnishing of additional data such as PAN, Aadhaar, driving licence and voter ID is voluntary. “Making it mandatory will invite unnecessary litigation. As of now there is no proposal to make it mandatory. We are also reposing trust in citizens. No document is being asked for or being verified against the details provided. The pilot project has shown that almost all the people are willing to share this data. Only in certain urban pockets such as in Delhi have we faced some resistance,” a Home Ministry official said.
+
+The Ministry has also floated the option of residents updating details in the NPR online.
+
+Why does the government want so much data?
+
+While there are concerns around privacy, the government position on collection of so much data is twofold. The first is the assertion that every country must have a comprehensive identity database of its residents with relevant demographic details. It says it will help the government formulate its policies better and also aid national security.
+
+The second, largely to justify the collection of data such as driving licence, voter ID and PAN numbers, is that it will will only ease the life of those residing in India by cutting red tape. “Not only will it help target government beneficiaries in a better way, but also further cut down paperwork and red tape in a similar manner that Aadhaar has done,” a Home Ministry official said.
+
+According to the official, it will streamline data of residents across various platforms. “It is common to find different date of birth of a person on different government documents. NPR will help eliminate that. With NPR data, residents will not have to furnish various proofs of age, address and other details in official work. It would also eliminate duplication in voter lists, government insists.”
+
+Officials also insist, however, that NPR information is private and confidential, meaning it will not be shared with third parties. There is as yet no clarity on the mechanism for protection of this vast amount of data.
+
+This article was first published under the title ‘Simply Put: Listing India’s residents, citizens’.

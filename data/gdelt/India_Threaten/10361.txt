@@ -1,0 +1,25 @@
+IIT students develop 'Agricopter' to eliminate manual spraying of pesticides in agricultural farms
+
+Students at the Indian Institute of Technology (IIT) Madras have developed a "smart agricopter" to eliminate manual spraying of pesticides in agricultural fields and help identify crop health by using a imaging camera.
+
+The innovation will allowing spraying pesticides ten times faster and with 100 per cent precision at the same cost as manual spraying.
+
+Students at the Centre For Innovation, IIT Madras, identified manual pesticide spraying as an extremely hazardous activity as it endangered farmers' and labourers' health and resulted in a massive overuse of toxic chemicals.
+
+The team of three then set out to design a technological solution that would eliminate the need for farmers to come in contact with pesticides as well as intelligently identify which crops on the farm require pesticides and which did not.
+
+"The advanced multispectral imaging camera allows the hexacopter drone to make smart maps of farmland based on crop health and its completely autonomous pesticide refilling system ensures entire spraying is completely autonomous.
+
+"Agriculture is the backbone of our country and there is a desperate need to upgrade our backbone. We are automating a multi-billion dollar manual pesticide spraying industry using cutting edge drone technology," said Rishabh Verma, an aerospace engineering student.
+
+The three have also filed a patent for the agricopter whose cost is estimated to be around Rs 5.1 lakh.
+
+"What really sets agricopter apart from existing products is the multispectral imaging camera which provides smart analysis of crop health and ensures that the entire spraying process is completely autonomous and that the farmer is never exposed to the pesticide.
+
+"The current version of Project Smart Agricopter is a hexacopter drone with the capacity to carry 15 liters of pesticide. Agricopter aims to spray pesticides 10 times faster and with 100 per cent precision at the same cost as manual spraying," said Kavi Kailash, another aerospace engineering student.
+
+The team has also got a Rs 10 lakh worth equity-less funding after their product won the Indian Innovation Growth Programme (IIGP 2.0) University Challenge held at IIT Bombay last month.
+
+"Our current challenge is to complete the construction of their alpha prototype and work towards testing the efficiency of their product on farms across the nation," said Akash Anand, an engineering design student.
+
+(This story has not been edited by Business Standard staff and is auto-generated from a syndicated feed.)

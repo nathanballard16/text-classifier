@@ -1,0 +1,57 @@
+North Koreans behind Indian nuclear plant hack
+
+There is now compelling evidence that a shadowy cyber group from North Korea was behind the cyberattack on an Indian nuclear power plant as reported last week, Asia Times has learned. A detailed analysis by South Korean cybersecurity researcher Choi Sang-myeong of Seoul-based Issue Maker Lab shows North Korean fingerprints all over the attack.
+
+Issue Maker Lab is a group of experts working in the cyber-security field, whose members have won commendations from South Korea’s Defense Ministry and taken part in conferences and events hosted by the (South) Korea Information and Security Agency. Much of the group’s research deals with North Korean capabilities. Choi leads the group as a founder and principal researcher.
+
+Worryingly, the analysis also shows that the North Korean hackers have now been tasked with either disrupting atomic plants or stealing atomic technologies – for India is not only a nuclear power operator but also a nuclear-armed state. This is a major upgrade of North Korea’s cyberattack capabilities, which used to be deployed against civilian targets.
+
+Top sources in the Indian government have confirmed to Asia Times that the hackers were trying to access information about India’s nuclear fuel yields at the Kudankulam Nuclear Power Plant. India is known for its work on thorium-based reactors. Its nuclear program has deeply interlinked civilian and weapons projects.
+
+Any data on yields or fissile material would prove invaluable to the hackers, Indian security officials said. Indian investigators believe that the hackers were looking for fissile material yields as part of a larger operation to determine India’s current nuclear programs’ civilian and military capabilities. Indian security officials also suspect that the North Koreans were a front for the Chinese and the Pakistanis, both being India’s traditional rivals.
+
+India’s nuclear secrets on yields could help them build a picture of the country’s strategic weapons force posture, as well as civilian command and control of its nuclear power generation facilities. The subject is so sensitive that the department of atomic energy has historically reported directly to the Indian prime minister.
+
+Worryingly, Choi revealed that no one from the Indian government has reached out to him, let alone worked with him to research the cyber attack and gather more details.
+
+Nuclear secrets stolen
+
+According to Choi, the hack on the Indian nuclear power plant originated in North Korea.
+
+The key entry point targeted for attack, Choi told Asia Times, was Anil Kakodkar, former chairman of the Atomic Energy Commission of India (AEC) as well as the director of the Bhabha Atomic Research Centre (BARC). Currently holding a chair of excellence to continue his research work, Kakodkar and his colleague S A Bharadwaj still use official email addresses given by BARC. Kakodkar specializes In thorium-based reactors, since India has very limited quantities of uranium.
+
+Pukhraj Singh, an independent Indian cybersecurity professional who worked with the government earlier, was the first to alert the authorities on September 4.
+
+The North Koreans, Choi said, sent a malware link to Kakodkar and Bharadwaj’s official and personal email accounts. Once Kakodkar and Bharadwaj clicked on the link while still using the Kudankulam plant’s domain, the malware spread quickly through the IT networks.
+
+“North Korean hackers knew the IP network of the Indian plant. They penetrated inside the plant, but did not send destructive code,” Choi told Asia Times. “We could not find the exact information they stole,” he said,
+
+He also admitted that Issue Makers Lab had not been able to identify the individuals or the hackers’ actual group. Choi surmised that while the North Korean attackers had the capability of causing major damage, the aim of the Kundakulam raid was not destruction but data retrieval.
+
+In their investigation, Issue Maker Lab found that the computer used as the launchpad for the hack was a model that is produced in, and only used in, North Korea. This helped them get the MAC address of the machine, as well as details of the IP address. Both bear North Korean signatures. Their investigation also found that the Korean language was used in the malware code.
+
+Moreover, when lab personnel dissected the malignant code that had been deployed at the Indian nuclear power plant, they discovered that the code was already known to them. It had previously been used by North Korea in cyber attacks on South Korean banks and broadcasters in 2013, and on Seoul’s Ministry of National Defense in 2016.
+
+Besides Issue Makers Lab, cybersecurity firm Kaspersky has previously identified the malware used in the Kundakulam hack as a version of the “DTrack” malware family. It is linked to the shadowy Lazarus Group, a hacking collective believed to be composed largely or significantly of North Koreans by US intelligence as well as global cyber intelligence firms like Kaspersky.
+
+Also within the code were other clues that link the cyber attack to a much bigger operation that runs out of North Korea or through hackers who are linked to the regime.
+
+North Korea’s cyber soldiers
+
+A 2014 report by a US think tank, the Center for Strategic and International Studies, asserts that North Korean cyber operations are overseen by two entities: the Reconnaissance General Bureau and the Korean People’s Army General Staff Department.
+
+As well as overseeing cyber operatives, the RGB also controls spy networks and commands the Korean People’s Army’s vast special operations force – some 200,000 personnel including commandos as well as airborne and marine units. According to the think-tank report, the bureau answers directly to the State Affairs Commission – the body from which Kim Jong Un takes his official title of “Chairman.”
+
+In turn, the Reconnaissance General Bureau uses a unit known as Cell 101 to carry out offensive cyber operations that include espionage and disruption of enemy command and control systems.
+
+Despite ordinary citizens’ lack of access to the Internet – the isolated country maintains an Intranet, rather than direct links to the World Wide Web – North Korea is believed to possess a potent cyber-warfare and cyber-crime capability, which originally developed out of its signals intelligence arm. Estimates of related personnel range from 1,800 to 5,900.
+
+North Korea is alleged to have been behind several prominent cyber attacks and crimes globally. These include hacks into South Korean banks and government agencies, and a high-profile 2014 attack on Sony Pictures, which had produced a satirical comedy featuring Kim Jong Un.
+
+Pyongyang was also accused of cyber theft, breaking into a Bangladesh bank in 2016 and stealing cryptocurrencies, likely in efforts to generate scarce income for the state. In 2018, the US Justice and Treasury Departments pinpointed a North Korean hacker, Park Jin-hyok, by name, accusing him of masterminding the Sony and Bangladesh bank attacks. The 2018 US Department of Justice indictment names Park and Lazarus, alleging that they are affiliated with the unit Cell 101.
+
+Between the details of the computer that was used to attack the Indian nuclear power plant, the details in the malware code and the DTrack virus, Choi and other researchers are now confident that the North Koreans were behind this elaborate operation.
+
+Last year, US private security firm FireEye alleged in a report that North Korean cyber hacking was spreading to aerospace and defense companies globally. The Kudankulum hack suggests – alarmingly – a shift towards targeting nuclear facilities. While India’s lax cybersecurity standards may have aided them, they could be preparing to target other nuclear facilities globally.
+
+– With additional reporting by Anand Venkatanaryanan

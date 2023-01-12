@@ -1,0 +1,41 @@
+India Startups Go Big for Outer Space
+
+Dozens of home-grown Indian startups are entering the space technology field, capitalizing on the state-run Space Research Organization’s ambitious plans for missions to Mars, the Moon, Venus, the Sun's corona and seven interplanetary space quests in the coming decade.
+
+Hitherto seen as a government monopoly, the space sector has undergone exponential growth with stand-alone enteprises developing everything from satellites, rockets, ancillary support systems and cutting-edge technology to power space missions and serve a range of industries.
+
+Analysts say that with the global space technology market – currently pegged at US$330 billion – expanding rapidly, the sector is fast emerging as a viable commercial field. There are currently 4,000-plus satellites in space, as per a Euroconsult Report, with the number expected to climb sharply to more than 7,000 by 2027.
+
+Space scientists ascribe this development to many reasons, the leading one the plummeting cost of building satellites at the same time their applications expand into new sectors. Breakthrough manufacturing techniques have whittled down the cost of manufacturing small satellites, especially those under 500 kg.
+
+“As a result, the cost of manufacturing has plummeted by 80-90 percent, especially in the small category,” said Prakash Godbole, former professor at IIT Kanpur which launched Jugnu, a remote sensing CubeSat satellite to provide data for agriculture and disaster monitoring. at a cost of a mere US$2.5 million. “This has allowed smaller companies to put satellites in space and use the data generated for various purposes. At present, even foreign private entities are looking at Indian space startups for the launch of vehicle applications.”
+
+In keeping with this trend, Indian entrepreneurs too are reaching for the moon. The southern city of Bangalore, also known as India’s Silicon Valley, has emerged as India’s space startup hub. Almost all the startups focused on space launches or satellite fabrication have roots here.
+
+Bengaluru-based Bellatrix Aerospace is working on propelling satellites into orbit using electric and non-toxic chemical thrusters, raising US$3 million from venture capital investors. Their Agnibaan rocket, for instance, is to be produced by a 3D printer. Bellatrix also makes electric propulsion systems for satellites, considered more state-of-the-art than the liquid propulsion systems currently in use. The company also intends to demonstrate its thruster technology in space.
+
+Another Bengaluru-based start-up called Astrogate Labs is revamping space-to-ground communications systems, from the current radio and microwave technology to optical.
+
+But perhaps the most notable space initiative is TeamIndus, which competed for the US$20 million Google Lunar X Prize to privately develop a spacecraft and land it on the moon. The competition ended without a winner, but TeamIndus will likely join hands with BeyondOrbit, an Edison, New Jersey-based company that received US$97 million from NASA in May as part of agency’s Commercial Lunar Payload Services program.
+
+Then there’s Mumbai-based Kawa Space which designs and operates earth observation satellites. It is putting small satellite constellations in space for telecommunication and earth observatory satellite customers. Dhruva Space, headquartered in Hyderabad, offers to make satellites for any application. So does Pixxel, set up by two 20-year-old student-entrepreneurs.
+
+Although scientists note that in contrast to the US and Europe, few space startups have emerged internationally from India, that could soon change. Seraphim Capital Investment Manager Conor O’Sullivan told the webzine Space.com that India’s achievements in launch and space exploration by the Indian Space Resource Organization, known as ISRO. lay the foundation for space startups to emerge.
+
+“This engineering heritage combined with the talent pool and ambition is a great platform upon which to develop the new space economy in India,” O’Sullivan said. “We see a steady flow of opportunities in India, albeit fewer than from other major space faring nations.”
+
+A developing robust ecosystem for startups in India, say market analysts, can also be ascribed to developments in the field of space science partly through world-class engineering institutes like the IITs and IISc. Not to be discounted is the success of the ISRO which has been at the forefront of space technology in the country.
+
+ISRO’s space program is recognized as one of the world’s most cost-effective. In 2017, the organization created launch history by placing a record 104 spacecraft from 28 countries in their desired orbits in a single rocket. In 2014, ISRO’s successful Mars Orbiter Mission, Mangalyaan, made headlines by costing a fraction of what Hollywood spent on the science fiction space thriller Gravity.
+
+And despite several glitches and failures over the years, most recently this month when a technical snag hours before take-off scuppered the launch of Chadrayaan 2, ISRO has persevered, gradually boosting its satellite count and even carrying foreign satellites.
+
+Fortunately, unlike many other sectors, where the Indian government has notoriously played hardball with foreign and private players, it has been quite encouraging in nurturing space start-ups. ISRO sees these new companies as complementary.
+
+Timely legislation is helping too. Though currently India doesn’t have a national space policy, the pending Space Activity Bill hopes to promote and regulate space activities and encourage participation of non-governmental/private sector agencies in the area. Once passed by Parliament, it will also spell out safety and supervision issues, as well as sharing liability burdens and licensing and authorization procedures.
+
+Meanwhile, the cabinet has also cleared the establishment of a government-owned company, NewSpace India Ltd, to facilitate transfer of ISRO’s technologies to private industries and also help in marketing space-based technologies. ISRO has so far transferred 340 technologies to private companies.
+
+ISRO’s chairman, K Sivan, has said that private companies could start mass production of small satellites and launchers and ISRO would then let them use its launch pads, for a fee. He has said he expects 2-3 small rockets a month. Clearly, the space is opening up for Indian start-ups.
+
+Neeta Lal is a Delhi-based editor and journalist and a longtime contributor to Asia Sentinel.

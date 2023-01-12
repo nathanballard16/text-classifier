@@ -1,0 +1,61 @@
+Opinion | Kudankulam Malware Attack Shows It's High Time For Modi Govt To Enhance Cybersecurity System
+
+New Delhi:
+
+In view of recent cyberattacks on Kudankulam nuclear power plant, the issue of cybersecurity has again assumed importance. Though, the attackers couldn’t penetrate the core system, they were able to send a signal that India’s cyber space is vulnerable.
+
+The Nuclear Power Corporation of India Limited, which operates 22 commercial nuclear power reactors, stated that it was “isolated from the critical internal network”. There are reports that the hackers also tried to hack other organisations including Indian Space Research Organisation (ISRO).
+
+
+
+Now the question is where does India stand in terms of protecting its cyber space vis-a-vis other countries? One criteria of a country’s preparedness from such attacks could be national budget that a country allots for securing its cyber space.
+
+
+
+In India, budget allocation for cyber security is less than $200 in last five years. Now, let us compare it with countries that have strong cyber security systems.
+
+
+
+In the USA, government made it clear that online attacks are a major threat to the highly digitised society of the country. It has earmarked $19 billion for cybersecurity.
+
+
+
+“Criminals, terrorists, and countries who wish to do us harm have all realized that attacking us online is often easier than attacking us in person,” said an official Whitehouse statement while announcing allocation.
+
+
+
+After terrorist attacks in Paris, in 2015, killing 130 people many countries strengthened their cybersecurity. UK government’s immediate response to the attack was to double its cyber security budget to more than 2 billion pounds ($ 2.3 billion).
+
+
+
+The USA and the UK have the most robust cybersecurity systems in the world, thanks to proactive approach of their governments.
+
+
+
+On the other hand, India’s budget allocation for fiscal year 2016-17 was only $10 million (Rs 70 crore). This is miniscule by any standard even if we don’t compare India with the USA and the UK. Total budget allocation for cybersecurity in last five fiscal years since 2012-13 is only Rs 320 crore (about $50 million). And a large part of it went towards the administrative expenses of the organisations responsible for cybersecurity in the country.
+
+
+
+What has saved India from serious online attacks till date is low level of digitisation in the country. All government programs such as e-governance, e-education, e-health are moving at slow pace. The government is focusing on digital payments, which has started picking up. In the absence of a robust cyber security system in place, online transactions are vulnerable to cyberattacks and cyber thefts. What is being promoted as a solution may bring more problems rather than solving the issue. Digital payments through any mode – credit/debit cards, wallets or online banking – are at the risk of online attacks.
+
+
+
+When NDA came to power, it announced Digital India program with a total investment of Rs 1,13,000 crore. The vision document of the program says that India would become a highly digitised society by 2019. However, there were no funds earmarked for cybersecurity. The vision document is silent on cybersecurity, even though it talks about making India world leader in digital space.
+
+The role of the government in securing its citizens is beautifully explained by George Osborne, former chancellor of exchequer of the UK in his speech after terrorist attack in Paris. “There are certain things that only government can do, in cyberspace just as in the physical world. Only government can collect secret intelligence.…Government has a duty to protect its citizens and companies from crime. Only government can defend against the most sophisticated threats, using its sovereign capability.”
+
+
+
+In India, there is a national cyber security policy (NCSP) that was formulated in 2013. The policy includes promoting research and development in cybersecurity, public private partnership, creating a task force of 500,000 professionals by 2018, and developing dynamic legal system. However, not much has been implemented till date and the country remains to be a sitting duck in cyberspace. It seems that the government has not realised that cyberattack is much more than hacking a website and that the cybersecurity goes beyond installing a firewall around websites.
+
+
+
+It is high time that the government should realise that a robust cybersecurity system is prerequisite of digital society. All its digital initiatives would be vulnerable to online attacks if a strong prevention is not in place.
+
+
+
+
+
+A serious cyberattack would not be limited to damage to economy. Everything that is online such as electricity supply, air traffic control, nuclear power stations are target of attack. In case of a successful attack, human lives could also be lost.
+
+Disclaimer: The opinions and facts expressed within this article are the personal opinions of the author. They do not reflect the views of News Nation. The NNPL does not assume any responsibility or liability for the same.

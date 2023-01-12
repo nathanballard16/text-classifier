@@ -1,0 +1,27 @@
+CII urges govt to lower base price for 5G spectrum auctions
+
+Industry body CII on Sunday urged the government to lower the base price for 5G spectrum, saying the high price of such radiowaves will halt accelerated growth of the sector and deter adoption of telecom services by the masses.
+
+The Confederation of Indian Industry (CII) cautioned that participation of Indian telecom companies may be severely constrained in the upcoming auction for 5G spectrum due to low average revenue per user, and added that high reserve prices could further subdue this.
+
+In a representation submitted to the government, the CII made a case for a lower 5G spectrum reserve price, the auction for which is expected to be held later this year.
+
+"India's telecommunication sector has achieved global recognition for the speed of its growth and has the lowest tariffs in the world, ensuring access for poor users and in remote geographies. High reserve prices of spectrum will halt this accelerated growth and deter uptake of telecom services by poorer sections of society," the CII said in a statement.
+
+The association has questioned the current spectrum pricing model arguing that using the metric of dollars per megahertz per population is "inappropriate" for Indian market where telecom prices are set at very low levels and population is high.
+
+Instead, the CII recommended use of dollar/MHz/revenue or dollar/MHz/GDP as a metric for comparing spectrum price across markets.
+
+"The population level of the country does not translate into proportionate revenues, resulting in lower cash flows for mobile operators," the CII said.
+
+Further, the approach of relying on last auction prices worked only when there were no distortions in the auction process, said CII, adding that ground-up valuation of spectrum is a better approach.
+
+"Also, this approach of inflating the auction prices to arrive at the reserve price hasn't been followed in all cases by the TRAI (Telecom Regulatory Authority of India) in the past. Where in some case, the TRAI has reduced the reserve price even when the market prices in the preceding auctions were higher," the CII said.
+
+It urged the government to relook the base prices for 5G spectrum by valuing them ground up, using models which factor in the current financial stress of the sector.
+
+Highlighting the financial difficulties being faced by the industry, the CII noted that since 2016, high competition in the market had led to lower realisations.
+
+"This has lowered revenues to the government by about 37 per cent in the last two years. At the same time, debt due to spectrum liabilities has remained very high and with EBITDA (earnings before interest, tax, depreciation and amortisation) having declined 28 per cent year-on-year, interest costs are now higher than EBITDA," the CII pointed out.
+
+(This story has not been edited by Business Standard staff and is auto-generated from a syndicated feed.)

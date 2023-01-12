@@ -1,0 +1,23 @@
+Android Malware Gustuff Found By Group-IB; Targeting Phones, Crypto Apps And International Banks
+
+Android Malware Gustuff Found By Group-IB; Targeting Phones, Crypto Apps And International Banks
+
+Android Malware Discovered By Cybersecurity Firm, Targeting Android Phones, Crypto Apps, And International Banks
+
+Hackers that work in the cryptocurrency industry will stop at nearly nothing to find ways to steal the funds and access to the funds of unsuspecting individuals. Some hackers scam individuals with various websites and software, but a whole new type of malware has been discovered by the cybersecurity firm Group-IB. This “Trojan horse” malware, as The Next Web says, works with the Android smartphone operating system, and steals both fiat and digital assets.
+
+Group-IB discovered the malware, which they have named “Gutstuff,” and they have warned investors that it features an automated functionality that is able to gain massive profit for the scammers. This is the first time that the Trojan malware has been reported or even evaluated. However, when it infiltrates smartphones, the program is programmed to pull both fiat and cryptocurrencies from the user, specifically from major international banks and crypto exchanges.
+
+The “web fakes” of the malware look just like regular applications, but they start phishing for the usernames, passwords, and other sensitive information from the users. When the user attempts to use one of their applications, they are instead directed to the applications that Gutstuff has implemented instead. There are 32 crypto apps that have been impacted, which include Coinbase, BitPay, and Bitcoin Wallet.
+
+There are also web fakes for leading banking institutions, including Wells Fargo, Bank of America, and J.P. Morgan. Of the apps targeted, 27 of them were from the US, while the others were dispersed between Poland (16), Australia (10), Germany (9), and India (8). The malware is also compatible with PayPal, Revolut, Western Union, eBay, Walmart, Skype, and WhatsApp, which means that there are very few people not at risk.
+
+In the report from the cybersecurity firm, the company calls this malware a “weapon of mass infection,” sending links through SMS messages. The user only has to click the link to set off a parade of attacks, spreading the malware through the system as a result of the “automatic transfer systems” (ATS) that the creator put in place to speed up and scale the results of the theft. ATS creates an autofill for the real apps, but with their own malicious data.
+
+Gutstuff makes a way through the accessibility features that are enabled for users that have disabilities, so it is relatively rare. Still, the fact that it goes through the accessibility service means that there are no security measures left to bypass. It can even turn off Google Protect, which works about 70% of the time.
+
+Despite the fact that this is only the first time that the malware has been found and evaluated, Group-IB found that there were hacker forums that spoke about it since April last year. These posts advertised the use of the programs, which were available to least for $800 a month. It follows the AndyBot malware, which had been claiming Android victims since November 2017.
+
+To avoid these kinds of malware from infiltrating someone’s phone, Group-IB said that the only mobile apps that consumers should download should come from Google Play if they have an Android phone. Downloading from a third-party store, especially one that comes from an SMS message, is rarely safe, if at all. The firm added that it is best for companies to offer signature-based verification for their users, like device fingerprints. These types of protocols could mean the difference between and safe device and losing access to account credentials.
+
+https://bitcoinexchangeguide.com/bitcoin-bch-ethereum-and-litecoin-price-prediction-todays-top-crypto-forecast-analysis/

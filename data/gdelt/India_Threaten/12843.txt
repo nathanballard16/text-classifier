@@ -1,0 +1,29 @@
+RBI Bid To Force Banks To Cut Rates By Linking To An External Benchmark Will Probably Fail
+
+Bureaucrats and regulators in India like to think that the behaviours of commercial entities can be changed by a mere tweak of the rules, by issuing a circular here or imposing a penalty there.
+
+This is the problem with the Reserve Bank of India (RBI) circular of 4 September that mandates banks to link their new floating rate loans for housing and automobiles, as well as to micro and small enterprises, to an “external benchmark”. By external benchmark the RBI means its repo rate, yields on 90-day or 180-day treasury bills, or any other benchmark published by Financial Benchmarks India Private Limited (FBIL).
+
+Banks have to compulsorily adjust these rates at least once in three months, and though they can use several benchmarks for different categories of loans, they can use only one benchmark for one type of loan. For example, if a bank’s home loan rates are linked to six-month T-bills, you can’t offer some home loan customers one benchmark and others a different one.
+
+The circular, which will be effective from 1 October, is no doubt well-intentioned and intended to ensure rate transmission, but it will probably be observed more in the breach by banks.
+
+Two reasons why.
+
+One, when banks are yet to fully emerge from their bad loan crises, they are looking for larger spreads on loans rather than narrow spreads where their hands are tied to a benchmark they can’t predict. The chances are they will either make the loan bands above the benchmark rate high enough to make no difference at all to their current effective lending rates, or adopt a benchmark that moves very little. A shift to more fixed-rate loans may also be attempted.
+
+Two, rates have to depend on risk assessment, and not an arbitrary anchor which moves autonomously of a bank’s risk profile. While the circular does mention that rates can be changed depending on the changing risk assessments of borrowers, this may work with corporate borrowers who are rated by credit rating agencies. But what about retail borrowers, who all get almost the same home or auto loan rates? Can rates be different for retail borrowers with different credit scores?
+
+One can safely predict that banks will use every trick in the book, and some from outside, to ensure that their spreads do not suffer at a time when their balance-sheets are still under water.
+
+The central bank surely knows that rate transmission depends on three things.
+
+#1: Deposit rates. If deposit rates can be brought down, so can lending rates. But if deposit rates cannot be benchmarked, why should only lending rates be?
+
+#2: Demand and supply of loans. When banks are well capitalised and in a mood to grow their balance-sheets, they will bring down rates to woo depositors and borrowers. When they are in trouble, they will not only keep rates high, but also play hard to get.
+
+#3. Competition. Rates fall faster when there is greater competition to lend. In a scenario where 70 per cent of banking business is in the public sector, which is anyway inefficient, private banks can set rates at par and make tonnes of money since their cost structures are more competitive.
+
+The public sector, on the other hand, acts like a cartel, with most banks following the lead set by the State Bank of India. The only way to increase competition is to privatise more public sector banks, or wait till the time when the latter’s market share shrinks to less than 50 per cent and competition forces the private sector to bring down rates in order to grow business.
+
+Trying to bring rates down by circulars and regulatory fiats will not work. Bankers will be bankers – risk-averse when the going is tough, as is the case now.

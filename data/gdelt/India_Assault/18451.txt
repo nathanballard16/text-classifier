@@ -1,0 +1,23 @@
+WhatsApp confirms new threat for some Android and iOS users from malicious video files
+
+The Computer Emergency Response Team, a government cyber security agency, on Saturday reported a vulnerability in WhatsApp that allows hackers to target phones by sending video files in the MP4 format. The notification flagged a “high” severity rating for the vulnerability.
+
+“A stack-based buffer overview vulnerability exists in WhatsApp due to improper parsing of elementary system metadata of an MP4 file,” the notification said. “A remote attacker could exploit this vulnerability by sending a specially crafted MP4 file to the target system.”
+
+The description said that successful exploitation of the said vulnerability could “allow the remote attacker to cause Remote Code Execution or Denial of Service condition”, which could adversely affect the system further. Facebook, WhatsApp’s parent company, had issued a security advisory about the vulnerability on Thursday, listing out the various versions of Android, iOS and Windows Phone that are at risk.
+
+However, a WhatsApp spokesperson told Scroll.in that there was no reason to believe users were impacted by the vulnerability. The company said it is constantly working to improve the security of its service, and consistent with industry practices, it releases reports on potential issues it resolves.
+
+The company added that in general, not every issue involving “remote code” means that a spyware could have been used.
+
+The description of the vulnerability is reportedly similar to the one related to the Pegasus spyware developed by Israeli company NSO Group. However, WhatsApp’s latest security patch claimed to have fixed the problem, according to India Today. But the messaging platform or its parent company have not provided more details on the extent of possible execution of this vulnerability.
+
+Pegasus was used to hack into any phone simply through a missed call, predominantly via WhatsApp, giving the attackers unfettered access to the device, including location data, emails, passwords and even the ability to turn on its microphone and camera. A report had claimed that 121 Indians were affected in the privacy breach.
+
+Earlier this month, a group of 19 journalists, human rights activists and writers that were targeted wrote to the Centre, asking it to reveal whatever information it has about the cyber attack, other methods of mass surveillance, and the identity of the suspects.
+
+WhatsApp filed a lawsuit against NSO Group last week, accusing it of helping government spies break into the phones of roughly 1,400 users, including political dissidents, journalists and government officials, across the world. The company denied the allegations.
+
+On October 30, the Centre had asked WhatsApp to explain the nature of the breach and the steps taken to protect Indian users by November 4. In response, the Facebook-owned messaging platform attached both a vulnerability note filed in May and a letter it sent to the government in September in which it reportedly alerted the Centre about the hacking.
+
+Now, follow and debate the day’s most significant stories on Scroll Exchange.

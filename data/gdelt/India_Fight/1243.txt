@@ -1,0 +1,17 @@
+In India, Amazon's fight is not just with Flipkart, but with PayTM, Google Pay and Truecaller
+
+Amazon India has plans on rolling out its own Unified Payments Interface (UPI) so that online shoppers don’t have to depend on third-party applications to make payments on the platform.
+
+With this move, the company is rolling into a space that already has a lot of competition with PayTM, BHIM, PhonePe, Google Pay and Truecaller .
+
+
+
+With its own UPI as an option, Amazon India will be able to offer users an ‘end-to-end’ solution for online shopping .
+
+Advertisement
+
+Advertisement
+
+Advertisement
+
+India’s central bank just announced a committee to push more Indians towards digital payments and Amazon has plans of jumping into the ring with its own Unified Payments Interface (UPI).Bankers told ETtech that the e-commerce giant is already testing its UPI on a restricted user base, in partnership with Axis Bank.Any digital payments platform needs to adopt UPI 2.0 , which was launched in August, 2018, in order to enable online financial transactions in India. That space is currently dominated by the Indian government’s own BHIM app PayTM , PhonePe, Google Pay and Truecaller.But, Amazon has an edge. Rather being a digital wallet that adapts to being an e-commerce platform like PayTM, Amazon already has its customer base. Setting up its own UPI will help users that are already on Amazon, stay on Amazon, without needing a third-party app to make online payments.Even WhatsApp had plans of rolling out its own payments platform in June, 2018 but India’s new data localisation policy has them stuck in a rut.At the checkout stage while shopping online on Amazon, it will have its own UPI handle that you can choose to make payments along with the usual suspects — debit cards, credit cards, net banking or cash-on-delivery.The UPI handle will allow you to make payments directly from your bank account to Amazon.Due to the vast popularity of PayTM, some users assume that all UPI using apps are digital wallets — but they’re not. An e-wallet is where money is transferred from your bank account into a digital wallet, where you can access it to make payments.But an app developed on the UPI platform allows transactions to occur directly between your bank account and the vendor, like a debit card, where the app is only the means of making the transfer without any having to store the money anywhere else in between.That will be the essential difference between Amazon Pay and Amazon’s UPI platform.The introduction of Amazon’s own payment platform will negate the need for consumers to turn elsewhere when they need to access their money. It assures users of an end-to-end solution for their online shopping.

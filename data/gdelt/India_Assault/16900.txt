@@ -1,0 +1,31 @@
+'Traders should opt for Vega based albatross short strangle in Bank Nifty'
+
+Heavy volatility in the last few trading sessions has ignited options premium and one of the main components responsible for the high premium as "Vega". The average weekly range of Bank Nifty is 1,200, which extended to 2,100 in the previous week.
+
+Considering the extended weekly range, traders can expect the index to settle this week. The strategy which involves Theta as well as Vega decay need to be opted because of high Vega, the option premium might lose even if underlying prices move significantly in either direction. We believe that "Albatross Short Strangle" would be the apt strategy. The strategy resembles the long wings of Albatross bird where deep out of the money call and put options can be sold to gain the premium amount.
+
+What options data suggests
+
+As per options data, there is decent open interest addition in 27,000 put option and cumulative open interest is more than 1.5 lakh making it short term base for the index. On the call side, 29000 call option holds highest open interest which was followed by 29500 strike price where fresh short of more than 65000 contracts has been added in today's trading session and cumulative open interest stands at around 1,44,000.
+
+Technical structure
+
+On the daily chart, short term averages are almost flat and the index has bounced back from the 78.6 percent retracement level. Momentum indicators have bounced back from support levels, but are still trading in a sideways territory and we can expect the market to trade within the range.
+
+(Albatross Short Strangle)
+
+Strategy: Albatross Short Strangle (October 17 Contract)
+
+So, all things taken into perspective, we can conclude that high volatility is likely to cool off and sideways movement is expected. Though 29,000 CE holds maximum open interest, but to make the strategy safer, traders can go Short in 29,500 CE along with 27,000 PE as both are quite deep out of the money options.
+
+Sell 29500 CE at 64
+
+Sell 27000 PE at 108
+
+Break even points - 29672 and 26828
+
+Max gain – 172 points (If Bank Nifty expires in the range of 27000 and 29500)Call Delta and Vega - (0.12 & 6.55), Implied Volatility - (34.69)Put Delta and Vega - (-0.17 & 8.55), Implied Volatility - (33.66)
+
+Stop Loss - SL can be maintained of both the breakeven points’ i.e. 29672 and 26828
+
+The views and investment tips expressed by investment experts on moneycontrol.com are their own and not that of the website or its management. Moneycontrol.com advises users to check with certified experts before taking any investment decisions.

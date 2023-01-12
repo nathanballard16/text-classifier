@@ -1,0 +1,51 @@
+Aadhaar Act amendments let private firms resume use of biometric ID, sustain arbitrary surveillance
+
+The Indian government is seeking to resume the use of Aadhaar by private banking and telecom companies, barely four months after it was prohibited by the Supreme Court. To this end, the government has moved a series of amendments to the Aadhaar Targeted Delivery of Financial and Other Subsidies, Benefits and Services Act of 2016 as well as the Telegraph Act, 1885 and the Prevention of Money Laundering Act, 2002.
+
+The proposed changes are couched in vague language about consent – enabling “voluntary use” of Aadhaar for certain services – but there is no doubt they are targeted at using the Supreme Court’s judgement to once again expand the scope of the unique identity project. The amendments do not comply with the court’s order regarding the Aadhaar Act’s surveillance provisions, which were specifically struck down for want of proper oversight.
+
+Here are some of the major changes the Aadhaar and Other Laws Amendment Bill, 2018 is intended to bring about.
+
+Telegraph Act
+
+In its judgement, delivered in September, the Supreme Court struck down Section 57 of the Aadhaar Act. It was from this provision that telecom operators derived their powers to authenticate mobile numbers using the biometric identification number. Section 57 read:
+
+“Nothing contained in this Act shall prevent the use of Aadhaar number for establishing the identity of an individual for any purpose, whether by the State or any body corporate or person, pursuant to any law, for the time being in force, or any contract to this effect.”
+
+The court expressly called this provision unconstitutional, observing that it did not meet the test of proportionality, that is the ends it served were not proportionate to the objectives of the Aadhaar Act. The court, however, did say that if a person voluntarily wants to use Aadhaar as an identity document, there may not be a problem. It opined:
+
+“The respondents may be right in their explanation that it is only an enabling provision which entitles Aadhaar number holder to take the help of Aadhaar for the purpose of establishing his/her identity. If such a person voluntary wants to offer Aadhaar card as a proof of his/her identity, there may not be a problem.”
+
+It is this observation that the Centre is using to push for the resumption of the use of Aadhaar by private players, ignoring the objection from activists and the Opposition that this could lead to misuse of personal data.
+
+After Section 57 was struck down, there was no provision to enable such voluntary authentication by private players. The government is now trying to remedy this by adding a new clause, sub-section 3, to the Telegraph Act. It reads:
+
+“Any person who is granted a licence under the first proviso to sub-section 1 to establish, maintain or work a telegraph within any part of India, shall identify any person to whom it provides its services by (a) Authentication under the Aadhaar Targeted Delivery of Financial and Other Subsidies, Benefits and Services Act, 2016; or (b) Offline verification under the Aadhaar Targeted Delivery of Financial and Other Subsidies, Benefits and Services Act, 2016; or (c) Use of passport issued under section 4 of the Passports Act, 1967; or (d) Use of any other officially valid document or modes of identification as may be notified by the Central Government in this behalf.”
+
+The definition of “telegraph” covers mobile services since they involve transmission and receipt of signals. The amendment to the Telegraph Act makes Aadhaar-based identification voluntary and prohibits the storage of either the Aadhaar number or the biometric data linked to it.
+
+Money Laundering Act
+
+The same Telegraph Act amendment is reproduced as Section 11A in the Prevention of Money Laundering Act, enabling banking firms to use Aadhaar on a voluntary basis. It does not stop with banking services, however. A provision in Section 11A enables any “reporting entity” to use Aadhaar if it complies with the Aadhaar Act.
+
+A reporting entity is a “banking company, financial institution, intermediary or a person carrying on a designated business or profession”. A designated business or profession, in turn, means:
+
+(i) A person carrying on activities for playing games of chance for cash or kind, and includes such activities associated with casino; (ii) A Registrar or Sub-Registrar appointed under section 6 of the Registration Act, 1908 (16 of 1908) as may be notified by the Central Government; (iii) real estate agent, as may be notified by the Central Government; (iv) Dealer in precious metals, precious stones and other high value goods, as may be notified by the Central Government; (v) Person engaged in safekeeping and administration of cash and liquid securities on behalf of other persons, as may be notified by the Central Government; or (vi) Person carrying on such other activities as the Central Government may, by notification, so designate, from time-to-time.
+
+Simply put, as long as it is on a voluntary basis, Aadhaar can now be used by almost anyone notified by the government under the Prevention of Money Laundering Act. Aadhaar can be used for land records as well.
+
+The amendments to both the Telegraph Act and the Money Laundering Act, however, make it clear that a service cannot be denied for want of Aadhaar.
+
+Offline verification
+
+Another crucial change being brought about concerns the use of Aadhaar for “offline verification”. To enable this, the government has changed the very definition of “Aadhaar number” to include any “alternate virtual identity” generated by the Unique Identification Authority of India, the agency that manages the identity project.
+
+A new clause, Section 8A, makes it mandatory to obtain the individual’s consent for offline verification of their identity and requires that the information thus collected be used for the sole purpose of verification. The entities seeking such verification will have to inform the individual of the nature of information that may be shared during the verification process. They are prohibited from storing this data.
+
+The proposed changes include a definition of the “Aadhaar ecosystem” as covering enrolment agencies, registrars, verification entities and any other entity specified by the regulations. Violating the regulations would attract stringent penalties, including a prison term of up to 10 years.
+
+Check on surveillance
+
+The Supreme Court struck down Section 33 (2) of the Aadhaar Act which empowered an officer of the rank of joint secretary to ask the Unique Identification Authority for Aadhaar information for the purpose of national security. The provision risked being misused, the court said. To prevent misuse, it added, the power to direct the Aadhaar authority to furnish information should vest in an officer of secretary rank and there should be judicial oversight of the process. And judicial oversight would be through the inclusion of a High Court judge in the process of determining if a direction to the Aadhaar authority was necessary.
+
+The amendments change the authorised officer from a joint secretary to a secretary. But they fail to incorporate the judicial check, making it a clear violation of the apex court’s order.

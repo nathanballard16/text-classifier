@@ -1,0 +1,67 @@
+India x Cleantech — September 2019
+
+Welcome to the inaugural issue of our new India x Cleantech series! On a monthly basis, we will pull news from across clean technology sectors in India into a single, concise summary article. Ongoing, this series will find a home over on CleanTechnica’s “Future Trends” page. Without further ado, here are this month’s highlights from India x Cleantech.
+
+Climate Policy & Carbon Tax
+
+The Indian government released Rs 55,000 crore to aid efforts in forest conservation and afforestation across 27 states. These funds were first promised around a year back and are in addition to the state forest budgets. States would be free to use these funds for 24 permissible activities that include compensatory afforestation, assisted natural regeneration of forests, forest fire prevention, soil and moisture conservation, catchment area treatment, and improvement of wildlife habitat.
+
+Days ahead of the United Nations Convention to Combat Desertification (UNCCD) the Indian Minister for Environment, Forest and Climate Change has announced a revised target for land restoration. India had initially committed to restore 30 million hectares of land by 2030 but has now reduced this target to 26 million hectares. According to unnamed sources within the Ministry, the target has been revised due to lack of internal consensus.
+
+A study conducted at the University of Cambridge in the United Kingdom found that climate change could cut India’s Gross Domestic Product by 10% by the end of the century. Researchers found that the US economy could take a hit of around 10.5% by 2100 while Japan and Zealand could also see their economies shrink by 10% each.
+
+Cleantech Investments
+
+Over 1 Gigawatt Of Solar & Wind Assets Sold In Stressed Asset Sale
+
+The Indian renewable energy market witnessed sale of more than 1 gigawatts of solar and wind energy projects by financially troubled project developers. IL&FS Wind Energy Limited, a subsidiary of financially troubled non-banking financial institution IL&FS, sold operational wind energy assets worth 873 megawatts to existing minority stakeholder Japan’s Orix. Essel Group, another company struggle to make timely payments to creditors, sold 205 megawatts of operational solar power assets to Adani Green Energy, one of the largest independent renewable energy generators in India. The Essel Group is now looking to sell an additional 480 megawatts of solar power capacity.
+
+Singapore-headquartered Sembcorp is looking to acquire an additional stake in the Indian renewables market through its Indian subsidiary Sembcorp Energy India Limited with a new $100 million investment. The funds will be used by the Indian subsidiary as capital to set up new projects, participate in upcoming auctions, and scout for potential acquisition targets in the renewable energy space.
+
+Greenko Energy Holdings raised $350 million from the fourth green bond issue since 2014. The proceeds for this bond issue shall be used to refinance corporate debt. Priced at an annual yield of 6.25% the issue attracted bids worth $900 million. The company raised $824 million through equity infusion from two existing investors earlier this year. It also raised $950 million in one of the largest green bond issues in Asia in July.
+
+Australia-based Institute for Energy Economics and Financial Analysis reported that it estimates that India would require new investments of between $500 billion and $700 billion over the next decade in its renewable energy sector. The report’s author said that India is only expected to achieve an installed renewable energy capacity of 144 gigawatts by 2022, against a target of 175 gigawatts.
+
+India’s largest power transmission infrastructure company, Power Grid Corporation, has announced plans to invest $360 million to install new power transmission lines and a power evacuation network in the state of Rajasthan. This investment is crucial as the state is the hub for development of new large-scale solar power projects. Several new solar power projects auctioned in recent months are scheduled to be commissioned in this state.
+
+Indian largest crude oil refining company, Indian Oil Corporation, has announced long-term plans to invest $3.5 billion into the renewables energy sector. While the company currently has a small operational renewable capacity of 216 megawatts, the planned investment points to the development of large-scale solar and wind energy projects in the near future. The company already operates a subsidy-based scheme for the installation of rooftop solar power systems at its fueling stations. Like a number of public sector companies, Indian Oil, might also opt to utilize large-scale solar power tenders to meet its Renewable Purchase Obligation.
+
+Following a poor response to the initial public offering of the world’s largest pure-play EPC company, the listing of its shares too has failed to bring any cheer for the investors. Shares of Sterling & Wilson Solar Limited listed at the Indian bourses (stock market) earlier this month at a discount of over 10% to the issue price of $10.9 per share. The shares slipped further on the listing day, ending the first day of trading at $9.67 per share.
+
+Electric Transport
+
+The Indian government sanctioned subsidies for the first batch of electric buses to be deployed across various cities in the country. Nearly 5,600 electric buses will be deployed across 64 cities in India under the Faster Adoption and Manufacturing of Hybrid & Electric Vehicles in India, or the FAME-II scheme. The government is expected to release over $360 million to state and city authorities to acquire the new buses.
+
+Electric vehicles in India became slightly cheaper last month after the government decided to reduce Goods & Services Tax on new electric vehicles from 12% down to 5%. Additionally, the government also decided to reduce the tax on electric vehicle charging equipment from 18% down to 5%. With public transport clearly set as one of the government’s top priorities, the purchase of electric buses by city authorities has been fully exempted from this tax.
+
+French automaker Renault revealed plans to launch its first electric car in India in 2022. The company’s India operations ahead, however, cautioned against the lack of ecosystem and infrastructure to support a large fleet of electric cars. A number of Indian and foreign car companies are planning to launch electric cars in India in the near future.
+
+Indian Oil Corporation, a government-owned company, announced plans to set up a battery plant to cater to the forecasted increase in electricity demand from electric vehicles. The company is reportedly looking to establish a joint venture with a foreign company and will focus on non-lithium-ion batteries. The company hopes to use a material that is locally available, likely to produce cost-competitive batteries.
+
+Government-owned Energy Efficiency Services Limited (EESL) is once again in the news with the announcement of plans to acquire 5,000 electric vehicles and install 1,000 new EV charging stations. The company had earlier made headlines with plans to acquire 10,000 electric cars through competitive auctions. It, however, managed to acquire and deploy only 1,500 cars. In this follow up round, the company is planning to aggregate demand from various government departments and state governments before floating the requisite tenders.
+
+Renewable Energy & Batteries
+
+According to CleanTechnica research, the share of fossil fuel-based energy generation in India’s power mix declined for the 14th consecutive quarter. At the end of Q2 2019, the share of power generation capacity powered by coal, diesel, natural gas, and naphtha had fallen to 63.05%. The declining share is the direct result of the slow rate of new capacity addition in the fossil fuel sector compared to the rapid rate of installations in solar, wind, and the overall renewable energy sector over the last few years. There have also been several fossil fuel power generation facility retirements that have helped move the needle in this area.
+
+Large Renewable Energy Tenders Receive Poor Response From Developers
+
+Four large renewable energy tenders in India received little to no response from developers as uncertainty over the sanctity of long-term power purchase agreements (PPAs) and lack of liquidity continued to pose major challenges. A 2-gigawatt solar power tender targeted specifically at government-owned companies was subscribed around 50%. A 1.8-gigawatt wind energy tender received only two bids for 550 megawatts with most leading wind developers staying away. A 1.2-gigawatt solar power tender also received only two bids for a total capacity of 600 megawatts. Finally, a 1.2-gigawatt solar power tender issued by India’s largest power generation company NTPC Limited received no bids, forcing the company to extend the bid submission deadline a third time.
+
+The government of Gujarat once again scrapped allocation of renewable energy projects stating high tariffs as the reason. The government had auctioned 745 megawatts of wind energy capacity in May this year but had asked all the developers to match the lowest bid. Out of all the submissions, only one developer was in line with the government’s guidance. Only two developers were allocated any capacity, securing 190-megawatts of capacity out of the 1 gigawatt in the original tender.
+
+India’s largest power generation company announced plans to set up a 5-gigawatt solar power park in the state of Gujarat. The new project represents a total investment of Rs 20,000 crore (~$2.8 billion) and will be among the largest solar power parks in the country. The company also plans to set up a large solar power plant in the neighboring state of Rajasthan.
+
+The government of Andhra Pradesh has made a dramatic u-turn in its attempts to investigate and unilaterally renegotiate tariffs of several long-term PPAs with solar and wind energy projects. The decision, which had earlier threatened the viability of hundreds of megawatts of projects, shall now only apply to projects allocated without competitive auction. The change eliminates what would have been a barrier to a handful of new solar and wind projects in the region.
+
+The Solar Energy Corporation of India (SECI) has been forced to move the location of the 5 gigawatt solar PV plant following objections from the wildlife department. The solar power park is a part of the 7.5 gigawatt solar power development in the union territory of Ladakh, which includes a 2.5 gigawatt solar park in the district of Kargil. The local wildlife department, however, noted that the location is a breeding ground for several protected species and SECI must find a new location for the project.
+
+Indian Government Eases Payment & Auction Rules For Renewable Energy Projects
+
+To boost the confidence in the renewable energy sector, the Indian government has taken measures aimed at reducing payment woes related to the commissioning of wind projects allocated through competitive auctions. Solar and wind energy projects under the current central policies would not be paid the full tariff even if power is not procured from the generators under federal cases. The changes relax the guidelines governing land acquisition, commissioning of projects, and shortfall in generation for wind energy projects under federal policies.
+
+Advertisement
+
+Have a tip for CleanTechnica, want to advertise, or want to suggest a guest for our CleanTech Talk podcast? Contact us here
+
+Appreciate CleanTechnica’s originality? Consider becoming a CleanTechnica Member, Supporter, Technician, or Ambassador — or a patron on Patreon

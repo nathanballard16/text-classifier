@@ -1,0 +1,77 @@
+India Must Carefully Navigate Regulatory Challenges Posed by E-Pharmacies
+
+Last week, the Delhi high court issued notices to the Centre and some online pharmacies including Dunzo Digital and IMG Technologies. The court was hearing a contempt petition that alleged non compliance of an earlier order that had stayed the sale of drugs by online pharmacies.
+
+With the next hearing for this matter scheduled on May 9, 2019, the fate of investors in online marketspace is looming with uncertainty.
+
+Lack of accessibility and affordability significantly impair public health administration in India. For instance, the first pharmacy in Chattisgarh’s remote Abujmarh forest – a Maoist stronghold – became operational only last week. Before this, locals were forced to travel 70 kilometres to access a proper pharmacy.
+
+Online pharmacies have become a significant channel to actualise last-mile access to medicines by effectively bridging logistical barriers. Adopting the internet as a medium to facilitate access by way of delivering medicines to doorsteps is particularly beneficial for the differently-abled, elderly and sick patients. Andy Miah and Emma Rich in their book The Medicalisation of Cyberspace acknowledge the instrumental role of online pharmacies in attaining egalitarianism in public healthcare.
+
+Despite these advantages, unregulated e-pharmacies pose a glaring threat to public health due to counterfeiting and intellectual property rights of pharmaceuticals respectively. The Interpol recently cautioned against the tendency of illegal e-pharmacies to facilitate organised crimes through funds made available by selling counterfeited products imported from Asia into Europe.
+
+The problem of counterfeited drugs is common to India, reportedly constituting about 25% of the domestic market.
+
+A sound regulatory framework ensures that consumers are not duped through sale of spurious or expired medicines. Regulation is key to the success of e-pharmacies and the protection of patient information. While there seems to be overlapping consensus on the need to regulate e-pharmacies, the manner in which it should take place remains contentious.
+
+Current legal position
+
+Presently, no separate licensing or registration regime exists to regulate e-pharmacies in India. Until recently, online pharmacies were conducting their operations with complete impunity.
+
+Against this, a petition was filed contending the failure of the government to regulate e-pharmacies and seeking an injunction against illegal (unlicensed) sales. The Delhi high court ordered an interim injunction on the sale of drugs online without a retail license. If one reads the court order closely, it does not preclude an online pharmacy from selling drugs online – the sale is only subject to the requirement of obtaining a license in accordance with this provision. This means at this juncture, only unlicensed e-pharmacies are precluded from selling drugs online.
+
+Sale of drugs by brick and mortar outlets or by e-pharmacies is governed by the Drugs and Cosmetics Act, 1940 and Rules 1945 (collectively ‘the D&C Framework’) respectively along with the Pharmacy Act, 1948. Section 18 of the Act read with the D&C Rules, prohibits the sale of any drugs without a license. It also necessitates supervision of retail sale of prescription drugs by a registered pharmacist.
+
+Also Read: Conflicts of Interest With India’s Health Industry: The Need for Legal Intervention
+
+Similarly, section 42 of the Pharmacy Act requires only a registered pharmacist to dispense medicines on the prescription of a medical practitioner. Section 27(b)(ii) of the D&C Act provides a penalty for non-compliance with these provisions in the nature of a fine and imprisonment.
+
+In the absence of an explicit framework, e-pharmacies should therefore dispense medicines procured from brick and mortar pharmacies licensed under the D&C framework.
+
+Beyond, the D&C framework, information technology laws in India also regulate e-pharmacies. They qualify as intermediaries within the meaning of section 2(1)(w) of the Act since they facilitate the supply of medical services on an electronic platform. Online pharmacies receive safe harbour protection (i.e., section 79) from liability for unlawful acts such as sale of counterfeit (patent infringing) drugs committed by third parties (retailers) on their platforms.
+
+The safe harbour protection however, is subject to the discharge of duties with due diligence by e-pharmacies. For instance, upon receiving actual knowledge (i.e. notice by writing or e-mail) of unlawful acts, e-pharmacies are required to remove access from unlawful content (patent infringing drugs) from their portal within 36 hours.
+
+Examining the ‘Draft Rules on E-pharmacies’
+
+As instructed by the Delhi high court, the Centre has compiled rules to regulate online pharmacies and released the draft for public consultation. The final version of the draft titled (The Drugs and Cosmetics Amendment Rules, 2018) (‘the Rules’) is yet to receive the force of law, subject to publication in the official gazette.
+
+Due to their potential of considerably influencing the conduct of of e-pharmacies in India, the draft rules must invite careful consideration.
+
+Vague disclosure mandate
+
+Firstly, the regulations preclude e-pharmacies from disclosing information relating to patients to anyone. The pharmacies, however, are mandated to disclose such information to central or state governments if and when required for public health purposes. The rules do not lay down any guiding principles to interpret what circumstances would constitute a public health purposes.
+
+Additionally, the Rules are silent on the minimum designation of the authority within the bureaucratic structure which could mandate e-pharmacies to share health information. This is in contrast with the Aadhaar judgment, where the Supreme Court preconditioned disclosure of information in the interest of national security with a determination of such interest by an officer with a rank higher than that of a Joint Secretary.
+
+Such a precondition has the potential of safeguarding greater credibility in achieving the right balance (between privacy and security). Perhaps a limitation along similar lines should be considered in the context of mandating disclosure by e-pharmacies as well.
+
+Hard localisation mandate hurts access
+
+Second, the draft rules impose a hard data localisation mandate, i.e., information relating to patients in India is to remain within India. This would require foreign online pharmacies to invest significantly in creating local infrastructure in India to store health information of Indian customers in order to continue doing business. In contrast, domestic e-pharmacies which presumably operate through infrastructure in India would not have to incur this cost.
+
+The increase in transaction costs could have two effects. One, a price hike of medicines not available in brick & mortar stores rendering them less affordable. Two, it could push foreign e-pharmacies to wind up their businesses in India. This could undermine access to better quality medication that is scarce in Indian stores and made available through import on online orders.
+
+Besides this, localisation has the potential of increasing the vulnerability of health data to cyber security compromises. Anupam Chander, Professor of law at Georgetown University describes this as the ‘jackpot problem’ which facilitates surveillance by concentrating surveillance efforts and easing logistical burden through centralisation of information within one locality.
+
+No syncing with Personal Data Protection Bill, 2018
+
+The localisation mandate in the proposed rules is not in sync with the Draft Personal Data Protection Bill, 2018 (‘the PDPB Bill’). Section 41(1) of the bill inter alia allows e-pharmacies (i.e., data fiduciaries under the Bill) to engage in cross-border flow of data provided the data principal (eg., patient) has explicitly consented (i.e., expressly exercised the option to agree or disagree) to transfer of health data (since health data constitutes sensitive personal data).
+
+Also Read: India’s Proposed Data Protection Measures Don’t Do Enough to Protect Data or Privacy
+
+Additionally, Section 41(3)(a) of the Bill allows for health data to be transferred outside the country to a particular person or entity engaged in the provision of health services or emergency services where such transfer is strictly necessary for prompt action.
+
+Source of power to invalidate registration unclear
+
+Lastly, rule 67 T(3) of the E-pharmacy Rules enable the central and state governments to cancel registrations granted to existing e-pharmacies. However, this rule seems to be ultra vires its parent legislation, the Drugs and Cosmetics Act, 1940 which does not envisage cancellation of such licenses by State Governments. The rules also do not clarify whether only online platforms need to register with the Central Licensing Authority or whether offline pharmacy retailers with an online presence also need to register with the authority.
+
+The draft rules reflect a need for reconsideration of certain provisions, particularly the hard-localisation mandate before enactment. The meaning of public health purposes invites further clarification while there is also a need for minimum standardisation of government authorities which can demand disclosure of health data.
+
+Furthermore, sectoral (i.e., health) and sector-agnostic (i.e., PDPB) regulatory endeavours need to synchronise to reflect consistent and predictable treatment of foreign investors in the Indian e-pharmaceutical industry.
+
+Lastly, the government must be cautioned against overstepping the contours of the D&C framework.
+
+Ashna Ashesh, is an alumnus of National University of Juridical Sciences (NUJS) and the co-author of Locating Constructs of Privacy within Classical Hindu Law, referenced in the Privacy Judgement. She is interested in public health, law and policy.
+
+Siddharth Sonkar is a student of National University of Juridical Sciences (NUJS) with an interest in technology, law and policy.

@@ -1,0 +1,37 @@
+Did Balakot Airstrikes Hit Their Target? Satellite Imagery Raises Doubts
+
+After 12 days of heightened tension between India and Pakistan following the February 14 Pulwama attack in Jammu and Kashmir, considerable hostilities broke out between the two countries. In the early morning of February 26, Indian fighter jets reportedly bombed a target in the Khyber Pakhtunkhwa province of Pakistan after crossing over the line of control (LoC) and Pakistani-administered Kashmir.
+
+While the Indian and Pakistani military have regularly conducted firing across the LoC in recent years, including airstrikes in September 2016, this incident marks the first time that Indian forces have released munitions into Pakistan’s undisputed territory since the 1971 India-Pakistan War.
+
+The Indian media has reported that the target of the strike was a concentration of militants – members of Jaish-e-Mohammad, a Pakistan-based organisation that has conducted significant terrorist attacks in Jammu and Kashmir – who had evacuated disputed Kashmir out of fears of Indian retaliation for the Pulwama attack. India claimed that the facility, roughly 10 km into Pakistani-administered Kashmir and near the town of Jaba, was largely destroyed, resulting in the death of hundreds of militants.
+
+Satellite imagery, acquired by Planet Labs Inc. on the morning of February 27 and accessed by ASPI, calls this claim into question. No evidence of damage to the facility or nearby areas is visible on the images. Local media have visited the site and published photographs of multiple small craters in the vicinity, but they haven’t been granted access to the facility that was reportedly targeted. Satellite imagery, presented and analysed below, provides no apparent evidence of more extensive damage and on the face of it does not validate Indian claims regarding the effect of the strikes.
+
+By analysing areas of healthy vegetation from the imagery, I’ve been able to identify three clear impact areas between 150 and 200 metres from the edge of the facility. These correspond to photos shared by local journalists and confirm the location of strikes.
+
+The recent tension between India and Pakistan has been marked by disinformation from both sides. Local media’s reporting of unsubstantiated facts and rumours, together with online trolls, have made it difficult to discern the reality of the situation. The satellite imagery suggests that the claims made by India’s Ministry of External Affairs of ‘a very large number’ of militants being killed in the strike are likely false.
+
+An interesting aspect of the incident is the speculation about what might have caused the munitions to land so far from structures in the targeted facility. The official spokesman of the Pakistan Armed Forces, Major General Asif Ghafoor, claimed on Twitter that a prompt Pakistani response forced the Indian pilots to ditch their payload and retreat.
+
+Later that day, unnamed Indian defence sources were reported to have leaked to the media the precise munitions that were used in the strike: Israeli-made SPICE-2000 precision-guided bombs. The reporting made it clear that these munitions operate largely through pre-programmed coordinates, and also feature optical recognition sensors to guide the missile to the target. Indeed, the payload dictated the model of fighter jet used, as India’s newer Su-30 fighters are not compatible with the SPICE-2000.
+
+Also read | Editorial: India and Pakistan Should De-Escalate Now
+
+These reported leaks signalled that the mission was designed so that the payloads would not miss their intended targets. The munitions that guided the mission’s planning and were used in it have a ‘circular error probable’ of three metres – which means that 50% of all strikes are designed to hit their coordinates to within three metres, and statistically fewer than 0.2% hit further than 10 metres from the designated strike area.
+
+This reportedly leaked information could be read as refuting Pakistani claims of an inaccurate strike to an Indian audience while signalling to Pakistani decision-makers that the intended effect of these strikes was to not cause material damage. In a statement issued the following day, Pakistan’s Ministry of Foreign Affairs asserted that its strikes in Jammu and Kashmir were against non-military targets and likewise did not cause any significant damage.
+
+It’s possible that the overall strategy behind the Indian mission was to demonstrate military capability while managing escalation. One of the undisputed facts is that Indian jets crossed not only Kashmir’s LoC, but also the international border into undisputed Pakistani territory and were able to release their payloads. India’s military claims that the strikes lasted for a total of 20 minutes.
+
+It’s also possible that an error in the targeting process caused these strikes to fail. Confirmed reports of airstrikes were first released by Ghafoor, the representative of a military that explicitly denied previous airstrikes conducted by India. Meanwhile, sources within the Indian Armed Forces claimed that they struck three locations in Pakistan and Pakistan-administered Kashmir. Although no evidence or substantiated reports have emerged of additional Indian strikes, it’s possible that Pakistan would only acknowledge a failed strike from among a larger wave of successful ones.
+
+Also read | Only India and Pakistan Can Solve the Current Crisis
+
+However, based on the available evidence – satellite imagery, official statements and reported leaks to the media – it appears plausible that India’s strikes in Pakistan were designed primarily to placate a domestic audience while simultaneously limiting escalation by not targeting built-up areas and causing substantial casualties. India’s upcoming election placed significant pressure on Prime Minister Narendra Modi to act in retaliation for the Pulwama attack. There was a requirement to balance the domestic desire for a strong response with the risk of a broader military conflict that would be costly for both countries.
+
+By issuing strong statements while offering Pakistan implicit assurances that these strikes were limited – but only by choice – India would be able to achieve that balance. The release of an Indian pilot who was captured by the Pakistani military highlights that while risks of unintended escalation are real, throughout this period of tension, both parties seem to have been seeking off-ramps from further conflict.
+
+Nathan Ruser is a researcher at ASPI’s International Cyber Policy Centre. Images courtesy of Planet Labs, Google Earth, Digital Globe and Asif Ghafoor on Twitter.
+
+This article was originally published on The Strategist.

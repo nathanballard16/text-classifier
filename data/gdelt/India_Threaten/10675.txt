@@ -1,0 +1,25 @@
+Websites Using Facebook 'Like' Button Liable For Data: Europe's Top Court
+
+The case was brought by a German consumer protection agency against online clothes site Fashion ID.
+
+Europe's top court ruled Monday that online retailers must warn web users that they send personal data to Facebook through the "like" button.
+
+According to the European Court of Justice ruling, a site that embeds the Facebook "like" icon and link on its pages also sends user data to the US web giant.
+
+"It seems that that transmission occurs without that visitor being aware of it and regardless of whether or not he or she is a member of the social network Facebook or has clicked on the 'Like' button," it said.
+
+Under EU data protection law, therefore, a European retailer and the US platform are jointly responsible for gathering the data and sending it to Facebook's Irish subsidiary.
+
+Users should therefore be warned and asked to consent to their data being gathered, although the retailer is not responsible for what Facebook does with it later.
+
+"As a result of this case, companies that embed this 'like' button on their website cannot hide behind Facebook any longer," said Monique Goyens, of the European Consumer Organisation.
+
+"The decision therefore underlines the right for internet users to always get information on what data are collected and how they are used by websites," she said.
+
+The case was brought by a German consumer protection agency against online clothes site Fashion ID, which embeds a Facebook button to encourage shoppers to publicise its wares.
+
+Bitkom, a German trade federation for online businesses criticised the ruling, saying it would heap costly bureaucracy on firms without enhancing consumer protection.
+
+"With its decision, the ECJ places enormous responsibility on thousands of website operators -- from small travel blogs to online megastores and the portals of large publishers," Bitkom CEA Bernard Rohleder said.
+
+He warned that the decision would go beyond Facebook and effect all social media plug ins, which are important for many firms to expand their reach on the web.

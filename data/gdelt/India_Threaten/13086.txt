@@ -1,0 +1,45 @@
+Dangerous results from unproven stem cell treatments led to Google ad ban
+
+Acting to prevent clinics from misleading patients, Google announced on Friday that it will ban ads for “unproven or experimental” medical procedures.
+
+For several years, the Food and Drug Administration has inched toward cracking down on clinics that offer unproven and unsafe “stem cell therapy.” Scientists have long condemned these clinics for attracting patients with promises not backed by science. The FDA wants these clinics to test their procedures like any new treatment, in rigorous clinical trials, and federal courts have agreed. But these clinics continue to market the unsafe procedures. Experts say this has put vulnerable patients in a bind, exposing them to sketchy salespeople who are peddling hope for thousands of dollars. Now that Google has weighed in, courting patients with dubious claims just got a lot harder.
+
+patients pay out of pocket and upfront, often spending between $10,000 and $20,000 on treatments
+
+Normally, before a new treatment can be widely available, it must go through clinical trials to test whether it is effective. These scientific studies establish how safe and effective the treatment is so that duds and dangerous treatments can be left behind. Results are closely monitored by outside researchers and regulators to maintain scientific integrity. The only stem cell procedures that have gone through the clinical trials process and are currently approved by the FDA involve using specific cells from bone marrow or cord blood to treat bone marrow and blood cancers. Google does still allow ads that recruit patients for sanctioned clinical trials in the US.
+
+Rogue stem cell clinics, which bypass the regulatory process, are not new. Hundreds of doctors across the country gladly accept payment for what other doctors and scientists say is just modern snake oil, seeing patients with chronic pain, multiple sclerosis, Parkinson’s, and other hard-to-treat diseases. They tell patients that injecting stem cells into problem areas — whether that’s a joint, vein, or eye — is their “safest” or “best” option. But often, they offer no scientific evidence to back up those claims and very rarely accept insurance. Unlike most FDA-sanctioned clinical trials, patients pay out of pocket and upfront, often spending between $10,000 and $20,000 on treatments.
+
+“It’s heartbreaking. It’s infuriating.”
+
+“It’s heartbreaking. It’s infuriating,” says Jeremy Snyder, a professor at Simon Fraser University who studies the medical exploitation of vulnerable patients.
+
+Leigh Turner, a bioethicist at the University of Minnesota, recalls writing his first letter to the FDA over seven years ago, encouraging it to investigate what he describes as a marketplace in “expansion-mode.”
+
+Turner was shocked by how doctors were endangering patients with clinically unproven uses of patient’s cells, citing clear conflicts with FDA regulations. Stories later surfaced of patients being harmed by stem cell procedures. Patients suffered serious infections, benign tumors, and blindness after their treatments. The FDA ramped up its focus on rogue clinics: first writing new regulations, then harshly worded letters, before moving on to legal action. Going to court to assert that these procedures must pass through clinical trials. But slow-moving legal battles, though many of them are ultimately successful, still haven’t shuttered these expanding businesses. And tech companies have boosted that expansion from the start.
+
+chronically ill patients often depend on the internet for health information
+
+According to Gayathri Sivakumar, a health communication researcher at Colorado State University who previously worked for Google’s ad and policy teams in India, chronically ill patients often depend on the internet for health information. “Advertisers get what they want… and for Google it’s a good way of making money,” she says.
+
+Google and Bing ads let clinics market directly to patients seeking help. Even searching phrases like “best alternative treatment for paralysis” returns ads for unproven and potentially dangerous stem cell therapies. Marketing agencies routinely use Google and Facebook to funnel patients into unregulated clinics that are operating without robust evidence. Desperate and sick patients follow these ads hoping for answers and end up making clinics — and Google — richer in the process.
+
+On September 6th, The Washington Post reported that Google plans to pull and prevent ads from stem cell clinics.
+
+According to Google, direct-to-consumer stem cell and cell-based treatments and gene therapies “can lead to dangerous health outcomes and we feel they have no place on our platforms.” The policy will go live in October.
+
+“we feel they have no place on our platforms.”
+
+Google is no stranger to banning ads for predatory businesses. Last year, Google banned ads for addiction treatment centers after a Verge report revealed the ads took advantage of people with deceptive marketing. In May, Google announced it would eliminate misleading ads for anti-abortion clinics.
+
+Experts say this latest move is important given how massive Google is in the online ad space. “This is fantastic news,” says Snyder. While he says Google should be applauded, he adds that it is “heavily responsible” for propping up these clinics in the first place.
+
+Asked about Google’s ban, Turner says that “it seems pretty comprehensive.” He was especially pleased that its policy did not attempt to distinguish between clinics based on the potential risk of treating the conditions they claim to heal. Some conditions, such as joint issues, are less risky to treat than things like neurological disorders. If Google were to try to distinguish between the two, Turner believes it would riddle its policy with loopholes. Google confirmed the policy will not distinguish between different types of unproven uses.
+
+“I also expect the stem cell clinics to fight back. They will try to adapt.”
+
+“I was pleasantly surprised when I first heard about it,” says Paul Knoepfler, a stem cell biologist at the University of California at Davis. Knoepfler has tracked this industry for years in academic journals and on his blog. “I also expect the stem cell clinics to fight back. They will try to adapt.”
+
+These experts agree that Google’s move sets a good example. They also agree that vulnerable patients aren’t yet in the clear. Snyder wants to see other tech companies follow suit, and Turner thinks state medical boards should consider disciplinary action against doctors putting patients at risk.
+
+Sivakumar echoed this mix of approval and caution. “Is it a full solution? Not really,” she says. “But it can reduce the negative effects for a short time until they find another way to exploit people.”

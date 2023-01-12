@@ -1,0 +1,103 @@
+From electoral ads to political marketing: the lowdown on 2019 elections in Asia Pacific
+
+Election fever is about to hit Asia Pacific as citizens in countries like India, Thailand, Indonesia and the Philippines head to the polls to cast their vote.
+
+In the time since these countries last held their general elections, Donald Trump won the presidency in the United States and Britain voted to exit the European Union, with social media playing a crucial role during the political campaigning in these two events.
+
+However, from an APAC perspective, experts The Drum spoke to, like Colm Fox, assistant professor of political science at the School of Social Sciences at Singapore Management University (SMU), explains that it is often difficult to judge the impact of social media on elections and campaigns in APAC as the region has diverse habits.
+
+He also notes it is rare to find well-designed studies to assess their impact, particularly outside the west.
+
+“In the absence of good data, my hunch is that the impact of online media (both the good and the bad) is often overstated,” Fox says. “Other traditional forms of media such as the national and regional press and even election posters likely still have a greater impact in these countries. Plus, door-to-door campaigning is still the primary means for candidates to mobilizing voters.”
+
+Dr. Malcolm Cook, a senior fellow at the ISEAS – Yusof Ishak Institute, points out that as the elections in the Philippines are mid-term elections and not presidential ones, there should be less use of social media and less alleged social media manipulation through fake news and bots.
+
+“There is less at stake and the incumbent regime with the most means is already well-placed to do well in the mid-terms,” he says, noting that the incumbent administration led by president Rodrigo Duarte, is well placed to maintain their large majority in the House of Representatives and to boost their majority in the Senate in the May mid-terms.
+
+In Indonesia, the country will hold its legislative and presidential elections at the same time for the first time with incumbent president Joko Widodo facing off against his main challenger, Prabowo Subianto. The concurrent elections are tipped to increase the fanfare and possibly boost voter turnout in an election where 190 million Indonesians will vote in over 20,000 politicians to serve in the nation’s national, provincial, and district legislatures.
+
+President Joko Widodo (L) is facing off against former general Prabowo Subianto.
+
+Dr. Quinton Robert Temby, a visiting fellow of the Indonesia Studies Programme at ISEAS – Yusof Ishak Institute, observes that as almost most Indonesians still get the news from TV, social media and the competition to control the political narrative on platforms is a crucial part of the 2019 campaign.
+
+“The Prabowo-led opposition often dominates the narrative on Twitter and other platforms, due to their strong network of activists critical of the government, particularly from an Islamist perspective,” Temby explains.
+
+“The Jokowi team, meanwhile, has an edge online in terms of campaign resources, and is dedicating a lot of effort to micro-targeting communities on WhatsApp in order to counter negative stories and disinformation about the president.”
+
+Over in Thailand, the military government has introduced a cyber-security bill into the Computer Crimes Act ahead of the country's first democratic election since a 2014 military coup. The bill gives the government the power to seize data and electronic equipment without a court order.
+
+The Act has already been used to charge the deputy leader of an opposition political party, who was accused of sharing a post on Facebook from a website promoting fake news.
+
+Are social media giants doing enough?
+
+Fresh from understanding the full nature and extent of alleged Russian interference through social media in the US and UK, Facebook, Google and Twitter have been putting in a hard shift to ensure that no country or individual will be able to influence the political campaigning in those Asian countries to avoid similar situations.
+
+Facebook has announced it will temporarily ban electoral ads purchased outside Indonesia and Thailand, and set up an operations center in Singapore focusing on election integrity ahead of the APAC elections. In India, it will place electoral ads in a searchable online library as an additional layer of defence to prevent foreign interference and make political and issue advertising more transparent.
+
+Google, meanwhile, has introduced an India-specific Political Advertising Transparency Report and make available a searchable Political Ads Library. Twitter has also formed an internal, cross-functional group to lead "electoral integrity work" in India that will proactively support partner escalations and identify potential threats from malicious actors.
+
+A Facebook spokesperson tells The Drum that over the past two years, the platform has made massive investments to help protect the integrity of elections by not only addressing threats it has seen on its platform in the past but also anticipating new challenges and responding to new risks.
+
+It does this by blocking and removing fake accounts, finding and removing bad actors, limiting the spread of false news and misinformation and bringing transparency to political advertising.
+
+“To support this work, we now have more than 30,000 people working on safety and security across the company, three times as many as we had in 2017. We have also improved our machine learning capabilities, which allows us to be more efficient and effective in finding and removing violating behaviour,” explains the spokesperson.
+
+“These improvements have helped in many ways, including our work to fight coordinated inauthentic behavior. For example, technology advancements have allowed us to better identify and block bad activity, while our expert investigators manually search for and take down more sophisticated networks.”
+
+A Twitter spokesperson meanwhile, tells The Drum that improving the collective health of the public conversation is its number one priority as a company and protecting the integrity of elections is an essential part of its mission.
+
+"In the last year, we have made 70 changes to our product, policies and approach to enforcement to address the behaviors which distort and detract from the public conversation on Twitter, particularly those which can surface at critical moments such as elections," the spokesperson says.
+
+Google declined to comment for this story.
+
+Despite the measures taken by the tech giants, SMU’s Fox does not believe they are doing enough to combat foreign interference of elections as their business model is to get users in front of their advertisers and restricting access to undermines this model.
+
+Election watchdogs in Indonesia are already reporting a spike in fake news during the campaigning, with both camps being accused of using so-called ‘buzzer teams’, which according to Reuters, are being used to create content aimed at influencing voters.
+
+There have also been attempts to attack the Indonesian voter database ‘to manipulate and modify’ content and create ghost voters, according to the head of the National Election Commission, who is pointing his fingers at Chinese and Russian hackers.
+
+“In the West, they will put up some appearance of doing something to avoid government regulation in favor of ‘self-regulation’. I fear however that in the future elections in developing countries will be prone to even more forms of egregious manipulation through these platforms,” Fox explains.
+
+Temby agrees and says while the restrictions on foreign political advertising on Facebook and forwarding messages on WhatsApp are welcome initiatives, there is much more that could be done to enhance the political discussion online, like doing more to detect and remove bot networks.
+
+“To date, there is no consensus on how, if at all, online campaigning had changed Indonesian politics. So, in a sense, the live experiment continues,” he adds.
+
+Cook points out that while Facebook has engaged a number of Philippine media firms like Rappler to track and expose political fake news stories, it is unclear how much social media users are aware of this or follow it.
+
+What should advertisers do during elections?
+
+Aside from working around the new restrictions on social media, Dr. Seshan Ramaswami, the associate professor of marketing education at SMU says advertisers must remember that social media has tremendously transformed not only the world of marketing in general but political marketing as well.
+
+“The traditional marketing methods – campaigning door to door, erecting banners and hoardings, and holding rallies – will always be important – as they have a real human-human touch. But photos of these efforts and video-clips of these events can multiply the impact when spread through Twitter, Facebook. WhatsApp networks,” he says.
+
+“The two efforts go hand in hand. On the day of the election, you do need the traditional marketing methods – campaigning to get people out to vote and to help your voters find their booth are vital.”
+
+Advertisers should also ideally remain on the sidelines and not actively participate during elections, says Ramaswami. He explains this is because most consumer brands have voters of all political stripes among their consumers, and they run the risk of alienating one side or the other. What they can do instead, is to encourage people to register to vote, to vote and help organize transportation for voters independent of their affiliation.
+
+“Humorous take-offs on the dueling campaigns reflected in online advertising may help a brand seem “hip” and “with it”,” he adds.
+
+Instead of picking a side to support, Marianne Admardatine, the chief executive officer for Indonesia at J. Walter Thompson, says brands can choose to fight a certain cause during elections such as women-related cause, environmental issues, diversity (to a certain extent) and to have a strong stand towards discrimination and extremism.
+
+"This will work in Indonesia because there is an expectation from consumers for brands to have their stand and show their bigger purpose in the market," she explains.
+
+How should politicians target voters?
+
+During his campaign in 2016, Trump spent very little on paid media and instead spent billions in earned media through his confrontational style and controversial announcements.
+
+Ramaswami cautions that while ‘no news is bad news’ often applies to politicians, it will not work in very densely populated Asian cities, where social media is supplemented by face-face interactions with many neighbors, co-workers, family and co-commuters.
+
+“As false news can spread quickly on these channels, and even have potential to create riots, the authorities may even have to step in and regulate social media use in the hours or days right before the election date,” he explains.
+
+However, for countries like India, controversial statements and confrontational style is popcorn material and will keep a top of mind recall intact.
+
+Prime Minister Narendra Modi (L) takes on Rahul Gandhi again.
+
+Politicians are also adding an Indian sense of theatre and tadka (an Indian tempering trick) to it by slandering opponents to make a public point or to slap immigrants for some instant television rating points, according to Anil K Nair, the former managing partner of L&K Saatchi & Saatchi.
+
+“They could just work, as during elections there is a huge bombarding of information and less time to vet out facts,” adds Tushar Khakhar, the founder of Agency09. “Controversial statements could also be misleading. But it is easy to switch sentiments for a voter in this scenario when a ruling party has under-delivered.”
+
+Saurabh Varma, the chief executive officer for South Asia at Publicis Communications note that politicians recognize that there is no such thing as a ‘single vote’ as there are multiple problems across multiple strata of the population that needs to be addressed. For example, in India, issues like unemployment, GST, demonetization address different segments of the population.
+
+“You cannot speak to one strata of the community about matters that are affecting another strata. Tailoring messages to each of these segments is how you should look at driving communication with the audience. Personalization at scale is key during the election season,” he explains.
+
+Politicians like current Indian prime minister Narendra Modi, who have eschewed communication with the media after coming to power in 2014, choosing instead to craft his messaging through Twitter, personalization will not be an issue.

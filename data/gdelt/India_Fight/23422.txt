@@ -1,0 +1,17 @@
+Twitter's new feature on vote tricking may not be foolproof
+
+After an early week announcement, Twitter's new feature on vote tricking has been rolled out on Thursday in India. The feature enables users to report on tweets that could be misleading or influence voters during the Indian elections. This feature has also been rolled out globally.
+
+The way it works: Under the report tweets option, users can now choose the option: "it's misleading about voting" which further asks the user to claim that a particular tweet includes false information about voting or registering to vote or to register any other reason for reporting a tweet.
+
+Sources within Twitter clarified that the feature will continue to be part of the app irrespective of the elections in India. The social media app now largely depends on account users to spot such tweets that they find think are misleading voters.
+
+There is heavy dependence on the crowdsourcing of information. This is being seen as a corrective measure taken by the social media app, which has been in the eye of the storm and being pulled up by the Indian government's parliamentary panel on information technology and combating the spread of fake news on the social media platform.
+
+Some examples of misleading information being tweeted out included falsely asserting people could vote by email, phone, text messages or even using Twitter messages. Sources reveal that those found in violating policy norms will see the posts being pulled down. If violations are repeated then Twitter will be forced to block and report the handle.
+
+With this feature, the social media platform has developed a methodology to ask people to identify fake news or tweets instead of tracking these themselves. This puts the onus on the users to report such tweets. Moreover, the feature can also be used to malign one party or report bias against a particular party as well.
+
+Earlier, the parliamentary panel on IT had asked Twitter to ensure that Indian elections are not undermined or influenced by foreign entities and that the platform must work together with the Election Commission of India to address these issues.
+
+The platform had also agreed to appoint a nodal officer to work closely with the poll body.

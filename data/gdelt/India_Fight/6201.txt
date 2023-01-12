@@ -1,0 +1,61 @@
+What infrastructure investment trusts really need to attract more investors
+
+India needs to spend about Rs 50 lakh crore ($778 billion) by 2022 for its infrastructure build-out, according to CRISIL estimates. Banks and non-bank lenders, already battling asset-liability mismatches and bad loans, cannot be relied upon for this investment.
+
+ADVERTISEMENT
+
+Meanwhile, infrastructure developers need to monetise their operational assets efficiently and churn the capital into under-construction assets. This is where, in 2014, the Securities and Exchange Board of India (SEBI) introduced Infrastructure Investment Trusts (InvITs), a potential game changer for infrastructure financing.
+
+An InvIT is a hybrid instrument that owns and manages operational infrastructure assets such as roads, power plants, warehouses, ports and gas pipelines. This enables investors, or unit holders, to invest in such assets and earn risk-adjusted returns. At the same time, InvITs provide opportunities for developers to deleverage and release locked-in capital to grow.
+
+ADVERTISEMENT
+
+InvITs operate just like mutual funds, collecting funds from investors and investing them in long-term revenue-generating infrastructure assets.
+
+From a risk-return profile, InvITs provide an opportunity to own real infrastructure assets which provide predictable cash flows and dividends.
+
+Such platforms grow by adding revenue-generating projects and thus increasing the yield.
+
+InvITs are managed by an independent trustee and investment managers, whose board comprises at least 50% independent directors. There are several other governance measures such as half-yearly valuation report by independent valuers, mandatory rating requirement and unit holders’ approval for incremental leverage.
+
+SEBI requires InvITs to invest at least 80% of their assets in completed and revenue-generating projects, and not more than 10% in under-construction projects. This ensures that InvITs are not exposed to some of the key risks inherent in the infrastructure sector like financial closure, regulatory approvals, and time and cost overruns. SEBI also requires InvITs to distribute a minimum of 90% of their cash earnings to investors at least semi-annually. This can provide visibility to investors on cash flows.
+
+In India, three companies have raised about Rs 10,500 crore through the InvIT route: IRB Infrastructure Developers and L&T Infrastructure Projects in the roads sector, and Sterlite Power’s India Grid Trust in the power transmission sector. Six to seven infrastructure companies plan to monetise their operational assets through InvITs in the near future.
+
+Despite the initial success, InvITs are far from achieving their true potential. While the government has played a monumental role in making InvITs and Real Estate Investment Trusts (REITs) a reality in India, a few regulatory changes would go a long way in cementing the attractiveness of InvITs.
+
+Leverage cap
+
+On January 25, SEBI issued a consultation paper which proposes an increase in the leverage cap from 49% of assets under management to 70%. This is most welcome. This proposal would benefit investors by improving returns and benefit infrastructure developers by encouraging creation of more InvITs and allowing them to monetise their assets.
+
+From the experience of listed InvITs till now, we believe that the 49% cap on leverage is inhibiting investors to invest in InvITs. Due to the current limitation on leverage, InvITs are unable to offer adequate returns in comparison to alternative investment avenues with similar assets.
+
+Optimal leverage based on the cashflows of the projects provides investors with the ability to enhance their returns on investment. In general, most operating infrastructure projects with good cash flows are leveraged between 70% and 80% of the value of the assets.
+
+Even international instruments comparable with InvITs – Business trust, YieldCo, Master Limited Partnerships in Singapore, the USA, the UK, and Australia – do not have any such leverage restrictions. Such restrictions only exist for REIT platforms globally.
+
+Higher than 49% leverage with a base rating like AAA by at least two rating agencies, along with greater disclosure norms such as quarterly financial reporting, quarterly valuation, will help make InvITs more attractive without increasing their risk profile.
+
+Exposure caps for insurance, pension firms
+
+InvITs suit the investment objectives of insurance companies and pension funds in terms of matching long-dated assets and liabilities along with stable, diversified returns.
+
+However, the current investment cap of 5% for insurance companies while investing in a single InvIT is restricting participation. The Insurance Development and Regulatory Authority of India should increase the limit to at least 10%, in line with the limit prescribed by SEBI for mutual funds and its own cap for insurance companies while investing in listed equities.
+
+Similarly, the Pension Fund Regulatory Development Authority requires a minimum rating of AA for the sponsor of an InvIT to allow participation by pension funds.
+
+Because an InvIT is independent of its sponsor, the rating threshold should only apply to the InvIT. At the same time, insurance companies are not allowed to subscribe to debt securities issued by InvITs. This again is counter-intuitive. Considering that InvITs have long-term operational and revenue-generating infrastructure assets, debt securities issued by InvITs have very low risk compared to debt securities issued by any other infrastructure company.
+
+
+
+Incentives to retail investors
+
+In order to attract investors, more tax-efficient and user-friendly mechanisms need to be put in place. For example, allowing tax benefits such as investment in InvITs as eligible security to invest under Section 54EC of the Income-Tax Act, 1961, in line with subscription to bonds of Rural Electrification Corp and the National Highways Authority of India, as the intent in both cases is the same.
+
+SEBI's consultation paper calls for lowering the investment threshold for InvITs and REITs substantially for a big retail push. The existing norms for InvITs specify a minimum subscription amount of Rs 10 lakh and trading in their units in lots of at least Rs 5 lakh. For REITs, the corresponding minimum threshold is Rs 2 lakh and Rs 1 lakh. This discourages large-scale participation of retail investors. The paper proposes reducing the initial or follow-on investment requirement for both InvITs and REITs to the range of Rs 15,000-20,000 for lots of 100 units, which makes perfect sense.
+
+In conclusion, InvITs are inherently highly regulated, low-risk products that adhere to robust corporate governance norms prescribed by SEBI, even higher than those for corporates. By virtue of their structure, they offer superior risk-adjusted returns and eliminate volatility through visibility on the cash flows of underlying assets. These factors make them a safe bet and a compelling investment alternative in today’s uncertain times beset with high volatility.
+
+The government and the regulators must do their utmost to ensure the success of InvITs, given the long-term potential of these instruments as alternative sources of infrastructure funding. It would be impertinent if instances of corporate default continue to plague the economy despite the presence of such robust and safe capital market instruments introduced to avert such systemic crises in the first place.
+
+Harsh Shah is CEO at India Grid Trust. Views are personal.

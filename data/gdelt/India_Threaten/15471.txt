@@ -1,0 +1,27 @@
+WhatsApp-Pegasus snooping: Telangana lawyer working for political prisoners targeted
+
+WhatsApp-Pegasus snooping: Telangana lawyer working for political prisoners targeted
+
+Ravindranath Balla got messages from a person part of Citizen Lab in the first week of October, however he ignored the messages believing them to be spam.
+
+news Pegasus
+
+Ravindranath Balla, an advocate and activist from Telangana working to free political prisoners, says he’s one of the targets of snooping using Pegasus – a software designed by Israeli tech company NSO Group that has reportedly been sold to government agencies in India. The software has allegedly been used to target and put under illegal surveillance several activists, journalists, academicians and advocates in India, Indian Express had reported on Thursday. Ravindranath Balla reached out to TNM on Friday, and said that he received messages in the first week of October that his device, too, was compromised, but he initially dismissed the messages believing them to be spam.
+
+In the sensational case, phones of dozens of activists, journalists, academicians and advocates who are critical about the establishment have been allegedly hijacked through WhatsApp for surveillance. The spyware was injected through video calling the victim, and even if they don’t attend the call their devices would still be compromised, according to reports.
+
+Like the several activists who were cautioned about the surveillance, Ravindranath too was notified by a senior research John Scott-Railton from Citizen Lab, University of Toronto in Canada. Citizen Lab exposed the surveillance by Pegasus and flagged WhatsApp about it. On October 7, John reached out to Ravindranath to inform him that his WhatsApp account was compromised and suggested methods to keep the device safe. TNM has accessed screenshots of the conversations between John and Ravindranath.
+
+Ravindranath initially dismissed the messages as a work of a fraud. “John again tried reaching out me on October 11 on WhatsApp call, but I was suspicious. Later when I tried calling him, he said that he was busy,” the lawyer told TNM. Ravindhranath clarified that like others, he did not receive any video call either.
+
+On October 29, WhatsApp reached out to Ravindranath saying, “In May we stopped an attack where an advanced cyber actor exploited our video calling to install a malware on user devices. There’s a possibility this phone number was impacted, and we wanted to make sure you know how to keep your mobile secure.” Followed by this message, they gave instructions on how to secure the device from the spyware.
+
+“Yesterday when I heard the news about the snooping on WhatsApp, that’s when I realised what was happening,” Ravindranath said.
+
+“The government agencies have been snooping on me because I fight for the rights of political prisoners. If you notice the people who are victims of this snooping, all of them are activists working for the welfare of Dalits and Tribals,” he said. Ravindranath was recently accused of working with the outlawed CPI (Maoist) party.
+
+The other activists and academicians who were victims of snooping are: Jagish Meshram (advocate from Nagpur), Shalini Gera (activist from Chhattisgarh), Nihalsing Ratod (advocate from Nagpur), Bela Bhatia (Adivasi rights activist), Degree Prasad Chauhan (activist from Chhattisgarh), Anand Teltumbde (Academician and writer), Shubranshu Choudary (journalist), Ankit Grewal (advocate from Chandigarh), Ashish Gupta (activist from Delhi), Seema Azad (activist from Allahabad), Vivek Sundara (activist), Saroj Giri (assistant professor from Delhi University), Sidhant Sibal (journalist), Rajeev Sharma (columnist), Rupali Jadhav (activist from Mumbai), Santosh Bhartiya (veteran journalist), Alok Shukla (activist from Chhattisgarh) and Ajmal Khan (activist). Among these many of the activists were part of the Bhima Koregaon movement.
+
+The snooping row was exposed after WhatsApp filed a lawsuit in a US federal court in San Francisco on Tuesday claiming that Pegasus targeted around 1,400 WhatsApp users.
+
+NSO Group, which designed the malware, claimed that they sold Pegasus only to government agencies. However, the Ministry of Home Affairs said that they never bought the software.

@@ -1,0 +1,21 @@
+Google launches effort in India to screen for leading causes of blindness
+
+Google on Monday launched an effort in India to use a new screening tool to combat diabetic retinopathy (DR) and diabetic macular edema (DME), two of the leading causes of blindness.
+
+In partnership with Verily, the parent company Alphabet's life sciences arm, Google announced that its machine learning algorithm would be used at Aravind Eye Hospital in Madurai, India, for automated clinical screenings.
+
+ADVERTISEMENT
+
+Roughly 347 million people have diabetes worldwide, and millions in low-income and rural areas are not getting the necessary treatment to avoid blindness.
+
+DR affects between 40 and 45 percent of people with diabetes. There is an approximately 10 percent chance of developing DME for those with diabetes.
+
+Google and Verily said in their statement that India is facing a shortage of more than 100,000 eye doctors, leading to millions of patients with diabetes not being screened for the diseases.
+
+Dr. R. Kim, the chief medical officer and chief of retina services at Aravind Eye Hospital, said the machine learning program could make treatment significantly easier and faster.
+
+"Thousands of patients come through the doors of our hospitals and vision centers every day, and we want to provide them with the best possible eye care," he said.
+
+"By integrating Verily and Google’s retinal diagnostic program into our screening process, we can improve our efficiency, giving physicians like myself more time to work closely with patients on treatment and management of their disease while increasing the volume of screenings we can perform."
+
+Google and Verily said they hope to expand the screening program beyond India eventually.

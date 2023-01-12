@@ -1,0 +1,101 @@
+The Supreme Court Of India's Rejection Of The Challenge To The Constitutional Validity Of The Insolvency And Bankruptcy Code, 2016
+
+ARTICLE
+
+To print this article, all you need is to be registered or login on Mondaq.com.
+
+The Supreme Court in Swiss Ribbons Pvt. Ltd. vs. Union of India and Ors. ("Swiss Ribbons")1, rejected the multi-pronged challenge on the constitutional validity of the Insolvency and Bankruptcy Code, 2016 (the "Code"), while consciously harmonizing the legislative intent with the expanse of judicial restraint.
+
+This article aims to elucidate the basis of the challenge and breakdown the rationale behind the Supreme Court's rejection, while emphasising on the key takeaways.
+
+MEMBERS OF THE NCLT AND NCLAT APPOINTED IN CONFORMITY WITH THE JUDGMENTS OF THE SUPREME COURT
+
+The Supreme Court in Madras Bar Association v. Union of India, 2 had considered various issues in relation to the constitution of the National Company Law Tribunal ("NCLT"), qualification of the technical members and constitution of the Selection Committee. Upon noticing glaring defects, it laid down several remedial measures for compliance by the Union of India. In this background, it was argued in Swiss Ribbons that Section 412(2) of the Companies Act, 2013 continued to linger in the statute and therefore there was a likelihood of the two Judicial Members of the Selection Committee to be outweighed by the three bureaucrats. However, the Supreme Court while observing that Section 412 had already been amended on 03.01.2018 by the Companies Amendment Act, 2017 to remedy this issue, appeared to be swayed by the affidavit filed by the Ministry of Corporate Affairs, which clarified in no uncertain terms that the Selection Committee was constituted to make appointments of members of the NCLT in the year 2015 itself, in compliance with the judgments of the Supreme Court.
+
+CIRCUIT BENCHES OF THE NCLAT WITHIN SIX MONTHS
+
+It was averred that as the National Company Law Appellate Tribunal ("NCLAT") only had a seat in New Delhi, it would be unreasonable and obstructive to expect litigants to travel in order to exercise their right of appeal. A similar view had been taken by the Supreme Court in the context of the National Tax Tribunal Act 20053, wherein directions were issued to setup circuit benches so as to neutralise the hardship to litigants. The Union of India was in agreement with the Petitioners and undertook to establish circuit benches. The Supreme Court noted the said undertaking and proceeded to issued directions for establishment of Circuit NCLAT Benches, within a period of 6 months.
+
+THE MINISTRY OF LAW AND JUSTICE AND NOT THE MINISTRY OF CORPORATE AFFAIRS TO EXTEND ADMINISTRATIVE SUPPORT TO NCLT AND NCLAT
+
+The Supreme Court in Madras Bar Association4 had categorically held that the administrative support for all Tribunals should be from the Ministry of Law and Justice and that the Tribunals and members should not be provided with facilities from the parent ministries or departments concerned. Despite the same, it was brought to the notice of the Supreme Court that the NCLT and NCLAT were accessing support from the Ministry of Corporate Affairs. The Supreme Court on noticing that the Union of India had not acted in terms of the said directions since 2010, urged them to act swiftly and comply with the same "in letter and spirit."
+
+THE DIFFERENTIAL TREATMENT OF THE TWO CLASSES OF CREDITORS IS JUSTIFIED AND BENEFICIAL
+
+The Petitioners contended that there is no intelligible differentia between financial creditors and operational creditors in so far as the object of the Code is concerned. Despite that, the Code treated both classes of creditors differently.
+
+While an operational debtor is given a notice of default and can dispute the genuineness of the claim, a financial debtor is neither entitled to a notice nor to dispute the claim of the financial creditor. operational creditors have no place in the committee of creditors unless they amount to 10% of the aggregate amount of debt owed. Nevertheless, in terms of Section 21 and 24 of the Code the operational creditors are not entitled to vote in the committee of creditors.
+
+Hence, in terms of Shayara Bano v. Union of India,5 such classification is discriminatory and manifestly arbitrary.
+
+However, the Supreme Court upheld the distinction between the two classes of creditors after analyzing the nature of their respective debts, financial competence and extent of evidence needed to trigger the insolvency resolution proceedings under the Code. The Supreme Court held that the difference between the two classes of creditors is not only justified but also beneficial and considered, owing to the fact that (1) the operational debts are typically unsecured and smaller, while financial debts are secured and larger; (2) the nature of loan agreements with financial creditors are different from contracts with operational creditors for supplying goods and services; (3) the possibility of disputed operational debts are relatively higher than financial debts; (4) an event of default is far easier to establish and verify for financial creditors as electronic records of the financial creditors are usually filed in the Information Utilities; and (5) financial creditors are better equipped to engage in restructuring of loans as well as reorganization of the corporate debtor's business considering the fact that they are involved in assessing the viability of the corporate debtors from the start.
+
+Since the financial creditors are usually banks and financial institutions, they are best equipped to assess viability and feasibility of the business of the corporate debtor. Most of them carry out techno-economic valuations and financial projections at the time of granting the loans. On the other hand, operational creditors, are primarily interested in recovery and are neither concerned with nor equipped to assess viability and feasibility of a business. Nevertheless, the check and balances are already in place as a resolution plan cannot pass muster under Section 30(2)(b) read with Section 31 unless a minimum payment is made to operational creditors, being not less than the liquidation value.
+
+The Supreme Court also clarified that the notice to a financial debtor is unnecessary considering the debtors are usually aware of the loan structure and the defaults made. On the other hand, the notice of default in case of an operational debt will not only prevent premature initiations but will also facilitate negotiations and settlements between the parties.
+
+Additionally, disputes raised by financial debtors are not gone into at the outset because the evidence of financial debts are contained in the documents of information utilities, banks, and financial institutions and set-off and counterclaims by financial debtors are very rare. Nevertheless, financial disputes may be raised at the stage of filing of claims, once the resolution process has commenced. To the contrary, the corporate debtor is served with a copy of the application filed and has the opportunity to file a reply and be heard, before an order is made admitting the said application so as to protect and prevent the corporate debtor from being dragged into the corporate insolvency resolution process malafide. In addition, corporate debtors are not prevented from filing counter claims in other judicial fora.
+
+THE TRASITION FROM "THE INABILITY TO PAY DEBTS" TO "DETERMINATION OF DEFAULT" IS A SIGNIFICANT CHANGE IN APPROACH, UNDER THE CODE
+
+The Supreme Court recognised the significant change in the trigger mechanism for a financial creditor's application under the Code. Financial creditors are now only required to establish that the debtor had a financial obligation to pay the debt and failed to do so, as against having to prove that the debtor is unable to pay its debts in terms of the repealed Section 433 (e) of the Companies Act. In this context the Supreme Court accounted for the difference between a "claim", "debt" and "default" and relied on this difference to justify the reasons that a "financial creditor has to prove default as opposed to an operational creditor who merely claims a right to payment of a liability or obligation in respect of a debt which may be due".
+
+The four reasons for the change in approach are (1) predictability and certainty; (2) admission into the insolvency resolution process aims to protect and not prejudice the interests of the corporate debtor; (3) protecting the economic interests of the corporate debtor is more important than the cause of default; and (4) liquidation is resorted to only in case of failure of the resolution process.
+
+THE STRINGENT MECHANISM FOR WITHDRAWAL OF APPLICATIONS IS NECESSARY TO PREVENT MISUSE AND PASSES CONSTITUTIONAL MUSTER
+
+Section 12A of the Code pertaining to the withdrawal mechanism of an admitted application was one of the primary grounds of challenge. It was contended that "Unbridled and uncanalized power is given to the committee of creditors" to reject legitimate settlements and there is a requirement of an approval of at least ninety percent of the voting members of the committee of creditors. In addition, though withdrawal may be permitted prior to admission, there is no provision to permit withdrawal after admission of the application.
+
+The Supreme Court considered these grounds of challenge in the context of the objective of the Code which endorses the participation of all key stakeholder in the negotiation process. It was held that once the resolution process commences, the proceedings are no longer between the applicant creditor and debtor but it is one which involves all creditors. This is solely to prevent settlements to the exclusion of the other creditors. Hence, the high threshold of ninety percent approval. However, it was also clarified that withdrawals would be permissible, in exercise of the inherent powers of the NCLT6, at any stage where the committee of creditors is not yet constituted.
+
+Nevertheless, the committee of creditors do not have unbridled powers owing to the appeal provision under the Code to the NCLT and thereafter the NCLAT.
+
+EVIDENCE OF THE PRIVATE INFORMATION UTILITIES IS MERELY PRIMA FACIE EVIDENCE OF DEFAULT AND IS REBUTTABLE
+
+The Petitioners also challenged the role of the information utilities under the Code and equated the certificate of the information utility, in so far as it relates to the occurrence of a default to a preliminary decree, which is issued without any hearing or adjudication.
+
+The Supreme Court analysed the Information Utilities Regulations, Regulations 20 and 21 to hold that the evidence is merely prima facie evidence of default, which can be rebutted by the corporate debtor.
+
+RESOLUTION PROFESSIONAL HAS ONLY ADMINISTRATIVE AND NO QUASI-JUDICIAL POWERS
+
+The Supreme Court negatived the challenge to the powers of resolution professional, which the Petitioners deemed were quasi-judicial in nature and not merely adjudicatory. It was held, upon relying on the CIRP Regulations7 that the resolution professional is only a "facilitator of the resolution process," whose administrative functions are subject to the supervision of the committee of creditors and by the Adjudicating Authority. Even when he is required to make a determination, he is only to apply to the Adjudicating Authority for appropriate relief on the basis of the determination. To the contrary, the liquidator has quasi-judicial powers under the Code as he has to consolidate, verify and adjudicate claims
+
+SECTION 29A IS NOT RETROSPECTIVE AND IS ALSO CONSTITUTIONALLY VALID
+
+The Petitioners also launched a four-fold challenge on the recently incorporated Section 29-A of the Code which lays down the categories of persons who are ineligible from submitting a resolution plan. Firstly, it was averred that the retrospective application of the provision would impair the vested rights of erstwhile promoters and would lead to multiple litigations and delay of the resolution process. Secondly, a blanket ban on all promoters of the corporate debtors, without incorporating certain exceptions to protect the efficient promoters would be manifestly arbitrary. If an erstwhile promoter proposes a resolution plan that is far better than all the other applicants, then the same should be considered, as maximization of value of assets is a primary objective of the code. Thirdly, it was averred that an account may be classified as a NPA, despite him not being a wilful defaulter and that the period of one year had no basis or rationality. Lastly, relatives of erstwhile promoters are also ineligible under Section 29 A (j), even though they have no business connection with the erstwhile promoters.
+
+The Supreme Court relied upon ArcelorMittal8 to hold that the resolution applicant does not possess a vested right for consideration or approval of its resolution plan and therefore Section 29A isn't really retrospective as it does not take away any vested right. The Supreme Court also held that it is wholly justified to prevent a person who is unable to service his own debt to participate in the resolution process. Further, the one-year period was also judicious considering the fact that the RBI Master Circulars classify a loan as an NPA only after sufficient grace period is given to the defaulter. Also, during such grace period the said defaulter is permitted to bid with the other resolution applicants to manage the corporate debtor.
+
+In so far as the argument that relatives of erstwhile promoters are also ineligible to participate under Section 29A(j), the Supreme Court held that such a restriction would apply only if the said resolution applicant was connected to the business activity of the resolution applicant.
+
+The exemption of MSME under Section 29A was also not found fault with as the Supreme Court perceived the business of an MSME to attract interest from a promoter of an MSME and may not be of interest to other resolution applicants. Therefore, if MSME's aren't exempted then other resolution applicants may not come forward and it would lead to a liquidation of the MSME instead of resolution.
+
+SECTION 53 IS NOT ARBITRARY
+
+The Petitioners contended that Section 53 is discriminatory and manifestly arbitrary and violative of Article 14 of the Constitution as operational creditors rank below all other creditors, including other unsecured creditors who happen to be financial creditors and are not likely to receive any part of the proceeds of the sale of liquidation assets.
+
+The Supreme Court negatived this challenge on the ground of the relative importance of the two types of debts i.e. financial debts which are secured and operational debts which are unsecured. Recovery of financial debts infuse additional capital into the economy as banks and financial institutions are able to use that money to lend to other entrepreneurs and business entities. This creates sufficient intelligible differentia in order to justify a differential treatment in the distribution of assets. Hence, Article 14 is not attracted.
+
+CONCLUSION
+
+The continual failures of the Sick Industrial Companies (Special Provisions) Act, 1985, The Recovery of Debts due to Banks and Financial Institutions Act, 1993 and The Securitisation and Reconstruction of Financial Assets and Enforcement of Securities Interest Act, 2002 coupled with the underlying-principle that the judiciary ought to maintain sufficient restraint in matters relating to economic regulation, form the backdrop to this decision of the Supreme Court in upholding the constitutional validity of the Code. The Supreme Court was sensitive to the fact that the legislature and the government ought to be permitted to experiment in order to foster change in the economy. A denial of the same by adoption of rigid methodologies by the courts, would not only prevent growth but will also result in adverse and grave consequences to the nation. Economic problems being relatively complex, the Legislature cannot be expected to enact a water tight legislation, which contemplates all possible problems and abuses. Therefore, merely because there may be a possibility of certain inequities, the Supreme Court rightly held that legislation cannot be struck down as unconstitutional.
+
+Footnotes
+
+1 Writ Petition (Civil) No. 99 of 2012, judgement dated 25 January 2019
+
+2 (2015) 8 SCC 583
+
+3 Madras Bar Association v. Union of India, (2014) 10 SCC 1
+
+4 Madras Bar Association (2010) 11 SCC 1
+
+5 (2017) 9 SCC 1
+
+6 Rule 11 of the NCLT Rules, 2016
+
+7 Insolvency and Bankruptcy Board of India (Insolvency Resolution Process for Corporate Persons) Regulations, 2016
+
+8 ArcelorMittal India Private Limited v. Satish Kumar Gupta and Ors., Civil Appeal Nos. 9402-9405/2018 [decided on 04.10.2018]
+
+The content of this article is intended to provide a general guide to the subject matter. Specialist advice should be sought about your specific circumstances.

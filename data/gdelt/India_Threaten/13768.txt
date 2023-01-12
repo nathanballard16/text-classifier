@@ -1,0 +1,35 @@
+Artificial Intelligence revolutionising Healthcare in India: All we need to know
+
+AI feeds off what we call machine learning, that is nothing but training a computer brain on a specific problem set. Almost like how the human mind learns from birth as it is exposed to the world.
+
+Artificial intelligence or our capability of inventing systems that can think, create and act better and faster than humans has become a buzzword that everyone knows about. AI for medicine, AI for finance, AI for auto, we all seem to know and be fearful for the role of AI in next stage of human and industrial evolution.
+
+So, why is AI important in this time and age?
+
+Is it because the world is growing so rapidly in terms of our demands and we are not able to keep up with the pace of meeting those demands, as manual operations are inefficient? Or is it getting rid of human errors in execution? To me it is both, speed of execution and accuracy of results. It is fair to say that humans are born with limitations. Our minds as brilliant, but they cannot process information faster than supercomputers and execute on tasks with femtosecond capabilities needed to execute on millions of decisions needed every second in every industry to serve the growing human race.
+
+Now let me ask a question, why do we need hyper decision making, and quick results, why are we now in a stage of human evolution where speed is everything?
+
+Throughout human evolution on Planet Earth whenever humans have faced problems we have developed solutions to address those problems by sheer ingenuity that usually comes from prior knowledge and trial and error. Now imagine, the last 300 years or so in your minds, the rate of invention from the basic scientific discoveries to the invention of light bulb, automobiles, manufacturing systems has been so rapid that our brains have been learning and evolving extremely rapidly. From the development of the first basic computer code to the invention of smartphones that happened over a time period of mere 50 years or so, has changed how we think and behave. We do not realize but our minds are now influenced by enormous amounts of global data that make us behave and react in certain ways and patterns.
+
+ALSO READ: India to use Artifical Intelligence in TB care, sets deadline to end disease by 2025
+
+AI feeds off what we call machine learning, that is nothing but training a computer brain on a specific problem set. Almost like how the human mind learns from birth as it is exposed to the world. The machine learning process then allows an AI on top human cognition to be able to use the knowledge and make predictions that are not just fast but extremely accurate. The computer brain is limitless and can be trained with enormous amounts of data, the more you feed the more it learns. Unfortunately not all humans have this capability of learning to that level and this is why machine learning and AI is so important in executing rapidly and accurately.
+
+Now let's focus on how AI can impact in revolutionising healthcare.
+
+Imagine yourself and the complex biology that helps you live on planet earth. The millions of biochemical processes in your body define how you think, behave and stay alive. The whole concept of human age and longevity is driven at a personal level. The complex biology is human data. If we can learn and control how every single human gene operates in human body and drives an individual's existence, we can create a myriad of products and services doing exactly this. The last decade has seen the rise of technology in healthcare or what we call health tech.
+
+ALSO READ: Microsoft launches new center focused on Societal impact through Cloud and AI
+
+Companies that build machine-learning systems that can read radiology scans can detect diseases at the earliest of stages. In India, we have many such startups leveraging this data science to help radiologists with their job. Niramai, Qure.ai and Sigtuple are some of the leading startups in this space.
+
+Similarly wearables that track how much you walk, calories you burn, and the sleep you get have changed human behavior in a major way. Fitbit, Apple watch and local products like Goqii are driving human behavior change. What we eat is who we are. Nutrition tech companies like Healthifyme, curefit are not only helping us eat optimally but also collecting data on our nutritional patterns and the impact on our health at an individual level. This data can be used to train machine-learning systems that can better advise us on what to eat and drive enormous change in nutrition and food industry
+
+On the secondary healthcare side, companies that are leveraging IPD and OPD data are able to better advise hospitals on how to operate efficiently. Collectively, we are creating an intelligent ecosystem that will be able to track how the human body is changing on a regular basis, predict diseases, develop targeted therapeutics and personalized supplements, advise on how much to move, what to eat.
+
+On the commercial side, data and AI driven healthcare system can advise hospitals can be better prepared to handle patient load on a daily basis, insurance companies can price their premiums better, Governments can better plan budgets with individual level data on disease burden and then district or community level data on population health.
+
+India is on the cusp of a major healthcare revolution driven by technology. With 1.2 billion human bodies and growing, we have the major leverage of training some of the best machine learning platforms on trillions of human health data point to create a truly unified health system that is driven via automation.
+
+(The article is authored by Aman Iqbal, Founder, Vantage Enterprise. Views expressed are personal)

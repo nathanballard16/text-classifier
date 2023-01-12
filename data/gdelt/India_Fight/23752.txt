@@ -1,0 +1,31 @@
+Supreme Court to WhatsApp: Trial run of payments services ‘can’t go on forever’
+
+Since WhatsApp’s payments services is still in pilot stage and has not received the permission of National Payments Corporation of India (NPCI) to go live, technically it is not in violation of any guidelines.
+
+WhatsApp’s payments services came under fire from the Supreme Court on Friday for carrying on indefinitely its pilot programme. The issue at stake is that overseas firms like WhatsApp need to store all financial data within the country under a Reserve Bank of India notification. The deadline for meeting the norm for local storage of financial data ended on October 18, 2018.
+
+Since WhatsApp’s payments services is still in pilot stage and has not received the permission of National Payments Corporation of India (NPCI) to go live, technically it is not in violation of any guidelines.
+
+However, on Friday, the SC took note of a petition filed by an NGO, Centre for Accountability and Systemic Change (CASC), which has claimed that WhatsApp has not fully complied with the RBI’s circular which prescribed data localisation norms.
+
+Warning WhatsApp that the pilot programme cannot go on indefinitely in violation of RBI norms, the SC said RBI is free to prosecute it for failing to comply with data localisation norms.
+
+During the hearing of the petition, a bench led by Justice R F Nariman said, “The RBI has filed an affidavit stating that you (WhatsApp) are not following their norms. Let them prosecute … Petitioner may be right that trial run can’t go on forever.”
+
+The apex court also told the NGO’s lawyer Virag Gupta that it will hear the matter. “Don’t worry, our arms are long enough. They cannot escape the law,” Justice Nariman said when Gupta wanted a direction to WhatsApp, which is owned by social networking major Facebook, to file a copy of its agreement either with the RBI or NPCI as the messaging app was conducting the trial with data of one million users.
+
+The matter has been posted for detailed hearing in July.
+
+On its part, WhatsApp assured the judges that it will abide by the RBI norms before launching its payments service in the country and added that the trial run of its payment service is underway and will be over by July.
+
+Denying that they have any agreement with the Reserve Bank or NPCI, senior advocates Kapil Sibal and Arvind Datar, appearing for WhatsApp, said, “We can’t launch the product (payments services) without compliance. This is just a trial run which is likely to be completed by July.”
+
+Relying on the RBI’s circular of April 6, 2018, Gupta argued that trial data of users cannot be allowed to be kept outside India. “This may be violative of permission granted by the NPCI to Whatsapp,” he said.
+
+The RBI, in its affidavit to the apex court, said it is exploring regulatory actions to expedite compliance of data localisation. The banking regulator had maintained that payments service providers and third-party payments app should follow its circular on data localisation, which mandates all payments operators and banks to store data of their Indian users within the country. In January 2019, the SC had made the RBI a party to a petition.
+
+However, in December 2018, the NPCI had said WhatsApp has not given it any timeline for complying with the RBI’s data localisation norms. It also said it has not been intimated if the data during the pilot programme will be stored only in India or just copy of it will be stored here while the main data is stored in servers abroad.
+
+The WhatsApp spokesman had then said, “We have built a system that stores payments-related data locally in India,” and the company hopes to expand the payments feature across the country soon so that it can “contribute to the country’s financial inclusion goals”.
+
+WhatsApp reportedly has more than 200 million active users in India and almost one million people are “testing” its payments service.

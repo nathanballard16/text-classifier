@@ -1,0 +1,59 @@
+Rapido user stripped and robbed in Chennai: Is bike-taxi safe?
+
+The bike-taxi app came under fire in Tamil Nadu when the state transport authority and the police department questioned its validity and alleged that it violates the law.
+
+A 30-year-old Chennai techie was stripped, robbed and threatened last Friday by a driver of bike-taxi mobile application Rapido and his two accomplices. According to the police, the techie had booked a ride from KK Nagar to Forum Mall in Vadapalani but cancelled it as it was raining. When he informed the driver, Sarvanan, that he would be opting for another service, the accused told him he had a car which he could travel in under Rapido’s services.
+
+“The techie, who didn’t suspect any foul play, boarded the car with two other men inside. When he asked the driver about the other men, he was informed they were co-passengers who would be dropped along the way. As Saravanan started driving towards Guindy, the techie enquired about the route and was attacked by the co-passengers,” the police said.
+
+“The men robbed him of Rs 11,000, stripped him and took pictures of his private parts. After a couple of hours, the techie was dropped back to where he was picked up at. They threatened to leak the pictures online if he doesn’t pay Rs 50,000 the following day,” the police added.
+
+Speaking to indianexpress.com, KK Nagar Police Station Inspector Prema said the accused were under the impression that the techie wouldn’t approach the police as they had threatened him with the pictures. “Using call details and with the help of CCTV footage, we traced and seized the vehicle and arrested Saravanan. Based on his inputs, we arrested the two other accused,” she said.
+
+“We have approached the Rapido office in Chennai. We have to enquire with them if there is some problem with the application then that needs to be addressed. There is already another complaint associated with this app, so we need to see whether it is similar to this case; the inquiry is still in the process,” she added.
+
+Speaking to indianexpress.com, Rapido co-founder Pavan Guntupalli said the company was not immediately alerted about Friday’s incident as the booking was cancelled by the customer. “Regarding Friday’s incident, according to our system, the booking was cancelled by the customer and he has taken a ride offline. That’s the reason why it didn’t come to our notice. We ask our customers to verify the Captain’s photo and bike number before taking a ride. They should refrain taking a ride if they find the Captain is taking them on a bike with a different registration number or on a four-wheeler citing any reason,“ he said. Rapido drivers are referred to as Captains.
+
+Meanwhile, a senior police officer said, “I have worked on the southern side of Tamil Nadu, the bike-taxi service is not safe. Even the Madurai Commissioner had insisted this in the past, but here it’s still going on. There is no GPRS on two-wheelers now, and how can we possibly trace the accused.”
+
+Rapido, and the controversy around it in Tamil Nadu
+
+
+
+Rapido, a bike-taxi app founded in 2015, has its headquarters in Bengaluru. The mobile app which is available on both Google Play Store and Apple App Store connects commuters with riders going in a similar direction for a certain fare.
+
+The app came under fire in Tamil Nadu when the state transport authority and the police department questioned its validity and alleged it violated the law.
+
+According to the Motor Vehicles Rules Act, 1988 hire vehicles fall under the transport vehicle category and are registered with yellow nameplates. Other vehicles like bikes and scooters fall under the non-transport vehicle category and cannot be used for commercial purposes. They are registered with whiteboards.
+
+Based on this, the state government had banned Rapido earlier this year in July. The same month, at least 38 Rapido bike taxis were seized and fines imposed on the drivers in Chennai.
+
+Further, the Assistant Commissioner of Police (Cyber Cell) had written a letter to Google LLC and Apple India Private Limited to remove the Rapido application from its app stores.
+
+Madras High Court Justice G Jayachandran had also ordered a ban on its services until the state government framed regulations regarding carpooling, bike taxis, etc.
+
+After Rapido appealed against the judgment, a division bench on the HC in August passed an interim stay on Justice Jayachandran’s order and the letters sent by the ACP to Google and Apple. Rapido had argued that it had provided safety measures to its users including insurance for both Captains and pillion riders, provision of helmets, safety measures for women, etc.
+
+The HC also directed the state government to disclose when it would frame necessary regulations for bike-sharing services as done in other states such as Telangana, Rajasthan and Chandigarh.
+
+Founder claims it’s safe
+
+Co-founder Guntupalli, meanwhile, said bike ride-sharing is one of the safest means of travel in comparison with other ride-sharing services. “Our safety measures are in two parts, one is before and during the ride. Before the Captain is registered with us, we do complete background verification. The rides are monitored by our internal team called hand-holding teams, if the customer complaints or if our team finds the Captain’s behaviour doesn’t adhere to our company’s policy, he would be asked to undergo a refresher training,” he said.
+
+He added that safety is always at the centre. “We are the only company to mandate insurance to both the customer and the captain. We have the share your ride feature, people can save the emergency contact and they can share their ride status with just one click and it also sends an alert to our internal team,” he added.
+
+To make Rapido services more efficient and safer, Pavan said that for they are working on a product that will alert the internal team immediately if the Captain takes an unusual route deviation or stops at unusual places for a long time, rash riding, etc.
+
+A person knowledgeable about the working of Rapido, however, claimed there were lapses in the company’s checks. “Anyone can register as a Rapido Captain if they have a valid licence and a two-wheeler. After basic checks, they are trained for a week on how to behave with customers, how to use the application, etc. After that, they are added to the company’s database and are allotted routes,” he said.
+
+However, he claimed the company does not carry out rigorous detailed background checks. “The company cannot do a detailed background check with police or any other private company. Startups are not spending enough on background checks. So spending around Rs 5,000 to Rs 6,000 on a private firm or a team to conduct individual checks is expensive. Basic checks like insurance, RC and other document checks are however being done,” he added.
+
+Officials say that to shield itself from the Motor Vehicle Act and other potential hurdles, the company projects itself as a ride-sharing application platform instead of a taxi. “Imagine I’m going to the office and on the way, I’m picking someone and I charge for that, it will be considered as ride-sharing. There are no clear guidelines about ride-sharing in the Act,” an official said.
+
+What do users say about Rapido?
+
+Fizaa Anand, who works at a private firm, said she genuinely likes the service of Rapido, but feels the safety aspect is a bit fuzzy. “Being a woman, you have to always be suspicious during your ride since you are travelling with random persons. Unlike some cab aggregators where the driver will call you through a toll-free number, Rapido drivers contact you from their numbers which has caused me a lot of trouble,” she said.
+
+Fizaa claimed that some of the drivers make the journey an unpleasant one. “Once I was on a Rapido with a man, who claimed that he is an IT professional and was married. During the ride, he suddenly initiated a conversation and said I’m beautiful and started asking me personal questions, like whether I had a boyfriend, when I will get married, etc. I was getting uncomfortable and scared, I didn’t know what to do, you are on a bike; you can’t jump off a bike. Once I got dropped, he asked for my number which I refused to give. But in less than two hours, he started texting me. I didn’t reply and blocked that number, but later he started texting from another number. I have even gotten random video calls in the night, that’s the disadvantage of Rapido. Drivers have the ability to contact you whenever they want as your number is not protected,” she added.
+
+Sachin Vishwanath, who studies in a private Institution in Chennai, said he had no issues with Rapido but alleges that drivers never care to provide facilities to pillion riders. “I use the application at least twice a week. It’s safe and cost-effective. For short distances, I use this application because autos charge you a lot. If they could provide a helmet for pillion riders then it will be very useful,” he said.

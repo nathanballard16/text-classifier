@@ -1,0 +1,93 @@
+China hacking US research universities; NATO general on F-35, Turkey; DHS Secretary to testify; ICE releases some infants; And a bit more.
+
+The U.S. military now has about 6,000 troops at the border, including 2,100 members of the National Guard. Here’s NORTHCOM’s list of the 56 units deployed there. “Additional units are expected but will not be named until they have deployed,” command officials told Military Times’ Tara Copp.
+
+The number of migrants crossing the border is up again. Washington Post: “The number of people taken into custody along the Mexico border jumped an additional 31 percent last month as an unprecedented mass migration of families from Central America pushes unauthorized crossings to the highest levels in a decade, according to U.S. Customs and Border Protection figures released Tuesday.”
+
+Why now? “An attractive job market in the United States is prompting more Central Americans to leave the poverty and insecurity of their home countries and head north, typically in groups of one parent and one child.” Read on, here.
+
+ICE held 16 infants in detention on March 1, reportedly in facilities with “dirty water, limited baby food and a lack of medical care.” After human-rights groups complained, the agency released 12 of the infants; the the status of the other four is unknown, CBS News reports.
+
+DHS Secretary Kirstjen Nielsen will testify to Congress today. Facing a Democrat-controlled House for the first time, Nielsen will “become the highest Trump administration official yet this year to testify on the administration's immigration policies,” CNN reports. Topics are expected to include the “national emergency declaration, the border wall and the administration's ‘zero tolerance’ immigration policy, which resulted in thousands of migrant children being separated from their undocumented parents.”
+
+The GOP-controlled Senate is expected to reject Trump’s emergency declaration, Majority Leader Mitch McConnell conceded to reporters Monday, though he predicted that the president would veto the resolution and that neither house of Congress would overturn the veto. The Hill, here.
+
+From Defense One
+
+We’ll Soon Learn Whether You Can Post 3D-Gun Plans Online // Katie Bo Williams: A proposed export-rules change has snagged over the question: is publishing such designs a boon to U.S. business or foreign terrorists?
+
+Don’t Sell F-35 To Turkey If It Buys Russian SAMs: Top NATO General // Marcus Weisgerber: Gen. Scaparrotti, who also leads U.S. European Command, also wants more naval forces at his disposal.
+
+America Can't Duck the India-Pakistan Crisis // Joshua T. White, The Atlantic: The most recent friction between the two nuclear powers offers unpleasant lessons yet clear opportunities.
+
+The Inevitable Return of Muddling Along in North Korea // Richard Fontaine, The Atlantic: Trump’s best option is to reduce the scope of the country’s nuclear ambitions—even if he can’t eliminate them.
+
+Lasers, AI, Hypersonics Top DARPA’s Small-Biz Wishlist // Jack Corrigan, Nextgov: The defense research agency also announced plans for an accelerator to help move new tech from idea to product.
+
+Welcome to this Wednesday edition of The D Brief by Ben Watson and Bradley Peniston. Thanks for reading! And if you’re not subscribed, you can do that here. On this day in 1836, the Alamo finally fell after 13 days of battle, and would remain occupied by Mexican forces for nearly a month and a half.
+
+The U.S. flew a B-52 near the South China Sea on Monday, the first known flight of its kind since November 20, U.S. Pacific Air Forces announced on Tuesday. “The B-52 aircraft involved in the mission are part of the U.S. Air Force’s Continuous Bomber Presence (CBP) based in Guam,” ABC News reported afterward on Tuesday.
+
+Bigger picture: “Much like the U.S. Navy's freedom of navigation operations when it sails past two disputed island chains claimed by China in the South China Sea, the Air Force missions are intended to assert that the area is international airspace as well, much to China's chagrin.”
+
+Get to better know the dynamics and history of South China Sea tensions in our roughly 90-minute two-part podcast on the subject, here.
+
+Chinese cyberspies attacked some of the world’s best universities in search of naval tech. More than two dozen universities across the world have been targeted by Chinese hackers as part of an elaborate scheme to steal research about maritime technology being developed for military use, The Wall Street Journal’s Dustin Volz reports in a front-page story this morning.
+
+Among the campuses targeted: MIT, the University of Hawaii, the University of Washington, Woods Hole Oceanographic Institution and 23 others around the world.
+
+The alleged culprit: APT40, a “state-sponsored Chinese cyber espionage operation,” according to the cyber researchers at FireEye, which put out a report on the accused on Monday. This is a group of hackers that “has specifically targeted engineering, transportation, and the defense industry, especially where these sectors overlap with maritime technologies. More recently, we have also observed specific targeting of countries strategically important to the Belt and Road Initiative including Cambodia, Belgium, Germany, Hong Kong, Philippines, Malaysia, Norway, Saudi Arabia, Switzerland, the United States, and the United Kingdom.”
+
+Methods of attack/access: phishing, using bunk Google Drive links, and about nine other methods you can find in FireEye’s graphic you can find about halfway down, here.
+
+A Chinese researcher was a bit too enterprising with some facial-recognition algorithms he’d created as a test — and he appears to have pissed off the Chinese Communist Party as a result, The Wall Street Journal’s Josh Chin noticed this morning and preserved a few images as evidence.
+
+What the offending programmer appears to have done: "tweeted out an experiment using commercially available facial-recognition algorithms to ID delegates attending China's annual legislative meetings," Josh Chin writes. "Hard to think of a more legitimate use of facial recognition than tracking government representatives at a legislative event. This was all done using open-source algorithms and data. And yet someone in China evidently decided it could not stand. Thankfully I saved a handful of the images. Alas, not the ones of where he/she identified delegates sleeping through speeches."
+
+The researcher’s tweet announcing the apparent CCP-driven change of plan: “I will be deleting all of my tweets and will no longer be tweeting or responding to [direct messages]. All of my tweets were entirely based on my personal analysis using publicly available data, and did not involve other individuals. It is not my intention to subvert state or Party authority.”
+
+Speaking of algorithms and bogus behavior, Financial Times reported Monday that Europe’s AI startups often do not use AI after a study found two-fifths of start-ups branded as AI-related "have no artificial intelligence programs in their products." More behind a paywall, here.
+
+Who among us hasn’t accidentally hired mercenaries? Why we ask: According to Bloomberg, a cryptocurrency exchange called “Coinbase says it accidentally hired a group of mercenaries, who sold cyberweapons to Saudi Arabia and Sudan, and is now firing them.”
+
+At issue: Coinbase’s acquisition of an Italian company called Neutrino, which now has three top officials who used to work at an outfit called Hacking Team. Vice Motherboard can fill you in — here — on all the shady things Hacking Team is known to have done.
+
+The more you know. President Trump has now set a new record with Patrick Shanahan — who is now officially “the longest-serving Acting Secretary of Defense in the history of that office,” national security law Professor Steve Vladeck noticed Tuesday on Twitter.
+
+Additional trivia from Vladeck: “The previous record-holder was William H. Taft IV, who served as Acting Secretary for 60 days, from January 20 to March 21, 1989. No other Acting Secretary served more than 8 days…”
+
+Now for something completely different. It’s a note from the desk of terrorism researcher Seamus Hughes this morning, via Twitter:
+
+“Just found a case of a convicted terrorist who referred to herself as Umm Nutella and I don’t know what to do with that information other than tweet it.” You can follow Seamus on Twitter for more stuff like that when he sees it, here.
+
+Former SecDef Mattis and ISIS war envoy Brett McGurk might be a little puzzled this week. That’s because NBC News reported Tuesday “Two months after declaring all U.S. troops are leaving Syria, President Donald Trump wrote to members of Congress that he now agrees ‘100%’ with keeping a military presence in Syria.”
+
+Why bring Mattis and McGurk into this? Both abruptly resigned from the administration expressly because of Trump’s decision to remove all U.S. forces from Syria, as he announced in mid-December. Read on at NBC, here.
+
+Meanwhile in Baghouz, Syria, “Some 500 ISIS fighters surrendered to US-backed Syrian Democratic Forces on Tuesday, amid the final push,” CNN’s Ben Wedeman reports this morning from the city. AP’s Sarah el-Deeb is also in Baghouz and filed this report about ISIS discipline from Baghouz this morning.
+
+One more big hassle from Baghouz: "U.S.-backed forces in Syria are holding more than 2,000 suspected Islamic State fighters, at least double previous estimates and an obstacle to Trump administration plans to withdraw U.S. forces from Syria," The Wall Street Journal’s Nancy Youssef reported Tuesday.
+
+North Korea appears to have “restored part of a rocket test site it began to dismantle after pledging to do so in a first summit with U.S. President Donald Trump last year,” Reuters reported Tuesday using fresh satellite imagery.
+
+Location: the Sohae Satellite Launching Station at Tongchang-ri.
+
+What the images suggest: "structures on the Sohae launch pad had been rebuilt sometime between Feb. 16 and March 2," and the work appears to have begun "in the run up to the second summit, which was held on February 27 and 28."
+
+A word on the launch site, and some of the risk now confronting the Trump administration’s DPRK-watchers: "We often see the words rocket/missile/space launcher used interchangeably — in the long long ago North Korea's Space launcher was a legit concern and a ‘notional’ ICBM," Dave Schmerler of the James Martin Center for Nonproliferation Studies wrote Tuesday as this story made the rounds on major news outlets like NBC. "However that time is over — they have two ICBM designs and unless they start testing Hwasong-14/15s with a white paint job as a space launcher this recent uptick in activity is more likely a move to apply soft pressure on the US after Hanoi.”
+
+What’s more, he writes, “It would be interesting to see North Korea launch another Unha, have the trump administration walk it back from being a missile test to a space launch (while still holding the double standard to Iran) and allow the North to renegotiate with the US allowing for the retention of a space program as they would have had justified it in this scenario. But before we start racing towards impending 'ICBM' launches out of Sohae lets take a breather and wait for more imagery..."
+
+See some of the imagery for yourself via the Center for Strategic and International Studies, here;
+
+One more thing about North Korea: The UN just announced that food production in the country fell by about 10% from 2017 to 2018 and "widespread under-nutrition threatens an entire generation of children." More from CNN, here.
+
+The latest in the India-Pakistan crisis: Watch an excellent satellite imagery-driven summary of New Delhi’s apparent lies regarding last week’s airstrike inside Pakistan — an Indian Air Force strike that’s said by India to have killed “hundreds” of terrorists from the group Jaish-e-Mohammad, via Reuters’ Gerry Doyle. (If you’d rather read than watch, you can do that here.)
+
+Wanna nerd out on some explosives and engineering math — that is, some of the work that went into Doyle’s assessment? Tune into this thread from Gerry and independent missile and nuclear expert George William Herbert.
+
+A complex attack in eastern Afghanistan has killed more than a dozen people at a construction company office in Jalalabad, Reuters reports. "The attack began when two suicide bombers set off their explosives outside the company office and gunmen then opened fire... There was no immediate claim of responsibility. [But Jalalabad] has become the main stronghold in Afghanistan of Islamic State." More here.
+
+The latest in U.S.-Taliban talks: Still on; just taking a pause. The White House’s Afghan envoy Zalmay Khalilzad was in Uzbekistan on Tuesday having dinner with the prime minister. “Peace will require the support of all interested parties, and we welcome the participation of regional countries in the process,” Khalilzad tweeted last on Tuesday.
+
+And finally today, a handy public service announcement: Do not bring your RPG to the airport. Police and TSA at Lehigh Valley Airport in Allentown, Pa., do not care if you’ve disassembled it first; and they also don’t care if the grenade is an inert replica. It’s just a huge waste of time and law enforcement resources. More from the TSA PAO-type who flagged it on social media on Tuesday, here. And find a few more images over at ABC News, here.

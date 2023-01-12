@@ -1,0 +1,127 @@
+JEDI’s future uncertain, for now
+
+JEDI’s future uncertain, for now Presented by Charter Communications
+
+With help from John Hendel and Doug Palmer
+
+Editor’s Note: This edition of Morning Tech is published weekdays at 10 a.m. POLITICO Pro Technology subscribers hold exclusive early access to the newsletter each morning at 6 a.m. Learn more about POLITICO Pro’s comprehensive policy intelligence coverage, policy tools and services, at politicopro.com.
+
+Quick Fix
+
+— Slamming the brakes on JEDI: Amazon’s protest of the Pentagon’s $10 billion JEDI award to Microsoft will kick off a complicated process with an indefinite timeline — likely bringing the DoD’s project to a sudden halt.
+
+— Facial recognition fight: A bipartisan Senate bill to limit biometric surveillance is drawing applause from the tech industry but is unlikely to win over civil rights and privacy groups, some of which contend that anything less than an all-out ban on the software is not enough.
+
+— Canada in the crosshairs: The internet industry is pushing the Trump administration to fight Canada’s plans to hit U.S. tech giants with a digital services tax.
+
+A message from Charter Communications: We’re proud that Spectrum Internet ranks No. 1 in the U.S. News & World Report 2021-22 “Best Rural Internet Service Providers” rankings. This recognition underscores our ongoing commitment to connecting more communities from coast to coast, including rural areas. And we’re just getting started.
+
+IT’S ABOUT TIME. IT’S FRIDAY; WELCOME TO MORNING TECH! I’m your host, Alexandra Levine. The public impeachment hearings resume today.
+
+Got a news tip? Write Alex at [email protected] or @Ali_Lev. An event for our calendar? Send details to [email protected]. Anything else? Full team info below. And don’t forget: add @MorningTech and @PoliticoPro on Twitter.
+
+Tech of the Town
+
+AMAZON, JEDI, AND THE LONG ROAD AHEAD — Amazon on Thursday confirmed its plans to file a protest at the U.S. Court of Federal Claims challenging the Pentagon’s decision to award a $10 billion cloud computing contract to Microsoft. That could throw the project — known as JEDI — in limbo. And for how long, exactly? Near impossible to predict, according to David Berteau, president and CEO at the Professional Services Council, an association of federal contractors whose members include Amazon Web Services and Microsoft. Had Amazon instead filed a protest with the Government Accountability Office, “the GAO process is very structured and time-bound,” he said. “Court of Federal Claims does not have the same clock … so it’s very difficult to tell how long this could take.”
+
+— What’s next? The court will likely stop the Defense Department from proceeding while the case is under review, but “I suspect that DoD will argue that time is of the essence and that the court needs to make a speedy determination,” Berteau said. “The fundamental question here is: from a national security point of view, what needs does the Defense Department have that aren’t being met by the contracts they currently have in place? What needs does DoD have that can’t be met if JEDI cloud is put on hold?” (Here’s a look at some of those contracts, courtesy of Federal News Network.)
+
+— Can a Trump tweet change the outcome? Government procurers pride themselves on not being affected by the political climate, Berteau said. But the onus will be on the Pentagon to prove that President Donald Trump’s notorious animus toward Amazon and its CEO, Jeff Bezos, didn’t color the decision. Trump in July pushed directly for a review of the bidding process, and a former Pentagon aide claims the president ordered former Defense Secretary Jim Mattis to “screw Amazon” out of the contract.
+
+“It’s not a matter of whether the president says anything,” Berteau told MT, “but how the agency involved deals with that and how they document how they’ve dealt with that — that’ll be a matter for the courts to review.” (A spokesperson for Amazon Web Services said Thursday that the JEDI bidding and evaluation process “contained clear deficiencies, errors, and unmistakable bias.”)
+
+HOUSE FRICTION OVER SATELLITE TV DEADLINE — The House Energy and Commerce telecom subcommittee voted to advance Chairman Mike Doyle’s (D-Pa.) legislation to reauthorize the satellite TV law STELAR on Thursday. But Republicans are irate over the process and some signal skepticism over the need to pass a bill at all. That portends more drama in the weeks ahead, before the law expires on New Year’s Eve.
+
+— E&C ranking member Greg Walden (R-Ore.) says he’s not convinced the law needs re-upping at all and complained about Democrats attaching riders, such as one on cable billing transparency. “STELAR is the locomotive that pulls everybody’s other telecommunications cars,” Walden told John after the markup. “And there hasn’t been a [legislative] hearing on any of these provisions at all. That just points to the problematic nature of STELAR living on.” On the other hand, GOP whip Steve Scalise (R-La.), who didn’t attend the markup, is signaling displeasure that lawmakers aren’t using the reauthorization to more dramatically overhaul TV rules. “I am disappointed that today’s markup misses a real opportunity to modernize the video marketplace in a meaningful way,” Scalise said in a written statement.
+
+— Doyle told reporters he’s up to negotiate with Republicans to try to allay concerns and move the measure along. “We know that we have some work to do between subcommittee and full committee,” the chairman said, declining to say whether a full committee markup would happen Tuesday, as he earlier indicated.
+
+— The subcommittee also voted to advance eight other measures without conflict at the markup. The bills touch on broadband mapping, 5G security and the sharing of airwaves. Look for those to move easily through that coming full committee markup.
+
+HERE COMES THAT ROBOCALL DEAL? — Lawmakers this week suggested that the House and Senate may finally have reached agreement on a bicameral measure to fight robocalls, settling differences between two bills that have already passed the respective chambers. Both measures would expand fines and FCC authority for cracking down on robocalls, but the House bill is considerably more expansive. “I think we’re very close,” Walden told John. Doyle earlier this week told reporters, “I think we have agreement,” and said lawmakers have even settled on a name for the consensus measure. (He didn’t say what that name might be but did suggest it’ll namecheck Sen. John Thune (R-S.D.) and Rep. Frank Pallone (D-N.J.), lead sponsors on their chambers’ bills.) “There’s no reason why we shouldn’t see it [move] this month,” Doyle added.
+
+FACIAL RECOGNITION BILL LANDS WITH A THUD FOR CRITICS — Civil rights and privacy groups aren’t joining think tanks like the Information Technology and Innovation Foundation and tech companies like IBM that are cheering a bipartisan Senate bill on facial recognition introduced Thursday. The measure, first scooped by MT, would require federal law enforcement to get a warrant before using facial recognition technology for targeted surveillance.
+
+— Big caveat: Although the bill — co-sponsored by Sens. Chris Coons (D-Del.) and Mike Lee (R-Utah) — would put guardrails on public surveillance, it would also give law enforcement wiggle room to deploy the technology without a warrant under pressing circumstances. Neema Singh Guliani, senior legislative counsel for the ACLU, argued that the bill “falls woefully short of protecting people's privacy rights and is inconsistent with existing Supreme Court precedent,” she said. “Congress should put brakes on this technology, not ineffective Band-Aids.”
+
+— Fight for the Future called again for an all-out ban of law enforcement use of facial recognition. Digital rights activists from the group canvassed D.C. on Thursday using Amazon’s facial recognition software around Capitol Hill, K Street and nearby Metro stops to detect the faces of members of Congress, government officials and Amazon lobbyists. (They documented their progress here and ICYMI, they carried this out wearing white hazmat suits emblazoned with the text: “Facial Recognition in Progress”).
+
+— “Until Congress takes action to ban facial recognition surveillance, it’s terrifyingly easy for anyone –– a government agent, a corporation, or just a creepy stalker –– to conduct biometric monitoring and violate basic rights at a massive scale,” said Fight for the Future’s deputy director, Evan Greer. “We did this to make a point. And we’re going to delete the data that we collect. Someone else could use the same technology to do unimaginable harm.”
+
+— The debate is likely to gain more traction as the 2020 race heats up. Sen. Bernie Sanders in August became the first major 2020 contender to advocate, in his criminal justice reform plan, for a ban on the use of facial recognition technology by law enforcement.
+
+INTERNET INDUSTRY SENDS WARNING ON CANADA DIGITAL TAX IDEA — A coalition of internet and technology groups is urging the Trump administration to squelch Canadian plans to impose a digital services tax, or DST, on big U.S. tech companies like Google, Netflix and Facebook. “We believe that global tax rules should be updated for the digital age, but discriminatory taxes against U.S. firms are not the right approach,” the Internet Association and other groups wrote in a letter to Treasury Secretary Steven Mnuchin and other top administration officials. “Unilateral measures such as the Canadian proposal threaten the progress of multilateral, collaborative work that considers all aspects of the changing global economy.” (The U.S. tech groups also said they believe Canada’s proposal could violate its “national treatment” commitments to the United States under NAFTA, the newly negotiated USMCA and the WTO.)
+
+— Background: Newly reelected Canadian Prime Minister Justin Trudeau has proposed implementing a DST similar to the one recently adopted by France that prompted Trump to threaten retaliatory tariffs. The United States and France agreed to a 90-day cease-fire in late August to try to reach agreement on a framework for taxing digital services that could become a basis for a multilateral deal at the OECD. “Those negotiations are ongoing,” Treasury Assistant Secretary for Tax Policy David Kautter said Wednesday. “That 90-day window expires later this month.”
+
+TECH NO-SHOW DU JOUR — After Apple and Facebook declined an official request from House Small Business Chairwoman Nydia Velázquez (D-N.Y.) to testify at Thursday’s hearing on how big tech companies are affecting small businesses, the panel left two seats empty for a “Mr. Cook” and “Mr. Zuckerberg” (h/t The Hill’s Emily Birnbaum). It’s starting to feel like a trend: Apple and TikTok got the same empty seat treatment earlier this month when they declined to show up to Sen. Josh Hawley’s hearing on China and data security.
+
+WATCHING — When Twitter CEO Jack Dorsey tweeted last month that his platform would drop political ads worldwide, he said the company would share details on the policy change on Nov. 15 — that’s today. Dorsey in his October announcement suggested that the final iteration being unveiled today could include “a few exceptions,” like ads in support of voter registration. We’re tracking; the new policy is slated to take effect Nov. 22.
+
+A message from Charter Communications:
+
+Transitions
+
+Steve Vest, Time Warner’s former senior vice president for global public policy, has been hired by WarnerMedia government relations as senior adviser to the company. … Erin Bottger, a former policy adviser to Nebraska Gov. Pete Ricketts, has been named a state government affairs manager in the Midwest for Verizon. … Dr. Helene Gayle, president and CEO of the Chicago Community Trust, has been appointed New America’s first chairwoman; Katherine Gehl, former president and CEO of Gehl Foods and co-founder of Democracy Found, Reid Hoffman, co-founder of LinkedIn, and Ashton Kutcher were named to the group’s board.
+
+Silicon Valley Must-Reads
+
+Ballooning bailiwick: The 50 state attorneys general conducting a sweeping antitrust probe into Google are expanding that investigation from looking explicitly at its ad practices to now examining its search and Android businesses, CNBC reports.
+
+NYT’s annual Tech & Design issue: This year’s theme is “So The Internet Didn’t Turn Out The Way We Hoped,” exploring opportunities and challenges posed by the world wide web including the Chinese internet, online fandom, internet inequality and more.
+
+Paging Zuck: Civil rights leaders who met with Mark Zuckerberg at his California home this month to express concerns about Facebook's impact on civil liberties are now calling on the CEO to overhaul how his company handles political speech and ads, Steven reports for Pros.
+
+Food for thought: How Roundup, Mont. — ”the everything town in the middle of nowhere” — became a major supply chain hub for Amazon, via The Verge.
+
+Cali’s gig economy debate hits New Jersey: “Uber and one of its subsidiaries owe New Jersey hundreds of thousands in past-due taxes for misclassifying its drivers as independent contractors,” POLITICO reports.
+
+ICYMI: Facebook is sponsoring an event honoring Supreme Court Justice Brett Kavanaugh, The Verge reports. (Plus, Sen. Elizabeth Warren responds: “Facebook is spending millions lobbying the government as they face antitrust scrutiny. They're going on a charm offensive with Republican lawmakers.”)
+
+A message from Charter Communications: Access for all means opportunity for everyone. That’s why we’re investing billions to extend our network to reach those who need it most. Over the next several years, Charter will build more than 100,000 miles of new U.S. broadband infrastructure that will deliver reliable, high-speed internet access to even more communities from coast to coast. That’s an extension long enough to circle the equator four times. This $5 billion initiative will connect an FCC-estimated one million currently unserved, mostly rural families and small businesses to reliable internet service with speeds of up to 1 gigabit per second.
+
+Quick Downloads
+
+TikTok’s latest frontier: The video app’s lobbying fight in Europe, POLITICO reports.
+
+Meanwhile, in India: TikTok is all the rage, WSJ reports.
+
+2020 on 230: Andrew Yang and Rep. Tulsi Gabbard (D-Hawaii) are the latest presidential contenders to call for sweeping changes to the tech industry’s legal shield under the Communications Decency Act, Cristiano reports.
+
+Yang says: “Robots Are Stealing Your Job,” via NYT Opinion.
+
+Policy update: Pinterest has launched new tools to help users of the platform who search terms related to self-harm, the company announced Thursday.
+
+
+
+
+
+Tips, comments, suggestions? Send them along via email to our team: Kyle Daly ([email protected], @dalykyle), Nancy Scola ([email protected], @nancyscola), Steven Overly ([email protected], @stevenoverly), John Hendel ([email protected], @JohnHendel), Cristiano Lima ([email protected], @viaCristiano) and Alexandra S. Levine ([email protected], @Ali_Lev).
+
+TTYL.
+
+Follow us on Twitter Heidi Vogt @HeidiVogt
+
+
+
+Emily Birnbaum @birnbaum_e
+
+
+
+John Hendel @johnhendel
+
+
+
+Rebecca Kern @rebeccamkern
+
+
+
+Alexandra S. Levine @ali_lev
+
+
+
+Leah Nylen @leah_nylen
+
+
+
+Konstantin Kakaes @kkakaes

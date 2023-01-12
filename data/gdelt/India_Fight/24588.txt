@@ -1,0 +1,83 @@
+Can extreme speech online be regulated without curbing free speech? This series finds out
+
+India’s 2019 general election has put a spotlight on the troubling rise of disinformation, fake news, hateful rhetoric, and ad hominem attacks circulating on social media. Journalistic reports have sharpened the focus on digital propaganda, revealing sophisticated systems of information manipulation that use automation and dispersed networks of online workers, targeting target campaigns and elections.
+
+Although campaign-style manoeuvring is not new in India, accelerated flows of disinformation and vitriol, as well as the opaque role of digital analytics and algorithms, have placed new challenges on election time political communication. In April, the Election Commission in India was summoned by the Supreme Court of India due to what was perceived as inaction to combat “hate speech” during elections. While the elections provide a locus for studying extreme speech, the phenomenon is by no means limited to electoral episodes or party politics.
+
+In this special series on online extreme speech, we highlight policy interventions, company practice, and civic intervention urgently needed to address the current challenges in online communication, and develop measures to facilitate democratic participation. The articles in the series are a compendium of the research and opinions presented at an international conference titled Internet Speech – Perspectives on regulation and policy held on April 5, in New Delhi. The workshop combined international perspectives on extreme speech and online speech regulation with an up-close view of various facets relating to the phenomenon unfolding in India today.
+
+Why ‘online extreme speech’
+
+Among other frameworks, definitions and understandings, the workshop discussed the framework of “online extreme speech” to define speech acts that stretch the boundaries of legitimate speech along the twin axes of truth/falsity and civility/incivility, using the affordances of internet media.
+
+The term “online extreme speech” emphasises a context-sensitive approach to variations in speech rather than a blanket term such as “hate speech” used globally. The framework recognises that when spoken from positions of disprivilege, extreme speech can be used to challenge authority and subvert domination. It also recognises that pressure to be “civil” can be a coded language for elite power, and the rejection of demands coming from subordinate groups.
+
+However, organised manipulations of speech, both in terms of incivility and false claims, can have devastating effects on society when they become weapons of propaganda and tools for the entrenchment of inequalities.
+
+Extreme speech, when used from positions of power, comes with the risk of normalising exclusion, distorting public opinion, and enabling the conditions for violent extremist views to take root.
+
+From a policy perspective, a key challenge is to examine how online extreme speech can cause harm to different groups and society at large and develop a regulatory response that addresses and provides remedy for such harms.
+
+Therefore, antagonisms fueled by online extreme speech should be assessed and described in terms of the impact they can have on target groups. At the same time, it is important to draw attention to various factors that facilitate online extreme speech, including the role of commercial players. Corporate social media’s commercial models to monetise user interactions, personalise platform interactions, and innovate on data surveillance technologies can provide a breeding ground for the political weaponisation of extreme speech.
+
+The impact
+
+Globally, online vitriol and disinformation have become a vexing issue, raising the concern that this is enabling the slide towards “illiberal democracies” and authoritarian tendencies. For instance, in Europe and North America, white supremacists active on social media are spreading racial prejudice and bringing these views back to the fore of mainstream debates. Social platforms have given new avenues for a range of actors including right-wing extremists as well as religious fanatics and non-state actors, to amass audiences.
+
+Problems are compounded by social media companies’ uneven practices in removing extremist content and blocking users. When such actions have been taken against abusers, these users have found ways to migrate to other platforms such as Gab, encrypted messaging services or local shout-out applications.
+
+However, such actions have been partly successful in deoxidising extreme speech by delinking it from mainstream media attention, at times driving them to the digital underground.
+
+Regulatory efforts abroad
+
+Regulatory efforts in North America and Europe have shown the difficulties in establishing an appropriate framework for proportionately holding multinational social media companies accountable.
+
+In the US, with its emphasis on First Amendment rights, courts have continued to hold the view that harmful speech is best left to the self-correction potential of the “marketplace of ideas”.
+
+Australia and Germany have enacted by far the strictest controls on social media companies, levying heavy fines and even imprisonment for inaction on extremist hate speech. The European Union has established a code of conduct to mount pressure on the industry to cut down “hate speech”, encouraging online platforms, social networking sites, advertisers, and the advertising industry to agree on a self-regulatory code of practice under the frame of a “digital single market”.
+
+In April, the UK released a white paper on Online Harms to establish a “duty of care” for online companies, making them responsible for the safety of their users. Elsewhere in the world, governmental efforts to mitigate harmful effects of social media have been highly problematic. Uganda, for instance, introduced a controversial social media tax earlier this year to curb what it called “gossip”. Other countries – notably China and various states in West Asia, amongst others – have resorted to sporadic shutdowns, heavy censorship, and outright bans to restrict discourse deemed pernicious, anti-national, or blasphemous.
+
+Globally, there is as yet no coherent regulatory approach to ascertain the role of social media companies. Whether they should be seen as hosting companies, publishers, or distributors is an unsettled question. And depending on how they are classified, their culpability and responsibility could be interpreted very differently.
+
+The case of India
+
+In India, regulatory debates face similar dilemmas and confusion. Multiple regulatory and policy steps have emerged from different parts of the government. For example, The Union Ministry of Electronics and Information Technology has proposed amendments to the Intermediary Guideline Rules under the Information Technology Act that would require intermediaries to proactively filter unlawful content and provide traceability of users.
+
+The draft e-commerce policy from the Department for Promotion of Industry and Internal Trade notes that online platforms have a responsibility to ensure the genuineness of content on their platforms.
+
+The Election Commission has established registration mechanisms for political advertisements on social media and have asked companies to establish grievance officers. In a case now challenged before the Supreme Court, the Madras High Court asked the government to ban the download of the popular app TikTok. (Three weeks later, it lifted the ban but imposed some conditions on the company.)
+
+But there are concerns that certain steps in their current form are overly broad and could be misused in a way that restricts online freedoms, including freedom of expression. Yet, freedom of expression is now a more conflicted space.
+
+For example, Hindutva activists have raised an outcry about free expression, blaming “biased” multinational corporations for blocking their accounts. The lines between legitimate and illegitimate speech are in constant negotiation, influenced by evolving tactics, forms, and means of expression and societal norms.
+
+What is clear, however, is that political parties across the spectrum are now actively using social media platforms for political propaganda and outreach work. Political instrumentalisation of online extreme speech has become a significant problem facing electoral processes today.
+
+Anti-minority rhetoric and disinformation campaigns to discredit political opponents have emerged as two major forms of extreme speech online. What is striking about India are the vast, informal networks of online content distribution that parties and their supporters have created to try and influence the electorate. This has been coupled with the covert misuse of online data and funded targeted appeals, which have faced little challenge beyond insufficient and knee jerk responses by social media companies.
+
+Multi-pronged regulatory actions
+
+While efforts to contain online extreme speech are commendable – such as the growing fake news verification initiatives – regulatory action is yet to develop a mechanism that considers emerging patterns of funding, changing semantics of disinformation and vitriol, and multiple actors engaged in extreme speech through subcontracts and voluntary work.
+
+Critical reflections advanced in this special series on some of these concerning developments suggest that policy and regulatory actions should be multi-pronged, coordinated across government bodies, and nuanced to the appropriate function of an intermediary or technology.
+
+At the same time, all stakeholders in the ecosystem play a critical role in addressing extreme speech online, including fact checkers, civil society, journalists, individuals, and companies.
+
+For companies, such roles can take the form of self-regulatory and co-regulatory measures such as commitments to a code of conduct for the industry, and increased transparency around content moderation, use of personal data, and advertisements carried on their platforms.
+
+For civil society, collaborating with stakeholders and holding companies and governments accountable for their actions around content and speech – are important steps needed. In this regard, the millennial generation’s data activism has been noteworthy.
+
+For the fact checking industry in India, greater coordination and standardised approaches could lead to effective collaboration. Co-regulatory standards could evolve a mechanism to coordinate across social media and commercial mass media. A systematic effort to develop a taxonomy of misinformation is important for such standards to evolve.
+
+The overarching approach across these interventions is to ensure legal frameworks stay within constitutional boundaries and avoid heavy-handedness, state regulatory overreach, and arbitrary censorship by companies. It is also important to enhance cooperation between social media companies and civil society, to develop a robust set of community standards that is agile, flexible, and sensitive to evolving tactics on the ground and platform-specific user cultures.
+
+We recognise that each contribution in the series has its own position and insights, which we do not intend to subsume within the editorial framing, or the broader list of suggestions developed in the Agenda for Action, which will form a part of this series.
+
+The line between harmful speech, extreme speech, and unlawful speech can be grey and heavily dependent on contextual understandings. The consequences that extreme speech circulations can have for society and the lives of individuals have already proven to be grave. A concerted coordinated effort spanning civil society, governments and industry is direly needed.
+
+This is the first part of a series on tackling online extreme speech. Read the complete series here.
+
+Sahana Udupa is Professor of Media Anthropology at LMU Munich, Germany. Elonnai Hickok is Chief Operating Officer at the Centre for Internet and Society, India. Edward Anderson is Smuts Research Fellow at the University of Cambridge, UK, and Senior Research Fellow, LMU Munich, Germany.
+
+The articles in the series were first presented at the Internet Speech: Perspectives on Policy & Regulation conference, organised by the University of Munich and the Centre for Internet and Society, in New Delhi, in April 2019. The event was hosted as part of the project www.fordigitaldignity.com, which has received funding under the European Union’s Horizon 2020 research and innovation programme.

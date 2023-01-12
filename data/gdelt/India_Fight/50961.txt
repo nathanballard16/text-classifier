@@ -1,0 +1,61 @@
+Why users are logging out of Twitter and joining Mastodon
+
+Recently, several Twitter users began migrating to the social networking platform after a protest that began with Supreme Court lawyer Sanjay Hegde’s Twitter account suspension, and moved on to a larger conversation about Twitter's policies being allegedly anti-Dalit and certain castes and religion.
+
+If you are on Twitter, chances are you would have seen #Mastodon trending on the microblogging platform on Friday.
+
+If you were wondering what it is, the simple answer is that it is an alternative to Twitter.
+
+Recently, several Twitter users began migrating to the social networking platform after a protest that began with Supreme Court lawyer Sanjay Hegde’s Twitter account suspension, and moved on to a larger conversation about Twitter's policies being allegedly anti-Dalit and certain castes and religion.
+
+While it may be trending, Mastodon is a tad more complex than Twitter, but is built on a completely free and open source code, and is not owned by any single entity or person.
+
+Mastodon is not a single website like Twitter.
+
+There is also no single app that you can download to sign up on Mastodon.
+
+Examples are Tusky for Mastodon, Subway Tooter, Tootle and so on.
+
+The whole concept works on what are called "instances".
+
+So in order to create an account on Mastodon, you will have to first find an instance, for example mastodon.social, imastodon.net or mastodon.xyz.
+
+Once you find that, there is a pretty standard account creation process that then verifies you using the email address that you provide.
+
+The look and feel is pretty similar to Twitter, except that it takes some time to find your way about.
+
+The equivalent of a tweet is called a toot on Mastodon, a retweet is called a boost, one can “favourite” toots (like Twitter had, before it converted favourites to “likes”).
+
+The number of characters per toot is 500, as against Twitter's 280 character limit.
+
+Eugen, the developer of mastodon.social tooted on Friday that 12,900 people joined the mastodon.social instance last week.
+
+There is also no concept of verifying users, so "everyone is equal" is a big theme at Mastodon.
+
+There is also the concept of "local" and "federated" timelines.
+
+Which means broadly, that even if you have an account on the mastodon.social people on another instance may be able to find you and see your posts.
+
+Reporting bad content is also easier and better managed because every instance has a separate admin and a moderation team, along with its own code of conduct.
+
+While users have had issues with how Twitter deals with misinformation and hate speech, this is probably the first time there has been a concerted effort to move away from the platform in India.
+
+"There’s been a lot of discussion this week about Twitter's perceived bias in India.
+
+"To be clear, whether it's the development of policies, product features, or enforcement of our Rules, we are impartial and do not take action based upon any ideology or political viewpoint," Twitter India tweeted on Thursday.
+
+It further said that Twitter's public verification process is closed, but public figures are verified on a case-to-case basis.
+
+A Twitter user however, pointed out that even though Mastodon has been hailed for being open source, which means its code can be seen and modified by anyone, it has also been misused by some elements.
+
+A report by VOX-Pol, a research network, from September this year talks about how the “so-called Islamic State (ISIS) supporters have experimented with Mastodon.
+
+"Increasingly terrorists and violent extremists are building their own software applications and much of this depends on re-using existing code and software that was originally developed under the open-source model and published for everyone to re-use and modify”.
+
+Similarly, developers of Gab, an “alt-right” social media platform, took the source code of Mastodon against the wishes of the Mastodon community and built a platform which has been joined by extremists who were banned from other platforms.
+
+Gab's role came to light in the 2018 Pittsburgh synagogue shooting where the accused Robert Gregory Bowers shot 11 people and injured seven. Bowers had posted anti-Semitic comments on Gab.
+
+In essence, it is too soon to tell if Mastodon will be able to reach the kind of user base that Twitter or other social media platforms have, and also if it will be able to maintain the same level of freedoms as it currently claims to support.
+
+Photograph: Kacper Pempel/Reuters

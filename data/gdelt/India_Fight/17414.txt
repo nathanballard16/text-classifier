@@ -1,0 +1,17 @@
+Indian companies know how to sell data but not how to protect it
+
+Data in India has grown by 130% but nearly one-third of Indian businesses have reported irreversible data loss.
+
+The primary challenge, according to Dell Global Data Protection Index 2018, is the lack of adequate data protection options.
+
+Global Data Protection Index 2018, is the lack of adequate data protection options. Despite the many challenges, nearly half of Indian businesses have found a way to monetize data, which is greater than the global average of 36%.
+
+Advertisement
+
+artificial intelligence
+
+machine learning
+
+Advertisement
+
+The value of data is uncontested with business leaders comparing data to mining oil and governments battling it out to keep data within their boundaries. In India, there was a 130% increase in data in 2018 since 2016, but when it comes to data protection, businesses say that the options in the market are woefully inadequate.Despite the obstacles, businesses in India are ahead of the curve with 47% of them monetizing data compared on a global average of 36%.It’s not that Indian businesses aren’t using vendors to protect their data. In fact, most of them have at least two vendors on board according to Dell’s Global Data Protection Index 2018. But despite vigilance, nearly one-third of the business in India have reported losing data with no way of getting it back.The primary challenge that businesses in India face is that data protection solutions for emerging technologies aren’t available. This is especially true when it comes toanddata where data is integral for technology to learn and grow on its own. Nearly 71% of Indian businesses reported that they weren’t able to find adequate data protection options in the market.Another challenge for Indian businesses is being unable to keep pace with the rapid changes in data storage technology when it comes to protecting and keeping track of data. Only 32% of Indian businesses feel that their technology is ready to take on the challenges of tomorrow while the rest are still looking for future-proof solutions.The complexity of configuring and operating the data protection software is also reportedly strenuous.

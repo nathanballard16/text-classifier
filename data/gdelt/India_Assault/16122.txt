@@ -1,0 +1,99 @@
+Domino: In pursuit of dominance in digital label printing in India
+
+David Ellen, divisional director for digital printing business, Domino says, label printing is about capacity, as it is about uptime and downtime. “If you are not running a press for 95% of the time, then it's not a happy situation.”
+
+In this freewheeling conversation, Ellen talks about the advantages of Domino’s digital technology, as well as its ink. “Our ink technology is very different. I'm not saying it's perfect for everything. But if you're going to be printing labels that have to last, then our inks are perfect.”
+
+Noel D'Cunha (ND): When we talk to the labellers, one of the most critical topics is: how to maintain margins?
+
+David Ellen (DE): The brand owners want more, but they don't want to pay any more. They want to spend less. It's a competitive market, and therefore margins are on the stress. The squeeze is on the label manufacturers. And consequently, they have to find a way to improve those margins or bring them back to earlier levels. It's a simple business. You want to make money out of what you're providing. But if you offer the same thing as everybody else, then it's all about price. If you differentiate yourself from your competition, then it's less about price, because you're bringing real value to the brand owner, or the customer. Real value means that you can improve your margins.
+
+ND: So, you would have guessed what my next question is. How does digital deliver that?
+
+DE: Well, if you're using a flexo press, and you're printing thousands or millions of labels, and your competitor has the same flexo presses, there's going to be a price war. But if you have a digital press, and the brand owner wants to reduce his inventory; he wants to deliver the product to the supermarket or the end-user quickly; he wants to differentiate his product on the shelf or wherever it's going; he wants to provide some security in that label, to be able to track it, and also to use the digital technology to target different parts of the populace, gender, or which demographic does he want to go to, then digital gives you that advantage over a regular analogue press.
+
+ND: But HP, among other digital press manufacturers, has been in digital for a long time. They've got a specific electrophotography technology, and they've filled the gap of digital better than competitors, Domino included.
+
+DE: They've done that, but their technology has a limit.
+
+ND: What are the limits?
+
+DE: If you look at the last three presses, the HP Indigo 6700, 6800 and 6900, electrophotography technology does not allow these machines to go faster. It's simple, it's a technology based on offset process, high quality, but if you are running a seven-colour print job, you will be running it at around 67-ft a minute. With Domino N610i, you can run seven-colour upwards of 160 feet a minute, and with white. And if you're not running white but a white substrate, you can run up a speed of up to around about 245 feet a minute. That's a big difference, a completely different business model.
+
+
+
+Domino N610 digital press
+
+ND: HP's installation base is huge since they have been selling for a long time. But that market leadership is being attacked by the UV jet business model. Is that what you are telling me?
+
+DE: There are 80 Domino presses in the US, and many of those customer had purchased HP presses. So, why did they buy Domino presses, is the question?
+
+ND: Please tell me.
+
+DE: I have already mentioned this. If the label manufacturers have to run their jobs on a flexo press that takes long makeready time than it makes the process viable. And these are jobs that are too big to run on an HP because of the speed. You can't get the capacity through. The Domino N610i fits in between both of those technologies. There are jobs you can take off the flexo press, and put it on the N610i because of the speed and the capacity. As for someone who wouldn't be able to finish the on their HP press, that can be produced on our press. So it fits very nicely and gives a different business model.
+
+ND: What about the running costs?
+
+DE: Running costs are about the same. We have an ROI tool. I can't make a generic statement because it's all down to testing the label and colours. HP uses a frame, which means you have a click charge per frame. With Domino, there is no frame. So you pay a volume cost depending on how much ink you use.
+
+ND: Labels are a lot of decoration and foiling and other kinds of work. There are digital presses that can print with metallic inks or low migration inks. How does this work on the Domino presses?
+
+DE: So we can print on metallic substrates and things. I think we can print on a wider range of substrates without priming. This is not a luxury with some of our competitors.
+
+ND: What are the options, from a Domino point of view?
+
+DE: If you want to do embellishment, then you've got two options. The first option is to use this digital asset and print roll-to-roll and then take it offline and embellish on the finishing line. Or you can have a hybrid press, like an embellishment inline.
+
+You must have seen, we have the standalone digital press, N610i as well as the hybrid press, MPS EF SYMJET flexo press, a 17-inch press, built with the standard MPS EF platform and an integrated Domino digital N610i inkjet printer. But it’s not for Domino, to tell the customer what they should buy. Some people do that because they only have one choice, we have three choices.
+
+ND: More and more labellers are moving to flexible packaging, issues like low migration are being tackled. Are there any inkjet constraints here?
+
+DE: Inkjet technology is not the ultimate panacea for everything. So if you look at electrophotography, they have an advantage over using the jet, which has migration issues.
+
+ND: In what way?
+
+DE: At the show, we are showing Nestle compliant ink, which means if you have a specific substrate, and you use the ink, you don't have migration issues. So that's how UV inkjet is moving closer to flexible packaging.
+
+ND: Walking across the Labelexpo Europe 2019 stand, one can see the wider flexo presses. It's the same with digital presses, wider width and larger repeat length.
+
+DE: The width is not a problem. We already have wider presses. We have just not brought them to certain marketplaces, but we have sold probably 20-25 wider presses worldwide.
+
+ND: Water-based ink or UV-based inks?
+
+DE: I would say, if you're selling into markets that are durable labels, UV is the all-new way to go. If you stay with the water-based, you've got to laminate over the top of whatever. And the light, fast capabilities are still not there. Our inks performance on the Bluewood scale for lightfastness is eight for every colour. So, our ink technology is very different. I'm not saying it's perfect for everything. But if you're going to be printing labels that have to last, then our inks are perfect.
+
+ND: We talk about value, adding to the product. But the most important thing is to add value to the pocket?
+
+DE: I am a big believer of that, and it is doable. If a labeller has a conventional press and is doing the same job as his competitor, it's a race to the bottom.
+
+ND: Quite true.
+
+DE: So my pitch to our customers is: have a different press from the competitor, and ensure you can sell differentiation. We can reduce our customer's inventory cost. We can deliver value which he can sell value to his customer and get a better price.
+
+ND: How?
+
+DE: He can sell personalisation, consistency of colour, and speed to market. These are different things. The value to the pocket can come from savings on plate cost and minimal makeready times.
+
+ND: Label printing is about capacity, as it is about uptime and downtime ...
+
+DE: You are right. If you are not running a press for 95% of the time, then it's not a happy situation. When a customer opens up our machine, he asks what am I paying for, there's a lot of air inside. The most important part is the printheads. So I would say, the more manual intervention you have in the printhead, the worse it is. All our competitors have manual cleaning, which takes about 30 minutes. We have an automatic feature that cleans the heads every morning at the press of a button. Nobody has to do it with rags. Just add to the capacity against other inkjet users in that area. The more times you manually clean these heads, the more issues you have. Therefore, we have much more uptime. And that's why people buy Domino instead of the rest of the inkjet.
+
+
+
+Domino N610i Hybrid Press
+
+ND: Why are they buying Domino in India?
+
+DE: I will answer your question differently. In the United States, digital UV inkjet was not accepted five years ago, now it is the norm.
+
+ND: I see. And the reason is?
+
+DE: Inkjet is a new concept in the market. Even Domino entered into digital printing in India about 18 months ago. By providing the steps that we are taking, we are committed to this market. We have built a team which will support the customers. Even without a local business, we had customers like Manipal and Pragati running our monochrome system, which runs at higher speeds.
+
+ND: One reason could be that those entering digital printing do not necessarily know the correct business model you talk of, hence need help...
+
+DE: So Domino provides a program called Digital Solutions. It's a comprehensive programme that helps the customer understand the technology. We train their sales force, help them understand the difference in selling labels produced on flexo versus labels produced digitally. We have a training programme for operators on colour management and getting the consistency of the product all the time. So we have this program that covers all the aspects. We don't want to sell one press, we want to sell 20 presses.
+
+ND: So, when will the first of the 20 machines arrive in India?
+
+DE: I would say sooner rather than later. But I cannot give you a date.

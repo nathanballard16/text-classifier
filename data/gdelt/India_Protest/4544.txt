@@ -1,0 +1,11 @@
+YouTube to Unleash New ‘Hoax Alert!’ Fact-Checking Feature
+
+A YouTube spokesperson told BuzzFeed that “[a]s part of our ongoing efforts to build a better news experience on YouTube, we are expanding our information panels to bring fact checks from eligible publishers to YouTube.” While this was originally launched to combat serious and malicious misinformation in places like India, there is concern that it will be weaponized in the future.
+
+As of now, the feature is currently only available in India, which is one of YouTube’s largest markets. India has struggled with the spread of genuinely malicious misinformation, which has caused mob violence and other havoc there. The New York Times cited one particular example where a Pakistani public service announcement about kidnappings was edited to make it look like footage of an actual kidnapping taking place. This sparked a wave of violence in the developing country, where many users are new to the informationally hazardous world of social media.
+
+When the YouTube representative spoke to BuzzFeed, they used a screenshot of an information panel written in Hindi, demonstrating how the program works. This information panel debunked the fake news that an attack took place against Indian paramilitary troops. The footage in question was actually an explosion in Syria.
+
+The threat of fake news is also especially potent because of the upcoming national elections in India this Spring, something which multiple big tech companies have allied to combat. Facebook India News Partnership head Manish Khanduri commented that they “now have seven partners across the country covering six languages, who will review and rate the accuracy of stories on Facebook.”
+
+What makes this an issue however, is the slippery slope. YouTube has already demonstrated its willingness to demonetize right-wing commentators as well as crack down on videos it deems as misinformation in the West. It has also mistakenly flagged satire videos as hateful propaganda. Like many big tech controversies, the question remains: who will fact-check the fact checkers?

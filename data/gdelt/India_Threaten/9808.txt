@@ -1,0 +1,47 @@
+HDFC warns against online banking fraud: Hereâ€™s all you need to know
+
+New Delhi:
+
+Do you use mobile phones for online money transactions, then you must carefully read this news. HDFC Bank, one of India's leading private sector bank, has recently issued an advisory to all online banking users about a new scam in which fraudsters are stealing hard earned money via UPI.
+
+According to the HDFC, in this scam, the fraudster aims to gain unauthorized access to a victim's mobile device through remote device control apps like AnyDesk.
+
+Previously, the Reserve Bank of India (RBI) had also issued a similar warning but it seems more people are falling for the same. In a recent advisory, the RBI has advised that while apps like AnyDesk asks for regular privacy permissions, it is capable of acquiring full access to your smartphone remotely and would let fraudsters carry out banking transactions remotely.
+
+Here’s how online banking fraud via UPI is being executed:
+
+Fraudster will call you as a bank representative draw your attention.
+
+In order to fool you, fraudster makes call appear genuinely from the bank. The fraudster will verify your personal details submitted to the bank like name, date of birth and mobile number.
+
+Moving ahead, the fraudster will inform you that your mobile banking app is having some problem and will further offer solutions to fix the issues.
+
+Fraudster will try to make you get panicked by saying your card, mobile banking will get blocked or something similar.
+
+Fraudster will try to convince you to download an app to solve ‘the problem’. This app could be ‘AnyDesk’ or other similar remote device control app.
+
+After you download the AnyDesk or similar app, it will ask for privacy permissions like any other regular app.
+
+Now when the app gets all permissions required, the caller starts to take full control of your phone without your knowledge.
+
+After getting full access to your phone, a hacker steals passwords and transact with your UPI account.
+
+How to avoid getting trapped:
+
+Online banking users are advised to not to attend such calls or disconnect it immediately as no bank official personally call users to fix any issues.
+
+Avoid sharing bank accounts details over the phone.
+
+If you have any doubt or issues, prefer visiting the bank branch.
+
+In the meantime, Anydesk reached out to NewsNation saying that the software is trustworthy. In an email conversation, the company said, "AnyDesk incorporates high security software that is trustworthy, and used by millions of individuals, as well as by 17,000 companies in 165 countries. It’s is extremely protected software, and it is an excellent tool for IT experts working on remote devices without being on-site. AnyDesk uses banking-standard TLS 1.2 technology to protect users’ computers, as well as RSA 2048 asymmetric key exchange encryption to verify every connection."
+
+Anydesk further said, "Users need to be very vigilant online and treat their access codes in the same way they do their personal data and possessions. In order to share access codes safely, users should give extremely careful consideration to the person asking for private information."
+
+"Fraud can only be possible if the user grants someone access to their device. We continually remind our users that they should only share access codes with people they know. If someone claiming to be from an institution contacts them, they should call the institution directly, and check whether the request is legitimate. Moreover, AnyDesk’s users have the opportunity to report any fraud-related incidents and sessions to our team, so we can permanently block scammers’ access rights to the software," it said.
+
+"We have also developed an extra security measure for users during their first incoming session: a message is displayed explaining what users should look for to ensure a fully secure remote session, and reminding users not to share personal access codes with anyone they do not know. We are also sharing security messages through our social media channels. Scammers can be very creative, so we have taken on the responsibility of educating online users, and we communicate regularly with our audience to help them avoid fraud," Anydesk noted.
+
+"The safe and secure use of our leading software application is a top priority for AnyDesk," it concluded.
+
+For all the Latest Business News, Download News Nation Android and iOS Mobile Apps.

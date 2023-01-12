@@ -1,0 +1,55 @@
+RBI offers lenders a leash to tackle bad loans
+
+Titled as 'Prudential Framework for Resolution of Stressed Assets by Banks', the RBI circular is available in public domain. The major difference in the new policy is lenders can review delays in accounts within 30 days instead of the previous 1 day norm. Also, the new circular allows lenders to categorise delays in revolving credit facilities like cash credit to a special mention account.
+
+The Reserve Bank on Friday issued a new circular suggesting lenders ways and means to tackle bad loans. The previous one [RBI's Feb 12 2018 circular] was struck down by Supreme Court which called it 'ultra-vires' during a case hearing on 2nd April this year.
+
+The new policy speaks about the formation of a inter-creditor agreement in case of the implementation of a resolution plan. The RBI in its new circular, says, "the ICA shall provide that any decision agreed by lenders representing 75 per cent by value of total outstanding credit facilities (fund based as well non-fund based) and 60 per cent of lenders by number shall be binding upon all the lenders. Additionally, the ICA may, inter alia, provide for rights and duties of majority lenders, duties and protection of rights of dissenting lenders, treatment of lenders with priority in cash flows/differential security interest, etc. In particular, the RPs shall provide for payment not less than the liquidation value due to the dissenting lenders."
+
+Previously it was assumed that the resolution plan could have been approved by 100 percent approval.
+
+Lenders can also make additional provisions if Resolution Plan (RP) are not implemented within stipulated time period. Lenders can add 20% as additional provision as a percentage to the total outstanding if RP is delayed over 180 days from the end of review period. Total additional provisioning of 35% can be added by lenders if the timeline is 365 days from review period.
+
+The RBI has also asked lenders to devise a resolution plan before the default. Lenders have also been expected to submit weekly report of instances of default by all borrowers with aggregate exposure of Rs 5 crore and above.
+
+Some of the key highlights of the circular are as follows:
+
+1. Categorisation of Special Mention Accounts: The RBI has asked lenders to recognise incipient stress in loan accounts, immediately on default, by classifying such assets as special mention accounts. The regulator has classified SMA into further categories depending upon the delay in payment towards principal or interest. SMA-0 for delay between 1-30 days, and SMA-1 for 31-60 days, and SMA-2 for 61-90 days. Lenders can also the classifications for reporting delays in revolving credit facilities such as cash credit.
+
+2. Weekly and Monthly Sharing of Credit Information: "lenders shall report credit information, including classification of an account as SMA to Central Repository of Information on Large Credits (CRILC), on all borrowers having aggregate exposure of Rs 50 million (Rs 5 crores) and above with them. The CRILC-Main Report shall be submitted on a monthly basis. In addition, the lenders shall submit a weekly report of instances of default by all borrowers (with aggregate exposure of Rs 50 million and above) by close of business on every Friday, or the preceding working day if Friday happens to be a holiday."
+
+3. Resolution Plan before default: "All lenders must put in place Board-approved policies for resolution of stressed assets, including the timelines for resolution. Since default with any lender is a lagging indicator of financial stress faced by the borrower, it is expected that the lenders initiate the process of implementing a resolution plan (RP) even before a default."
+
+4. Formation of an Inter Credit Agreement: In cases where RP [Resolution Plan] is to be implemented, all lenders shall enter into an inter-creditor agreement (ICA), during the above-said Review Period, to provide for ground rules for finalisation and implementation of the RP in respect of borrowers with credit facilities from more than one lender. The ICA shall provide that any decision agreed by lenders representing 75 per cent by value of total outstanding credit facilities (fund based as well non-fund based) and 60 per cent of lenders by number shall be binding upon all the lenders. Additionally, the ICA may, inter alia, provide for rights and duties of majority lenders, duties and protection of rights of dissenting lenders, treatment of lenders with priority in cash flows/differential security interest, etc. In particular, the RPs shall provide for payment not less than the liquidation value due to the dissenting lenders.
+
+5. 30 day observation period: " In any case, once a borrower is reported to be in default by any of the lenders mentioned at 3(a), 3(b) and 3(c), lenders shall undertake a prima facie review of the borrower account within thirty days from such default (“Review Period”). During this Review Period of thirty days, lenders may decide on the resolution strategy, including the nature of the RP, the approach for implementation of the RP, etc. The lenders may also choose to initiate legal proceedings for insolvency or recovery."
+
+6. Stringent Action for Evergreening of Stressed Accounts: "Any action by lenders with an intent to conceal the actual status of accounts or evergreen the stressed accounts, will be subjected to stringent supervisory / enforcement actions as deemed appropriate by the Reserve Bank, including, but not limited to, higher provisioning on such accounts and monetary penalties."
+
+Evergreening refers to a concept that involves banks extending loans to existing borrowers to help them repay their debts.
+
+7. Reference Dates:On accounts with aggregate exposure above a threshold with lenders, resolution plan to be implemented within 180 days from review period end. The reference date for aggregate exposure of borrower of Rs 2,000 crores and above has been fixed at the day of the revised circular.
+
+8. Restructuring Norms: Based on the basel committee guidelines, the RBI has mentioned a list six signs of financial difficulties to enable banks to detect financial difficulties and offer a restructuring of loans.
+
+9. Wilful defaults: "Borrowers who have committed frauds/ malfeasance/ wilful default will remain ineligible for restructuring."
+
+10.Existing Cases:The RBI clarified in its latest framework saying, "shall not be available for borrower entities in respect of which specific instructions have already been issued or are issued by the Reserve Bank to the banks for initiation of insolvency proceedings under the IBC. Lenders shall pursue such cases as per the specific instructions issued to them."
+
+The detailed circular can be viewed from the RBI's website. Click this link to visit that page. The old February 12, 2018 circular can be viewed by clicking here.
+
+A new leash is expected to get lenders including banks some control on non-performing assets. RBI expects the current circular will help "sustain the improvements in credit culture that have been ushered in by the efforts of the Government and the Reserve Bank of India so far and that it will go a long way in promoting a strong and resilient financial system in India."
+
+Piyush Goyal, the Minister for Railways too shared similar views on twitter.
+
+The new RBI circular for Resolution of Stressed Assets will be a relief to businesses facing temporary financial issues, empower lenders to take decisions, improve credit availability in the economy & protect jobs, thereby boosting the economy. — Piyush Goyal (@PiyushGoyal) June 7, 2019
+
+Bad loans, wilful defaulters, non-performing assets have all been reasons that have stunted the growth of banks in the country. As on March 31 2018, bad loans accounted for some 10.35 lakh crores. Failure of banks in recovering their rightful dues projects a worrying credit culture.
+
+Previously, the Supreme Court's April 2 order raised questions over the fate of about power, sugar and fertiliser companies. These companies conceded that their prices were regulated by the government and not being paid on time resulted in their inability to pay banks on schedule. The companies also said that they were not wilful defaulters and cannot be treated as such.
+
+The Supreme Court in the case observed, "It is clear that the RBI can only direct banking institutions to move under the Insolvency Code if two conditions are specified, (i) that there is a Central government authorisation to do so; and (ii) that it should be in respect of specific defaults. The Section, therefore, by necessary implication, prohibits this power from being exercised in any manner other than the one set out in Section 35AA", said the judgement.
+
+The one major question that the new circular faces is whether it will pass the legal test.
+
+You can share your thoughts in the comments section.

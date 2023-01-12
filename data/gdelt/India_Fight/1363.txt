@@ -1,0 +1,51 @@
+Sonata takes full control of SaaS platform Rezopia; Japan’s GMO backs ePayLater
+
+Sonata Software North America Inc., a wholly-owned subsidiary of BSE-listed Sonata Software, has fully acquired the remaining stake in California-based Rezopia Inc., a cloud-based software-as-a-service travel IT solutions firm for $300,000, as per a public disclosure.
+
+With the acquisition, Sonata will further invest in developing and marketing Rezopia’s products and services, the disclosure added.
+
+Rezopia is a cloud-based end-to-end travel reservations, contracts, operations and distribution management platform for travel providers. It allows travel companies to gain flexibility, faster time to market and lower total cost of ownership in meeting customer needs with its cloud-based SaaS travel IT solutions.
+
+In 2014, Sonata Software had acquired 60% of the controlling stake in Rezopia for an undisclosed amount.
+
+Sonata Software is focused on solutions for travel, retail and consumer packaged goods verticals by integrating technologies such as omnichannel commerce, mobility, analytics and cloud.
+
+Fin-tech startup ePayLater raises pre-Series A funding
+
+Mumbai-based mobile payments startup ePaylater has raised pre-series A capital in a round led by private sector lender ICICI Bank, a company statement said.
+
+The round also saw participation from GMO Global Fintech Fund, the investment fund of Japan’s GMO Internet Group, the family offices of Parekh and Patni, and foreign investors from the UK.
+
+Last year in July, VCCircle reported that ICICI Bank had invested Rs 8.72 crore ($1.2 million) in ePaylater to buy a minority stake as part of its push into the fintech sector.
+
+With the recently raised money, ePayLater plans to ramp up its technology architecture and strengthen its product. The company had raised $2 million in an angel round of funding in 2016.
+
+ePaylater, operated by Arthashastra Fintech Pvt. Ltd, was founded in December 2015 by Aurko Bhattacharya, Prasannaa Muralidharan, Uday Somayajula, Shanmuhanathan Thiagaraja and Akshat Saxena.
+
+The company gives customers the option to ‘buy now and pay later’ on online shopping portals with just one click. They get 14 days to make the payment. Within that period, they can make more transactions via single-click checkouts and can bunch them all together to make a single payment at the end of the period.
+
+The startup uses an algorithm to understand a customer’s credit history and buying patterns on e-commerce platforms, digital footprint and device information based on which a credit limit is assigned to a customer.
+
+Security firm Sophos acquires Avid Secure
+
+British cybersecurity firm Sophos on Thursday said it bought cloud infrastructure security company Avid Secure to expand protection for the public cloud environment, a company statement said.
+
+Avid Secure offers an artificial intelligence-based cloud security analytics, compliance, and DevSecOps platform to provide effective end-to-end protection on public cloud services such as AWS, Azure and Google.
+
+The platform processes millions of metrics in real-time, applying AI models to detect unauthorised and malicious behaviour.
+
+“With the cloud workload protection and the cloud security posture management software from Avid Secure, Sophos will expand its current capabilities in cloud security and drive leadership in this growing space,” said Dan Schiappa, senior vice president and general manager of products at Sophos.
+
+Sophos develops a portfolio of endpoint, network, encryption, web, email and mobile security solutions.
+
+Last year in August, the UK-based company launched a new security measure for servers called Intercept X, which is equipped with predictive deep learning technology that provides constantly evolving security against cyber threats.
+
+Intercept X is designed to tackle unknown malware attacks. The company’s deep learning neural networks, which powers the solutions, are trained on millions of samples to identify malicious code.
+
+Concierge service provider 27Mantraa raises angel round
+
+Thanjavur-based spiritual concierge service provider 27Mantraa has raised an undisclosed amount of funding from a group of angel investors, a company statement said.
+
+The company will use the money to develop its technology, build teams across India and will also launch offline outlets through a franchise model. It will also offer merchandising products such as hand-crafted Pooja Mandirs under its own label ‘27 Mantraa’.
+
+27Mantraa’s service offerings range from remedy pujas and homams, e-archanai, spiritual yatras, spiritual trails and e-prasad services for receiving holy prasad from religious places around the country, the statement added.

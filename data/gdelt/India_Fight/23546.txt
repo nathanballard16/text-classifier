@@ -1,0 +1,31 @@
+View from India: Wi-Fi reaches places beyond the traditional IT space
+
+An interesting story unfolds in 'Village India', as the country’s digital journey connects millions of people in the villages and towns. Hectares of land and billions of devices connect and the frontiers of Wi-Fi expand as it facilitates every connection.
+
+The village evolution is a journey that’s being enabled by telecommunications.
+
+“The evolution broadly speaking can be understood in three phases, beginning with Village 1.0, when the telegraph postal system was introduced over a century ago. Better connectivity happened with Village 2.0, where the STD system of making outstation calls came to be introduced around 1985,” said Santanu Ghose, director (India), Aruba.
+
+STD (subscriber trunk dialling, aka subscriber toll dialling), means subscribers can dial trunk calls without operator assistance. With this, came village connectivity. Sam Pitroda, an Indian-born telecoms engineer-inventor-entrepreneur is credited with building the Indian information industry.
+
+This led to the extension of digital telecommunications to every corner of the country. Pitroda worked with the then Prime Minister Rajiv Gandhi to establish the Center for the Development of Telematics (C-DOT). It manufactured digital switches and systems that ushered in a new era of communication for rural and urban India. This kicked off the telecom revolution in India. Villages may not have had electricity for several hours, yet its people managed to communicate through phone calls.
+
+Village 3.0 - the third and current stage of evolution - is Wi-Fi connectivity for all villages. ‘BharatNet’, the Government of India’s (GoI) flagship programme under ‘Digital India’, aims to provide high-speed broadband connectivity to 250,000 gram panchayats in the country. Described as the world’s largest rural connectivity project, BharatNet is envisioned to transform India into a digitally empowered society. It aims to offer high-speed broadband for 2.5 lakh gram panchayats. Gram Panchayats are the local self-government institution at the village level, whose head is the focal point of contact between government officers and the village community.
+
+Moving beyond the village scenario, Wi-Fi has made its way into many other non-IT zones. It has found some interesting uses in Haridwar, a Hindu pilgrimage site in North India. It turns out that families perform rituals in Haridwar and use Wi-Fi to screen it back to their extended family members at home.
+
+Likewise, the 2019 Kumbh Mela, or the festival of the sacred pitcher, is rooted in Hindu mythology and has been is one of the best and largest tech-driven events this year. Held between January 15 and March 4 2019, this year it is reported that over 20 crore devotees have taken a holy dip in the Sangam or the confluence of the sacred Rivers Ganga, Yamuna and Sarasvati.
+
+Telecom companies have come forward with a suite of initiatives such as family locator, telecast of special events and news alerts of the event. Besides mobile apps, there were 4,000 hotspots with high-speed Internet and 1,400 CCTV cameras have been installed. Wi-Fi tags were distributed to pilgrims. While the Mela area was lit by more than 40,700 LED lights, over 2,000 digital signs helped in traffic management.
+
+Besides making inroads into traditions and customs, Wi-Fi is sought after for its surveillance capabilities. Wi-Fi trackers can be leveraged to monitor the movement of goods, besides tracking passenger movement in airports and labourers in construction sites. It can also trigger alerts during an emergency.
+
+“GoI plans to set up high-definition (HD) surveillance cameras in public places. When this vision materialises, it will become an opportunity for surveillance companies. Analytics companies can also convert existing 2D data to 3D data,” explained Ghose. Given the scale and reach of GoI, it’s going to be a huge opportunity for them.
+
+Wi-Fi is also gaining a foothold in urban public spaces. Mumbai made the news as it became the country’s first city to have Wi-Fi connectivity in 500 hotspots, such as at tourist spots, railway stations, important junctions and educational institutions. After a long development, Mumbai’s Wi-Fi spots finally became a reality in 2017.
+
+What makes urban Wi-Fi different from rural Wi-Fi is that it’s a commercialised platform that generates ad revenues. In rural India, Wi-Fi is only meant to serve its single purpose: providing greater connectivity.
+
+India is being described as the ‘Idea Economy’, a sobriquet it has earned due to the growing community of entrepreneurs, largely represented by the Millennial generation. They have out-of-the-box thinking and prefer to stand out by themselves. Understandably, this mindset has given an impetus to co-working spaces, where users are provided a network like the office space and charged by the hour and the desk they occupy. The same access point can be authenticated in the co-working delivery network. So Wi-Fi connects easily.
+
+Wi-Fi has other applications, too. India is among the most litigated communities in the world. Paperwork is cumbersome, which is why a digitised synopsis of legal cases is coming up on the web. A network is being created for the same. Ultimately, it’s a strong network ecosystem that’s required to make systems and processes work.

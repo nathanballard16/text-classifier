@@ -1,0 +1,113 @@
+Scientists Create Genetic Code From Scratch for the Win, But Will We Always Win?
+
+A culture of Escherichia coli in a petri dish doesn’t look like much. To the naked eye, these gut bacteria are white blobs, the kind of thing you would expect to find after neglecting your lunchbox for a few days.
+
+However, these unassuming microbes have been the subject of intense research in the fields of genetic engineering and synthetic biology. By tinkering with their genetic code, scientists around the globe are working towards solving big problems that baffle us – from cancer treatment to the climate emergency.
+
+Earlier this month, in a supposedly landmark achievement, a team led by Jason Chin, a molecular biologist at the University of Cambridge, reported successfully creating the first set of E. coli bacteria with a completely synthetic and radically altered genetic code.
+
+Also read: How a Rogue Chinese Experiment Might Affect Gene-Based Therapies in India
+
+This means all of this E. coli‘s DNA has been created from scratch. Chin and his colleagues at England’s Medical Research Council Laboratory of Molecular Biology used a computer program to write the code, which they have claimed is more ‘efficient’ than the one found in naturally occurring E. coli.
+
+Then they ordered the DNA building blocks that would physically make up this genetic sequence from a supplier. These parts were used to replace the original genetic code with the lab-made version.
+
+Wait, what?
+
+DNA is the literal stuff of life. It’s what encodes your genes and determines a lot about you, from your eye colour to your predisposition to mental illnesses. The set of all your genes taken together is called a genome.
+
+Every cell in the human body contains the complete set of genes that make up your genome. Your genes are located along the 23 chromosomes in these cells and encoded by deoxyribonucleic acid, or DNA.
+
+In effect, DNA is the molecule that carries all your genetic information. It is made of smaller components called nucleotides. The molecular stores and transmits information through its two nucleotide strands that wrap around each other to form a double helix.
+
+And if you think of the DNA double helix as a spiral staircase, then each step is a hydrogen bond that connects nitrogenous bases on either strand with each other.
+
+There are four kinds of bases: cytosine (C), guanine (G), adenine (A) and thymine (T). The order of these bases along a single strand of DNA makes up the genetic code.
+
+To go with an imperfect writing analogy, if chromosomes make up a sentence, the genes along the chromosomes are the words making up that sentence. And your DNA is the alphabet, with the A, T, G and C as its only letters.
+
+This alphabet is read in sets of three, called codons. Individual codons code for specific amino acids and a sequence of amino acids form a protein. Proteins are what carry out all the functions of life. For example, the AGC codon codes for the amino acid called serine.
+
+The genetic code is universal, meaning all organisms on earth use the same code for the most part. It’s also kind of wasteful, meaning multiple codons code for the same amino acid. For example, serine is also coded for by TCG and TCA.
+
+Why bother to rewrite code?
+
+There are 20 naturally occurring amino acids. If nature were efficient, it would use 20 codons for 20 amino acids, and one more codon for ‘stop’. Since this is not the case, scientists like Chin have been ‘recoding’ the genetic dictionary to create a more efficient code.
+
+Here, the redundant codons are replaced by codons that can be assigned new functions. So a cell with a recoded genome could potentially be used like a factory to produce useful enzymes and proteins.
+
+Chin and his team replaced every occurrence of the serine codon TCG with AGC; every TCA with AGT; and every TAG (the ‘stop’ codon) with TAA. In all, there were 18,214 replacements.
+
+“There are many possible ways you can recode a genome, but a lot of them are problematic: the cell dies,” Chin told STAT News. Supposedly synonymous codons sometimes make proteins with characteristics that kill the cell.
+
+Also read: How Viruses Engineer their Way to Bringing Disease, and Also Life
+
+He calls the resulting line of E. coli Syn61 for the number of codons it uses, as reported in a peer-reviewed paper. Instead of the standard 64 codons overall, his redesigned E. coli uses 51 codons to make all 20 amino acids and two ‘stop’ codons instead of three.
+
+Syn61 grows to be a little longer than E. coli usually are and also grows much slower. Otherwise, it seems to be doing just fine.
+
+This is the largest synthetic genome ever created. It is also the most number of coding changes that have been made to a genome thus far, Tom Ellis, a synthetic biology researcher at Imperial College London, told The Guardian.
+
+In 2010, a geneticist named Craig Venter and his team had assembled the entire genome of the Mycoplasma mycoides bacteria through recoding. Scientists have also synthesised two of the 15 chromosomes making up the genome of a strain of baker’s yeast.
+
+However, compared to Mycoplasma‘s 1.08 million base pairs and the yeast chromosome’s <1 million, E. coli is in a league of its own with 4 million base pairs. This is what makes the creation of Syn61 such a big deal.
+
+The recoded genome is also more likely to be resistant to viruses.
+
+Remember how the genetic code is universal? This has traditionally meant that organisms are susceptible to viral infections. But with Syn61’s novel genetic code, Abhishek Chatterjee, a chemist at Boson College who reviewed Chin’s paper for Nature, told STAT this problem could be avoided.
+
+“Recoding DNA could also allow scientists to program engineered cells so their genes won’t work if they escape into other species,” Finn Stirling, a synthetic biologist at Harvard Medical School, told the New York Times.
+
+The revolution will be synthetic
+
+The hope is to use synthetic biology to make living factories out of these hybrid organisms. From cancer treatments to producing biochemicals at an industrial scale, scientists are dreaming big. And they aren’t entirely misguided.
+
+As of 2013, the antimalarial drug artemisinin has been produced at industrial scale from yeast, sidestepping the costly process of isolating it from the Chinese sweet wormwood plant. In 2016, a new immune cell engineering treatment yielded a 50% remission rate in blood cancer patients who were terminally ill.
+
+Modern Meadow, a biotech company, has been trying to develop a sustainable alternative to leather with properties and texture similar to animal-derived leather.
+
+Also read: How an Ancient Chinese Text Fought Malaria and Won a Nobel, While India Lags Behind
+
+Further efforts to produce alternative biofuels from algae are on through a collaboration between ExxonMobil and Synthetic Genomic Inc. ExxonMobil anticipates that 10,000 barrels of algae biofuel per day could be produced by 2025 based on research conducted till date and emerging technical capacity.
+
+Of course, it’s weird to see ExxonMobil’s name here. This is the same company that plans to pump 25% more oil and gas in 2025 than in 2017. It’s also currently being sued for funding efforts to deny climate change despite being aware of the impact of using fossil fuels as early as 1977.
+
+However, nothing speaks louder than money and ExxonMobil is very familiar with Earth’s online climate catastrophe, and how this is already leading to divestment from ‘dirty energy’ like coal. So it only makes sense that it would invest in clean energy.
+
+In fact, a lot of this sort of biofuel research is backed by the oil industry. These corporations also receive millions in taxpayer money, which has drawn the ire of environment activists who say oil companies shouldn’t be rewarded for putting profits ahead of human health and the environment. Diverting investments away from proven clean technologies like wind and solar energy is wasteful, they say.
+
+Significantly, the UN has called for restraint and caution when it comes to synthetic biology.
+
+Life-forms like Syn61 have the potential to create an entirely new set of problems. They could turn into invasive species that evict or destroy indigenous species in the natural environment, threatening biodiversity and public health.
+
+“Misuse of these technologies and failure to account for unintended consequences could cause irreversible environmental damage,” Pinya Sarasas, an environment specialist, wrote on the UN Environment page. “The potential far-reaching impacts of synthetic biology demand governance methods and research guidelines that promote its ethical and responsible use.”
+
+This would require stringent risk assessment; administrators must include diverse stakeholder perspectives when developing and handling new synthetic biology products.
+
+Such perspectives are key in India. In the last five years of Bharatiya Janata Party (BJP) rule, government measures amending the Forest Rights Act and other instruments protecting the rights of Adivasis and forest dwellers have paralleled corporate land-grabs by large corporations.
+
+A second BJP term has civil society groups up in protest because of this government’s history of indifference to the climate emergency – giving the go-ahead to deforestation for ‘ease of business’ through coal-mining and construction, e.g. – while investing in solar energy.
+
+It is a self-defeating and farcical approach but more importantly it shows up an important way in which India is not prepared to deal with more radical solutions to the climate problem.
+
+Also read: Why Did Modi Win the UN’s Champions of the Earth Award?
+
+Still, there is no denying that the potential of synthetic biology has drawn eager investors. In 2018, a record 98 companies drew $3.8 billion (Rs 26,400 crore) in funding, and this is unlikely to slow anytime soon. By 2020, the synthetic biology component market is expected to approach $40 billion.
+
+Another development has been the emergence of DIY biology groups and initiatives like iGEM. Simple protocols found online and specialised kits have driven this movement’s rapid expansion. In 2017, there were about 168 DIY bio groups worldwide.
+
+There are thousands of interchangeable DNA building blocks held in various databases, such as the public one run by the BioBricks Foundation, used in the annual international iGEM synthetic biology competition.
+
+Back to the future
+
+So Syn61 is a landmark achievement, and synthetic biology is flush with money and interest. Experts say it is poised to be the new industrial revolution. The thing is, we know where both brought us – to late capitalism, soaring student-loan debt, unaffordable home-ownership and an agrarian crisis marked by decades of farmer suicides.
+
+There are both models of research and development: the open source one favoured by international movements like iGEM and the BioBricks Foundation, and the one based on patents characterised by big corporates making commercial products like drugs and food ingredients.
+
+In the 1990s, Venter pitted his former company Celera Genomics against a publicly funded initiative to sequence the human genome, the Human Genome Project.
+
+This led to concerns that the company might claim intellectual rights to the building blocks of life. Given this precedent, we should definitely temper the enthusiasm about synthetic biology with very real concerns.
+
+But with the influx of money, it seems very likely that we will have a breakthrough superseding Syn61 very soon. Whether this will be in service of Big Pharma or in public interest remains to be seen.
+
+Riddhi Dastidar is a journalist and gender studies scholar at Ambedkar University Delhi. She has a BSc in biology and worked on mesenchymal stem cell therapies in the Karp Lab at Harvard-MIT HST before she returned to India to join the development sector.

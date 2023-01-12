@@ -1,0 +1,75 @@
+What health IT shops should do now to prepare for the next generation of platforms
+
+Have you seen the commercial where the mom of a sobbing child asks, “Alexa, when did Madison last have a tetanus shot?” And Alexa says, “Madison had a tetanus shot on 8/15/16, and is due for another one on 8/15/26, though the Mayo Clinic recommends a booster shot if she experiences a puncture wound.” And then the mom asks Alexa to locate the nearest open urgent care center that accepts the family’s insurance, and Alexa comes through with driving directions, travel time, and estimated wait time?
+
+You haven’t? Neither have we.
+
+About 40 percent of U.S. households — a number that grows every day — ask Alexa and Siri and “Hey Google!” to perform an astonishing variety of data-related tasks. But they rarely include those that have anything to do, except in the most general way, with health and medical care.
+
+Be prepared for that situation to change — and quickly. The platforms that people have come to depend on for so many things will soon support their healthcare needs as well. The technology is mostly available. What’s needed is a realignment of organizations, regulations, and financial incentives to make health information equally available, while still putting privacy and patient safety foremost. We believe such realignments are inevitable.
+
+The platform-based future
+
+A recent New York Times opinion piece posed the question, “Are You an Amazon Family or an Apple Family?” and painted a future where everyone commits to one or the other (or to Google, the third contender) and depends on it to run everything from their home appliances to their social lives.
+
+It’s a vision that may sound familiar to health IT veterans (“Are you a Cerner Shop or an Epic Shop?”). Amazon used to be a bookstore, Google a search engine, and Apple a computer, and later a phone. But now, they’ve all turned into platforms, and they aspire to be as fundamental to people’s lives as an EHR is to a health system. They invite consumers to rest all their information storage, sharing, and transaction needs, and more, on their sturdy planks.
+
+Of course, there are lots of platforms that consumers can use regardless of whether they cast their lot with Siri or Alexa or Google. They can socialize on Facebook, post and watch videos on YouTube, network on LinkedIn, catch a ride with Uber or Lyft, or rent a vacation cabin with Airbnb. They can shop anywhere they want. All three platforms will let them read the New York Times, which used to be a newspaper but is now a news and opinion platform. Our days are spent hopping from platform to platform, and our choices keep expanding.
+
+A platform primer
+
+What is a platform? As with many things in information technology, there are multiple definitions. But in general, a platform is a group of technologies used as a base for other applications, processes or technologies.
+
+Most platforms serve multiple purposes. LinkedIn is both a social network and a market for talent. Facebook is apparently a social network but also an eerily accurate targeting tool for advertisers and a ubiquitous method for logging in to otherwise unrelated sites.
+
+Platforms can have many different business models. They may sell goods or services, charge transaction fees or rent, sell advertising — or all of these. They may simply enable the business models of their owners or users.
+
+What’s the difference between a platform and an application? It can be blurry, because a widely used application or set of applications (for example, Microsoft Office) can take on some characteristics of a platform. And single-purpose platforms can look like applications (for example, finding a mate on eHarmony).
+
+The main difference is the potential for platforms to support multiple purposes. Facebook can be used to plan family vacations, host support groups, promote a business and regale the world with the details of your trip (whether to the grocery store or to India). Amazon can be used to buy merchandise, sell merchandise, create birthday wish lists and rate products and services — in addition to the cloud and commerce platform services that it sells to others.
+
+In addition to their versatility, platforms have two other core characteristics:
+
+Relationships: Each platform represents a web of relationships among the owner, the users, and the developers of the hardware and software. These relationships might be private — open to developers and users by invitation — or open to all who abide by a set of terms established by the platform owner. The larger the number of users and variety of relationships, the stronger the platform.
+
+Expandability: Platforms are based on standards, conventions, and business rules that all govern their operation, and they usually involve software development tools (application programming interfaces, libraries, and utilities) that allow developers to write, debug and manage software that leverages the platform. A run-time environment enables developers to deploy and manage their software without intervention by the platform owner. These characteristics allow the platform to evolve and grow in ways that an application can’t. The most successful platforms keep growing in scope as well as sheer size. A platform may also dovetail with other platforms — for example, a real estate sales platform may link to a home mortgage platform — in a phenomenon called network bridging.
+
+Forces driving the growth of healthcare platforms
+
+Two major forces are driving the spread of platforms in healthcare. First, the strategies of Google, Apple and Amazon have led to the creation of consumer-directed platforms to support multiple consumer needs. In effect, these platforms surround our lives, leveraging investments made by these giants in home technology companies such as Nest, or the development of Apple’s CarPlay and Google’s Android Auto.
+
+Google and Microsoft have tried to crack the healthcare platform puzzle before and failed (with Google Health and Microsoft HealthVault respectively). However, these companies recognize the growth potential in healthcare and see several areas where they can leverage their strengths and improve the performance of the healthcare system and the health of people. These companies have also recognized the installed base of “challenging to replace” EHRs and are focusing on creating platforms that surround EHRs, rather than on trying to replace or supplant them. Apple is providing software development tools to support the creation of applications on the iOS platform. Google offers a cloud-based data and artificial intelligence platform to aggregate and analyze data from disparate sources. Amazon Web Services provides processing, storage and management services. These well-resourced and talented companies will accelerate platform use and create opportunities for consumers, providers, payers, health IT vendors, and many types of services.
+
+Second, Meaningful Use has resulted in very impressive gains in EHR adoption, but interoperability gains have not been commensurate. The federal government has taken a lead role in attempting to accelerate interoperability progress and, among other efforts, has focused on requiring electronic health records to support APIs, based on the FHIR (Fast Healthcare Interoperability Resources) standards. The primary interoperability focus has been encouraging the development of capabilities that support consumer and patient management of their health and healthcare.
+
+This federal leadership will enable a diverse ecosystem of third-party applications to leverage the data and decision support logic of the EHR. The result is that EHRs will become platforms, used by institutions and their patients.
+
+Electronic health records are not the only set of applications that will morph into platforms. Population health, CRM, device integration technologies, telehealth and imaging suites will develop robust characteristics of versatility, relationships and expandability. This transformation will only be hastened as legacy healthcare applications move to the cloud.
+
+Next steps to take today
+
+What should health IT leaders be doing now so that their organizations can play the appropriate role in this new world of platforms?
+
+Evaluate the capabilities of non-healthcare platforms. Because of platforms, the toolbox available to the information technology executive is much broader and more powerful than it has ever been; IT strategies will need to respond accordingly. Search can help a clinician trying to find important patient information. Social platforms can support groups of patients learning from each other. Find ways to leverage general-purpose and focused platforms to extend your capabilities.
+
+Anticipate and avert “collisions.” Though many platform capabilities are new, they present the same data and functionality puzzles that we have always had. At some point, for example, your organization probably had to decide whether provider order entry should be a function of an ICU application or an enterprise electronic health record. There was a collision of capabilities. Most healthcare organizations still have to resolve some of those collisions within their own systems and making outside platforms a component of the organization’s IT infrastructure will multiply their number exponentially.
+
+Organizations will need to determine how best to create a seamless patient experience when there are areas of overlap between the personal health record capabilities on a mobile device, a platform that surrounds the patient at home and the enterprise EHR. Telehealth platforms often include the ability to schedule a tele-visit. Scheduling is also an integral part of an ambulatory EHR. Which one will own the appointment? Where will population health data be cleaned or aggregated: in your population health application or as part of an analytics platform from Google or Amazon? These questions often have more to do with business and policy concerns than with technology, but they still need solid answers.
+
+Expect platforms and applications to fuse. The adoption of FHIR-based APIs will lead to major applications, such as the EHR and patient portal, becoming both applications and platforms. While there will be pure platforms and pure applications, the platform-application fusion will become common.
+
+This fusion will combine the strengths of both. The strength of the platform comes from its base technologies, data and business model that support the characteristics of versatility, relationships and expandability. The strength of an application is based on its ability to support processes and workflow, such as ordering a test, documenting care, and enhancing decision making. These strengths are complementary.
+
+Explore how to leverage your application stack. As platforms and applications fuse, platform capabilities will leverage different levels of the application stack. Each layer of the stack — data, transaction processing, logic and algorithms, process support (e.g., ordering a test) and user interface — can be “platform enabled.” For example, FHIR enables electronic health record data to be accessed by an ecosystem of applications. The CDS Hooks APIs enable ecosystem developers to provide logic and algorithms that be utilized by the EHR.
+
+Be thoughtful in the selection of partners. Capabilities, pricing, track record and commitment have always mattered in the selection of applications, and they will continue to matter as you select platforms and application/platform hybrids. Organizations must also consider the larger environment: a platform may be technologically superb but doomed by bad business decisions. In other words, you want to collaborate with Facebook, not with MySpace.
+
+The future is here
+
+We live in a time of extraordinary information technology innovation. Artificial intelligence. The Internet of Things. Blockchain. These and other advances will materially enhance our ability to improve the quality, safety and efficiency of care.
+
+And they will all leverage the platforms we choose. If we choose well and build well, we will engage patients, provide a terrific experience, and maybe even transform their health.
+
+The healthcare-aware Alexa (or Siri or “Hey Google”) in the tetanus-shot scenario that began this article may seem like a character from a Star Trek future. It’s not. It will be here any minute. Are you ready?
+
+John Glaser, PhD, is a senior vice-president at Cerner. Mike Hanska is vice president of platform engineering at Cerner.
