@@ -7,21 +7,21 @@ Rules:
       status: On
   - GDELT_Definition:
       id: 3
-      status: Off
+      status: On
       definition: Off
   - Common_Words:
       id: 4
       status: Off
   - Named_Entities:
       id: 5
-      status: Off
+      status: On
   - Sentiment:
       id: 6
       status: On
 Data:
    - Raw_Data:
-       path: D:\Graduate School\text-classifier\data\gdelt\India_Assault
-       total_files: 10
+       path: ./data/gdelt/India_Assault/
+       total_files: 1000
    - Labeled:
-       file: D:\Graduate School\text-classifier\data\GDELT_Labeled\assault_labeled.csv
+       file: /home/nathan/Documents/text-classifier/data/GDELT_Labeled/assault_labeled.csv
 

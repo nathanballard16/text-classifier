@@ -11,6 +11,7 @@ from snorkel.labeling.model import MajorityLabelVoter
 from textblob import TextBlob
 import nltk
 from nltk import ne_chunk, pos_tag, word_tokenize
+from nltk.corpus import stopwords
 from nltk.tree import Tree
 import spacy
 import locationtagger
@@ -18,12 +19,13 @@ from tqdm import tqdm
 import geocoder
 
 # essential entity models downloads
-nltk.downloader.download('maxent_ne_chunker')
-nltk.downloader.download('words')
-nltk.downloader.download('treebank')
-nltk.downloader.download('maxent_treebank_pos_tagger')
-nltk.downloader.download('punkt')
-nltk.download('averaged_perceptron_tagger')
+# nltk.downloader.download('maxent_ne_chunker')
+# nltk.downloader.download('words')
+# nltk.downloader.download('treebank')
+# nltk.downloader.download('maxent_treebank_pos_tagger')
+# nltk.downloader.download('punkt')
+# nltk.download('averaged_perceptron_tagger')
+# nltk.download('stopwords')
 
 ABSTAIN = -1
 NOT_UNREST = 0
@@ -54,7 +56,8 @@ def create_lfs(data):
 def read_labeled_data(data):
     df = pd.read_csv(data['Data'][1]['Labeled']['file'])
 
-    return df.sample(n=int(data['Data'][0]['Raw_Data']['total_files']))
+    # return df.sample(n=int(data['Data'][0]['Raw_Data']['total_files']))
+    return df
 
 
 def read_unlabeled_data(data):
@@ -63,7 +66,7 @@ def read_unlabeled_data(data):
     # Create Dictionary for File Name and Text
     file_name_and_text = {}
     for file in file_names:
-        with open(files_folder + '/' + file, "r") as target_file:
+        with open(files_folder + '/' + file, "r", encoding='cp1252') as target_file:
             file_name_and_text[file] = target_file.read()
     file_data = (pd.DataFrame.from_dict(file_name_and_text, orient='index')
                  .reset_index().rename(index=str, columns={'index': 'file_name', 0: 'text'}))
@@ -91,6 +94,8 @@ def get_locations(data):
 
 def get_named_entities(data):
     orgs = []
+    temp_orgs = []
+    final_orgs = []
     for ind in tqdm(data.index, desc="Calculating Named Entities in text"):
         nltk_results = ne_chunk(pos_tag(word_tokenize(data['text'][ind])))
         for nltk_result in nltk_results:
@@ -98,19 +103,40 @@ def get_named_entities(data):
                 name = ''
                 for nltk_result_leaf in nltk_result.leaves():
                     name += nltk_result_leaf[0] + ' '
-                    if nltk_result.label() == "ORGANIZATION":
+                    if nltk_result.label() == "PERSON":
                         orgs.append(name)
-    count = pd.Series(orgs).value_counts()
-    print(count[0:10])
+    count = pd.Series(orgs).value_counts().index
+
+    for person in range(10):
+        splt = count[person].split(' ')[0]
+        # print(splt)
+        temp_orgs.append(splt)
+    final_orgs.append(temp_orgs)
+    # print(final_orgs)
+    return final_orgs
 
 
-# def merge_data_sources(first_df):
-#     files_folder = 'D:/Graduate School/text-classifier/data/GoldenDataset/Assault'
+# def create_first_data_source(files_folder):
 #     file_names = os.listdir(files_folder)
 #     # Create Dictionary for File Name and Text
 #     file_name_and_text = {}
 #     for file in file_names:
-#         with open(files_folder + '/' + file, "r") as target_file:
+#         with open(files_folder + '/' + file, "r", encoding='cp1252') as target_file:
+#             file_name_and_text[file] = target_file.read()
+#     file_data = (pd.DataFrame.from_dict(file_name_and_text, orient='index')
+#                  .reset_index().rename(index=str, columns={'index': 'file_name', 0: 'text'}))
+#     file_data['text_length'] = file_data['text'].str.len()
+#     file_data['labels'] = 1
+#     return file_data
+#
+#
+# def merge_data_sources(first_df):
+#     files_folder = './data/GoldenDataset/Assault'
+#     file_names = os.listdir(files_folder)
+#     # Create Dictionary for File Name and Text
+#     file_name_and_text = {}
+#     for file in file_names:
+#         with open(files_folder + '/' + file, "r", encoding='cp1252') as target_file:
 #             file_name_and_text[file] = target_file.read()
 #     file_data = (pd.DataFrame.from_dict(file_name_and_text, orient='index')
 #                  .reset_index().rename(index=str, columns={'index': 'file_name', 0: 'text'}))
@@ -127,6 +153,9 @@ def get_named_entities(data):
 #     final_df['labels'] = np.where(final_df['labels'] != 1, int(0), final_df['labels'])
 #     final_df['max_length'] = int(file_data['text_length'].quantile(.95))
 #     final_df.to_csv('./data/GDELT_Labeled/assault_labeled.csv', sep=',')
+
+def save_training_data(df):
+    pass
 
 
 @labeling_function()
@@ -146,7 +175,13 @@ def article_length(x):
 
 @labeling_function()
 def gdelt_definition(x):
-    pass
+    deff = 'Use conventional military force' + ' Impose blockade restrict movement ' + 'Occupy territory' + \
+           ' Fight with small arms and light weapons ' + 'Fight with artillery and tanks ' + 'Employ aerial weapons ' + \
+           'Employ precision-guided aerial munitions ' + 'Employ remotely piloted aerial munitions ' + 'Violate ceasefire'
+    deff_tokens = word_tokenize(deff)
+    tokens_without_sw = [word.lower() for word in deff_tokens if not word in stopwords.words()]
+    deff_tokens_set = pd.Series(tokens_without_sw).drop_duplicates().tolist()
+    return UNREST if any(word in x.text.lower() for word in deff_tokens_set) else ABSTAIN
 
 
 @labeling_function()
@@ -156,7 +191,11 @@ def common_words(x):
 
 @labeling_function()
 def named_entities(x):
-    pass
+    names = []
+    for name in range(10):
+        pt = 'name_' + str(name)
+        names.append(x[pt].lower())
+    return UNREST if any(word in x.text.lower() for word in names) else ABSTAIN
 
 
 @labeling_function()
@@ -179,6 +218,7 @@ def label_data(labeled_df, unlabeled_df):
     label_model = LabelModel(cardinality=2, verbose=True)
     label_model.fit(L_train, n_epochs=500, log_freq=50, seed=123)
     df_train["label"] = label_model.predict(L=L_train, tie_break_policy="abstain")
+    print(df_train)
     # print('The Entire Dataset is Labeled 1: ' + str((df_train["label"] == 1).all()))
     # print(df_train)
     # print(df_train[df_train["label"] != 1])
@@ -189,10 +229,12 @@ def label_data(labeled_df, unlabeled_df):
 
 index1, index2, index3, index4, index5, index6 = eval('dataset_location'), eval('article_length'), eval(
     'gdelt_definition'), \
-    eval('common_words'), eval('named_entities'), eval('sentiment_score')
+                                                 eval('common_words'), eval('named_entities'), eval('sentiment_score')
 
 
 def main():
+    # first_df = create_first_data_source('./data/GoldenDataset2/Assault')
+    # merge_data_sources(first_df)
     data = read_config()
     create_lfs(data)
     labeled_df = read_labeled_data(data)
@@ -208,10 +250,15 @@ def main():
     labeled_locations = get_locations(labeled_df)
     raw_data_df['locations'] = locations
     labeled_df['locations'] = labeled_locations
-    print(raw_data_df)
+    # print(raw_data_df)
     print()
     print('Getting Named Entities ... ')
-    get_named_entities(raw_data_df)
+    names = get_named_entities(raw_data_df)
+    for name in range(len(names[0])):
+        part = 'name_' + str(name)
+        raw_data_df[part] = names[0][name]
+        labeled_df[part] = names[0][name]
+    # print(raw_data_df)
     label_data(labeled_df, raw_data_df)
 
 
