@@ -21,7 +21,7 @@ Rules:
 Data:
    - Raw_Data:
        path: D:\Graduate School\text-classifier\data\gdelt\India_Assault
-       total_files: 10
+       total_files: 100
    - Labeled:
        file: D:\Graduate School\text-classifier\data\GDELT_Labeled\assault_labeled.csv
 

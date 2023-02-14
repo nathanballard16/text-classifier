@@ -98,7 +98,7 @@ def get_named_entities(data):
                 name = ''
                 for nltk_result_leaf in nltk_result.leaves():
                     name += nltk_result_leaf[0] + ' '
-                    if nltk_result.label() == "ORGANIZATION":
+                    if nltk_result.label() == "PERSON":
                         orgs.append(name)
     count = pd.Series(orgs).value_counts()
     print(count[0:10])
