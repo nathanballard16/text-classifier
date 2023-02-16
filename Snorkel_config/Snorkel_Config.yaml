@@ -7,21 +7,45 @@ Rules:
       status: On
   - GDELT_Definition:
       id: 3
-      status: Off
-      definition: Off
+      status: On
+      assault: 'Use conventional military force, Impose blockade restrict movement, Occupy territory, Fight with small arms and light weapons, Fight with artillery and tanks, Employ aerial weapons, Employ precision-guided aerial munitions, Employ remotely piloted aerial munitions, Violate ceasefire'
+      fight: 'Use conventional military force, Impose blockade, restrict movement, Occupy territory, Fight with small arms and light weapons, Fight with artillery and tanks, Employ aerial weapons, Employ precision-guided aerial munitions, Employ remotely piloted aerial munitions, Violate ceasefire'
+      protest: 'Engage in political dissent, Demonstrate or rally, Demonstrate or rally for leadership change, Demonstrate or rally for policy change, Demonstrate for rights, Demonstrate for change in institutions, regime, Conduct hunger strike, not specified below, Conduct hunger strike for leadership change, Conduct hunger strike for policy change, Conduct hunger strike for rights, Conduct hunger strike for change in institutions, regime, Conduct strike or boycott, Conduct strike or boycott for leadership change, Conduct strike or boycott for policy change, Conduct strike or boycott for rights, Conduct strike or boycott for change in institutions, regime, Obstruct passage, block, Obstruct passage to demand leadership change, Obstruct passage to demand policy change, Obstruct passage to demand rights, Obstruct passage to demand change in institutions, regime, Protest violently, riot, Engage in violent protest for leadership change, Engage in violent protest to demand policy change, Engage in violent protest to demand rights, Engage in violent protest to demand change in institutions, regime'
+      threaten: 'Threaten non-force, not specified below, Threaten to reduce or stop aid, Threaten to boycott, embargo, or sanction, Threaten to reduce or break relations, Threaten with administrative sanctions, Threaten with restrictions on political freedoms, Threaten to ban political parties or politicians, Threaten to impose curfew, Threaten to impose state of emergency or martial law, Threaten political dissent, Threaten to halt negotiations, Threaten to halt mediation, Threaten to halt international involvement non-mediation, Threaten with repression, Threaten with military force, Threaten blockade, Threaten occupation, Threaten unconventional attack, Threaten conventional attack, Threaten unconventional mass violence, Give ultimatum'
+      umv: 'Use massive unconventional force, Engage in mass expulsion, Engage in mass killings, Engage in ethnic cleansing, Use weapons of mass destruction, Use chemical, biological, or radiological weapons, Detonate nuclear weapons'
   - Common_Words:
       id: 4
       status: Off
   - Named_Entities:
       id: 5
-      status: Off
+      status: On
   - Sentiment:
       id: 6
       status: On
 Data:
    - Raw_Data:
-       path: D:\Graduate School\text-classifier\data\gdelt\India_Assault
-       total_files: 100
-   - Labeled:
-       file: D:\Graduate School\text-classifier\data\GDELT_Labeled\assault_labeled.csv
+       assault_path: ./data/gdelt/India_Assault/
+       fight_path: ./data/gdelt/India_Fight/
+       protest_path: ./data/gdelt/India_Protest/
+       threaten_path: ./data/gdelt/India_Threaten/
+       umv_path: ./data/gdelt/India_UMV/
+       total_files: 1000
+   - Labeled_Data:
+       assault_path: ./data/GDELT_Labeled/Assault
+       fight_path: ./data/GDELT_Labeled/Fight
+       protest_path: ./data/GDELT_Labeled/Protest
+       threaten_path: ./data/GDELT_Labeled/Threaten
+       umv_path: ./data/GDELT_Labeled/UMV
+   - Labeled_files:
+       assault_file: ./data/GDELT_Labeled/assault_labeled.csv
+       fight_file: ./data/GDELT_Labeled/fight_labeled.csv
+       protest_file: ./data/GDELT_Labeled/protest_labeled.csv
+       threaten_file: ./data/GDELT_Labeled/threaten_labeled.csv
+       umv_file: ./data/GDELT_Labeled/umv_labeled.csv
+   - GoldenDataset:
+       orig_assault: ./data/GoldenDataset/Assault
+       orig_fight: ./data/GoldenDataset/Fight
+       orig_protest: ./data/GoldenDataset/Protest
+       orig_threaten: ./data/GoldenDataset/Threaten
+       orig_umv: ./data/GoldenDataset/UMV
 

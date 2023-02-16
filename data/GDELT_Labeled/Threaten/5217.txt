@@ -1,0 +1,33 @@
+India's anti-satellite weapon test sent debris flying that could threaten space station, NASA chief warns
+
+The successful test of an Indian anti-satellite weapon March 27 created a cloud of high-velocity debris that poses a near-term threat to other spacecraft in low-Earth orbit, including the International Space Station, NASA Administrator Jim Bridenstine told agency employees Monday. Indian officials said the threat was minimal.
+
+But during a "town hall" meeting at NASA Headquarters in Washington, Bridenstine said the anti-satellite weapon created at least 400 pieces of debris, including 60 trackable fragments that are four inches across or larger. Of that total, 24 ended up in orbits with high points, or apogees, above the 255 mile altitude of the space station.
+
+Those fragments will steadily lose altitude due to the effects of atmospheric drag, making them a near-term threat that may require U.S. and Russian flight controllers to periodically reposition the lab complex to minimize the odds of a collision.
+
+And collisions between bodies moving at orbital velocity — about 17,000 mph, or nearly five miles per second — are potentially catastrophic.
+
+"That is a terrible, terrible thing, to create an event that sends debris in an apogee that goes above the International Space Station," Bridenstine said. "That kind of activity is not compatible with the future of human space flight that we need to see happen."
+
+This visualization from Analytical Graphics shows the debris cloud created when an Indian anti-satellite vehicle, climbing from right to left, smashed into a target satellite passing above the Bay of Bengal that was moving from left to right. Fragments of the target satellite are seen extending away to the right while a smaller cloud, the remnants of the anti-satellite vehicle, fall away to the left. Analytical Graphics
+
+India's Prime Minister Narendra Modi revealed the successful test, dubbed Mission Shakti, after the Indian target satellite was destroyed, saying "India has today established itself as a global space power."
+
+"So far only three countries in the world, USA, Russia and China, had this capability," he said. "Today, India has become the fourth country to acquire this status as a space power. There can be no bigger moment of pride for every Indian than this."
+
+He said the test was "not directed against anyone" and that India remains "opposed to the weaponization of space and an arms race in outer space, and this test does not in any way change this position. Today's test does not violate any international law or treaty obligation to which India is a party."
+
+India's Ministry of External Affairs said on its web site "the test was done in the lower atmosphere to ensure that there is no space debris. Whatever debris that is generated will decay and fall back onto the earth within weeks."
+
+Analytical Graphics provided an early analysis of the impact, showing the assumed trajectories of the debris fragments.
+
+Jonathan McDowell, an astrophysicist at the Harvard Smithsonian Center for Astrophysics and a noted satellite tracker and space historian, told Space.com that the target for the test was an Indian satellite known as Microsat-R, passing about 168 miles above the Bay of Bengal when it was intercepted.
+
+He said most of the debris likely will fall back into the atmosphere and burn up over the next three weeks or so, although some fragments in higher orbits could stay aloft for a year or so.
+
+In 2007, China launched an anti-satellite weapon that destroyed a defunct Chinese weather satellite in a much higher orbit, creating more than 2,000 pieces of trackable debris out of an estimated total of 150,000 fragments. Bridenstine said a large number of those fragments remain in orbit today.
+
+In the immediate aftermath of the Indian test, the risk of a debris impact with the space station jumped by 44 percent.
+
+"I'm talking about small debris impacts to the International Space Station, the risk went up 44 percent over a period of 10 days," Bridenstine said. "The good thing is, it's low enough in Earth orbit that over time, this will all dissipate."
