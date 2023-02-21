@@ -57,8 +57,9 @@ def create_lfs(data):
 
 def read_labeled_data(data, label):
     df = pd.read_csv(data['Data'][2]['Labeled_files'][label])
-    # return df.sample(n=int(data['Data'][0]['Raw_Data']['total_files']))
-    return df
+    df_ones = df[df.labels == 1]
+    # return df_ones.sample(n=int(data['Data'][0]['Raw_Data']['total_files']))
+    return df_ones
 
 
 def read_unlabeled_data(data, label):
@@ -185,6 +186,7 @@ def dataset_location(x):
 
 @labeling_function()
 def article_length(x):
+    # print(x.text_length, x.max_length)
     return UNREST if x.text_length <= x.max_length else ABSTAIN
 
 
@@ -296,7 +298,12 @@ def run_rule_generation(label, labeled_file, golden_path_label, lfs, applier):
         complete_filename.append(cp_file_name)
     df_train['Complete_Filename'] = complete_filename
     # print(df_train[['Complete_Filename', 'file_name']].to_string(index=True))
-    return df_train
+    df_ones = df_train[df_train.label == 1]
+    df_zeros = df_train[df_train.label == 0]
+    # print(df_train)
+    # print(df_ones)
+    # print(df_zeros)
+    return df_ones
 
 # def main():
 #     # first_df = create_first_data_source('./data/GoldenDataset2/Assault')

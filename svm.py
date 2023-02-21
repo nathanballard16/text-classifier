@@ -40,17 +40,50 @@ def train_svm(input_path, output_path):
 
     # print(features_train.shape)
     # print(features_test.shape)
-    print(np.unique(features_test))
+    # print(np.unique(features_test))
     svc_0 = svm.SVC(random_state=8)
+
+    # svc_0.fit(features_train, labels_train)
+    #
+    # # print prediction results
+    # predictions = svc_0.predict(features_test)
+    # print(classification_report(labels_test, predictions))
 
     print('Parameters currently in use:\n')
     pprint(svc_0.get_params())
 
+    # # defining parameter range
+    # param_grid = {'C': [0.1, 1, 10, 100, 1000],
+    #               'gamma': [1, 0.1, 0.01, 0.001, 0.0001],
+    #               'kernel': ['rbf']}
+    #
+    # grid = GridSearchCV(svm.SVC(), param_grid, refit=True, verbose=3)
+    #
+    # # fitting the model for grid search
+    # grid.fit(features_train, labels_train)
+    #
+    # print()
+    #
+    # # print best parameter after tuning
+    # print(grid.best_params_)
+    #
+    # # print how our model looks after hyper-parameter tuning
+    # print(grid.best_estimator_)
+    #
+    # print()
+    # grid_predictions = grid.predict(features_test)
+    #
+    # # print classification report
+    # print(classification_report(labels_test, grid_predictions))
+    # exit()
+
     # C
-    C = [.0001, .001, .01]
+    # C = [.0001, .001, .01]
+    C = [0.1, 1, 10, 100, 1000]
 
     # gamma
-    gamma = [.0001, .001, .01, .1, 1, 10, 100]
+    # gamma = [.0001, .001, .01, .1, 1, 10, 100]
+    gamma = [.0001, .001, .01, .1, 1]
 
     # degree
     degree = [1, 2, 3, 4, 5]
@@ -93,9 +126,9 @@ def train_svm(input_path, output_path):
     print(random_search.best_score_)
 
     # Create the parameter grid based on the results of random search
-    C = [.0001, .001, .01, .1]
-    degree = [3, 4, 5]
-    gamma = [1, 10, 100]
+    C = [100, 1000, 10000, 10000]
+    degree = [4, 5, 6]
+    gamma = [.1, 1, 10]
     probability = [True]
 
     param_grid = [

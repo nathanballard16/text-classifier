@@ -29,7 +29,7 @@ Data:
        protest_path: ./data/gdelt/India_Protest/
        threaten_path: ./data/gdelt/India_Threaten/
        umv_path: ./data/gdelt/India_UMV/
-       total_files: 1000
+       total_files: 750
    - Labeled_Data:
        assault_path: ./data/GDELT_Labeled/Assault
        fight_path: ./data/GDELT_Labeled/Fight
