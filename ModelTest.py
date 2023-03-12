@@ -17,7 +17,7 @@ import warnings
 
 warnings.simplefilter(action='ignore', category=FutureWarning)
 
-path_models = "models/"
+path_models = "data/GDELT_Labeled/model_out_1000/"
 
 # SVM
 path_svm = path_models + 'best_svc.pickle'
@@ -40,16 +40,14 @@ with open(path_mnbc, 'rb') as data:
 with open(path_rfc, 'rb') as data:
     rfc_model = pickle.load(data)
 
-path_tfidf = "train_test/tfidf.pickle"
+path_tfidf = "data/GDELT_Labeled/train_test_100/tfidf.pickle"
 with open(path_tfidf, 'rb') as data:
     tfidf = pickle.load(data)
 
 category_codes = {
-    'business': 0,
-    'entertainment': 1,
-    'politics': 2,
-    'sport': 3,
-    'tech': 4
+    'Assault': 0,
+    'Protest': 1,
+    'Umv': 2
 }
 
 punctuation_signs = list("?:!.,;")
@@ -156,10 +154,13 @@ def predict_from_text_mnbc(text):
 
 
 def predict_from_text_cnn(text):
-    model = load_model('models/cnn_model/CNN.h5')
+    model = load_model('data/GDELT_Labeled/model_out_1000/CNN.h5')
     maxlen = 400
-    id_to_category = {0: 'business', 1: 'entertainment', 2: 'politics', 3: 'sport',
-                      4: 'tech'}
+    id_to_category = {
+        'Assault': 0,
+        'Protest': 1,
+        'Umv': 2
+    }
 
     with open('models/cnn_model/tokenizer.json') as f:
         data = json.load(f)
@@ -171,9 +172,10 @@ def predict_from_text_cnn(text):
     input_pad = pad_sequences(input_sequences, padding='post', maxlen=maxlen)
 
     preds = model.predict(input_pad)[0]
+    print(preds)
 
     pred_classes = np.argsort(preds)[-10:][::-1]
-
+    print(pred_classes)
     classes = [id_to_category[i] for i in pred_classes]
     props = preds[pred_classes]
 
@@ -202,10 +204,10 @@ with open('data/testArticle.txt', encoding="utf8") as f:
     lines = f.readlines()
 text = ' '.join([str(elem) for elem in lines])
 
-predict_from_text_svc(text)
-predict_from_text_gbc(text)
-predict_from_text_knnc(text)
-predict_from_text_lrc(text)
-predict_from_text_mnbc(text)
-predict_from_text_rfc(text)
+# predict_from_text_svc(text)
+# predict_from_text_gbc(text)
+# predict_from_text_knnc(text)
+# predict_from_text_lrc(text)
+# predict_from_text_mnbc(text)
+# predict_from_text_rfc(text)
 predict_from_text_cnn(text)

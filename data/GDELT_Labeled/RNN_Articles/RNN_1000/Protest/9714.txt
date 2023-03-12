@@ -1,0 +1,27 @@
+The robot’s arm
+
+On June 15, seven people choked to death when they entered a septic tank outside a hotel at Fartikui village near Vadodara, Gujarat. As he heard the news, Vimal Govind remembers feeling both angry and helpless. ”Only three months ago, our team had held a demonstration of our robotic scavenger for government officials in Vadodara. If only things had moved faster, some lives could have been saved,” says Vimal, 25, CEO and one of the four founders of Genrobotics, a start-up firm in Thiruvananthapuram that developed the Bandicoot in 2018, then hailed as India’s ‘first manhole cleaning robot’.
+
+Since then, a few other robotic machines have been designed, all aimed at replacing men with machines inside drains, but none has been scaled up. Like it happens after every death in a manhole or septic tank, the initial uproar over the Vadodara incident was again accompanied by questions of why the job of cleaning choked drains isn’t mechanised yet.
+
+”Our intention is to eliminate manual scavenging. But there are hurdles — one, the government system doesn’t move fast enough to adopt a new technology. Two, officials and municipalities see it from a purely economic angle. While an urban local body requires only Rs 1 lakh for manual cleaning of drains and sewers, a robotic scavenger is costly (the Bandicoot is now priced at Rs 32 lakh),’’ says Vimal, sitting at Technopark, a state-owned IT park in Thiruvananthapuram where Genrobotics’s R&D section functions.
+
+Initially funded by the state government’s Kerala Start-up Mission, Bandicoot was developed for the Kerala Water Authority (KWA) by Genrobotics. Four enterprising engineering graduates —Vimal Govind, Nikhil NP, Rashid K and Arun George —had founded the start-up after short stints with private firms.
+
+Besides Kerala, Bandicoot has a presence in Tamil Nadu, Andhra Pradesh, Maharashtra and Haryana, says George. “We have already signed an MoU with the Dubai municipality for using our robots to clean their sewage system. Besides, discussions are on with the governments of Punjab and Delhi for rolling out the product,’’ he says.
+
+With the contract with KWA over, Vimal says the firm is planning to enter a service contract with KWA. ”Instead of selling our product to the government, we are planning to take up cleaning of manholes on contract using a latest version of the Bandicoot,’’ he says.
+
+The robot has two units —a control unit and within which is a robotic unit, which has four legs that stabilise the unit. It also has a robotic arm, similar to that of a human arm, that lifts the lid on the manhole, goes down the pit, grabs waste that’s blocking the manhole, brings it up and deposits it into a bucket-like system. Power is supplied by portable generators and the robot has waterproof, night-vision cameras that help the operator monitor the robot’s work inside the manhole.
+
+”Simple user interface has been developed to ensure that the product can be operated by a common man and voice comments have been given in local languages. Animated videos also help to operate these robots. As the size of the manholes varies, the robots can be customised to meet local requirements,’’ says George.
+
+There have been changes along the way, he adds. If the initial product weighed 120 kg, the latest version of the Bandicoot weighs only 50 kg, after the stainless steel used for the robot was replaced with carbon fibre.
+
+George says that while the latest version is fully automated, they were always mindful of the fact that they didn’t want the robots to deprive people of their jobs. ”So we decided to train the very people who entered the drains to operate the Bandicoot. So far, we have trained 150 manual scavengers in various states. In local civic bodies, we have trained engineers as well as workers, who are hired by cleaning contractors,’’ he says.
+
+Nikhil, another of the co-founders, says the major challenge was to upgrade the product based on feedback from customers.
+
+For now, he says, the effort is to convince stakeholders that the robot, though designed to clean manholes, can be used for cleaning septic tanks with a few modifications. ”When we worked to develop a robot to clean a manhole, our aim was to end the practice of manual scavenging. Now, the message has reached everywhere and we are getting queries for the product that can be used for cleaning manholes cleaning and septic tanks,” says Nikhil.
+
+Started with eight engineers, who formed part of the core team, Genrobotics now employs 40-odd persons. At its production unit housed at the Kinfra Industrial Park in Thiruvananthapuram, Genrobotics has the capacity to make 25 robotic scavengers a month. The firm, however, has so far managed to sell up to 10 machines a month.

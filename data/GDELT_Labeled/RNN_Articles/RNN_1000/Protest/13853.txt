@@ -1,0 +1,135 @@
+Pharma Round Up: Key Developments In 2019
+
+ARTICLE
+
+To print this article, all you need is to be registered or login on Mondaq.com.
+
+Introduction
+
+The first half of 2019 has witnessed a lot of activity in the pharma space, so much so that the e-pharmacy saga – a pressing development towards the close of 2018 - has taken a temporary backseat this year. Instead, the new stars of 2019 so far have been price regulation and regulation of electronic nicotine delivery systems. 2019 also saw a significant piece of legislation introduced - the New Drugs and Clinical Trial Rules, 2019 - which has already begun making waves in the industry.
+
+Some of the major developments that have taken place so far are captured below:
+
+Indian Government Notifies New Clinical Trial Regime
+
+The Ministry of Health and Family Welfare ("Health Ministry") has notified the New Drugs and Clinical Trials Rules, 2019 ("New Drugs & CT Rules") to replace the existing regulatory framework governing clinical trials in India under the Drugs and Cosmetics Rules, 1945 ("D&C Rules").1 The New Drugs & CT Rules are more comprehensive and broader in scope than existing regulation under Schedule Y of the D&C Rules ("Old CT Rules"). The New Drugs & CT Rules retain certain existing provisions from the earlier regime, such as for the establishment of an ethics committee to oversee clinical trials and the requirement to conduct a clinical trial in four stages.
+
+Some significant additions in the New Drugs & CT Rules include provisions for bioavailability and bioequivalence studies as well as the requirement for including clinical trial participants from pediatric and geriatric populations in the study if the drug is intended to treat conditions that specifically affects such populations.
+
+Another significant addition to the New Drugs & CT Rules is the relaxation of the requirement for conducting local clinical trials of all drugs. Under the old CT Rules drugs approved in foreign jurisdictions were required to undergo clinical trials locally in India before they could be marketed in the country. Under the New Drugs & CT Rules, however, local clinical trials are not required to be considered for drugs marketed in foreign jurisdictions that recognized by the Health Ministry or in respect of orphan drugs.
+
+The New Drugs & CT Rules also introduce the concept of 'investigational new drug' as a substance that has not been approved for marketing as a drug in any country and 'orphan drug' as a drug that is intended to treat a condition which affects less than half a million persons in India. The New Drugs & CT Rules also provide regulators with the option of waiving the requirement to conduct clinical trials in certain cases, such as for drugs which have already been approved in specified developed countries.
+
+The New Drugs & CT Rules have been welcomed by the industry as they are expected to clarify, streamline and shorten the timelines for conducting clinical trials in India.
+
+Government is in Process of Revising and Updating the National List of Essential Medicines
+
+The Health Ministry has reportedly conducted the first stakeholders meeting with the Standing National Committee on Medicine ("SNCM") to revise the National List of Essential Medicines ("NLEM").2 The NLEM is a list of medicines that satisfy the priority healthcare needs of a population. The SNCM has been constituted by the Health Ministry to revise the NLEM every few years.
+
+The Health Ministry first took up the mantle of revising the NLEM in February earlier this year and has concluded a meeting with stakeholders in the last week of July. A medicine is added in the NLEM if it is:
+
+Essential for the treatment of a disease or illness prevalent in the population; Safe and efficacious for the treatment of such disease; Cost-effective for the treatment; and Feasibility in context of advantage and cost-effectiveness i.e. an essential medicine should be available in a form in which adequate quality throughout its shelf-life under recommended storage conditions is ensured.;
+
+Unlike previous years, the terms of reference of the SNCM include not only medicines and medical devices but also 'other products used for the health and hygiene of the public'.3 In pursuance of this mandate, the SNCM has reportedly shortlisted hygiene products such as soap, adult diapers, sanitary napkins, hospital hand gloves, floor disinfectant and operation theater gum boots to add to the NLEM.4 Generally, products in the NLEM are subject to price control under the Drugs (Prices Control) Order, 2013("DPCO")- India's drug price control legislation. However, the Government has expressed the intention to de-link the NLEM from automatic price control.5 As a result, items listed in the NLEM will be brought under price control only upon the recommendation of a second committee.
+
+The NLEM was first drawn up in 1996 and has been revised every few years since. The NLEM was last revised in 2015. Earlier, the medicines listed in the NLEM were subject to price control under the DPCO. The prices of formulations in the NLEM were fixed by the National Pharmaceutical Pricing Authority ("NPPA")- the apex authority for drug price control in India. It remains to be seen the role the NPPA will play in regulating the prices of items under the NLEM after the new NLEM is finalized.
+
+Indian Government Caps Prices of Anti - Cancer drugs
+
+The NPPA has reduced the prices of nine cancer drugs by way of an office memorandum ("OM").6 The OM is the latest addition in a growing list of cancer drugs that the NPPA has brought under the price control by capping trade margins on such drugs at 30%. The NPPA first capped the trade margin of 32 cancer drugs through an order dated February 27, 2019 ("Order").7 Since then, over 450 drugs have been added to Order.8 According to the government, the price cut is expected to benefit 2.2 million cancer patients in India and result in annual savings of INR 8 billion.9
+
+The trade margins of the cancer drugs were capped under Paragraph 19 of the DPCO– the order passed under the Essential Commodities Act, 1955 ("EC Act") which empowers the NPPA to regulate the prices of drugs and certain medical devices. The DPCO lists out certain drugs under its schedule (referred to as Scheduled Formulations), which are based on the National List of Essential Medicines. The NPPA fixes the ceiling prices of all Scheduled Formulations based on a prescribed formula under the DPCO. Drugs that are not covered under the Schedule to the DPCO – non-scheduled formulations – are restricted from having a price increase by more than 10% over the previous year.
+
+The cancer drugs for which trade margins were capped are non-scheduled formulations, and technically not subject to a price ceiling that is prescribed by the NPPA. However, the trade margins were capped under Paragraph 19 of the DPCO – which gives the NPPA the power to fix the price of any drug (regardless of whether they are Scheduled or non-Scheduled Formulations) in any manner as it deems fit, in case of extra-ordinary circumstances and in the public interest.
+
+India Proposes to Make Marketers of Drugs Responsible for Quality of Drugs and Regulatory Compliances
+
+The Health Ministry published a notification on June 24, 2019 proposing to amend D&C Rules–framed under India's primary drug control legislation, the Drugs & Cosmetics Act, 1940 ("D&C Act"), such that entities marketing a drug are responsible for the quality of the drug as well as for carrying out regulatory compliances ("Proposed Amendment").10
+
+In India, a common business model is for companies to outsource the manufacturing activity for their drug to a third-party manufacturer, such that for the purposes of regulation, the third party is considered the manufacturer while the outsourcing party is considered the marketer of the drug. Currently, the D&C Rules hold only the manufacturer of the drug liable for any defects in the drug or for gaps in compliance, and not the marketing company. The Proposed Amendment aims to ensure that pharmaceutical companies that contract out the manufacturing activity are also responsible for compliance with the quality standards and compliances under the D&C Rules.
+
+India Introduces A Proposal to Regulate Electronic Nicotine Delivery Systems as Drugs
+
+The Health Ministry has reportedly forwarded a proposal to bring all electronic nicotine delivery systems ("ENDs") such as e-cigarettes and hookahs under the drug regulatory framework, to the Attorney General of India for recommendations.11
+
+The Health Ministry has been in the process of regulating ENDs for almost a year now. In August 2018, the Health Ministry issued an advisory to all Indian States and Union Territories to ensure that ENDs were not sold in their territory (through brick-and-mortar stores or online), except in accordance with the provisions of the D&C Act ("Advisory").12 Since then, the Central Board of Indirect Taxes and Customs has also issued a circular to India's customs authorities asking such authorities to ensure the Advisory is implemented ("Circular")13 as well as sending an internal communication to all state drug controllers requiring them to ensure that ENDs are sold in accordance with the D&C Act ("Communication").14 However, the validity of the Circular and Communication were challenged in the Delhi High Court, where it has been stayed.15 The Delhi High Court, while ruling on the interim stay, held that ENDs do not appear to be drugs on the face of it. The Bombay High Court, in another matter relating to the Advisory, placed reliance upon the decision of the Delhi High Court and passed an interim order directing the Maharashtra Food & Drug Authority to not take any action against the petitioner who is a manufacturer of e-cigarettes.16
+
+In June 2019, the Drugs Consultative Committee ("DCC"), one of India's apex drug advisory bodies, recommended that ENDs be considered as drugs and consequently be regulated under the D&C Act.17 However, it is interesting to note that when the issue was first deliberated by the DCC in July 2015, it recommended that e-cigarettes are not covered under the definition of the term 'drug' and therefore cannot be regulated the D&C Act.18
+
+Currently, some nicotine products such as nicotine gums and nicotine transdermal therapeutic patches are regulated as drugs under the D&C Act. In the event that the proposal of the Health Ministry and DCC is brought into force, manufacturers, importers and retailers of ENDs will be required to obtain permission from the Central Drugs Standard Control Organization ("CDSCO"), India's apex drug regulator and the respective state drug regulators before manufacturing, importing or selling ENDs. The CDSCO will also have the option of categorizing ENDs as prescription drugs, thereby limiting the sale of ENDs except on the basis of a valid prescription signed by a registered medical practitioner. The CDSCO also has the power under the D&C Act to ban ENDs altogether, if it believes that it is in the public interest to do so.
+
+Government Notifies Date for Labeling Norms to Come into Force
+
+The Health Ministry by way of notification dated March 20, 2019 ("Enforcement Notification") stated that labeling norms first notified on April 26, 2018 ("Original Notification") would come into force on April 01, 2019 ("Enforcement Date").19 Before the Enforcement Notification, compliance with the Original Notification was on voluntary basis. However, from the Enforcement Date, compliance with the Original Notification became mandatory.20
+
+The Original Notification seeks to amend the labeling requirements of drugs as stipulated in the D&C Rules.21 The Original Notification amends the labeling declarations that are required to made in respect of drugs specified in Schedules G, H, X and H1.
+
+The CDSCO has been taking labeling violations more seriously than before. Earlier this year, the cosmetics division of the CDSCO canceled the import license of a cosmetics importer for labeling violations.22
+
+Government in the Process of Making it Mandatory to Incorporate Quick Response (QR) Codes on Packs of Bulk Drugs
+
+The Drugs Technical Advisory Board ("DTAB" )- India's apex advisory board on technical matters relating to drugs- at a meeting held on April 02, 2019 has recommended that quick response codes ("QR Codes") be added on the packing of all active pharmaceutical ingredients ("API") for tracking the origin and movement of APIs from manufacturers of the API to formulators of drugs.23
+
+The DTAB recommendation is the latest in a series of steps taken by the Government to introduce serialization requirements for drugs distributed in India. In 2015, Health Ministry introduced a draft amendment to the D&C Rules to require all manufacturers of drug formulations to print barcodes on all primary, secondary and tertiary packaging to increase traceability of drug formulations ("Draft Amendment").24 The Draft Amendment also required the manufacturer to store the traceability data on a portal set up by the Central Government for such purpose. However, the Draft Amendment was never brought into force. In May 2018, the DTAB also proposed the introduction of a track and trace system to be implemented by 300 major pharmaceutical brands on a voluntary basis.25
+
+At present, serialization/track and trace requirements are only applicable in case of drugs that are being exported out of India and are regulated by the Director General of Foreign Trade under the Ministry of Commerce and Industry as opposed to the Health Ministry that is otherwise in charge of regulating drugs.26
+
+Conclusion
+
+We hope to achieve more clarity with respect to some of the above-mentioned such as the status of the e-cigarettes, e-pharmacies and the requirements of QR codes on drug packaging by the end of the year. The Indian pharma industry is poised to grow exponentially in the coming few years. We are seeing an increase in government support and encouragement towards pharma companies, especially with respect to start-ups. We are excited to see what the rest of 2019 has in store for us!
+
+Footnotes
+
+1. Notification dated March 19, 2019 by Ministry of Health and Family Welfare, available at: https://cdsco.gov.in/opencms/opencms/system/modules/CDSCO.WEB/elements/download_file_division.jsp?num_id=NDU0Mg== (Last Accessed August 15, 2019).
+
+2. News article on 'Health ministry to conduct first stakeholders meet for revision of NLEM 2015 on July 25', dated July 24, 2019 available at: http://pharmabiz.com/NewsDetails.aspx?aid=117114&sid=1 (Last Accessed August 15, 2019).
+
+3. Order by Ministry of Health and Family Welfare dated July 03, 2018, available at: https://cdsco.gov.in/opencms/opencms/system/modules/CDSCO.WEB/elements/common_download.jsp?num_id_pk=NTc= (Last Accessed August 15, 2019).
+
+4. News article on 'Government shortlists hygiene products to be brought under price control', dated August 25, 2019 available at: https://www.livemint.com/science/health/government-shortlists-hygiene-products-to-be-brought-under-price-control-1566710834857.html (Last Accessed August 15, 2019).
+
+5. News article on 'Adding hygiene products to NLEM won't lead to their price control: Govt', dated August 26, 2019 available at: https://www.thehindubusinessline.com/economy/adding-hygiene-products-to-nlem-wont-lead-to-their-price-control-govt/article29261897.ece (Last Accessed August 15, 2019).
+
+6. Office Memorandum by National Pharmaceutical Pricing Authority dated May 15, 2019, available at: http://www.nppaindia.nic.in/wp-content/uploads/2019/05/Scan0114.pdf (Last Accessed August 15, 2019).
+
+7. Order by National Pharmaceutical Pricing Authority dated February 27, 2019, available at: http://egazette.nic.in/WriteReadData/2019/198807.pdf (Last Accessed August 15, 2019).
+
+8. Revised MRP of non-scheduled cancer medicines by National Pharmaceutical Pricing Authority dated March 08, 2019, available at: http://www.nppaindia.nic.in/wp-content/uploads/2019/03/Brands-List-for-OM.pdf (Last Accessed August 15, 2019).
+
+9. Press Information Bureau release dated March 08, 2019, available at: http://pib.nic.in/newsite/PrintRelease.aspx?relid=189343 (Last Accessed August 15, 2019).
+
+10. Notification dated June 24, 2019 by Ministry of Health and Family Welfare, available at: http://egazette.nic.in/WriteReadData/2019/206108.pdf (Last Accessed August 15, 2019).
+
+11. News article on Union Health Ministry's proposal to classify ENDS devices as 'drugs' sent to Attorney General, dated July 04, 2019 available at: https://economictimes.indiatimes.com/industry/healthcare/biotech/healthcare/union-health-ministrys-proposal-to-classify-ends-devices-as-drugs-sent-to-attorney-general/articleshow/70072799.cms?from=mdr (Last Accessed August 15, 2019).
+
+12. Advisory dated August 28, 2018 by Ministry of Health and Welfare, available at: https://mohfw.gov.in/newshighlights/advisory-electronic-nicotine-delivery-systems-ends-including-e-cigarettes-heat-not (Last Accessed August 15, 2019).
+
+13. Circular dated November 27, 2018 by Central Board of Indirect Taxes and Customs, available at: http://www.cbic.gov.in/resources//htdocs-cbec/customs/cs-circulars/cs-circulars-2018/Circular-46-2018-Customs.pdf;jsessionid=9FC34600D43298D09E3D1C265319ACC6 (Last Accessed August 15, 2019).
+
+14. News article dated December 28, 2018 on Govt restricts import of e-cigarettes available at: https://www.thehindubusinessline.com/economy/policy/govt-restricts-import-of-e-cigarettes/article25850299.ece.
+
+15. Order by Delhi High Court dated March 18, 2019 in M/s. Focus Brands (India) Pvt. Ltd. & Anr. v. Directorate General of Health Services & Ors. W.P.(C) 2688/2019 (Last Accessed August 15, 2019).
+
+16. Order by Bombay High Court dated July 30, 2019 by Bombay High Court in Godfrey Philips India Ltd. & Anr. V. The State of Maharashtra & Ors. W.P.(C) 3690 of 2019 (Last Accessed August 15, 2019).
+
+17. Minutes of Meetings of the 56th Drugs Consultative Committee held on June 01, 2019 available at: https://cdsco.gov.in/opencms/opencms/system/modules/CDSCO.WEB/elements/common_download.jsp?num_id_pk=OTE1 (Last Accessed August 15, 2019).
+
+18. Minutes of Meetings of the 48th Drugs Consultative Committee held on July 24, 2015 available at: https://cdsco.gov.in/opencms/resources/UploadCDSCOWeb/2018/UploadCommitteeFiles/48dcc.pdf (Last Accessed August 15, 2019).
+
+19. Notification dated March 20, 2019 by Ministry of Health and Family Welfare, available at: http://egazette.nic.in/WriteReadData/2019/200553.pdf (Last Accessed August 15, 2019).
+
+20. Ibid.
+
+21. Notification dated April 26, 2018 by Ministry of Health and Family Welfare, available at: http://egazette.nic.in/WriteReadData/2018/185026.pdf (Last Accessed August 15, 2019).
+
+22. Order by the Cosmetics Division of the Central Drugs Control Organization dated June 17, 2019, available at: https://cdsco.gov.in/opencms/opencms/system/modules/CDSCO.WEB/elements/download_file_division.jsp?num_id=NDUwNw== (Last Accessed August 15, 2019).
+
+23. Minutes of Meetings of the 82nd Drugs Technical Advisory Board held on April 02, 2019, available at: https://cdsco.gov.in/opencms/opencms/system/modules/CDSCO.WEB/elements/common_download.jsp?num_id_pk=ODc5 (Last Accessed August 15, 2019).
+
+24. Notification dated June 03, 2015 by Ministry of Health and Family Welfare, available at: http://egazette.nic.in/WriteReadData/2015/164394.pdf (Last Accessed August 15, 2019).
+
+25. Minutes of Meetings of the 79th Drugs Technical Advisory Board held on May 16, 2018, available at: https://cdsco.gov.in/opencms/opencms/system/modules/CDSCO.WEB/elements/common_download.jsp?num_id_pk=NTY4 (Last Accessed August 15, 2019).
+
+26. Public Notice 16/2015-20 by Directorate General of Foreign Trade dated July 04, 2019, available at: https://dgft.gov.in/sites/default/files/PN%2016%20dt.%204.07.2019%20Eng_3.pdf (Last Accessed August 15, 2019).
+
+The content of this article is intended to provide a general guide to the subject matter. Specialist advice should be sought about your specific circumstances.

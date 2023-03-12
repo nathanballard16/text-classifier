@@ -1,0 +1,23 @@
+GM crops: Farmers clear, politics muddled
+
+For farmers, pests and weeds are a major cause of crop losses, due to which the varieties/hybrids grown by them cannot realise their genetic yield potential. (Representational Image/Gurmeet Singh)
+
+Conventional crop breeding was about selection and crossing of plants within the same genus, to produce offspring with the desired traits of both parents. Even in the Green Revolution, the dwarfing genes that Norman Borlaug used for developing high-yielding wheat plants with shorter and stronger stalks — allowing them to bear the weight of the extra grain from increased fertiliser application — were sourced from a Japanese wheat variety, Norin-10.
+
+Genetic modification (GM), by contrast, has involved transcending these natural breeding barriers. The genes didn’t any longer need to be selected from within the same species (say, Triticum aestivum or common wheat), genus (Triticum) or even kingdom (Plantae). The breeder could actually take genes from animals or bacteria and insert these into a host plant.
+
+ALSO READ | No risks reported from GM crops grown for decades: FSSAI scientist
+
+Thus, Bt cotton has two alien genes, ‘cry1Ac’ and ‘cry2Ab’, isolated from a soil bacterium, Bacillus thuringiensis, and coding for proteins toxic to specific bollworm insects. The same ‘cry1Ac’ gene has also been incorporated in brinjal to confer ‘in-built’ resistance against the fruit and shoot borer. In both cases, GM technology has been deployed for minimising crop damage from pests that cannot be effectively controlled through spraying insecticides.
+
+The object of the latest controversy is HTBt cotton. It is basically Bt cotton containing a third gene, ‘cp4-epsps’, derived from another soil bacterium, Agrobacterium tumefaciens. This gene produces a modified protein that enables the plant to ‘tolerate’ the application of glyphosate, a chemical herbicide. Farmers cannot spray glyphosate on normal cotton as the chemical cannot distinguish between weeds and the crop itself. But with Herbicide Tolerant Bt cotton, they don’t have to rely on manual labour to remove weeds that compete with the plant for nutrients, water and sunlight.
+
+For farmers, pests and weeds are a major cause of crop losses, due to which the varieties/hybrids grown by them cannot realise their genetic yield potential.
+
+The fourth GM crop, which was in the news not too long back, is hybrid mustard. Breeders have always exploited the hybrid vigour resulting from crossing two genetically dissimilar plant varieties even within the same species. Their first-generation offspring tend to have yields higher than what either parent can individually give. In mustard, such possibilities are limited, simply because the flowers have both female (pistil) and male (stamen) reproductive organs. To the extent that the egg cells of one plant cannot be fertilised by the pollen from the stamen of the other, it restricts the scope for developing hybrids.
+
+With GM technology — entailing the introduction of a male sterility-causing ‘Barnase’ gene in one plant and a ‘Barstar’ gene blocking the former’s action in the other — the yield benefits from hybridisation and making crosses from a diverse genetic pool, both native and exotic, can be extended to mustard. The two genes are, again, derived from a soil bacterium called Bacillus amyloliquefaciens.
+
+The opposition to GM crops is clearly not from farmers. Were that so, the global annual area planted under them wouldn’t have risen from a mere 1.7 million to nearly 190 million hectares between 1996 and 2017. Roughly 93 per cent of India’s cotton area is today covered by Bt hybrids; nobody forced farmers to cultivate these, unlike what the British did to Champaran’s indigo growers. The opposition is, instead, coming primarily from environmental activists, who are raising issues based more on ethics, ‘tampering with Mother Nature’ and ideology. The treatment of GM crops as “hazardous substances” under the Environment Protection Act, 1986 — again guided by fear of the unknown than strictly scientific rationale — has not helped either.
+
+Whether to permit cultivation of HTBt cotton, Bt brinjal or transgenic hybrid mustard will ultimately be a political call. Maharashtra and Haryana farmers launching a ‘civil disobedience’ movement to assert their right to plant these, of course, adds a new dimension to that.

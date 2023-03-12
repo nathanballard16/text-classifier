@@ -29,13 +29,14 @@ Data:
        protest_path: ./data/gdelt/India_Protest/
        threaten_path: ./data/gdelt/India_Threaten/
        umv_path: ./data/gdelt/India_UMV/
-       total_files: 750
+       total_files: 1000
    - Labeled_Data:
        assault_path: ./data/GDELT_Labeled/Assault
        fight_path: ./data/GDELT_Labeled/Fight
        protest_path: ./data/GDELT_Labeled/Protest
        threaten_path: ./data/GDELT_Labeled/Threaten
        umv_path: ./data/GDELT_Labeled/UMV
+       bbc_tech: ./data/bbc/tech
    - Labeled_files:
        assault_file: ./data/GDELT_Labeled/assault_labeled.csv
        fight_file: ./data/GDELT_Labeled/fight_labeled.csv

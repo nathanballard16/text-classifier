@@ -1,0 +1,23 @@
+India and China rule derivatives trade
+
+The World Federation of Exchanges (WFE), a global industry group for exchanges and clearing houses, recently released statistics on exchange-traded derivatives traded during 2018 across 48 major global exchanges. The data throw up interesting insights on the dynamics of the derivatives traded in exchanges across geographies and asset classes, including commodity derivatives.
+
+At the macro level, volumes of commodity derivatives traded increased marginally (0.6 per cent) in 2018 over 2017, estimated at 5.9 million contracts. The insipid performance was the outcome of a 1.4 per cent decline in the Asia-Pacific region where the major share (55 per cent) of the global volumes are traded. The decline was offset by increases in volumes in the Americas and in Europe, Middle East, Asia (EMEA) regions of 3.3 per cent and 3 per cent, respectively. The commodity derivative markets continued to show a strong concentration of futures instruments, with less than 5 per cent of the total volume of commodity derivatives traded in 2018 constituting options volume.
+
+Within the commodity derivative markets, the three Chinese commodity exchanges, together with an Indian commodity exchange — the Multi Commodity Exchange (MCX) — captured close to 55 per cent of the global commodity derivative trade by volume in 2018. Three out of the top four commodity exchanges were Chinese. Moreover, as many as six out of the global top 10 commodity contracts — steel rebar, soybean meal futures, iron ore futures, etc — were traded in these three exchanges, with Shanghai Futures Exchange’s (SHFE) steel rebar futures being the world’s most traded contract. This demonstrates the potential for more such products in the Indian market, too, which is similar in many ways to the Chinese market.
+
+An analysis of the different segments of the traded commodity derivative contracts also throws up interesting insights. Agricultural commodities led the pack with 1.9 billion contracts traded in global commodity exchanges in 2018, up 10 per cent over 2017, in stark contrast to the Indian commodity derivative market. In a clear sign of continued financialisation of commodities, index commodity derivatives grew from a mere 113 thousand contracts in 2017 to about 1.5 million contracts in 2018. This is a positive trend rhyming well with the Indian market where one may soon witness introduction of F&O on commodity indices.
+
+MCX in spotlight
+
+The WFE report also highlights noteworthy achievements of the only Indian commodity exchange among the global top 10 — MCX. Volume on MCX grew 16 per cent YoY in 2018, which is significant considering four factors. One is the virtual stagnation witnessed in the global commodity derivatives volume growth, as noted above. Secondly, two of the three Chinese exchanges had witnessed significant negative growth during the year.
+
+Three, other than MCX, only two other top commodity exchanges — Zhengzhou Commodity Exchange and London Metal Exchange — witnessed growth. Four, MCX’s growth has been in volume as well as value terms.
+
+The last factor effectively debunks the rationale that growth in commodity exchanges is largely an outcome of increase in the underlying commodities’ prices. Open interest on MCX grew 4 per cent even when that in CME Group, the world’s largest commodity exchange, experienced de-growth.
+
+Finally, traded volumes within different commodity segments again make MCX stand out in the league of global commodity exchanges. According to the WFE report, the exchange remained the fourth largest exchange in 2018 both in the precious and non-precious metals segments —the annual growth of 20 per cent in the latter being the highest among the top five commodity exchanges in this product segment.
+
+With reforms currently underway in India’s commodity markets and the expected growth in institutional participation, MCX should put Indian commodity derivative markets in a prominent place in the global map of commodity markets.
+
+The writer is Head, Research, at MCX

@@ -5,25 +5,23 @@ import collections
 import pathlib
 
 import tensorflow as tf
-
+import matplotlib.pyplot as plt
 from tensorflow.keras import layers
 from tensorflow.keras import losses
 from tensorflow.keras import utils
 from tensorflow.keras.layers import TextVectorization
 
-import tensorflow_datasets as tfds
-import tensorflow_text as tf_text
 
-train_dir = 'data/bbc'
+train_dir = 'data/GDELT_Labeled/RNN_Articles/RNN_1000'
 dataset_dir = pathlib.Path(train_dir)
 print(list(dataset_dir.iterdir()))
 
-sample_file = train_dir + '/business/005.txt'
+sample_file = train_dir + '/Assault/2.txt'
 
 with open(sample_file) as f:
     print(f.read())
 
-batch_size = 32
+batch_size = 30
 seed = 42
 
 # Create a training set
@@ -180,7 +178,7 @@ export_model.compile(
 # Test it with `raw_test_ds`, which yields raw strings
 loss, accuracy = export_model.evaluate(raw_test_ds)
 print("Accuracy: {:2.2%}".format(binary_accuracy))
-export_model.save('models/rnn_model')
+export_model.save('data/GDELT_Labeled/model_out_1000/rnn_model')
 
 
 def get_string_labels(predicted_scores_batch):
@@ -188,6 +186,34 @@ def get_string_labels(predicted_scores_batch):
     predicted_labels = tf.gather(raw_train_ds.class_names, predicted_int_labels)
     return predicted_labels
 
+def plot_history(history):
+    acc = history.history['accuracy']
+    val_acc = history.history['val_accuracy']
+    loss = history.history['loss']
+    val_loss = history.history['val_loss']
+    x = range(1, len(acc) + 1)
+
+    plt.figure(figsize=(12, 5))
+    plt.subplot(1, 2, 1)
+    plt.plot(x, acc, 'b', label='Training acc')
+    plt.plot(x, val_acc, 'r', label='Validation acc')
+    plt.title('Training and validation accuracy')
+    plt.legend()
+    plt.xlabel('Epochs')
+    plt.ylabel('Accuracy')
+
+    plt.subplot(1, 2, 2)
+    plt.plot(x, loss, 'b', label='Training loss')
+    plt.plot(x, val_loss, 'r', label='Validation loss')
+    plt.title('Training and validation loss')
+    plt.legend()
+    plt.xlabel('Epochs')
+    plt.ylabel('Loss')
+    plt.show()
+    # plt.savefig('images/cnn_model/training_and_val_acc.png')
+
+
+plot_history(history)
 
 with open('data/testArticle.txt', encoding="utf8") as f:
     lines = f.readlines()

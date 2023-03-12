@@ -13,7 +13,7 @@ from tensorflow.keras.optimizers import Adam
 from keras.utils.vis_utils import plot_model
 from keras.preprocessing.text import Tokenizer
 from keras.preprocessing import sequence
-from keras.preprocessing.sequence import pad_sequences
+from tensorflow.keras.preprocessing.sequence import pad_sequences
 from keras.callbacks import EarlyStopping
 from keras.models import load_model
 import warnings
@@ -22,26 +22,23 @@ import pickle
 warnings.filterwarnings('ignore')
 pd.set_option("display.max_rows", None, "display.max_columns", None)
 
-path_df = "data/News_dataset.pickle"
+path_df = "data/GDELT_Labeled/train_test_100/df.pickle"
 with open(path_df, 'rb') as data:
     df = pickle.load(data)
 
+# print(df)
 # Change when new labels are applied
-category_id = []
-for value in df["Category"]:
-    if value == 'business':
-        category_id.append('0')
-    elif value == 'entertainment':
-        category_id.append('1')
-    elif value == 'politics':
-        category_id.append('2')
-    elif value == 'sport':
-        category_id.append('3')
-    elif value == 'tech':
-        category_id.append('4')
-
-df["category_id"] = category_id
-df['category_id'] = df.Category.factorize()[0]
+# category_id = []
+# for value in df["Category"]:
+#     if value == 'Protest':
+#         category_id.append('1')
+#     elif value == 'UMV':
+#         category_id.append('2')
+#     elif value == 'Assault':
+#         category_id.append('0')
+#
+# df["Category_Code"] = category_id
+# df['category_id'] = df.Category.factorize()[0]
 
 
 def preprocess_text(sen):
@@ -66,16 +63,17 @@ print(df[::100])
 # set parameters:
 max_features = 20000
 maxlen = 400
-batch_size = 32
+batch_size = 25
 embedding_dims = 50
 filters = 250
 kernel_size = 3
 hidden_dims = 250
 epochs = 5
 
+
 X = df['Content'].values
-y = df['category_id']
-y = to_categorical(y, num_classes=5)
+y = df['Category_Code']
+y = to_categorical(y, num_classes=3)
 print(y.shape)
 
 print('Loading data...')
@@ -128,7 +126,7 @@ model.add(Dropout(0.2))
 model.add(Activation('relu'))
 
 # We project onto a single unit output layer, and squash it with a sigmoid:
-model.add(Dense(5))
+model.add(Dense(3))
 model.add(Activation('sigmoid'))
 
 model.compile(loss='binary_crossentropy',
@@ -177,10 +175,11 @@ def plot_history(history):
     plt.legend()
     plt.xlabel('Epochs')
     plt.ylabel('Loss')
+    plt.show()
     plt.savefig('images/cnn_model/training_and_val_acc.png')
 
 
 plot_history(history)
 
-model.save('models/cnn_model/CNN.h5')
-model.save_weights('models/cnn_model/CNN_weights.h5')
+model.save('data/GDELT_Labeled/model_out_100/CNN.h5')
+model.save_weights('data/GDELT_Labeled/model_out_100/CNN_weights.h5')

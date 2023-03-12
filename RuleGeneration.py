@@ -28,6 +28,7 @@ from textCleaning import clean_data
 # nltk.downloader.download('punkt')
 # nltk.download('averaged_perceptron_tagger')
 # nltk.download('stopwords')
+# nltk.download('wordnet')
 
 ABSTAIN = -1
 NOT_UNREST = 0
@@ -58,7 +59,12 @@ def create_lfs(data):
 def read_labeled_data(data, label):
     df = pd.read_csv(data['Data'][2]['Labeled_files'][label])
     df_ones = df[df.labels == 1]
-    # return df_ones.sample(n=int(data['Data'][0]['Raw_Data']['total_files']))
+    df_zeros = df[df.labels == 0]
+    # sample_1 = df_ones.sample(n=int((data['Data'][0]['Raw_Data']['total_files'])))
+    # sample_0 = df_zeros.sample(n=int(133))
+    # sample_0 = df_zeros.sample(n=int((data['Data'][0]['Raw_Data']['total_files'])/4))
+    # df_all = pd.concat([sample_0, sample_1])
+    # print(df_all)
     return df_ones
 
 
@@ -134,6 +140,30 @@ def create_first_data_source(files_folder):
     return file_data
 
 
+# def merge_data_sources(first_df, second_df_link, labeled_file):
+#     files_folder = second_df_link
+#     file_names = os.listdir(files_folder)
+#     # Create Dictionary for File Name and Text
+#     file_name_and_text = {}
+#     for file in file_names:
+#         with open(files_folder + '/' + file, "r", encoding='cp1252') as target_file:
+#             file_name_and_text[file] = target_file.read()
+#     file_data = (pd.DataFrame.from_dict(file_name_and_text, orient='index')
+#                  .reset_index().rename(index=str, columns={'index': 'file_name', 0: 'text'}))
+#     file_data['text_length'] = file_data['text'].str.len()
+#     # file_data['max_length'] = int(file_data['text_length'].quantile(.95))
+#     df_all = file_data.merge(first_df.drop_duplicates(), on=['file_name', 'text'],
+#                              how='left', indicator=True)
+#     df1_only = df_all[df_all['_merge'] == 'left_only']
+#     df1_only = df1_only.drop('_merge', axis=1)
+#     df1_only = df1_only.drop('text_length_y', axis=1)
+#     df1_only = df1_only.rename(columns={"text_length_x": "text_length"})
+#
+#     final_df = pd.concat([first_df, df1_only])
+#     final_df['labels'] = np.where(final_df['labels'] != 1, int(0), final_df['labels'])
+#     final_df['max_length'] = int(file_data['text_length'].quantile(.95))
+#     final_df.to_csv(labeled_file, sep=',')
+
 def merge_data_sources(first_df, second_df_link, labeled_file):
     files_folder = second_df_link
     file_names = os.listdir(files_folder)
@@ -144,6 +174,7 @@ def merge_data_sources(first_df, second_df_link, labeled_file):
             file_name_and_text[file] = target_file.read()
     file_data = (pd.DataFrame.from_dict(file_name_and_text, orient='index')
                  .reset_index().rename(index=str, columns={'index': 'file_name', 0: 'text'}))
+
     file_data['text_length'] = file_data['text'].str.len()
     # file_data['max_length'] = int(file_data['text_length'].quantile(.95))
     df_all = file_data.merge(first_df.drop_duplicates(), on=['file_name', 'text'],
@@ -156,8 +187,8 @@ def merge_data_sources(first_df, second_df_link, labeled_file):
     final_df = pd.concat([first_df, df1_only])
     final_df['labels'] = np.where(final_df['labels'] != 1, int(0), final_df['labels'])
     final_df['max_length'] = int(file_data['text_length'].quantile(.95))
+    # print(final_df)
     final_df.to_csv(labeled_file, sep=',')
-
 
 def save_training_data(df, category_codes):
     df = df.drop(columns=['text_length', 'max_length', 'average_sentiment', 'locations', 'name_0', 'name_1', 'name_2',
@@ -260,9 +291,12 @@ def run_rule_generation(label, labeled_file, golden_path_label, lfs, applier):
     # create_lfs(data)
     # print('Creating Labeled CSV File:')
     first_df = create_first_data_source(data['Data'][1]['Labeled_Data'][label])
-    merge_data_sources(first_df, data['Data'][3]['GoldenDataset'][golden_path_label],
+    merge_data_sources(first_df, './data/bbc/tech/',
                        data['Data'][2]['Labeled_files'][labeled_file])
+    # bbc_data = create_first_data_source('./data/bbc/tech/')
+    # bbc_data.to_csv('./data/GDELT_Labeled/bbc_labeled.csv', sep=',')
     labeled_df = read_labeled_data(data, labeled_file)
+    # print(labeled_df)
     raw_data_df = read_unlabeled_data(data, label)
     # print('Getting Average Sentiment ...')
     sentiment = average_sentiment(raw_data_df)

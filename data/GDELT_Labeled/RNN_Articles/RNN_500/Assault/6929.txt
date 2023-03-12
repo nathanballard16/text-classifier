@@ -1,0 +1,23 @@
+WhatsApp is reportedly testing fingerprint security and blocking screenshots
+
+This comes as Facebook is trying to handle security issues.
+
+The feature is on one of the latest beta updates, which is available only to developers, WABetaInfo, a site that monitors changes on the app, reported.
+
+It is apparently optional in security settings and, per WABetaInfo, comes with an explanation reading, "When enabled, fingerprint is required to open WhatsApp and conversation screenshots are blocked. You can still reply to messages from notifications and answer calls if WhatsApp is locked."
+
+If a user enables the feature, that user can't then take screenshots of a conversation, according to WABetaInfo. It's unclear if this also restricts the ability to take screenshots for people with whom the user is conversing.
+
+This beta update comes after Facebook CEO Mark Zuckerberg's recent statement on rebranding the company and its subsidiaries to become a "privacy-focused messaging and social networking platform." Facebook acquired WhatsApp in a $19 billion deal in February 2014.
+
+Zuckerberg said he wants to create interoperability -- the ability to use a software seamlessly -- while making sure it "doesn't compromise the expectation of encryption that people already have using WhatsApp."
+
+But the company's plan to create an all-encompassing messaging platform has experts and users concerned about their privacy and end-to-end encryption technology, which is supposed to protect messages between the sender and receiver so no one else, including WhatsApp itself, is able to read them.
+
+Facebook has not responded to ABC News' request for comment on the new features.
+
+Last year, Instagram, which is also owned by Facebook, tested a function on screen-grabbing that notified users if a follower took a screenshot of a story, which is displayed on the app for 24 hours. That feature has since been removed, however.
+
+Facebook has boasted the security of end-to-end encryption of WhatsApp messages since April 2016, but it has yet to tackle some of WhatsApp's other pressing problems including misinformation, fake news and child pornography.
+
+TechCrunch investigations reported WhatsApp failed to police its platforms as multiple groups of child pornography videos are allegedly shared freely, in an encrypted environment. BuzzFeed also reported last year on the death of five nomads in the village of Rainpada, India, who were killed by villagers after a misleading video on WhatsApp warned people of outsiders abducting children.

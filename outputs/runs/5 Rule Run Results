@@ -1,0 +1,50 @@
+100:
+validate metrics
+{'f1': 0.8700564971751413, 'accuracy': 0.77, 'precision': 0.8020833333333334, 'recall': 0.9506172839506173}
+                  j Polarity  Coverage  ...  Correct  Incorrect  Emp. Acc.
+dataset_location  0      [1]      0.41  ...       29         12   0.707317
+article_length    1      [1]      0.96  ...       80         16   0.833333
+gdelt_definition  2      [1]      0.93  ...       75         18   0.806452
+named_entities    3      [1]      0.31  ...       18         13   0.580645
+sentiment_score   4      [1]      1.00  ...       81         19   0.810000
+
+250:
+validate metrics
+{'f1': 0.8839285714285714, 'accuracy': 0.792, 'precision': 0.792, 'recall': 1.0}
+                  j Polarity  Coverage  ...  Correct  Incorrect  Emp. Acc.
+dataset_location  0      [1]     0.444  ...       75         36   0.675676
+article_length    1      [1]     0.960  ...      191         49   0.795833
+gdelt_definition  2      [1]     0.912  ...      176         52   0.771930
+named_entities    3      [1]     0.624  ...      119         37   0.762821
+sentiment_score   4      [1]     0.996  ...      197         52   0.791165
+
+500:
+validate metrics
+{'f1': 0.8948545861297539, 'accuracy': 0.8097165991902834, 'precision': 0.8097165991902834, 'recall': 1.0}
+                  j Polarity  Coverage  ...  Correct  Incorrect  Emp. Acc.
+dataset_location  0      [1]  0.467611  ...      168         63   0.727273
+article_length    1      [1]  0.959514  ...      388         86   0.818565
+gdelt_definition  2      [1]  0.919028  ...      363         91   0.799559
+named_entities    3      [1]  0.605263  ...      228         71   0.762542
+sentiment_score   4      [1]  0.993927  ...      398         93   0.810591
+
+1000:
+validate metrics
+{'f1': 0.8772727272727274, 'accuracy': 0.7813765182186235, 'precision': 0.8041666666666667, 'recall': 0.965}
+                  j Polarity  Coverage  ...  Correct  Incorrect  Emp. Acc.
+dataset_location  0      [1]  0.467611  ...      168         63   0.727273
+article_length    1      [1]  0.959514  ...      388         86   0.818565
+gdelt_definition  2      [1]  0.919028  ...      363         91   0.799559
+named_entities    3      [1]  0.611336  ...      233         69   0.771523
+sentiment_score   4      [1]  0.993927  ...      398         93   0.810591
+
+2000:
+{'f1': 0.8772727272727274, 'accuracy': 0.7813765182186235, 'precision': 0.8041666666666667, 'recall': 0.965}
+                  j Polarity  Coverage  ...  Correct  Incorrect  Emp. Acc.
+dataset_location  0      [1]  0.467611  ...      168         63   0.727273
+article_length    1      [1]  0.959514  ...      388         86   0.818565
+gdelt_definition  2      [1]  0.919028  ...      363         91   0.799559
+named_entities    3      [1]  0.617409  ...      235         70   0.770492
+sentiment_score   4      [1]  0.993927  ...      398         93   0.810591
+
+

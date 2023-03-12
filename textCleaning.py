@@ -113,6 +113,19 @@ def clean_data(df, category_codes):
     # # print(df.loc[[1313]])
     # # print(category_codes)
     # df['Category_Code'].to_csv('np.txt', sep='\t', index=False)
+    for ind in df.index:
+        if df['Category_Code'][ind] == 0:
+            # print(df['Content'][ind])
+            with open('data/GDELT_Labeled/RNN_Articles/RNN_1000/Assault/' + df['File_Name'][ind], 'w') as f:
+                f.write(df['Content'][ind])
+        elif df['Category_Code'][ind] == 1:
+            # print(df['Content'][ind])
+            with open('data/GDELT_Labeled/RNN_Articles/RNN_1000/Protest/' + df['File_Name'][ind], 'w') as f:
+                f.write(df['Content'][ind])
+        elif df['Category_Code'][ind] == 2:
+            # print(df['Content'][ind])
+            with open('data/GDELT_Labeled/RNN_Articles/RNN_1000/UMV/' + df['File_Name'][ind], 'w') as f:
+                f.write(df['Content'][ind])
     X_train, X_test, y_train, y_test = train_test_split(df['Content_Parsed'],
                                                         df['Category_Code'],
                                                         test_size=0.15,
@@ -159,41 +172,41 @@ def clean_data(df, category_codes):
         # print("")
 
     # X_train
-    with open('./data/GDELT_Labeled/train_test/X_train.pickle', 'wb') as output:
+    with open('data/GDELT_Labeled/train_test_1000/X_train.pickle', 'wb') as output:
         pickle.dump(X_train, output)
 
     # X_test
-    with open('./data/GDELT_Labeled/train_test/X_test.pickle', 'wb') as output:
+    with open('data/GDELT_Labeled/train_test_1000/X_test.pickle', 'wb') as output:
         pickle.dump(X_test, output)
 
     # y_train
-    with open('./data/GDELT_Labeled/train_test/y_train.pickle', 'wb') as output:
+    with open('data/GDELT_Labeled/train_test_1000/y_train.pickle', 'wb') as output:
         pickle.dump(y_train, output)
 
     # y_test
-    with open('./data/GDELT_Labeled/train_test/y_test.pickle', 'wb') as output:
+    with open('data/GDELT_Labeled/train_test_1000/y_test.pickle', 'wb') as output:
         pickle.dump(y_test, output)
 
     # df
-    with open('./data/GDELT_Labeled/train_test/df.pickle', 'wb') as output:
+    with open('data/GDELT_Labeled/train_test_1000/df.pickle', 'wb') as output:
         pickle.dump(df, output)
 
     # features_train
-    with open('./data/GDELT_Labeled/train_test/features_train.pickle', 'wb') as output:
+    with open('data/GDELT_Labeled/train_test_1000/features_train.pickle', 'wb') as output:
         pickle.dump(features_train, output)
 
     # labels_train
-    with open('./data/GDELT_Labeled/train_test/labels_train.pickle', 'wb') as output:
+    with open('data/GDELT_Labeled/train_test_1000/labels_train.pickle', 'wb') as output:
         pickle.dump(labels_train, output)
 
     # features_test
-    with open('./data/GDELT_Labeled/train_test/features_test.pickle', 'wb') as output:
+    with open('data/GDELT_Labeled/train_test_1000/features_test.pickle', 'wb') as output:
         pickle.dump(features_test, output)
 
     # labels_test
-    with open('./data/GDELT_Labeled/train_test/labels_test.pickle', 'wb') as output:
+    with open('data/GDELT_Labeled/train_test_1000/labels_test.pickle', 'wb') as output:
         pickle.dump(labels_test, output)
 
     # TF-IDF object
-    with open('./data/GDELT_Labeled/train_test/tfidf.pickle', 'wb') as output:
+    with open('data/GDELT_Labeled/train_test_1000/tfidf.pickle', 'wb') as output:
         pickle.dump(tfidf, output)

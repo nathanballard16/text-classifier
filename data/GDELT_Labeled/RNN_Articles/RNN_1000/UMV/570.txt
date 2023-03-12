@@ -1,0 +1,17 @@
+
+
+System error
+
+error: Can't call method "get_id" on an undefined value at /usr/local/bricolage/data/burn/stage/oc_1027/smetimes/dhandler.html line 25.
+
+context: ... 21: </%method> 22: 23: % foreach my $c (@categories) { 24: <%perl> 25: my $category_id = $c->get_id(); 26: my @stories = Bric::Biz::Asset::Business::Story->list ( { element_type_id=>1148, category_id=>$category_id , Order=> 'cover_date', publish_status => 't' , OrderDirection=> 'DESC' , Limit=>10 } ); 27: </%perl> 28: <table width="90%" border="0" cellspacing="0" cellpadding="0"> 29: <tr> ... code stack: /usr/local/bricolage/data/burn/stage/oc_1027/smetimes/dhandler.html:25
+
+/usr/share/perl5/HTML/Mason/Request.pm:951
+
+/var/cache/mason/obj/1784076917/main/smetimes/dhandler.html.obj:17
+
+/usr/local/bricolage/data/burn/stage/oc_1027/smetimes/autohandler_template.html:149
+
+
+
+Can't call method "get_id" on an undefined value at /usr/local/bricolage/data/burn/stage/oc_1027/smetimes/dhandler.html line 25. Trace begun at /usr/share/perl5/HTML/Mason/Exceptions.pm line 129 HTML::Mason::Exceptions::rethrow_exception('Can\'t call method "get_id" on an undefined value at /usr/local/bricolage/data/burn/stage/oc_1027/smetimes/dhandler.html line 25.^J') called at /usr/local/bricolage/data/burn/stage/oc_1027/smetimes/dhandler.html line 25 HTML::Mason::Commands::__ANON__ at /usr/share/perl5/HTML/Mason/Component.pm line 160 HTML::Mason::Component::run_dynamic_sub('HTML::Mason::Component::FileBased=HASH(0x7f048b9f8ba0)', 'main') called at /usr/share/perl5/HTML/Mason/Request.pm line 951 HTML::Mason::Request::call_dynamic('HTML::Mason::Request::ApacheHandler=HASH(0x7f048b9f8c78)', 'main') called at /var/cache/mason/obj/1784076917/main/smetimes/dhandler.html.obj line 17 HTML::Mason::Commands::__ANON__ at /usr/share/perl5/HTML/Mason/Component.pm line 138 HTML::Mason::Component::run('HTML::Mason::Component::FileBased=HASH(0x7f048b9f8ba0)') called at /usr/share/perl5/HTML/Mason/Request.pm line 1305 eval {...} at /usr/share/perl5/HTML/Mason/Request.pm line 1295 HTML::Mason::Request::comp(undef, undef, undef) called at /usr/share/perl5/HTML/Mason/Request.pm line 958 HTML::Mason::Request::call_next('HTML::Mason::Request::ApacheHandler=HASH(0x7f048b9f8c78)') called at /usr/local/bricolage/data/burn/stage/oc_1027/smetimes/autohandler_template.html line 149 HTML::Mason::Commands::__ANON__ at /usr/share/perl5/HTML/Mason/Component.pm line 138 HTML::Mason::Component::run('HTML::Mason::Component::FileBased=HASH(0x7f048ba059d0)') called at /usr/share/perl5/HTML/Mason/Request.pm line 1303 eval {...} at /usr/share/perl5/HTML/Mason/Request.pm line 1295 HTML::Mason::Request::comp(undef, undef, undef) called at /usr/share/perl5/HTML/Mason/Request.pm line 484 eval {...} at /usr/share/perl5/HTML/Mason/Request.pm line 484 eval {...} at /usr/share/perl5/HTML/Mason/Request.pm line 436 HTML::Mason::Request::exec('HTML::Mason::Request::ApacheHandler=HASH(0x7f048b9f8c78)') called at /usr/share/perl5/HTML/Mason/ApacheHandler.pm line 165 HTML::Mason::Request::ApacheHandler::exec('HTML::Mason::Request::ApacheHandler=HASH(0x7f048b9f8c78)') called at /usr/share/perl5/HTML/Mason/ApacheHandler.pm line 831 HTML::Mason::ApacheHandler::handle_request('HTML::Mason::ApacheHandler=HASH(0x7f048afa58d0)', 'Apache2::RequestRec=SCALAR(0x7f048b916658)') called at (eval 487) line 8 HTML::Mason::ApacheHandler::handler('HTML::Mason::ApacheHandler', 'Apache2::RequestRec=SCALAR(0x7f048b916658)') called at -e line 0 eval {...} at -e line 0

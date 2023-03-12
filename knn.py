@@ -135,8 +135,8 @@ def train_knn(input_path, output_path):
 
     df_models_knnc = pd.DataFrame(d, index=[0])
     print(df_models_knnc)
-    with open('india_models/best_knnc.pickle', 'wb') as output:
+    with open(output_path + '/best_knnc.pickle', 'wb') as output:
         pickle.dump(best_knnc, output)
 
-    with open('india_models/df_models_knnc.pickle', 'wb') as output:
+    with open(output_path + 'df_models_knnc.pickle', 'wb') as output:
         pickle.dump(df_models_knnc, output)

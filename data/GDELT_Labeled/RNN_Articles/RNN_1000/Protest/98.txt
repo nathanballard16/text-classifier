@@ -1,0 +1,17 @@
+The Week in Internet News: India Pushes for Sites to Remove ‘Unlawful’ Content, Break Encryption
+
+Not this again: India’s government wants websites and social media platforms to remove content regulators determine as “unlawful” within 24 hours and to create automated tools to identify this material, BuzzFeed reports. The government also wants the tech companies to trace the source of the content, requiring platforms like WhatsApp to break encryption. This follows passage of an Australian law that forces online services to provide the government there with encryption workarounds.
+
+The Wire of India defends the proposal, however, saying it’s aimed at holding websites and social media platform more responsible for the content they distribute.
+
+More blocking: The government of Sudan has shut down most Internet access in the country and blocked access to social media platforms, Rogue Media Labs says. The government blamed the shutdown on massive protests over income inequality and other issues.
+
+Missed assignments: In a related story, some college students in the Indian region of Kashmir have missed deadlines for submitting online application forms of their bachelors of education examination because of frequent and lengthy Internet shutdowns there, reports Kashmir Reader. Students are asking the University of Kashmir to extend its deadline.
+
+Blockchain vs. national security? An ex-CIA official is targeting blockchain, saying the technology represents a bigger threat to U.S. national security than Russia, North Korea, or climate change, Coin Telegraph notes. “The first one to figure out how to hack it, manipulate it or bring it down wins,” Andrew Bustamante wrote in a recent Reddit Q&A.
+
+Bitcoin wallet leaks: An attack on the popular Electrum bitcoin wallet allowed hackers to get away with about US$750,000, CCN.com reports. Developers moved quickly to fix the security hole, which involved malicious servers added to the Electrum network.
+
+AI shoppers: With chatbots, 3D printing, and drone deliveries, Artificial Intelligence is beginning to assist the retail industry in a big way, Wired UK reports. But there’s still room for the human touch, says Federico Marchetti, the chief executive of online luxury retailer YOOX NET-A-PORTER: “Luxury fashion has a human aspect of beauty and emotion. Machines are about speed and information. You have to strike a balance between the two.”
+
+Read about the Freedom on the Net report, which was sponsored by the Internet Society and other organizations.

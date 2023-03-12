@@ -1,7 +1,7 @@
 import pickle
 import pandas as pd
 
-path_pickles = "models/"
+path_pickles = "data/GDELT_Labeled/model_out_100/"
 
 list_pickles = [
     "df_models_gbc.pickle",
@@ -27,3 +27,9 @@ df_summary = df_summary.reset_index().drop('index', axis=1)
 print(df_summary)
 print()
 print(df_summary.sort_values('Test Set Accuracy', ascending=False))
+
+with open('./data/GDELT_Labeled/model_out_100/best_gbc.pickle' , 'rb') as f:
+    lr = pickle.load(f)
+print(lr.classification_report())
+
+

@@ -1,0 +1,23 @@
+Only 17% of firms report cyber attacks: EY
+
+Only 17 per cent of 235 Indian organisations surveyed in the EY Global Information Security Survey 2018-19 report what breaches have taken place in their network systems. This was disclosed in the India edition of the EY survey, released here on Thursday,
+
+The EY report also reveals that while banking and telecom are the most attacked sectors, manufacturing, healthcare, and retail have also faced a significant number of cyber attacks.
+
+Burgess Cooper, Cybersecurity Partner at EY, told BusinessLine that cyber attacks could be for money as well as impact. “When a power plant is attacked, the impact is huge. It could shut cities down. Hence, manufacturing industries are a target for cyber attacks too,” Cooper said. Releasing the report, Gulshan Rai, Cyber Security Chief, Prime Minister’s Office, said there are provisions under the IT Act (such as section 43A) under which “incident reporting is mandatory”.
+
+Further, he said that the Justice Srikrishna committee (of which he was also a member) has recommended making it mandatory to disclose a breach not only to the authority but also to the person whose data has been affected. “That will follow as a law in due course of time. But, there is a thinking in that direction... and it will get strengthened over a period of time,” Rai said.
+
+Rai agreed with what Cooper said that nobody is interested in infecting a system with a virus anymore, but “everyone is looking for a larger game.”
+
+Funding constraints
+
+The EY survey also highlights that organisations have recognised the threat posed by such attacks and 70 per cent plan to increase their cyber security budgets, while 62 per cent of the boards are taking steps to strengthen their understanding of cyber security. However, there are hurdles in the form of budgetary allocations, as only 19 per cent have sufficient budget to achieve the level of security they desire.
+
+Interestingly, 32 per cent think careless or unaware employees were the biggest vulnerability in terms of information security. EY said that there could be some empirical data behind companies feeling this way.
+
+EY reiterated the fact that a company’s employees are the first and last line of defence against cyber attacks. Rai also stressed on the need to create awareness and skill among employees to guard against such attacks.
+
+Malware (22 per cent), phishing (15 per cent) and disruptive cyber attacks (15 per cent) are the top three threats to organisations, the survey said.
+
+Customer information, financial information, and strategic plans of an organisation are the top three most valuable pieces of information coveted by cyber criminals.

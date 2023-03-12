@@ -1,0 +1,33 @@
+Cybersecurity attacks surge in the first half
+
+CYBERSECURITY company Trend Micro, Inc. reported a surge in attacks in the first half, exposing vulnerabilities in businesses.
+
+According to Trend Micro’s midyear round up report “Evasive Threats, Pervasive Effects,” global business email compromise grew by 52% in the first half from the second half of 2018. Ransomware emails jumped by 77%.
+
+Ransomware are malicious software spread through email attachments that deny users access to their data or threaten to publish it until users pay a ransom.
+
+Asia saw almost half (42.98%) of the 1.8 billion global ransomware threats from January 2016 to June 2019. India alone accounted for 23.88%.
+
+The report found that cybercriminals “considered that they could consistently earn as much, or even more, by zeroing in on multinationals, large enterprises, and even government organizations.”
+
+After observing their target businesses, cybercriminals send employees tailored phishing emails and exploit security gaps.
+
+Business email compromise lost US companies over $1.2 billion last year, according to the Federal Bureau of Investigation’s Internet Crime Complaint Center. The scam often involves the hacking of the email accounts of CEOs and high-level executives to persuade employees to conduct wire transfers.
+
+“Sophistication and stealth is the name of the cybersecurity game today, as corporate technology and criminal attacks become more connected and smarter,” Trend Micro Southeast Asia and India Vice President Nilesh Jain said in a press release.
+
+“From attackers, we saw intentional, targeted, and crafty attacks that stealthily take advantage of people, processes and technology. However, on the business side, digital transformation and cloud migrations are expanding and evolving the corporate attack surface. To navigate this evolution, businesses need a technology partner that can combine human expertise with advanced security technologies to better detect, correlate, respond to, and remediate threats,” he added.
+
+The report found stealthy cyberattacks that disguise malicious activity have been on the rise.
+
+“Fileless” attacks went up by 265% compared to the first half of 2018. Fileless attacks or zero-footprint attacks do not need to install malicious software into a computer and instead infect existing applications. Because there is no file download, this kind of attack is difficult for antivirus tools to detect.
+
+Exploit kits, which take advantage vulnerabilities in a computer as users browse the web, increased by 136% in the first half. Exploit kits find security holes in commonly downloaded applications such as Adobe Flash and spread malware there.
+
+In contrast, phishing scams, electronic communications scams that trick users into disclosing personal information like credit card details, have been on the decline.
+
+Trend Micro’s Smart Protection Network noted an 18% drop in blocked access to phishing URLs by unique client IP address. This means that the first half of 2019 saw 3.6 million fewer users who would have been affected by phishing-related websites than the first half of 2018.
+
+The report indicated that the decline “could have certain dynamics at play, such as improved user awareness on phishing scams.”
+
+Trend Micro said it blocked more than 26.8 billion threats globally from January to June, over six billion more than the volume posted in the same period last year. — Jenina P. Ibañez
